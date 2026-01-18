@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,772 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,775 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,6 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 41 | [The Emperor](https://open.spotify.com/track/4TLc0DLS2i0QTdIbpCVl5m) | [ZiNG](https://open.spotify.com/artist/1ytxX7NSpgmIKgBuTUrurp), [Rapbit](https://open.spotify.com/artist/7qtLoCkVxJO9Kykqnpngi1), [濱 健人](https://open.spotify.com/artist/0oWJZpCLadq5y1Ke5E1p6F) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 3:59 |
 | 42 | [開戦](https://open.spotify.com/track/3e3AGf8kQJgYG4O6yxmHda) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 3:21 |
 | 43 | [死闘](https://open.spotify.com/track/3VLswtkkz6KthJVuMW6Qt5) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 2:32 |
-| 44 | [Eccentric Parade](https://open.spotify.com/track/6KSvtbmrUA5gYiFfvgP1Ve) | [鈴木暁也](https://open.spotify.com/artist/1KwSxMK9zQzeJD8j8ugFyG) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 3:37 |
+| 44 | [Eccentric Parade](https://open.spotify.com/track/6KSvtbmrUA5gYiFfvgP1Ve) | [Akinari Suzuki](https://open.spotify.com/artist/1KwSxMK9zQzeJD8j8ugFyG) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 3:37 |
 
 Snapshot ID: `AAAAALWGrXKso+LgsKfi6bOIGGqpBMKD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Tkeyz and Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,536 likes - 132 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,561 likes - 132 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 37 | [Alive](https://open.spotify.com/track/6PSnOhidP6bjHuiFS3l3AV) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [Alive](https://open.spotify.com/album/7hQTCJrXZTRFUqjSMndW67) | 2:24 |
 | 38 | [Ije Love](https://open.spotify.com/track/3R069Tqyd0ZfulXuSBSNMn) | [Tahram](https://open.spotify.com/artist/41IhOOBcjR09qi8h4L647d) | [Ije Love](https://open.spotify.com/album/2wMwDDDkDEgIAoobpZF42h) | 3:40 |
 | 39 | [Daily Bread](https://open.spotify.com/track/4Drb2FjnL796JxqenP546s) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Daily Bread](https://open.spotify.com/album/41VDjNcEImibKkNehMPvNI) | 2:16 |
-| 40 | [Gbope Mi \- Live](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |
+| 40 | [Gbope Mi \(Live\)](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |
 | 41 | [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 |
 | 42 | [I Love to See You Get the Glory](https://open.spotify.com/track/77B1F50NTUTt00G9CdVQrs) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [The Baptism 2](https://open.spotify.com/album/4CZLwLchd15mFA47BmzFWt) | 8:52 |
 | 43 | [Congratulation](https://open.spotify.com/track/4UU3FiE8wN3aFiW2n7JCV3) | [Mr\. D.David](https://open.spotify.com/artist/3EO56svzrF4NNHSgCAs1r7), [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Congratulations](https://open.spotify.com/album/3Sxj7gzIWwNFM3DWOOddix) | 2:52 |

@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Como Es Que Se Hace",
+        "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Como Es Que Se Hace",
+      "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
+    },
+    {
+      "album": {
         "name": "Como Si El Mundo Se Fuera A Acabar",
         "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
       },
@@ -808,7 +830,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 178375,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 138674,
       "name": "Mayor Que Yo - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/6kqv4XNwOwt4zsFooyXVuA"
@@ -2852,7 +2874,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 150123,
       "name": "Te Siento - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"

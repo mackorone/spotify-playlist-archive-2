@@ -1,32 +1,28 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 469420,
+  "num_followers": 469407,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAACUBdtgl/eyV0hexh1jIWgV",
+  "snapshot_id": "aWl/gAAAAAChKUWFSOK0JYTVH2lyRlLS",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Get Right",
-        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
+        "name": "J.Lo (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5hAy2eMkeCVt128x6Ypqd6"
       },
       "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 157265,
-      "name": "Get Right - Joel Corry VIP Mix",
-      "url": "https://open.spotify.com/track/5XYX6qohHM4zIdCZU3o9Dn"
+      "duration_ms": 255270,
+      "name": "Crazy (Nobody Else)",
+      "url": "https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb"
     },
     {
       "added_at": null,
@@ -243,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Again...The Hits",
-        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -279,6 +255,26 @@
       "duration_ms": 262133,
       "name": "I'm Real (feat. Ja Rule) - Murder Remix",
       "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
     },
     {
       "added_at": null,
@@ -319,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Regreso del Sobreviviente (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO"
       },
@@ -339,22 +351,6 @@
       "duration_ms": 235920,
       "name": "Adrenalina (feat. Jennifer Lopez & Ricky Martin)",
       "url": "https://open.spotify.com/track/2eqDUxbd0JPEhNrJdPlHLs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Love Don't Cost a Thing",
-      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
     },
     {
       "added_at": null,
@@ -563,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/5afRtOFscJUQq7nCbHR5Rn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "duration_ms": 209699,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/6dshconh2KBbGxVh7GtSTC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
       },
@@ -591,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Booty",
-        "url": "https://open.spotify.com/album/5afRtOFscJUQq7nCbHR5Rn"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        }
-      ],
-      "duration_ms": 209699,
-      "name": "Booty",
-      "url": "https://open.spotify.com/track/6dshconh2KBbGxVh7GtSTC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Guste",
         "url": "https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D"
       },
@@ -631,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Anillo",
-        "url": "https://open.spotify.com/album/4DnxvNqBLOdInzC0cI8Wzy"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 176816,
-      "name": "El Anillo",
-      "url": "https://open.spotify.com/track/2SpfMQ5TuKsMj1trNwrLVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -659,6 +639,22 @@
       "duration_ms": 211493,
       "name": "Play",
       "url": "https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Anillo",
+        "url": "https://open.spotify.com/album/4DnxvNqBLOdInzC0cI8Wzy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 176816,
+      "name": "El Anillo",
+      "url": "https://open.spotify.com/track/2SpfMQ5TuKsMj1trNwrLVA"
     },
     {
       "added_at": null,
@@ -739,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On My Way (Marry Me)",
+        "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 192571,
+      "name": "On My Way (Marry Me)",
+      "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olv\u00eddame y Pega la Vuelta",
         "url": "https://open.spotify.com/album/7i0IU9ewVxt4do3QZZLXzN"
       },
@@ -779,22 +791,6 @@
       "duration_ms": 200240,
       "name": "Try Me (feat. Jennifer Lopez and Matoma)",
       "url": "https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On My Way (Marry Me)",
-        "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 192571,
-      "name": "On My Way (Marry Me)",
-      "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
     },
     {
       "added_at": null,
@@ -899,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me...Then",
-        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+        "name": "Get Right",
+        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
       },
       "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 222040,
-      "name": "I'm Glad",
-      "url": "https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6"
+      "duration_ms": 157265,
+      "name": "Get Right - Joel Corry VIP Mix",
+      "url": "https://open.spotify.com/track/5XYX6qohHM4zIdCZU3o9Dn"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
       "duration_ms": 165050,
       "name": "After Love (Part 1)",
       "url": "https://open.spotify.com/track/68ZolUi1wARFSDGQCeybgy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "I'm Glad",
+      "url": "https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6"
     },
     {
       "added_at": null,
@@ -951,26 +967,6 @@
       "duration_ms": 331293,
       "name": "Escap\u00e9monos - Salsa Version",
       "url": "https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Hold You Down (feat. Fat Joe)",
-      "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
     },
     {
       "added_at": null,
@@ -1019,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Hold You Down (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor, Amor, Amor (feat. Wisin)",
         "url": "https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y"
       },
@@ -1035,26 +1051,6 @@
       "duration_ms": 198586,
       "name": "Amor, Amor, Amor (feat. Wisin)",
       "url": "https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "On The Floor (Ven a Bailar) - Bonus Track",
-      "url": "https://open.spotify.com/track/4htjXtjySdVDU6QRPOGgg9"
     }
   ],
   "unique_name": "This Is Jennifer Lopez",

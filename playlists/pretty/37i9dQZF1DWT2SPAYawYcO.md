@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from MAY\-A, A$AP Rocky, Six60, Mistki, Charli xcx, Gorillaz + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,468 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,463 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 38 | [My Man](https://open.spotify.com/track/7g2WN1ngLPUD5TJE6KhlNC) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [My Man](https://open.spotify.com/album/6pGp02XUdJf9GfoQdGEs3p) | 2:49 |
 | 39 | [Crazy](https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Crazy](https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg) | 2:05 |
 | 40 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 |
-| 41 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 41 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 42 | [Never Coming Back](https://open.spotify.com/track/0ePe4v4mEQFlHDeDENrmZh) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Never Coming Back](https://open.spotify.com/album/1XPOQqkgLNFnoQOMyRrP6q) | 2:51 |
 | 43 | [Cinematic](https://open.spotify.com/track/5LPa2CicoiwWBIt0cKDjUW) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Cinematic](https://open.spotify.com/album/2H5dfaWvWaCfvEI2zq9XZq) | 3:34 |
 | 44 | [Raft In The Sea](https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Raft In The Sea](https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE) | 3:35 |

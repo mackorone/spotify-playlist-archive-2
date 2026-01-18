@@ -5224,7 +5224,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -8046,7 +8046,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -11644,7 +11644,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -22068,7 +22068,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -29977,6 +29977,24 @@
     },
     {
       "album": {
+        "name": "Hromy divo bij\u00fa",
+        "url": "https://open.spotify.com/album/1M6A5PLAtEKWhdriV7czIH"
+      },
+      "artists": [
+        {
+          "name": "Hrdza",
+          "url": "https://open.spotify.com/artist/4vkeCOKjyeqRMqgsT3gISN"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220031,
+      "name": "Hromy divo bij\u00fa",
+      "url": "https://open.spotify.com/track/4MjwhlwOADFRVI6w99oJ2W"
+    },
+    {
+      "album": {
         "name": "Hundred Miles",
         "url": "https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde"
       },
@@ -31412,7 +31430,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 276613,
       "name": "I'll Believe in Anything",
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
@@ -35022,7 +35040,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 119959,
       "name": "Ke\u010f n\u00e1m srdcia zahoria",
       "url": "https://open.spotify.com/track/2z3OEMJ45kPEcNXev5pRw7"
@@ -70994,7 +71012,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177386,
-      "name": "Turn The Lights Off (feat. Jon)",
+      "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
     },
     {
@@ -75182,7 +75200,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 224479,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"

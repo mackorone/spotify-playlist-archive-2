@@ -50533,6 +50533,24 @@
     },
     {
       "album": {
+        "name": "Roster!",
+        "url": "https://open.spotify.com/album/1YVX5NgvUedHgCuqfXQzim"
+      },
+      "artists": [
+        {
+          "name": "Oxdead",
+          "url": "https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96711,
+      "name": "Roster!",
+      "url": "https://open.spotify.com/track/2xDF6qeiwqNLbIxH8UwhXh"
+    },
+    {
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/66wSLCLFpUEvWL0lx3Ow5i"
       },
@@ -60136,6 +60154,24 @@
       "duration_ms": 180240,
       "name": "That's All",
       "url": "https://open.spotify.com/track/5ORKszvLlq6O63KofHqrF5"
+    },
+    {
+      "album": {
+        "name": "That's the Way",
+        "url": "https://open.spotify.com/album/6QvOtLnAeTVXmH6H0J9KaO"
+      },
+      "artists": [
+        {
+          "name": "Chemical Prisoner",
+          "url": "https://open.spotify.com/artist/4HA8dUaEJfdKGwWq9aHTCi"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98133,
+      "name": "That's the Way",
+      "url": "https://open.spotify.com/track/2pNaBTVWNk3T02RrZ7HQr3"
     },
     {
       "album": {

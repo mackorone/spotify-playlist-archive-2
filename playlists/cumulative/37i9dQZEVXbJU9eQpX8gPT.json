@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 164409,
       "name": "Amn\u00e9sie",
       "url": "https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -3416,6 +3416,24 @@
       "duration_ms": 196000,
       "name": "B&M",
       "url": "https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW"
+    },
+    {
+      "album": {
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/0f8ThJb81vjn9zQ5lQLS6w"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/1SWHzzMfq3Oy2bUDRYi2bi"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125467,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/4hmz5NBcB4WCvrVDqUibPI"
     },
     {
       "album": {
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 197466,
       "name": "BGHAWNI",
       "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
@@ -8624,6 +8642,28 @@
       "duration_ms": 187199,
       "name": "De Niro",
       "url": "https://open.spotify.com/track/1ogcBjJXx64jw6pprBsRlv"
+    },
+    {
+      "album": {
+        "name": "34",
+        "url": "https://open.spotify.com/album/67jDpqg46Rv9gMvVQOj1Ni"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "De quoi",
+      "url": "https://open.spotify.com/track/6q5NIbriDuG8MX9udQIbYq"
     },
     {
       "album": {
@@ -13490,7 +13530,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 167111,
       "name": "Ha Wlidi",
       "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
@@ -16068,7 +16108,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 182535,
       "name": "Jedi ou Jedek",
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
@@ -27242,7 +27282,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
@@ -28338,7 +28378,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
@@ -31400,7 +31440,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 526707,
       "name": "SPOWNOEL",
       "url": "https://open.spotify.com/track/338Wo6letYNwTdybwpfiOl"

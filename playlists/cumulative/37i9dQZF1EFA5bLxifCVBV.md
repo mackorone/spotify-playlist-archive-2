@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-282 songs - 14 hr 40 min
+283 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,8 +154,9 @@
 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 | 2024-07-24 | 2025-06-28 |
 | [Muchacha](https://open.spotify.com/track/1rsrYgQbVP69Qhhe44hjui) | [Arthur Maia](https://open.spotify.com/artist/4DRpkmcBP1jW0jpinvMr7J) | [Planeta música](https://open.spotify.com/album/0mS1IT1uA2X12y2nqjtuw5) | 7:47 | 2024-07-24 | 2025-06-28 |
 | [My One And Only Love \- Remastered](https://open.spotify.com/track/6DHuDz9Rnz5beUnOijThjH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 3:12 | 2024-07-24 |  |
-| [Najala's Lament](https://open.spotify.com/track/4LA8agEAvsQOsUgXVRgZAs) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Ultimate Erotic Best](https://open.spotify.com/album/2zUaWx4BMUfrZsFyYRFxRs) | 3:17 | 2025-12-17 |  |
+| [Najala's Lament](https://open.spotify.com/track/4LA8agEAvsQOsUgXVRgZAs) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Ultimate Erotic Best](https://open.spotify.com/album/2zUaWx4BMUfrZsFyYRFxRs) | 3:17 | 2025-12-17 | 2026-01-18 |
 | [Najala's Lament](https://open.spotify.com/track/28bEUfw7k21RWbEcNvgWpg) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Karibe Taki](https://open.spotify.com/album/7cqYxuWIUQljEvJFPpFjrx) | 3:17 | 2025-01-09 | 2025-12-18 |
+| [Najala's Lament](https://open.spotify.com/track/55ywQy4eOEqOhyjSzefOZw) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Inca](https://open.spotify.com/album/3YK8Kh6ztJQZQUMQDKiFAF) | 3:17 | 2026-01-17 |  |
 | [Najla's Song Of Joy](https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:19 | 2024-07-24 |  |
 | [Napoleon's A Pastry](https://open.spotify.com/track/7G75sxDTlJZGenltun6qS0) | [Cynthia Crane](https://open.spotify.com/artist/2RC2BxcroaVm1XXaR5t87d) | [I'm Confused, Therefore I Am](https://open.spotify.com/album/4ncC3FE8AaibowTISkFUtq) | 4:10 | 2024-07-24 |  |
 | [Necessity](https://open.spotify.com/track/6JQhnxuPYMFUgqshRD9QYd) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN), [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:58 | 2025-06-27 |  |

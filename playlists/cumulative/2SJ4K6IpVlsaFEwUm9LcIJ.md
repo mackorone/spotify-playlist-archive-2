@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-887 songs - 2 day 5 hr 23 min
+889 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Explain](https://open.spotify.com/track/3J216Nn7CBDSnFk5S9gKXW) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Loneliest In The Morning](https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm) | 2:12 | 2025-03-31 | 2025-05-09 |
 | [Extended Stay](https://open.spotify.com/track/2McIIeblzOucJCdqKUCeZ7) | [African\-American Sound Recordings](https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz) | [Tamika's Lodge](https://open.spotify.com/album/3hrGKo1YpKMkaTGHWkhLhj) | 1:46 | 2024-04-01 | 2024-05-16 |
 | [Extinguish](https://open.spotify.com/track/41pTeGMKh9H9OXGDPSZCfM) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:46 | 2025-04-02 | 2025-05-09 |
+| [Extraordinary Machine](https://open.spotify.com/track/5h9Iek7Hp9wayRt7fBp7Ab) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:43 | 2026-01-17 |  |
 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 | 2024-02-24 | 2024-03-10 |
 | [Factory Direct](https://open.spotify.com/track/7dQ7yIBoSQjDVEt31G0nEF) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:00 | 2024-05-30 | 2024-07-12 |
 | [Faking The Books](https://open.spotify.com/track/5fTDz2Ky06voi1Z7NheQuu) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 4:00 | 2025-07-09 | 2025-09-11 |
@@ -585,6 +586,7 @@
 | [Pale September](https://open.spotify.com/track/0CwdS94pdZ9C5tT5g7vaWS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:50 | 2026-01-08 |  |
 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 | 2024-05-16 |
 | [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 | 2025-04-12 | 2025-05-09 |
+| [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2026-01-17 |  |
 | [Partytime](https://open.spotify.com/track/0nVGhWnvTncLH6eInY90jO) | [The Jazz Butcher](https://open.spotify.com/artist/7zi9v3F5KzAuS3MkJtm5dc) | [Draining the Glass: 1982\-1986](https://open.spotify.com/album/49JVtWebi2mCRzMlzAHohJ) | 3:53 | 2025-01-11 | 2025-03-02 |
 | [Pas trop vite](https://open.spotify.com/track/1qFEsShxHuM0cnOqys0lkx) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Tailleferre: Chamber Music and Piano Music](https://open.spotify.com/album/4zDfFkxCBgHrlk1FqLv99q) | 1:35 | 2025-06-25 | 2025-07-04 |
 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 | 2024-07-26 | 2024-09-08 |

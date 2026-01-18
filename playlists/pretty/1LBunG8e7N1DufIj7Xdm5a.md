@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,908 songs - 8 day 15 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 3,910 songs - 8 day 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3916,5 +3916,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3906 | [Coolin](https://open.spotify.com/track/1PpQYVsG1WEsvbakUjZNAr) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Coolin](https://open.spotify.com/album/3R5PrYbFgqFnlrheRYI2xk) | 1:31 |
 | 3907 | [Bush Camper](https://open.spotify.com/track/3KJhCUeaH9jS4xfk3gHK87) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:07 |
 | 3908 | [popular loner](https://open.spotify.com/track/0gV1bGfME7foU8qjxOcIWL) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [popular loner](https://open.spotify.com/album/7g6VzTPLa5xHhlN50KxIeZ) | 1:52 |
+| 3909 | [Roster!](https://open.spotify.com/track/2xDF6qeiwqNLbIxH8UwhXh) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Roster!](https://open.spotify.com/album/1YVX5NgvUedHgCuqfXQzim) | 1:36 |
+| 3910 | [That's the Way](https://open.spotify.com/track/2pNaBTVWNk3T02RrZ7HQr3) | [Chemical Prisoner](https://open.spotify.com/artist/4HA8dUaEJfdKGwWq9aHTCi) | [That's the Way](https://open.spotify.com/album/6QvOtLnAeTVXmH6H0J9KaO) | 1:38 |
 
-Snapshot ID: `AAAG1J2ZqrqnrY2b0254/jfIsc0rUrCg`
+Snapshot ID: `AAAG1qC9OebaLr1pqGtYp2/ESkZ1oXCa`

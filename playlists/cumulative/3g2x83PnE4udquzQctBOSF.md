@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-461 songs - 1 day 3 hr 39 min
+462 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [El Perdón](https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Por Eso Que Me Amas EP](https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU) | 3:26 | 2023-04-23 | 2023-05-23 |
 | [Energy](https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Energy](https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6) | 3:13 | 2023-03-31 | 2023-04-24 |
 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-26 | 2023-04-17 |
+| [Es una Loba](https://open.spotify.com/track/7LQRuiqjYxtK3T2HhVF9xL) | [DARCOS LIFE](https://open.spotify.com/artist/0C2us4WTI9QWkRCl7eGkFv) | [Es una Loba](https://open.spotify.com/album/2rvgeG7n0VwTJ0NWdUeTpz) | 4:53 | 2026-01-17 |  |
 | [Escape](https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Escape](https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG) | 3:12 | 2022-08-17 | 2023-03-18 |
 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 | 2023-07-16 | 2023-08-28 |
 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 | 2023-03-05 | 2023-03-27 |

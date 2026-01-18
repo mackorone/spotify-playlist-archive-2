@@ -2103,6 +2103,32 @@
     },
     {
       "album": {
+        "name": "DOUBL3 TAK3 (R3MIX)",
+        "url": "https://open.spotify.com/album/1YsqdmOXAqFh8Nhf7dzMgK"
+      },
+      "artists": [
+        {
+          "name": "DAMAG3",
+          "url": "https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn"
+        },
+        {
+          "name": "Lex Bratcher",
+          "url": "https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf"
+        },
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "DOUBL3 TAK3 - R3MIX",
+      "url": "https://open.spotify.com/track/5OCeL0gRKf54buDtZHFkq6"
+    },
+    {
+      "album": {
         "name": "Holoplankton",
         "url": "https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp"
       },
@@ -7092,6 +7118,32 @@
       "duration_ms": 140487,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA"
+    },
+    {
+      "album": {
+        "name": "Ponies At Dawn Fusion",
+        "url": "https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh"
+      },
+      "artists": [
+        {
+          "name": "GrieferPig",
+          "url": "https://open.spotify.com/artist/7DmWu55IMdbyjRKmhsgTA6"
+        },
+        {
+          "name": "Trey Husk",
+          "url": "https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d"
+        },
+        {
+          "name": "Metajoker",
+          "url": "https://open.spotify.com/artist/2fkfwkrtCqUBWuYOdg2iFO"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205629,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0fC9GePxGbjfuOuGJLcLlh"
     },
     {
       "album": {

@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 90 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 |
 | 91 | [What Happened To Love?](https://open.spotify.com/track/28CDYI2Tnzj68DELVLvmqk) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:54 |
 | 92 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:26 |
-| 93 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 |
-| 94 | [Praise Dance](https://open.spotify.com/track/6erYOtEBmqmzd9zzIJ7Wry) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:02 |
+| 93 | [Praise Dance](https://open.spotify.com/track/6erYOtEBmqmzd9zzIJ7Wry) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:02 |
+| 94 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 |
 | 95 | [Hand In Hand](https://open.spotify.com/track/5TyMCjuHEOb1H4zOhW6JrL) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:14 |
 | 96 | [Damn Good Life](https://open.spotify.com/track/0OHd0l2dXa5HFbuw9pu6TU) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:27 |
 | 97 | [I Got It](https://open.spotify.com/track/650YU5QbVUh9piLJlVVirQ) | [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py) | [I Got It](https://open.spotify.com/album/6fZy2iKh3dvL0NUnSW5eVE) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 99 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 100 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcHIQgAAAACA4ohqj6B2yL3Fdcxle0kU`
+Snapshot ID: `AcHN4gAAAACk769TN+78vknuBiYglicZ`

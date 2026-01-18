@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: SINAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,680 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,737 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 28 | [Dime Si Te Acuerdas](https://open.spotify.com/track/08rPC6uXVwFDrTZxTGNuU3) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [Dime Si Te Acuerdas](https://open.spotify.com/album/55Oc5PWWdXAZJmJtPPiSC6) | 2:48 |
 | 29 | [COMO TÚ](https://open.spotify.com/track/3Frf311vkzSQtLUrtRFgba) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye) | [COMO TÚ](https://open.spotify.com/album/4rV6GgBgdXu1q9r6Etr4NH) | 2:45 |
 | 30 | [Tu Pelo Negro](https://open.spotify.com/track/5pP5sfmqaecBT2d20aXB2i) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [Tu Pelo Negro](https://open.spotify.com/album/3QjgmpXhBrlAPAVD6JftQv) | 2:26 |
-| 31 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
+| 31 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
 | 32 | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Lamelodiadelhampa](https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/album/3W3S0gSwBs27p6bE64BxHo) | 3:00 |
 | 33 | [ENLOKCIENDO](https://open.spotify.com/track/4RvLWywNgTMHyKS3z9UEPB) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt) | [ENLOKCIENDO](https://open.spotify.com/album/2m2KnfLnt7vBJCuTOMfTcz) | 2:43 |
 | 34 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |

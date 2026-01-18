@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,148 songs - 1 day 20 hr 13 min
+1,150 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2023-10-20 | 2025-07-19 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 | 2024-08-31 |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 | 2025-08-30 |
-| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 |  |
+| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 | 2026-01-18 |
 | [Future Feline](https://open.spotify.com/track/5wkEOqy092lfdf247rko8x) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 | 2022-06-10 | 2023-07-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-15 | 2023-10-13 |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-15 | 2022-09-03 |
@@ -680,6 +680,7 @@
 | [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2025-07-01 |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 | 2025-07-10 |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
+| [Oregon](https://open.spotify.com/track/4mUy6zIjxgGNgQlb30OSu9) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Oregon](https://open.spotify.com/album/2HEky0wIcjbSnYvo0kbyMh) | 2:06 | 2026-01-16 |  |
 | [Oscar](https://open.spotify.com/track/6OaTHXIlJk7yDVCMEAyV4v) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Oscar](https://open.spotify.com/album/7fZitTtCmUP5HqYGcjbIOu) | 1:58 | 2025-06-07 |  |
 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-16 |  |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 | 2025-07-10 |
@@ -718,6 +719,7 @@
 | [Perception](https://open.spotify.com/track/02KefPFoPYwQYR219MAxAT) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Perception](https://open.spotify.com/album/07OphcXB8sSOaScV4RlrFW) | 2:01 | 2024-12-13 |  |
 | [perfect enough](https://open.spotify.com/track/2RZ7FOdEaC7iXHh9b6SQtE) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [perfect enough](https://open.spotify.com/album/5CL1h5mNbbBfZp5lfSk2Iv) | 1:46 | 2024-07-04 | 2024-08-16 |
 | [peroni](https://open.spotify.com/track/2rMM3NzF4yqRIL5Mfb9ZEC) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU) | [Lava Lamps](https://open.spotify.com/album/0qZ0dqm0sPiW2U4KVTY8sp) | 1:19 | 2023-01-13 | 2023-09-22 |
+| [Petals on Water](https://open.spotify.com/track/020OBrMzeXHFINliccSdNR) | [Cosmaze](https://open.spotify.com/artist/2YDkCihFfpTg9FrAwuPlKP) | [Petals on Water](https://open.spotify.com/album/6HnyVhAv2btukCyeWOIigs) | 2:12 | 2026-01-16 |  |
 | [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-15 | 2022-06-03 |
 | [Phone Call](https://open.spotify.com/track/1dJWOhVgQRhvFnXo1rFTRH) | [ommood](https://open.spotify.com/artist/7mNKnRt1aoVswbRjEUP1WZ) | [ommood](https://open.spotify.com/album/5xNwenPLT1LshjGUg0KIJj) | 2:42 | 2022-04-15 | 2022-07-29 |
 | [Phosphènes](https://open.spotify.com/track/1ohIti2QiujiW8jVFYn2mJ) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U), [Ilhoë](https://open.spotify.com/artist/4pgeVc97jxCz5UQFIB9G23) | [Phosphènes](https://open.spotify.com/album/017DLB6hfhFLiYDFe7BhJB) | 3:12 | 2022-06-24 | 2022-09-03 |
@@ -859,7 +861,7 @@
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
 | [Shutters](https://open.spotify.com/track/7vys15VygXqBbOzaiDvL54) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shutters](https://open.spotify.com/album/5gyG2kQTyKcxNfM5jIPChc) | 2:16 | 2026-01-09 |  |
 | [signals](https://open.spotify.com/track/3TE7g7pg2i1E5WLhmAVfcF) | [ex\-pansive](https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV) | [signals](https://open.spotify.com/album/5Z5NNGYHiOFFDjEu6AmUcO) | 2:40 | 2024-02-02 | 2025-06-14 |
-| [silk](https://open.spotify.com/track/0qeTcNLP8x6rJReO83KMJv) | [table manners](https://open.spotify.com/artist/4EpkX1JWuSjiqDuZBoqIiU) | [silk](https://open.spotify.com/album/6oMEH5JrLh0CWCK0Zveosp) | 2:42 | 2026-01-16 |  |
+| [silk](https://open.spotify.com/track/0qeTcNLP8x6rJReO83KMJv) | [table manners](https://open.spotify.com/artist/4EpkX1JWuSjiqDuZBoqIiU) | [silk](https://open.spotify.com/album/6oMEH5JrLh0CWCK0Zveosp) | 2:42 | 2026-01-16 | 2026-01-18 |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 | 2025-07-10 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 | 2023-09-29 |

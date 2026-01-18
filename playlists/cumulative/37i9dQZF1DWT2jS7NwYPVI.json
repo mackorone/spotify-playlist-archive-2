@@ -21159,7 +21159,7 @@
     },
     {
       "album": {
-        "name": "Fuck It Up",
+        "name": "Fuck It Up (feat. Declan McKenna)",
         "url": "https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP"
       },
       "artists": [
@@ -21176,7 +21176,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212448,
-      "name": "Fuck It Up",
+      "name": "Fuck It Up (feat. Declan McKenna)",
       "url": "https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX"
     },
     {
@@ -36196,6 +36196,24 @@
       "duration_ms": 192106,
       "name": "Love Songs (feat. L.A. Exes)",
       "url": "https://open.spotify.com/track/3yrjVmFHxf3773eHr9Y9kY"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Edgehill",
+          "url": "https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166078,
+      "name": "Love To Go",
+      "url": "https://open.spotify.com/track/5l84ho4jDsReTMHAsYrZoJ"
     },
     {
       "album": {

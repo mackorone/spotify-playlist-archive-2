@@ -4205,6 +4205,24 @@
     },
     {
       "album": {
+        "name": "Life crazy",
+        "url": "https://open.spotify.com/album/09m1pEt1RF8D0UP1tKwbMx"
+      },
+      "artists": [
+        {
+          "name": "Tymar2k",
+          "url": "https://open.spotify.com/artist/2CanSgzsvRDktr0MCZeQY7"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88954,
+      "name": "Life crazy",
+      "url": "https://open.spotify.com/track/5B03BthFX6Zw0931RWRixA"
+    },
+    {
+      "album": {
         "name": "THE GLO UP 1.5",
         "url": "https://open.spotify.com/album/7evnxYk2c2uZiIRwzu2upD"
       },

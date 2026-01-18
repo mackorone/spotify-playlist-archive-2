@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,136 songs - 2 day 18 hr 54 min
+1,137 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 | 2025-03-16 | 2026-01-06 |
 | [صحبي يا صحبي \- النسخة الحزينة](https://open.spotify.com/track/3V8SiMAc7U4XOUHWN24jNt) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي \(النسخة الحزينة\)](https://open.spotify.com/album/7z3CiWUYbymm3AFclisz6r) | 2:30 | 2025-03-22 | 2025-03-31 |
 | [صوت العيد \- زين العيد](https://open.spotify.com/track/0Mu5Qq1bn1bBOcvxs4Gu08) | [zain Group](https://open.spotify.com/artist/5OKgVV12vyuhLuC9x07CmI) | [صوت العيد \- زين العيد](https://open.spotify.com/album/5SQINujEOh9baHeN2WsZ8q) | 2:50 | 2025-03-31 | 2025-04-03 |
+| [ضد الكون](https://open.spotify.com/track/6I8Y0IeJP692095V07mcXq) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [WRST Studio](https://open.spotify.com/artist/7ls8m2y6ibVx54vYHyReXk) | [ضد الكون](https://open.spotify.com/album/2EPZzMg9RnJxFF6UMinPAm) | 2:13 | 2026-01-17 |  |
 | [ضمّة \- Damma](https://open.spotify.com/track/7kZHFpC8CJ8wIjIpqWVWs1) | [Yasmina El\-Abd](https://open.spotify.com/artist/4z71gJaej5bwz8daBocQjW), [Aley Eldin Omar](https://open.spotify.com/artist/6HTbN3mkTm41r7uge5epli), [WRST Studio](https://open.spotify.com/artist/7ls8m2y6ibVx54vYHyReXk) | [ضمّة \- Damma](https://open.spotify.com/album/6FaZSmqlGAApT0HfyP7lQw) | 2:33 | 2025-12-23 |  |
 | [طب طمنيني لو حتى برنه](https://open.spotify.com/track/7dWPHHTBF1q81MU3IE0pHM) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [طب طمنيني لو حتى برنه](https://open.spotify.com/album/3rh4kdpxXQeCmZ77l5DXHh) | 3:52 | 2025-11-11 | 2026-01-15 |
 | [طب هأ دي حبيبتك مش بتقول لا \- مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات](https://open.spotify.com/track/44KVuj4G37j4HULHHrteQu) | [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [طب هأ دي حبيبتك مش بتقول لا \(مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات\)](https://open.spotify.com/album/2TTvzhsqIDnxS6rBPgw2Tu) | 4:51 | 2024-03-12 | 2024-07-22 |
@@ -1005,7 +1006,7 @@
 | [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-04-20 | 2025-12-06 |
 | [ع الصامت](https://open.spotify.com/track/1csotZQdK0em4MN66s3yRS) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 3:30 | 2021-03-27 | 2021-03-31 |
 | [ع العادي](https://open.spotify.com/track/478xj2yjNOXK5PUq8vEekd) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [WRST Studio](https://open.spotify.com/artist/7ls8m2y6ibVx54vYHyReXk) | [ع العادي](https://open.spotify.com/album/3VS1LQoHQHTQtZNslaKK0B) | 2:58 | 2026-01-15 |  |
-| [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 | 2024-02-29 |  |
+| [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 | 2024-02-29 | 2026-01-18 |
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2021-09-16 | 2022-10-20 |
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 | 2024-07-21 |
 | [عشري بيعني انا](https://open.spotify.com/track/77KkVJB8SLW6mZvYOxYWV6) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15) | [عشري بيعني انا](https://open.spotify.com/album/0wWb9f59swaQtG62ISqHky) | 3:47 | 2024-07-05 | 2025-07-29 |

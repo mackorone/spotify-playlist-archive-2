@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
+    },
+    {
+      "album": {
         "name": "Day After A Night With U / Stars & Water",
         "url": "https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx"
       },
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 216477,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b"
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 224000,
       "name": "My Little Secret Nasty Habit",
       "url": "https://open.spotify.com/track/0QpH7QcHJL9zFfO8vfAdKN"
@@ -5592,6 +5610,28 @@
       "duration_ms": 164661,
       "name": "My Purple iPod Nano (2nd Gen)",
       "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
+    },
+    {
+      "album": {
+        "name": "NEED TO KNOW",
+        "url": "https://open.spotify.com/album/1gQ2z0wuUco7TtvX3J8DOl"
+      },
+      "artists": [
+        {
+          "name": "Terrell Baptiste",
+          "url": "https://open.spotify.com/artist/4yzBUKyzRYA4381L8GHvw3"
+        },
+        {
+          "name": "Deavion",
+          "url": "https://open.spotify.com/artist/6iY6E1Fv7wP8PuU0kKah7X"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215781,
+      "name": "NEED TO KNOW",
+      "url": "https://open.spotify.com/track/0TGdZI0hXizutzvvyBXCdA"
     },
     {
       "album": {
@@ -5740,6 +5780,24 @@
       "duration_ms": 156774,
       "name": "No Idol - Remix",
       "url": "https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr"
+    },
+    {
+      "album": {
+        "name": "No Lube So Rude",
+        "url": "https://open.spotify.com/album/6v1Vg1OaJCSK5hKHgHpySd"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "No Lube So Rude",
+      "url": "https://open.spotify.com/track/6zgvKcL58XPES10HwspEkT"
     },
     {
       "album": {
@@ -8812,7 +8870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 206334,
       "name": "You're My Baby",
       "url": "https://open.spotify.com/track/4ubPRQc3A3Mvl44kCBUZ6M"

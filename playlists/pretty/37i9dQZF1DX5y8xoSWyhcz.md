@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,591 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,579 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [Cross Control Patrol](https://open.spotify.com/track/5GhOmSUneOKUaFwEOjWYTC) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Cross Control Patrol](https://open.spotify.com/album/2RZT8iKshF9BlBOrVwXMdE) | 2:39 |
 | 100 | [Dancing With Her](https://open.spotify.com/track/4aCxMYOlcYMxdK8ICB29DN) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Stay Here Where It's Warm](https://open.spotify.com/album/2025iFS7ufF84zxWA5Dqd6) | 4:04 |
 
-Snapshot ID: `AAAAAN4rjgpAcx51nGHe1g6z3rh2ncNj`
+Snapshot ID: `AAAAAM/ER/hXzTRuc+fvgZavzYRTzFd5`

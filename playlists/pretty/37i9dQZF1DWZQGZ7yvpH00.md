@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H, Gael Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,128 likes - 76 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,104 likes - 76 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

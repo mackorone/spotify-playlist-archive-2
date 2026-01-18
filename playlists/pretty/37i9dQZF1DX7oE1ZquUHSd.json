@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 218482,
+  "num_followers": 218547,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "A Praga",
-        "url": "https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 192816,
-      "name": "A Praga",
-      "url": "https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Hecho En Mexico",
         "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 262693,
       "name": "Hecho En Mexico",
       "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "A Praga",
+        "url": "https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 192816,
+      "name": "A Praga",
+      "url": "https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 263023,
-      "name": "De Pe a Pa",
-      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Faruz Vs. Proof",
         "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218154,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 263023,
+      "name": "De Pe a Pa",
+      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Dale Gas",
-        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 212495,
-      "name": "Dale Gas",
-      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "No Tengo Nada",
         "url": "https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 217913,
       "name": "No Tengo Nada",
       "url": "https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 212495,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lo Necesario",
-        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 193330,
-      "name": "Pasame la Yesca",
-      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Residente o Visitante",
         "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 270493,
       "name": "Mala Suerta con el 13 (feat. La Mala Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Lo Necesario",
+        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 193330,
+      "name": "Pasame la Yesca",
+      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Raza Es Raza",
+      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Mejor Que El Silencio",
         "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 245453,
       "name": "Ayer Y Hoy",
       "url": "https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Raza Es Raza",
-      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
     },
     {
       "added_at": "2024-07-12 18:46:41",

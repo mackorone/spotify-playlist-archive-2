@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 291852,
+  "num_followers": 291894,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAA0pbNo0mJ5ydwPOBjp1AfD",
+  "snapshot_id": "aWl/gAAAAAADR90X/AgHW2aIPMc3NE1R",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 237466,
       "name": "Fields Of Joy",
       "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
     },
     {
       "added_at": null,

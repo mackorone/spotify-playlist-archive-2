@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Arlo Parks, Charli xcx, A$AP Rocky and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,778 likes - 120 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,802 likes - 120 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 11 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |
 | 12 | [All My Life](https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [All My Life](https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO) | 3:53 |
 | 13 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
-| 14 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 14 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 15 | [Do It Right](https://open.spotify.com/track/0revALbfswvbw3zURpu4eE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Do It Right](https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr) | 6:12 |
 | 16 | [Cryptid](https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Running With Scissors](https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr) | 2:04 |
 | 17 | [Raft In The Sea](https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Raft In The Sea](https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE) | 3:35 |

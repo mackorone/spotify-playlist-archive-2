@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "It Really Is Amazing Grace",
+        "url": "https://open.spotify.com/album/4lYH4nCNsiXwZFfFlmHNjc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "It Really Is Amazing Grace",
+      "url": "https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ"
+    },
+    {
+      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },

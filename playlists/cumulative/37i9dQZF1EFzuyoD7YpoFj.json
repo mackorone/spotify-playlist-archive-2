@@ -9499,6 +9499,24 @@
     },
     {
       "album": {
+        "name": "EILEEN RODGERS - FOREVER SOUL HITS",
+        "url": "https://open.spotify.com/album/6uCypROj8Qitzrqi3UTXsI"
+      },
+      "artists": [
+        {
+          "name": "Eileen Rodgers",
+          "url": "https://open.spotify.com/artist/5U6AFHwdlMoOHEPmRQxTsN"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186724,
+      "name": "Take Me Back to Manhattan",
+      "url": "https://open.spotify.com/track/2FbuIE53Dx8G0ioPkugdzq"
+    },
+    {
+      "album": {
         "name": "Anything Goes (Off-Broadway Cast Recording (1962))",
         "url": "https://open.spotify.com/album/5Q95OYMeaGOkULW2mb2LZ9"
       },
@@ -9514,7 +9532,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 184933,
       "name": "Take Me Back to Manhattan",
       "url": "https://open.spotify.com/track/0KZZDI2qERGz2b04xoqUHr"
@@ -12084,7 +12102,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 142800,
       "name": "You Can Do No Wrong - Bonus Track",
       "url": "https://open.spotify.com/track/7unnhBNRzPc4PoghjbjDZ7"
@@ -12102,7 +12120,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 142093,
       "name": "You Can Do No Wrong - Remastered 2022",
       "url": "https://open.spotify.com/track/2VdtqoWNtdxGbkLHbEzqo2"

@@ -2705,6 +2705,28 @@
     },
     {
       "album": {
+        "name": "Bilmirem",
+        "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
+      },
+      "artists": [
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Metty",
+          "url": "https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162937,
+      "name": "Bilmirem",
+      "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
+    },
+    {
+      "album": {
         "name": "Birdhouse",
         "url": "https://open.spotify.com/album/0tAg6GiHkEzpfN4mSyFBf8"
       },
@@ -16786,7 +16808,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 166451,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"

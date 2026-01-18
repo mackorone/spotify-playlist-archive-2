@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 658 songs - 1 day 19 hr 7 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 658 songs - 1 day 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,7 +664,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 654 | [Haenim](https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb) | [Kim Jung Mi](https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca) | [Now](https://open.spotify.com/album/2lzfXDmAAnFTwAHNc759Rz) | 6:53 |
 | 655 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 |
 | 656 | [Landline](https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H) | [Landline](https://open.spotify.com/artist/0bRSQWTnCzkRKctyXYrhs4) | [Landline](https://open.spotify.com/album/2171VebZnlhHswDZtosl4r) | 2:41 |
-| 657 | [Pt\. II](https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 0:20 |
-| 658 | [Dog](https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [The Rubber Teeth Talk](https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1) | 4:03 |
+| 657 | [Dog](https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [The Rubber Teeth Talk](https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1) | 4:03 |
+| 658 | [Somewhere In America There's A Street](https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu) | [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [What Up, Dog?](https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ) | 3:41 |
 
-Snapshot ID: `AAAIderc25Xu7ln66Pi2dopkNvrRGSpN`
+Snapshot ID: `AAAId3FhSBcJLb7t3E/PDxcnC1Audc+6`

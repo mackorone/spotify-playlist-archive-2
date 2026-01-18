@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-586 songs - 1 day 7 hr 54 min
+586 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2022-11-15 |  |
 | [Calipso](https://open.spotify.com/track/5ZIHevOd1uUhVsLOcHDtgk) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [BLACK YAYO VOL 1](https://open.spotify.com/album/4UPMJzwSy8OwRYmV9dDbyh) | 3:05 | 2023-05-12 | 2023-05-20 |
 | [Callejera](https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/1Q0pBlUdKI9x3ueSfFRIas) | 3:43 | 2022-01-28 | 2022-07-28 |
-| [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:55 | 2026-01-16 |  |
+| [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 | 2026-01-16 |  |
 | [Candela](https://open.spotify.com/track/1bra22ihn1UyVyilRRcpy2) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Jone Quest](https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE), [Killatonez](https://open.spotify.com/artist/4nHQ8aSEmbYpjIsgs7CmnB), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Eternity](https://open.spotify.com/album/2WA4eZXER4ZLTBftVKvrnO) | 4:22 | 2021-12-31 | 2022-07-07 |
 | [Caramelo](https://open.spotify.com/track/3Hv3jFa44MeGvd88EkOKBu) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [B&b](https://open.spotify.com/artist/7a62sLCBUNRLonwRpuO83Q), [Michael G](https://open.spotify.com/artist/2AVKxjthBgWLz1aMoHSxT2), [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd) | [Caramelo](https://open.spotify.com/album/1lIpEJ36ALqHWWeMGqk5UO) | 3:49 | 2021-12-31 | 2022-07-27 |
 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 | 2023-09-08 | 2024-07-01 |

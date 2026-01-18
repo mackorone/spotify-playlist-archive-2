@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,542 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,460 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
 | 8 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
 | 9 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
-| 10 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |
+| 10 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |
 | 11 | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/track/3y3ylOBgmuM19xR177J0eb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/album/5h66DxQNQGntf7Z2CCeDrv) | 2:23 |
 | 12 | [Bandido Con El Corazón Dañao](https://open.spotify.com/track/4qZj7rHcXOyA8sG64OYFUB) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [Bandido Con El Corazón Dañao](https://open.spotify.com/album/1TnsH8tqiz1Hx9ZGlqaqDw) | 3:27 |
 | 13 | [MVLAN](https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MVLAN](https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN) | 3:41 |

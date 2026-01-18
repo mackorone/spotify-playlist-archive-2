@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 122202,
+  "num_followers": 122212,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 182724,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Neverender",
         "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 182724,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Ultra 85",
+        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 314826,
+      "name": "Gardens III",
+      "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Shook Up",
         "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Ultra 85",
-        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 314826,
-      "name": "Gardens III",
-      "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
       },
@@ -939,6 +939,26 @@
       "duration_ms": 150005,
       "name": "Call",
       "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Tainted",
+        "url": "https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h"
+      },
+      "artists": [
+        {
+          "name": "Dpart",
+          "url": "https://open.spotify.com/artist/0k9fRHTbRsLI6w0qYbGzO9"
+        },
+        {
+          "name": "Niall T",
+          "url": "https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X"
+        }
+      ],
+      "duration_ms": 181403,
+      "name": "Tainted",
+      "url": "https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -971,26 +991,6 @@
       "duration_ms": 136875,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Tainted",
-        "url": "https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h"
-      },
-      "artists": [
-        {
-          "name": "Dpart",
-          "url": "https://open.spotify.com/artist/0k9fRHTbRsLI6w0qYbGzO9"
-        },
-        {
-          "name": "Niall T",
-          "url": "https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X"
-        }
-      ],
-      "duration_ms": 181403,
-      "name": "Tainted",
-      "url": "https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Blindside",
         "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 174855,
       "name": "Blindside",
       "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Los Hombres Tambi\u00e9n Lloran",
         "url": "https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 131684,
       "name": "Billete",
       "url": "https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
     },
     {
       "added_at": "2024-09-16 11:00:00",

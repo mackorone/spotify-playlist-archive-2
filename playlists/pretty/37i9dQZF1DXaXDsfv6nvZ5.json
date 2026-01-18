@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Tiana Major9",
-  "num_followers": 790815,
+  "num_followers": 790818,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1821,22 +1821,6 @@
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Here To Stay",
@@ -1851,6 +1835,22 @@
       "duration_ms": 202139,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
     },
     {
-      "added_at": "2025-12-05 07:50:19",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 219862,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Gold",
@@ -1903,6 +1887,22 @@
       "duration_ms": 248837,
       "name": "In Your Own Home",
       "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
+    },
+    {
+      "added_at": "2025-12-05 07:50:19",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -1961,26 +1961,6 @@
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
-      "added_at": "2025-11-21 11:03:13",
-      "album": {
-        "name": "Be Your Girl - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/05V2G70IevdM5BAf2PlzXR"
-      },
-      "artists": [
-        {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Be Your Girl - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
-    },
-    {
       "added_at": "2025-04-04 04:28:33",
       "album": {
         "name": "Heavy Deluxe: THE LIGHT",
@@ -2017,6 +1997,26 @@
       "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
+      "added_at": "2025-11-21 11:03:13",
+      "album": {
+        "name": "Be Your Girl - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/05V2G70IevdM5BAf2PlzXR"
+      },
+      "artists": [
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Be Your Girl - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
+    },
+    {
       "added_at": "2023-09-08 06:01:16",
       "album": {
         "name": "Come Around and Love Me",
@@ -2031,6 +2031,22 @@
       "duration_ms": 208933,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
+    },
+    {
+      "added_at": "2026-01-09 07:03:52",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 171675,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/2k6m9m423ljc0FWG134QAC"
     },
     {
       "added_at": "2024-10-25 07:15:59",
@@ -2065,20 +2081,20 @@
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
-      "added_at": "2026-01-09 07:03:52",
+      "added_at": "2025-11-07 07:43:36",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
         }
       ],
-      "duration_ms": 171675,
-      "name": "Lord Have Mercy",
-      "url": "https://open.spotify.com/track/2k6m9m423ljc0FWG134QAC"
+      "duration_ms": 183499,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2101,22 +2117,6 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
-      "added_at": "2025-11-07 07:43:36",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 183499,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
-    },
-    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "alone",
@@ -2133,22 +2133,6 @@
       "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
     },
     {
-      "added_at": "2025-08-15 19:53:41",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
-    },
-    {
       "added_at": "2025-12-12 18:54:21",
       "album": {
         "name": "Tangled (Stripped)",
@@ -2163,6 +2147,22 @@
       "duration_ms": 172933,
       "name": "Tangled (Stripped)",
       "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
+    },
+    {
+      "added_at": "2025-08-15 19:53:41",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2225,22 +2225,6 @@
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Looking for God",
-        "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Looking for God",
-      "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
-    },
-    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Stare at Me",
@@ -2259,6 +2243,22 @@
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Looking for God",
+        "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Looking for God",
+      "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
       "added_at": "2025-10-03 18:39:49",
@@ -2313,6 +2313,26 @@
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
     },
     {
+      "added_at": "2026-01-16 18:49:38",
+      "album": {
+        "name": "Don't Play - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4VoV1cJ3ql4COea87NNZ51"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Don't Play - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2349,22 +2369,6 @@
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LOW TIDE",
-      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
-    },
-    {
       "added_at": "2025-09-12 20:59:08",
       "album": {
         "name": "Silver Lining",
@@ -2381,6 +2385,22 @@
       "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Simply Beautiful",
@@ -2395,6 +2415,22 @@
       "duration_ms": 258000,
       "name": "Simply Beautiful",
       "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Waterfall (I Adore You)",
+        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 292940,
+      "name": "Waterfall (I Adore You)",
+      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
     },
     {
       "added_at": "2025-02-28 17:58:06",
@@ -2415,22 +2451,6 @@
       "duration_ms": 227649,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Waterfall (I Adore You)",
-        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 292940,
-      "name": "Waterfall (I Adore You)",
-      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
     },
     {
       "added_at": "2025-02-28 06:27:22",
@@ -2659,26 +2679,6 @@
       "duration_ms": 216000,
       "name": "been a minute",
       "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
-    },
-    {
-      "added_at": "2024-08-30 05:27:28",
-      "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 311038,
-      "name": "Bedroom Bully",
-      "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     }
   ],
   "unique_name": "Soul Coffee",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 
 > <a href="spotify:artist:1vK8NnrPlBlF34LaiFX1SK">Funk Tribu</a>'s favorite tracks\. Updated regularly\. Curated by Funk Tribu\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,643 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,661 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7riAhWKXLK0.md) - [plain]
 | 49 | [Switch](https://open.spotify.com/track/6JjxNCdvwq2NdSAYr3Qmu0) | [JOR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz) | [Switch](https://open.spotify.com/album/2u6qIlsuCcuT9lP1C3ftBE) | 3:45 |
 | 50 | [Phoenix \- Linds Remix](https://open.spotify.com/track/6mJAdFghoTt9r0vio9eWEj) | [Linds](https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc), [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [DJ POLKOMTEL](https://open.spotify.com/artist/1VuAnQWU5OzXL7Yf57bn70) | [Phoenix \(Linds Remix\)](https://open.spotify.com/album/36v1cNv4yT8eAUNJA80Sg1) | 4:32 |
 
-Snapshot ID: `AAAAAEM/AtorKi3WrCtan5SzdFfb7lg+`
+Snapshot ID: `AAAAACt2HG6Buo6RDroWY8BEkoQ27f85`

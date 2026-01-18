@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,045 likes - 41 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,263 likes - 41 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 | 22 | [Sealion](https://open.spotify.com/track/36Zrl0Kw93L6fyVULnYHlL) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK) | 3:39 |
 | 23 | [En dedans](https://open.spotify.com/track/2u6KcnqiuEcg9Vumf01hzS) | [Richy Jay](https://open.spotify.com/artist/1tzsk4xoWgfCkOO5dpR486), [EkaySounds](https://open.spotify.com/artist/42q6JhdjbfB3IFtBsr3TmV) | [Recto Verso](https://open.spotify.com/album/5OWswD29Pw1gpftLdcn2sy) | 2:50 |
 | 24 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
-| 25 | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv) | 2:36 |
+| 25 | [No Brake$](https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [No Brake$](https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv) | 2:36 |
 | 26 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 |
 | 27 | [L'anarchie des jours heureux \(chanson thème Le chalet\)](https://open.spotify.com/track/2dty520sn46L7iZRCRu6ro) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [L'anarchie des jours heureux \(chanson thème Le chalet\)](https://open.spotify.com/album/4G8HerJwhjOkScJQlRPsdP) | 2:48 |
 | 28 | [Aaliyah](https://open.spotify.com/track/26hUeZUdgM5AEzs31qr3SU) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [SAHARA](https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o) | 1:58 |

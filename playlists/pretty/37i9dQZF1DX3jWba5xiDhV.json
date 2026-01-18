@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 376440,
+  "num_followers": 376632,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-01-15 23:01:18",
       "album": {
-        "name": "Dancing in the Dark",
-        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+          "name": "Ken Laszlo",
+          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
         }
       ],
-      "duration_ms": 213207,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
+      "duration_ms": 206600,
+      "name": "Hey Hey Guy (7\" Vocal Version)",
+      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
     },
     {
       "added_at": "2026-01-15 23:01:18",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-01-15 23:01:18",
       "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
       },
       "artists": [
         {
-          "name": "Ken Laszlo",
-          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Hey Hey Guy (7\" Vocal Version)",
-      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
+      "duration_ms": 213207,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
     },
     {
       "added_at": "2026-01-15 23:01:18",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-01-15 23:01:18",
       "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
-    },
-    {
-      "added_at": "2026-01-15 23:01:18",
-      "album": {
         "name": "Golden Dance Hits",
         "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 231533,
       "name": "Boys (Summertime Love)",
       "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
+    },
+    {
+      "added_at": "2026-01-15 23:01:18",
+      "album": {
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2026-01-15 23:01:18",

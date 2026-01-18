@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923433,
+  "num_followers": 3923521,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 258409,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 258409,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Rust",
         "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
       },
@@ -611,6 +611,26 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -651,26 +671,6 @@
       "duration_ms": 204761,
       "name": "Body",
       "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
-      },
-      "artists": [
-        {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -915,6 +915,26 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -991,42 +1011,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
-        }
-      ],
-      "duration_ms": 259400,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 262008,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 188454,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 204419,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 313152,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc"
       },
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Swimming In The Dark",
-        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Swimming In The Dark",
-      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Go On",
         "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
       },
@@ -1763,6 +1763,54 @@
       "duration_ms": 204960,
       "name": "Go On",
       "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Swimming In The Dark",
+        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Swimming In The Dark",
+      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Kamakura",
+        "url": "https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV"
+      },
+      "artists": [
+        {
+          "name": "Youth Novels",
+          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
+        }
+      ],
+      "duration_ms": 316883,
+      "name": "Kamakura",
+      "url": "https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1791,34 +1839,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+        "name": "Fall To You",
+        "url": "https://open.spotify.com/album/4nzE5FiBuMwS3n5TQaGJbl"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
-      },
-      "artists": [
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        },
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 313152,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+      "duration_ms": 247559,
+      "name": "Fall To You",
+      "url": "https://open.spotify.com/track/563UGSS5oMHKG2Xx2mPivC"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1839,22 +1875,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Kamakura",
-        "url": "https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV"
-      },
-      "artists": [
-        {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
-        }
-      ],
-      "duration_ms": 316883,
-      "name": "Kamakura",
-      "url": "https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Behind The Line",
         "url": "https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 333213,
       "name": "Behind The Line",
       "url": "https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "Fall To You",
-        "url": "https://open.spotify.com/album/4nzE5FiBuMwS3n5TQaGJbl"
-      },
-      "artists": [
-        {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
-        },
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 247559,
-      "name": "Fall To You",
-      "url": "https://open.spotify.com/track/563UGSS5oMHKG2Xx2mPivC"
     },
     {
       "added_at": "2026-01-16 05:00:23",

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19296,
+  "num_followers": 19298,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Letnie my\u015bli",
+        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Letnie my\u015bli",
+      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Letnie my\u015bli",
-        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Letnie my\u015bli",
-      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Prosta Sprawa (Muzyka i piosenki z serialu)",
         "url": "https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 196048,
       "name": "Pami\u0119tam Ci\u0119",
       "url": "https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
         "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 310653,
       "name": "Kr\u00f3lowa \u0142ez",
       "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-463 songs - 1 day 0 hr 31 min
+465 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [dogwhistle](https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [my teeth will free you](https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR) | 4:49 | 2025-09-19 |  |
 | [Don't Play](https://open.spotify.com/track/2F99j2WpQ5GRWoTAQZ0rPQ) | [Marti](https://open.spotify.com/artist/4jmSBoKdI4v6xgF9B88u9Q), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Don't Play](https://open.spotify.com/album/6ev9CsA87Vs4hht6DQkWnc) | 2:54 | 2025-01-27 |  |
 | [DONTTOUCHANYTHING](https://open.spotify.com/track/3mHR0X6FG3Y7uofHs1QRjT) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:16 | 2025-11-11 | 2025-11-18 |
+| [DOUBL3 TAK3 \- R3MIX](https://open.spotify.com/track/5OCeL0gRKf54buDtZHFkq6) | [DAMAG3](https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [DOUBL3 TAK3 \(R3MIX\)](https://open.spotify.com/album/1YsqdmOXAqFh8Nhf7dzMgK) | 2:53 | 2026-01-17 |  |
 | [Dr1p](https://open.spotify.com/track/1yPooLQa9YF3ZLQckOWRcQ) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Holoplankton](https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp) | 3:49 | 2023-06-14 |  |
 | [Drained](https://open.spotify.com/track/3ISjtbkPZgp4kQaGuNcQwR) | [ABSRDST](https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM) | [Drained](https://open.spotify.com/album/3FDlszVMTptRq3PXkGbw4p) | 4:02 | 2024-11-18 |  |
 | [Dream Well](https://open.spotify.com/track/2matn9WPqhSjpWN1VsZDay) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 20:00 | 2025-07-17 | 2025-07-22 |
@@ -369,6 +370,7 @@
 | [She Rained Down](https://open.spotify.com/track/7fvMOmTsmThOIpzKGO8A7p) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [As Small As Ants](https://open.spotify.com/album/3nsiCBttVO5PmlsIT8mDVY) | 3:28 | 2024-07-22 |  |
 | [Shoot Me If You Can](https://open.spotify.com/track/2UkXYrNzmb1edRsMezsu1s) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [Shoot Me If You Can](https://open.spotify.com/album/3oEi6itGs4mFe5Op0QnTPz) | 3:25 | 2025-10-29 |  |
 | [Side Effects](https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [Side Effects](https://open.spotify.com/album/45Ix4hesCtMI2Hg1u457TW) | 2:20 | 2024-10-21 |  |
+| [Silhouette](https://open.spotify.com/track/0fC9GePxGbjfuOuGJLcLlh) | [GrieferPig](https://open.spotify.com/artist/7DmWu55IMdbyjRKmhsgTA6), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [Metajoker](https://open.spotify.com/artist/2fkfwkrtCqUBWuYOdg2iFO) | [Ponies At Dawn Fusion](https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh) | 3:25 | 2026-01-17 |  |
 | [Silly Plans \~ Revisit](https://open.spotify.com/track/5vP1NGTKuXXaEpU6pDdFrx) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Silly Plans \~ Revisit](https://open.spotify.com/album/2Ef4YpCkxaLfkC3kE12yZt) | 2:36 | 2023-12-05 |  |
 | [Sleep Deprived](https://open.spotify.com/track/1C5KmO8eaEnorSCyJ40YP1) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Dreamers Fall Pt\. 1](https://open.spotify.com/album/0VqDEbZdtGhcLe31jomCan) | 3:40 | 2023-06-14 |  |
 | [Sleep For Tonight](https://open.spotify.com/track/0hK1TRuegL0eGH7El9ZdZd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 3:29 | 2023-11-22 |  |

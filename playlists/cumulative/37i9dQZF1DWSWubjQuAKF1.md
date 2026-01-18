@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Nita
 
-693 songs - 1 day 9 hr 53 min
+694 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [było minęło](https://open.spotify.com/track/1P0uvpP1yBNBs6RgVeuTB1) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [było minęło](https://open.spotify.com/album/7mUd8uGotZWdppu9HwWsnr) | 3:12 | 2024-06-28 | 2024-08-23 |
 | [Było Minęło](https://open.spotify.com/track/14kyTL37LotnttqD7X4rqS) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [Było Minęło](https://open.spotify.com/album/2ehpPnrVRngjOKHZi2U5vp) | 3:11 | 2025-07-24 | 2025-08-01 |
 | [bądź głośno](https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ) | [NATE](https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP) | [bądź głośno](https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr) | 2:38 | 2025-10-07 | 2025-10-21 |
+| [BĘDĘ KIMŚ](https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Propz](https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2) | [WARM UP](https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV) | 2:55 | 2026-01-16 |  |
 | [Błąkam się](https://open.spotify.com/track/6y0EOAmIrzdSHdXs0umogb) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [Nastoletni dwudziestolatek](https://open.spotify.com/album/3sWnlf1z8Hgu1Sm8aRbghM) | 2:27 | 2024-06-28 | 2024-08-02 |
 | [Błękitny](https://open.spotify.com/track/4jW0731ILmf1ajLq0liBVb) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Błękitny](https://open.spotify.com/album/00q9IvVNEN2LYpp2FVxz58) | 3:01 | 2024-06-28 | 2024-07-19 |
 | [Can't Hide](https://open.spotify.com/track/5YJy4FNzokXFaiq6QoBuka) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [Can't Hide](https://open.spotify.com/album/2Yf42Gy5nxChZyEmKizL5s) | 2:41 | 2025-01-16 | 2025-03-14 |
@@ -556,7 +557,7 @@
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
 | [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 | 2025-10-21 | 2025-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
-| [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 | 2025-10-21 |  |
+| [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 | 2025-10-21 | 2026-01-18 |
 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |

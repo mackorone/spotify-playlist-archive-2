@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,598 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,683 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 31 | [Gbrokoto gbrakata](https://open.spotify.com/track/2P8xD8TqtVzoj8taYLcNnz) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Gbrokoto gbrakata](https://open.spotify.com/album/3gY7HkUtDfVfU1ltVRtHUY) | 3:11 |
 | 32 | [2K225](https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225](https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz) | 2:21 |
 | 33 | [Pousser Démarrer](https://open.spotify.com/track/4bjgCHM6Moyn1I8nBWEgB0) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Pousser Démarrer](https://open.spotify.com/album/2NQElktTGzLahZN3ZCzSNE) | 2:38 |
-| 34 | [Ma dernière Relation](https://open.spotify.com/track/4tUiQ4jkM3lPLzHeDI1nSC) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Ma dernière Relation](https://open.spotify.com/album/754eLu0PvJWfP0vjma4Gai) | 3:23 |
+| 34 | [Ma dernière relation](https://open.spotify.com/track/4tUiQ4jkM3lPLzHeDI1nSC) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Ma dernière relation](https://open.spotify.com/album/754eLu0PvJWfP0vjma4Gai) | 3:23 |
 | 35 | [Buvez Doucement](https://open.spotify.com/track/1JClBCHVPbFmlrJhS7oZ6X) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6) | [Kedjevaratitude \(Deluxe\)](https://open.spotify.com/album/3zg7GD5ljii4Dxrde910mH) | 4:15 |
 | 36 | [Les Jaloux](https://open.spotify.com/track/2fyfSbf6jsixylBUff0E0m) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:42 |
 | 37 | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt) | 2:59 |

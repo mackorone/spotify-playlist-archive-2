@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Miren quien volvió 💖💅🏽👑 Kenia Os en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,386 likes - 79 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,318 likes - 79 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Belladona](https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Belladona](https://open.spotify.com/album/16ZpanWKTqPtQrkuUTroyB) | 3:32 |
-| 2 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:55 |
+| 2 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 |
 | 3 | [El Último Minuto](https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Último Minuto](https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps) | 3:31 |
 | 4 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/0SE3TekWEHbNCzAXlmpMKH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/0ygGgae7374S8G40IQg9qs) | 3:02 |
 | 5 | [RÁPIDOS Y FURIOSOS 11](https://open.spotify.com/track/0OxD1r7oeCFCTqf50HHbk5) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [30 AÑOS](https://open.spotify.com/album/2Pcg1GcsIVmfnpeVwPvL2w) | 2:37 |

@@ -9116,6 +9116,24 @@
     {
       "album": {
         "name": "Bonita Bonita",
+        "url": "https://open.spotify.com/album/6BLPFT9B5o63dt5VM1KbyX"
+      },
+      "artists": [
+        {
+          "name": "4AMTapes",
+          "url": "https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274839,
+      "name": "Bonita Bonita",
+      "url": "https://open.spotify.com/track/1cGKyYZ0S7P0APgnjiCQ4E"
+    },
+    {
+      "album": {
+        "name": "Bonita Bonita",
         "url": "https://open.spotify.com/album/4UInUxbfQ7sgwOEWeJP9Dd"
       },
       "artists": [
@@ -16976,6 +16994,28 @@
       "duration_ms": 231375,
       "name": "Desp\u00eddase bien",
       "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
+    },
+    {
+      "album": {
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173154,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
     },
     {
       "album": {
@@ -26393,6 +26433,24 @@
     },
     {
       "album": {
+        "name": "GOZALO",
+        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113513,
+      "name": "GOZALO",
+      "url": "https://open.spotify.com/track/7hl1REazG2eMQwYLEsMhhz"
+    },
+    {
+      "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/4aHWmt1p9RlzHvaAonA4gx"
       },
@@ -33846,10 +33904,6 @@
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
         }
       ],
       "date_added": "2025-12-14",
@@ -37288,7 +37342,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 190770,
       "name": "Madre Mia",
       "url": "https://open.spotify.com/track/4RggfCU7eVdXnbE6yw958e"
@@ -42930,7 +42984,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 127616,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/3FqnTZ6nWEju530c1jUTnz"
@@ -42948,7 +43002,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 127366,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
@@ -43112,7 +43166,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 164210,
       "name": "M\u00c1S DE AH\u00cd",
       "url": "https://open.spotify.com/track/4ATzrqMF84B9iSCGUUqfTT"
@@ -52882,7 +52936,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 219879,
       "name": "Que Sensacion",
       "url": "https://open.spotify.com/track/7twqXr6jmo92Xyw0mSshRr"
@@ -53316,7 +53370,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 147719,
       "name": "Quiero paz nada m\u00e1s",
       "url": "https://open.spotify.com/track/5ioSXhqg7ViPekWDnQuga7"
@@ -64616,7 +64670,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 151611,
       "name": "Thootie (feat. Tokischa)",
       "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
@@ -66840,7 +66894,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177386,
-      "name": "Turn The Lights Off (feat. Jon)",
+      "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
     },
     {

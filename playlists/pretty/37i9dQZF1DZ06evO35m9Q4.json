@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 166962,
+  "num_followers": 166978,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAAS9aVb61/tBBjSjEQ7YCOq",
+  "snapshot_id": "aWl/gAAAAACfCIqxbLYX5PelPRru29c+",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous Blue Raincoat: 20th Anniversary Edition (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/3658N94yX3heWmnz4BToOA"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 226946,
-      "name": "First We Take Manhattan - Digitally Remastered",
-      "url": "https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE"
+      "duration_ms": 236293,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6IveFdcW71nooBQRl12dYy"
     },
     {
       "added_at": null,
@@ -303,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "Famous Blue Raincoat: 20th Anniversary Edition (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/3658N94yX3heWmnz4BToOA"
       },
       "artists": [
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 236293,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/6IveFdcW71nooBQRl12dYy"
+      "duration_ms": 226946,
+      "name": "First We Take Manhattan - Digitally Remastered",
+      "url": "https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 144600,
-      "name": "Wham",
-      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+      "duration_ms": 348160,
+      "name": "May I Have a Talk with You",
+      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 348160,
-      "name": "May I Have a Talk with You",
-      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+      "duration_ms": 144600,
+      "name": "Wham",
+      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
       "duration_ms": 335160,
       "name": "I'm Leaving You (Commit A Crime) - Live",
       "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
-      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 63323,
+  "num_followers": 63338,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAAuAEGHL5hTwYHOblM3n5pD",
+  "snapshot_id": "aWl/gAAAAAAdzOdGKeR9hA3NOqOn9xwo",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By The People, For The People",
-        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "King Of Pain",
-      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End Of All Things To Come",
         "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 181093,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By The People, For The People",
+        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Pushing Through",
-      "url": "https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End Of All Things To Come",
         "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 294333,
       "name": "Mercy, Severity",
       "url": "https://open.spotify.com/track/1qVgFDjk2NLBAApNvHfJ9i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Pushing Through",
+      "url": "https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "All Talk",
-      "url": "https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End Of All Things To Come",
         "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 281026,
       "name": "(Per)Version of a Truth",
       "url": "https://open.spotify.com/track/5brLoRraVT4Z9ZqqjRwhbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End Of All Things To Come",
         "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 281533,
       "name": "Trapped In the Wake of a Dream",
       "url": "https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 303066,
-      "name": "Beautiful And Strange",
-      "url": "https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 235280,
       "name": "On The Move - Demo",
       "url": "https://open.spotify.com/track/1IdIsjIw9rCpuLB7vkb7rX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 303066,
+      "name": "Beautiful And Strange",
+      "url": "https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/3KC2CER0sTOo8aNgMRR4Mm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 401800,
       "name": "Goodbye - Demo",
       "url": "https://open.spotify.com/track/31JGR5kHgbKGn4c49MV3Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 365853,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 365853,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6"
+      "duration_ms": 295306,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/3KC2CER0sTOo8aNgMRR4Mm"
     },
     {
       "added_at": null,

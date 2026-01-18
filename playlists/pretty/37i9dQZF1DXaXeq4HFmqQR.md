@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por  Masquemusica 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,878 likes - 26 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,880 likes - 26 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 25 | [TU LUZ \- Versión 2024](https://open.spotify.com/track/2yjkxc4WxhqnlWDRWHg7GX) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [TARDE O TEMPRANO](https://open.spotify.com/album/2aqIPQvSXOiKbs9hOJaYvZ) | 4:04 |
 | 26 | [Como una Ola a Medianoche](https://open.spotify.com/track/0qLdu85HjqLS16cGkpfMzH) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [KAPUT](https://open.spotify.com/artist/6mdMyJGKrZplEyLrIbIDMC) | [Santa Cecilia](https://open.spotify.com/album/2RbjM718D6FcMGiAAfdpeV) | 4:31 |
 
-Snapshot ID: `AAAAAFBIUSIy9CN7ANZtu9y/SazpleHg`
+Snapshot ID: `AAAAANDJztCE/EmfREyo6kEFEqn5Hp9I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,966 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,944 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 73 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 |
 | 74 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe) | 3:33 |
 | 75 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 |
-| 76 | [Right Where You Want Me to Be](https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Attack of the Killer B\-Sides](https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea) | 3:42 |
-| 77 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
-| 78 | [I'm Going Surfing for Xmas](https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [I'm Going Surfing for Xmas](https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf) | 2:15 |
-| 79 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
+| 76 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 |
+| 77 | [Right Where You Want Me to Be](https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Attack of the Killer B\-Sides](https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea) | 3:42 |
+| 78 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
+| 79 | [I'm Going Surfing for Xmas](https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [I'm Going Surfing for Xmas](https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf) | 2:15 |
 | 80 | [Winter Wonderland](https://open.spotify.com/track/6dfvCCCqhqlHYu5dItdG6c) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [We Three Kings](https://open.spotify.com/album/7LjWO9TmQMn1ac6IM9XeYL) | 3:23 |
 | 81 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |
 | 82 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work \(Deluxe Version\)](https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7) | 3:19 |

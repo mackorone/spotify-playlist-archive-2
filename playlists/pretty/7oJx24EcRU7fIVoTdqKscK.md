@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 
 > <a href="http://nyp.org/cpr/"> All of these songs are 100 BPM – the right beat to perform CPR\. Pick one to remember in case you ever need to save a life.</a>
 
-[nyphospital](https://open.spotify.com/user/nyphospital) - 144,738 likes - 68 songs - 4 hr 16 min
+[nyphospital](https://open.spotify.com/user/nyphospital) - 144,761 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 | 37 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
 | 38 | [Spirit in the Sky](https://open.spotify.com/track/0Y2SrByf4G3kbq2nBEHQRn) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Music From The Motion Picture Michael](https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22) | 3:59 |
 | 39 | [Girls Just Want to Have Fun](https://open.spotify.com/track/0QVgZCAnasHo3TevIz7XLW) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Twelve Deadly Cyns...And Then Some](https://open.spotify.com/album/7nGN8ny3YbvegR1NkU2LqB) | 3:54 |
-| 40 | [Book Of Love](https://open.spotify.com/track/2ICfDyHWHX8is55txuErxm) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love](https://open.spotify.com/album/0FZZ56YFaEBAPbpe97lmFb) | 2:24 |
+| 40 | [Book Of Love](https://open.spotify.com/track/2ICfDyHWHX8is55txuErxm) | [Monotones](https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm) | [Who Wrote The Book Of Love](https://open.spotify.com/album/0FZZ56YFaEBAPbpe97lmFb) | 2:24 |
 | 41 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 |
 | 42 | [Aint No Mountain High Enough Feat\. Marvin Gaye and Diana Ross](https://open.spotify.com/track/6efYmtQmsHQ06JNYhchaB0) | [Kris King](https://open.spotify.com/artist/78Rq6B6PjUffCefln4Iu7R) | [The Beat Arsenal Vol\. 1](https://open.spotify.com/album/4qWD0YShvVwRPBH7F0Vg6H) | 3:26 |
 | 43 | [Man in the Mirror \- Remastered Version](https://open.spotify.com/track/1nl09AjkuO7BBRF3BFAPsC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 5:19 |

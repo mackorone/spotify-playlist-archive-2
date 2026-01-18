@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 3li¥en
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,561 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,560 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 |
+| 1 | [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 |
 | 2 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
 | 3 | [PAIN IS BEAUTY](https://open.spotify.com/track/7Bc96fVAoMggWutAjjb1fG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:55 |
 | 4 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 |
 | 5 | [花・魁 \- feat\. Medusa, E.V.P & IFE](https://open.spotify.com/track/1w14iqJWOh74Bx7LldAfig) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Medusa](https://open.spotify.com/artist/1TzyeS338hV4LOl9GW22tA), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 3:15 |
-| 6 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
+| 6 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
 | 7 | [Bad Bitch 美学 Remix](https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 6:09 |
 | 8 | [逆境天使](https://open.spotify.com/track/0c12TKuFhhdeaJ3eTSllqD) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [キメラ](https://open.spotify.com/album/6X5wMbwuhsioPbp5DlhQY3) | 2:49 |
 | 9 | [kawaii kawaii \(feat\. 重盛さと美\)](https://open.spotify.com/track/5GWwLSZsXDo5BUVRXvO4OW) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [EASY MODE](https://open.spotify.com/album/7xO7vcPs8Uau9BQcwJN0QZ) | 3:02 |

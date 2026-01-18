@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-870 songs - 1 day 19 hr 27 min
+872 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 | 2024-10-18 |
 | [Cha Cha Cha \(Vain elämää kausi 16\)](https://open.spotify.com/track/7AJ3STqR7GkieahvF9dMHN) | [Pelle Miljoona](https://open.spotify.com/artist/7Gi708Ix6cns0SGJiZ4tvo) | [Cha Cha Cha \(Vain elämää kausi 16\)](https://open.spotify.com/album/1mFccI2UEmvLauPalTE52j) | 4:16 | 2025-09-11 | 2025-09-19 |
 | [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/track/20K4ACwbRhAQAsY07m96Ca) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/album/37GedKbVaIqIkF5LDJf7oq) | 1:55 | 2025-06-08 | 2025-08-13 |
-| [Chilleis](https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Chilleis](https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW) | 2:05 | 2025-12-18 |  |
+| [Chilleis](https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Chilleis](https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW) | 2:05 | 2025-12-18 | 2026-01-18 |
+| [Clean Girl](https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Clean Girl](https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V) | 2:57 | 2026-01-15 |  |
 | [Clique La Lv](https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Clique La Lv](https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP) | 2:16 | 2025-12-18 |  |
 | [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2026-01-01 |  |
 | [Cocktail](https://open.spotify.com/track/64PFfjxVkMnJtGd3WMZ1v7) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Mun vuosi](https://open.spotify.com/album/7fTdqVRml2FU5x6z9y8hGl) | 2:43 | 2025-03-20 | 2025-04-11 |
@@ -661,6 +662,7 @@
 | [Sitä ei muuta mikään](https://open.spotify.com/track/1ivwNDz7HEuF8jTE83LrhH) | [Antti Ketonen](https://open.spotify.com/artist/5YxFBIX6yyncauK1DmRPY7) | [Sitä ei muuta mikään](https://open.spotify.com/album/0DilZjWVzpSDJtrNPyQaHY) | 3:12 | 2024-10-10 | 2024-11-15 |
 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 | 2024-09-12 | 2024-11-29 |
 | [Soita mulle](https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Soita mulle](https://open.spotify.com/album/2sMdAWOawJutUfa9axCHCS) | 2:41 | 2025-04-03 | 2025-04-18 |
+| [Solmui](https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Solmui](https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO) | 3:18 | 2026-01-15 |  |
 | [Sori rakas](https://open.spotify.com/track/6FBXR79IkXG5buvnkAiuoB) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Sori rakas](https://open.spotify.com/album/0Ig0JcsvzM5zHCp1iQjhUu) | 2:04 | 2025-07-10 | 2025-09-19 |
 | [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 | 2025-11-13 |  |
 | [SRR](https://open.spotify.com/track/4vDIYUPebV425O9fXMmikx) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [SRR](https://open.spotify.com/album/3GW5a1LAFUscAFWiMov8Fj) | 2:10 | 2024-11-21 | 2024-12-06 |
@@ -732,7 +734,7 @@
 | [Tirehtööri](https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Tirehtööri](https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6) | 2:43 | 2024-07-04 | 2024-08-23 |
 | [Todisteit](https://open.spotify.com/track/02bqxfiXyjrAW9csuJMH7u) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Todisteit](https://open.spotify.com/album/7vQVK8d4GCK6yOyC8EOqIX) | 2:15 | 2025-08-28 | 2025-09-19 |
 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 | 2026-01-08 |  |
-| [Toinen elämä](https://open.spotify.com/track/1xjMgO7IMiuvekfNwreG1d) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Toinen elämä](https://open.spotify.com/album/0IFurHEXIkIdwKJND4lChq) | 2:56 | 2025-12-11 |  |
+| [Toinen elämä](https://open.spotify.com/track/1xjMgO7IMiuvekfNwreG1d) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Toinen elämä](https://open.spotify.com/album/0IFurHEXIkIdwKJND4lChq) | 2:56 | 2025-12-11 | 2026-01-18 |
 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 | 2025-04-10 | 2025-05-30 |
 | [Toisillemme parhaat](https://open.spotify.com/track/5B3Meo3iNYMrfl8C328Ue1) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Toisillemme parhaat](https://open.spotify.com/album/4ij7IXe5wYI18zemE35eBJ) | 4:04 | 2026-01-08 |  |
 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 | 2024-10-10 | 2025-01-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 117776,
+  "num_followers": 117826,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,38 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/2L4XSyyDeIW30SawLTOlj4"
+        "name": "Down to the Moon",
+        "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        },
+        {
+          "name": "Jon Otis",
+          "url": "https://open.spotify.com/artist/1eYM0EaoFHS1YhPdBNeN0j"
+        },
+        {
+          "name": "Matthias Ziegler",
+          "url": "https://open.spotify.com/artist/0BJA103k5TtODCqNU9Aac5"
+        },
+        {
+          "name": "Christoph Ziegler",
+          "url": "https://open.spotify.com/artist/3ArHMvXvhmgMF8SdPHSSSj"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Aldebaran - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0c0atmDbuyQ2hV143MN70h"
+      "duration_ms": 147240,
+      "name": "Down to the Moon",
+      "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -127,38 +147,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Down to the Moon",
-        "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/2L4XSyyDeIW30SawLTOlj4"
       },
       "artists": [
         {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        },
-        {
-          "name": "Jon Otis",
-          "url": "https://open.spotify.com/artist/1eYM0EaoFHS1YhPdBNeN0j"
-        },
-        {
-          "name": "Matthias Ziegler",
-          "url": "https://open.spotify.com/artist/0BJA103k5TtODCqNU9Aac5"
-        },
-        {
-          "name": "Christoph Ziegler",
-          "url": "https://open.spotify.com/artist/3ArHMvXvhmgMF8SdPHSSSj"
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
         }
       ],
-      "duration_ms": 147240,
-      "name": "Down to the Moon",
-      "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
+      "duration_ms": 185586,
+      "name": "Aldebaran - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0c0atmDbuyQ2hV143MN70h"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Cool Islands",
-        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
         "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Cool Islands",
+        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Natural States",
         "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 344293,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -363,6 +347,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 416026,
-      "name": "Midnight On Mars",
-      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Caverna Magica (...Under The Tree - In The Cave...)",
         "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 320493,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 416026,
+      "name": "Midnight On Mars",
+      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Inside The Taj Mahal",
-        "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
-      },
-      "artists": [
-        {
-          "name": "Paul Horn",
-          "url": "https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mumtaz Mahal",
-      "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Wolkenreise II",
         "url": "https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 272346,
       "name": "Wolkenreise - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Inside The Taj Mahal",
+        "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
+      },
+      "artists": [
+        {
+          "name": "Paul Horn",
+          "url": "https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mumtaz Mahal",
+      "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Fresh Aire I",
-        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
-      },
-      "artists": [
-        {
-          "name": "Mannheim Steamroller",
-          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Interlude II",
-      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Alpha Centauri",
         "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 261906,
       "name": "Sunrise in the Third System",
       "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Fresh Aire I",
+        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
+      },
+      "artists": [
+        {
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Interlude II",
+      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 323693,
       "name": "Processional: Root Chakra",
       "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Quiet Joy / Domestic Peace",
-        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Quiet Joy",
-      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Lydglimt",
         "url": "https://open.spotify.com/album/37ixvLulBM547iKlOYXna0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 189146,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Quiet Joy / Domestic Peace",
+        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Quiet Joy",
+      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
     },
     {
       "added_at": "2023-08-18 14:02:54",

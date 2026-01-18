@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,157 songs - 20 day 17 hr 42 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,158 songs - 20 day 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8165,5 +8165,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8155 | [DON'T BE DUMB / TRIP BABY](https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 4:45 |
 | 8156 | [THE END](https://open.spotify.com/track/22FKiBdLUCRHlZJthzTlAy) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:34 |
 | 8157 | [FISH N STEAK \(WHAT IT IS\)](https://open.spotify.com/track/6qJjgYxhZ3gBTm4TI8t41e) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:49 |
+| 8158 | [うまぴょい伝説](https://open.spotify.com/track/3hfF0rKFBjNN8wfeMjKLrh) | [スペシャルウィーク \(CV\. 和氣あず未\)](https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2), [オグリキャップ \(CV\. 高柳知葉\)](https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU), [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE), [ナリタブライアン \(CV\. 衣川里佳\)](https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO), [タマモクロス \(CV\. 大空直美\)](https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1), [マンハッタンカフェ \(CV\. 小倉 唯\)](https://open.spotify.com/artist/2d98ZLHWDouB08EmvIk6qi), [アグネスタキオン \(CV\. 上坂すみれ\)](https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35), [サトノダイヤモンド \(CV\. 立花日菜\)](https://open.spotify.com/artist/3CM8ZXEF2A0gALNS4vptp0), [キタサンブラック \(CV\. 矢野妃菜喜\)](https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS), [サクラローレル \(CV\. 真野美月\)](https://open.spotify.com/artist/3wM5MuwDqTFhHYY5T8PHtE), [サトノクラウン \(CV\. 鈴代紗弓\)](https://open.spotify.com/artist/1VBUFMoigX0eL9udp7qWaQ), [シュヴァルグラン \(CV\. 夏吉ゆうこ\)](https://open.spotify.com/artist/2xgEy3RyCYHdv0nydyx8G5), [ヴィルシーナ \(CV\. 奥野香耶\)](https://open.spotify.com/artist/44SZbPtnQUWCJHf2RGT4gO), [ジャングルポケット \(CV\. 藤本侑里\)](https://open.spotify.com/artist/7C07VqCiKxQNUH8cGYkCeD), [ドゥラメンテ \(CV\. 秋奈\)](https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF), [ラインクラフト \(CV\. 小島菜々恵\)](https://open.spotify.com/artist/6q10F6stzvRxGMRikQk3Ra), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ジェンティルドンナ \(CV\. 芹澤 優\)](https://open.spotify.com/artist/7bMKVYI9MuADIRL7VBpXqM), [ウインバリアシオン \(CV\. 月城日花\)](https://open.spotify.com/artist/2jsQkILJDBHSlf35DuDYFv) | [『ウマ娘 プリティーダービー』WINNING LIVE 16](https://open.spotify.com/album/66dxmnaI5RPRQfDoNZGqlj) | 4:29 |
 
-Snapshot ID: `AAAKZPnZ9RWUrm5bYF0/csUuoxFQ/Eml`
+Snapshot ID: `AAAKZURA4cWzf88pp7i3R6rSquMx9D9e`

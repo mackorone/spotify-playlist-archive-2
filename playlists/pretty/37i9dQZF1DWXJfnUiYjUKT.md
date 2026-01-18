@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with A$AP Rocky on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,043 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,119 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 65 | [NASTY \(How She Like It\)](https://open.spotify.com/track/54um7bn5mJhSn66j5NCQM9) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj) | [NASTY \(How She Like It\)](https://open.spotify.com/album/11gIOwGXkmyYBuMmCJ0bkP) | 2:52 |
 | 66 | [4me?](https://open.spotify.com/track/1V57UV83BZdTSR1N0Nd8cI) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [4me?](https://open.spotify.com/album/0Y8iEEG9eYOq6saas4yZYD) | 2:27 |
 | 67 | [Ayi Giri](https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Ayi Giri / Dopamine Machine](https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7) | 3:06 |
-| 68 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 68 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 69 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 |
 | 70 | [Belladona](https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Belladona](https://open.spotify.com/album/16ZpanWKTqPtQrkuUTroyB) | 3:32 |
 | 71 | [Lay Your Heartache Onto Mine \- Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)](https://open.spotify.com/track/76gz4QAPcJnftDIjgmK65h) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Lay Your Heartache Onto Mine \[Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)\]](https://open.spotify.com/album/5g2F6CcSyH7sY4gLVFRMlf) | 3:18 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-566 songs - 1 day 8 hr 12 min
+569 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/377J1aplt18Une7a21KIKr) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Another Friday Night](https://open.spotify.com/album/01cGIsFPOyQo6BqL1sQgq9) | 2:46 | 2023-07-20 | 2023-07-24 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-09-08 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/1RIN8Gl2f5c6120Fo80LyA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4ChJzflZKb1ShHNSjLB30T) | 2:48 | 2023-12-15 | 2024-01-27 |
+| [Headache](https://open.spotify.com/track/6LYFeW0kFfq673sEbVtGLm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 2:44 | 2026-01-17 |  |
 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 | 2022-09-08 |  |
 | [Heart & Soul](https://open.spotify.com/track/43CUlaY5YEGT9FAswTrge2) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/436wUKlBnir0ZcfpBTLixm) | 2:42 | 2022-10-28 | 2022-10-31 |
 | [Heart & Soul](https://open.spotify.com/track/61yTqIK1JeO1V6bwOeTKSb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/6sxWIQBXdPaom8CiG0IMOT) | 2:42 | 2023-12-13 |  |
@@ -476,6 +477,7 @@
 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 | 2022-09-08 |  |
 | [SXWME \(feat\. Jay Park\)](https://open.spotify.com/track/5PzJ6T2iKxIjst96NiVFJx) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Coolwater + Identity](https://open.spotify.com/album/55XunovJjgmmrRjdXOAWQE) | 3:33 | 2025-01-09 | 2025-04-12 |
 | [Take Me Somewhere](https://open.spotify.com/track/23VVDS6j7vW6ZJHFII7EiP) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 2:57 | 2025-04-17 |  |
+| [Taste](https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 2:50 | 2026-01-17 |  |
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-09-25 |  |
 | [Tequila](https://open.spotify.com/track/2LqwV6UF8PGnoEtqw8nYzN) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Tequila](https://open.spotify.com/album/2SDHS19pVLQt02yHehI6BJ) | 3:48 | 2023-12-13 | 2024-02-02 |
 | [Tequila \- Jax Jones & Martin Solveig Present Europa](https://open.spotify.com/track/6fU55C7VdMSSkJ0ZGmX2Kg) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks \(Supersize\)](https://open.spotify.com/album/4PBfH44I6nfqf3sibVoG8O) | 3:30 | 2022-09-08 |  |
@@ -574,5 +576,6 @@
 | [You Love Who You Love](https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:05 | 2024-02-11 | 2024-03-02 |
 | [You Love Who You Love](https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:05 | 2024-03-01 |  |
 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 | 2022-09-08 |  |
+| [第五个季节 \(The Fifth Season\)](https://open.spotify.com/track/4eGVeNsfVbAgZiUHX4FT1C) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [白色定格 \(Eternal White\) \- Winter Special Album](https://open.spotify.com/album/0pgch8UoKF7ofIMnOlxPYH) | 1:19 | 2026-01-17 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

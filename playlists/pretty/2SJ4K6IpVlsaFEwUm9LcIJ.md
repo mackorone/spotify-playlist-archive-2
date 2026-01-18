@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,799 likes - 23 songs - 1 hr 39 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,797 likes - 25 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 21 | [The Lemon of Pink II](https://open.spotify.com/track/4Sp2Hz3EaK8ZfJpFVi0QSc) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [The Lemon of Pink \(Remastered\)](https://open.spotify.com/album/6zwjQ6buUEcF3E9IGTJXtP) | 1:35 |
 | 22 | [One April Day](https://open.spotify.com/track/4MqaQr8z3hBTUHR9suoRzw) | [Stephin Merritt](https://open.spotify.com/artist/2x7iCl510O317XjOcG7iOf) | [Pieces of April](https://open.spotify.com/album/2ZVgEXDzYQbfX6jmQ9FzFu) | 1:54 |
 | 23 | [Dance](https://open.spotify.com/track/3idjeb4oia9I59Dql0aPkD) | [Duncan Troast](https://open.spotify.com/artist/0Qrm0co28DmwqKD2HrWHzR), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [music for 2 pianos](https://open.spotify.com/album/77A0GbCVkBQZFC4iB5yByx) | 1:05 |
+| 24 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
+| 25 | [Extraordinary Machine](https://open.spotify.com/track/5h9Iek7Hp9wayRt7fBp7Ab) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 3:43 |
 
-Snapshot ID: `AAANydAV1sFZc8qd/IAJHf/6H0e12Q1Z`
+Snapshot ID: `AAANy5nyZJF7h9h6nWlMaZ8p7QF+USTq`

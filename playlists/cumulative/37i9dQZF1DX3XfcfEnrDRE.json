@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: The Band JAREN",
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Matt Crocker",
   "name": "Christian Alt",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 170588,
       "name": "alive?",
       "url": "https://open.spotify.com/track/5ARZuV6TzcY9Q0cFijQbPf"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "ALWAYS (You Should Know)",
+        "url": "https://open.spotify.com/album/1wp7T8vtSOmHfbLpjOLegJ"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215440,
+      "name": "ALWAYS (You Should Know)",
+      "url": "https://open.spotify.com/track/1mDFQrM8qnCnaLe1CLcdaJ"
+    },
+    {
+      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
       },
@@ -319,6 +337,28 @@
     },
     {
       "album": {
+        "name": "At The Well",
+        "url": "https://open.spotify.com/album/68K2uVG8iFMNk1scyUgQnL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Stern",
+          "url": "https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238568,
+      "name": "At The Well",
+      "url": "https://open.spotify.com/track/3w2fh8jDoQMUDQHCIF0g3B"
+    },
+    {
+      "album": {
         "name": "hard to dream",
         "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
       },
@@ -388,6 +428,42 @@
       "duration_ms": 180261,
       "name": "Autumn Fires",
       "url": "https://open.spotify.com/track/1HQ1ywGXL08RE0cwRcrII8"
+    },
+    {
+      "album": {
+        "name": "Balm",
+        "url": "https://open.spotify.com/album/7paqogwkyNkcD33F2jhe5t"
+      },
+      "artists": [
+        {
+          "name": "Dan Stirling",
+          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "Balm",
+      "url": "https://open.spotify.com/track/5qoJy6cr8kvwUDwYXv0RQ2"
+    },
+    {
+      "album": {
+        "name": "Barter",
+        "url": "https://open.spotify.com/album/3Ygj0OorA80jw0W4EbViwK"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121041,
+      "name": "Barter",
+      "url": "https://open.spotify.com/track/7MFbesTdcv5KiSFORxThgQ"
     },
     {
       "album": {
@@ -478,7 +554,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 277028,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb"
@@ -858,7 +934,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 230000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0NddCjNtBMxNqgaWqmhZNL"
@@ -934,7 +1010,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 177103,
       "name": "COMEBACK SEASON",
       "url": "https://open.spotify.com/track/5E36wzlPS1Gmtym4DWSmSV"
@@ -1170,7 +1246,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 213101,
       "name": "Death Where Is Your Sting?",
       "url": "https://open.spotify.com/track/4oImWy4YqYFSJa0wKFtBjq"
@@ -1348,7 +1424,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 209200,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/0RirkvWjLrMxQUPWv0zeC6"
@@ -2446,7 +2522,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 184000,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/1WRU7UlaMltJyVhYDDv7fl"
@@ -2482,7 +2558,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 202285,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/7rgJeV9Z7yBdhfRAH8Sjwv"
@@ -2638,10 +2714,32 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 293400,
       "name": "Homesick for a Memory",
       "url": "https://open.spotify.com/track/6MUA7QiTZ77oj77lJdLYMM"
+    },
+    {
+      "album": {
+        "name": "honeydew (praise the Lord)",
+        "url": "https://open.spotify.com/album/3v4YAiKftCXg0OIUqkY01l"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        },
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/62hqdhJ06TBb9leXXl4OwP"
     },
     {
       "album": {
@@ -2660,6 +2758,28 @@
       "duration_ms": 224000,
       "name": "honeydew (praise the Lord)",
       "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/7hsnOH26U1ZMnxEpEAQV3k"
+      },
+      "artists": [
+        {
+          "name": "Sons of David",
+          "url": "https://open.spotify.com/artist/0G6USkLTqbeFmfA199Psbh"
+        },
+        {
+          "name": "Kyd the Band",
+          "url": "https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/2dPCtKchWtJLsbEnK47Kfl"
     },
     {
       "album": {
@@ -2870,6 +2990,24 @@
       "duration_ms": 177800,
       "name": "I Don't Wanna Live Like This",
       "url": "https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN"
+    },
+    {
+      "album": {
+        "name": "I Just Hope",
+        "url": "https://open.spotify.com/album/2kxfrcZOhEJv3I0QoeVQ9A"
+      },
+      "artists": [
+        {
+          "name": "RIVER RIVER",
+          "url": "https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183248,
+      "name": "I Just Hope",
+      "url": "https://open.spotify.com/track/3rcIjxnY6mNHGpZR4XWzNq"
     },
     {
       "album": {
@@ -3650,7 +3788,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 249500,
       "name": "Learning",
       "url": "https://open.spotify.com/track/22AYOd3JZsngJelKkBycEW"
@@ -3798,7 +3936,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 347586,
       "name": "Little Blue Machine",
       "url": "https://open.spotify.com/track/2rlPgkAOk0XZsNgxXfu4DR"
@@ -3932,6 +4070,24 @@
       "duration_ms": 202500,
       "name": "Love The Lord Your God",
       "url": "https://open.spotify.com/track/51xuudodMP8FrEnDXk7gdp"
+    },
+    {
+      "album": {
+        "name": "Lowly Servant",
+        "url": "https://open.spotify.com/album/5CATMjtyxgweU9zF1li0pn"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230117,
+      "name": "Lowly Servant",
+      "url": "https://open.spotify.com/track/75FJOeHfUs7p0HtQqWFzeH"
     },
     {
       "album": {
@@ -4088,7 +4244,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 190609,
       "name": "midnight hour - reimagined",
       "url": "https://open.spotify.com/track/1S9bYeCC5CrM6JK0M9NwCW"
@@ -4726,7 +4882,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 167000,
       "name": "PAINT A PICTURE",
       "url": "https://open.spotify.com/track/61lvFmM5LK5sScXkIwLYv8"
@@ -4846,7 +5002,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 221204,
       "name": "Powerless",
       "url": "https://open.spotify.com/track/3WIZnVR8RsKBGYYq0Ftl3c"
@@ -5555,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/1UjVCCsnpbcOI69qCgUrJK"
+      },
+      "artists": [
+        {
+          "name": "RIVER RIVER",
+          "url": "https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229250,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/62Hv5THS0foe6h4W5Nlmuf"
+    },
+    {
+      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q"
       },
@@ -5620,7 +5794,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 187308,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/17FOvK0kPGWVK4X7GOW1AY"
@@ -5664,7 +5838,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 196977,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/7riAHNpUNb2JKekZwYXeRy"
@@ -5855,6 +6029,28 @@
     },
     {
       "album": {
+        "name": "THE ROOM",
+        "url": "https://open.spotify.com/album/5GPiORHDbMHnJIIA2PGd9O"
+      },
+      "artists": [
+        {
+          "name": "The Slower I Go",
+          "url": "https://open.spotify.com/artist/38rsfStCmtbbQYWajCB5bo"
+        },
+        {
+          "name": "Brooklyn Summer",
+          "url": "https://open.spotify.com/artist/3zI21v7XfwzHfBu5g3CcNz"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "THE ROOM",
+      "url": "https://open.spotify.com/track/6ANSECDHRzRtHZk5qpmPBE"
+    },
+    {
+      "album": {
         "name": "Asaph's Arrows II",
         "url": "https://open.spotify.com/album/7kOSrO39glloRECjkFAbQU"
       },
@@ -5928,6 +6124,24 @@
       "duration_ms": 202748,
       "name": "This Is The Kingdom",
       "url": "https://open.spotify.com/track/6X2Hk6NqJZtRaQKi0yDNdR"
+    },
+    {
+      "album": {
+        "name": "This Is The Love",
+        "url": "https://open.spotify.com/album/1py9e4lFT0drB1kIHfJ9hF"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "This Is The Love",
+      "url": "https://open.spotify.com/track/7wr0gntMKI6TkR7OQRDH0w"
     },
     {
       "album": {
@@ -6183,6 +6397,24 @@
     },
     {
       "album": {
+        "name": "interlude ellipsis",
+        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "walk into the light",
+      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
+    },
+    {
+      "album": {
         "name": "Walking Into Fire",
         "url": "https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB"
       },
@@ -6230,7 +6462,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 189334,
       "name": "Wave Goodbye",
       "url": "https://open.spotify.com/track/34PDjr91wLkzDm8M2I0X3L"

@@ -4,7 +4,7 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-78 songs - 3 hr 41 min
+79 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2025-07-01 |  |
 | [In De Schuur](https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 3:01 | 2025-07-01 |  |
 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 | 2025-07-01 |  |
+| [Jij en Ik](https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7) | [Belle Perez](https://open.spotify.com/artist/58llsXEROa2xdy24HI6D3r), [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Jij en Ik](https://open.spotify.com/album/2fZn6VOg5V3AuudSaM2cfp) | 3:09 | 2025-12-26 |  |
 | [Kadootje](https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Kadootje](https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy) | 2:23 | 2025-07-01 |  |
 | [Kijk Ons Nou](https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Kijk Ons Nou](https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt) | 2:43 | 2025-07-01 | 2026-01-15 |
 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 | 2025-07-01 |  |
@@ -56,7 +57,7 @@
 | [Oh Ja Ja Ja \(Zon In Mijn Hart\)](https://open.spotify.com/track/06CuCa8iOFYqcENCrRGRKG) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Oh Ja Ja Ja \(Zon In Mijn Hart\)](https://open.spotify.com/album/1P7IqW4XgFZMFRML1aDvai) | 2:44 | 2025-07-01 | 2025-10-17 |
 | [Ontspanje](https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ontspanje](https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N) | 2:40 | 2025-07-01 |  |
 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 | 2025-07-01 |  |
-| [Pepas](https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Pepas](https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4) | 3:18 | 2025-07-01 |  |
+| [Pepas](https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Pepas](https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4) | 3:18 | 2025-07-01 | 2026-01-18 |
 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 | 2025-07-01 |  |
 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2025-07-01 | 2025-12-18 |
 | [Rendez\-Vous](https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Rendez\-Vous](https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7) | 3:18 | 2025-07-01 |  |

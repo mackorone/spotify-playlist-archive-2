@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,861 songs - 8 day 13 hr 4 min
+3,863 songs - 8 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2762,6 +2762,7 @@
 | [Ronald](https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Ronald](https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2) | 3:16 | 2025-04-09 |  |
 | [Roses](https://open.spotify.com/track/1J850PsKKVf2euOIbMd7bX) | [XIX](https://open.spotify.com/artist/0ZUpmbNh1NeLibf0DGZxMX) | [Roses](https://open.spotify.com/album/7E3aGtofoDYwfB3nYfMjQX) | 4:06 | 2026-01-04 |  |
 | [Rosso di picche](https://open.spotify.com/track/0xBvjpmiXcyH4ygh42EUNN) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Rosso di picche](https://open.spotify.com/album/7Fih6aegd8VcJiPdL5hjmG) | 2:50 | 2025-03-17 |  |
+| [Roster!](https://open.spotify.com/track/2xDF6qeiwqNLbIxH8UwhXh) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Roster!](https://open.spotify.com/album/1YVX5NgvUedHgCuqfXQzim) | 1:36 | 2026-01-17 |  |
 | [Roulette](https://open.spotify.com/track/2Y5TSpsBZtcB3xEhn48nZx) | [SANIE](https://open.spotify.com/artist/6hGhITRHyJ9SatLYAV58jK) | [Roulette](https://open.spotify.com/album/66wSLCLFpUEvWL0lx3Ow5i) | 2:40 | 2025-06-05 |  |
 | [Rovella](https://open.spotify.com/track/6U6odbewmRHwza3BR0s7ts) | [Marco Calabrese](https://open.spotify.com/artist/6EMeR1KHvPd2YoOw8pOqq8) | [Rovella](https://open.spotify.com/album/20pr01m3WumxEMifOgHG7E) | 3:40 | 2025-06-29 |  |
 | [Roving](https://open.spotify.com/track/2iFb32gt0lJMFFpBsNOf5C) | [Quadro](https://open.spotify.com/artist/7FXbjsru0ij2pDAFWTSMNY) | [Roving](https://open.spotify.com/album/1mDXT8zu4TX1AtsikVoQLp) | 3:12 | 2025-06-05 |  |
@@ -3289,6 +3290,7 @@
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2025-07-28 |  |
 | [Thank You Life](https://open.spotify.com/track/5ZQlfJktZStufDHddWpypW) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Thank You Life](https://open.spotify.com/album/41NFgg2nXwEJVlQaGNnA8M) | 3:18 | 2025-06-13 |  |
 | [That's All](https://open.spotify.com/track/5ORKszvLlq6O63KofHqrF5) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [That's All](https://open.spotify.com/album/0xBbxIBfU3C7lYqri5SICg) | 3:00 | 2025-06-03 |  |
+| [That's the Way](https://open.spotify.com/track/2pNaBTVWNk3T02RrZ7HQr3) | [Chemical Prisoner](https://open.spotify.com/artist/4HA8dUaEJfdKGwWq9aHTCi) | [That's the Way](https://open.spotify.com/album/6QvOtLnAeTVXmH6H0J9KaO) | 1:38 | 2026-01-17 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/6Tw0ApH9QJEPDQhvhOtDxO) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:02 | 2025-06-05 |  |
 | [The Bad Days Are Over](https://open.spotify.com/track/2tTyU76LtKHEJAX13BWpjC) | [The Fundamentals](https://open.spotify.com/artist/2AWUizNIRpANqhkWrlIwZU) | [The Bad Days Are Over](https://open.spotify.com/album/1hofWsIqsQxO0v8YE5lFV6) | 2:33 | 2025-08-02 |  |
 | [The Best Track for "Gribnyk TV Live"](https://open.spotify.com/track/51TzpcUaR8auxfZZyBmCUA) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [The Best Track for "Gribnyk TV Live"](https://open.spotify.com/album/68peaj8teOj1fZUrlqSQWG) | 2:56 | 2025-06-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,162 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,136 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,18 +62,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 52 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 |
 | 53 | [From all of us](https://open.spotify.com/track/6zTvl1rhTJ9EonFzDdbXGm) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [From all of us](https://open.spotify.com/album/4PBH9L1AHEX0aH4lMCKz10) | 2:11 |
 | 54 | [El Tamborillero](https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [El Tamborillero](https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu) | 2:46 |
-| 55 | [Santa Baby](https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e) | [Holiday Beats](https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3) | [Santa Baby](https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6) | 2:26 |
-| 56 | [Mittens](https://open.spotify.com/track/167wzYrPHytGWBEWgkhIfu) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Snowday](https://open.spotify.com/album/39hzFWykaMtDNN5tnoUzWw) | 2:05 |
+| 55 | [Mittens](https://open.spotify.com/track/167wzYrPHytGWBEWgkhIfu) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Snowday](https://open.spotify.com/album/39hzFWykaMtDNN5tnoUzWw) | 2:05 |
+| 56 | [Santa Baby](https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e) | [Holiday Beats](https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3) | [Santa Baby](https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6) | 2:26 |
 | 57 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 |
 | 58 | [Christmas with the Fam](https://open.spotify.com/track/6tbT1c1921mH2FgqKsRDup) | [DonVayei](https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb) | [Christmas with the Fam](https://open.spotify.com/album/6JXqAeAzROt0JixEaCbQBx) | 2:28 |
 | 59 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1jYPxZRtTjBkzONbXSDcth) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/0tM8zlJ2jEL7AcwmPltjEW) | 1:57 |
-| 60 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 |
-| 61 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
+| 60 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
+| 61 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 |
 | 62 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 |
 | 63 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 |
 | 64 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
-| 65 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
-| 66 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 65 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 66 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
 | 67 | [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 |
 | 68 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
 | 69 | [Happy Christmas \(War is Over\)](https://open.spotify.com/track/2M35q1wTRD4r8flr66VdFR) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Happy Christmas](https://open.spotify.com/album/5F1vyxWSEVBWLW8q8ClShQ) | 2:02 |

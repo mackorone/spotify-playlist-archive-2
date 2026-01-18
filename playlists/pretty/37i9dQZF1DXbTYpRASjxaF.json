@@ -1,12 +1,12 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 134816,
+  "num_followers": 134803,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADgRksblnKUrKiHrqAXw6ywhE/Jy",
+  "snapshot_id": "AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR",
   "tracks": [
     {
       "added_at": "2026-01-09 03:01:25",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-01-09 03:01:25",
       "album": {
-        "name": "Eu Te Procurei",
-        "url": "https://open.spotify.com/album/5EtcTRGQVvH0my9qrLqp3w"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Tozha",
-          "url": "https://open.spotify.com/artist/6PxRGJ1QiXDcWhGQEli532"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Eu Te Procurei",
-      "url": "https://open.spotify.com/track/2yrw5T1OVDjER8vb2DyUxm"
-    },
-    {
-      "added_at": "2026-01-09 03:01:25",
-      "album": {
         "name": "MPC (M\u00fasica Popular Carioca)",
         "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 144000,
       "name": "PIXAD\u00c3O NO BAILE",
       "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
+    },
+    {
+      "added_at": "2026-01-09 03:01:25",
+      "album": {
+        "name": "Eu Te Procurei",
+        "url": "https://open.spotify.com/album/5EtcTRGQVvH0my9qrLqp3w"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Tozha",
+          "url": "https://open.spotify.com/artist/6PxRGJ1QiXDcWhGQEli532"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "Eu Te Procurei",
+      "url": "https://open.spotify.com/track/2yrw5T1OVDjER8vb2DyUxm"
     },
     {
       "added_at": "2026-01-09 03:01:25",
@@ -775,6 +775,30 @@
     {
       "added_at": "2026-01-09 03:01:25",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
+      },
+      "artists": [
+        {
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
+    },
+    {
+      "added_at": "2026-01-09 03:01:25",
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 248997,
       "name": "Quarto 28",
       "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
-    },
-    {
-      "added_at": "2026-01-09 03:01:25",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
-      },
-      "artists": [
-        {
-          "name": "yollirum",
-          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
-        },
-        {
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 133064,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-01-09 03:01:25",

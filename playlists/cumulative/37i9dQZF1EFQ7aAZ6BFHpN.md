@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-244 songs - 18 hr 32 min
+245 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [My Sunday Fella](https://open.spotify.com/track/7CgnC1LPmNqlsCjigRVHOK) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 4:27 | 2024-07-24 |  |
 | [Nice Work If You Can Get It \- Remastered](https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:21 | 2024-07-24 |  |
 | [Niet Voor Mij Alleen](https://open.spotify.com/track/33T3wNvINj0gHMu18bgeJN) | [Kommil Foo](https://open.spotify.com/artist/68X7EQtVYHuUAYoFilK3wE) | [Wolf](https://open.spotify.com/album/3304CAyy9hPpSlCDS1UWA9) | 4:37 | 2024-07-24 | 2025-08-06 |
+| [NO HYPE \(con Tredici Pietro, Diss Gacha\)](https://open.spotify.com/track/2WaTC44IfgHh1ppGAzoOCD) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 2:47 | 2026-01-17 |  |
 | [Not Invited](https://open.spotify.com/track/7AYWfI4XyXEpknmgN6xOPn) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 3:14 | 2025-01-09 | 2025-04-12 |
 | [Nothing But Love](https://open.spotify.com/track/1rss0GffDwykCmieNzGQYM) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/28JqeTO39K30eh0u0wXvQz) | 3:24 | 2024-07-24 | 2024-08-24 |
 | [Nothing But Love](https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:24 | 2024-08-23 |  |

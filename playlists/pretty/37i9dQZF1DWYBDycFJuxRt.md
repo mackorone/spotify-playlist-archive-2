@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 乃紫 \*👉 <a href="https://spice.eplus.jp/articles/343347">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,659 likes - 104 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,676 likes - 104 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 76 | [近況報告](https://open.spotify.com/track/7EnroHOG1DxiGxQzUOcS5v) | [Nombrari](https://open.spotify.com/artist/0tN5CyaLXdQ0MjJFfZZNx2) | [近況報告](https://open.spotify.com/album/5o9DzUNanFSZtaJdmesAQc) | 3:21 |
 | 77 | [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 |
 | 78 | [都会](https://open.spotify.com/track/1eiWsSi1C4KB1L2IMEIKrI) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [都会](https://open.spotify.com/album/2CVJQOZdKSRmMhQiEhjo7a) | 4:43 |
-| 79 | [SWEET MEMORIES \(feat\. 奇妙礼太郎\)](https://open.spotify.com/track/6mQBVUdt4XntyLng2ee9b6) | [Tawoyame Orchestra](https://open.spotify.com/artist/0rWA2q3W29hVw4cAJ9whsb), [奇妙礼太郎](https://open.spotify.com/artist/0mLNWhTYNuT4iUNTQi86Wg) | [SWEET MEMORIES \(feat\. 奇妙礼太郎\)](https://open.spotify.com/album/6v7HM6Cw0XcUrbbruFY6E4) | 5:11 |
+| 79 | [SWEET MEMORIES \(feat\. 奇妙礼太郎\)](https://open.spotify.com/track/6mQBVUdt4XntyLng2ee9b6) | [Tawoyame Orchestra](https://open.spotify.com/artist/0rWA2q3W29hVw4cAJ9whsb), [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [SWEET MEMORIES \(feat\. 奇妙礼太郎\)](https://open.spotify.com/album/6v7HM6Cw0XcUrbbruFY6E4) | 5:11 |
 | 80 | [tatoushi](https://open.spotify.com/track/1l726gJf8d6BUfGiiw6icn) | [FUKUSHIGE MARI](https://open.spotify.com/artist/74ldwS36YOZpiNSBf2XYBs) | [tatoushi](https://open.spotify.com/album/2wLoE4oB5hPiOiaCmmKmiy) | 3:40 |
 | 81 | [Villain](https://open.spotify.com/track/5bh8gQZSSodGykhyZbv1aU) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Villain](https://open.spotify.com/album/4DeK87yfuMijZSYK84176i) | 3:48 |
 | 82 | [アズール](https://open.spotify.com/track/7HvOrjNpfqJWH2kDzmPFfy) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk) | [RAW](https://open.spotify.com/album/4PvVXLfuuyxuQJzWRyBxU6) | 4:55 |

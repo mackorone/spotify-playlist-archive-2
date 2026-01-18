@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,118 likes - 105 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,120 likes - 105 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 104 | [Puedo Imaginar](https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Puedo Imaginar](https://open.spotify.com/album/0oq5McpgKrsCtqtTXqkhsZ) | 4:48 |
 | 105 | [A Beleza](https://open.spotify.com/track/4Avk9bEiYltkKuPqLj6wvu) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [A Beleza](https://open.spotify.com/album/6srdyboK37JMTeCNvJNUUE) | 3:44 |
 
-Snapshot ID: `AAAAAKFzx+8xmV7HJAonv4zZmuM/76Tc`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

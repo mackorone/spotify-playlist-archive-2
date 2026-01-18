@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 29 min
+111 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [REDLIGHT](https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [REDLIGHT](https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP) | 3:47 | 2024-06-02 | 2026-01-15 |
 | [REDLIGHT](https://open.spotify.com/track/6vx3BTJ34toUfAqevscDTI) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [REDLIGHT](https://open.spotify.com/album/5AefEXlzhGcgciplFhzGho) | 3:47 | 2026-01-15 |  |
 | [Rise N Shine \(feat\. Poo Bear\) \- Justice Skolnik Remix](https://open.spotify.com/track/7IRQUCarlAan7Wnmm6zpTS) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw) | [Rise N Shine \(feat\. Poo Bear\) \[Justice Skolnik Remix\]](https://open.spotify.com/album/1xQtIDxHbsIo36hVfPd9uc) | 3:07 | 2023-12-13 | 2024-07-29 |
-| [Rise N Shine \- Justice Skolnik Remix](https://open.spotify.com/track/51LoRvhylfb9PTccAmYVQT) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Rise N Shine \(Justice Skolnik Remix\)](https://open.spotify.com/album/6MxcAkHetEdAyUotamFHKL) | 3:07 | 2024-07-29 |  |
+| [Rise N Shine \- Justice Skolnik Remix](https://open.spotify.com/track/51LoRvhylfb9PTccAmYVQT) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Rise N Shine \(Justice Skolnik Remix\)](https://open.spotify.com/album/6MxcAkHetEdAyUotamFHKL) | 3:07 | 2024-07-29 | 2026-01-18 |
+| [Rise N Shine \- Justice Skolnik Remix](https://open.spotify.com/track/5CJyWzr3Jdc6wqFHE9pZCv) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Rise N Shine \(Justice Skolnik Remix\)](https://open.spotify.com/album/2KpBkiO2fMUyzWRBVsbY6e) | 3:07 | 2026-01-18 |  |
 | [ROCKSTAR WASTED](https://open.spotify.com/track/6bGAFtfnBtl3jU4naGowfc) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 2:38 | 2024-06-28 | 2024-07-02 |
 | [ROWDYRUFF BOYZ \(with Eva Shaw\)](https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [ROWDYRUFF BOYZ \(with Eva Shaw\)](https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia) | 2:55 | 2023-12-13 |  |
 | [RVPTVRE](https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [RVPTVRE](https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq) | 3:34 | 2024-03-09 | 2026-01-15 |

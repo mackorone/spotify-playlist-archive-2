@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "ALDRIG L\u00c6RT AT ELSKE",
+        "url": "https://open.spotify.com/album/6X3mh1aqNrfiudZxvuIhH2"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "aldrig l\u00e6rt at elske.",
+      "url": "https://open.spotify.com/track/1XDnyQ39GBHH1rC4OQVsfw"
+    },
+    {
+      "album": {
         "name": "Calirose",
         "url": "https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO"
       },
@@ -5312,7 +5330,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 177385,
       "name": "Brugt mine dage",
       "url": "https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E"
@@ -7864,7 +7882,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -10853,6 +10871,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9t der er med livet",
+        "url": "https://open.spotify.com/album/2rzNQKFTo7azF1ix4XU4OR"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196043,
+      "name": "D\u00e9t der er med livet",
+      "url": "https://open.spotify.com/track/3GUL2HDpzfFxECfL89Mx8S"
+    },
+    {
+      "album": {
         "name": "D\u00d8DINDENI",
         "url": "https://open.spotify.com/album/79wlho5i8loOvZEpsCxAHu"
       },
@@ -12002,7 +12038,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 207639,
       "name": "Et sted hvor vi de f\u00f8rste",
       "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
@@ -12236,7 +12272,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -14212,7 +14248,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 197323,
       "name": "Frankrig (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/4cg5noLUNYyA0gEJBIMOXs"
@@ -17246,10 +17282,32 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 177618,
       "name": "Hele Vejen (feat. Mumle)",
       "url": "https://open.spotify.com/track/2p4cYfKQbg8xHXNG4eQaGo"
+    },
+    {
+      "album": {
+        "name": "H\u00f8jt At Flyve Dybt At Falde",
+        "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177618,
+      "name": "Hele Vejen (feat. Mumle)",
+      "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
     },
     {
       "album": {
@@ -17268,6 +17326,24 @@
       "duration_ms": 148113,
       "name": "Hele Vejen Ind",
       "url": "https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
       "album": {
@@ -21092,7 +21168,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 172790,
       "name": "Ingen Yin uden Yang (feat. Mille)",
       "url": "https://open.spotify.com/track/3a8RzqE7p910NGHodOezRS"
@@ -26067,6 +26143,28 @@
     },
     {
       "album": {
+        "name": "Lyse N\u00e6tter",
+        "url": "https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        },
+        {
+          "name": "Sigvardt",
+          "url": "https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "Lyse N\u00e6tter",
+      "url": "https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I"
+    },
+    {
+      "album": {
         "name": "Sortedam",
         "url": "https://open.spotify.com/album/1XJYMVpTiA0OrK7mgBsAnv"
       },
@@ -29216,7 +29314,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -29986,6 +30084,28 @@
       "duration_ms": 153603,
       "name": "Nye Tider",
       "url": "https://open.spotify.com/track/013w3c0ynCHuRaruYGsmxn"
+    },
+    {
+      "album": {
+        "name": "Nyhavn (feat. Ella Augusta)",
+        "url": "https://open.spotify.com/album/1XQzJCS5yuvSJ2ByPqnv2F"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        },
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Nyhavn (feat. Ella Augusta)",
+      "url": "https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd"
     },
     {
       "album": {
@@ -30904,6 +31024,24 @@
       "duration_ms": 192700,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171845,
+      "name": "ORDER OF PROTECTION",
+      "url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
       "album": {
@@ -34672,7 +34810,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 187338,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0W3xaNPnpTHr6qDcGrPM1i"
@@ -36065,6 +36203,24 @@
     },
     {
       "album": {
+        "name": "H\u00f8jt At Flyve Dybt At Falde",
+        "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150934,
+      "name": "Smukkeste Jeg Har Set",
+      "url": "https://open.spotify.com/track/0pZXWuwaf6o8Bn4Oz6oG6R"
+    },
+    {
+      "album": {
         "name": "Smukkeste Jeg Har Set",
         "url": "https://open.spotify.com/album/5Flhn4J1nT5mpkaUnszANg"
       },
@@ -36076,7 +36232,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 150934,
       "name": "Smukkeste Jeg Har Set",
       "url": "https://open.spotify.com/track/7cEPXGIE00uZgOCMb3x0Oe"
@@ -37351,6 +37507,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346093,
+      "name": "STAY HERE 4 LIFE",
+      "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
+    },
+    {
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -37664,6 +37838,24 @@
       "duration_ms": 201797,
       "name": "Stjernerne",
       "url": "https://open.spotify.com/track/6bGEf1NKIcpuqlo4BfLy7V"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199015,
+      "name": "STOLE YA FLOW",
+      "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
     },
     {
       "album": {

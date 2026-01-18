@@ -1,13 +1,33 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6856,
+  "num_followers": 6864,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADO/48MVOnatkrV1/MEywlZ+jah73E3",
+  "snapshot_id": "AADPAJFeEMWSQ39FIko0yu2StVO2dZlG",
   "tracks": [
+    {
+      "added_at": "2026-01-15 09:22:02",
+      "album": {
+        "name": "Me tir\u00e9 a un Facha",
+        "url": "https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb"
+      },
+      "artists": [
+        {
+          "name": "Montedapena",
+          "url": "https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv"
+        },
+        {
+          "name": "PLATER\u00cdAS",
+          "url": "https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Me tir\u00e9 a un Facha",
+      "url": "https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY"
+    },
     {
       "added_at": "2026-01-16 05:07:25",
       "album": {
@@ -427,26 +447,6 @@
       "duration_ms": 234608,
       "name": "100",
       "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-01-15 09:22:02",
-      "album": {
-        "name": "Me tir\u00e9 a un Facha",
-        "url": "https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb"
-      },
-      "artists": [
-        {
-          "name": "Montedapena",
-          "url": "https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv"
-        },
-        {
-          "name": "PLATER\u00cdAS",
-          "url": "https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Me tir\u00e9 a un Facha",
-      "url": "https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY"
     },
     {
       "added_at": "2026-01-16 05:59:04",
@@ -1199,7 +1199,7 @@
     {
       "added_at": "2026-01-16 07:48:58",
       "album": {
-        "name": "Fuck It Up",
+        "name": "Fuck It Up (feat. Declan McKenna)",
         "url": "https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP"
       },
       "artists": [
@@ -1213,7 +1213,7 @@
         }
       ],
       "duration_ms": 212448,
-      "name": "Fuck It Up",
+      "name": "Fuck It Up (feat. Declan McKenna)",
       "url": "https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 123547,
+  "num_followers": 123556,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAATqjoNBRDmVZEFQBATsDN9",
+  "snapshot_id": "aWl/gAAAAABD88Kj14AnMun4PkaHiWze",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards",
-        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 172426,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 192906,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essential Standards",
+        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
     },
     {
       "added_at": null,

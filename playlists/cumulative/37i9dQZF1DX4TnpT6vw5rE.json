@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "barely there",
+        "url": "https://open.spotify.com/album/7hoZpcYmvSa7FNjIjHqcFt"
+      },
+      "artists": [
+        {
+          "name": "allbelow",
+          "url": "https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116741,
+      "name": "barely there",
+      "url": "https://open.spotify.com/track/4vRPnhqQZkdUVh30iDyM9a"
+    },
+    {
+      "album": {
         "name": "Beautiful Design",
         "url": "https://open.spotify.com/album/49owziR1u29dhr8009A3ey"
       },
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 179000,
       "name": "Silent Motion",
       "url": "https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF"

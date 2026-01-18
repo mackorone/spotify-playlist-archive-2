@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-459 songs - 22 hr 19 min
+460 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Lento](https://open.spotify.com/track/17cLuz6Hxa3VWRpKdztUxr) | [Cheko\_la\_C](https://open.spotify.com/artist/02DZAGyoSWxCPclFghT6NH) | [Lento](https://open.spotify.com/album/56ieTFrw7wGjOmwMmsZ1Qc) | 3:11 | 2024-07-15 |  |
 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 | 2023-07-26 |  |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-07-26 |  |
+| [Life crazy](https://open.spotify.com/track/5B03BthFX6Zw0931RWRixA) | [Tymar2k](https://open.spotify.com/artist/2CanSgzsvRDktr0MCZeQY7) | [Life crazy](https://open.spotify.com/album/09m1pEt1RF8D0UP1tKwbMx) | 1:28 | 2026-01-17 |  |
 | [LIMOUSINE](https://open.spotify.com/track/5LNEsJnGpSNSJOGIvxJiHD) | [no chaser](https://open.spotify.com/artist/5knprW8nhvAwuiyTmaaONL), [Yungster Jack](https://open.spotify.com/artist/3u8gw2fsGkXsQywU99i3S0) | [THE GLO UP 1.5](https://open.spotify.com/album/7evnxYk2c2uZiIRwzu2upD) | 3:40 | 2024-06-10 |  |
 | [Line Groove Shuffle YSA Edition](https://open.spotify.com/track/1yFVHrj3LriAETYnyi7XGw) | [Kodybod](https://open.spotify.com/artist/1a7axJARDyPn85KBeVBjpp) | [Line Groove Shuffle YSA Edition](https://open.spotify.com/album/1XieW9uMDJtxTIlRupG7Aj) | 3:19 | 2024-06-27 |  |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-07-26 |  |

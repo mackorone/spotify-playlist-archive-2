@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2773,
+  "num_followers": 2775,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAACW4PfONkXUS4PaPmqFPrHb",
+  "snapshot_id": "aWl/gAAAAAAs/fICKCf6csx6mPQRMDxW",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 272840,
-      "name": "Wild Blue",
-      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
+      "duration_ms": 347160,
+      "name": "Spend The Grace",
+      "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 347160,
-      "name": "Spend The Grace",
-      "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
+      "duration_ms": 272840,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43196,
+  "num_followers": 43198,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAABpsfcJ4y5yW5B53uXxU+13",
+  "snapshot_id": "aWl/gAAAAAC3zzHGHjHDOWjGogghfeEZ",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beer and Blood Stains",
+        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Beer and Blood Stains",
+      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resurrection: Ascension",
         "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "The Glory Of Love",
-      "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 195826,
       "name": "Iris",
       "url": "https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "The Glory Of Love",
+      "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Head On Collision",
-      "url": "https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 220653,
       "name": "King Of Wishful Thinking",
       "url": "https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Head On Collision",
+      "url": "https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beer and Blood Stains",
-        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Beer and Blood Stains",
-      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 182066,
       "name": "Truth Of My Youth",
       "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Whole New Sound",
         "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 178823,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 110938,
-      "name": "Cups",
-      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 188253,
       "name": "This Disaster",
       "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 110938,
+      "name": "Cups",
+      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 210040,
       "name": "At Least I'm Known For Something",
       "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 203963,
       "name": "nothing matters (with Jordan Pundik of New Found Glory)",
       "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Hijos de la Ruina, Manuel Turizo, Young Cister, Metrika y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,418 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,438 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LOS NIÑOS DEL BARRIO](https://open.spotify.com/track/24Ehg00dcSz8e66wBWmFdW) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Hijos de la Ruina](https://open.spotify.com/artist/39pp1wX82VRlVVohxushdp) | [HIJOS DE LA RUINA VOL\. 4](https://open.spotify.com/album/2TOE3xkVku8an92zfsNAzb) | 3:22 |
 | 2 | [Por un Pendejo no se llora \- Salud mi Reina](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora \(Salud mi Reina\)](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 |
-| 3 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |
+| 3 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |
 | 4 | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/track/3Qk8BwdlfhxQgbsbirMWmD) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/album/519kAGpWRfLu916UM2wXqA) | 3:01 |
 | 5 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
 | 6 | [MVLAN](https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MVLAN](https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN) | 3:41 |

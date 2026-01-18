@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 A$AP Rocky, Charlie Puth, Charli XCX, Gorillaz, Madison Beer and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,632 likes - 86 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,648 likes - 86 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 69 | [Not Home](https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Not Home](https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM) | 2:00 |
 | 70 | [Go Mode](https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Go Mode](https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg) | 3:08 |
 | 71 | [Feel Alive](https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Feel Alive](https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6) | 2:48 |
-| 72 | [Open!](https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open!](https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4) | 2:52 |
+| 72 | [Open! feat\. なかむらみなみ](https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open! feat\. なかむらみなみ](https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4) | 2:52 |
 | 73 | [Satellite](https://open.spotify.com/track/3WbjNLqt3lCcxLHk9Nabgw) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk), [TRiiiPSS](https://open.spotify.com/artist/4K9M8WhEZQeYBGdZQYl8fK) | [Satellite](https://open.spotify.com/album/44VXc0LgBF0Q5w9L0phJ1I) | 2:46 |
 | 74 | [think & dream](https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [think & dream](https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH) | 3:36 |
 | 75 | [Fake Jeezy](https://open.spotify.com/track/5LJ6CVeQyUve7oOrRpwO8x) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/5kTFAxmZ6wNljlyAkXvSYC) | 2:40 |

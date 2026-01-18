@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Régulo Molina, Oscar Maydon y Neton Vega en cover
 
-980 songs - 1 day 23 hr 45 min
+980 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Calle pero Elegante](https://open.spotify.com/track/6aofSgbaXPW7vxxYs6vHB6) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [Calle pero Elegante](https://open.spotify.com/album/4HbAFBuOTirqALcQzPIJL7) | 3:17 | 2023-03-17 | 2023-07-29 |
 | [Campeón](https://open.spotify.com/track/4kRLHJNMBXL8kQLVMMxYZe) | [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [viraxbabycrazy](https://open.spotify.com/artist/5KOEfIQmMLls2cuTXgEDmD) | [BLACKSTARS: Volumen 2](https://open.spotify.com/album/5Zl5xvXyzrxodG1dCSoqTu) | 2:18 | 2025-11-28 |  |
 | [Can Am](https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 2:44 | 2024-09-27 | 2025-02-01 |
-| [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:55 | 2026-01-16 |  |
+| [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 | 2026-01-16 |  |
 | [canciondeamor.mp3](https://open.spotify.com/track/3SyRbMSovxjQ2jBFxhIytQ) | [0xLxxl](https://open.spotify.com/artist/5vL7m9m6LyEb71j1fZlZVW), [BITO](https://open.spotify.com/artist/5BWRkXcJTDM8ToDDL5p2Bg) | [canciondeamor.mp3](https://open.spotify.com/album/7pr0F8f3ssNDu0cbkf0PEt) | 2:48 | 2023-03-31 | 2023-04-09 |
 | [Canciones de Don](https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Canciones de Don](https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz) | 2:44 | 2023-02-17 | 2024-06-08 |
 | [Cancún](https://open.spotify.com/track/12ofPzOuKs8atT0bv53IZU) | [Tony Egan](https://open.spotify.com/artist/74udaBfuUTtwJQC2kofEXm) | [Cancún](https://open.spotify.com/album/4xWikX9ovoAUYiIG7vtFAA) | 2:56 | 2023-04-07 | 2023-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bolivia.",
-  "num_followers": 1803,
+  "num_followers": 1805,
   "original_name": "Top Songs - Bolivia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MP2d6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MP7vaAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-01-16 14:29:18",
@@ -182,10 +182,6 @@
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
         }
       ],
       "duration_ms": 192111,
@@ -267,8 +263,8 @@
     {
       "added_at": "2026-01-16 14:29:18",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi"
+        "name": "House of Pleasure",
+        "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
       },
       "artists": [
         {
@@ -276,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 190560,
+      "duration_ms": 192120,
       "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
+      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
     },
     {
       "added_at": "2026-01-16 14:29:18",

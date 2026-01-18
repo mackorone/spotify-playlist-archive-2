@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,489 songs - 7 day 2 hr 36 min
+4,490 songs - 7 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,6 +1502,7 @@
 | [Good Days](https://open.spotify.com/track/0D2uyP2g9J35PIPgruBw4f) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [Good Days](https://open.spotify.com/album/0uhsl9xStElxg7iywFRmA9) | 2:04 | 2024-04-04 | 2024-10-25 |
 | [Good Days](https://open.spotify.com/track/3wqzpq6GjCZba3B07Lx6zs) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Good Days](https://open.spotify.com/album/3LOv68VbnZ2JotvYfBId59) | 1:51 | 2023-10-19 | 2023-11-17 |
 | [Good Feeling](https://open.spotify.com/track/41Zbx9gIwTvzLKI4W4aIRi) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Good Feeling](https://open.spotify.com/album/7b1B1AVELoNYj1cbOiyERY) | 2:00 | 2025-06-27 | 2025-07-19 |
+| [Good Life](https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Good Life](https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4) | 2:06 | 2026-01-16 |  |
 | [Good Life](https://open.spotify.com/track/5BPKNG6yHbj0Q2W6ksMbbH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Good Life](https://open.spotify.com/album/14nfJf9nfZN9RcigywyrMI) | 2:20 | 2021-11-19 | 2021-12-11 |
 | [Good Morning](https://open.spotify.com/track/0RVzAEJdh4VsuRIkLqmo7t) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Good Morning](https://open.spotify.com/album/4SCB9uNYIdzpQeicMrtFFy) | 1:05 | 2020-01-17 | 2020-04-24 |
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 | 2023-04-21 |
@@ -4191,7 +4192,7 @@
 | [VIA](https://open.spotify.com/track/5H7yDezoxn10adF0rW2LLs) | [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv), [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [VIA](https://open.spotify.com/album/1jsP9f8mQOCFo1mLTwEuAT) | 2:06 | 2021-04-09 | 2021-06-11 |
 | [viagem](https://open.spotify.com/track/3up03CSKzYQUCgVAwGWZDV) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [O Cavalo Vermelho](https://open.spotify.com/album/0K0Cgh1LHUe4Wm29WEdipr) | 1:37 | 2020-03-13 | 2020-05-25 |
 | [Vibe](https://open.spotify.com/track/2OkC0MUMo1ifsLtohDU7Xo) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Vibe](https://open.spotify.com/album/0IwKOoPp5yI03QxsSVGmfJ) | 1:33 | 2025-11-28 | 2026-01-17 |
-| [Vibe I'm](https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Vibe I'm](https://open.spotify.com/album/6VQqZ9XqscI897TCLIv5n9) | 2:14 | 2024-01-15 |  |
+| [Vibe I'm](https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Vibe I'm](https://open.spotify.com/album/6VQqZ9XqscI897TCLIv5n9) | 2:14 | 2024-01-15 | 2026-01-18 |
 | [Vibe Tribe](https://open.spotify.com/track/13ub3uDcsh7mqolvP2cTSc) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Vibe Central](https://open.spotify.com/album/2kUiNABc0dXtIuuf9kDQnA) | 4:29 | 2019-06-29 | 2019-10-25 |
 | [vibe with me](https://open.spotify.com/track/6iJaqvWa15ID6jihfVmcBs) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [vibe with me \- EP](https://open.spotify.com/album/7xSoFqE9fPKAyGBoUnPsAE) | 1:22 | 2019-07-30 | 2020-01-17 |
 | [Viberian Waves \- Pt\. 1](https://open.spotify.com/track/01b4RZH3mxKwJvIRIkpEMN) | [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB), [Capitol Peoples](https://open.spotify.com/artist/07cUcW2lEvBZSFE7wmVgaQ) | [Viberian Waves \(Pt\. 1 & 2\)](https://open.spotify.com/album/45cKJbgPSFx7AZupJkT6ni) | 3:20 | 2020-09-11 | 2020-11-07 |

@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: hemlocke springs
 
-3,278 songs - 7 day 11 hr 46 min
+3,279 songs - 7 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,7 +1073,7 @@
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-05-03 | 2024-06-01 |
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 | 2022-12-17 |
 | [Fuck Around Phase](https://open.spotify.com/track/1FyhViHV8NdA68NdCmvDMU) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Fuck Around Phase](https://open.spotify.com/album/3gc6aADQfnmUgX0ama4Lac) | 2:41 | 2023-03-24 | 2023-05-13 |
-| [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 | 2026-01-16 |  |
+| [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 | 2026-01-16 |  |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-05-27 | 2022-08-13 |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-04 | 2025-08-16 |
 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 | 2025-05-23 | 2025-06-14 |
@@ -1733,6 +1733,7 @@
 | [Love Song](https://open.spotify.com/track/6AoAAW6AJBdZ9Ket9nUhSG) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1ej1wD4Xw3T47czXKeFixm) | 2:40 | 2023-08-04 | 2023-10-15 |
 | [love that kills](https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [love that kills](https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl) | 3:04 | 2026-01-16 |  |
 | [Love to Death](https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Love to Death](https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL) | 3:33 | 2025-04-25 | 2025-07-12 |
+| [Love To Go](https://open.spotify.com/track/5l84ho4jDsReTMHAsYrZoJ) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [](https://open.spotify.com/album/null) | 2:46 | 2026-01-16 |  |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-01-12 | 2024-03-02 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-15 | 2024-01-13 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-14 | 2023-01-28 |

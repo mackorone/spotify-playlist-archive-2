@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-312 songs - 15 hr 59 min
+313 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Lay All Your Love On Me \- Acoustic](https://open.spotify.com/track/6Id2vDi41Z3NhY0vM1GMT9) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Lay All Your Love On Me \(Acoustic\)](https://open.spotify.com/album/23eHCOC9NKTFtAf8dX3VMq) | 2:44 | 2023-09-30 | 2025-02-10 |
 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 | 2024-03-03 |  |
 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 | 2019-10-13 |  |
+| [Let Her Go \- Acoustic](https://open.spotify.com/track/6ZhFyAONKGpWAxfEiT6NBE) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Let Her Go \(Acoustic\)](https://open.spotify.com/album/2dAJpIf4TPND1msGGPvzKw) | 2:33 | 2026-01-17 |  |
 | [Let's Stay Together \- Acoustic](https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Let's Stay Together \(Acoustic\)](https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb) | 3:02 | 2023-11-17 |  |
 | [Lifted \- Acoustic](https://open.spotify.com/track/5B26Q1m6tNOklrvWr6lFEr) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Lifted \(Acoustic\)](https://open.spotify.com/album/1YbuDjbPhC1DILi7mcgsAY) | 2:44 | 2024-04-07 |  |
 | [Like a Prayer \- Acoustic](https://open.spotify.com/track/5q4me0gn8liVWdocvsmE1j) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Like a Prayer \(Acoustic\)](https://open.spotify.com/album/3ZzhJ9cGQ1QCTp3SVYmFn3) | 2:59 | 2025-06-07 |  |
@@ -180,7 +181,7 @@
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2019-10-13 |  |
 | [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 | 2023-05-29 |  |
 | [Man I Need](https://open.spotify.com/track/3LLjSgVjQ6XPeE6b6yC7Jq) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Man I Need](https://open.spotify.com/album/1jzpZY2NUWuPT4yghLAe3k) | 3:02 | 2025-09-27 |  |
-| [Manic Monday \- Acoustic](https://open.spotify.com/track/2TUKROtCFgNrWtO0Ou17of) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Manic Monday \(Acoustic\)](https://open.spotify.com/album/2mNth3H0jsbRlEPC5MKsiv) | 1:56 | 2025-03-11 |  |
+| [Manic Monday \- Acoustic](https://open.spotify.com/track/2TUKROtCFgNrWtO0Ou17of) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Manic Monday \(Acoustic\)](https://open.spotify.com/album/2mNth3H0jsbRlEPC5MKsiv) | 1:56 | 2025-03-11 | 2026-01-18 |
 | [Marry You \- Acoustic](https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Marry You \(Acoustic\)](https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH) | 3:11 | 2023-02-10 | 2023-02-25 |
 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 | 2019-10-13 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-03-19 | 2024-02-17 |

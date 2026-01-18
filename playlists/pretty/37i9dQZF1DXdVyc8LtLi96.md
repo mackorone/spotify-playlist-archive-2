@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,255 likes - 200 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,215 likes - 200 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 199 | [Inner Peace](https://open.spotify.com/track/2P9tPGO2aMEo0RnU0mYEqE) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Inner Peace](https://open.spotify.com/album/43BEiL7WwXVnZxt844seVM) | 2:26 |
 | 200 | [Drift Away](https://open.spotify.com/track/5f79zre6pvb8XifuMBG7fk) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Drift Away](https://open.spotify.com/album/3wOFfNETbCuQUJ5fFJGjdk) | 2:33 |
 
-Snapshot ID: `AAAAAPZkz+K0J3xxU3NT4k29A32cGUQY`
+Snapshot ID: `AAAAAFfT9iF2OtgcHi6BX8lTKcdTrtFx`

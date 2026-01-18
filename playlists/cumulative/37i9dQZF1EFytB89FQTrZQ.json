@@ -4013,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "THAT'S SHOWBIZ BABY!",
+        "url": "https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164946,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/6LYFeW0kFfq673sEbVtGLm"
+    },
+    {
+      "album": {
         "name": "Language",
         "url": "https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR"
       },
@@ -9277,6 +9295,24 @@
     },
     {
       "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz"
+    },
+    {
+      "album": {
         "name": "Ten (Get Back Up)",
         "url": "https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5"
       },
@@ -11254,6 +11290,24 @@
       "duration_ms": 179933,
       "name": "Yours or Mine",
       "url": "https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4"
+    },
+    {
+      "album": {
+        "name": "\u767d\u8272\u5b9a\u683c (Eternal White) - Winter Special Album",
+        "url": "https://open.spotify.com/album/0pgch8UoKF7ofIMnOlxPYH"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79000,
+      "name": "\u7b2c\u4e94\u4e2a\u5b63\u8282 (The Fifth Season)",
+      "url": "https://open.spotify.com/track/4eGVeNsfVbAgZiUHX4FT1C"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFytB89FQTrZQ"

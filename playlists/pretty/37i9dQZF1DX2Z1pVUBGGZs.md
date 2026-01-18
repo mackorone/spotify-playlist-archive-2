@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Natanya 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,337 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,306 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sofa Joy](https://open.spotify.com/track/0gLYlsbrIEVE4a1VOklQPZ) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return Act II](https://open.spotify.com/album/02XrUeWA1UrWc9B5esKAM2) | 3:44 |
 | 2 | [Cali Crazy](https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Cali Crazy](https://open.spotify.com/album/0YXmAxmk8349DJ7WNRBWIB) | 1:57 |
-| 3 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 3 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 4 | [I BELIEVE](https://open.spotify.com/track/65wnRdFa9Hjl3Qw46zijJy) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I BELIEVE](https://open.spotify.com/album/52vIwZaFvtkqjKRVL9gFAX) | 3:16 |
 | 5 | [Long Way Down](https://open.spotify.com/track/0Pj9URDzlYnU5tGRQuGwCm) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Long Way Down](https://open.spotify.com/album/32MExZHjMtIVKpZHl2SXAA) | 3:16 |
 | 6 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Drew Holcomb &  The Neighbors
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,827 likes - 160 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,914 likes - 160 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

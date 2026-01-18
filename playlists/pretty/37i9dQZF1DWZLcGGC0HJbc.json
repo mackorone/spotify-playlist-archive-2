@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 97812,
+  "num_followers": 97813,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-01-15 23:00:32",
       "album": {
+        "name": "Ferris Wheel",
+        "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
+    },
+    {
+      "added_at": "2026-01-15 23:00:32",
+      "album": {
         "name": "Follow On",
         "url": "https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq"
       },
@@ -431,18 +447,50 @@
     {
       "added_at": "2026-01-15 23:00:32",
       "album": {
-        "name": "Ferris Wheel",
-        "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 205146,
-      "name": "Ferris Wheel",
-      "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
+    {
+      "added_at": "2026-01-15 23:00:32",
+      "album": {
+        "name": "Against the Dying of the Light",
+        "url": "https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 148920,
+      "name": "Against the Dying of the Light",
+      "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
+    },
+    {
+      "added_at": "2026-01-15 23:00:32",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2026-01-15 23:00:32",
@@ -475,22 +523,6 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2026-01-15 23:00:32",
-      "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2026-01-15 23:00:32",
@@ -787,38 +819,6 @@
       "duration_ms": 211061,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
-    },
-    {
-      "added_at": "2026-01-15 23:00:32",
-      "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET"
-      },
-      "artists": [
-        {
-          "name": "Jo The Man The Music",
-          "url": "https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj"
-    },
-    {
-      "added_at": "2026-01-15 23:00:32",
-      "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     }
   ],
   "unique_name": "indie folk vibes",

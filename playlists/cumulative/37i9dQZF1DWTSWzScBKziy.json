@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "All new Contemporary Christian songs on the rise! Cover: We The Kingdom",
+  "description": "All new Contemporary Christian songs on the rise! Cover: Matthew West",
   "name": "Christian Rising",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 215527,
       "name": "A Day In The Life",
       "url": "https://open.spotify.com/track/39WdQbTRIFQsHSgBNGgXsI"
+    },
+    {
+      "album": {
+        "name": "A God Thing",
+        "url": "https://open.spotify.com/album/74uflZWjMVkwHLiocExzqq"
+      },
+      "artists": [
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226017,
+      "name": "A God Thing",
+      "url": "https://open.spotify.com/track/4RwnbO3ruI6ayyEDrfT1kS"
     },
     {
       "album": {
@@ -1153,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Belong In Heaven",
+        "url": "https://open.spotify.com/album/58vgCAyahoxZIgoMcN2WGl"
+      },
+      "artists": [
+        {
+          "name": "Johan \u00c5sg\u00e4rde",
+          "url": "https://open.spotify.com/artist/6VMGCLxmS95jnze9DRPcgr"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Belong In Heaven",
+      "url": "https://open.spotify.com/track/1wAMwyjAqZxWfKTL0Gi9bu"
+    },
+    {
+      "album": {
         "name": "better life",
         "url": "https://open.spotify.com/album/3ZPIcAzvBp2EZ1JGrZ3cQR"
       },
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 141182,
       "name": "Better Than My Life",
       "url": "https://open.spotify.com/track/4a6lixIUr9W2CQIwedOxbg"
@@ -1276,7 +1312,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 259981,
       "name": "Birthright",
       "url": "https://open.spotify.com/track/1gAiaKqx4r2Q8Ho9VGdvPb"
@@ -1562,6 +1598,24 @@
       "duration_ms": 188397,
       "name": "Broken",
       "url": "https://open.spotify.com/track/2NMlRXf6lZRBNTLE7BqQ5z"
+    },
+    {
+      "album": {
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "album": {
@@ -2679,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190126,
+      "name": "demons",
+      "url": "https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS"
+    },
+    {
+      "album": {
         "name": "Demons Die Today",
         "url": "https://open.spotify.com/album/0EV9XR3LpiMPg8cvOYadlz"
       },
@@ -3038,6 +3110,24 @@
       "duration_ms": 190266,
       "name": "Dusty Bibles",
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369782,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM"
     },
     {
       "album": {
@@ -3426,7 +3516,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -3616,7 +3706,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 205853,
       "name": "Fight for Your Life",
       "url": "https://open.spotify.com/track/1vPGyd9q5nKzaofKBs2lX1"
@@ -3804,7 +3894,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 228250,
       "name": "First Light",
       "url": "https://open.spotify.com/track/1mwVr4ixbRTPzsrYP4Di9g"
@@ -3948,7 +4038,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 191050,
       "name": "Focus - String Version",
       "url": "https://open.spotify.com/track/2eJU8M6w3hvFk7FDERASGv"
@@ -4323,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "GETHSEMANE",
+        "url": "https://open.spotify.com/album/4v9wQdqBZtZazIRQHMcv71"
+      },
+      "artists": [
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110958,
+      "name": "GETHSEMANE",
+      "url": "https://open.spotify.com/track/6TkBCir5LCB6IqlciqE7YY"
+    },
+    {
+      "album": {
         "name": "Ghost In The Graveyard",
         "url": "https://open.spotify.com/album/6JcsXlAkt86iTMkQLSsNxO"
       },
@@ -4410,7 +4518,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 256836,
       "name": "GO THROUGH HELL",
       "url": "https://open.spotify.com/track/4f6vLB8TCX7eVqAQ8LtpL7"
@@ -4798,10 +4906,28 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 206546,
       "name": "God Winks",
       "url": "https://open.spotify.com/track/5LO9HDFJ12unQi5WbR01DY"
+    },
+    {
+      "album": {
+        "name": "God's Still Working On Me",
+        "url": "https://open.spotify.com/album/24aeQMeoofRpqVFfVixclf"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258067,
+      "name": "God's Still Working On Me",
+      "url": "https://open.spotify.com/track/70icn8eAyAcbI0GYT8qdk1"
     },
     {
       "album": {
@@ -4820,6 +4946,24 @@
       "duration_ms": 214604,
       "name": "Gonna Be Enough",
       "url": "https://open.spotify.com/track/2GiJyZXM5aLLx62GYixtJ5"
+    },
+    {
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/78jQXCHpDGQNaBsOVgrDmB"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183942,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6S5BFmq9ypnHBY0kNm1lQ2"
     },
     {
       "album": {
@@ -5246,7 +5390,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 190600,
       "name": "Grief, Joy, & Gratitude",
       "url": "https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2"
@@ -5326,7 +5470,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 239842,
       "name": "HALLELUJAH IN THE HARD THINGS",
       "url": "https://open.spotify.com/track/6lJwy2xaY314CyHfua4yP7"
@@ -6262,7 +6406,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 204803,
       "name": "Home Free",
       "url": "https://open.spotify.com/track/1tQNqlr5ifxuByEEjPzn34"
@@ -7062,7 +7206,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 224800,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/01IvkF4SZD8Obe2rg9H9aK"
@@ -7123,6 +7267,24 @@
     },
     {
       "album": {
+        "name": "I'd Do It Again",
+        "url": "https://open.spotify.com/album/1vFDQIQWDILbXd4U0q0Z4B"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210485,
+      "name": "I'd Do It Again",
+      "url": "https://open.spotify.com/track/48aI2KwHVCEXyK7vUQ8nJX"
+    },
+    {
+      "album": {
         "name": "I'LL BELIEVE YOU",
         "url": "https://open.spotify.com/album/60Hdn7vnZayAHFbpv46TP3"
       },
@@ -7146,6 +7308,24 @@
       "duration_ms": 171428,
       "name": "I'LL BELIEVE YOU",
       "url": "https://open.spotify.com/track/3dNNFFxTqoZQw0gGdeHgzf"
+    },
+    {
+      "album": {
+        "name": "I'm Alive",
+        "url": "https://open.spotify.com/album/4s1vVqU84GseGQati73ag6"
+      },
+      "artists": [
+        {
+          "name": "Odell Bunton Jr.",
+          "url": "https://open.spotify.com/artist/4t6IfNT7tiiZObERkg20oQ"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198613,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/10dpitqzg3AOfQO8gK8NpI"
     },
     {
       "album": {
@@ -7240,7 +7420,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 208609,
       "name": "I've Got Joy",
       "url": "https://open.spotify.com/track/2xLbOW7P8ViZLbh3jWvjTA"
@@ -7276,7 +7456,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 230561,
       "name": "If God Lives Here",
       "url": "https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL"
@@ -8860,7 +9040,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 253315,
       "name": "Letters To Heaven",
       "url": "https://open.spotify.com/track/3yetakf9ED4buJVMTTh9pU"
@@ -9524,7 +9704,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 160000,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
@@ -9922,6 +10102,32 @@
       "duration_ms": 277893,
       "name": "Miracle Power",
       "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        },
+        {
+          "name": "Kendrick Williams Jr",
+          "url": "https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302752,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT"
     },
     {
       "album": {
@@ -10417,6 +10623,24 @@
     },
     {
       "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/7CDZovGGVHBsP1UVgZb97J"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224605,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/5FOMvLX8vBlTUz7bHz1HCn"
+    },
+    {
+      "album": {
         "name": "I Know A Secret",
         "url": "https://open.spotify.com/album/5ljr83fx2Az7vSUtg4cQfc"
       },
@@ -10662,7 +10886,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 226216,
       "name": "Not Done Yet",
       "url": "https://open.spotify.com/track/2v3ynDWgSqrv6Y1jr6Jgsl"
@@ -10760,7 +10984,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 320241,
       "name": "Nothing Impossible",
       "url": "https://open.spotify.com/track/5QxYahCQ0yc7AX7EQQc5d6"
@@ -10822,6 +11046,28 @@
       "duration_ms": 136839,
       "name": "oasis for my soul",
       "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
+    },
+    {
+      "album": {
+        "name": "Oasis Of Hope",
+        "url": "https://open.spotify.com/album/7sbdpXQNVkrROi9pdVUyo9"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224895,
+      "name": "Oasis Of Hope",
+      "url": "https://open.spotify.com/track/1tkiReqdLIO6z40IiIiGh7"
     },
     {
       "album": {
@@ -11009,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2oFeIwKr0RM2vew5QScwFn"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6cCbIjZivdDspvxE6RDud8"
+    },
+    {
+      "album": {
         "name": "ONLY WHAT GOD CAN GIVE",
         "url": "https://open.spotify.com/album/0Fl5LtYgJfRhrqBdbjtpiU"
       },
@@ -11096,6 +11360,28 @@
       "duration_ms": 224350,
       "name": "Ordinary Miracle",
       "url": "https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C"
+    },
+    {
+      "album": {
+        "name": "Out of the Dark",
+        "url": "https://open.spotify.com/album/6nt2E6pcXUr5B9SOsjFWIB"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279600,
+      "name": "Out of the Dark",
+      "url": "https://open.spotify.com/track/4QHOdD18WUeDghfjFkUz8V"
     },
     {
       "album": {
@@ -11218,7 +11504,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 209322,
       "name": "Pave Every Road (Isaiah) - Live",
       "url": "https://open.spotify.com/track/0THAaHNzaFpMgzjeaZGxuK"
@@ -11236,7 +11522,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 248475,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/6naJCIwcdALuA7X6t3wFBA"
@@ -11305,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Peter\u2019s Confession",
+        "url": "https://open.spotify.com/album/0n8MkoHnEUpedcZS7jztjl"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258129,
+      "name": "Peter\u2019s Confession",
+      "url": "https://open.spotify.com/track/32u47YeZfnbTYaKH18ROOa"
+    },
+    {
+      "album": {
         "name": "Places (Des Endroits)",
         "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
       },
@@ -11342,6 +11646,24 @@
       "duration_ms": 222985,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
+    },
+    {
+      "album": {
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
     },
     {
       "album": {
@@ -11713,6 +12035,24 @@
     },
     {
       "album": {
+        "name": "The Hero & The Villain",
+        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199160,
+      "name": "Reaching For The Light",
+      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
+    },
+    {
+      "album": {
         "name": "Ready To Go Home",
         "url": "https://open.spotify.com/album/1OHvZBZHqfA9GeGc7C8PbI"
       },
@@ -12061,6 +12401,28 @@
     },
     {
       "album": {
+        "name": "Romans 15:13",
+        "url": "https://open.spotify.com/album/48BgCMI7NnVr92V0wq6Qoi"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Circa83",
+          "url": "https://open.spotify.com/artist/3ZvKUoOkDLGSaQxmeB1YLu"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129214,
+      "name": "Romans 15:13",
+      "url": "https://open.spotify.com/track/1Y0P9RdvIXtnDGMxXDyZ31"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/5UKAigF7RxWyjxARkwTAiA"
       },
@@ -12108,7 +12470,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 225075,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/7EQ8bTfVaJ4XwKqe5tr2Sp"
@@ -12278,7 +12640,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 186349,
       "name": "SANCTIFY ME LORD, AGAIN",
       "url": "https://open.spotify.com/track/43xzXTBZXz9rSw6mNc88S1"
@@ -13111,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/6VoyKAjDk8ubCO0TuM8WnG"
+      },
+      "artists": [
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230378,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/6AcipdMF3t2qOraXsCKCKU"
+    },
+    {
+      "album": {
         "name": "Life Is A Highway: Refueled Duets",
         "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
@@ -13166,6 +13546,28 @@
       "duration_ms": 172054,
       "name": "Started With You",
       "url": "https://open.spotify.com/track/5PEAU0AlblZBoHPu7h7cvl"
+    },
+    {
+      "album": {
+        "name": "Starving Soul",
+        "url": "https://open.spotify.com/album/1IYPL7UsXtEhHbTJJca3Zq"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        },
+        {
+          "name": "Dylan Stiles",
+          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "Starving Soul",
+      "url": "https://open.spotify.com/track/6xUCgFB4XS6tRp3bw3Tozf"
     },
     {
       "album": {
@@ -13412,7 +13814,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 319600,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/4Tr1hZdWczjvLFmRA7sxz6"
@@ -13880,6 +14282,24 @@
       "duration_ms": 296715,
       "name": "The Church I Grew Up In - Live",
       "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+    },
+    {
+      "album": {
+        "name": "The Cross Once Was a Tree",
+        "url": "https://open.spotify.com/album/1XKTgbCFGPsg9Xk3N5Vvd4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269233,
+      "name": "The Cross Once Was a Tree",
+      "url": "https://open.spotify.com/track/72e6iXRqXnyb66UGLHti02"
     },
     {
       "album": {
@@ -14390,7 +14810,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 267293,
       "name": "There Is A Higher Throne",
       "url": "https://open.spotify.com/track/6ZOA7z5HY4F2sLdPMm0DKA"
@@ -14582,7 +15002,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 217746,
       "name": "This Is My Father's World",
       "url": "https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC"
@@ -14661,6 +15081,28 @@
     },
     {
       "album": {
+        "name": "Till You're Home",
+        "url": "https://open.spotify.com/album/7Fzy7mkW8NgeVCRtNzv7Uu"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Giants",
+          "url": "https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T"
+        },
+        {
+          "name": "Zach Paradis",
+          "url": "https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Till You're Home",
+      "url": "https://open.spotify.com/track/2RrkLEP2YYsi2CXIpL3OZ8"
+    },
+    {
+      "album": {
         "name": "Time and Time Again",
         "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
       },
@@ -14676,6 +15118,24 @@
       "duration_ms": 316493,
       "name": "Time and Time Again",
       "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
+    },
+    {
+      "album": {
+        "name": "To The Edge",
+        "url": "https://open.spotify.com/album/6Hpjj9pYhOZi8ymIJ0nBhd"
+      },
+      "artists": [
+        {
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199244,
+      "name": "To The Edge",
+      "url": "https://open.spotify.com/track/7wn1bexm3sI623cld8geCa"
     },
     {
       "album": {
@@ -14798,7 +15258,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 172272,
       "name": "Turn It Around",
       "url": "https://open.spotify.com/track/7pHiSyozgEpLBKwKmMD1ts"
@@ -15857,6 +16317,24 @@
     },
     {
       "album": {
+        "name": "Woman Of Me",
+        "url": "https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k"
+      },
+      "artists": [
+        {
+          "name": "Kyndal",
+          "url": "https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172076,
+      "name": "Woman Of Me",
+      "url": "https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e"
+    },
+    {
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -15944,7 +16422,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 194815,
       "name": "Wonder What Jesus Thinks",
       "url": "https://open.spotify.com/track/6naQDxtRzpk5hOotSo0uzq"
@@ -16245,6 +16723,24 @@
     },
     {
       "album": {
+        "name": "You Lately",
+        "url": "https://open.spotify.com/album/7eT0rnRmAvsQvVtbV3YnHq"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248012,
+      "name": "You Lately",
+      "url": "https://open.spotify.com/track/1h4qDuxfpHz1wsE2mHfKPz"
+    },
+    {
+      "album": {
         "name": "You Make Everything Beautiful",
         "url": "https://open.spotify.com/album/5XfmiSllh2oLB9bf3ehUvF"
       },
@@ -16434,6 +16930,24 @@
       "duration_ms": 225450,
       "name": "Your Love Is A Flood",
       "url": "https://open.spotify.com/track/4DY5O3TgTFuTIsYDn6arlc"
+    },
+    {
+      "album": {
+        "name": "Your Unfailing Love",
+        "url": "https://open.spotify.com/album/3eVe6E36MiaVsV13rwSo0b"
+      },
+      "artists": [
+        {
+          "name": "Darin and Brooke Aldridge",
+          "url": "https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183589,
+      "name": "Your Unfailing Love",
+      "url": "https://open.spotify.com/track/7hseWCWgCUXAE2trkTs2Pb"
     },
     {
       "album": {

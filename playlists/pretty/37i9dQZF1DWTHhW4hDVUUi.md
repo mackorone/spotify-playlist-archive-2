@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHhW4hDVUUi.md) - [plain]
 
 > Check out Jennifer Lopez's Official Halftime playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,057 likes - 30 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,058 likes - 30 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Same Girl \(with French Montana\) \- Halftime Remix](https://open.spotify.com/track/2Xar8bp6rKIY8bOogzQ1HZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Same Girl \(with French Montana\) \[Halftime Remix\]](https://open.spotify.com/album/6BaYeNIzZzrIpAvGSRgcoc) | 4:20 |
 | 2 | [Jenny from the Block \(feat\. Jadakiss & Styles P.\) \- Track Masters Remix](https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [This Is Me...Then](https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2) | 3:07 |
-| 3 | [Ain't It Funny \(feat\. Ja Rule & Cadillac Tah\) \- Murder Remix](https://open.spotify.com/track/5ahFyKndeg1hqfmNumL3WF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Cadillac Tah](https://open.spotify.com/artist/1pYxANcOtFZSECxACjmCE8) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 3:49 |
+| 3 | [Ain't It Funny \(feat\. Ja Rule & Caddillac Tah\) \- Murder Remix](https://open.spotify.com/track/5ahFyKndeg1hqfmNumL3WF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 3:49 |
 | 4 | [Get Right](https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH) | 3:45 |
 | 5 | [Waiting for Tonight \- Hex's Momentous Radio Mix](https://open.spotify.com/track/5WD55ZJWhumwIDGau2Q9lM) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 4:32 |
 | 6 | [Booty](https://open.spotify.com/track/6dshconh2KBbGxVh7GtSTC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Booty](https://open.spotify.com/album/5afRtOFscJUQq7nCbHR5Rn) | 3:29 |

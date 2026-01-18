@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 13038,
+  "num_followers": 13066,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Inbred",
         "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/7n6hs80v9v1HEfKsD9Y0Na"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 150967,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7n6hs80v9v1HEfKsD9Y0Na"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
-        "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
-      },
-      "artists": [
-        {
-          "name": "Ph\u1ea1m Nguy\u00ean Ng\u1ecdc",
-          "url": "https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK"
-        },
-        {
-          "name": "VAnh",
-          "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
-        },
-        {
-          "name": "BMZ",
-          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
-      "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -1883,6 +1859,30 @@
       "duration_ms": 150000,
       "name": "U\u00e7urum",
       "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
+        "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
+      },
+      "artists": [
+        {
+          "name": "Ph\u1ea1m Nguy\u00ean Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK"
+        },
+        {
+          "name": "VAnh",
+          "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
+      "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 206060,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "H O M E",
-      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Koszulka",
-        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Koszulka",
-      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Koszulka",
+        "url": "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Koszulka",
+      "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "THE RUSH",
-        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130515,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 147920,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "THE RUSH",
+        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
     },
     {
       "added_at": "2025-05-19 03:00:14",

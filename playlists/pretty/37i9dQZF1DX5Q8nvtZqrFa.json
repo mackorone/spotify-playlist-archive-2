@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22386,
+  "num_followers": 22387,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-01-14 12:07:49",
       "album": {
-        "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
-        "url": "https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
-      "url": "https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d"
-    },
-    {
-      "added_at": "2026-01-14 12:07:49",
-      "album": {
         "name": "End roll",
         "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
       },
@@ -803,18 +787,34 @@
     {
       "added_at": "2026-01-14 12:07:49",
       "album": {
-        "name": "\u87f2",
-        "url": "https://open.spotify.com/album/0vuOsyCckYH8Ibw1O2kx4g"
+        "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
+        "url": "https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 200885,
-      "name": "\u87f2",
-      "url": "https://open.spotify.com/track/6B6eCDW47Js0weGjB9XQfD"
+      "duration_ms": 254160,
+      "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
+      "url": "https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d"
+    },
+    {
+      "added_at": "2026-01-14 12:07:49",
+      "album": {
+        "name": "\u975e\u5e38\u53e3 \u9003\u3052\u3066\u307f\u305f",
+        "url": "https://open.spotify.com/album/59TRLFMumqYTvUagnwi6Zh"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 183917,
+      "name": "\u975e\u5e38\u53e3 \u9003\u3052\u3066\u307f\u305f",
+      "url": "https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

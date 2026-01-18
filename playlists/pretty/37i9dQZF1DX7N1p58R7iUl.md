@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,383 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,405 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 33 | [It's a Party \(PRX002\)](https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [It's A Party \(PRX002\)](https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG) | 3:23 |
 | 34 | [No Regrets](https://open.spotify.com/track/0KtN2MQ1gK78YIiZLxRNL9) | [J Paul Getto](https://open.spotify.com/artist/2qplg23iVeAdhFhv7KPcj2) | [No Regrets](https://open.spotify.com/album/6dGdKeI8xmLM3FdzdYP8G3) | 3:07 |
 | 35 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 |
-| 36 | [Dior \(with Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
+| 36 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 |
 | 37 | [In The Night](https://open.spotify.com/track/2Tv6wuhj1VHVL9IV3YyjQT) | [Smokin Jo](https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp), [D\. Ramirez](https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz) | [In The Night](https://open.spotify.com/album/6Op0jahyEFI2WUrb0VRkTR) | 3:05 |
 | 38 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 |
 | 39 | [You Got It All](https://open.spotify.com/track/7Fi3VpI73AB2rRxrhowcen) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [D'Vision](https://open.spotify.com/artist/38hr97MYjug66uUdOxcCs1) | [You Got It All](https://open.spotify.com/album/5jEdAMxNCs4VBzfi1K7MmK) | 3:07 |

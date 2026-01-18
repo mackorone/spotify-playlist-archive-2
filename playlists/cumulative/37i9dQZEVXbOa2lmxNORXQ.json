@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -11907,6 +11907,24 @@
     },
     {
       "album": {
+        "name": "GANAS",
+        "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
+    },
+    {
+      "album": {
         "name": "Gangsters En La Disco",
         "url": "https://open.spotify.com/album/6zg980BJZT8M6Wei0A2Kcn"
       },
@@ -15554,10 +15572,6 @@
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
         }
       ],
       "date_added": "2025-11-28",
@@ -19476,6 +19490,32 @@
       "duration_ms": 134814,
       "name": "MUSA",
       "url": "https://open.spotify.com/track/0QuHK1VvIZ1Kt2GfqRrdVo"
+    },
+    {
+      "album": {
+        "name": "MUSA REMIX",
+        "url": "https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "svnti",
+          "url": "https://open.spotify.com/artist/3FtKKNslTacsC8L0GymuMR"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210370,
+      "name": "MUSA REMIX",
+      "url": "https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR"
     },
     {
       "album": {
@@ -28760,7 +28800,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 216315,
       "name": "Tenias Raz\u00f3n",
       "url": "https://open.spotify.com/track/0HUTsCrOJIiwFBudMsnALY"

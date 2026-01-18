@@ -1,13 +1,33 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 61319,
+  "num_followers": 61346,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAA8bL9/XKZ3DT36mTlyeaeZ",
+  "snapshot_id": "aWl/gAAAAAD6+2GHmJ5SeJwfvdrGdCwn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Really Is Amazing Grace",
+        "url": "https://open.spotify.com/album/4lYH4nCNsiXwZFfFlmHNjc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "It Really Is Amazing Grace",
+      "url": "https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ"
+    },
     {
       "added_at": null,
       "album": {
@@ -611,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "At Your Name (Yahweh, Yahweh)",
+      "url": "https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Then Christ Came (feat. Phil Wickham)",
         "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
       },
@@ -627,22 +663,6 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Response",
-        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "At Your Name (Yahweh, Yahweh)",
-      "url": "https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA"
     },
     {
       "added_at": null,

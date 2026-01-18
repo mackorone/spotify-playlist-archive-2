@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TIGHTROPE](https://open.spotify.com/track/4gRvGUeH8mral5sWvuapPk) | [Smells Good](https://open.spotify.com/artist/1Zy4dFXfejg3y2HPGeue0O), [Dochi Sadega](https://open.spotify.com/artist/2WL992HhCeZw9HbeWFpcoV) | [Post Break\-up Syndrome](https://open.spotify.com/album/3RoPqlsoxdRpeFcWYgjGyD) | 3:27 |
+| 1 | [TIGHTROPE](https://open.spotify.com/track/4gRvGUeH8mral5sWvuapPk) | [Smells Good](https://open.spotify.com/artist/1Zy4dFXfejg3y2HPGeue0O) | [Post Break\-up Syndrome](https://open.spotify.com/album/3RoPqlsoxdRpeFcWYgjGyD) | 3:27 |
 | 2 | [A Little Less](https://open.spotify.com/track/5wm3593QMwEU7Ga9XPqIc9) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [A Little Less](https://open.spotify.com/album/7lfeZvHZKJsmsnJEpiyNxi) | 3:05 |
 | 3 | [Balikan](https://open.spotify.com/track/1UaOMqxwqqpJjprlOPDHZQ) | [vander!](https://open.spotify.com/artist/3cxZ2yxDdut3J6lEEMxBzG) | [Balikan](https://open.spotify.com/album/3Jpzr5xbIyVih23SFCknZ7) | 2:28 |
 | 4 | [Tiga Benam Menara](https://open.spotify.com/track/03dnnlcWDAQQWWhD5QlIqb) | [Binar](https://open.spotify.com/artist/0Q0tNebCddkZXmn5MQBCol) | [Suaka](https://open.spotify.com/album/6bsc9ENITUChf39Icx4rdp) | 3:32 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAACeXbeyJGJu0MoASmlnkf3F",
+  "snapshot_id": "aWl/gAAAAADRz7/f+euxEsoAowalTdvk",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "seguiremos siendo",
-        "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
+        "name": "tu nombre",
+        "url": "https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw"
       },
       "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 194874,
-      "name": "seguiremos siendo",
-      "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
+      "duration_ms": 211819,
+      "name": "tu nombre",
+      "url": "https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS"
     },
     {
       "added_at": null,
@@ -167,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "tu nombre",
-        "url": "https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw"
+        "name": "seguiremos siendo",
+        "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
       },
       "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 211819,
-      "name": "tu nombre",
-      "url": "https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS"
+      "duration_ms": 194874,
+      "name": "seguiremos siendo",
+      "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+      "duration_ms": 212413,
+      "name": "Hazme Saber",
+      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Hazme Saber",
-      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
+      "duration_ms": 193173,
+      "name": "Todo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Todo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
     },
     {
       "added_at": null,

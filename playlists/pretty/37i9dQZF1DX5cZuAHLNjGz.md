@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Talwiinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419,573 likes - 101 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,860 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

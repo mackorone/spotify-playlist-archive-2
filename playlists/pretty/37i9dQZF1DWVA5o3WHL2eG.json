@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Magda",
-  "num_followers": 43141,
+  "num_followers": 43144,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
         "name": "fanta lustig ep",
         "url": "https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 165461,
       "name": "fanta lustig",
       "url": "https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-01-06 23:00:08",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
-        "name": "You Won",
-        "url": "https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "You Won",
-      "url": "https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
         "name": "Ciao Bella",
         "url": "https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 163064,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
+        "name": "You Won",
+        "url": "https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "You Won",
+      "url": "https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW"
     },
     {
       "added_at": "2026-01-06 23:00:08",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
+        "name": "Somebody Prayed For Me",
+        "url": "https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        }
+      ],
+      "duration_ms": 163252,
+      "name": "Somebody Prayed For Me",
+      "url": "https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
         "name": "gute m\u00e4dchen gehen dumm",
         "url": "https://open.spotify.com/album/7e61nKNj1sbmKB0XLVpihU"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 158721,
       "name": "gute m\u00e4dchen gehen dumm",
       "url": "https://open.spotify.com/track/46cJoNpnQOJP89gpK2NSwx"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
-        "name": "Somebody Prayed For Me",
-        "url": "https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT"
-      },
-      "artists": [
-        {
-          "name": "Nina Hagen",
-          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
-        }
-      ],
-      "duration_ms": 163252,
-      "name": "Somebody Prayed For Me",
-      "url": "https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB"
     },
     {
       "added_at": "2026-01-06 23:00:08",
@@ -603,6 +603,34 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/2ro3STHbQiz5ODZ4LSJ6l6"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        },
+        {
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+        },
+        {
+          "name": "Jo The Man The Music",
+          "url": "https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ"
+        },
+        {
+          "name": "VILLFORTH",
+          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
+        }
+      ],
+      "duration_ms": 254892,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5Wx2g3BF41Ef13oWKOA4xl"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
         "name": "S\u00fc\u00df sauer EP",
         "url": "https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 141925,
       "name": "Ode an die Periode",
       "url": "https://open.spotify.com/track/0lT1vQgPFJADFbXBdD3Ccx"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/2ro3STHbQiz5ODZ4LSJ6l6"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        },
-        {
-          "name": "Nina Caroline",
-          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
-        },
-        {
-          "name": "Jo The Man The Music",
-          "url": "https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ"
-        },
-        {
-          "name": "VILLFORTH",
-          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
-        }
-      ],
-      "duration_ms": 254892,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/5Wx2g3BF41Ef13oWKOA4xl"
     },
     {
       "added_at": "2026-01-06 23:00:08",

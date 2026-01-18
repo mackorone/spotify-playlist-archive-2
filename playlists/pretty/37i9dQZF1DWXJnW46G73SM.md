@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: عمرو جابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,955 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,979 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 16 | [Fi Orbek](https://open.spotify.com/track/0BecoILE3PujvJoNQVCMdA) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Fi Orbek](https://open.spotify.com/album/6Rl5D9or89YnfC8gnsDTRw) | 3:10 |
 | 17 | [Habeb L Rooh](https://open.spotify.com/track/42QYRFbyjM7UeUmRGCQv43) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Habeb L Rooh](https://open.spotify.com/album/6HxctwKh6CwtMLFxY8BhHu) | 3:13 |
 | 18 | [اهدى](https://open.spotify.com/track/5JlTukGLAu97KMeIz9EdCM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [احكي \(الوجه الأول\)](https://open.spotify.com/album/4Uu12iDqBd2oruxXKXnmMi) | 3:32 |
-| 19 | [SHOOF \| Red Bull Mazzika Salonat](https://open.spotify.com/track/17vEAUplNRUVOZRj2kiXj3) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm), [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [SHOOF \| Red Bull Mazzika Salonat](https://open.spotify.com/album/4J1gk5bsMBjkTJaRahKt1K) | 2:40 |
+| 19 | [SHOOF \| Red Bull Mazzika Salonat](https://open.spotify.com/track/17vEAUplNRUVOZRj2kiXj3) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [SHOOF \| Red Bull Mazzika Salonat](https://open.spotify.com/album/4J1gk5bsMBjkTJaRahKt1K) | 2:40 |
 | 20 | [ليالي](https://open.spotify.com/track/08n1F8ynr4eA4jNU3Tmy0U) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [ليالي](https://open.spotify.com/album/0YwagiIzN9YjmQWAK6XvCk) | 3:41 |
 | 21 | [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 |
 | 22 | [Rouh](https://open.spotify.com/track/0WWDrnw76dhplApEwr7ULp) | [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa) | [Masha3er](https://open.spotify.com/album/4BbsNnGEN7DbOnDRVHLhDL) | 2:59 |

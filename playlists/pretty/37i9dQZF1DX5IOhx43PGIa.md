@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,702 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,704 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 98 | [stuck losing](https://open.spotify.com/track/6IHCd3xv2WvbXreSJTI6A9) | [cykim](https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq), [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [stuck losing](https://open.spotify.com/album/1jKCdQAaBL9iTEsLYcQcnq) | 3:50 |
 | 99 | [Alleluia](https://open.spotify.com/track/52CCzktkTl3u0VkJ3ED96F) | [DATU](https://open.spotify.com/artist/13aegxOBvp0nv30wafcSHo), [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [Alleluia](https://open.spotify.com/album/0PD7gXVPnypO8eo5ipQ5kS) | 3:43 |
 
-Snapshot ID: `AAAAACl0SHZ1sy1ayRsJj2NR6Bt9kTC/`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

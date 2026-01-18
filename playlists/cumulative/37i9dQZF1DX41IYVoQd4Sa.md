@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסף אמדורסקי
 
-360 songs - 21 hr 9 min
+361 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [יניב](https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [יניב](https://open.spotify.com/album/0ARNB2ea95YtPyljVOzh7Y) | 3:58 | 2024-11-14 | 2024-12-28 |
 | [יפה נורא // עצוב מאוד](https://open.spotify.com/track/5EZG1PwIu8WKAkWuESetCy) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [מנטרה ללב מתגעגע](https://open.spotify.com/album/2dsznhrMSBLtlThHoDTYUZ) | 3:39 | 2025-08-14 | 2025-09-26 |
 | [יש לי עוד זמן](https://open.spotify.com/track/40kcuw2ol7Ljm0HmIGGDcc) | [Joseph E\-Shine](https://open.spotify.com/artist/7wKNVbqW4UXVDCeAqTyUU4) | [יש לי עוד זמן](https://open.spotify.com/album/32uVzW9GCwx7TZUKliecJ3) | 5:18 | 2025-02-20 | 2025-03-07 |
+| [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 | 2026-01-15 |  |
 | [כחול וירוק](https://open.spotify.com/track/56pmfKjE0TgbU9XbEzRd9O) | [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH), [Erez Lev Ari](https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN) | [כחול וירוק](https://open.spotify.com/album/5GdN1hMy3C50Gkrx7ybxLe) | 3:58 | 2025-07-17 | 2025-09-05 |
 | [כחול לבן](https://open.spotify.com/track/50aKr7sZqlf7Im2noj9P5K) | [Shlomi Bracha](https://open.spotify.com/artist/0VayZWj7FwJeOgAYQmcleu) | [כחול לבן](https://open.spotify.com/album/7wFrrwUt2pXfo7zSbAcrdY) | 3:32 | 2024-12-19 | 2025-01-10 |
 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 | 2024-07-18 | 2024-08-15 |
@@ -367,6 +368,6 @@
 | [תנסה אותי](https://open.spotify.com/track/6zHk0CzxyM9vyuKJSeKbBT) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Maor Cohen](https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0) | [תנסה אותי](https://open.spotify.com/album/24MMejHpkKGdST4gZNt5Gk) | 3:14 | 2025-03-13 | 2025-05-07 |
 | [תעתועים](https://open.spotify.com/track/6yZkd86vz9mJKBfynHN5J8) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [תעתועים](https://open.spotify.com/album/7EYGJdoN4OZb5J3Juphyc3) | 2:48 | 2025-11-20 | 2026-01-16 |
 | [תפאורות](https://open.spotify.com/track/4lErySIzc6Wwx1rSdoZltT) | [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [לחיות](https://open.spotify.com/album/11fzVHTGDe6WFJGbr0Ou6y) | 2:48 | 2025-03-20 | 2025-06-27 |
-| [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 | 2024-10-10 |  |
+| [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 | 2024-10-10 | 2026-01-18 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

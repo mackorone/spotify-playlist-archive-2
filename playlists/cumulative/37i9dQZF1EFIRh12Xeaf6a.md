@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-352 songs - 17 hr 56 min
+353 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,9 +143,10 @@
 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee! \(Expanded Edition\)](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 | 2023-12-30 |  |
 | [I'm Going Back \(Full Vocal Version\) \[In the Style of Dusty Springfield\]](https://open.spotify.com/track/1n6DA9ijTkEsmXDCJyxs4X) | [Goldsound Karaoke](https://open.spotify.com/artist/4A4BDuc54Pgl2n3ZRVMD5n) | [In the Style of Dusty Springfield](https://open.spotify.com/album/6EgnrXP2X45apwa0jYMqFC) | 3:33 | 2023-12-30 |  |
 | [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 | 2023-12-30 |  |
+| [I've Got Bonnie](https://open.spotify.com/track/0jO0rZ9Ipez7mXTFdogWU8) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [Little Girl](https://open.spotify.com/album/4m5ydiQ0up1aMwL14P2kCf) | 2:27 | 2026-01-17 |  |
 | [I've Got Bonnie](https://open.spotify.com/track/2hM0XV24liNkxUrErtomeq) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Myth of Bobby Rydell](https://open.spotify.com/album/0azUMrm8TBLDAZCFaRINEB) | 2:27 | 2024-11-17 | 2024-12-12 |
 | [I've Got Bonnie](https://open.spotify.com/track/3AmqQEXvDpn80hlXUXlndT) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [We Got Love](https://open.spotify.com/album/4CjnfHZWZxGfzDj9RlDEiE) | 2:27 | 2024-12-19 | 2025-12-18 |
-| [I've Got Bonnie](https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Essential Bobby Rydell](https://open.spotify.com/album/7vRQk7uoLNZncVFT2qqG0m) | 2:27 | 2023-12-30 |  |
+| [I've Got Bonnie](https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Essential Bobby Rydell](https://open.spotify.com/album/7vRQk7uoLNZncVFT2qqG0m) | 2:27 | 2023-12-30 | 2026-01-18 |
 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 | 2023-12-30 |  |
 | [If She Were My Girl](https://open.spotify.com/track/4ZQyzfQ8lmicx974FvzR7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:11 | 2023-12-30 |  |
 | [In My Baby's Eyes](https://open.spotify.com/track/32zbUpQkKszTiXse7wr1Ke) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:09 | 2023-12-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 303,
+  "num_followers": 309,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABDPD047kOtclP2LGE/ztDKwOklaYF",
+  "snapshot_id": "AAABFz7VGeN4CxsBXwcyaw/PnY0tOC52",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -23,6 +23,70 @@
       "duration_ms": 203377,
       "name": "Other Side of Me",
       "url": "https://open.spotify.com/track/7gehMNxHuuOZyMNBOmC0sr"
+    },
+    {
+      "added_at": "2026-01-17 02:48:19",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/2Cm2qoNr6PQp64EGQCT0wu"
+      },
+      "artists": [
+        {
+          "name": "Altered Edge",
+          "url": "https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5"
+        }
+      ],
+      "duration_ms": 299629,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/67LncR8bh1wre4GVkjq8M1"
+    },
+    {
+      "added_at": "2025-12-05 14:12:08",
+      "album": {
+        "name": "Queen of the Night",
+        "url": "https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "duration_ms": 228682,
+      "name": "Queen of the Night",
+      "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
+    },
+    {
+      "added_at": "2026-01-17 02:45:36",
+      "album": {
+        "name": "Camgirl",
+        "url": "https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heavens",
+          "url": "https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "Camgirl",
+      "url": "https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s"
+    },
+    {
+      "added_at": "2025-09-12 15:11:46",
+      "album": {
+        "name": "Just A Good Time 80s Jam",
+        "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 154376,
+      "name": "Just A Good Time 80s Jam",
+      "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
       "added_at": "2025-10-17 15:01:42",
@@ -59,22 +123,6 @@
       "duration_ms": 253959,
       "name": "Another Road",
       "url": "https://open.spotify.com/track/240unn2aJKGurliwi6lJF2"
-    },
-    {
-      "added_at": "2025-09-12 15:11:46",
-      "album": {
-        "name": "Just A Good Time 80s Jam",
-        "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 154376,
-      "name": "Just A Good Time 80s Jam",
-      "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
       "added_at": "2025-09-23 13:17:41",
@@ -123,26 +171,6 @@
       "duration_ms": 266933,
       "name": "I'm A Shooter",
       "url": "https://open.spotify.com/track/6e20H9h5Sq5mJ3IHxsF1GW"
-    },
-    {
-      "added_at": "2025-09-25 01:19:40",
-      "album": {
-        "name": "Mort D'Amour",
-        "url": "https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc"
-      },
-      "artists": [
-        {
-          "name": "Katelynn King",
-          "url": "https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz"
-        },
-        {
-          "name": "Sick Century",
-          "url": "https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Night Crawls",
-      "url": "https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx"
     },
     {
       "added_at": "2025-09-08 22:07:23",
@@ -415,22 +443,6 @@
       "duration_ms": 385285,
       "name": "Burn It Down - '25",
       "url": "https://open.spotify.com/track/077M4QbpESAeYneFBGqRdW"
-    },
-    {
-      "added_at": "2025-12-05 14:12:08",
-      "album": {
-        "name": "Queen of the Night",
-        "url": "https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN"
-      },
-      "artists": [
-        {
-          "name": "Dangerous Times for the Dead",
-          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
-        }
-      ],
-      "duration_ms": 228682,
-      "name": "Queen of the Night",
-      "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
     },
     {
       "added_at": "2025-12-06 14:33:25",
@@ -1263,6 +1275,38 @@
       "duration_ms": 222125,
       "name": "Buio - Eng Version",
       "url": "https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42"
+    },
+    {
+      "added_at": "2026-01-17 02:58:13",
+      "album": {
+        "name": "Bring On The Fear EP",
+        "url": "https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB"
+      },
+      "artists": [
+        {
+          "name": "Frank Palangi",
+          "url": "https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/4CRM17oR3bxMt5ofST1e9B"
+    },
+    {
+      "added_at": "2026-01-17 03:30:41",
+      "album": {
+        "name": "Como planeta vagabundo",
+        "url": "https://open.spotify.com/album/0NmxHLhbmrA8oHthzAv5GH"
+      },
+      "artists": [
+        {
+          "name": "SATVRNO",
+          "url": "https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn"
+        }
+      ],
+      "duration_ms": 278775,
+      "name": "Como planeta vagabundo",
+      "url": "https://open.spotify.com/track/5UmGIbYw7AxvmJtPNDu3Hi"
     }
   ],
   "unique_name": "Local Rock Bands",

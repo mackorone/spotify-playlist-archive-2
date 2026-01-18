@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,052 songs - 3 day 15 hr 17 min
+1,053 songs - 3 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Beyond Us \- Hatshepsut Version, Alex Wann Remix](https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Beyond Us \(Hatshepsut Version, Alex Wann Remix\)](https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp) | 3:39 | 2024-04-26 | 2025-03-01 |
 | [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-03-29 | 2025-05-07 |
 | [Big Mouth](https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4) | [MADI](https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T) | [Big Mouth](https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn) | 4:19 | 2025-09-12 |  |
+| [Bilmirem](https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Metty](https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs) | [Bilmirem](https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0) | 2:42 | 2026-01-16 |  |
 | [Birdhouse](https://open.spotify.com/track/1ZVQwuH7hkZiT6XljB2Au3) | [Ykonosh](https://open.spotify.com/artist/2peTWb6ju8YmQQSw5LcA5C), [Mundai](https://open.spotify.com/artist/652ljuzwRVrf1Y1Ly6dVpi) | [Birdhouse](https://open.spotify.com/album/0tAg6GiHkEzpfN4mSyFBf8) | 6:40 | 2022-01-21 | 2022-07-25 |
 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2021-06-04 | 2022-07-29 |
 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
@@ -781,7 +782,7 @@
 | [Riga](https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Marc Werner](https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr) | [Riga](https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S) | 5:15 | 2025-01-17 |  |
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-08-22 | 2026-01-17 |
 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 | 2023-08-25 | 2023-11-09 |
-| [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 |  |
+| [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 | 2026-01-18 |
 | [Romance](https://open.spotify.com/track/0j17YePnS81vgykhzZuz1B) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Romance](https://open.spotify.com/album/46U5yGeTP1Gl406GQLJ2dT) | 4:36 | 2025-09-05 | 2025-11-15 |
 | [Ronaparde](https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ronaparde](https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J) | 6:57 | 2022-09-16 | 2022-10-20 |
 | [ronju](https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [INÓ](https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw) | 3:18 | 2024-11-15 | 2024-12-12 |

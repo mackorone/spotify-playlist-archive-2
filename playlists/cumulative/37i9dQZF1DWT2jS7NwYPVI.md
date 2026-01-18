@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: MAY\-A
 
-3,708 songs - 8 day 6 hr 38 min
+3,709 songs - 8 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,7 +1153,7 @@
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 | 2022-11-19 |
 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 | 2022-10-28 | 2022-11-26 |
 | [Fuck Around Phase](https://open.spotify.com/track/1FyhViHV8NdA68NdCmvDMU) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Fuck Around Phase](https://open.spotify.com/album/3gc6aADQfnmUgX0ama4Lac) | 2:41 | 2023-03-10 | 2023-04-09 |
-| [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 | 2026-01-16 |  |
+| [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 | 2026-01-16 |  |
 | [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 | 2023-10-20 | 2023-11-11 |
 | [Fuck Me](https://open.spotify.com/track/21HbjK1Xl11EzfFc8W9D3X) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Fuck Me](https://open.spotify.com/album/3uOIUdtPdHt7n9evhE2FFL) | 3:12 | 2024-06-07 | 2024-08-17 |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-05-27 | 2022-08-13 |
@@ -1969,6 +1969,7 @@
 | [Love Sick](https://open.spotify.com/track/3wSBw0krlZtyHIpJiYDIXJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Love Sick](https://open.spotify.com/album/4K1HLxFkJcMx9D56R217nZ) | 2:29 | 2024-04-12 | 2024-04-19 |
 | [Love Sick](https://open.spotify.com/track/5e8Ssho10CVsNtgkEqA0u2) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Love Sick](https://open.spotify.com/album/4iJmksPUe60GONgWorttEp) | 2:29 | 2024-04-19 | 2024-05-11 |
 | [Love Songs \(feat\. L.A\. Exes\)](https://open.spotify.com/track/3yrjVmFHxf3773eHr9Y9kY) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9), [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Songs](https://open.spotify.com/album/5jzDbnh75dTmdFNBnNpN7Y) | 3:12 | 2024-10-04 | 2025-01-04 |
+| [Love To Go](https://open.spotify.com/track/5l84ho4jDsReTMHAsYrZoJ) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [](https://open.spotify.com/album/null) | 2:46 | 2026-01-16 |  |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-08 | 2024-01-11 |
 | [LOVE U ANYWAY](https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LOVE U ANYWAY](https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf) | 2:56 | 2024-05-10 | 2024-06-29 |
 | [Love U Madly](https://open.spotify.com/track/5zVGq0b78Ji23A4N73FTgz) | [Violet Saturn](https://open.spotify.com/artist/3x8Zm0WBMUymTl7cCAz7Zi) | [Love U Madly](https://open.spotify.com/album/1YfnOrebkPsdnglMBP4ET3) | 2:23 | 2023-01-06 | 2023-02-18 |

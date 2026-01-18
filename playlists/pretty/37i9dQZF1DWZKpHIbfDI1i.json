@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yandel & LATIN MAFIA en portada ",
-  "num_followers": 823164,
+  "num_followers": 823396,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -64,7 +64,7 @@
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 295813,
+      "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
     },
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
         "name": "MI GATA",
         "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 222366,
       "name": "MI GATA",
       "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
         "name": "FR\u00cdO",
         "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
-        "name": "Morfina",
-        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
       },
       "artists": [
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 350488,
-      "name": "Morfina",
-      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -703,6 +687,22 @@
       "duration_ms": 230723,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
+        "name": "Morfina",
+        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 350488,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
         "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 175748,
       "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
-        "name": "OTRO DESMADRE",
-        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 182061,
-      "name": "OTRO DESMADRE",
-      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
         "name": "Dejame Dormir",
         "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 160500,
       "name": "Dejame Dormir",
       "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
-        "name": "Aunque Nos Tiren Hate",
-        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 186454,
-      "name": "Cada D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
         "name": "El Despertador",
         "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 182750,
       "name": "Mi \u00danico Camino (En Vivo)",
       "url": "https://open.spotify.com/track/0VCu0JDkHoFpuRTvZ9Bbr3"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
+        "name": "Aunque Nos Tiren Hate",
+        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
+        "name": "Me Enamor\u00e9 Solo",
+        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "Me Enamor\u00e9 Solo",
+      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
-        "name": "Se Enfiest\u00f3 El Carnal",
-        "url": "https://open.spotify.com/album/4SBT3my679xNKekRzXfzef"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 209497,
-      "name": "Se Enfiest\u00f3 El Carnal",
-      "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 175375,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
+    },
+    {
+      "added_at": "2026-01-16 06:00:19",
+      "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2026-01-16 06:00:19",
       "album": {
-        "name": "Me Enamor\u00e9 Solo",
-        "url": "https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1"
+        "name": "Se Enfiest\u00f3 El Carnal",
+        "url": "https://open.spotify.com/album/4SBT3my679xNKekRzXfzef"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 185246,
-      "name": "Me Enamor\u00e9 Solo",
-      "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
+      "duration_ms": 209497,
+      "name": "Se Enfiest\u00f3 El Carnal",
+      "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"
     },
     {
       "added_at": "2026-01-16 06:00:19",
@@ -1343,22 +1359,6 @@
       "duration_ms": 158405,
       "name": "Dos Banderas",
       "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
-    },
-    {
-      "added_at": "2026-01-16 06:00:19",
-      "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-01-16 06:00:19",

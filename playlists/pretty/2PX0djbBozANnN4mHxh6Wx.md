@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,242 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,238 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 169 | [ポリリズム](https://open.spotify.com/track/0E5TZgeNbdxoR7YwZG9PTO) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [GAME](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) | 4:09 |
 | 170 | [Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Treehouse](https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY) | 2:38 |
 | 171 | [The Secret Garden](https://open.spotify.com/track/26FNSfW0PsSQKbx2sefKWq) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Secret Garden](https://open.spotify.com/album/2pkfzXW6kmltHAyZUxt0Lf) | 4:41 |
-| 172 | [Lazy Daydream](https://open.spotify.com/track/5fVCupn9UtvbUCivIcJUPy) | [Vincent Diamante](https://open.spotify.com/artist/33FyliUEEegVPPrsOaLsn4) | [Flower \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1QOkKa93aubfrbF7MhZWnG) | 3:06 |
+| 172 | [Lazy Daydream \(From "Flower" Soundtrack\)](https://open.spotify.com/track/5fVCupn9UtvbUCivIcJUPy) | [Vincent Diamante](https://open.spotify.com/artist/33FyliUEEegVPPrsOaLsn4) | [Flower \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1QOkKa93aubfrbF7MhZWnG) | 3:06 |
 | 173 | [Submarine Theme](https://open.spotify.com/track/2ci4lOtSJWEhTLr1bBhq4S) | [ConcernedApe](https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2) | [Stardew Valley Update 1.3 \(Original Game Soundtrack\)](https://open.spotify.com/album/3Bw7iefjhungzLwETtN26i) | 2:07 |
 | 174 | [Infinite Realm of Incomprehensible Suffering](https://open.spotify.com/track/7L5T0IutG8MyDnucOVccdU) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 1:25 |
 | 175 | [Meet Her at the Loveparade \- Fergie Edit](https://open.spotify.com/track/71HOIQjkWIpdW3PIKMndfi) | [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Meet Her at the Loveparade](https://open.spotify.com/album/3fZi7YuMyHtqV0WkmaxdTe) | 3:13 |

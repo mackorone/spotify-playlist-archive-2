@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105689,
+  "num_followers": 105699,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 298783,
-      "name": "My Old Ways",
-      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
         "name": "BEFORE I FORGET",
         "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 264226,
       "name": "RATHER BE (feat. Lithe)",
       "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -423,6 +423,26 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
         "name": "BACK WHEN YOU WERE MINE",
         "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
       },
@@ -475,6 +495,22 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
+        "name": "Sexistential / Talk To Me",
+        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 199561,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
       },
@@ -503,22 +539,6 @@
       "duration_ms": 161069,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Sexistential / Talk To Me",
-        "url": "https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 199561,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -555,22 +575,6 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "Give Me Something (for Arknights Endfield)",
-        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 162789,
-      "name": "Give Me Something (for Arknights Endfield)",
-      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -587,6 +591,22 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -659,6 +679,22 @@
       "duration_ms": 147142,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -747,6 +783,22 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
         "name": "YEBO",
         "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
       },
@@ -783,6 +835,22 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
+        "name": "Beat Yourself Up",
+        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "Beat Yourself Up",
+      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
         "name": "Nobody Wants This Season 2: The Soundtrack",
         "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
@@ -795,6 +863,34 @@
       "duration_ms": 185155,
       "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -815,22 +911,6 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "nothing on u",
-        "url": "https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 121161,
-      "name": "nothing on u",
-      "url": "https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
         "name": "Ai Freestyle",
         "url": "https://open.spotify.com/album/3GtHmCeJKOdocPuvKHTlZd"
       },
@@ -847,6 +927,22 @@
       "duration_ms": 154155,
       "name": "Ai Freestyle",
       "url": "https://open.spotify.com/track/2U6Z3P81M2hySvxe2vcjEx"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "nothing on u",
+        "url": "https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 121161,
+      "name": "nothing on u",
+      "url": "https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -907,6 +1003,22 @@
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "High On Heaven",
+        "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "High On Heaven",
+      "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -975,18 +1087,18 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "How To Be Human",
-        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 160152,
-      "name": "How To Be Human",
-      "url": "https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j"
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -1003,6 +1115,22 @@
       "duration_ms": 195229,
       "name": "Everyone\u2019s A Star!",
       "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 160152,
+      "name": "How To Be Human",
+      "url": "https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -1031,18 +1159,22 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "XL-BYG",
-        "url": "https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 142622,
-      "name": "XL-BYG",
-      "url": "https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk"
+      "duration_ms": 229346,
+      "name": "Over (feat. Tom Odell)",
+      "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -1063,6 +1195,22 @@
       "duration_ms": 197323,
       "name": "Frankrig (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/4cg5noLUNYyA0gEJBIMOXs"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "XL-BYG",
+        "url": "https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "XL-BYG",
+      "url": "https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -1135,26 +1283,6 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "PT Cruiser",
-        "url": "https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv"
-      },
-      "artists": [
-        {
-          "name": "MoRuf",
-          "url": "https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 224661,
-      "name": "PT Cruiser",
-      "url": "https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -1175,6 +1303,42 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
+        "name": "PT Cruiser",
+        "url": "https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv"
+      },
+      "artists": [
+        {
+          "name": "MoRuf",
+          "url": "https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 224661,
+      "name": "PT Cruiser",
+      "url": "https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "jeg tror jeg elsker dig for evigt",
+        "url": "https://open.spotify.com/album/16t5Ewp0D7rDDQZBlcNevX"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 193020,
+      "name": "jeg tror jeg elsker dig for evigt",
+      "url": "https://open.spotify.com/track/2bsahf0KRgkJB8LDE4rmAb"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
         "name": "Smukkeste Jeg Har Set",
         "url": "https://open.spotify.com/album/5Flhn4J1nT5mpkaUnszANg"
       },
@@ -1187,6 +1351,22 @@
       "duration_ms": 150934,
       "name": "Smukkeste Jeg Har Set",
       "url": "https://open.spotify.com/track/7cEPXGIE00uZgOCMb3x0Oe"
+    },
+    {
+      "added_at": "2026-01-15 23:00:41",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2026-01-15 23:00:41",
@@ -1223,58 +1403,6 @@
     {
       "added_at": "2026-01-15 23:00:41",
       "album": {
-        "name": "jeg tror jeg elsker dig for evigt",
-        "url": "https://open.spotify.com/album/16t5Ewp0D7rDDQZBlcNevX"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 193020,
-      "name": "jeg tror jeg elsker dig for evigt",
-      "url": "https://open.spotify.com/track/2bsahf0KRgkJB8LDE4rmAb"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Bare Rolig",
-        "url": "https://open.spotify.com/album/7LTNGl6FNmMmYVa0JEic8C"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "Bare Rolig",
-      "url": "https://open.spotify.com/track/4uNtlj1JUqshoUS124tuNk"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "HUGORM NEDL\u00c6GGER FORSVARET (feat. Peter Sommer)",
-        "url": "https://open.spotify.com/album/0GrDLoKKmuz4ZRQrFzhHUf"
-      },
-      "artists": [
-        {
-          "name": "HUGORM",
-          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
-        },
-        {
-          "name": "Peter Sommer",
-          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "HUGORM NEDL\u00c6GGER FORSVARET (feat. Peter Sommer)",
-      "url": "https://open.spotify.com/track/2BcCtKjAaHfsYhSLWVUvx8"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
         "name": "det ku jeg ik se (feat. Sira Jovina)",
         "url": "https://open.spotify.com/album/1mdTXl0Y4Jccir9adu2hiQ"
       },
@@ -1291,118 +1419,6 @@
       "duration_ms": 172334,
       "name": "det ku jeg ik se (feat. Sira Jovina)",
       "url": "https://open.spotify.com/track/3aIkfHMJphau3JylyathD4"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/7GCUXqAopM0io2Bg79MFUD"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 180490,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0fjXYpmnq9frnVJB2uIFCQ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "ACCELERATION",
-        "url": "https://open.spotify.com/album/6ExgHkQczbskQxCIqxsV4W"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 149161,
-      "name": "ACCELERATION",
-      "url": "https://open.spotify.com/track/6rNAaJAYB3P9aHKdHmzr4P"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "There\u2019s Always More That I Could Say",
-        "url": "https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 164303,
-      "name": "Hush Baby, Hurry Slowly",
-      "url": "https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Loveflow",
-        "url": "https://open.spotify.com/album/57IDaHW7D6NiQobBXxFVF3"
-      },
-      "artists": [
-        {
-          "name": "Saveus",
-          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
-        }
-      ],
-      "duration_ms": 196726,
-      "name": "Carry Your Heart",
-      "url": "https://open.spotify.com/track/6yUEGYXngxmtRvcDXX0HbU"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 185174,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "100 Dage",
-        "url": "https://open.spotify.com/album/6v2mw7Ktt4KpucZiOBVEx5"
-      },
-      "artists": [
-        {
-          "name": "Thor Farlov",
-          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "100 Dage",
-      "url": "https://open.spotify.com/track/54WSNfT05On5JHcr43kbYn"
     }
   ],
   "unique_name": "De nye",

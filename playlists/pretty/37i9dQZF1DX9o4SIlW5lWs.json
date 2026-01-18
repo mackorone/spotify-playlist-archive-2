@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 268726,
+  "num_followers": 268866,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Que Lloro / Mientes",
-        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 228494,
-      "name": "Que Lloro / Mientes",
-      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
         "name": "DOCTOR",
         "url": "https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 144148,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Que Lloro / Mientes",
+        "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 228494,
+      "name": "Que Lloro / Mientes",
+      "url": "https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 284214,
-      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
         "name": "No me sale",
         "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
       },
@@ -703,6 +687,26 @@
       "duration_ms": 208506,
       "name": "No me sale",
       "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -771,38 +775,34 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
       },
       "artists": [
         {
           "name": "Ke Personajes",
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 202457,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
+      "duration_ms": 284214,
+      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
         }
       ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -851,62 +851,6 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Echar de Menos",
-        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 225943,
-      "name": "Echar de Menos",
-      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Romantiko",
-        "url": "https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 194210,
-      "name": "Romantiko",
-      "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Me Encanta",
-        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "Me Encanta",
-      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -931,6 +875,62 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Echar de Menos",
+        "url": "https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 225943,
+      "name": "Echar de Menos",
+      "url": "https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Romantiko",
+        "url": "https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 194210,
+      "name": "Romantiko",
+      "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 205611,
       "name": "Boleto al Amor",
       "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
         "name": "Muero de Fr\u00edo, La Historia",
         "url": "https://open.spotify.com/album/17l0btgkPBArqRfrNb2DGJ"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 164949,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
         "name": "Te Sigo Queriendo",
         "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1335,6 +1319,22 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1463,6 +1463,30 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
+        "name": "Vas a Querer Regresar",
+        "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Maxi Tolosa",
+          "url": "https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ"
+        }
+      ],
+      "duration_ms": 199270,
+      "name": "Vas a Querer Regresar",
+      "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
@@ -1495,30 +1519,6 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Vas a Querer Regresar",
-        "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
-      },
-      "artists": [
-        {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "Maxi Tolosa",
-          "url": "https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ"
-        }
-      ],
-      "duration_ms": 199270,
-      "name": "Vas a Querer Regresar",
-      "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
-      },
-      "artists": [
-        {
-          "name": "Super Quinteto",
-          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
-        },
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 323334,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
         "name": "Elegante",
         "url": "https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 205052,
       "name": "Elegante",
       "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
+      },
+      "artists": [
+        {
+          "name": "Super Quinteto",
+          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+        },
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 323334,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1871,22 +1871,22 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+        "name": "Noche de Estrellas",
+        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         },
         {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
         }
       ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+      "duration_ms": 188368,
+      "name": "Noche de Estrellas",
+      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
     }
   ],
   "unique_name": "Cumbia y Romance",

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1572819,
+  "num_followers": 1572756,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHiF6G8DFj7wBB+O4k/e8Y5qZgfs",
+  "snapshot_id": "AAAAAHiBBKAEzMXGCsFz94rJt8qvC0j0",
   "tracks": [
     {
       "added_at": "2026-01-09 04:00:18",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-01-09 04:00:18",
       "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "added_at": "2026-01-09 04:00:18",
+      "album": {
         "name": "EGYPT (Remix)",
         "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 165643,
       "name": "EGYPT - Remix",
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
-    },
-    {
-      "added_at": "2026-01-09 04:00:18",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 224639,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
     },
     {
       "added_at": "2026-01-09 04:00:18",
@@ -931,22 +931,22 @@
     {
       "added_at": "2026-01-09 04:00:18",
       "album": {
-        "name": "u aint gotta chance",
-        "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
+        "name": "SCARY MERRi",
+        "url": "https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2"
       },
       "artists": [
         {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
         }
       ],
-      "duration_ms": 168416,
-      "name": "u aint gotta chance",
-      "url": "https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN"
+      "duration_ms": 149191,
+      "name": "SCARY MERRi",
+      "url": "https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5"
     },
     {
       "added_at": "2026-01-09 04:00:18",
@@ -971,22 +971,22 @@
     {
       "added_at": "2026-01-09 04:00:18",
       "album": {
-        "name": "SCARY MERRi",
-        "url": "https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2"
+        "name": "u aint gotta chance",
+        "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
         },
         {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 149191,
-      "name": "SCARY MERRi",
-      "url": "https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5"
+      "duration_ms": 168416,
+      "name": "u aint gotta chance",
+      "url": "https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN"
     },
     {
       "added_at": "2026-01-09 04:00:18",

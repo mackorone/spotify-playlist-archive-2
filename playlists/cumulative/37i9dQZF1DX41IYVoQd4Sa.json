@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
+        "url": "https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J"
+      },
+      "artists": [
+        {
+          "name": "Rotem Shafran",
+          "url": "https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187434,
+      "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
+      "url": "https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1"
+    },
+    {
+      "album": {
         "name": "\u05db\u05d7\u05d5\u05dc \u05d5\u05d9\u05e8\u05d5\u05e7",
         "url": "https://open.spotify.com/album/5GdN1hMy3C50Gkrx7ybxLe"
       },
@@ -7162,7 +7180,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 218000,
       "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
       "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"

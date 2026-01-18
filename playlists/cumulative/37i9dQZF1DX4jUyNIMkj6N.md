@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-372 songs - 22 hr 23 min
+373 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 | 2022-07-14 | 2023-11-24 |
 | [Darkest Night](https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Darkest Night](https://open.spotify.com/album/38Zutwd997e5hLl2565HfV) | 2:45 | 2023-10-05 | 2023-12-30 |
 | [Dead Of The Night](https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Dead Of The Night](https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71) | 10:07 | 2021-12-02 | 2022-07-29 |
-| [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 | 2025-04-03 |  |
+| [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 | 2025-04-03 | 2026-01-18 |
 | [Demo of a One Night Stand \- Live](https://open.spotify.com/track/1RE5F9AkTYPQzcglYbd5K2) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Acoustic Session – Live in Oslo](https://open.spotify.com/album/0tBtWCAAGMGs7aV3NjRrOS) | 2:43 | 2022-05-26 | 2022-07-28 |
 | [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 | 2024-03-07 | 2024-05-23 |
 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 | 2024-03-07 |  |
@@ -180,6 +180,7 @@
 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 | 2024-04-18 |  |
 | [I'll Be Here for You](https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr) | [Cocktail Slippers](https://open.spotify.com/artist/6vNj2NchLaDiqBH8nBAF2g) | [I'll Be Here for You](https://open.spotify.com/album/3PgiPyzy6glPCRBRsjhXpK) | 4:25 | 2021-12-02 | 2022-07-27 |
 | [If We Were Vampires](https://open.spotify.com/track/1GffRISfxWmLTwWlN13qLE) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Four Little Songs](https://open.spotify.com/album/6Ds0b3VYhaYtxztw5hh5pJ) | 3:25 | 2025-10-02 |  |
+| [Imogen](https://open.spotify.com/track/5AMPtDJZdL1Ox7SJpd5Eyb) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Imogen](https://open.spotify.com/album/1sFFl6mCPNcoT4Bd33UHin) | 3:30 | 2026-01-15 |  |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |
 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 | 2023-06-08 | 2024-01-12 |
 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 | 2024-05-23 | 2025-02-28 |

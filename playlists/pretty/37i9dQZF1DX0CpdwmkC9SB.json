@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 241760,
+  "num_followers": 241774,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "jazz is for ordinary people",
-        "url": "https://open.spotify.com/album/5itYNW6UW1VvJO7j9dRn2S"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "jazz is for ordinary people",
-      "url": "https://open.spotify.com/track/06SYfhYSo9iY3txHE6W9Dl"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "jazz is for ordinary people",
+        "url": "https://open.spotify.com/album/5itYNW6UW1VvJO7j9dRn2S"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "jazz is for ordinary people",
+      "url": "https://open.spotify.com/track/06SYfhYSo9iY3txHE6W9Dl"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 238493,
       "name": "The Story",
       "url": "https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "PAPOTA",
-        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 149394,
-      "name": "#TETAS",
-      "url": "https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Won't Go Quietly",
         "url": "https://open.spotify.com/album/6xV529qSt6Q5QXWhKkdzoa"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
         }
       ],
-      "duration_ms": 272666,
-      "name": "My Honest Face",
-      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
+      "duration_ms": 149394,
+      "name": "#TETAS",
+      "url": "https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1027,6 +1011,22 @@
       "duration_ms": 360426,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "My Honest Face",
+      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Nobody Is Not Loved",
         "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1391,6 +1375,22 @@
       "duration_ms": 57746,
       "name": "Your New Morning Alarm",
       "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Foolish Loving Spaces (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Your Girlfriend",
+      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Foolish Loving Spaces (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Your Girlfriend",
-      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1575,22 +1591,6 @@
       "duration_ms": 179078,
       "name": "Cure My Desire",
       "url": "https://open.spotify.com/track/6siCO69xx6pzXsAajilDB5"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Bon Bon",
-        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "La Peste",
-        "url": "https://open.spotify.com/album/2sd9LoUp3J8n3huPWEFWhI"
-      },
-      "artists": [
-        {
-          "name": "Alabama 3",
-          "url": "https://open.spotify.com/artist/25zUD40u8M2kJmdcabBzrz"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Woke Up This Morning - Chosen One Mix",
-      "url": "https://open.spotify.com/track/3TjlENVEU3a0s6s8BXyobq"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Family Only",
         "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
       },
@@ -1823,18 +1807,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+        "name": "La Peste",
+        "url": "https://open.spotify.com/album/2sd9LoUp3J8n3huPWEFWhI"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Alabama 3",
+          "url": "https://open.spotify.com/artist/25zUD40u8M2kJmdcabBzrz"
         }
       ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
+      "duration_ms": 249240,
+      "name": "Woke Up This Morning - Chosen One Mix",
+      "url": "https://open.spotify.com/track/3TjlENVEU3a0s6s8BXyobq"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1867,6 +1851,22 @@
       "duration_ms": 331360,
       "name": "Le Freak - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ClOMebBxeNTYCOfTH24YJ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Mountain Banjo",
-      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Stars Of CCTV",
         "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 253306,
       "name": "Hard to Beat",
       "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The State of Things",
         "url": "https://open.spotify.com/album/27M9sBMAePJK5rcsVxn3l1"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 205226,
       "name": "Heavyweight Champion of the World",
       "url": "https://open.spotify.com/track/6BveiUac0BhnHB14wgi1lg"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 247820,
       "name": "flight fm",
       "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "H.O.O.D 2025",
-        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        }
-      ],
-      "duration_ms": 172557,
-      "name": "H.O.O.D - 2025 Mix",
-      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Producer 01",
         "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
       },
@@ -2715,6 +2699,22 @@
       "duration_ms": 394000,
       "name": "Atlantis (I Need You)",
       "url": "https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "H.O.O.D 2025",
+        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "duration_ms": 172557,
+      "name": "H.O.O.D - 2025 Mix",
+      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Surf That Well/SKATE",
-        "url": "https://open.spotify.com/album/2PWeMDw3fQHtgVUCSoz4jv"
-      },
-      "artists": [
-        {
-          "name": "Bawo",
-          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
-        }
-      ],
-      "duration_ms": 100078,
-      "name": "SKATE",
-      "url": "https://open.spotify.com/track/2rBm4JoA7r0CHlDADG526H"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "La Murga (Michael's Midnight Mix)",
         "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
@@ -2799,6 +2783,22 @@
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Surf That Well/SKATE",
+        "url": "https://open.spotify.com/album/2PWeMDw3fQHtgVUCSoz4jv"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "duration_ms": 100078,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/2rBm4JoA7r0CHlDADG526H"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2887,6 +2887,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "every night was the same",
+        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E"
       },
@@ -2915,18 +2931,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "every night was the same",
-        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
       },
       "artists": [
         {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 173329,
-      "name": "pink dress",
-      "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
+      "duration_ms": 167866,
+      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3015,22 +3031,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Magic Numbers",
         "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
       },
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Back To Back (B2B)",
         "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
       },
@@ -3143,18 +3127,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
       },
       "artists": [
         {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 307075,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3179,18 +3163,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
         }
       ],
-      "duration_ms": 272231,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/2eV02vbTQJkBh6R839ojjm"
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3207,6 +3191,22 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 272231,
+      "name": "Love You Got",
+      "url": "https://open.spotify.com/track/2eV02vbTQJkBh6R839ojjm"
     },
     {
       "added_at": "2025-06-27 23:00:28",

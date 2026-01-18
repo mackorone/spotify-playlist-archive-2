@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-63 songs - 3 hr 39 min
+64 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Diesseits](https://open.spotify.com/track/68YX8W5eZ6n42HNA7vw8EB) | [Revisor451](https://open.spotify.com/artist/1jLZBkZfxvWd9wDucP1v25) | [Wolkenhirt](https://open.spotify.com/album/6gx6tI7gqkoWV4RIfYrcNU) | 0:40 | 2024-10-20 | 2025-12-11 |
 | [Dizzy Spell \- Robert Owen Remix](https://open.spotify.com/track/4kMjKPw7NI3Z4nBHQN0miu) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Dizzy Spell \(Robert Owen Remix\)](https://open.spotify.com/album/3LYpcx19pYiwz5KNaKH4n9) | 4:00 | 2024-08-18 |  |
 | [Emptiness](https://open.spotify.com/track/2v6fP3uVKFtGWfK6GWRpDR) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Emptiness](https://open.spotify.com/album/2Lnbqbm2KFvneD7VuLcDUK) | 3:52 | 2025-08-13 |  |
+| [Ex\-Lover](https://open.spotify.com/track/5F75UuDUjuvhxY8YCfW9zN) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Ex\-Lover](https://open.spotify.com/album/2NKNggYJ8KPq6edEqEOq0V) | 4:18 | 2026-01-17 |  |
 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 | 2025-05-29 |  |
 | [Fluxville](https://open.spotify.com/track/6fhJS4iP4w9aV2JtPRQTpK) | [the errantry](https://open.spotify.com/artist/5hvf1J6qyJy6BXOWMIL2dI) | [Fluxville](https://open.spotify.com/album/5zpgcpT42pNnOqd5mw55wB) | 2:08 | 2025-03-11 |  |
 | [Folie à Deux](https://open.spotify.com/track/7zZsUdrHGe8jDZ0Q2eFLIG) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Folie à Deux](https://open.spotify.com/album/4k7ksGcgauZsBqlSHnXa6Y) | 4:20 | 2026-01-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 405 songs - 20 hr 34 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 414 songs - 21 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -413,5 +413,14 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 403 | [I Rise Again](https://open.spotify.com/track/3tXhYQ7vwBynV4KQPkLdHa) | [iMARS](https://open.spotify.com/artist/5unGD3T0AL7wrKHtKLtBUS) | [I Rise Again](https://open.spotify.com/album/0qgZ5DpbJ8D1FLLWa9vH1C) | 3:31 |
 | 404 | [Promise](https://open.spotify.com/track/7E2FqvQNQPoCt4eDNBn6mq) | [outtasht](https://open.spotify.com/artist/4heFFEm0kmjV7bw4c62ISL), [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy) | [Promise](https://open.spotify.com/album/6LErZQ2N9mYN0np8Y7bVKv) | 3:33 |
 | 405 | [Switch](https://open.spotify.com/track/0qV4WgZ88Z8OocJhbbZhEf) | [Mvingo](https://open.spotify.com/artist/7uJH5I3vDXcinEKi633si2), [Harshit Datta](https://open.spotify.com/artist/4OnrXxKdWoyI3KLCdOhMl9) | [Switch](https://open.spotify.com/album/4wI46lj7hTIK42R2nh0noV) | 2:30 |
+| 406 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 |
+| 407 | [January Feels Like June](https://open.spotify.com/track/75ykWeIGS5N5rL2bUJZ44A) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [January Feels Like June](https://open.spotify.com/album/3ARMlXwlx4wcxQMPae2GUD) | 3:06 |
+| 408 | [Sueño con esto \(radio version\)](https://open.spotify.com/track/3Ls7IJFyQNlKtBvr1a3qg5) | [Ayoona Bay](https://open.spotify.com/artist/3w1N70ai2u9Vfrpc3bO4eq) | [Sueño con esto \(radio version\)](https://open.spotify.com/album/0tirRWXYTEwoy8ftcQvbY1) | 3:55 |
+| 409 | [True Told](https://open.spotify.com/track/1NsnkZoTfkQv5hE9LPsPWj) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9), [juanssin](https://open.spotify.com/artist/0xszM5KDxL2achZuOizmQ8) | [Ragazzo Piante](https://open.spotify.com/album/3mpZQba5QsFjqAU6IZlgRa) | 2:02 |
+| 410 | [LOCK ME IN](https://open.spotify.com/track/7dRRN98eKU8S8kfTZTuVMg) | [SuaveBoyKB](https://open.spotify.com/artist/1ul7F7J1L0OBNrGB8qyrW2), [Connor Greatorex](https://open.spotify.com/artist/5zTvj1io7fPp41MFk7qilU) | [LOCK ME IN](https://open.spotify.com/album/4mY1XZoNRqibx8ZQp0nN7j) | 3:30 |
+| 411 | [Changes](https://open.spotify.com/track/4nOr3aUr3mnKLxbpmmBlL6) | [Jackie Moon](https://open.spotify.com/artist/1WVmGkj74qhEKMptI8A8PJ), [Lauren Frihauf](https://open.spotify.com/artist/0tPy6X0CV3nqKiLZjKSOyT), [Andy Sydow](https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE) | [Changes](https://open.spotify.com/album/6GJkcvd1JJagyakWTWoUXF) | 4:24 |
+| 412 | [Reweaving The Rainbow](https://open.spotify.com/track/3URL6DAcZ3abXPu6k1tCih) | [Transgalactica](https://open.spotify.com/artist/3lwPZPcNWY901tSAhAgbGM) | [Reweaving The Rainbow](https://open.spotify.com/album/1cIS8m5pPSzJY1pKjSBgsX) | 2:51 |
+| 413 | [A Little Bit](https://open.spotify.com/track/0uNVTycw76qoi7GPoDeGmB) | [Ebony Moore](https://open.spotify.com/artist/0yjwycwuXvss1lfJGJdDrj) | [A Little Bit](https://open.spotify.com/album/3dO8potRc7JpRYjWJJgPKl) | 2:46 |
+| 414 | [Nuvem Passageira \(Ritmo: Venha Arrochando\)](https://open.spotify.com/track/70we6i1yVNMV6Vb5OSmgPA) | [Victor Hélius](https://open.spotify.com/artist/48Cnn134xLBtfDczhCoXm4) | [Nuvem Passageira \(Ritmo: Venha Arrochando\)](https://open.spotify.com/album/7z7aISMIcmmpwErWE8Yibp) | 2:12 |
 
-Snapshot ID: `AAAZBF7KcheRy9b/7SiHpvpMErm4a69I`
+Snapshot ID: `AAAZDWURNhvps0JvBz095mupD0Rq0zxH`

@@ -1,6 +1,6 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Floyymenor",
-  "num_followers": 554431,
+  "num_followers": 554443,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "FloyyMenor",
           "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Reelian",
+          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
         }
       ],
       "duration_ms": 162500,

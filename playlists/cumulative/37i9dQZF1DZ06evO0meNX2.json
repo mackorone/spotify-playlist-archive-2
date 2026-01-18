@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 179605,
       "name": "El Motor",
       "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
@@ -1332,6 +1332,24 @@
       "duration_ms": 125631,
       "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
+    },
+    {
+      "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
     },
     {
       "album": {

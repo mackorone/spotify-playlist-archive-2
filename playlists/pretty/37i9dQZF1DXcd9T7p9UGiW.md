@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Rvssian, Moliy, Tyga, & Ayetian
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,292 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,326 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [MARADONA \(feat\. Justin Quiles and Saweetie\)](https://open.spotify.com/track/6qM6LhryeIWAhrRT0f1ybk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:56 |
 | 80 | [Cana](https://open.spotify.com/track/7A07lS4vDCUUvuHzorS1ZW) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Duplicity](https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq) | 2:39 |
 
-Snapshot ID: `AAAAAOHfSSlSzXBlwrpVuXrYlOd12Fx9`
+Snapshot ID: `AAAAAFW4DCqEGHZ94TbYnxCyVYgrnyp3`

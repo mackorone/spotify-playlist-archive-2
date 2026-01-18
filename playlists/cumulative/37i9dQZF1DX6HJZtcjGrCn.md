@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Capitão Fausto
 
-409 songs - 1 day 0 hr 19 min
+410 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [20 \. 16 \. A casa das rodas quadradas](https://open.spotify.com/track/7xLWJuXuWAKsj9w57ysC3E) | [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [20 \. 16 \. A casa das rodas quadradas](https://open.spotify.com/album/3xTpKyMSTS2fDH13jObW1R) | 3:02 | 2025-09-19 | 2025-12-05 |
 | [20 \. 20 \. Um dia como tantos outros](https://open.spotify.com/track/7C3sFvA8JkodSnkKfvOulv) | [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [A garota não](https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0) | [7305](https://open.spotify.com/album/6AWGD0k3E2k56DEZpTVw2d) | 2:53 | 2025-10-16 |  |
 | [26 \(I'm Drowning\)](https://open.spotify.com/track/64REKg8Q7WDwjcP3XS87ea) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [26 \(I'm Drowning\)](https://open.spotify.com/album/5FqmQnAuKP5icz2Ay0OZ4Z) | 3:19 | 2024-07-25 | 2024-08-09 |
+| [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-16 |  |
 | [7 dias](https://open.spotify.com/track/3todR6e3uhzaqY2Guq4Qjo) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [7 dias](https://open.spotify.com/album/05LW24oVoRGt8w8KpO5LWV) | 3:30 | 2025-07-18 | 2025-08-01 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-10 | 2025-04-25 |
 | [A Cantiga É](https://open.spotify.com/track/11dMkIHbpNiBHp6aZZSvcF) | [Linda Martini](https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t) | [Tudo E O Seu Contrário](https://open.spotify.com/album/6qi8DPvnici0jD17JXXlb7) | 4:32 | 2024-09-27 | 2024-10-18 |
@@ -341,7 +342,7 @@
 | [Suspensos](https://open.spotify.com/track/1SlYcAm1mgRvahjzC1aR5Y) | [Tiago Alvarez](https://open.spotify.com/artist/3qGDFQE44WwaI9C1fWKAza) | [Suspensos](https://open.spotify.com/album/3nRP7kEHWFzDb5V51VgMsy) | 3:19 | 2025-12-05 |  |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 | 2025-02-28 |
 | [Sylvia](https://open.spotify.com/track/0dLFlKIw6up52Aftqd88Mx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sylvia](https://open.spotify.com/album/1PqBRShBcNCi2gKM7CHfd5) | 2:20 | 2025-02-07 | 2025-02-28 |
-| [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-11-07 |  |
+| [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-11-07 | 2026-01-18 |
 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 | 2024-06-20 | 2024-07-27 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-06-20 | 2024-12-11 |
 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-11 |  |

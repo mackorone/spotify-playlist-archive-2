@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 
 > Music from "【OSHI NO KO】©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,144 likes - 78 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,177 likes - 78 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

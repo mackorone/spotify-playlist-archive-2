@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,547 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,550 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 39 | [100年後の僕たちへ](https://open.spotify.com/track/0n6v4nhBRbz8xSONyIsnRz) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [100年後の僕たちへ](https://open.spotify.com/album/5f3uT8mFv35Lfw9mZ6eLIB) | 4:14 |
 | 40 | [just](https://open.spotify.com/track/6OY8cl9kiAfGdHJYomwtTZ) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [just](https://open.spotify.com/album/4ssAj2k5IqdHkWaZWVmR7N) | 3:16 |
 
-Snapshot ID: `AAAAAPSyPgpaggbAWsWpLrlPM8BEdDDh`
+Snapshot ID: `AAAAAPe5khOxz8EH0NzcAl8CBV3ohv/J`

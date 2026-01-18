@@ -2002,10 +2002,32 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 125482,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
+    },
+    {
+      "album": {
+        "name": "Te Quiero (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3QHoySUv4O1emJgcs0VGBx"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138456,
+      "name": "Te Quiero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4tnHGG3He2t5AqCQLtZdDO"
     },
     {
       "album": {

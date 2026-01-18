@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 206763,
+  "num_followers": 206804,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Desperate, Scared, but Social",
-        "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
-      },
-      "artists": [
-        {
-          "name": "Emily's Sassy Lime",
-          "url": "https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Mr. Moneybag$",
-      "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Mannequin Pussy",
         "url": "https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 59400,
       "name": "My Baby (Axe Nice)",
       "url": "https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Desperate, Scared, but Social",
+        "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
+      },
+      "artists": [
+        {
+          "name": "Emily's Sassy Lime",
+          "url": "https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Mr. Moneybag$",
+      "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Look Blue Go Purple Compilation",
-        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
-      },
-      "artists": [
-        {
-          "name": "Look Blue Go Purple",
-          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "I Don't Want You Anyway",
-      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Update Your Brain",
         "url": "https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 194000,
       "name": "Let Go of the Past",
       "url": "https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Look Blue Go Purple Compilation",
+        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
+      },
+      "artists": [
+        {
+          "name": "Look Blue Go Purple",
+          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "I Don't Want You Anyway",
+      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
     },
     {
       "added_at": "2024-10-07 20:36:39",

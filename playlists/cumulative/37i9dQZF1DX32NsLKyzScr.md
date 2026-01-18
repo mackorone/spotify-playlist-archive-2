@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,352 songs - 3 day 1 hr 31 min
+1,353 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-18 |  |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-08-18 | 2024-07-13 |
 | [Fight For](https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Fight For](https://open.spotify.com/album/3MVS0kNgm4WMdV04E7Vzu2) | 3:37 | 2021-07-17 | 2021-10-23 |
+| [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Eli & Dani](https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS) | 2:41 | 2026-01-16 |  |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 | 2025-11-04 |
 | [Finally](https://open.spotify.com/track/0GGUayyESI4F0FhnQPSV81) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Finally](https://open.spotify.com/album/01mtRGu4b4Q6FigZ2PAyAn) | 3:01 | 2021-07-10 | 2021-09-18 |
 | [Find You](https://open.spotify.com/track/0bWHZZkzy7wgTYaTcrkyvE) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Monocule \(Volume 2\)](https://open.spotify.com/album/0Lo3tsG5drmteljSwQX01I) | 3:03 | 2021-05-15 | 2021-08-07 |
@@ -1111,7 +1112,7 @@
 | [Supercars](https://open.spotify.com/track/2IfBzmFUr0JOXUiInnua8F) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Supercars](https://open.spotify.com/album/6k4ewQMwrEeArMUZxADdFZ) | 3:37 | 2020-09-21\* | 2021-02-06 |
 | [Superheroes](https://open.spotify.com/track/6KwlLWLxnMeIw7C6O0fd6o) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Superheroes](https://open.spotify.com/album/0LwefSGrSgzthFmugunVqX) | 2:41 | 2021-05-15 | 2021-09-18 |
 | [Superman](https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [24h](https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K) | [Superman](https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc) | 3:24 | 2022-07-08 | 2022-10-27 |
-| [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-23 |  |
+| [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-23 | 2026-01-18 |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-04 |  |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-08-18 | 2023-09-25 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-11 | 2024-01-27 |

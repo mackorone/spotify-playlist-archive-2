@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: GDJYB 雞蛋蒸肉餅
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,868 likes - 106 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,873 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 105 | [Rocket Science](https://open.spotify.com/track/0wkeaSCYNKOFWUlRKpErDo) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Rocket Science](https://open.spotify.com/album/6Kq7dYAecgd0C2QaCTqP7c) | 2:34 |
 | 106 | [Y.OU](https://open.spotify.com/track/50Dg0S6g2XmaJ2FJUzAqji) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Y.OU](https://open.spotify.com/album/6f4BZwmZ9sYzsHwGlMJfh2) | 3:03 |
 
-Snapshot ID: `AAAAAHCogIVS053x5IcsDqJAAQHzileB`
+Snapshot ID: `AAAAAPGQGxS/FN5a8T/oaVOzi2tZn+eH`

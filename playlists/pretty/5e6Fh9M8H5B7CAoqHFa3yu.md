@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,800 songs - 4 day 12 hr 59 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,802 songs - 4 day 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1808,5 +1808,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1798 | [Sticker Happy](https://open.spotify.com/track/3qxB1Hc3Fv4pGB9E2IEsnY) | [Sunshine Riot Commune](https://open.spotify.com/artist/1sAEqe2vPCiXX10D3wI6HE) | [Sticker Happy](https://open.spotify.com/album/0BOyjQtnYiJKLEYokkLwxk) | 3:17 |
 | 1799 | [Я попрошу](https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Я попрошу](https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO) | 4:09 |
 | 1800 | [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 |
+| 1801 | [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 |
+| 1802 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 |
 
-Snapshot ID: `AAAH3DiphCnTIVVDL+233mrKYnKUF42x`
+Snapshot ID: `AAAH3vjQp/wqzfAh8wpFa9mVe+vUKLsF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:playlist:37i9dQZF1EFCReBjxdBABS"> Trannie Anderson </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,151 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,155 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Fearless These Days](https://open.spotify.com/track/7z7wTrzJBqlm9ldoVeJ8IJ) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [The Mirror](https://open.spotify.com/album/6GQEKl0QtVKCC0vH3FcJKZ) | 3:29 |
 | 50 | [I Love Her](https://open.spotify.com/track/54H2zOnBtJXEL7MuUPjqlH) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:18 |
 
-Snapshot ID: `AAAAAF11+qGozN/EmQVJ9h+Uc80DTUHO`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

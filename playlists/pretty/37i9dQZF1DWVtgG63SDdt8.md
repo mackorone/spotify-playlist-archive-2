@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,122 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,143 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 38 | [Joy Thief](https://open.spotify.com/track/1NbqnAIg2Xe2sEXxFVYwxR) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Joy Thief](https://open.spotify.com/album/00wwS1fSAZWuUTS5fsPLGU) | 4:01 |
 | 39 | [You Lately](https://open.spotify.com/track/1h4qDuxfpHz1wsE2mHfKPz) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [You Lately](https://open.spotify.com/album/7eT0rnRmAvsQvVtbV3YnHq) | 4:08 |
 | 40 | [God's Still Working On Me](https://open.spotify.com/track/70icn8eAyAcbI0GYT8qdk1) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [God's Still Working On Me](https://open.spotify.com/album/24aeQMeoofRpqVFfVixclf) | 4:18 |
-| 41 | [Oasis of Hope](https://open.spotify.com/track/1tkiReqdLIO6z40IiIiGh7) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Oasis Of Hope](https://open.spotify.com/album/7sbdpXQNVkrROi9pdVUyo9) | 3:44 |
+| 41 | [Oasis Of Hope](https://open.spotify.com/track/1tkiReqdLIO6z40IiIiGh7) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Oasis Of Hope](https://open.spotify.com/album/7sbdpXQNVkrROi9pdVUyo9) | 3:44 |
 | 42 | [We'll Sing Glory](https://open.spotify.com/track/4tcsATUUGalzW8alRMJxpn) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [We'll Sing Glory](https://open.spotify.com/album/2nUbfs3E6SpQ34muoiGrxH) | 2:53 |
 | 43 | [Bless The Lord](https://open.spotify.com/track/2QtwMNb9qTCZwC0Yp2CUns) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Bless The Lord](https://open.spotify.com/album/1GOnXbve5HtwFE73D8ueyg) | 4:05 |
 | 44 | [It Really Is Amazing Grace](https://open.spotify.com/track/0JiiqYgUgD3WwsIQeFI3Pq) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [It Really Is Amazing Grace](https://open.spotify.com/album/6sJgYj64VeUg4rPsS23gKk) | 4:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 46 | [RUN 2 U](https://open.spotify.com/track/7jwS8XoLQFYWRXBMjdS07U) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Hindrix Brown](https://open.spotify.com/artist/0MKSEV762KVJJXueLFnQut) | [RUN 2 U](https://open.spotify.com/album/7490sDp8qzdDhMg9KAeTHW) | 3:22 |
 | 47 | [Thank You Jesus](https://open.spotify.com/track/1cpANJGpFQbPz7HeStWXoz) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Courageous Crew](https://open.spotify.com/artist/5Ko8aGQ3QiePuWaRS9P9xH) | [Thank You Jesus](https://open.spotify.com/album/635DvjiabJldDP7jiKD9Vl) | 2:49 |
 | 48 | [Always](https://open.spotify.com/track/6G7FSRegOKvDVDVDb4gEAA) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Always](https://open.spotify.com/album/5CVUvF1iN873imh3QwQL8H) | 7:18 |
-| 49 | [No Matter Where The Altar Is \- Radio Versoin](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
+| 49 | [No Matter Where The Altar Is \- Radio Version](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
 | 50 | [I Still Choose You](https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [I Still Choose You](https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5) | 4:28 |
 | 51 | [Victory On The Way](https://open.spotify.com/track/1yetD9GB5FOuEGtVRZMQ5f) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Victory On The Way](https://open.spotify.com/album/3xIHJU1VTKRh6mqjHUcpNA) | 3:45 |
 | 52 | [Praise You Now](https://open.spotify.com/track/3mptLv0mzMkOuZd5Dn6CNA) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Praise You Now](https://open.spotify.com/album/0kothkd1j6sC2EgkDYxTrq) | 3:40 |

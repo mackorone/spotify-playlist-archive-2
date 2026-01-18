@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 282200,
       "name": "Anugerah Terindah",
       "url": "https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 226773,
       "name": "Bawa Dia Kembali",
       "url": "https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6"
@@ -3387,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "INI DIA",
+        "url": "https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118248,
+      "name": "EEEE A",
+      "url": "https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0"
       },
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 176608,
       "name": "Kasih Aba Aba",
       "url": "https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI"
@@ -6032,6 +6050,32 @@
       "duration_ms": 279649,
       "name": "kota ini tak sama tanpamu",
       "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
+    },
+    {
+      "album": {
+        "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
+        "url": "https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        },
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269937,
+      "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
+      "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
     },
     {
       "album": {
@@ -11878,7 +11922,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 281173,
       "name": "Terbuang Dalam Waktu",
       "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
@@ -12334,7 +12378,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 245462,
       "name": "Titik Nadir (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p"

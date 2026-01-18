@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 2922,
+  "num_followers": 2951,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Pertinho de Jesus",
-        "url": "https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        },
-        {
-          "name": "Tia Emily",
-          "url": "https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Pertinho de Jesus",
-      "url": "https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
         "name": "Rock da Arca",
         "url": "https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 202586,
       "name": "Rock da Arca",
       "url": "https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Pertinho de Jesus",
+        "url": "https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Tia Emily",
+          "url": "https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Pertinho de Jesus",
+      "url": "https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ"
     },
     {
       "added_at": "2025-02-05 15:14:15",

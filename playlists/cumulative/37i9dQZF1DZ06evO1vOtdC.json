@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "J.Lo (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5hAy2eMkeCVt128x6Ypqd6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255270,
+      "name": "Crazy (Nobody Else)",
+      "url": "https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb"
+    },
+    {
+      "album": {
         "name": "Dance Again...The Hits",
         "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 292186,
       "name": "On The Floor (Ven a Bailar) - Bonus Track",
       "url": "https://open.spotify.com/track/4htjXtjySdVDU6QRPOGgg9"

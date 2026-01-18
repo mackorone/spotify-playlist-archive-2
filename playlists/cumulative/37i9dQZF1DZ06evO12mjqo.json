@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/6Coz2RxA3NX2BZKCn9Hzme"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280786,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
+    },
+    {
+      "album": {
         "name": "Jesus He Knows Me",
         "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
       },

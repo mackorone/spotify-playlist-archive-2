@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: Dan English",
-  "num_followers": 44469,
+  "num_followers": 44482,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Into The Doldrums",
         "url": "https://open.spotify.com/album/1ljJP9x1MXnzEqwDNkmST1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 254535,
       "name": "Mindflower",
       "url": "https://open.spotify.com/track/3xHMMtjr6MCB5TwildjO2V"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/7CAfzXeR5jTdPAx5UCP8Di"
-      },
-      "artists": [
-        {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/1bSfVVhaBtPkDUGCvbijZB"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 205412,
       "name": "Estimated Delivery",
       "url": "https://open.spotify.com/track/1GIDMzcU9cvO5j7f1kuT4Z"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/7CAfzXeR5jTdPAx5UCP8Di"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/1bSfVVhaBtPkDUGCvbijZB"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
-      },
-      "artists": [
-        {
-          "name": "Prewn",
-          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "It's Only You",
-      "url": "https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Slugger",
         "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Stone Femmes",
-        "url": "https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc"
+        "name": "System",
+        "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
       },
       "artists": [
         {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+          "name": "Prewn",
+          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
         }
       ],
-      "duration_ms": 179325,
-      "name": "Stone Femmes",
-      "url": "https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD"
+      "duration_ms": 196226,
+      "name": "It's Only You",
+      "url": "https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1103,6 +1087,22 @@
       "duration_ms": 246240,
       "name": "Miffed It",
       "url": "https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Stone Femmes",
+        "url": "https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc"
+      },
+      "artists": [
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 179325,
+      "name": "Stone Femmes",
+      "url": "https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "planet you forgot me",
-        "url": "https://open.spotify.com/album/72XBcntZdEaL466I8PyFUU"
-      },
-      "artists": [
-        {
-          "name": "Leyla Ebrahimi",
-          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
-        }
-      ],
-      "duration_ms": 365395,
-      "name": "planet you forgot me",
-      "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "is a Folk Artist",
         "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 243630,
       "name": "Guilty Running",
       "url": "https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "planet you forgot me",
+        "url": "https://open.spotify.com/album/72XBcntZdEaL466I8PyFUU"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "duration_ms": 365395,
+      "name": "planet you forgot me",
+      "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Don't Fall Asleep",
-      "url": "https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 216628,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Don't Fall Asleep",
+      "url": "https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Deer In The Headlights",
-        "url": "https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2"
-      },
-      "artists": [
-        {
-          "name": "Twine",
-          "url": "https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk"
-        }
-      ],
-      "duration_ms": 270040,
-      "name": "Deer In The Headlights",
-      "url": "https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "for us",
         "url": "https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 105205,
       "name": "tonight",
       "url": "https://open.spotify.com/track/4qi16r93Cx4KnGcwwVD8iZ"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Deer In The Headlights",
+        "url": "https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2"
+      },
+      "artists": [
+        {
+          "name": "Twine",
+          "url": "https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk"
+        }
+      ],
+      "duration_ms": 270040,
+      "name": "Deer In The Headlights",
+      "url": "https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "when i paint my masterpiece",
-        "url": "https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 155583,
-      "name": "something in the wind",
-      "url": "https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "I think we should just move in together",
         "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "when i paint my masterpiece",
+        "url": "https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 155583,
+      "name": "something in the wind",
+      "url": "https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Pieces Of Yours",
-        "url": "https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 110186,
-      "name": "Pieces Of Yours",
-      "url": "https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Antarctica / Neon Lights",
         "url": "https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 179063,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Pieces Of Yours",
+        "url": "https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "duration_ms": 110186,
+      "name": "Pieces Of Yours",
+      "url": "https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Jetplane",
-        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 156824,
-      "name": "Jetplane",
-      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Terra Infirma",
         "url": "https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 198000,
       "name": "Pharmacy",
       "url": "https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "POOR CHOICES",
+        "url": "https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE"
+      },
+      "artists": [
+        {
+          "name": "skuzland",
+          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
+        }
+      ],
+      "duration_ms": 204782,
+      "name": "POOR CHOICES",
+      "url": "https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa"
     }
   ],
   "unique_name": "Indie Editors' Hyperfixations of 2025 ",

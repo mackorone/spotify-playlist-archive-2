@@ -5020,7 +5020,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 183529,
       "name": "HASAGI",
       "url": "https://open.spotify.com/track/6KdEob8ArXLMkiBRDyFNDJ"
@@ -5370,7 +5370,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 136632,
       "name": "hoeveel is genoeg?",
       "url": "https://open.spotify.com/track/5WZUrRDtGc9OyAQSh8k57t"
@@ -12147,6 +12147,24 @@
     },
     {
       "album": {
+        "name": "theclubrock",
+        "url": "https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc"
+      },
+      "artists": [
+        {
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122193,
+      "name": "theclubrock",
+      "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
+    },
+    {
+      "album": {
         "name": "The Nightmare Before Christmas",
         "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
       },
@@ -12198,7 +12216,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 180966,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/4V66RQKxLhRdAFKJgTCJFa"
@@ -12652,7 +12670,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177386,
-      "name": "Turn The Lights Off (feat. Jon)",
+      "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
     },
     {
@@ -13910,7 +13928,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 189880,
       "name": "Where Your Warmth Begins",
       "url": "https://open.spotify.com/track/2SQPpr2F8aSav3ipoZCyc0"
@@ -14928,6 +14946,24 @@
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "album": {
+        "name": "\u00d2p Kar\u00e1kter",
+        "url": "https://open.spotify.com/album/5SwJuol9MvJGcvxI3tCWMJ"
+      },
+      "artists": [
+        {
+          "name": "Pruuf mar",
+          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165150,
+      "name": "\u00d2p Kar\u00e1kter",
+      "url": "https://open.spotify.com/track/6GwXydt81E3rMjcaNtY3xE"
     },
     {
       "album": {

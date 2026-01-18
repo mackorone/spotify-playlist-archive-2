@@ -1,13 +1,33 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 126193,
+  "num_followers": 126216,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAAmn1pS30/0eVD3t14E7I1K",
+  "snapshot_id": "aWl/gAAAAABIJAcgNzt8UqLaWELwWWcf",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Quiero (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3QHoySUv4O1emJgcs0VGBx"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 138456,
+      "name": "Te Quiero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4tnHGG3He2t5AqCQLtZdDO"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 204488,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 125482,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
         "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220773,
       "name": "3 de La Ma\u00f1ana - con Sebasti\u00e1n Yatra & Mora",
       "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 160653,
       "name": "Hijos Contigo",
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
     },
     {
       "added_at": null,
@@ -959,6 +959,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "JonTheProducer",
+          "url": "https://open.spotify.com/artist/415U6UPWJEnCPoGsVlX2nV"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "noche de luna",
         "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
       },
@@ -995,34 +1023,6 @@
       "duration_ms": 190186,
       "name": "Faldita",
       "url": "https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/4lr74mf49nDttiWXbwmD0K"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "JonTheProducer",
-          "url": "https://open.spotify.com/artist/415U6UPWJEnCPoGsVlX2nV"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
     },
     {
       "added_at": null,

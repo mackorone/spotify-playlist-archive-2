@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,661 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,652 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 23 | [Christmas 1,2,3](https://open.spotify.com/track/3wnmgPzO6jFBrf5Le6E6DC) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Christmas 1,2,3](https://open.spotify.com/album/4qpEqyPuIPDLTYrOQX6U2w) | 2:19 |
 | 24 | [Christmas All Year Long](https://open.spotify.com/track/3kHQz6M0HKywLzdC9dLB0n) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Christmas All Year Long](https://open.spotify.com/album/3APL53Y6GZRvYQ7ZM5wcIm) | 2:43 |
 | 25 | [Merry Christmas Everyone](https://open.spotify.com/track/0IDm3fCe49TonetVSOwmE7) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Christmas is Here! The Ultimate Family Holiday Album](https://open.spotify.com/album/5OWkTAQYgxneCyW7bKwKfg) | 3:39 |
-| 26 | [Cute Christmas \(Cosy & Cute\)](https://open.spotify.com/track/2xzHwg8lK9RlVlre8576em) | [JellyBoing](https://open.spotify.com/artist/0hLkCH8q0VuDjxqk82lDJm), [Kiwi Wiwi](https://open.spotify.com/artist/1gE1kcJKl2vasX1owUDQn1), [BooWoo](https://open.spotify.com/artist/70Jn3cWQgNPG9Hja9AtM9R), [Cadeautje voor jou](https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ), [Bimbly](https://open.spotify.com/artist/0MWnRjqAWTMiJ1C0PnBDRN) | [Cute Christmas \(Cosy & Cute\)](https://open.spotify.com/album/376t3CKdq9neidf6F4oKYS) | 2:21 |
+| 26 | [Cute Christmas \(Cosy & Cute\)](https://open.spotify.com/track/2xzHwg8lK9RlVlre8576em) | [JellyBoing](https://open.spotify.com/artist/0hLkCH8q0VuDjxqk82lDJm), [Kiwi Wiwi](https://open.spotify.com/artist/1gE1kcJKl2vasX1owUDQn1), [BooWoo](https://open.spotify.com/artist/70Jn3cWQgNPG9Hja9AtM9R), [Bimbly](https://open.spotify.com/artist/0MWnRjqAWTMiJ1C0PnBDRN) | [Cute Christmas \(Cosy & Cute\)](https://open.spotify.com/album/376t3CKdq9neidf6F4oKYS) | 2:21 |
 | 27 | [Cha Cha Christmas](https://open.spotify.com/track/05xoEgJbtTw7nd7fD6bKMl) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [A Christmas Celebration](https://open.spotify.com/album/1WVYDKSR1wPc4zMTui96aY) | 2:22 |
 | 28 | [Let's Go Caroling](https://open.spotify.com/track/6j9mBWOxNQBaX8GUkh6OOJ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Let's Go Caroling](https://open.spotify.com/album/0reNaP1gGd9HeDVlpwK97v) | 3:31 |
 | 29 | [Mickey Mouse Clubhouse Candlelight Celebration](https://open.spotify.com/track/43tDGNXHQwsdBhR2DhVPBC) | [Mickey & Minnie’s Holiday Songs: Christmas – Cast](https://open.spotify.com/artist/42ihfGMWQn5vmXeCuTVGvU), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Mickey & Minnie's Holiday Songs: Christmas](https://open.spotify.com/album/4I12XL6xfR3diion4Yoa4l) | 2:07 |

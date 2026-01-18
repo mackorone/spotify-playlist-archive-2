@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-491 songs - 1 day 5 hr 32 min
+492 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Yours](https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Yours](https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H) | 3:10 | 2025-11-26 | 2026-01-05 |
 | [¡Sálvese quien pueda!](https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¡Sálvese quien pueda!](https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G) | 3:38 | 2025-11-25 | 2026-01-05 |
 | [Θα χαθείς με τη βροχή](https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2) | [Θα χαθείς με τη βροχή](https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM) | 4:54 | 2025-12-25 |  |
+| [ひとり](https://open.spotify.com/track/7xLu5dgYm4EhCnkNG3d4li) | [MONDA](https://open.spotify.com/artist/2lAZUpLD2ZwUSnXvKU2bPi) | [ひとり](https://open.spotify.com/album/14ZLH4GxrkSMUJqqPbPbbv) | 3:57 | 2026-01-17 |  |
 | [また来年も](https://open.spotify.com/track/024OgPIO0sH8bIrovLEv0f) | [Moonlight Chorizo](https://open.spotify.com/artist/0cCNixvpASdvsL7l1678xt) | [またこの季節に](https://open.spotify.com/album/5rdjdGluOTlJ17xPHYOoY1) | 3:11 | 2025-12-23 |  |
 | [僕らが深淵を見つめる時](https://open.spotify.com/track/26qirU9CiQOA6Zn9TBEH8f) | [the knowlus](https://open.spotify.com/artist/70vlgJquNhdPuT4wxA4ZK0) | [Discovery Age](https://open.spotify.com/album/05ZegbnowJljzfzXxV9WOD) | 4:13 | 2025-10-23 | 2025-11-29 |
 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 | 2025-12-09 | 2026-01-05 |

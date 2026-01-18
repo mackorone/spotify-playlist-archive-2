@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Laci Kaye Booth",
-  "num_followers": 64494,
+  "num_followers": 64492,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232771,
-      "name": "If The World Burns Down",
-      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 136746,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232771,
+      "name": "If The World Burns Down",
+      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Curita Para El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
-      },
-      "artists": [
-        {
-          "name": "Zhamira ",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        }
-      ],
-      "duration_ms": 178512,
-      "name": "mil preguntas",
-      "url": "https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "Dream Come True",
         "url": "https://open.spotify.com/album/38tmkYP4ggGyNADbAL1iM3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 177919,
       "name": "Dream Come True",
       "url": "https://open.spotify.com/track/5u4PukbCMvkFuL3RhKTzhO"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Curita Para El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
+      },
+      "artists": [
+        {
+          "name": "Zhamira ",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 178512,
+      "name": "mil preguntas",
+      "url": "https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 203710,
-      "name": "Good Ol' Days",
-      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "You Can't Take My Song",
         "url": "https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA"
       },
@@ -459,6 +443,38 @@
       "duration_ms": 179939,
       "name": "You Can't Take My Song",
       "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 238319,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -479,22 +495,6 @@
       "duration_ms": 131592,
       "name": "From The Back",
       "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 238319,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 275841,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 192480,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 275841,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
     },
     {
       "added_at": "2025-12-05 20:01:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
-        "name": "Cherry Valley",
-        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Misery Loves Company",
-      "url": "https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
         "name": "Witching Hour",
         "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 200240,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Misery Loves Company",
+      "url": "https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN"
     },
     {
       "added_at": "2025-12-05 20:01:46",

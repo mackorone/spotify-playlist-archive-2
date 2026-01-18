@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,588 likes - 162 songs - 14 hr 39 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,576 likes - 162 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 46 | [Daily Bread](https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Daily Bread](https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG) | 6:25 |
 | 47 | [Run To The Father \- Live](https://open.spotify.com/track/7BsrTjlm1avPQhUe807ax3) | [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp), [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Run To The Father \(Live\)](https://open.spotify.com/album/4yyUz35hs3tF6nTF94NIXV) | 5:04 |
 | 48 | [Christus Victor \(Amen\)](https://open.spotify.com/track/4ltlOXaegEK4TWdhesU1fo) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Christus Victor \(Amen\)](https://open.spotify.com/album/5mtZSoghlKO0tHiiOchpzA) | 5:53 |
-| 49 | [No Matter Where The Altar Is \- Radio Versoin](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
+| 49 | [No Matter Where The Altar Is \- Radio Version](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
 | 50 | [Is He Worthy \- Live](https://open.spotify.com/track/2csjJckE7HhTfX899G0uud) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Is He Worthy \(Live\)](https://open.spotify.com/album/31WiiwsJKffo12eFQBI5cL) | 8:55 |
 | 51 | ['Tis So Sweet / Turn Your Eyes \- Chapel Sessions](https://open.spotify.com/track/3JVRYMkGQ8DBFtBoiYAqMQ) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/4jYLJGHlwngGQaoLfbZvpJ) | 5:48 |
 | 52 | [Move of Your Spirit](https://open.spotify.com/track/7gy6X0AODTqH9iDp3Tijne) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU) | [Move of Your Spirit](https://open.spotify.com/album/0oTvkBlGrEekf3tbtp4lvZ) | 5:52 |

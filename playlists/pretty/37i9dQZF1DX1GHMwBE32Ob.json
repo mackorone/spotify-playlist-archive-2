@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Baby Daiz",
-  "num_followers": 127282,
+  "num_followers": 127407,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        }
+      ],
+      "duration_ms": 160824,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
+    },
+    {
+      "added_at": "2026-01-14 12:24:12",
+      "album": {
         "name": "Anytime (feat. Ayo Maff)",
         "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
-    },
-    {
-      "added_at": "2026-01-14 12:24:12",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        }
-      ],
-      "duration_ms": 160824,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-01-14 12:24:12",
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": "2026-01-14 12:24:12",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+        "name": "Muyeez (Deluxe)",
+        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
       },
       "artists": [
         {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+      "duration_ms": 154689,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
       "added_at": "2026-01-14 12:24:12",
@@ -871,26 +891,6 @@
       "duration_ms": 149896,
       "name": "FIND MONEY (feat. Zerrydl)",
       "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
-    },
-    {
-      "added_at": "2026-01-14 12:24:12",
-      "album": {
-        "name": "Muyeez (Deluxe)",
-        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 154689,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
       "added_at": "2026-01-14 12:24:12",

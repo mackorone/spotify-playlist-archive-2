@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42865,
+  "num_followers": 42878,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "I Like To Move It (feat. The Mad Stuntman)",
+        "url": "https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        }
+      ],
+      "duration_ms": 352545,
+      "name": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Club Mix",
+      "url": "https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Beautiful People (Remixes)",
         "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 384000,
       "name": "Follow Me - Club Mix",
       "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "I Like To Move It (feat. The Mad Stuntman)",
-        "url": "https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP"
-      },
-      "artists": [
-        {
-          "name": "Reel 2 Real",
-          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
-        },
-        {
-          "name": "The Mad Stuntman",
-          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
-        }
-      ],
-      "duration_ms": 352545,
-      "name": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Club Mix",
-      "url": "https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410973,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 433373,
       "name": "I Get Lifted - The Underground Network Mix",
       "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410973,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
-      },
-      "artists": [
-        {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muzik",
-        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
         }
       ],
-      "duration_ms": 379760,
-      "name": "Muzik - The Siren Mix",
-      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Give A Little Love",
-        "url": "https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz"
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
       },
       "artists": [
         {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 377773,
-      "name": "Give A Little Love - Photon's Deep Vocal Mix",
-      "url": "https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF"
+      "duration_ms": 379760,
+      "name": "Muzik - The Siren Mix",
+      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1051,6 +1035,22 @@
       "duration_ms": 479440,
       "name": "Everybody Dance - M.A.S. Club Vocal",
       "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Give A Little Love",
+        "url": "https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz"
+      },
+      "artists": [
+        {
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+        }
+      ],
+      "duration_ms": 377773,
+      "name": "Give A Little Love - Photon's Deep Vocal Mix",
+      "url": "https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF"
     },
     {
       "added_at": "2022-03-03 13:59:16",

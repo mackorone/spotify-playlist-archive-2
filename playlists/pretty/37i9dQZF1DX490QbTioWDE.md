@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,793 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,201 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 87 | [La Última Granada \(DQV Premium\)](https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Última Granada \(DQV Premium\)](https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1) | 3:02 |
 | 88 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
 | 89 | [Que vamos a hacer](https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU) | [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Que vamos a hacer](https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR) | 2:56 |
-| 90 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
+| 90 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 |
 | 91 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
-| 92 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 |
+| 92 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 93 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 |
 | 94 | [Princesa \- En Vivo](https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa \(En Vivo\)](https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm) | 2:50 |
 | 95 | [Desde hoy](https://open.spotify.com/track/1Otr8Ec3EIEsBgMUc8CCJw) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Desde hoy](https://open.spotify.com/album/2ED1uEhcMli8IEySd6Bs1h) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 |
 | 100 | [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 |
 
-Snapshot ID: `AAAAAKqzIXNIdzFiOyx9VNt/lVPMXJFS`
+Snapshot ID: `AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX`

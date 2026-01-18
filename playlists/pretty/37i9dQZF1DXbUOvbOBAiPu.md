@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Regi & Laura Tesoro, Charli XCX, DYSTINCT and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,961 likes - 93 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,981 likes - 93 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -35,6 +35,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "duration_ms": 296199,
+      "name": "Motivation - Single Edit",
+      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eleison",
         "url": "https://open.spotify.com/album/4Oam0N9p16M9kXCByu4gG9"
       },
@@ -51,38 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAIR KILLER",
-        "url": "https://open.spotify.com/album/4OOjEheTxm1p6RKdjy6qLD"
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
       },
       "artists": [
         {
-          "name": "Black Marine",
-          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
-        },
-        {
-          "name": "MX the American",
-          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+          "name": "Nick Luddite",
+          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
         }
       ],
-      "duration_ms": 175982,
-      "name": "HAIR KILLER",
-      "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Canadian (Unplugged)",
-        "url": "https://open.spotify.com/album/7yM3ASxV2n82bYvq94cBYd"
-      },
-      "artists": [
-        {
-          "name": "JZ",
-          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "True Canadian - Unplugged",
-      "url": "https://open.spotify.com/track/2BPyNLvT1ibItzJwqsKsBr"
+      "duration_ms": 276000,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
     },
     {
       "added_at": null,
@@ -123,24 +119,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dissipate",
-        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/0sgxpdmaaiG4MfEqLdXuW8"
       },
       "artists": [
         {
-          "name": "KOSTIGAN",
-          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
+          "name": "Sbob",
+          "url": "https://open.spotify.com/artist/4SGADQgUoHCWAzt1fiOXkw"
         }
       ],
-      "duration_ms": 192796,
-      "name": "Dissipate",
-      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+      "duration_ms": 256264,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/5Wejm3L4dqlEhmqfLd66n1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
+        "name": "Just Saying",
+        "url": "https://open.spotify.com/album/7JAHnOhj7SqHQjFDyNRJdX"
       },
       "artists": [
         {
@@ -148,9 +144,9 @@
           "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
         }
       ],
-      "duration_ms": 296199,
-      "name": "Motivation - Single Edit",
-      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
+      "duration_ms": 187118,
+      "name": "Just Saying - Single Edit",
+      "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
     },
     {
       "added_at": null,
@@ -171,18 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cleansed by Fire",
-        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
+        "name": "Dissipate",
+        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
       },
       "artists": [
         {
-          "name": "JZ",
-          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+          "name": "KOSTIGAN",
+          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
         }
       ],
-      "duration_ms": 230433,
-      "name": "Cleansed by Fire",
-      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
+      "duration_ms": 192796,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
     },
     {
       "added_at": null,
@@ -207,18 +203,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
+        "name": "Cleansed by Fire",
+        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
       },
       "artists": [
         {
-          "name": "Nick Luddite",
-          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
+      "duration_ms": 230433,
+      "name": "Cleansed by Fire",
+      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAIR KILLER",
+        "url": "https://open.spotify.com/album/4OOjEheTxm1p6RKdjy6qLD"
+      },
+      "artists": [
+        {
+          "name": "Black Marine",
+          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
+        },
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+        }
+      ],
+      "duration_ms": 175982,
+      "name": "HAIR KILLER",
+      "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
     },
     {
       "added_at": null,
@@ -239,34 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Saying",
-        "url": "https://open.spotify.com/album/7JAHnOhj7SqHQjFDyNRJdX"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3Nq5UKI7XbjqUMhPbbEOnQ"
       },
       "artists": [
         {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+          "name": "Sister May",
+          "url": "https://open.spotify.com/artist/5F0tJ7xaH82xK4nkT60LEN"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Just Saying - Single Edit",
-      "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Armour Hill",
-        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
-      },
-      "artists": [
-        {
-          "name": "Gran Fenwick",
-          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Armour Hill",
-      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
+      "duration_ms": 230632,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/3BK1JxQdTgK1gMzsFRFJNP"
     },
     {
       "added_at": null,
@@ -291,6 +291,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feel Like A Walking Ghost",
+        "url": "https://open.spotify.com/album/0Qlx6oYsXKfVaFnp2hxexj"
+      },
+      "artists": [
+        {
+          "name": "The House Of Usher",
+          "url": "https://open.spotify.com/artist/7C9RHQV2ASzJhN85MuKhsi"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Still Waters Running Deep",
+      "url": "https://open.spotify.com/track/0v5g305kBL8tVh1q6b2UWo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Ones",
+        "url": "https://open.spotify.com/album/4xTvdnJX2znAjHZgR2iJgO"
+      },
+      "artists": [
+        {
+          "name": "Breakaway-NE",
+          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Quiet Ones",
+      "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lifetime after Lifetime",
+        "url": "https://open.spotify.com/album/2LOM13hCndLOWvxvL2svtI"
+      },
+      "artists": [
+        {
+          "name": "Lauren River",
+          "url": "https://open.spotify.com/artist/5FM6nstcOmtbNuLMOShtmU"
+        }
+      ],
+      "duration_ms": 213682,
+      "name": "Lifetime after Lifetime",
+      "url": "https://open.spotify.com/track/0vTyD8HiKwyRn6e5xq37Jm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Back To Life",
         "url": "https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU"
       },
@@ -303,54 +351,6 @@
       "duration_ms": 191500,
       "name": "Coming Back To Life",
       "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AD/2",
-        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
-      },
-      "artists": [
-        {
-          "name": "SCHANZ",
-          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wendy Houses",
-        "url": "https://open.spotify.com/album/60wqkC4T8YGTpmRAh7Ydxl"
-      },
-      "artists": [
-        {
-          "name": "The Mad Mile",
-          "url": "https://open.spotify.com/artist/4cxaTNvUAMBnufJiVYvrGY"
-        }
-      ],
-      "duration_ms": 227648,
-      "name": "Wendy Houses",
-      "url": "https://open.spotify.com/track/40cOZb9cnK3BgwdItl9f3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mission",
-        "url": "https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh"
-      },
-      "artists": [
-        {
-          "name": "Splitter Conspiracy",
-          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Mission",
-      "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
     },
     {
       "added_at": null,
@@ -375,38 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lena",
-        "url": "https://open.spotify.com/album/2KX0zB4WWEV2fE9VQqoUuu"
-      },
-      "artists": [
-        {
-          "name": "Metrophobia",
-          "url": "https://open.spotify.com/artist/586XweAtk9bPSSvhzLdrfV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/3Nq5UKI7XbjqUMhPbbEOnQ"
-      },
-      "artists": [
-        {
-          "name": "Sister May",
-          "url": "https://open.spotify.com/artist/5F0tJ7xaH82xK4nkT60LEN"
-        }
-      ],
-      "duration_ms": 230632,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/3BK1JxQdTgK1gMzsFRFJNP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/5au71R19BKRJTNP74PoCnb"
       },
@@ -423,22 +391,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "POV",
-        "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
+        "name": "Happy Song (Single Edit)",
+        "url": "https://open.spotify.com/album/4MIea62MBN7rVVjsXtrVPf"
       },
       "artists": [
         {
-          "name": "Antonis Vlavo",
-          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
-        },
-        {
-          "name": "To Die In Beauty",
-          "url": "https://open.spotify.com/artist/2qiXBLDpNuwfQHb4D1x7cW"
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
         }
       ],
-      "duration_ms": 206462,
-      "name": "POV",
-      "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
+      "duration_ms": 199709,
+      "name": "Happy Song (Single Edit)",
+      "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AD/2",
+        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "duration_ms": 253456,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POST MORTEM INVICTUS",
+        "url": "https://open.spotify.com/album/2YrwaUPZDgvHPYCAlwOlaP"
+      },
+      "artists": [
+        {
+          "name": "Luci Ferrum",
+          "url": "https://open.spotify.com/artist/07hES9rBibqnpRqecdYpIG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Cycle Breaker",
+      "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
     },
     {
       "added_at": null,
@@ -463,18 +459,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like A Walking Ghost",
-        "url": "https://open.spotify.com/album/0Qlx6oYsXKfVaFnp2hxexj"
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh"
       },
       "artists": [
         {
-          "name": "The House Of Usher",
-          "url": "https://open.spotify.com/artist/7C9RHQV2ASzJhN85MuKhsi"
+          "name": "Splitter Conspiracy",
+          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
         }
       ],
-      "duration_ms": 235706,
-      "name": "Still Waters Running Deep",
-      "url": "https://open.spotify.com/track/0v5g305kBL8tVh1q6b2UWo"
+      "duration_ms": 183857,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wendy Houses",
+        "url": "https://open.spotify.com/album/60wqkC4T8YGTpmRAh7Ydxl"
+      },
+      "artists": [
+        {
+          "name": "The Mad Mile",
+          "url": "https://open.spotify.com/artist/4cxaTNvUAMBnufJiVYvrGY"
+        }
+      ],
+      "duration_ms": 227648,
+      "name": "Wendy Houses",
+      "url": "https://open.spotify.com/track/40cOZb9cnK3BgwdItl9f3I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
+      },
+      "artists": [
+        {
+          "name": "Jyri Kannisto",
+          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Discipline",
+      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
     },
     {
       "added_at": null,
@@ -491,38 +519,6 @@
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POST MORTEM INVICTUS",
-        "url": "https://open.spotify.com/album/2YrwaUPZDgvHPYCAlwOlaP"
-      },
-      "artists": [
-        {
-          "name": "Luci Ferrum",
-          "url": "https://open.spotify.com/artist/07hES9rBibqnpRqecdYpIG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Cycle Breaker",
-      "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
-      },
-      "artists": [
-        {
-          "name": "Cozmicsoulfire",
-          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
-        }
-      ],
-      "duration_ms": 387527,
-      "name": "I Got It Bad",
-      "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
     },
     {
       "added_at": null,
@@ -551,50 +547,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "D L / U X",
-        "url": "https://open.spotify.com/album/6f6t8TopgYSaBjhiJgpXIN"
+        "name": "POV",
+        "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
       },
       "artists": [
         {
-          "name": "Gene Dante",
-          "url": "https://open.spotify.com/artist/551kbR5wR5mAsJNDeB1Jzz"
+          "name": "Antonis Vlavo",
+          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
+        },
+        {
+          "name": "To Die In Beauty",
+          "url": "https://open.spotify.com/artist/2qiXBLDpNuwfQHb4D1x7cW"
         }
       ],
-      "duration_ms": 196171,
-      "name": "Whomever You Need",
-      "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
+      "duration_ms": 206462,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
     },
     {
       "added_at": null,
       "album": {
-        "name": "give up",
-        "url": "https://open.spotify.com/album/5F5WRrmx5liSO4kdHrDptc"
+        "name": "Armour Hill",
+        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
       },
       "artists": [
         {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+          "name": "Gran Fenwick",
+          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
         }
       ],
-      "duration_ms": 338250,
-      "name": "give up",
-      "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/71rKbfzfiegLj2IEZVmPHN"
-      },
-      "artists": [
-        {
-          "name": "Sister May",
-          "url": "https://open.spotify.com/artist/5F0tJ7xaH82xK4nkT60LEN"
-        }
-      ],
-      "duration_ms": 294389,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7n3N6Thp6WFEyBIxdiOZH9"
+      "duration_ms": 259000,
+      "name": "Armour Hill",
+      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
+      },
+      "artists": [
+        {
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
+        }
+      ],
+      "duration_ms": 387527,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
     },
     {
       "added_at": null,
@@ -635,34 +635,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
+        "name": "Vampire's Kiss",
+        "url": "https://open.spotify.com/album/2gbFzOOZryAvnvERghh0R8"
       },
       "artists": [
         {
-          "name": "Jyri Kannisto",
-          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
+          "name": "Hex Formes",
+          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
+        },
+        {
+          "name": "Scott Baker Graham",
+          "url": "https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Discipline",
-      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
+      "duration_ms": 177230,
+      "name": "a short term effect",
+      "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ping Pong in the Bunker",
-        "url": "https://open.spotify.com/album/0imPikmxrFQaLmatBns46x"
+        "name": "D L / U X",
+        "url": "https://open.spotify.com/album/6f6t8TopgYSaBjhiJgpXIN"
       },
       "artists": [
         {
-          "name": "Love Crushed Velvet",
-          "url": "https://open.spotify.com/artist/3d2l5kaL1NESu5Pme7k8f0"
+          "name": "Gene Dante",
+          "url": "https://open.spotify.com/artist/551kbR5wR5mAsJNDeB1Jzz"
         }
       ],
-      "duration_ms": 228048,
-      "name": "Perfect in Design",
-      "url": "https://open.spotify.com/track/1VIzQmcHwk1kmynaNMHA89"
+      "duration_ms": 196171,
+      "name": "Whomever You Need",
+      "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What if I'm right",
+        "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
+      },
+      "artists": [
+        {
+          "name": "Fireside Shadow",
+          "url": "https://open.spotify.com/artist/2i66zDxx6bXxuiROp90qwg"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Saw Stars",
+      "url": "https://open.spotify.com/track/2LZbYxU8N4tLMrB08ron20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Just A Photograph",
+        "url": "https://open.spotify.com/album/0uZ7ZxecWh4RFXvAKkF8s6"
+      },
+      "artists": [
+        {
+          "name": "Simone Vignini",
+          "url": "https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU"
+        }
+      ],
+      "duration_ms": 191525,
+      "name": "It's Just A Photograph",
+      "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So, this is a thing?",
+        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Friday Escape",
+      "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
     },
     {
       "added_at": null,
@@ -683,66 +735,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red and Gold",
-        "url": "https://open.spotify.com/album/5YikCfh8tnNLmvBkEpuV5J"
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/6vsTOEy2BPTAzBYuK1VXse"
       },
       "artists": [
         {
-          "name": "A.Wake",
-          "url": "https://open.spotify.com/artist/1DbXhiwjCXb2FfL4s2oDMP"
+          "name": "Mara Katria",
+          "url": "https://open.spotify.com/artist/3GbOVKFaOAuNQkBouZJFL3"
+        },
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
         }
       ],
-      "duration_ms": 256777,
-      "name": "Red and Gold",
-      "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
+      "duration_ms": 325407,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/3990wQM7Bixk2UtfoEQlqL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Short Way Home",
-        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
+        "name": "Follow the Light (Redeux)",
+        "url": "https://open.spotify.com/album/1CwR06espw9M5UYbCHm9dh"
+      },
+      "artists": [
+        {
+          "name": "KINGDOMDK",
+          "url": "https://open.spotify.com/artist/7xZVY9Ln7diFV1rvBy0gLV"
+        }
+      ],
+      "duration_ms": 191563,
+      "name": "Waiting for You to Come Home (Radio Edit)",
+      "url": "https://open.spotify.com/track/5IDcKfTTPh0oT5LSxQIi6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thin Skin",
+        "url": "https://open.spotify.com/album/4TltFSA8QgA8pMJdFFBQHv"
+      },
+      "artists": [
+        {
+          "name": "Breakaway-NE",
+          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Thin Skin",
+      "url": "https://open.spotify.com/track/5jWlIjv49XpkmxoOoHVi4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
       },
       "artists": [
         {
           "name": "DePitcha",
           "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        }
-      ],
-      "duration_ms": 110117,
-      "name": "Cotton Candy Cloud",
-      "url": "https://open.spotify.com/track/66qhpcJigoaxyGabUuzC90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plowjob",
-        "url": "https://open.spotify.com/album/0JkXi9At3NRosJbpJFy7Al"
-      },
-      "artists": [
+        },
         {
-          "name": "Fotocrime",
-          "url": "https://open.spotify.com/artist/4FISVeBOWY3NwQsTUc7aVE"
+          "name": "Warlock Poet",
+          "url": "https://open.spotify.com/artist/4U4Z81LkoZkX3OxAWq3h4z"
         }
       ],
-      "duration_ms": 183613,
-      "name": "Plowjob",
-      "url": "https://open.spotify.com/track/4vOKuH7gOHQqKv6YVhajoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...In the Pale Moonlight",
-        "url": "https://open.spotify.com/album/1E9wBX3PTYCtmz9WueU3no"
-      },
-      "artists": [
-        {
-          "name": "abductees",
-          "url": "https://open.spotify.com/artist/1N8g1nswyosuRhhiZWdER8"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Somebody\u2019s Gotta Love Me",
-      "url": "https://open.spotify.com/track/1lwufybnww08ET5zglBSnf"
+      "duration_ms": 262000,
+      "name": "Ancestral Cry",
+      "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
     },
     {
       "added_at": null,
@@ -763,70 +823,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Dream",
-        "url": "https://open.spotify.com/album/06VfFMTycZO4YhOMcfBxQ7"
+        "name": "Red and Gold",
+        "url": "https://open.spotify.com/album/5YikCfh8tnNLmvBkEpuV5J"
       },
       "artists": [
         {
-          "name": "Iain MacDonald",
-          "url": "https://open.spotify.com/artist/2TGqVBBEibYX02Xu8diw7F"
+          "name": "A.Wake",
+          "url": "https://open.spotify.com/artist/1DbXhiwjCXb2FfL4s2oDMP"
         }
       ],
-      "duration_ms": 182553,
-      "name": "It's My Dream",
-      "url": "https://open.spotify.com/track/56zKYHY2WdaobxMrXM3HO6"
+      "duration_ms": 256777,
+      "name": "Red and Gold",
+      "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Murmurs Under Memphis",
-        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
+        "name": "Hither Mine Multitude Vol# 1",
+        "url": "https://open.spotify.com/album/7I2n1stnofGOF3EifuXIpK"
       },
       "artists": [
         {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "Chinos",
-          "url": "https://open.spotify.com/artist/2VBV2v6soBsoAfTep9VlJZ"
+          "name": "Jamie Rust",
+          "url": "https://open.spotify.com/artist/0Q5x6MC45Pb0qVZ4hugf2E"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Embers Are My Crown",
-        "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
-      },
-      "artists": [
-        {
-          "name": "Synthetik Blonde",
-          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
-        }
-      ],
-      "duration_ms": 252461,
-      "name": "Embers Are My Crown",
-      "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sometimes I get so High",
-        "url": "https://open.spotify.com/album/2wwBmqF2LT1dtyuuiwmUAu"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Marshall Effect",
-          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
-        }
-      ],
-      "duration_ms": 259700,
-      "name": "Crashed and Burned",
-      "url": "https://open.spotify.com/track/38aguYMaq8u41OSpyhk5UQ"
+      "duration_ms": 221000,
+      "name": "Your Disaster",
+      "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"
     },
     {
       "added_at": null,
@@ -843,22 +867,6 @@
       "duration_ms": 223219,
       "name": "It Only Takes a Minute",
       "url": "https://open.spotify.com/track/2mLHukkiu1jx9Ibdb882v2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/55ePIatUjCATIjOG4ZYfUd"
-      },
-      "artists": [
-        {
-          "name": "Blunt Blade",
-          "url": "https://open.spotify.com/artist/40XRT2BHeN7k9H605BnWMf"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "Justified",
-      "url": "https://open.spotify.com/track/4JpphtwmpyMqv3tsx4Emff"
     }
   ],
   "unique_name": "DePitcha Radio",

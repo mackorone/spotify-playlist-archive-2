@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Brigitte Calls Me Baby
 
-9,814 songs - 23 day 6 hr 58 min
+9,815 songs - 23 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3106,7 +3106,7 @@
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 | 2022-10-22 |
 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 | 2022-10-28 | 2022-11-05 |
 | [Fuck It](https://open.spotify.com/track/7K6sE4GApck52bImVZL3TL) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Fuck It](https://open.spotify.com/album/4QCrRuCfROfB4XiB5Jhr1Y) | 2:58 | 2023-11-03 | 2023-11-11 |
-| [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 | 2026-01-16 |  |
+| [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 | 2026-01-16 |  |
 | [Fuck Me](https://open.spotify.com/track/21HbjK1Xl11EzfFc8W9D3X) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Fuck Me](https://open.spotify.com/album/3uOIUdtPdHt7n9evhE2FFL) | 3:12 | 2024-06-07 | 2024-06-15 |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-05-26 | 2022-06-03 |
 | [Fuck Me Like You Hate Me](https://open.spotify.com/track/74TminwQHJv2OQhJKlqng3) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/2rBYRYIbhF1xyh0P5IpgIb) | 2:32 | 2024-10-18 | 2024-10-26 |
@@ -5170,6 +5170,7 @@
 | [Love Story](https://open.spotify.com/track/6qK38sSJQvNgUu2F9oLv85) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cavalcovers](https://open.spotify.com/album/0GL3tp8FX7OrNBaKytRX0j) | 3:57 | 2022-03-24 | 2022-04-01 |
 | [love that kills](https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [love that kills](https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl) | 3:04 | 2026-01-16 |  |
 | [Love to Death](https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Love to Death](https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL) | 3:33 | 2025-04-25 | 2025-05-17 |
+| [Love To Go](https://open.spotify.com/track/5l84ho4jDsReTMHAsYrZoJ) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [](https://open.spotify.com/album/null) | 2:46 | 2026-01-16 |  |
 | [Love to Kill](https://open.spotify.com/track/6USDbN2byQsxXcGDSlTHo0) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Love to Kill](https://open.spotify.com/album/1sCSFRn2cgz1YFf0p5343p) | 2:19 | 2023-09-01 | 2023-09-09 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-08 | 2023-12-16 |
 | [Love Trap](https://open.spotify.com/track/5T3WzOr1qHO9RYsuMJC6UN) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Love Trap](https://open.spotify.com/album/52rmgq7Ah95kNSemFMV3Zc) | 2:40 | 2025-02-14 | 2025-02-22 |

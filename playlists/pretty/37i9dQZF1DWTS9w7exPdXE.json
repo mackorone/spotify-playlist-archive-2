@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 156002,
+  "num_followers": 156065,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Amalia",
+        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Amalia",
+      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Amalia",
-        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Amalia",
-      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Het Leven Gaat Door",
-        "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
-      },
-      "artists": [
-        {
-          "name": "Koos Alberts",
-          "url": "https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Zijn Het Je Ogen",
-      "url": "https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "En Ik Droom",
         "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 157569,
       "name": "En Ik Droom",
       "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Het Leven Gaat Door",
+        "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
+      },
+      "artists": [
+        {
+          "name": "Koos Alberts",
+          "url": "https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Zijn Het Je Ogen",
+      "url": "https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Mijn Loterij",
+        "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 189352,
+      "name": "Mijn Loterij",
+      "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "Hier Mag Alles",
         "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 195859,
       "name": "Hier Mag Alles",
       "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Mijn Loterij",
-        "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
-      },
-      "artists": [
-        {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
-        }
-      ],
-      "duration_ms": 189352,
-      "name": "Mijn Loterij",
-      "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Helena 2.0",
         "url": "https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 200000,
       "name": "Helena 2.0",
       "url": "https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Zo Ben Ik Mezelf",
-        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+        "name": "In Elk Stadje",
+        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
       },
       "artists": [
         {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
+      "duration_ms": 210810,
+      "name": "In Elk Stadje",
+      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "In Elk Stadje",
-        "url": "https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x"
+        "name": "Zo Ben Ik Mezelf",
+        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
       },
       "artists": [
         {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
         }
       ],
-      "duration_ms": 210810,
-      "name": "In Elk Stadje",
-      "url": "https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg"
+      "duration_ms": 219560,
+      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
+      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Bloedje Bloedje Heet",
+        "url": "https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi"
       },
       "artists": [
         {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Rob Zorn",
+          "url": "https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+      "duration_ms": 234371,
+      "name": "Bloedje Bloedje Heet",
+      "url": "https://open.spotify.com/track/2lLJZ9cbx2Dp8cgfQTPkhy"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1455,34 +1451,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Want Jij",
-        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Want Jij",
-      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Bloedje Bloedje Heet",
-        "url": "https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi"
-      },
-      "artists": [
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
         {
-          "name": "Rob Zorn",
-          "url": "https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 234371,
-      "name": "Bloedje Bloedje Heet",
-      "url": "https://open.spotify.com/track/2lLJZ9cbx2Dp8cgfQTPkhy"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Want Jij",
+        "url": "https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Want Jij",
+      "url": "https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/4fJaDTHsSwMFrGloawWO5T"
       },
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "De Laatste",
-        "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
+        "name": "Jaren Komen Jaren Gaan",
+        "url": "https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe"
       },
       "artists": [
         {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
         }
       ],
-      "duration_ms": 171285,
-      "name": "De Laatste",
-      "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
+      "duration_ms": 173906,
+      "name": "Jaren Komen Jaren Gaan",
+      "url": "https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Jaren Komen Jaren Gaan",
-        "url": "https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe"
+        "name": "De Laatste",
+        "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
       "artists": [
         {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         }
       ],
-      "duration_ms": 173906,
-      "name": "Jaren Komen Jaren Gaan",
-      "url": "https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm"
+      "duration_ms": 171285,
+      "name": "De Laatste",
+      "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1615,34 +1615,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 152285,
-      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Voel je dan niet",
         "url": "https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk"
       },
@@ -1675,6 +1647,34 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 152285,
+      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
         "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Sugardaddy",
         "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     },
     {
       "added_at": "2025-12-10 23:00:01",

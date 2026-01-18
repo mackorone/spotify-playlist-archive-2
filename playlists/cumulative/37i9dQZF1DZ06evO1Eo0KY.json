@@ -2173,6 +2173,28 @@
     },
     {
       "album": {
+        "name": "Pillz",
+        "url": "https://open.spotify.com/album/0gLzNnxboLdJhnTzNHrQG3"
+      },
+      "artists": [
+        {
+          "name": "TRAPMAT SAVIOR",
+          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Pillz",
+      "url": "https://open.spotify.com/track/4Nu0clplxzCrB8bRYISe1t"
+    },
+    {
+      "album": {
         "name": "Shadow Moses",
         "url": "https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK"
       },

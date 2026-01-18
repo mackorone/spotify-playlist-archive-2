@@ -9737,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u3068\u308a",
+        "url": "https://open.spotify.com/album/14ZLH4GxrkSMUJqqPbPbbv"
+      },
+      "artists": [
+        {
+          "name": "MONDA",
+          "url": "https://open.spotify.com/artist/2lAZUpLD2ZwUSnXvKU2bPi"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237196,
+      "name": "\u3072\u3068\u308a",
+      "url": "https://open.spotify.com/track/7xLu5dgYm4EhCnkNG3d4li"
+    },
+    {
+      "album": {
         "name": "\u307e\u305f\u3053\u306e\u5b63\u7bc0\u306b",
         "url": "https://open.spotify.com/album/5rdjdGluOTlJ17xPHYOoY1"
       },

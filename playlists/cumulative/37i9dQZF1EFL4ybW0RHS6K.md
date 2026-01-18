@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 5 hr 32 min
+121 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 \(Alleen\)](https://open.spotify.com/track/3pASfHJfBpA0JIjE1XBGSV) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [10 \(Alleen\)](https://open.spotify.com/album/2wzuSnNL2izVnHYPr62RfQ) | 2:38 | 2024-01-29 |  |
 | [Ai](https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [HIT\-SIG](https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp) | 2:59 | 2024-01-29 |  |
 | [Air Jordans](https://open.spotify.com/track/5P9RJ4D3q7IWmsDs7cYPZr) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Air Jordans](https://open.spotify.com/album/5NrmnNnpNtEY8oDyIiuElU) | 2:20 | 2025-01-09 | 2025-04-12 |
+| [Alle Mannen Zijn Honden](https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Alle Mannen Zijn Honden](https://open.spotify.com/album/4ZBDiEfJCFnEDmGCGy9tFt) | 2:36 | 2026-01-17 |  |
 | [Alleen Wij \(feat\. Famke Louise\)](https://open.spotify.com/track/1pyKTqUxIxyRdTsuCcvJR4) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Alleen Wij \(feat\. Famke Louise\)](https://open.spotify.com/album/49Q5bbUJo8VN7nfVROT9bx) | 2:35 | 2025-01-09 | 2025-04-12 |
 | [Alles Designer](https://open.spotify.com/track/4z5KmaaIHhZdIUlkaO6gFH) | [Fabiola](https://open.spotify.com/artist/6CA2eS7cImKROD1MxahLgU) | [Alles Designer](https://open.spotify.com/album/68yBtlnlFMEN0pTWawceR5) | 2:01 | 2024-01-29 |  |
 | [Alles Wat Ik Mis](https://open.spotify.com/track/40nVzEmPQelpnyxbCoJdER) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Altijd Samen](https://open.spotify.com/album/70H06i38OJROeIolYuxJz3) | 2:30 | 2024-01-29 |  |
@@ -46,6 +47,7 @@
 | [Dämonen](https://open.spotify.com/track/0lG68Bor3DwpEm0rxJShdP) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Bonität Plus](https://open.spotify.com/album/79ZI6niNMh4i8b7RwZpzNc) | 2:31 | 2024-01-29 |  |
 | [Een Plek](https://open.spotify.com/track/26mVWWYpN8o4AHOODwLtQe) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Een Plek](https://open.spotify.com/album/3LdtbpCLtp2wacW5Qg2yUE) | 2:40 | 2024-01-29 | 2025-10-04 |
 | [Een Plek](https://open.spotify.com/track/77oq5QDGPtxtrFzx8g9l01) | [Gio](https://open.spotify.com/artist/11WOy8bNZ7WpdX89ILYNEW) | [Een Plek](https://open.spotify.com/album/4pFWpbYK4oc0SCYX9g1ohU) | 2:40 | 2025-10-03 |  |
+| [Eindelijk Mezelf](https://open.spotify.com/track/41eDDoPTrrq4x062iKKnYu) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Eindelijk Mezelf](https://open.spotify.com/album/3m4wxl3CdPKHNaJMMCzFZl) | 2:08 | 2026-01-17 |  |
 | [Enige Reden](https://open.spotify.com/track/4h2MH7wU6BHZIdC1qv8PPE) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [YOUNGBAEKANSIE](https://open.spotify.com/artist/7qeVrTexvzAscQpRbwTItg) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 3:36 | 2024-01-29 |  |
 | [Even](https://open.spotify.com/track/62Gd2nl9KsgAIluub9tm3X) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 4:18 | 2024-01-29 |  |
 | [Even Dansen](https://open.spotify.com/track/0UL7sqcqwf0YxIlant21G3) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Defano Holwijn](https://open.spotify.com/artist/5pGeI9pmfUEoHGn9w3NjqM) | [Chase](https://open.spotify.com/album/3IB6wQmGa8n1AzZMJ7LECv) | 3:13 | 2024-01-29 |  |

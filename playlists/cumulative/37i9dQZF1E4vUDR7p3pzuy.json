@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Vampire's Kiss",
+        "url": "https://open.spotify.com/album/2gbFzOOZryAvnvERghh0R8"
+      },
+      "artists": [
+        {
+          "name": "Hex Formes",
+          "url": "https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM"
+        },
+        {
+          "name": "Scott Baker Graham",
+          "url": "https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "a short term effect",
+      "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
+    },
+    {
+      "album": {
         "name": "A Song to Joy",
         "url": "https://open.spotify.com/album/0kyFrRP8qhM5V7QWLXGFJI"
       },
@@ -244,6 +266,28 @@
       "duration_ms": 220190,
       "name": "AM PM",
       "url": "https://open.spotify.com/track/5bcq3tfrM2lerLrGqpLqBJ"
+    },
+    {
+      "album": {
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Warlock Poet",
+          "url": "https://open.spotify.com/artist/4U4Z81LkoZkX3OxAWq3h4z"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Ancestral Cry",
+      "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
     },
     {
       "album": {
@@ -876,7 +920,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 110117,
       "name": "Cotton Candy Cloud",
       "url": "https://open.spotify.com/track/66qhpcJigoaxyGabUuzC90"
@@ -912,7 +956,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 259700,
       "name": "Crashed and Burned",
       "url": "https://open.spotify.com/track/38aguYMaq8u41OSpyhk5UQ"
@@ -1270,7 +1314,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -1544,7 +1588,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -1628,7 +1672,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -1664,7 +1708,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -1784,7 +1828,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -2317,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "It's Just A Photograph",
+        "url": "https://open.spotify.com/album/0uZ7ZxecWh4RFXvAKkF8s6"
+      },
+      "artists": [
+        {
+          "name": "Simone Vignini",
+          "url": "https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191525,
+      "name": "It's Just A Photograph",
+      "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
+    },
+    {
+      "album": {
         "name": "It's My Dream",
         "url": "https://open.spotify.com/album/06VfFMTycZO4YhOMcfBxQ7"
       },
@@ -2328,7 +2390,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 182553,
       "name": "It's My Dream",
       "url": "https://open.spotify.com/track/56zKYHY2WdaobxMrXM3HO6"
@@ -2418,7 +2480,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 285133,
       "name": "Justified",
       "url": "https://open.spotify.com/track/4JpphtwmpyMqv3tsx4Emff"
@@ -2570,7 +2632,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 240000,
       "name": "Lena",
       "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
@@ -2650,7 +2712,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 213682,
       "name": "Lifetime after Lifetime",
       "url": "https://open.spotify.com/track/0vTyD8HiKwyRn6e5xq37Jm"
@@ -3274,7 +3336,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 228048,
       "name": "Perfect in Design",
       "url": "https://open.spotify.com/track/1VIzQmcHwk1kmynaNMHA89"
@@ -3350,7 +3412,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 183613,
       "name": "Plowjob",
       "url": "https://open.spotify.com/track/4vOKuH7gOHQqKv6YVhajoP"
@@ -3532,7 +3594,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
@@ -3615,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/0sgxpdmaaiG4MfEqLdXuW8"
+      },
+      "artists": [
+        {
+          "name": "Sbob",
+          "url": "https://open.spotify.com/artist/4SGADQgUoHCWAzt1fiOXkw"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256264,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/5Wejm3L4dqlEhmqfLd66n1"
+    },
+    {
+      "album": {
         "name": "Ritual Lust",
         "url": "https://open.spotify.com/album/1uDwsOc8zP61kCnQ8lJIYP"
       },
@@ -3688,6 +3768,24 @@
       "duration_ms": 183716,
       "name": "Safe Distance",
       "url": "https://open.spotify.com/track/4Bd64nOz1Adpa0EUFd8puy"
+    },
+    {
+      "album": {
+        "name": "What if I'm right",
+        "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
+      },
+      "artists": [
+        {
+          "name": "Fireside Shadow",
+          "url": "https://open.spotify.com/artist/2i66zDxx6bXxuiROp90qwg"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Saw Stars",
+      "url": "https://open.spotify.com/track/2LZbYxU8N4tLMrB08ron20"
     },
     {
       "album": {
@@ -3822,7 +3920,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 294389,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7n3N6Thp6WFEyBIxdiOZH9"
@@ -3959,6 +4057,28 @@
     },
     {
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/6vsTOEy2BPTAzBYuK1VXse"
+      },
+      "artists": [
+        {
+          "name": "Mara Katria",
+          "url": "https://open.spotify.com/artist/3GbOVKFaOAuNQkBouZJFL3"
+        },
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325407,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/3990wQM7Bixk2UtfoEQlqL"
+    },
+    {
+      "album": {
         "name": "So Cold (Rising Phoenix)",
         "url": "https://open.spotify.com/album/6G7RkxXf4PnZLOD8r7AfWe"
       },
@@ -4050,7 +4170,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 231000,
       "name": "Somebody\u2019s Gotta Love Me",
       "url": "https://open.spotify.com/track/1lwufybnww08ET5zglBSnf"
@@ -4553,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Thin Skin",
+        "url": "https://open.spotify.com/album/4TltFSA8QgA8pMJdFFBQHv"
+      },
+      "artists": [
+        {
+          "name": "Breakaway-NE",
+          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193480,
+      "name": "Thin Skin",
+      "url": "https://open.spotify.com/track/5jWlIjv49XpkmxoOoHVi4A"
+    },
+    {
+      "album": {
         "name": "This Elegant Deal",
         "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
       },
@@ -4734,7 +4872,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 167471,
       "name": "True Canadian - Unplugged",
       "url": "https://open.spotify.com/track/2BPyNLvT1ibItzJwqsKsBr"
@@ -4908,6 +5046,24 @@
       "duration_ms": 289208,
       "name": "Waited",
       "url": "https://open.spotify.com/track/4ZJwXU9y2y9ptMOR2HBxdf"
+    },
+    {
+      "album": {
+        "name": "Follow the Light (Redeux)",
+        "url": "https://open.spotify.com/album/1CwR06espw9M5UYbCHm9dh"
+      },
+      "artists": [
+        {
+          "name": "KINGDOMDK",
+          "url": "https://open.spotify.com/artist/7xZVY9Ln7diFV1rvBy0gLV"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191563,
+      "name": "Waiting for You to Come Home (Radio Edit)",
+      "url": "https://open.spotify.com/track/5IDcKfTTPh0oT5LSxQIi6g"
     },
     {
       "album": {
@@ -5190,6 +5346,24 @@
       "duration_ms": 208002,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0wQ3CyATsC1qjdPg9R7oTl"
+    },
+    {
+      "album": {
+        "name": "Hither Mine Multitude Vol# 1",
+        "url": "https://open.spotify.com/album/7I2n1stnofGOF3EifuXIpK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Rust",
+          "url": "https://open.spotify.com/artist/0Q5x6MC45Pb0qVZ4hugf2E"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Your Disaster",
+      "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,792 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,847 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 35 | [Rabiscos](https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Rabiscos](https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC) | 3:16 |
 | 36 | [Marinheiro](https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY) | [Giordano Rosa](https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU) | [Giordano Rosa](https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni) | 2:31 |
 | 37 | [O Barquinho](https://open.spotify.com/track/3gHziDterpyWKTHnawogcZ) | [Urca Bossa Jazz](https://open.spotify.com/artist/4rUUf62R0iykkPKJO2SsxS), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matheus VK](https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl) | [O Barquinho](https://open.spotify.com/album/3622VWYaBU5dTNqajJ4F5g) | 3:11 |
-| 38 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 |
-| 39 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 |
-| 40 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 |
+| 38 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 |
+| 39 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 |
+| 40 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 |
 | 41 | [All or Nothing at All](https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0) | [Billy Sides Trio](https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn) | [All or Nothing at All](https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo) | 6:15 |
 | 42 | [Além da Bossa](https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Além da Bossa](https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq) | 3:45 |
 | 43 | [Brasil Geral](https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P) | [Carla Casarim](https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL) | [Terra\-Mãe](https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW) | 3:36 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 70 | [Compro o Vento](https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq) | [Eliza Meireles](https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV) | [O Samba, a Roseira e o Vento](https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg) | 2:53 |
 | 71 | [Libertação](https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY) | [Vidal Assis](https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L) | [Libertação](https://open.spotify.com/album/6menATFqidzRjusVl0INqK) | 2:56 |
 | 72 | [Muito à Vontade](https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp) | [Sammy Silva Band](https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI) | [Muito à Vontade](https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0) | 2:37 |
-| 73 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 |
+| 73 | [Musa em Fuga](https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 3:22 |
 | 74 | [Voltei](https://open.spotify.com/track/3IQzfVsRY5lyDz5TOlnrHM) | [João Camarero](https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO) | [Baden](https://open.spotify.com/album/2rbLM0aXQdSZDsQV1wKcFQ) | 3:12 |
-| 75 | [Musa em Fuga](https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 3:22 |
+| 75 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 |
 | 76 | [Rapaz de Bem](https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt) | [Vanessa Jackson](https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP) | [Rapaz de Bem](https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi) | 3:29 |
 | 77 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Tin Tin Por Tin Tin](https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK) | 2:20 |
 | 78 | [Encanto](https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb) | [Isaac Magalhães](https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2) | [Encanto](https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX) | 3:29 |

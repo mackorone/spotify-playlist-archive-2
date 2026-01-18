@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Converge
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,880 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,968 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 21 | [Wilting](https://open.spotify.com/track/4JMOX53xdHCfwgFZtr74ne) | [Before I Turn](https://open.spotify.com/artist/6oAHBPNjkdXwcdt2AgJgan) | [Wilting](https://open.spotify.com/album/4xziw9Rhb8NDQOhsfjOK1U) | 3:50 |
 | 22 | [Supernova](https://open.spotify.com/track/3WHpMe1hL4mfIWPlZCz3n5) | [Mirrorcell](https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j) | [Supernova](https://open.spotify.com/album/0dOxzhu5qpGe2QltD1ZOpU) | 3:05 |
 | 23 | [The Dead Ones](https://open.spotify.com/track/0k3rBASwBLfdRzweoFgaDD) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Dead Ones](https://open.spotify.com/album/0W8I2Wmf3dGEM96EuM3GuF) | 3:32 |
-| 24 | [Graveheart](https://open.spotify.com/track/3rTOWmTrSQWYmW049hlTYU) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [MØL](https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo) | [Graveheart](https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy) | 2:46 |
+| 24 | [Graveheart](https://open.spotify.com/track/3rTOWmTrSQWYmW049hlTYU) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Kim Song Sternkopf](https://open.spotify.com/artist/3tO21gfugw3hwlibuah7nH) | [Graveheart](https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy) | 2:46 |
 | 25 | [Pushing Me Off](https://open.spotify.com/track/4AuBzR0SR5nqLtCGL0sIQi) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [Pushing Me Off](https://open.spotify.com/album/3cOL8dtuPnUGGjRFolcyJA) | 3:05 |
 | 26 | [Three Knee Deep](https://open.spotify.com/track/0fXZ0c2hMI3t9vpy03buN5) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Three Knee Deep](https://open.spotify.com/album/4snhdalWS8ncmzqRQwfAKC) | 3:30 |
 | 27 | [All Over You](https://open.spotify.com/track/25KzjU1Mq4GJiYeS4eqPZa) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [All Over You](https://open.spotify.com/album/2ebi5AUdfqzfHcxWVwYz1y) | 3:31 |

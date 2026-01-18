@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Januar kurren er landet: ❤️‍🩹 Nyhavn ❤️‍🩹 Thor Farlov og Ella Augusta
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,937 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,931 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 69 | [Friends Or Lovers](https://open.spotify.com/track/3KLgxGNNKSFRofPkSxLBpY) | [Rusty Williams](https://open.spotify.com/artist/0FBKOaB9FKXochr33ln8VY), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Grand Man \(Deluxe Edition\)](https://open.spotify.com/album/07hWXWc0u8j793H2ksjLTx) | 3:51 |
 | 70 | [Against the Dying of the Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against the Dying of the Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 |
 | 71 | [Castles In The Sky](https://open.spotify.com/track/3XqVZir88UNWitDqg07yk3) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Castles In The Sky](https://open.spotify.com/album/2TsXL10mNSTiemVaHoFlPi) | 2:36 |
-| 72 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 72 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 73 | [No Dawn To Wake](https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [No Dawn To Wake](https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR) | 3:00 |
 | 74 | [Drama King](https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Drama King](https://open.spotify.com/album/02iICHeNdgziyDRE70DCse) | 3:10 |
 | 75 | [Afsked](https://open.spotify.com/track/6iafPRrX6rAXHT3tlPr5M5) | [Signe Svendsen](https://open.spotify.com/artist/4MZMW70xtnG7SAMfV2kg7K) | [Alt Det Vi Gør For Ikke At Dø](https://open.spotify.com/album/1koNQsDQ5f4MVlGe4bw0ox) | 4:09 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 94 | [Peel](https://open.spotify.com/track/0AmeoPjCxl4SoX7YUS69NC) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Peel](https://open.spotify.com/album/5CYpNO9hLr9wfuajzb8LzY) | 3:13 |
 | 95 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 |
 | 96 | [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 |
-| 97 | [Graveheart](https://open.spotify.com/track/3rTOWmTrSQWYmW049hlTYU) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [MØL](https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo) | [Graveheart](https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy) | 2:46 |
+| 97 | [Graveheart](https://open.spotify.com/track/3rTOWmTrSQWYmW049hlTYU) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Kim Song Sternkopf](https://open.spotify.com/artist/3tO21gfugw3hwlibuah7nH) | [Graveheart](https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy) | 2:46 |
 | 98 | [Go Mode](https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Go Mode](https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg) | 3:08 |
 | 99 | [Everyone Wants To Feel Like You Do](https://open.spotify.com/track/0S4FrT5ZhIwjdnqsGI69lZ) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Valentine](https://open.spotify.com/album/2Bn5Qn9nmG0lVZTbU6C6Gz) | 4:03 |
 | 100 | [Buzzcut](https://open.spotify.com/track/1t2JjgmVWtbjwfK7isK5FC) | [Taylor Jackson](https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif) | [I Lose My Mind/Buzzcut](https://open.spotify.com/album/3AYesxZlm01pOXAlZawrT8) | 4:31 |

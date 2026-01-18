@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "5min Track",
+        "url": "https://open.spotify.com/album/78g0xWeMZC8e2xPHYQh59U"
+      },
+      "artists": [
+        {
+          "name": "Pimf",
+          "url": "https://open.spotify.com/artist/6F0v3NKJQ4xpWZVV1BWoRL"
+        },
+        {
+          "name": "Grinch",
+          "url": "https://open.spotify.com/artist/4Pv9h9IZ1H4x3TWXIbDNEe"
+        },
+        {
+          "name": "Mavgic",
+          "url": "https://open.spotify.com/artist/30LnNDEL2XGxiEmC00wTjZ"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "5min Track",
+      "url": "https://open.spotify.com/track/4s820EPt82DbYUnYmtq03K"
+    },
+    {
+      "album": {
         "name": "69",
         "url": "https://open.spotify.com/album/7xHzUE4TKlEDwy8HzYbF3H"
       },
@@ -92,7 +118,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 146398,
       "name": "ABC auf locker",
       "url": "https://open.spotify.com/track/3DAKJfwHMamfifJOeF9nAX"
@@ -143,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Allein zu zweit",
+        "url": "https://open.spotify.com/album/2NDfb5tDxBylHgLu6HkItJ"
+      },
+      "artists": [
+        {
+          "name": "Audio88",
+          "url": "https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK"
+        },
+        {
+          "name": "Yassin",
+          "url": "https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182225,
+      "name": "Allein zu zweit",
+      "url": "https://open.spotify.com/track/316wM1DPLj1KTjRTOpYjZ6"
+    },
+    {
+      "album": {
         "name": "alleine weinen",
         "url": "https://open.spotify.com/album/108pDNF85pQW6TNvtyR64F"
       },
@@ -154,7 +202,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 126129,
       "name": "alleine weinen",
       "url": "https://open.spotify.com/track/1Lwd6uO5vCYZRoEusLmJ3c"
@@ -1028,7 +1076,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 151578,
       "name": "Freak Off",
       "url": "https://open.spotify.com/track/58gXJgldhgKtde9EHVR75c"
@@ -1184,7 +1232,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 164058,
       "name": "GG",
       "url": "https://open.spotify.com/track/6QVJ4W47dKXDRDCY0mh5gR"
@@ -1262,6 +1310,36 @@
       "duration_ms": 161000,
       "name": "Glimma Twinz",
       "url": "https://open.spotify.com/track/5MAEjGjqMKMgGQymYggvKB"
+    },
+    {
+      "album": {
+        "name": "Granit",
+        "url": "https://open.spotify.com/album/522h3AzKUm9lkdHPgcxW10"
+      },
+      "artists": [
+        {
+          "name": "Roey Marquis II.",
+          "url": "https://open.spotify.com/artist/1GOHkyyq5aoNMZoiCRirwT"
+        },
+        {
+          "name": "Italo Reno",
+          "url": "https://open.spotify.com/artist/34KjxBocW4pjtenT9oUOJl"
+        },
+        {
+          "name": "Germany",
+          "url": "https://open.spotify.com/artist/1NizalJvjqhqFL41SDrsR5"
+        },
+        {
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Granit",
+      "url": "https://open.spotify.com/track/1gKsy1oUtKecrzVb1m8PVL"
     },
     {
       "album": {
@@ -1453,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "album": {
         "name": "Helikopter",
         "url": "https://open.spotify.com/album/6Qpf50wR8fxT6TzUTcBIsE"
       },
@@ -1556,6 +1652,24 @@
       "duration_ms": 140473,
       "name": "I <3 NRW",
       "url": "https://open.spotify.com/track/4HmcbZiStgg8EN3FLEie4o"
+    },
+    {
+      "album": {
+        "name": "ICH BIN DEUTSCHER HIPHOP (48 BARS)",
+        "url": "https://open.spotify.com/album/3xENxCeHOmuVbOIGMgycxW"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "ICH BIN DEUTSCHER HIPHOP (48 BARS)",
+      "url": "https://open.spotify.com/track/6qk05oKQEMPKX3f9nvLGPC"
     },
     {
       "album": {
@@ -1903,6 +2017,32 @@
     },
     {
       "album": {
+        "name": "Kaltes Pflaster",
+        "url": "https://open.spotify.com/album/36upmPKZBf2MEFMALMjJHz"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/3WvaO5fW18CP97Q116L4od"
+        },
+        {
+          "name": "Megaloh",
+          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
+        },
+        {
+          "name": "Dasaesch",
+          "url": "https://open.spotify.com/artist/6ODZZxBeNX11zuiNYjifJL"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151685,
+      "name": "Kaltes Pflaster",
+      "url": "https://open.spotify.com/track/5yFjyUvhFnX499Z8dD4uOA"
+    },
+    {
+      "album": {
         "name": "No Validation",
         "url": "https://open.spotify.com/album/1yTSj8rqnCj5pkcE2R1BlN"
       },
@@ -2095,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi"
+    },
+    {
+      "album": {
         "name": "Look At 'Em",
         "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
       },
@@ -2210,7 +2372,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 196418,
       "name": "Make America Wavy Again (MAWA)",
       "url": "https://open.spotify.com/track/38B4Gk8dUqe3jzkC8CGJ8S"
@@ -2304,7 +2466,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 160310,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/5xAyoIzRQzAbABXjdo233X"
@@ -2348,7 +2510,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 172000,
       "name": "Mich wundert S",
       "url": "https://open.spotify.com/track/2IsbpKXCQZsb9C8K2UjCaU"
@@ -2582,6 +2744,28 @@
       "duration_ms": 142281,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/07JoltFw172GH42Myi0wFc"
+    },
+    {
+      "album": {
+        "name": "NOTHING IS REAL",
+        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
       "album": {
@@ -2900,7 +3084,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 153000,
       "name": "Rache ist eine DAW",
       "url": "https://open.spotify.com/track/1InqsMmxpfaCGyDBZkPho5"
@@ -2952,6 +3136,24 @@
       "duration_ms": 185407,
       "name": "Richtiger Mann",
       "url": "https://open.spotify.com/track/3aI76v0H7RjbshQgalSdjo"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235206,
+      "name": "ROBBERY",
+      "url": "https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0"
     },
     {
       "album": {
@@ -3640,7 +3842,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 247304,
       "name": "Vision (feat. PJ & Bilal)",
       "url": "https://open.spotify.com/track/5KWAhka8SYqCXmFUqKXU4F"
@@ -3734,7 +3936,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 193691,
       "name": "wenn ich geh, bleibt die nacht",
       "url": "https://open.spotify.com/track/3LuOjIbdZx4kb5xCs2oQKD"
@@ -3752,7 +3954,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 157591,
       "name": "what will they say",
       "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
@@ -3770,7 +3972,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 219991,
       "name": "WHERE YOU FROM",
       "url": "https://open.spotify.com/track/4PRDNZEGrKlPj6Y0hMFdN8"

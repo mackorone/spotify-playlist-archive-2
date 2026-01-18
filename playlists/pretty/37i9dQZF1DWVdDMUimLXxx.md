@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,507 likes - 77 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,564 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 65 | [Nocturne in C Sharp](https://open.spotify.com/track/4UAJf6d48Q6dBzgbC5pjya) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Robin Smith](https://open.spotify.com/artist/2FGezmANSFpsGzBoLoIa9I), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 4:33 |
 | 66 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 |
 | 67 | [Full Momentum](https://open.spotify.com/track/7MhgdmsY96bG8EQTsTOZfF) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Full Momentum](https://open.spotify.com/album/32WC7rSlZj9YyKzpbEJIqk) | 2:49 |
-| 68 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 |
+| 68 | [Tsimtsum \(From "Life of Pi" Soundtrack\)](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 |
 | 69 | [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:30 |
 | 70 | [Refined Enlightenment](https://open.spotify.com/track/2ulSScFSvKVwIBJJrKcNA2) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:23 |
 | 71 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 |

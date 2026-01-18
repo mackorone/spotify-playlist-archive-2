@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Ex-Lover",
+        "url": "https://open.spotify.com/album/2NKNggYJ8KPq6edEqEOq0V"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258182,
+      "name": "Ex-Lover",
+      "url": "https://open.spotify.com/track/5F75UuDUjuvhxY8YCfW9zN"
+    },
+    {
+      "album": {
         "name": "Film",
         "url": "https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO"
       },

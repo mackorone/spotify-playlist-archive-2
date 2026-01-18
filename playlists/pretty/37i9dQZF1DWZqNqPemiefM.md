@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,183 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,215 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,28 +84,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 74 | [DOROTHEA’S BED](https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(LP II\)](https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt) | 5:25 |
 | 75 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
 | 76 | [Big Empty Country \- I](https://open.spotify.com/track/4LC4gqiuOPsQTaYKO6yIOj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Lateral](https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D) | 8:02 |
-| 77 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
-| 78 | [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 |
-| 79 | [No Sun To Burn \(for brass\)](https://open.spotify.com/track/537mVBuMmwMGk29mXYnYlD) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [All Life Long](https://open.spotify.com/album/1Ft3N89bxz63EQAC3Eaift) | 3:12 |
-| 80 | [Closer](https://open.spotify.com/track/2nsPkMV6m9pZCOB49nFMDZ) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences Vol\. II](https://open.spotify.com/album/0y5hRFFLP15WWajyyDy1dy) | 4:20 |
+| 77 | [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 |
+| 78 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
+| 79 | [Closer](https://open.spotify.com/track/2nsPkMV6m9pZCOB49nFMDZ) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences Vol\. II](https://open.spotify.com/album/0y5hRFFLP15WWajyyDy1dy) | 4:20 |
+| 80 | [No Sun To Burn \(for brass\)](https://open.spotify.com/track/537mVBuMmwMGk29mXYnYlD) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [All Life Long](https://open.spotify.com/album/1Ft3N89bxz63EQAC3Eaift) | 3:12 |
 | 81 | [Something Ephemeral](https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 2:41 |
-| 82 | [Dusk](https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dusk](https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m) | 3:20 |
-| 83 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 |
-| 84 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
+| 82 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
+| 83 | [Dusk](https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dusk](https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m) | 3:20 |
+| 84 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 |
 | 85 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 |
 | 86 | [Black meditation](https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Afrikan Culture](https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0) | 3:58 |
 | 87 | [Wilderness House](https://open.spotify.com/track/5SkfuTaEb1bRH9rNlBuKZG) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Stellar](https://open.spotify.com/album/7GgKzRZKi9JFcD9EMG1IwT) | 2:59 |
-| 88 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 |
-| 89 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
+| 88 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
+| 89 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 |
 | 90 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
-| 91 | [Grand Prix](https://open.spotify.com/track/6Sy8Jcl3wqxLQqFuxTp4eH) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Grand Prix](https://open.spotify.com/album/481ZVqAcmqQhPkCqg1L2ir) | 4:01 |
-| 92 | [okarun's life](https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 2:56 |
+| 91 | [okarun's life](https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 2:56 |
+| 92 | [Grand Prix](https://open.spotify.com/track/6Sy8Jcl3wqxLQqFuxTp4eH) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Grand Prix](https://open.spotify.com/album/481ZVqAcmqQhPkCqg1L2ir) | 4:01 |
 | 93 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |
 | 94 | [Blue Dragonfly](https://open.spotify.com/track/2HoDCdsBee9WffbDrfhNyG) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:38 |
 | 95 | [Flora](https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Flora](https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC) | 6:02 |
 | 96 | [生き神](https://open.spotify.com/track/58ukcEr7H33hdjy4a6WMED) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [鹿の国オリジナルサウンドトラック](https://open.spotify.com/album/46XuuEnSzH2DtKOPaYWYZM) | 2:43 |
-| 97 | [Toki](https://open.spotify.com/track/0ReWX0v7kFY6ZI50RYv1fU) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Memoride 2](https://open.spotify.com/album/4w9R8sopCqODkiYw6ZhdMz) | 1:38 |
-| 98 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |
+| 97 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |
+| 98 | [Toki](https://open.spotify.com/track/0ReWX0v7kFY6ZI50RYv1fU) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Memoride 2](https://open.spotify.com/album/4w9R8sopCqODkiYw6ZhdMz) | 1:38 |
 | 99 | [Bright Belief](https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:42 |
 | 100 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 |
 

@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Achy Breaky Heart",
+        "url": "https://open.spotify.com/album/0TS7aDn70EQPTiR35Po0b0"
+      },
+      "artists": [
+        {
+          "name": "Old Soul",
+          "url": "https://open.spotify.com/artist/5orz7uUoNsj0ernM4RQ6Ao"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194959,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/5G9yaq7e0sS1oW8WBA3D9N"
+    },
+    {
+      "album": {
         "name": "Achy Breaky Heart (Club Version)",
         "url": "https://open.spotify.com/album/2zTZ5zqAa4oor6Scd6yCKa"
       },
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -5283,6 +5301,28 @@
     },
     {
       "album": {
+        "name": "Mia Martina",
+        "url": "https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R"
+      },
+      "artists": [
+        {
+          "name": "Mia Martina",
+          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
+    },
+    {
+      "album": {
         "name": "Beast (feat. Waka Flocka)",
         "url": "https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx"
       },
@@ -5298,7 +5338,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -6036,7 +6076,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 128208,
       "name": "Bilder gel\u00f6scht",
       "url": "https://open.spotify.com/track/04nxqUG1mzukNF4ZknTpn6"
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 100746,
       "name": "Bless the Telephone",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
@@ -13852,7 +13892,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 143040,
       "name": "Ej Maro, Marice",
       "url": "https://open.spotify.com/track/1cSiLLm9cb68O9DeTGMh28"
@@ -19353,6 +19393,32 @@
     },
     {
       "album": {
+        "name": "Gute Laune (Party Remix)",
+        "url": "https://open.spotify.com/album/59rTJNhTGiFRMp2TqhO8vc"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159753,
+      "name": "Gute Laune - Party Remix",
+      "url": "https://open.spotify.com/track/7oRWSpx40nSgdcmTlWHphX"
+    },
+    {
+      "album": {
         "name": "G\u00e4nsehaut",
         "url": "https://open.spotify.com/album/3bLqj3IS3yAxnMxa0uyMaf"
       },
@@ -23276,6 +23342,24 @@
       "duration_ms": 135880,
       "name": "icantbelieveiletyougetaway",
       "url": "https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH"
+    },
+    {
+      "album": {
+        "name": "Abgefunked",
+        "url": "https://open.spotify.com/album/1qeC9XUYiQizrAE4yv0uVw"
+      },
+      "artists": [
+        {
+          "name": "Jadte",
+          "url": "https://open.spotify.com/artist/52G9B8gfNvYREaOvFkYLXB"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186759,
+      "name": "Ich bin der beste Mensch der Welt",
+      "url": "https://open.spotify.com/track/60JzS9Yl1HLISdoYHtUIRW"
     },
     {
       "album": {
@@ -28410,6 +28494,24 @@
       "duration_ms": 143811,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
+    },
+    {
+      "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/2D6T4TlMWrbbR4UE04ZmZc"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/1wandUejiARUzcdwt6xkPS"
     },
     {
       "album": {
@@ -33566,7 +33668,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -33584,7 +33686,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -40236,7 +40338,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 141538,
       "name": "Samo za tebe",
       "url": "https://open.spotify.com/track/2PHmRNTOvdUTZElXsyE6Tj"
@@ -47986,7 +48088,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177386,
-      "name": "Turn The Lights Off (feat. Jon)",
+      "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
     },
     {
@@ -53812,7 +53914,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
@@ -53834,7 +53936,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/6RccVETKeP4gJNe0xP02ns"

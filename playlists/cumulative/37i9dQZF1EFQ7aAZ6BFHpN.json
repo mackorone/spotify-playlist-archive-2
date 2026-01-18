@@ -3051,6 +3051,32 @@
     },
     {
       "album": {
+        "name": "OGNI MUSICA",
+        "url": "https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        },
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "NO HYPE (con Tredici Pietro, Diss Gacha)",
+      "url": "https://open.spotify.com/track/2WaTC44IfgHh1ppGAzoOCD"
+    },
+    {
+      "album": {
         "name": "COLLEGROVE",
         "url": "https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD"
       },

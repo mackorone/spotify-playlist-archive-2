@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "Belladona",
+        "url": "https://open.spotify.com/album/16ZpanWKTqPtQrkuUTroyB"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212674,
+      "name": "Belladona",
+      "url": "https://open.spotify.com/track/065QdMHr2KoPSxtcli0fGC"
+    },
+    {
+      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 200502,
       "name": "Todo My Love",
       "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"

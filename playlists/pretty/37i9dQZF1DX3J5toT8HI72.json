@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 781934,
+  "num_followers": 781948,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANliW9Z9N22kwqe3Rx3ln7tGT8JU",
+  "snapshot_id": "AAAAAEmOZAWnawSz380NE53hH8VFY9/q",
   "tracks": [
     {
       "added_at": "2026-01-08 20:23:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Ef\u00eamera",
-        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Z\u00e9 Pi",
-          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "SIM",
-        "url": "https://open.spotify.com/album/5gxX6FRHxAzRiHBw1DeY3r"
+        "name": "Ef\u00eamera",
+        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
       "artists": [
         {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Z\u00e9 Pi",
+          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
         }
       ],
-      "duration_ms": 168511,
-      "name": "SIM",
-      "url": "https://open.spotify.com/track/6Luu7cF9h6JSKwoxRFqagr"
+      "duration_ms": 221253,
+      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1283,6 +1267,22 @@
       "duration_ms": 151128,
       "name": "A Cara do Amor da Minha Vida",
       "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
+        "name": "SIM",
+        "url": "https://open.spotify.com/album/5gxX6FRHxAzRiHBw1DeY3r"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 168511,
+      "name": "SIM",
+      "url": "https://open.spotify.com/track/6Luu7cF9h6JSKwoxRFqagr"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
       },
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
         "name": "Alian\u00e7a",
         "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99"
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
       },
       "artists": [
         {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 217431,
-      "name": "Eu Me Lembro (feat. Silva)",
-      "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -1611,6 +1595,22 @@
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217431,
+      "name": "Eu Me Lembro (feat. Silva)",
+      "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
     },
     {
       "added_at": "2026-01-08 20:23:13",

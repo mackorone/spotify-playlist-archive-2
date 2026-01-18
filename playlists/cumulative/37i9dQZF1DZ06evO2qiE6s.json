@@ -1838,10 +1838,28 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 144800,
       "name": "Return To Me (Ritorna-Me) - 1997 Remaster",
       "url": "https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo"
+    },
+    {
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "Return To Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4RzCYG7FBPLG5TrIo0GsZq"
     },
     {
       "album": {

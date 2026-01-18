@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 133921,
+  "num_followers": 134027,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAAUf2rYrvxFGpNcF6uPsXrC",
+  "snapshot_id": "aWl/gAAAAADuC30YOW5DMKVZKUOUCtKR",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 190546,
-      "name": "Lagos Love",
-      "url": "https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR"
+      "duration_ms": 160560,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
+      "duration_ms": 190546,
+      "name": "Lagos Love",
+      "url": "https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR"
     },
     {
       "added_at": null,

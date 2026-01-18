@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 161375,
+  "num_followers": 161399,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAADh0HOfQzYOlS9FlQPk+RBp",
+  "snapshot_id": "aWl/gAAAAAAXEhDG7r2SkMRcT9/JqKVU",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Etnia",
-        "url": "https://open.spotify.com/album/4weyRuJSsYRgWWBOeU1dE0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 279405,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/3UrgeOXrUEEt4BbLcoZnEE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triunfo",
         "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
       },
@@ -379,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Llegando Al 100%",
         "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 320293,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 338773,
+      "name": "Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Mundo Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3YSgkCCFuUs3jm3NZuiOxK"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cl\u00e1sicos 1.0: Entrega",
-        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 297061,
-      "name": "Cl\u00e1sicos 1.0: Entrega",
-      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 322013,
       "name": "Miserable",
       "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cl\u00e1sicos 1.0: Entrega",
+        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 297061,
+      "name": "Cl\u00e1sicos 1.0: Entrega",
+      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 356640,
-      "name": "Solo un Cari\u00f1o",
-      "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Alto En El Camino",
         "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 290373,
       "name": "Un Alto En El Camino",
       "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Solo un Cari\u00f1o",
+      "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Huellas Del Pasado",
+        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "Es Mejor No Despertar",
+      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 230013,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Huellas Del Pasado",
-        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "Es Mejor No Despertar",
-      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
     },
     {
       "added_at": null,

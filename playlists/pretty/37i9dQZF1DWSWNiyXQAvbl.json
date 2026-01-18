@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 512886,
+  "num_followers": 512926,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 208333,
       "name": "Rock Me Gently",
       "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Five-A-Side",
-        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
       },
       "artists": [
         {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 204226,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Five-A-Side",
+        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+      },
+      "artists": [
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Lynyrd Skynyrd - Rock Legends",
         "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 285346,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Back to Front",
+        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
+      },
+      "artists": [
+        {
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Alone Again (Naturally)",
+      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Back to Front",
-        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
+        "name": "Station To Station (US Version)",
+        "url": "https://open.spotify.com/album/53VB3DfAESTKLaflLk58Jo"
       },
       "artists": [
         {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 216840,
-      "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
+      "duration_ms": 242840,
+      "name": "Golden Years",
+      "url": "https://open.spotify.com/track/0gOx4r5a1KkRTZ4uZDilrb"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1195,22 +1211,6 @@
       "duration_ms": 267946,
       "name": "Dreadlock Holiday",
       "url": "https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Station To Station (US Version)",
-        "url": "https://open.spotify.com/album/53VB3DfAESTKLaflLk58Jo"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Golden Years",
-      "url": "https://open.spotify.com/track/0gOx4r5a1KkRTZ4uZDilrb"
     },
     {
       "added_at": "2024-06-03 14:45:23",

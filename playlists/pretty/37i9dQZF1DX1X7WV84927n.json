@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Alter Bridge",
-  "num_followers": 437728,
+  "num_followers": 437780,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "2005",
-        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
       },
       "artists": [
         {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 203426,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
+      "duration_ms": 218002,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
       },
       "artists": [
         {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 218002,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
+      "duration_ms": 203426,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Drag Me",
-        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 186237,
-      "name": "Drag Me",
-      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Let There Be Shred",
         "url": "https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 238276,
       "name": "Let There Be Shred",
       "url": "https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Drag Me",
+        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 186237,
+      "name": "Drag Me",
+      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 222656,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Damocles",
         "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 264836,
       "name": "Damocles",
       "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "My Only Angel",
-        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 255818,
-      "name": "My Only Angel",
-      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Hold Onto Me",
         "url": "https://open.spotify.com/album/5uCj1UeRtqhqk5fQ4UHhyV"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 256268,
       "name": "Kiss Me Now",
       "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Things Are Different Now",
-        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "The Surface (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 203294,
       "name": "ATTN.",
       "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Things Are Different Now",
+        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Playing Aces",
-        "url": "https://open.spotify.com/album/5AnND0iv1nJeZUnqwzqqOl"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 244183,
-      "name": "Playing Aces",
-      "url": "https://open.spotify.com/track/7mEFQ2zsu27VkVB9ncNRB2"
+      "duration_ms": 225871,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Playing Aces",
+        "url": "https://open.spotify.com/album/5AnND0iv1nJeZUnqwzqqOl"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 244183,
+      "name": "Playing Aces",
+      "url": "https://open.spotify.com/track/7mEFQ2zsu27VkVB9ncNRB2"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/28gwagtRnT8MlpgP6sMfNX"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 170325,
       "name": "Switch",
       "url": "https://open.spotify.com/track/2FhW6E02jJGw6sjWX7Kn3y"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 225871,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "What Lies Within",
-        "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
+        "name": "Say It To My Face",
+        "url": "https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        },
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
         }
       ],
-      "duration_ms": 306418,
-      "name": "What Lies Within",
-      "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"
+      "duration_ms": 188731,
+      "name": "Say It To My Face",
+      "url": "https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1819,22 +1823,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Say It To My Face",
-        "url": "https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f"
+        "name": "What Lies Within",
+        "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
       },
       "artists": [
         {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
-        },
-        {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 188731,
-      "name": "Say It To My Face",
-      "url": "https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr"
+      "duration_ms": 306418,
+      "name": "What Lies Within",
+      "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Mercia",
+        "url": "https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 334117,
+      "name": "Mercia",
+      "url": "https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "They Were Always Here",
         "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
       },
@@ -1899,18 +1915,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Mercia",
-        "url": "https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/51cl9f9wHRoDA0foJmzkMd"
       },
       "artists": [
         {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+          "name": "Versus Me",
+          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
         }
       ],
-      "duration_ms": 334117,
-      "name": "Mercia",
-      "url": "https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT"
+      "duration_ms": 169000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/72mfxZKrn7uUGJ5VIHQctO"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1927,22 +1943,6 @@
       "duration_ms": 245767,
       "name": "bad luck",
       "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/51cl9f9wHRoDA0foJmzkMd"
-      },
-      "artists": [
-        {
-          "name": "Versus Me",
-          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/72mfxZKrn7uUGJ5VIHQctO"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Worst in You",
+        "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
+      },
+      "artists": [
+        {
+          "name": "Versus Me",
+          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "Worst in You",
+      "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "The Only Heaven You'll Know",
         "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
       },
@@ -2091,22 +2107,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Worst in You",
-        "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
-      },
-      "artists": [
-        {
-          "name": "Versus Me",
-          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "Worst in You",
-      "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "SILOS",
         "url": "https://open.spotify.com/album/5SsKMrXgdXKZOOST3UHQ1P"
       },
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "No Rain, No Flowers",
-        "url": "https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 196774,
-      "name": "No Rain, No Flowers",
-      "url": "https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "GUTSY",
         "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 281124,
       "name": "GUTSY",
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 196774,
+      "name": "No Rain, No Flowers",
+      "url": "https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "WHIPLASH",
-        "url": "https://open.spotify.com/album/3Gt4NMrF9TUgbCJgn1rGQH"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "WHIPLASH",
-      "url": "https://open.spotify.com/track/1jfE4WlpfSsdzAzUeU7oxT"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Never Gonna Quit",
         "url": "https://open.spotify.com/album/390SgOsbr8mH0P7D2DDgmm"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 170847,
       "name": "Never Gonna Quit",
       "url": "https://open.spotify.com/track/6YHtgaBZsEDCCL408Uokuu"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHIPLASH",
+        "url": "https://open.spotify.com/album/3Gt4NMrF9TUgbCJgn1rGQH"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "WHIPLASH",
+      "url": "https://open.spotify.com/track/1jfE4WlpfSsdzAzUeU7oxT"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Troubled Water",
-        "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/5P4el2I8usVLwh90Q2AcMa"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Die About It (Deluxe)",
         "url": "https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 184555,
       "name": "Hanging On To Thunder (feat. Stand Atlantic)",
       "url": "https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Troubled Water",
+        "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/5P4el2I8usVLwh90Q2AcMa"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2519,18 +2519,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+        "name": "Through Hell",
+        "url": "https://open.spotify.com/album/5GMwgsblxQdlA9tHT0x6WS"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
         }
       ],
-      "duration_ms": 189500,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+      "duration_ms": 182000,
+      "name": "Through Hell",
+      "url": "https://open.spotify.com/track/2LtUDb8XjR3Dclh2DiOY8F"
     }
   ],
   "unique_name": "Hard Rock",

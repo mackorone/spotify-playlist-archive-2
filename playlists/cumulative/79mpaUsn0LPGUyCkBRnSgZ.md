@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,035 songs - 2 day 19 hr 59 min
+1,036 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,7 +705,7 @@
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-04-25 |  |
 | [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 | 2025-06-23 |  |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
-| [Pt\. II](https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 0:20 | 2026-01-16 |  |
+| [Pt\. II](https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 0:20 | 2026-01-16 | 2026-01-18 |
 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 | 2025-11-11 |  |
 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2024-07-02 | 2025-08-14 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2024-01-08 |  |
@@ -813,6 +813,7 @@
 | [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 | 2025-12-29 | 2026-01-06 |
 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 | 2023-07-20 | 2025-06-27 |
 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Eat The Acid](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 | 2024-02-15 |  |
+| [Somewhere In America There's A Street](https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu) | [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [What Up, Dog?](https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ) | 3:41 | 2026-01-17 |  |
 | [Sorrow Tears and Blood](https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Sorrow Tears and Blood](https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx) | 10:15 | 2023-06-14 | 2023-06-17 |
 | [Soulo Ho3 \(feat\. Jhene Aiko\)](https://open.spotify.com/track/15acC6GzjmD5NvpoS5jRdN) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Control System](https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW) | 3:57 | 2022-12-29 |  |
 | [Soundcheck](https://open.spotify.com/track/3gd9DseTODZJ3jAI43fuJq) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/4jhKUGRhFwUqc2427ydBi3) | 0:51 | 2024-12-30 |  |

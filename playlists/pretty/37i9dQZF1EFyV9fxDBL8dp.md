@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5F6lyb9cFqB4nUBjCeerIa">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 59 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 59 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 18 | [High](https://open.spotify.com/track/6kfZCeHGVpGIXEEYYdsjBy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 2:32 |
 | 19 | [Vou Queimando](https://open.spotify.com/track/6WMXykcHCKK81EoBR8CtCo) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 3:48 |
 | 20 | [Essência Pura](https://open.spotify.com/track/74v16KCJT73lKy4UhzPHkk) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:27 |
-| 21 | [Experimente Amar](https://open.spotify.com/track/6IQYrBzmv4q6ebjdW7knwo) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:47 |
+| 21 | [Experimente Amar](https://open.spotify.com/track/47R8ZMHAvM8qnloFq9Lj01) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:53 |
 | 22 | [Mística](https://open.spotify.com/track/4HKXbdq4MOmYeBQmZ7Jj0k) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:46 |
 | 23 | [Dúvidas](https://open.spotify.com/track/0cZyrTa0i4bPfiPfnaMtXr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 5:08 |
 | 24 | [Apenas um Instrumento](https://open.spotify.com/track/1ZUgffrcvhJJD3OUIBzh4f) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 5:04 |
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 29 | [A Nuvem Passará](https://open.spotify.com/track/4DJFyJsqbJcE1Kxy5cClWP) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:22 |
 | 30 | [Sadrak, Mesak e Abed\-Nego](https://open.spotify.com/track/4uNXFMfnDWWU5MWjObeCKj) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:20 |
 | 31 | [Quilombagem](https://open.spotify.com/track/6F75rxfue833JfwpokjVkz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:40 |
-| 32 | [Homens de Rapina](https://open.spotify.com/track/0qiDadSGKarBklcLv6rWl2) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:39 |
+| 32 | [Homens de Rapina](https://open.spotify.com/track/6krVqCRmxrLOtgtwXNl3le) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:44 |
 | 33 | [Estrela](https://open.spotify.com/track/6Fa39cGOfU6amdyGH8ehGk) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:34 |
 | 34 | [Zumbi Vive](https://open.spotify.com/track/4cDZVA6arbGWt3ARAGHiPZ) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:27 |
-| 35 | [A Hora da Virada](https://open.spotify.com/track/2DxcpDSp3ebJjQFZkNk7af) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:15 |
+| 35 | [A Hora da Virada](https://open.spotify.com/track/2BYmxtCPQ4v8obbgI5HZpr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:26 |
 | 36 | [Só Jah](https://open.spotify.com/track/7cj8JLDpUkZwc6wjedhysO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:20 |
-| 37 | [O Vivo Irá Perceber](https://open.spotify.com/track/3JSeSDz5deyZTDef7S4W0W) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:52 |
+| 37 | [O Vivo Irá Perceber](https://open.spotify.com/track/7y1bBV667BFimLVTl0w2sh) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:01 |
 | 38 | [O Grito Que Vem da Selva](https://open.spotify.com/track/1ud28IhuOZ3hDFnZflIcoN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:37 |
 | 39 | [Resistência](https://open.spotify.com/track/33Y2GpuyjhZyBBQAnkibvY) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 3:59 |
 | 40 | [Pedra](https://open.spotify.com/track/5AYRLHJ7Tx5H69Xjh2GDUE) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:21 |
 | 41 | [Derradeiro \- Ao Vivo](https://open.spotify.com/track/6CqdyThSAqxb4ZY8NnapEO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT) | 5:06 |
 | 42 | [A Cor](https://open.spotify.com/track/6Tbydatdx7bzFqJ4wa72GC) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:41 |
-| 43 | [Sinal](https://open.spotify.com/track/2jgOBt27W91zPMDQV82efy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:15 |
-| 44 | [Mexa\-Se](https://open.spotify.com/track/5D3O0licDSvPL1vHmuLFnx) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:50 |
+| 43 | [Sinal](https://open.spotify.com/track/2csmOLd8b5smgDpDypNExQ) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:21 |
+| 44 | [Mexa\-Se](https://open.spotify.com/track/0OrL8VmEZp74eCDYJUMtl1) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:50 |
 | 45 | [Saúde Mental](https://open.spotify.com/track/7jeMV1DH16GzjeYctu8KJh) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:10 |
 | 46 | [Posso Fugir](https://open.spotify.com/track/4sMgpCEMFgsOF3DzXhq0xV) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:49 |
 | 47 | [Bate Moleque](https://open.spotify.com/track/0PoFl0ZuL5nh3u7z3ZKpu9) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:01 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 49 | [Corpo Fechado](https://open.spotify.com/track/6R4eIow8KkeoLRaMImEupA) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 2:57 |
 | 50 | [Guardião](https://open.spotify.com/track/2urMsGx4j1ZBVa0gDW4uek) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:53 |
 | 51 | [Congo\-Bongo](https://open.spotify.com/track/6uxEFgan5LvrZkt9UQDHuS) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:07 |
-| 52 | [Sagrado Sião](https://open.spotify.com/track/5CeXorocm9cpk6GE2gO08V) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:47 |
-| 53 | [Destemido Leão](https://open.spotify.com/track/5enTOdF1aPAfHHIr5AOACY) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:08 |
+| 52 | [Sagrado Sião](https://open.spotify.com/track/4M944h1OR9dMuGKDaMfNF4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:53 |
+| 53 | [Destemido Leão](https://open.spotify.com/track/6csDU4SVKvDJYMxArrHd2n) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:15 |
 | 54 | [Mãe África](https://open.spotify.com/track/1mBQdZ74n4lfWI3VC6KnOU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 7:20 |
 | 55 | [Quem Diria](https://open.spotify.com/track/6yhKwfHBALQr4VesLNcb2u) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:02 |
-| 56 | [Mundaú Pede Socorro](https://open.spotify.com/track/6l1B31s12kxhkEuova6scN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:54 |
-| 57 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
-| 58 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
+| 56 | [Mundaú Pede Socorro](https://open.spotify.com/track/23hGl9Ml93QPYADLAqgM9z) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:58 |
+| 57 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/264XXnO474yny61FdDuo4s) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:26 |
+| 58 | [Vítima](https://open.spotify.com/track/3evRYeoBMqhJt3oDNojlps) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:10 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcHIQgAAAABd3hDqVg3EQzVrNk1Ru4Bi`
+Snapshot ID: `AcHN4gAAAAB8jALUKIBSsERxjCEkk17y`

@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2950961,
+  "num_followers": 2950882,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAC3mKnBBm2UGTzBdSNdIsBN",
+  "snapshot_id": "aWl/gAAAAAA1ZbIIXkU9+Kl6wogzVKW/",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "WingRiddenAngel",
+      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arms Around You (feat. Maluma & Swae Lee)",
         "url": "https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 198902,
       "name": "Arms Around You (feat. Maluma & Swae Lee)",
       "url": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "WingRiddenAngel",
-      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "I spoke to the devil in miami, he said everything would be fine",
-      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VERY RARE FOREVER FREESTYLE",
         "url": "https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 94041,
       "name": "VERY RARE FOREVER FREESTYLE",
       "url": "https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "I spoke to the devil in miami, he said everything would be fine",
+      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
     },
     {
       "added_at": null,

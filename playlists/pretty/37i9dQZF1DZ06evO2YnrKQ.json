@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 24796,
+  "num_followers": 24801,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAAg6C3ns05F7qPNivB3xXyi",
+  "snapshot_id": "aWl/gAAAAACe/g8xJb03MHu8F1DE1D75",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misogyny",
-        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 188768,
-      "name": "Misogyny",
-      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 234760,
       "name": "Reverse the Curse",
       "url": "https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Misogyny",
+        "url": "https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 188768,
+      "name": "Misogyny",
+      "url": "https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Switcheroo Series",
-        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Charlie Sheen vs. Henry Rollins",
-      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Switcheroo Series",
+        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Charlie Sheen vs. Henry Rollins",
+      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 195826,
       "name": "Emerald Street",
       "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuz",
-        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 175741,
-      "name": "Cuz",
-      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 173173,
       "name": "Conditional Love",
       "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuz",
+        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 175741,
+      "name": "Cuz",
+      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
     },
     {
       "added_at": null,

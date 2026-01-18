@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 91345,
+  "num_followers": 91396,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFxWfxbSrCPyOiXYZ2XPAGG6kLJ",
+  "snapshot_id": "AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4",
   "tracks": [
     {
       "added_at": "2026-01-10 23:30:54",
@@ -639,46 +639,6 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "BASS CANNON",
-        "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
-      },
-      "artists": [
-        {
-          "name": "Slaughterhouse",
-          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 129970,
-      "name": "BASS CANNON",
-      "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
-        "name": "Another Club Banger EP",
-        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 261091,
-      "name": "Another Club Banger",
-      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I"
       },
@@ -703,6 +663,46 @@
       "duration_ms": 173055,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Another Club Banger EP",
+        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 261091,
+      "name": "Another Club Banger",
+      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "BASS CANNON",
+        "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 129970,
+      "name": "BASS CANNON",
+      "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Locked & Loaded EP",
-        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
-      },
-      "artists": [
-        {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "9MM",
-      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
         "name": "Holy Calamity",
         "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 161684,
       "name": "Holy Calamity",
       "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Locked & Loaded EP",
+        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
+      },
+      "artists": [
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/3ZFaGpH7Sr8H6yzEniHXyA"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "Manifest Destiny",
-          "url": "https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/06XJ9v73E7LE0JVPpl4YTG"
-    },
-    {
-      "added_at": "2026-01-10 23:30:54",
-      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 176937,
       "name": "The End",
       "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
+    },
+    {
+      "added_at": "2026-01-10 23:30:54",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/3ZFaGpH7Sr8H6yzEniHXyA"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "Manifest Destiny",
+          "url": "https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/06XJ9v73E7LE0JVPpl4YTG"
     },
     {
       "added_at": "2026-01-10 23:30:54",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-01-10 23:30:54",
       "album": {
-        "name": "Run 4 Your Life",
-        "url": "https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew"
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/2yznQNSmPM9XGIJ1JjsFF0"
       },
       "artists": [
         {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Run 4 Your Life",
-      "url": "https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY"
+      "duration_ms": 141600,
+      "name": "Eye Of The Tiger",
+      "url": "https://open.spotify.com/track/2ba6ggXCHrYvrnc0jAsAgR"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

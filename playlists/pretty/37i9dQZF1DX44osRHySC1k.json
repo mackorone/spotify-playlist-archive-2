@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54645,
+  "num_followers": 54659,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
-      },
-      "artists": [
-        {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 191624,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+      },
+      "artists": [
+        {
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -723,18 +723,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+        "name": "More than Close",
+        "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
       },
       "artists": [
         {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+          "name": "Oneke",
+          "url": "https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg"
         }
       ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
+      "duration_ms": 162478,
+      "name": "More than Close",
+      "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "More than Close",
-        "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
       },
       "artists": [
         {
-          "name": "Oneke",
-          "url": "https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg"
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
         }
       ],
-      "duration_ms": 162478,
-      "name": "More than Close",
-      "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Mental Stillness 50",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
-      },
-      "artists": [
-        {
-          "name": "Jardim Zen",
-          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 325400,
       "name": "The Breath Inside the Breath",
       "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Mental Stillness 50",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+      },
+      "artists": [
+        {
+          "name": "Jardim Zen",
+          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
+        }
+      ],
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -987,6 +987,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+      },
+      "artists": [
+        {
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+        }
+      ],
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Moments of Tomorrow",
         "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
-      },
-      "artists": [
-        {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
-        }
-      ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dream Dependence",
         "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 155459,
       "name": "Dream dependence",
       "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mantric Melody",
-        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 111277,
-      "name": "Mantric Melody",
-      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mantric Melody",
+        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 111277,
+      "name": "Mantric Melody",
+      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
     },
     {
       "added_at": "2021-06-24 10:58:44",

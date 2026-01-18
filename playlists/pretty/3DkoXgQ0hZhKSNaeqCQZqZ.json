@@ -1,13 +1,61 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 932,
+  "num_followers": 931,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEwRBzSa1fLxStPacUJ/21861jOK9w",
+  "snapshot_id": "AAAEw57h/ZH7O12q0ww7oyMpwPpLknej",
   "tracks": [
+    {
+      "added_at": "2026-01-17 21:41:15",
+      "album": {
+        "name": "Ponies At Dawn Fusion",
+        "url": "https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh"
+      },
+      "artists": [
+        {
+          "name": "GrieferPig",
+          "url": "https://open.spotify.com/artist/7DmWu55IMdbyjRKmhsgTA6"
+        },
+        {
+          "name": "Trey Husk",
+          "url": "https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d"
+        },
+        {
+          "name": "Metajoker",
+          "url": "https://open.spotify.com/artist/2fkfwkrtCqUBWuYOdg2iFO"
+        }
+      ],
+      "duration_ms": 205629,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0fC9GePxGbjfuOuGJLcLlh"
+    },
+    {
+      "added_at": "2026-01-17 21:42:48",
+      "album": {
+        "name": "DOUBL3 TAK3 (R3MIX)",
+        "url": "https://open.spotify.com/album/1YsqdmOXAqFh8Nhf7dzMgK"
+      },
+      "artists": [
+        {
+          "name": "DAMAG3",
+          "url": "https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn"
+        },
+        {
+          "name": "Lex Bratcher",
+          "url": "https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf"
+        },
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "DOUBL3 TAK3 - R3MIX",
+      "url": "https://open.spotify.com/track/5OCeL0gRKf54buDtZHFkq6"
+    },
     {
       "added_at": "2026-01-12 20:03:29",
       "album": {

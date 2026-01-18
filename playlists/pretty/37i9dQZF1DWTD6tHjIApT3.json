@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3061\u3083\u3093\u307f\u306a CHANMINA",
-  "num_followers": 134448,
+  "num_followers": 134450,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
+    },
+    {
+      "added_at": "2026-01-14 07:51:44",
+      "album": {
         "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
         "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 227538,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
       "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
-    },
-    {
-      "added_at": "2026-01-14 07:51:44",
-      "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
-      },
-      "artists": [
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
     },
     {
       "added_at": "2026-01-14 07:51:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
-        "name": "last scene.",
-        "url": "https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 249703,
-      "name": "last scene.",
-      "url": "https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E"
-    },
-    {
-      "added_at": "2026-01-14 07:51:44",
-      "album": {
         "name": "Tokei",
         "url": "https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
-        "name": "\u30d3\u30bf\u30fc\u30a8\u30c1\u30e5\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/3U6a7FD3CjUMxK7HE41zz8"
+        "name": "last scene.",
+        "url": "https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw"
       },
       "artists": [
         {
-          "name": "\u660e\u900f",
-          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
         }
       ],
-      "duration_ms": 217600,
-      "name": "\u30d3\u30bf\u30fc\u30a8\u30c1\u30e5\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6JKLWsPeeNLlXNw4XXTN0T"
+      "duration_ms": 249703,
+      "name": "last scene.",
+      "url": "https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E"
     },
     {
       "added_at": "2026-01-14 07:51:44",
@@ -1303,6 +1287,22 @@
       "duration_ms": 336560,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/4tnpmZVD9zVQIMQghpuV8x"
+    },
+    {
+      "added_at": "2026-01-14 07:51:44",
+      "album": {
+        "name": "\u30d3\u30bf\u30fc\u30a8\u30c1\u30e5\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/3U6a7FD3CjUMxK7HE41zz8"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u900f",
+          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "\u30d3\u30bf\u30fc\u30a8\u30c1\u30e5\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6JKLWsPeeNLlXNw4XXTN0T"
     },
     {
       "added_at": "2026-01-14 07:51:44",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
-        "name": "yummy goodday",
-        "url": "https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT"
+        "name": "GRAY",
+        "url": "https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw"
       },
       "artists": [
         {
-          "name": "CENT",
-          "url": "https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms"
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
         }
       ],
-      "duration_ms": 200932,
-      "name": "yummy goodday",
-      "url": "https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O"
+      "duration_ms": 300830,
+      "name": "GRAY",
+      "url": "https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7"
     },
     {
       "added_at": "2026-01-14 07:51:44",
@@ -1407,18 +1407,34 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
-        "name": "GRAY",
-        "url": "https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw"
+        "name": "yummy goodday",
+        "url": "https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT"
       },
       "artists": [
         {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+          "name": "CENT",
+          "url": "https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms"
         }
       ],
-      "duration_ms": 300830,
-      "name": "GRAY",
-      "url": "https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7"
+      "duration_ms": 200932,
+      "name": "yummy goodday",
+      "url": "https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O"
+    },
+    {
+      "added_at": "2026-01-14 07:51:44",
+      "album": {
+        "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
+        "url": "https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 365440,
+      "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
+      "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
     },
     {
       "added_at": "2026-01-14 07:51:44",
@@ -1487,38 +1503,6 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
-        "name": "\u5929\u307e\u3067\u3068\u3069\u3051",
-        "url": "https://open.spotify.com/album/2fjdk0XQa3SHpq5MoPxm9v"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 246062,
-      "name": "\u5929\u307e\u3067\u3068\u3069\u3051",
-      "url": "https://open.spotify.com/track/64CWzOfcI6BNBU1vDJJWsT"
-    },
-    {
-      "added_at": "2026-01-14 07:51:44",
-      "album": {
-        "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
-        "url": "https://open.spotify.com/album/5qTACJpLavLBeGhsg9P7b1"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 365440,
-      "name": "\u8d85\u3042\u308a\u304c\u3068\u3046",
-      "url": "https://open.spotify.com/track/035vNuv1kda8lkINP8jjzc"
-    },
-    {
-      "added_at": "2026-01-14 07:51:44",
-      "album": {
         "name": "Like Gravity",
         "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 184114,
       "name": "Like Gravity",
       "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
+    },
+    {
+      "added_at": "2026-01-14 07:51:44",
+      "album": {
+        "name": "\u5929\u307e\u3067\u3068\u3069\u3051",
+        "url": "https://open.spotify.com/album/2fjdk0XQa3SHpq5MoPxm9v"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 246062,
+      "name": "\u5929\u307e\u3067\u3068\u3069\u3051",
+      "url": "https://open.spotify.com/track/64CWzOfcI6BNBU1vDJJWsT"
     },
     {
       "added_at": "2026-01-14 07:51:44",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-01-14 07:51:44",
       "album": {
-        "name": "Wormhole / Yumi AraI",
-        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 269881,
-      "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
-    },
-    {
-      "added_at": "2026-01-14 07:51:44",
-      "album": {
         "name": "I Don't Want To Leave",
         "url": "https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 290218,
       "name": "3%\u3068\u79c1\u3002",
       "url": "https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt"
+    },
+    {
+      "added_at": "2026-01-14 07:51:44",
+      "album": {
+        "name": "Wormhole / Yumi AraI",
+        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 269881,
+      "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
+      "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
     },
     {
       "added_at": "2026-01-14 07:51:44",

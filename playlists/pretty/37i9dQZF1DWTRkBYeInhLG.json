@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499568,
+  "num_followers": 499588,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Ello",
-        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
-      },
-      "artists": [
-        {
-          "name": "Marcello Tahitoe",
-          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Pergi Untuk Kembali",
-      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Jika",
         "url": "https://open.spotify.com/album/6v7H5Z1KzDz9xb2XOyWCqZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 307826,
       "name": "Jika",
       "url": "https://open.spotify.com/track/4Qb0GwIiuaRNFTW2HI1lMA"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Ello",
+        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
+      },
+      "artists": [
+        {
+          "name": "Marcello Tahitoe",
+          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Pergi Untuk Kembali",
+      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "It's Me BCL",
-        "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
+        "name": "The Best Of Andre Hehanussa",
+        "url": "https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas"
       },
       "artists": [
         {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Dipha Barus",
-          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+          "name": "Andre Hehanussa",
+          "url": "https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb"
         }
       ],
-      "duration_ms": 211965,
-      "name": "Aku Wanita (with Dipha Barus)",
-      "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
+      "duration_ms": 241733,
+      "name": "KKEB",
+      "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
     },
     {
       "added_at": "2025-10-07 11:00:23",

@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "20:30 (feat. Karim B)",
+        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        },
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "20:30 (feat. Karim B)",
+      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
+    },
+    {
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI"
       },
@@ -2186,6 +2208,24 @@
       "duration_ms": 152124,
       "name": "Clean",
       "url": "https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK"
+    },
+    {
+      "album": {
+        "name": "Clean Girl",
+        "url": "https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177951,
+      "name": "Clean Girl",
+      "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
     },
     {
       "album": {
@@ -4790,7 +4830,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 174186,
       "name": "Hauki",
       "url": "https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ"
@@ -8771,6 +8811,28 @@
     },
     {
       "album": {
+        "name": "Kuolisin sun kaa (feat. pehmoaino)",
+        "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
+      },
+      "artists": [
+        {
+          "name": "Aaro630",
+          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206999,
+      "name": "Kuolisin sun kaa (feat. pehmoaino)",
+      "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
+    },
+    {
+      "album": {
         "name": "Kuori mua",
         "url": "https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e"
       },
@@ -9548,6 +9610,28 @@
       "duration_ms": 224000,
       "name": "Lickini B\u00e4k",
       "url": "https://open.spotify.com/track/68nEpYbIC6xYkkT96b2WzW"
+    },
+    {
+      "album": {
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
+      },
+      "artists": [
+        {
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
       "album": {
@@ -10488,7 +10572,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 151345,
       "name": "Made it",
       "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
@@ -10568,7 +10652,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 144666,
       "name": "Makea (feat. Jami Faltin)",
       "url": "https://open.spotify.com/track/6lP02n6W4btNlaaYOQHmBD"
@@ -19524,7 +19608,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 154522,
       "name": "TUHKIMO",
       "url": "https://open.spotify.com/track/3iFCjP4KdnPiwT19dXIsC9"

@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Art\u0131k Sen Yoksun",
+        "url": "https://open.spotify.com/album/6R6jgIHRsxIrGGqQ6QL1V0"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160933,
+      "name": "Art\u0131k Sen Yoksun",
+      "url": "https://open.spotify.com/track/56V4NblZ9VOPQLaKTBAjMm"
+    },
+    {
+      "album": {
         "name": "Asla",
         "url": "https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl"
       },
@@ -6290,7 +6308,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 162857,
       "name": "Sana",
       "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
@@ -6568,7 +6586,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 210978,
       "name": "senden ba\u015fka",
       "url": "https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321"
@@ -7806,7 +7824,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"

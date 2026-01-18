@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,181 likes - 79 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,210 likes - 79 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 58 | [In The Name of Jesus \(Jesus Is The Way Spontaneous\) \(feat\. Chandler Moore\)](https://open.spotify.com/track/7fkWuneCeC7VIcjXsLjF5r) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(Jesus Is The Way Spontaneous\) \(feat\. Chandler Moore\)](https://open.spotify.com/album/7K5CbMLVRJt4WLMEKxVBcd) | 7:35 |
 | 59 | [Table Of The Lord \- Live](https://open.spotify.com/track/4SIS0GmDA7iutDggCJmRSB) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [In The Mighty Name \(Live\)](https://open.spotify.com/album/60AC9VfX5Lm555MjtmVKXo) | 5:43 |
 | 60 | [dwell](https://open.spotify.com/track/2VSjXXXPMFDOYp3W4T0ETk) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8), [Sean Stevens](https://open.spotify.com/artist/2QCJmP0KH93wpPqXMhFTvv), [ysabelle](https://open.spotify.com/artist/6dNoiei43MgIz6y3h4nyGE) | [conversations with God](https://open.spotify.com/album/39YPdK3Yt6j2BClxLAoJR4) | 8:02 |
-| 61 | [No Matter Where The Altar Is \- Radio Versoin](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
+| 61 | [No Matter Where The Altar Is \- Radio Version](https://open.spotify.com/track/7uiItjgpjRwRkWQ9uwayaP) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [No Matter Where The Altar Is \(Radio Version\)](https://open.spotify.com/album/2ok1vF1ATATxyGrCMmUJR5) | 4:31 |
 | 62 | [Cathedral \- Live](https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR) | [Cathedral \(Live\)](https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj) | 5:56 |
 | 63 | [Throne Room \- Live from Garden Valley](https://open.spotify.com/track/568VR4OE2RAo3RVEOgcAIj) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [SEASONS \(Live\)](https://open.spotify.com/album/2edMtYfdUPkkL7lgt2vL8Y) | 5:58 |
 | 64 | [Good Plans \- Live](https://open.spotify.com/track/29Zbu7SURpkRooBONvmU30) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Worship Through It \(Live from Hope UC\)](https://open.spotify.com/album/7vxvR1MjsjhsfaAefTz4fS) | 5:50 |

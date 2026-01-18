@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,631 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,737 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Encontro / Eu Te Amo \- Ao Vivo](https://open.spotify.com/track/3QlaEMBgXJcq7lqjjRMmcm) | [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Encontro / Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/67XOPkmRWRLit6AnqHTSoC) | 3:26 |
 | 75 | [Pensa Bem / Vida de Amante / Batucada Boa](https://open.spotify.com/track/3GFSNtkqSF4CYkJLpU4O1t) | [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Dose Diária de Pagode](https://open.spotify.com/album/0wURRoHojepiQk4eLquAXN) | 4:30 |
 
-Snapshot ID: `AAAAAEqsGAsO1e7raOVHGHZC5G6dStNy`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-406 songs - 23 hr 42 min
+407 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Sentimientos De Cartón](https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Necesito Más De Ti](https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9) | 3:03 | 2023-06-16 | 2025-11-10 |
 | [Ser Más Que Tu Amigo](https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Ser Más Que Tu Amigo](https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC) | 3:07 | 2025-11-09 | 2026-01-15 |
 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 | 2023-06-16 | 2025-11-10 |
+| [Sexo Con Tu Ex](https://open.spotify.com/track/5DxDTVexCtiHtSk0GQCybW) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [SaD </3 VaLENTIN](https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw) | 2:59 | 2025-11-09 |  |
 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-06-16 | 2025-11-10 |
 | [Si me tomo una cerveza](https://open.spotify.com/track/3cZEwTLyA3rc8XrdjNVcGM) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Si me tomo una cerveza](https://open.spotify.com/album/59w6lNv6KkDtdO2LFZJAuY) | 3:32 | 2023-11-08 | 2024-07-03 |
 | [Si No Vas a Ser Tú](https://open.spotify.com/track/0YmihiZsgfqKIQO6Le00QL) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Necios](https://open.spotify.com/album/7CGMwSZjYJx3fJiFt5e9UP) | 3:54 | 2025-11-09 |  |
@@ -410,7 +411,7 @@
 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 | 2025-11-09 |  |
 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-06-16 | 2023-11-09 |
 | [YO SOY TU MAESTRO Passion Vallenata \(Parranda Mu\)](https://open.spotify.com/track/6LaEYh9N6bbp0QBZgaWETP) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [YO SOY TU MAESTRO Passion Vallenata \(Parranda Mu\)](https://open.spotify.com/album/5WVGKs68348R4dbI2AxS4Z) | 4:46 | 2025-06-17 | 2025-08-31 |
-| [Yo tmb me fui](https://open.spotify.com/track/2eroNooNR9K6rVVBou98GC) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Poesías de mi Odisea](https://open.spotify.com/album/72acy3W2vjDOFAj76co0up) | 2:21 | 2025-11-09 |  |
+| [Yo tmb me fui](https://open.spotify.com/track/2eroNooNR9K6rVVBou98GC) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Poesías de mi Odisea](https://open.spotify.com/album/72acy3W2vjDOFAj76co0up) | 2:21 | 2025-11-09 | 2026-01-18 |
 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 | 2024-07-02 | 2025-11-10 |
 | [¿Qué Te Parece?](https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8) | 3:02 | 2025-06-17 | 2025-11-10 |
 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2023-06-16 | 2025-11-10 |

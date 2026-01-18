@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkHpEs+bCsf23VNFkqtOlpZ1V+P",
+  "snapshot_id": "AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n",
   "tracks": [
     {
       "added_at": "2026-01-08 23:00:08",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-01-08 23:00:08",
       "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
-      },
-      "artists": [
-        {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
-    },
-    {
-      "added_at": "2026-01-08 23:00:08",
-      "album": {
         "name": "Start a Thing",
         "url": "https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 176585,
       "name": "Start a Thing",
       "url": "https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi"
+    },
+    {
+      "added_at": "2026-01-08 23:00:08",
+      "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
+      },
+      "artists": [
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
     },
     {
       "added_at": "2026-01-08 23:00:08",
@@ -343,26 +343,6 @@
     {
       "added_at": "2026-01-08 23:00:08",
       "album": {
-        "name": "Love You So",
-        "url": "https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a"
-      },
-      "artists": [
-        {
-          "name": "Horizon Blue",
-          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
-        },
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Love You So",
-      "url": "https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap"
-    },
-    {
-      "added_at": "2026-01-08 23:00:08",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 143161,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g"
+    },
+    {
+      "added_at": "2026-01-08 23:00:08",
+      "album": {
+        "name": "Love You So",
+        "url": "https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a"
+      },
+      "artists": [
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Love You So",
+      "url": "https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap"
     },
     {
       "added_at": "2026-01-08 23:00:08",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-01-08 23:00:08",
       "album": {
+        "name": "Thinking About Us",
+        "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Gavin Jones",
+          "url": "https://open.spotify.com/artist/6y8OEb2OkUYCZjbdQ0cNru"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Thinking About Us",
+      "url": "https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m"
+    },
+    {
+      "added_at": "2026-01-08 23:00:08",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/38siYOqyNabvKqGmmermGx"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 213558,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
-    },
-    {
-      "added_at": "2026-01-08 23:00:08",
-      "album": {
-        "name": "Thinking About Us",
-        "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Gavin Jones",
-          "url": "https://open.spotify.com/artist/6y8OEb2OkUYCZjbdQ0cNru"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Thinking About Us",
-      "url": "https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m"
     },
     {
       "added_at": "2026-01-08 23:00:08",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-01-08 23:00:08",
       "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
-      },
-      "artists": [
-        {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
-    },
-    {
-      "added_at": "2026-01-08 23:00:08",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2026-01-08 23:00:08",
       "album": {
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+      },
+      "artists": [
+        {
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+    },
+    {
+      "added_at": "2026-01-08 23:00:08",
+      "album": {
         "name": "Blood & Bones",
         "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 192857,
       "name": "Blood & Bones",
       "url": "https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua"
+    },
+    {
+      "added_at": "2026-01-08 23:00:08",
+      "album": {
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2026-01-08 23:00:08",
@@ -1083,22 +1099,6 @@
       "duration_ms": 159047,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk"
-    },
-    {
-      "added_at": "2026-01-08 23:00:08",
-      "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2026-01-08 23:00:08",

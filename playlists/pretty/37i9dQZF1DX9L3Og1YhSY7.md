@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L3Og1YhSY7.md) - [plain]
 
 > Hello Dearheart, curated by Johnny Weir\. Traitors S4 now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L3Og1YhSY7.md) - [plain]
 | 49 | [The Disco Song](https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Disco Song](https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm) | 3:57 |
 | 50 | [Sukiyaki](https://open.spotify.com/track/2YL0hONHSk8PJlYTbMpw5s) | [Kyu Sakamoto](https://open.spotify.com/artist/3WKkjW8B7x5UZmfC9pnDmN) | [Sukiyaki](https://open.spotify.com/album/4GqiEIVo3ae0q6Z4evj5yF) | 3:08 |
 
-Snapshot ID: `AAAAAHcc/JddZUcqxKSJ6xj7H6SCURcp`
+Snapshot ID: `AAAAAK6hXh7xaINnuXiq5J/dkR/dxIMG`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,842 likes - 150 songs - 8 hr 0 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,840 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 |
 | 2 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 |
 | 3 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 |
-| 4 | [Manic Monday \- Acoustic](https://open.spotify.com/track/2TUKROtCFgNrWtO0Ou17of) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Manic Monday \(Acoustic\)](https://open.spotify.com/album/2mNth3H0jsbRlEPC5MKsiv) | 1:56 |
+| 4 | [Let Her Go \- Acoustic](https://open.spotify.com/track/6ZhFyAONKGpWAxfEiT6NBE) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Let Her Go \(Acoustic\)](https://open.spotify.com/album/2dAJpIf4TPND1msGGPvzKw) | 2:33 |
 | 5 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1bA1t3ZtXuvx4FqdNED5RW) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyuri](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [I Don't Want to Miss a Thing](https://open.spotify.com/album/0fI8VVtUhZ9O2padLpbBHF) | 3:20 |
 | 6 | [Glory of Love](https://open.spotify.com/track/2iPOVHVwpJolLjh3VZKRoi) | [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Glory of Love](https://open.spotify.com/album/00t4GVWQGiaxPGhQW67MVY) | 3:55 |
 | 7 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 149 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 150 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAGBQSbbumFL5hdXsPRN/nmYGdk3d61`
+Snapshot ID: `AAAGBwRBCzHTODU1TWQWWRskiw2vcuNL`

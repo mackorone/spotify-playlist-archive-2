@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: RAAHiiM & Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,272 likes - 165 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,275 likes - 165 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

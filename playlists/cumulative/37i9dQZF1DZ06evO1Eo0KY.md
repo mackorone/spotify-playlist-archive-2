@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-152 songs - 7 hr 3 min
+153 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Paco Chaupard](https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 2:56 | 2024-07-03 | 2024-09-22 |
 | [Peaches and Herb \- Remix](https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Peaches and Herb \(Remix\)](https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph) | 3:02 | 2024-12-16 | 2025-11-16 |
 | [Philosophe](https://open.spotify.com/track/5zCHfnRrvOxttkKlJOLL3w) | [Trankil Trankil](https://open.spotify.com/artist/4oOS6koasRcz1xoStp1tgq), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Surf School](https://open.spotify.com/album/6tt1KtheN86vec3CXvRZUz) | 3:42 | 2024-09-27 | 2025-04-25 |
+| [Pillz](https://open.spotify.com/track/4Nu0clplxzCrB8bRYISe1t) | [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Pillz](https://open.spotify.com/album/0gLzNnxboLdJhnTzNHrQG3) | 1:45 | 2026-01-18 |  |
 | [Play for Keeps](https://open.spotify.com/track/45XfVfiUaxHNjiu6Ukv0RD) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Shadow Moses](https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK) | 2:04 | 2023-12-13 | 2025-04-03 |
 | [Plot Armor](https://open.spotify.com/track/1DQPhJkeklnFKOgUsIajnM) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:29 | 2025-11-08 | 2025-11-09 |
 | [Porzingis](https://open.spotify.com/track/1DJfkN0ZZigRHzNFNycKRi) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:45 | 2025-05-07 | 2025-07-21 |

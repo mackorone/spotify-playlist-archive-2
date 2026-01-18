@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "All new Gospel songs on the rise! Cover: Todd Dulaney",
+  "description": "All new Gospel songs on the rise! Cover:  Common Hymnal",
   "name": "Gospel Rising",
   "tracks": [
     {
@@ -301,6 +301,36 @@
     },
     {
       "album": {
+        "name": "Bishop S.Y. Younger Presents: Almost Home- A Ramp Record with Friends",
+        "url": "https://open.spotify.com/album/5Chh8IrApScHnBPK3xrzdJ"
+      },
+      "artists": [
+        {
+          "name": "Bishop S.Y. Younger",
+          "url": "https://open.spotify.com/artist/0EBIOTYsxmmKe5SdiPlpMV"
+        },
+        {
+          "name": "Alishia Monroe",
+          "url": "https://open.spotify.com/artist/70K98H78Ynzk0VMulcnPhw"
+        },
+        {
+          "name": "Cassie Carter Richardson",
+          "url": "https://open.spotify.com/artist/6uiRozZ5NjvA8LuBzIx2XD"
+        },
+        {
+          "name": "Claude Gardner",
+          "url": "https://open.spotify.com/artist/29i6teZD2s2rV68XhIDFXn"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135731,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/3cHjP4nJ0vIXbxIpwT3EMU"
+    },
+    {
+      "album": {
         "name": "WOW Gospel 2016",
         "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
       },
@@ -484,6 +514,28 @@
       "duration_ms": 250285,
       "name": "Another Way Out",
       "url": "https://open.spotify.com/track/6I0YSAwZMy7GpBlgfBn7Xc"
+    },
+    {
+      "album": {
+        "name": "Anybody Here (Southern Soul Mix)",
+        "url": "https://open.spotify.com/album/6SmL9KNhqAVgeJSyIbqEaK"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon & Voices of Unity",
+          "url": "https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Anybody Here - Southern Soul Mix",
+      "url": "https://open.spotify.com/track/1vU2zm3pq4ocC4Wh3YkHKn"
     },
     {
       "album": {
@@ -1664,7 +1716,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 232933,
       "name": "Exalt the Name",
       "url": "https://open.spotify.com/track/0hkZJs3TRWaZTVpUqo3XoY"
@@ -1788,7 +1840,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 696221,
       "name": "Father of Mercy - Live",
       "url": "https://open.spotify.com/track/77WplLxjyTqMbGbna6KcNy"
@@ -3740,7 +3792,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 287008,
       "name": "Jesus Is Real",
       "url": "https://open.spotify.com/track/30xjbWfGQUhpmThrjO97gW"
@@ -3988,7 +4040,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 297492,
       "name": "Let Him Cook",
       "url": "https://open.spotify.com/track/51buRnmK0tugrPPqlUOUIr"
@@ -4478,7 +4530,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 242637,
       "name": "My First Love - Remix",
       "url": "https://open.spotify.com/track/6Zk4bO80FrFCUbgA4VPtgn"
@@ -5483,6 +5535,28 @@
     },
     {
       "album": {
+        "name": "RUN 2 U",
+        "url": "https://open.spotify.com/album/7490sDp8qzdDhMg9KAeTHW"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Hindrix Brown",
+          "url": "https://open.spotify.com/artist/0MKSEV762KVJJXueLFnQut"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202671,
+      "name": "RUN 2 U",
+      "url": "https://open.spotify.com/track/7jwS8XoLQFYWRXBMjdS07U"
+    },
+    {
+      "album": {
         "name": "Savior More Than Life",
         "url": "https://open.spotify.com/album/2cdrRPuiOLwCgIc0kOV2UJ"
       },
@@ -5498,7 +5572,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 220821,
       "name": "Savior More Than Life",
       "url": "https://open.spotify.com/track/7AdCYNyx0N3QAUVifInB0s"
@@ -6064,7 +6138,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 247193,
       "name": "Talking bout' Joy",
       "url": "https://open.spotify.com/track/6cymVyBCemYd0rdQoPtSJi"
@@ -6130,6 +6204,28 @@
       "duration_ms": 321549,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6OfeDrvHn3BQhwct4dhKb6"
+    },
+    {
+      "album": {
+        "name": "Thank You, God.",
+        "url": "https://open.spotify.com/album/2Iakam0x978eHUjIWa770J"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        },
+        {
+          "name": "Lady Audri",
+          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Thank You, God.",
+      "url": "https://open.spotify.com/track/3dj4DS4EKQQwhPRedgspd9"
     },
     {
       "album": {
@@ -6326,7 +6422,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 195925,
       "name": "This love - Remix",
       "url": "https://open.spotify.com/track/68Gpdc8FmDXrnCzLScqbHt"
@@ -6632,7 +6728,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 582857,
       "name": "Water Into Wine",
       "url": "https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk"
@@ -6891,6 +6987,28 @@
     },
     {
       "album": {
+        "name": "What a Friend",
+        "url": "https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135822,
+      "name": "What a Friend",
+      "url": "https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm"
+    },
+    {
+      "album": {
         "name": "Whatever It Is",
         "url": "https://open.spotify.com/album/2sT29VSDrZJudOYit9K65L"
       },
@@ -6957,6 +7075,32 @@
     },
     {
       "album": {
+        "name": "When Will We Overcome?",
+        "url": "https://open.spotify.com/album/7IEgpmaYrmdhYabdctmOCA"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        },
+        {
+          "name": "The Aeolians",
+          "url": "https://open.spotify.com/artist/4kwid0FRiHxsFAeYPvEF7y"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262522,
+      "name": "When Will We Overcome?",
+      "url": "https://open.spotify.com/track/1GCe21Wv46xuhJvSt1Z9iU"
+    },
+    {
+      "album": {
         "name": "When You Say A Thing",
         "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
       },
@@ -7008,6 +7152,24 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "album": {
+        "name": "With My Name",
+        "url": "https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221743,
+      "name": "With My Name",
+      "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
       "album": {
@@ -7338,6 +7500,28 @@
       "duration_ms": 233839,
       "name": "You Always Win",
       "url": "https://open.spotify.com/track/2J7z05Nw7To6qGfSfe03Wp"
+    },
+    {
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/5RO6oBtrjrX40OnS9bGizc"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        },
+        {
+          "name": "Marquise Gold",
+          "url": "https://open.spotify.com/artist/4nyjfhIJMKl6cffSpEB6Le"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240340,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6W1Xarsga4NNdirOH16I2B"
     },
     {
       "album": {

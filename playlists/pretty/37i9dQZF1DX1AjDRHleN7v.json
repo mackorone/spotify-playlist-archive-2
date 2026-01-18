@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 410887,
+  "num_followers": 411222,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSA9sfuYeMWIdceFT+qtxNwZHQQ",
+  "snapshot_id": "AAAAAKL8WiUMl7oxznJdKnuq5mBt5q5l",
   "tracks": [
     {
       "added_at": "2026-01-09 03:01:26",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Aeroporto (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Aeroporto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
         "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 249864,
       "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
       "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Aeroporto (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Aeroporto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Brisa e Mar",
-        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Brisa e Mar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Brisa e Mar",
+        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Brisa e Mar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "Linhas De Cerol",
+        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Um Sonho Na Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Linhas De Cerol",
-        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Um Sonho Na Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Amor Bom",
-        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "Amor Bom",
-      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "M\u00edstico",
         "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 187459,
       "name": "M\u00edstico",
       "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Amor Bom",
+        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Amor Bom",
+      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Cai\u00e7ara",
         "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 174622,
       "name": "Cai\u00e7ara",
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Minha Varanda",
         "url": "https://open.spotify.com/album/4MwXKFT82r7pVKp1ty3mCp"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 140571,
       "name": "Minha Varanda",
       "url": "https://open.spotify.com/track/3haGgMWMiTeKIa1Ejeb9oc"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-01-09 03:01:26",

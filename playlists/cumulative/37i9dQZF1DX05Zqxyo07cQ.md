@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-942 songs - 1 day 21 hr 17 min
+943 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Gentle Twilight](https://open.spotify.com/track/7slg7kR2o4AjQiD5tPZFTn) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Gentle Twilight](https://open.spotify.com/album/0JYLeD8c83WY4XImvRjEFj) | 2:31 | 2025-09-23 |  |
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2023-03-23 | 2024-02-09 |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2023-03-23 | 2023-05-06 |
-| [Glass Moon](https://open.spotify.com/track/49IE3TQJRi47b0lXpznyEz) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Glass Moon](https://open.spotify.com/album/70Nlj9Y0KOnYEEhjLEbk5a) | 2:39 | 2025-09-23 |  |
+| [Glass Moon](https://open.spotify.com/track/49IE3TQJRi47b0lXpznyEz) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Glass Moon](https://open.spotify.com/album/70Nlj9Y0KOnYEEhjLEbk5a) | 2:39 | 2025-09-23 | 2026-01-18 |
 | [Glitter And Gold](https://open.spotify.com/track/03D5DcMAtt1Sza9JkGZtg0) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Glitter And Gold](https://open.spotify.com/album/7mR0JYDfnhSacPqE4g3yBJ) | 2:56 | 2024-05-04 | 2024-06-21 |
 | [Gloaming](https://open.spotify.com/track/6IpA6AJYxYi2rViFWWidXw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Gloaming](https://open.spotify.com/album/3fVy6rwQWdrbOcUCKOkZit) | 2:24 | 2025-04-23 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2023-03-23 | 2024-03-21 |
@@ -495,6 +495,7 @@
 | [Lumina](https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Lumina](https://open.spotify.com/album/4bzO0UHbEjjQzMs1ErcDZY) | 2:12 | 2025-12-17 |  |
 | [Lumination](https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ) | [Ethérno](https://open.spotify.com/artist/2UEDhQKWM42g1kvzCE4nOS) | [Lumination](https://open.spotify.com/album/6lfzqWfiV0etiC87ZU0r7l) | 3:27 | 2024-05-04 | 2024-06-19 |
 | [Luminescence](https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Luminescence](https://open.spotify.com/album/3TvEUPEaYRKxhQW4A7sAWu) | 2:45 | 2025-04-23 |  |
+| [Luminous](https://open.spotify.com/track/6gSLsmRvwqyhgGK4PeUfkQ) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Luminous](https://open.spotify.com/album/08JteIJ2jQ8yucOwjfSChf) | 2:04 | 2025-12-17 |  |
 | [Luminous Fade](https://open.spotify.com/track/2vBitzz07lHuwMqECshe7n) | [Nicolaj Stavrenko](https://open.spotify.com/artist/30C9fRGfoh7b2dg9g7coHv) | [Luminous Fade](https://open.spotify.com/album/2tjzy1zRLqplUrG6kSdLZ6) | 2:39 | 2025-12-17 |  |
 | [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 | 2025-05-10 |
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-03-06 | 2025-03-23 |

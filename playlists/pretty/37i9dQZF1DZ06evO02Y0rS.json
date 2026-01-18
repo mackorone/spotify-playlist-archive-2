@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162838,
+  "num_followers": 162849,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAC2EBLbvKQUO/GTKTf+9gA6",
+  "snapshot_id": "aWl/gAAAAADB0voSugVr9UBfBVia8xAY",
   "tracks": [
     {
       "added_at": null,
@@ -126,15 +126,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
     },
     {
       "added_at": null,
@@ -206,11 +202,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
     },
     {
       "added_at": null,
@@ -562,15 +562,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nick Murphy",
-          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
         }
       ],
-      "duration_ms": 448983,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
+      "duration_ms": 327400,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x"
     },
     {
       "added_at": null,
@@ -630,11 +626,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nick Murphy",
+          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Migration",
-      "url": "https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x"
+      "duration_ms": 448983,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
     },
     {
       "added_at": null,

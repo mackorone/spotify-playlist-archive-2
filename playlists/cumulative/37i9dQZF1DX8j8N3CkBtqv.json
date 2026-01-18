@@ -5629,6 +5629,28 @@
     },
     {
       "album": {
+        "name": "Diggi Bumba",
+        "url": "https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "Diggi Bumba",
+      "url": "https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9"
+    },
+    {
+      "album": {
         "name": "Dil Behkaaye",
         "url": "https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0"
       },
@@ -6688,7 +6710,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 175078,
       "name": "Dua",
       "url": "https://open.spotify.com/track/6bjK6wYTWGIt3C4GZKyHvD"
@@ -17064,7 +17086,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 295639,
       "name": "Na Gul Na Gulistan",
       "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
@@ -22932,6 +22954,28 @@
       "duration_ms": 150697,
       "name": "Sun Zara",
       "url": "https://open.spotify.com/track/6ZzRPCSq03A3F76aWwZW7e"
+    },
+    {
+      "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk"
+      },
+      "artists": [
+        {
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        },
+        {
+          "name": "Gurl",
+          "url": "https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
     },
     {
       "album": {

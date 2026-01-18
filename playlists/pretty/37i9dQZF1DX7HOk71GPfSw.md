@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,074 likes - 135 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,164 likes - 135 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 16 | [Sucker Punch](https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Sucker Punch](https://open.spotify.com/album/04JKtveNe9qWZ2f9sUaA8w) | 2:44 |
 | 17 | [Green Light](https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 2:48 |
 | 18 | [BFF](https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [BFF](https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p) | 2:25 |
-| 19 | [Open!](https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open!](https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4) | 2:52 |
+| 19 | [Open! feat\. なかむらみなみ](https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open! feat\. なかむらみなみ](https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4) | 2:52 |
 | 20 | [im dat boy](https://open.spotify.com/track/683eeMpjKciazEzgVPsXOt) | [Roxie](https://open.spotify.com/artist/2XJkmabVTYtWUEBn2Rs2PH) | [RX](https://open.spotify.com/album/3VzjCNbQzgONho2DClsF3q) | 2:13 |
 | 21 | [So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [♡](https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv) | 4:06 |
 | 22 | [Sauvage](https://open.spotify.com/track/5qxW5Kx1GSuWT75dvyalsG) | [Yvnlazy](https://open.spotify.com/artist/4wUL3pWLsoJRFQghAcnWlM), [ivvys1](https://open.spotify.com/artist/1qjqW6fIrbWKKejfol8SkE) | [Sauvage](https://open.spotify.com/album/5A6QO4biXeNAVESLJ7RhPY) | 1:59 |

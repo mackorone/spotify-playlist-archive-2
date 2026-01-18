@@ -1,12 +1,12 @@
 {
   "description": "Cover: ElGrandeToto",
-  "num_followers": 373413,
+  "num_followers": 373463,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGfgFmVfe/wPbGF3Z2x1dbBmfPDh",
+  "snapshot_id": "AAAAAJEdKV5c5p89F158Im2nWE5nv5eT",
   "tracks": [
     {
       "added_at": "2026-01-09 04:14:57",
@@ -429,6 +429,26 @@
       "url": "https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV"
     },
     {
+      "added_at": "2026-01-14 05:30:33",
+      "album": {
+        "name": "Fatigu\u00e9",
+        "url": "https://open.spotify.com/album/25imMsY4ERBPsHl8JcLCGj"
+      },
+      "artists": [
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        },
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fatigu\u00e9",
+      "url": "https://open.spotify.com/track/1bVkc6XXIHlCNPmFtGhDCa"
+    },
+    {
       "added_at": "2026-01-09 04:14:57",
       "album": {
         "name": "OMEGA",
@@ -607,26 +627,6 @@
       "duration_ms": 209536,
       "name": "VFC",
       "url": "https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka"
-    },
-    {
-      "added_at": "2026-01-14 05:30:33",
-      "album": {
-        "name": "Fatigu\u00e9",
-        "url": "https://open.spotify.com/album/25imMsY4ERBPsHl8JcLCGj"
-      },
-      "artists": [
-        {
-          "name": "VALEN",
-          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
-        },
-        {
-          "name": "Yvzid",
-          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fatigu\u00e9",
-      "url": "https://open.spotify.com/track/1bVkc6XXIHlCNPmFtGhDCa"
     },
     {
       "added_at": "2026-01-09 04:14:57",

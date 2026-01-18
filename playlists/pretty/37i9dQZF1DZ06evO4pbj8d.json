@@ -1,13 +1,29 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 11316,
+  "num_followers": 11323,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAADT4XQhmng5nZYT9JoiQb5C",
+  "snapshot_id": "aWl/gAAAAACUgIp9vGI018/qa77jeHIO",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
     {
       "added_at": null,
       "album": {
@@ -483,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Time",
-        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
       },
       "artists": [
         {
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 182068,
-      "name": "All My Time",
-      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
+      "duration_ms": 197767,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
     },
     {
       "added_at": null,
@@ -515,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All My Time",
+        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -527,22 +559,6 @@
       "duration_ms": 214346,
       "name": "younger days",
       "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 197767,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
     },
     {
       "added_at": null,
@@ -759,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fortune Favors The Bold",
+        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Tim Gent",
+          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
+        }
+      ],
+      "duration_ms": 218164,
+      "name": "Fortune Favors The Bold",
+      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in defense of my own happiness (complete)",
         "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
@@ -771,30 +807,6 @@
       "duration_ms": 213053,
       "name": "brick by brick",
       "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Careful",
-        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 342272,
-      "name": "Be Careful",
-      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
     },
     {
       "added_at": null,
@@ -831,22 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune Favors The Bold",
-        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
+        "name": "Be Careful",
+        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         },
         {
-          "name": "Tim Gent",
-          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 218164,
-      "name": "Fortune Favors The Bold",
-      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+      "duration_ms": 342272,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
     },
     {
       "added_at": null,
@@ -863,26 +879,6 @@
       "duration_ms": 170653,
       "name": "smoke",
       "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Rhythm",
-        "url": "https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 206695,
-      "name": "Somewhere (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0iKgYHKMDci0gpwjRzfiPp"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

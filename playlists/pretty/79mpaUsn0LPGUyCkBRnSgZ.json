@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAIderc25Xu7ln66Pi2dopkNvrRGSpN",
+  "snapshot_id": "AAAId3FhSBcJLb7t3E/PDxcnC1Audc+6",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -10937,22 +10937,6 @@
       "url": "https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H"
     },
     {
-      "added_at": "2026-01-16 02:26:43",
-      "album": {
-        "name": "God Save The Gun",
-        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
-      },
-      "artists": [
-        {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
-        }
-      ],
-      "duration_ms": 20781,
-      "name": "Pt. II",
-      "url": "https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX"
-    },
-    {
       "added_at": "2026-01-15 05:49:51",
       "album": {
         "name": "The Rubber Teeth Talk",
@@ -10967,6 +10951,22 @@
       "duration_ms": 243390,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu"
+    },
+    {
+      "added_at": "2026-01-17 03:42:44",
+      "album": {
+        "name": "What Up, Dog?",
+        "url": "https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ"
+      },
+      "artists": [
+        {
+          "name": "Was (Not Was)",
+          "url": "https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Somewhere In America There's A Street",
+      "url": "https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu"
     }
   ],
   "unique_name": "Zacklog",

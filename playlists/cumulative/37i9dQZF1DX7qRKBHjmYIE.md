@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-967 songs - 2 day 4 hr 8 min
+968 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Atardeceres](https://open.spotify.com/track/2RCtEkbuEmcyft4OhKTxnA) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [No me siento vivo](https://open.spotify.com/album/1oUFkdvSYY3IJfoPS18Fpo) | 3:07 | 2023-12-08 | 2024-03-17 |
 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 | 2024-07-26 | 2025-02-10 |
 | [atelier](https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:42 | 2024-05-10 | 2024-12-07 |
-| [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 | 2025-03-28 |  |
+| [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 | 2025-03-28 | 2026-01-18 |
 | [aunquetelopida](https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [aunquetelopida](https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA) | 3:00 | 2025-11-21 |  |
 | [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-10-24 | 2023-02-17 |
 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 | 2025-08-08 |  |
@@ -563,6 +563,7 @@
 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 | 2023-02-17 | 2023-05-13 |
 | [Might Forgive You](https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj) | 4:09 | 2021-12-02 | 2022-07-29 |
 | [Migth Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 | 2022-09-06 | 2022-10-29 |
+| [Mil Noches](https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Mil Noches](https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF) | 2:44 | 2026-01-16 |  |
 | [Millionaire](https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Wandering Rebel](https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4) | 2:52 | 2023-06-02 | 2023-07-22 |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-01-28 | 2022-07-23 |
 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 | 2022-07-20 | 2022-07-29 |

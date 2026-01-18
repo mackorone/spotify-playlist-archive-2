@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Argyle",
-  "num_followers": 37886,
+  "num_followers": 37880,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 208166,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "difficult",
         "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 156609,
       "name": "difficult",
       "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 208166,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        },
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 148410,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "2025",
         "url": "https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C"
       },
@@ -787,22 +767,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Young Bones",
-        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "New Her",
         "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
       },
@@ -815,6 +779,42 @@
       "duration_ms": 180750,
       "name": "New Her",
       "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 148410,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Young Bones",
+        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Bailar Bachata",
         "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Trapped in the Middle",
-        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
         }
       ],
-      "duration_ms": 138443,
-      "name": "Trapped in the Middle",
-      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -999,6 +983,22 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Trapped in the Middle",
+        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 138443,
+      "name": "Trapped in the Middle",
+      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Love Is A Lie",
         "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
       },
@@ -1083,50 +1067,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Loup Garou",
-        "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 186064,
-      "name": "Hamsterrad Tristesse",
-      "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1147,18 +1099,50 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
       },
       "artists": [
         {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
         }
       ],
-      "duration_ms": 122410,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 122410,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "I've Got Everything",
         "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
       },
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Million de Mois",
-        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+        "name": "Loup Garou",
+        "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
         }
       ],
-      "duration_ms": 177376,
-      "name": "Million de Mois",
-      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+      "duration_ms": 186064,
+      "name": "Hamsterrad Tristesse",
+      "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "My Name",
         "url": "https://open.spotify.com/album/6I8sRiChfrUucSW9CKkgrp"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 188337,
       "name": "Moved On",
       "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 167450,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
       "artists": [
         {
-          "name": "Gigi Malua",
-          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 145464,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
+      "duration_ms": 167450,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1403,6 +1387,22 @@
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
+      },
+      "artists": [
+        {
+          "name": "Gigi Malua",
+          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
+        }
+      ],
+      "duration_ms": 145464,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "you & i",
-        "url": "https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst"
-      },
-      "artists": [
-        {
-          "name": "Nomuel",
-          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
-        },
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 125893,
-      "name": "you & i",
-      "url": "https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
       },
@@ -1643,18 +1623,38 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Boyfriend Of The Year",
-        "url": "https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a"
+        "name": "you & i",
+        "url": "https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst"
       },
       "artists": [
         {
-          "name": "Jamila",
-          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
         }
       ],
-      "duration_ms": 198543,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7"
+      "duration_ms": 125893,
+      "name": "you & i",
+      "url": "https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Prosecco",
+        "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
+      },
+      "artists": [
+        {
+          "name": "Hecht",
+          "url": "https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
     }
   ],
   "unique_name": "Swiss Made",

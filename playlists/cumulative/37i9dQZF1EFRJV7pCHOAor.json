@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Malandra",
+        "url": "https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "Delito",
+      "url": "https://open.spotify.com/track/7IFsrvGCkChwkQ413EIIly"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -1775,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Japon",
+        "url": "https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170920,
+      "name": "Japon",
+      "url": "https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9"
+    },
+    {
+      "album": {
         "name": "Jumpin (feat. Polo G)",
         "url": "https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42"
       },
@@ -2388,6 +2424,28 @@
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "Malandra",
+        "url": "https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Normale (feat. ALOISIO)",
+      "url": "https://open.spotify.com/track/1yW6etYs3ZRVxRE3aYp8rd"
     },
     {
       "album": {
@@ -3228,6 +3286,24 @@
       "duration_ms": 157146,
       "name": "Talk",
       "url": "https://open.spotify.com/track/3wXft3pfqMptVjxzEDi8be"
+    },
+    {
+      "album": {
+        "name": "Mount Crystal",
+        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
+      },
+      "artists": [
+        {
+          "name": "Joviale",
+          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
+        }
+      ],
+      "date_added": "2026-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156032,
+      "name": "The Mountain - intro",
+      "url": "https://open.spotify.com/track/29vqEyGLMingG3hPFMXEuC"
     },
     {
       "album": {

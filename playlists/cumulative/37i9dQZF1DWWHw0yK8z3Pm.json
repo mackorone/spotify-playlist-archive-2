@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 183232,
       "name": "Burn Away",
       "url": "https://open.spotify.com/track/2f4e4a0ddIZ91CJ8ESjoV7"
@@ -2630,6 +2630,24 @@
       "duration_ms": 199734,
       "name": "Damn Darlin'",
       "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
+    },
+    {
+      "album": {
+        "name": "The Dreamin' Kind",
+        "url": "https://open.spotify.com/album/5MK4yVKiCMIpSQtCUyVUGC"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219030,
+      "name": "Dance On Thru",
+      "url": "https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj"
     },
     {
       "album": {

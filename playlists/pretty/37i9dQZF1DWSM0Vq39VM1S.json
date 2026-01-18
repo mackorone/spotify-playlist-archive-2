@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388602,
+  "num_followers": 388624,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Anna Karenina",
-        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Anna Karenina",
-      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 226052,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "Anna Karenina",
+        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Anna Karenina",
+      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "you chose this",
-        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "you chose this",
-      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 207242,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 207187,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/30RggWBun99ELYfeCaQ0Dw"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/1Y3OY3nhlsmEQnzXjkqP9C"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6MHU4IpKlrs74RpgDvM3Jg"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

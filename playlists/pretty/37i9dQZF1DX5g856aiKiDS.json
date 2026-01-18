@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 515646,
+  "num_followers": 515666,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-01-13 07:29:02",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2026-01-13 07:29:02",
@@ -691,6 +691,42 @@
     {
       "added_at": "2026-01-13 07:29:02",
       "album": {
+        "name": "5.2 (feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -715,42 +751,6 @@
     {
       "added_at": "2026-01-13 07:29:02",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
-        "name": "5.2 (feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -763,58 +763,6 @@
       "duration_ms": 140506,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
-        "name": "Cold Hands",
-        "url": "https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo"
-      },
-      "artists": [
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 194108,
-      "name": "Cold Hands",
-      "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "It's You (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2026-01-13 07:29:02",
@@ -839,6 +787,58 @@
     {
       "added_at": "2026-01-13 07:29:02",
       "album": {
+        "name": "Cold Hands",
+        "url": "https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo"
+      },
+      "artists": [
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 194108,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "It's You (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
         "name": "GAUSSIAN",
         "url": "https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 207413,
       "name": "MIMI",
       "url": "https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ"
-    },
-    {
-      "added_at": "2026-01-13 07:29:02",
-      "album": {
-        "name": "Like a Fool",
-        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
-      },
-      "artists": [
-        {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Like a Fool",
-      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
     },
     {
       "added_at": "2026-01-13 07:29:02",
@@ -891,6 +871,26 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2026-01-13 07:29:02",
+      "album": {
+        "name": "Like a Fool",
+        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Like a Fool",
+      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
     }
   ],
   "unique_name": "Dalkom Cafe",

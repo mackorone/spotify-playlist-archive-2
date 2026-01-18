@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 148683,
+  "num_followers": 148687,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
+        "name": "The Merle Travis Story",
+        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2025-11-03 22:13:16",
+      "album": {
         "name": "Songs Of The Brazos Valley",
         "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 164520,
       "name": "The Wild Side Of Life",
       "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
-    },
-    {
-      "added_at": "2025-11-03 22:13:16",
-      "album": {
-        "name": "The Merle Travis Story",
-        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2025-11-03 22:13:16",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 185533,
       "name": "Deck Of Cards",
       "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
+    },
+    {
+      "added_at": "2025-11-03 22:13:16",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2025-11-03 22:13:16",

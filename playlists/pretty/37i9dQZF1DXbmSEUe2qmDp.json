@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabriel Borges, Luiza Martins",
-  "num_followers": 482530,
+  "num_followers": 482537,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e9o e Thiago",
-          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
-        },
-        {
-          "name": "Pedro Sanchez e Thiago",
-          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
-        }
-      ],
-      "duration_ms": 182570,
-      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Muvuca",
         "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 150051,
       "name": "Muvuca - Ao Vivo",
       "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o e Thiago",
+          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
+        },
+        {
+          "name": "Pedro Sanchez e Thiago",
+          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
+        }
+      ],
+      "duration_ms": 182570,
+      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Eu Lembro",
-        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
-      },
-      "artists": [
-        {
-          "name": "Maur\u00edcio & Eduardo",
-          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
-        }
-      ],
-      "duration_ms": 152138,
-      "name": "Eu Lembro",
-      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "D\u00d3I (Live)",
         "url": "https://open.spotify.com/album/0iEi8NsFX45q42IuCHieZ4"
       },
@@ -415,22 +399,18 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Desce \u00c1lcool",
-        "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
+        "name": "Eu Lembro",
+        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
       },
       "artists": [
         {
-          "name": "Ricco Montana",
-          "url": "https://open.spotify.com/artist/4MBeBh9z2p0bpbD79Lrqu7"
-        },
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+          "name": "Maur\u00edcio & Eduardo",
+          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
         }
       ],
-      "duration_ms": 132291,
-      "name": "Desce \u00c1lcool",
-      "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
+      "duration_ms": 152138,
+      "name": "Eu Lembro",
+      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -447,6 +427,26 @@
       "duration_ms": 157184,
       "name": "Flash - Ao Vivo",
       "url": "https://open.spotify.com/track/7lrWWHBHD3fOa275OE5XRR"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Desce \u00c1lcool",
+        "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
+      },
+      "artists": [
+        {
+          "name": "Ricco Montana",
+          "url": "https://open.spotify.com/artist/4MBeBh9z2p0bpbD79Lrqu7"
+        },
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 132291,
+      "name": "Desce \u00c1lcool",
+      "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -523,22 +523,18 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Show de Solteiro",
-        "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
+        "name": "Meus Versos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
       },
       "artists": [
         {
-          "name": "Jonatha e Cristiano",
-          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
-        },
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+          "name": "Z\u00e9 Luccas",
+          "url": "https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo"
         }
       ],
-      "duration_ms": 124581,
-      "name": "Show de Solteiro",
-      "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
+      "duration_ms": 199375,
+      "name": "Eu Posso Ser - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -563,18 +559,22 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Meus Versos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
+        "name": "Show de Solteiro",
+        "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Luccas",
-          "url": "https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo"
+          "name": "Jonatha e Cristiano",
+          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
+        },
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
         }
       ],
-      "duration_ms": 199375,
-      "name": "Eu Posso Ser - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
+      "duration_ms": 124581,
+      "name": "Show de Solteiro",
+      "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
+        "name": "NuDoze (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Fabiano",
+          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "duration_ms": 189379,
+      "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
         "name": "S\u00f3 Quero Sossego",
         "url": "https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl"
       },
@@ -927,22 +947,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Ao Vivo em Campo Grande",
-        "url": "https://open.spotify.com/album/1LFp8sGCyinS0DuCCxW5vo"
-      },
-      "artists": [
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Deixa Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cRJu8sb2Wtx7jaElJpGXd"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Resenha Do Interior (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
       },
@@ -971,6 +975,22 @@
       "duration_ms": 149909,
       "name": "Nunca \u00e9 Demais",
       "url": "https://open.spotify.com/track/4IMlU0sY3X6lgvQwJWwmws"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Ao Vivo em Campo Grande",
+        "url": "https://open.spotify.com/album/1LFp8sGCyinS0DuCCxW5vo"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Deixa Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cRJu8sb2Wtx7jaElJpGXd"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -1191,6 +1211,22 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
+        "name": "Suor de Ontem",
+        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
+        }
+      ],
+      "duration_ms": 161747,
+      "name": "Suor de Ontem",
+      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
         "name": "Quarto Escuro (Ao Vivo)",
         "url": "https://open.spotify.com/album/4cYmEhZZlG2QjGsuIGovhq"
       },
@@ -1223,22 +1259,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Suor de Ontem",
-        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
-      },
-      "artists": [
-        {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        }
-      ],
-      "duration_ms": 161747,
-      "name": "Suor de Ontem",
-      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "C\u00ea Leva Jeito (Acusticasso#8) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2pX4EUFBliEppIVStNBnsE"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 156405,
       "name": "C\u00ea Leva Jeito (Acusticasso#8) - Ao Vivo",
       "url": "https://open.spotify.com/track/1oCyJ5YnhT2dqzeoX8BDjz"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
-        "name": "NuDoze (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Fabiano",
-          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        }
-      ],
-      "duration_ms": 189379,
-      "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
     }
   ],
   "unique_name": "Gera\u00e7\u00e3o Sertaneja",

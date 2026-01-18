@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,788 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,782 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 44 | [そらつつみ](https://open.spotify.com/track/02azBvvCDsRZeTomc5U7Y6) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 4:26 |
 | 45 | [めぐり](https://open.spotify.com/track/66Tay60xv3SRYCzjwwDFf7) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 1:50 |
 | 46 | [Overture of the Summer Wars](https://open.spotify.com/track/79W3ceBOw2XHZlu6jVgjxn) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 4:41 |
-| 47 | [Faces in the Rain](https://open.spotify.com/track/5ItDYhB6o8P20Ox8PBiNYA) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:22 |
+| 47 | [Faces in the Rain \(From "Belle" Soundtrack\)](https://open.spotify.com/track/5ItDYhB6o8P20Ox8PBiNYA) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:22 |
 | 48 | [Swarms of Song](https://open.spotify.com/track/570fUL9YavYnf6F6VoPuQE) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:38 |
 | 49 | [A Million Miles Away \- reprise](https://open.spotify.com/track/1zLREj2GiKFPRlh4f9hkW9) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 6:27 |
 | 50 | [仮想都市OZ](https://open.spotify.com/track/3LToQzRfeZ9eB2zjUEMMFP) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 2:53 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 89 | [少女の不安](https://open.spotify.com/track/3gSxn7wfp8w81BCuTVeehM) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:46 |
 | 90 | [未来の記憶](https://open.spotify.com/track/4GWlN27AbE541dfQjw8PPP) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 1:51 |
 | 91 | [Daylife](https://open.spotify.com/track/1vbPuYhJnTrajuLJcU4HoC) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:09 |
-| 92 | [Blunt Words](https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i) | [Peggie Sue](https://open.spotify.com/artist/2xhFPhaXuy6VvEPnbYhxOY) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:18 |
+| 92 | [Blunt Words \(From "Belle" Soundtrack\)](https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i) | [Peggie Sue](https://open.spotify.com/artist/2xhFPhaXuy6VvEPnbYhxOY) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:18 |
 | 93 | [Slingshot \(From "Belle" Soundtrack\)](https://open.spotify.com/track/1VHURQwLNzdX6caacu1UDq) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:56 |
 | 94 | [Scorching the Facade](https://open.spotify.com/track/0R0KLFlxNI9WDM2RiSvg8U) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:44 |
 | 95 | [Hora, Carpo](https://open.spotify.com/track/1Ca1MxmRfN4LYlpglfUe8z) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 2:19 |

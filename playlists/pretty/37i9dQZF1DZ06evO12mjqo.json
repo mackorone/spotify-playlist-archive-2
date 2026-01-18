@@ -1,13 +1,29 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 474283,
+  "num_followers": 474314,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAADaYTkYoxCrgUN2jSWejTJf",
+  "snapshot_id": "aWl/gAAAAACRuzfzdUjhoj9N0Vz2GuG2",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/6Coz2RxA3NX2BZKCn9Hzme"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
+    },
     {
       "added_at": null,
       "album": {

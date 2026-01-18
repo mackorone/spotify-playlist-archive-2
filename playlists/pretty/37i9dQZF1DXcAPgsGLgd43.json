@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 107119,
+  "num_followers": 107180,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Vamos A La Playa",
-        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Miranda",
-          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
-        }
-      ],
-      "duration_ms": 176818,
-      "name": "Vamos A La Playa (Feat. Miranda)",
-      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
         "name": "Pegado",
         "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 125000,
       "name": "Pegado",
       "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
+        "name": "Vamos A La Playa",
+        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Miranda",
+          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
+        }
+      ],
+      "duration_ms": 176818,
+      "name": "Vamos A La Playa (Feat. Miranda)",
+      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
         "name": "OBSESION",
         "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 211547,
       "name": "El Beso (feat. Mathieu Ruz)",
       "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Cap",
-        "url": "https://open.spotify.com/album/5BFHimAdjW6707MsKwPPzN"
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
       },
       "artists": [
         {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 199846,
-      "name": "Cap",
-      "url": "https://open.spotify.com/track/46d9wSmQTSyBrJKQ9YwNHb"
+      "duration_ms": 185650,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1935,38 +1935,18 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Siente la Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/1FidVVYkjZfocPwCtx0qAw"
+        "name": "Cap",
+        "url": "https://open.spotify.com/album/5BFHimAdjW6707MsKwPPzN"
       },
       "artists": [
         {
-          "name": "Wouji",
-          "url": "https://open.spotify.com/artist/5MjRV8FTofqa3tKEqpKQtA"
-        },
-        {
-          "name": "Kitone",
-          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Siente la Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/0iI2lSnf0OZALakei4eCfj"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
-        "name": "Bailame",
-        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 185650,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
+      "duration_ms": 199846,
+      "name": "Cap",
+      "url": "https://open.spotify.com/track/46d9wSmQTSyBrJKQ9YwNHb"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1995,22 +1975,38 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Al Ritmo",
-        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+        "name": "Siente la Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/1FidVVYkjZfocPwCtx0qAw"
       },
       "artists": [
         {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+          "name": "Wouji",
+          "url": "https://open.spotify.com/artist/5MjRV8FTofqa3tKEqpKQtA"
         },
         {
-          "name": "Allan Piziano",
-          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
         }
       ],
-      "duration_ms": 199838,
-      "name": "Al Ritmo",
-      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
+      "duration_ms": 165000,
+      "name": "Siente la Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/0iI2lSnf0OZALakei4eCfj"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 180109,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
     },
     {
       "added_at": "2026-01-14 01:53:36",

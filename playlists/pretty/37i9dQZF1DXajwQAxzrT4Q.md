@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,866 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,875 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 55 | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx) | [Fazobeats](https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ) | 2:08 |
 | 56 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
 | 57 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
-| 58 | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL) | [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt) | 1:48 |
-| 59 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
+| 58 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
+| 59 | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/track/1bjpFFNsnPFlch5syckYVL) | [Chris Mula](https://open.spotify.com/artist/7yB3nxWc3RKARKFpbdwFaB), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [Go To Work \(Jersey Club Remix\)](https://open.spotify.com/album/7HPyiBk3B1Zc8k97yKcAlt) | 1:48 |
 | 60 | [Mariah](https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:05 |
 | 61 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 |
 | 62 | [Back It Up](https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [I Said It's Lilman](https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H) | 2:36 |

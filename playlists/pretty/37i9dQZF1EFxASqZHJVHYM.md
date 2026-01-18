@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 95 | [The Uber Song](https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [The Uber Song](https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9) | 3:54 |
 | 96 | [Crumbs \(feat\. Playboi Carti\)](https://open.spotify.com/track/2nA9k5r4tGS720wHL8W6Ip) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 2:36 |
 | 97 | [You Ain't Hard](https://open.spotify.com/track/21t8Edns1aUrUC8nMl0KZM) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 3:46 |
-| 98 | [Big Dope](https://open.spotify.com/track/2MdMP2y5mCkGVnp3DkbJ8b) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:35 |
-| 99 | [Came Up](https://open.spotify.com/track/4SnvJDymo0LkkuFNNLemQl) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Came Up](https://open.spotify.com/album/7f22HnE6AmI4cFtPu1PmHj) | 2:41 |
+| 98 | [Came Up](https://open.spotify.com/track/4SnvJDymo0LkkuFNNLemQl) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Came Up](https://open.spotify.com/album/7f22HnE6AmI4cFtPu1PmHj) | 2:41 |
+| 99 | [Big Dope](https://open.spotify.com/track/2MdMP2y5mCkGVnp3DkbJ8b) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:35 |
 | 100 | [Story Of Us](https://open.spotify.com/track/3dl7OpBZfGzJF3MydfIV89) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Songs For You](https://open.spotify.com/album/6fYCFakqijh8qlgBOJXICO) | 2:45 |
 | 101 | [Movin' Around](https://open.spotify.com/track/57Oj1BIV9A36qCEdKHAxiA) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/5sU40ix3D2JI8ERh4L0nIF) | 4:18 |
 | 102 | [preach](https://open.spotify.com/track/3Ii0BOEdzFjnmSkEmoAY9g) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 2:36 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 120 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 121 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AcHIQgAAAABXQv9IKRXnZkh7ZbOKLZSs`
+Snapshot ID: `AcHN4gAAAADuEx2zDN0Tcz15JLHq6/qV`

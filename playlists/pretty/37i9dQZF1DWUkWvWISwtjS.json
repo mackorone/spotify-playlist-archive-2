@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 440866,
+  "num_followers": 440789,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAABTdG3GTwLiFTqKvGseXWEXp2lbJ",
   "tracks": [
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
-    },
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Espelho Meu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Espelho Meu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 163090,
       "name": "Amor De Cana - Ao Vivo",
       "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Espelho Meu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Espelho Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "O Embaixador - The Legacy (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 140629,
-      "name": "Fala Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "C\u00ea Acredita",
         "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 170517,
       "name": "C\u00ea Acredita",
       "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "O Embaixador - The Legacy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 140629,
+      "name": "Fala Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Continua, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 147826,
       "name": "Ponto Final - Ao Vivo",
       "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Aperte O Play! (Ao Vivo)",
         "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 201669,
       "name": "Aperte O Play - Ao Vivo",
       "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
+        "name": "Alguns Defeitos",
+        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
       },
       "artists": [
         {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
         }
       ],
-      "duration_ms": 152778,
-      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
+      "duration_ms": 185659,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
     }
   ],
   "unique_name": "Sertanejo no Trabalho",

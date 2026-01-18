@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAABQ3d3WpBfJclZrUWnpll6E",
+  "snapshot_id": "aWl/gAAAAADyov70R+rIwN+a0GoN0kXo",
   "tracks": [
     {
       "added_at": null,
@@ -691,54 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/63aEHmUArwb2iSSkBDph8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "No Es Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6zdPG56e0wuZZIqes8xBTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1Vamos a Volver!",
-        "url": "https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 179463,
-      "name": "\u00a1Vamos a Volver!",
-      "url": "https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Van a Escuchar",
         "url": "https://open.spotify.com/album/6Y0RNqz4faP11dGgasMaMJ"
       },
@@ -795,6 +747,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "No Es Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6zdPG56e0wuZZIqes8xBTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Vamos a Volver!",
+        "url": "https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 179463,
+      "name": "\u00a1Vamos a Volver!",
+      "url": "https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 214204,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/63aEHmUArwb2iSSkBDph8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00eda de Pesca",
         "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Esa Luz Se Va",
-      "url": "https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 272133,
       "name": "Ni\u00f1os",
       "url": "https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Esa Luz Se Va",
+      "url": "https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf"
     }
   ],
   "unique_name": "This Is Rio",

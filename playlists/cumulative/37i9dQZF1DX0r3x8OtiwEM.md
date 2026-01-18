@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-759 songs - 2 day 23 hr 33 min
+760 songs - 2 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
-| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 |  |
+| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 | 2026-01-18 |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
 | [Brama Wodna](https://open.spotify.com/track/3dA8Km8HoDQ4l5IwOwZinF) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Brama Wodna](https://open.spotify.com/album/3WGhH7gwbyL1Hxy33cK8Nx) | 6:20 | 2022-02-01 | 2022-05-04 |
 | [Braunkehlchen](https://open.spotify.com/track/56mGMAQHrQgiUGcNcJhCI0) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Braunkehlchen](https://open.spotify.com/album/67pxrtI3BA3cvaMJHgIc2P) | 11:11 | 2022-04-04 | 2022-07-21 |
@@ -225,6 +225,7 @@
 | [Fairytale of Berlin](https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Fairytale of Berlin](https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB) | 5:02 | 2024-12-13 | 2025-02-07 |
 | [Fallin \- Giorgia Angiuli & SQU4RE Remix](https://open.spotify.com/track/0XxdZryMMkmoVExrUNpfFM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb) | [Fallin](https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo) | 8:53 | 2021-01-09 | 2022-05-11 |
 | [Falling](https://open.spotify.com/track/1u07aInE0YbotTqwvct90R) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Falling](https://open.spotify.com/album/79LUBKzBOTvjpbiG8VyPM8) | 5:07 | 2023-11-11 | 2023-11-16 |
+| [Falling](https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Falling](https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9) | 3:02 | 2026-01-16 |  |
 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 | 2020-12-05 | 2023-04-06 |
 | [FAST LAND](https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND](https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb) | 3:39 | 2022-04-04 | 2022-11-20 |
 | [FAST LAND](https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 3:39 | 2022-11-14 | 2024-04-19 |

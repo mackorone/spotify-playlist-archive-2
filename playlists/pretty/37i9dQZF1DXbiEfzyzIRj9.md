@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: パソコン音楽クラブ
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,439 likes - 99 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,483 likes - 99 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 19 | [Keep Dancing](https://open.spotify.com/track/4Q0RxLgLm5JDLLU43TmM6P) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Keep Dancing](https://open.spotify.com/album/57hZVGjBBoCxeVZUzGqnav) | 2:25 |
 | 20 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 |
 | 21 | [Break It](https://open.spotify.com/track/3b10mrGZKqMmgWLhlHBJ3V) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Break It](https://open.spotify.com/album/2FBxQeIIuslFTHelw385VC) | 3:22 |
-| 22 | [Open!](https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open!](https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4) | 2:52 |
+| 22 | [Open! feat\. なかむらみなみ](https://open.spotify.com/track/4SUIbmMKdb2RsW0c3nuR9i) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open! feat\. なかむらみなみ](https://open.spotify.com/album/2xkTDsGcMwEi7vfQtVAUn4) | 2:52 |
 | 23 | [Uup! \(Sentimento Remix\)](https://open.spotify.com/track/7x7Xj2kBV7AUhQUXJRp3g1) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [ONDATONDA \(Remixes\)](https://open.spotify.com/album/09a7XJdXx9BYjbd0beSKrb) | 2:55 |
 | 24 | [6 Million](https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [6 Million](https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL) | 2:34 |
 | 25 | [Let Me Say This](https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Home Is True](https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH) | 4:12 |

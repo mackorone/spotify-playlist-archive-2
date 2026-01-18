@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,759 likes - 110 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,770 likes - 110 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 19 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
 | 20 | [Ije Love](https://open.spotify.com/track/3R069Tqyd0ZfulXuSBSNMn) | [Tahram](https://open.spotify.com/artist/41IhOOBcjR09qi8h4L647d) | [Ije Love](https://open.spotify.com/album/2wMwDDDkDEgIAoobpZF42h) | 3:40 |
 | 21 | [Chineke Oma](https://open.spotify.com/track/13vp8PPhgZ9CTd2mRrxfVR) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Chineke Oma](https://open.spotify.com/album/5f18970pSOIfYgoSJBKVTu) | 3:11 |
-| 22 | [Gbope Mi \- Live](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |
+| 22 | [Gbope Mi \(Live\)](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |
 | 23 | [Shout Hallelujah \- Live](https://open.spotify.com/track/5PRG0uNyKb6bMlva3nfvDQ) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Shout Hallelujah \(Live\)](https://open.spotify.com/album/5gVj5yYNkyVBHDso4SyRYJ) | 3:47 |
 | 24 | [Daddy](https://open.spotify.com/track/1aL6Hva1YkMxBcaH3QOcpV) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Brave Dyakkoh](https://open.spotify.com/artist/0mPUxo9RlPxbssjTPg46KI) | [Daddy](https://open.spotify.com/album/0En8BSDOyVVVhQXWjuKvJn) | 2:59 |
 | 25 | [noises](https://open.spotify.com/track/6vLrw0gHyEFH1YNnHQZI2a) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [noises](https://open.spotify.com/album/2mKDRN3feRcYd4AIAmbHpV) | 1:56 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-302 songs - 16 hr 56 min
+303 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Unconditional](https://open.spotify.com/track/77mORRV8Syj6o9fzt5JnDK) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Press Play](https://open.spotify.com/album/0mUwDtGoY4dYhnpdTE3jyx) | 4:26 | 2025-11-22 | 2026-01-05 |
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-01 | 2025-12-01 |
 | [Unlove](https://open.spotify.com/track/5JxRYj0zmD6AfCciOXHTCN) | [Miwa](https://open.spotify.com/artist/6Y1cYyAqPwrzXNogyOKzDd), [Go To](https://open.spotify.com/artist/73EOGQFxjF1dcHwZYL3Y76) | [Unlove](https://open.spotify.com/album/1WYDpofR1agI395mA14xCE) | 5:30 | 2025-11-06 | 2025-12-01 |
+| [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-17 |  |
 | [Unseen](https://open.spotify.com/track/4PNJKxfbMdy8ecH9IfHlm9) | [Dascar](https://open.spotify.com/artist/1iZBGqKBPdZhVYt8O7DkHv) | [Unseen](https://open.spotify.com/album/2p6xnyiunmNlFoqXuJpUyl) | 3:23 | 2025-11-30 | 2026-01-05 |
 | [Up on the Map \(Bonus\)](https://open.spotify.com/track/1ipZmDA8TRSdWE1X1I2rU1) | [TUFF Cookie Productions](https://open.spotify.com/artist/3hG8Zkj1Vwzrg2LqiPfELU), [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [TUFF Cookie All\-Stars, Vol\. 1](https://open.spotify.com/album/1zDyXU2vigviLqfeb0r80y) | 2:39 | 2025-11-11 | 2025-12-01 |
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |

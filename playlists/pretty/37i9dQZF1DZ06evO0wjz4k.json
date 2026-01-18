@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34142,
+  "num_followers": 34155,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAABRzLJJHCP7fmd9QSN9iE9G",
+  "snapshot_id": "aWl/gAAAAACa935Hb8Y6M6Tqtz6QDk0i",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Man's Blues",
-        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "Young Man's Blues",
-      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 197080,
       "name": "Killin\u2019 Me",
       "url": "https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young Man's Blues",
+        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 206037,
+      "name": "Young Man's Blues",
+      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
     },
     {
       "added_at": null,
@@ -239,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
       },
       "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 188581,
-      "name": "Stoned",
-      "url": "https://open.spotify.com/track/3axX67FjHMq8tVdHuB7sP5"
+      "duration_ms": 200773,
+      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
-        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 200773,
-      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
+      "duration_ms": 188581,
+      "name": "Stoned",
+      "url": "https://open.spotify.com/track/3axX67FjHMq8tVdHuB7sP5"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+      "duration_ms": 205173,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 205173,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     },
     {
       "added_at": null,

@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "Alignment, Orbits",
+        "url": "https://open.spotify.com/album/0dYSVWEBkfVShzpF8n3aVH"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466363,
+      "name": "Alignment, Orbits",
+      "url": "https://open.spotify.com/track/3jNC3jInwASrXxGV9s2IaC"
+    },
+    {
+      "album": {
         "name": "All You Need Is Time",
         "url": "https://open.spotify.com/album/0OY8sEzJ8DjluG61z0CmrO"
       },
@@ -4525,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Dolori",
+        "url": "https://open.spotify.com/album/6xex0MZZYVLDhPiw4y9toX"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Dolori",
+      "url": "https://open.spotify.com/track/0Cy71ynWqU8ujRQTeAtX1u"
+    },
+    {
+      "album": {
         "name": "Dolphin Spray / Static",
         "url": "https://open.spotify.com/album/0kDT4DXD9W0gxu4kljVdeG"
       },
@@ -7140,7 +7180,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 182272,
       "name": "Forgotten September",
       "url": "https://open.spotify.com/track/4jSAqv6ZUpEwyaLTbh8pxE"
@@ -13972,7 +14012,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-18",
       "duration_ms": 235636,
       "name": "Philos - Edit",
       "url": "https://open.spotify.com/track/6uMuNTt5BKq9Ft0N8StW2T"

@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50511,
+  "num_followers": 50518,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAAAifwhmbxRebRH2pEiA12Ne",
+  "snapshot_id": "aWl/gAAAAABqN7C4abi+Ng3hVZ4zgJ9T",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rug Island (Full Version)",
-        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
+        "name": "Bluey Titelsong (German Version)",
+        "url": "https://open.spotify.com/album/0oRfkNavThhul9SgWb9Jrj"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 244476,
-      "name": "Rug Island - Full Version",
-      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
+      "duration_ms": 64311,
+      "name": "Bluey Titelsong (German Version)",
+      "url": "https://open.spotify.com/track/5cYNCZOYRnKoNtsBlX1Xc1"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluey Titelsong (German Version)",
-        "url": "https://open.spotify.com/album/0oRfkNavThhul9SgWb9Jrj"
+        "name": "Rug Island (Full Version)",
+        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 64311,
-      "name": "Bluey Titelsong (German Version)",
-      "url": "https://open.spotify.com/track/5cYNCZOYRnKoNtsBlX1Xc1"
+      "duration_ms": 244476,
+      "name": "Rug Island - Full Version",
+      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
     },
     {
       "added_at": null,
@@ -527,30 +527,6 @@
       "duration_ms": 204373,
       "name": "Onesies",
       "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Verandah Santa",
-        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Emma Dean",
-          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
-        }
-      ],
-      "duration_ms": 157551,
-      "name": "I Don't Have a Chimney",
-      "url": "https://open.spotify.com/track/105fq3Q3qBGsVQUNq8pBoH"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 102807,
+  "num_followers": 102841,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -447,38 +447,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Love & Hyperbole (Deluxe)",
-        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 192355,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 184120,
       "name": "A Lovestory",
       "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "Love & Hyperbole (Deluxe)",
+        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 192355,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -671,8 +671,8 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Eli",
-        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 205454,
-      "name": "Eli",
-      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+        "name": "Eli",
+        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+      "duration_ms": 205454,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "No One Knows You Better",
-        "url": "https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "No One Knows You Better",
-      "url": "https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 225570,
       "name": "Skyfri himmel",
       "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "No One Knows You Better",
+        "url": "https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "No One Knows You Better",
+      "url": "https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
+        "name": "Oh Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Oh Love - Acoustic",
+      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
         "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
         "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 226251,
       "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
       "url": "https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "Oh Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Oh Love - Acoustic",
-      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "M\u00e5nen",
-        "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
-      },
-      "artists": [
-        {
-          "name": "Erika Norwich",
-          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
-        }
-      ],
-      "duration_ms": 177717,
-      "name": "M\u00e5nen",
-      "url": "https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "VERDENS BESTE ALBUM",
-        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
+        "name": "M\u00e5nen",
+        "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
       },
       "artists": [
         {
-          "name": "Jon Ranes",
-          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
         }
       ],
-      "duration_ms": 183568,
-      "name": "Kunstig intelligens",
-      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
+      "duration_ms": 177717,
+      "name": "M\u00e5nen",
+      "url": "https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1295,6 +1279,22 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "VERDENS BESTE ALBUM",
+        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
+      },
+      "artists": [
+        {
+          "name": "Jon Ranes",
+          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
+        }
+      ],
+      "duration_ms": 183568,
+      "name": "Kunstig intelligens",
+      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+        "name": "Half Decade Addiction",
+        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
         }
       ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+      "duration_ms": 273760,
+      "name": "Stuck In November",
+      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1403,50 +1403,18 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "LOVELIFE",
-        "url": "https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq"
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 185454,
-      "name": "LOVELIFE",
-      "url": "https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "25",
-      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1471,6 +1439,38 @@
       "duration_ms": 176000,
       "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
       "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     }
   ],
   "unique_name": "vintertid",

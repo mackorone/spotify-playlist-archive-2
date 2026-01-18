@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,735 songs - 4 day 8 hr 58 min
+1,737 songs - 4 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Drifter's Mind](https://open.spotify.com/track/7tZpt1z5unaqVvd5GfZaUD) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:20 | 2024-06-30 |  |
 | [Drifting](https://open.spotify.com/track/1QgNaCnFjV2iyrklG8e6LT) | [Rythmora](https://open.spotify.com/artist/5P55Xh9Vn9Q4BkvQvKpQK9) | [Drifting](https://open.spotify.com/album/5Y28dauWThEhzg0yaQM4kE) | 2:08 | 2025-10-21 |  |
 | [DRIPPIN PIMPIN](https://open.spotify.com/track/2AeBrHrV1qn4ZlYY2NuGkF) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
+| [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 | 2026-01-17 |  |
 | [Drug Addict](https://open.spotify.com/track/00XB6iV4vugA4ZZgpZyAQ6) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Drug Addict](https://open.spotify.com/album/4NRsBPa8n5fKZesdlYpWmc) | 1:23 | 2025-10-21 |  |
 | [Dub 2](https://open.spotify.com/track/54ABjkyW5NcIALh05LyqD5) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:17 | 2024-03-10 |  |
 | [Dub Along the Watchtower](https://open.spotify.com/track/3jI12nlSFhuhOsOClil1Ci) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:30 | 2024-05-01 |  |
@@ -1733,6 +1734,7 @@
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-10-03 |  |
 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 | 2025-06-30 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-05-09 |  |
+| [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-17 |  |
 | [Три времени](https://open.spotify.com/track/7uJSMGXHy4d9JKcbCBNVLI) | [Krutogolov Soundworks](https://open.spotify.com/artist/2It9qSHSBf9doBLFZAJ3sQ) | [Три времени](https://open.spotify.com/album/5FOXkye7HfRkpq25km6a5C) | 4:54 | 2025-08-13 |  |
 | [Хрипят моторы](https://open.spotify.com/track/2V9Vb562pyNLwQJiyGny55) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:00 | 2025-10-07 |  |
 | [Чн](https://open.spotify.com/track/1k4hUObaHc5pCGD0ZvrhsC) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Чн](https://open.spotify.com/album/70f1wT4l5S7lN9wp2G9uJ0) | 3:10 | 2025-06-09 |  |

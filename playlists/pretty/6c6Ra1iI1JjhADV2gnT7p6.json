@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59614,
+  "num_followers": 59622,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAscKA2uLFQyT/K+Spk2+Y2ZDrFVO09",
+  "snapshot_id": "AAAsdVHtby6iRAByXqQ9sOsBqAVWv4uj",
   "tracks": [
     {
       "added_at": "2026-01-11 10:12:14",
@@ -63,6 +63,30 @@
       "duration_ms": 226426,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "holding on",
+        "url": "https://open.spotify.com/album/2ApQ0Ib3tSeUEW6Hbt7sfB"
+      },
+      "artists": [
+        {
+          "name": "Loose Goose",
+          "url": "https://open.spotify.com/artist/5msje6sT4sS2XNeSZR9JZS"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 237672,
+      "name": "holding on",
+      "url": "https://open.spotify.com/track/41PIXqq9CalEACV8zLMiJ7"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -1303,6 +1327,22 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/1VMd1Kp9pH34iI6sfgynBG"
+      },
+      "artists": [
+        {
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
+        }
+      ],
+      "duration_ms": 166744,
+      "name": "bemused",
+      "url": "https://open.spotify.com/track/5AzDDivOyNoSuNDv93Q46K"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
         "name": "The Villain",
         "url": "https://open.spotify.com/album/0unBJHfaq8afTO2YPb3IiO"
       },
@@ -1335,26 +1375,54 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
-        "name": "holding on",
-        "url": "https://open.spotify.com/album/2ApQ0Ib3tSeUEW6Hbt7sfB"
+        "name": "BIG",
+        "url": "https://open.spotify.com/album/6R1Eb5iay0fTfNNsqTeow0"
       },
       "artists": [
         {
-          "name": "Loose Goose",
-          "url": "https://open.spotify.com/artist/5msje6sT4sS2XNeSZR9JZS"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
         }
       ],
-      "duration_ms": 237672,
-      "name": "holding on",
-      "url": "https://open.spotify.com/track/41PIXqq9CalEACV8zLMiJ7"
+      "duration_ms": 217405,
+      "name": "BIG",
+      "url": "https://open.spotify.com/track/29wTlp6iaQveoTktQhjqyz"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "rECKless dRIVing",
+        "url": "https://open.spotify.com/album/4jmpWqFslUYVAQugv2bYhJ"
+      },
+      "artists": [
+        {
+          "name": "Retail Drugs",
+          "url": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "just the thing",
+      "url": "https://open.spotify.com/track/4FLYlVXuuBaZV5qaDdYrAw"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/2sdK35lVZvkcOvztZYpG3a"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Soft Glas",
+          "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0"
+        }
+      ],
+      "duration_ms": 230513,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -1395,74 +1463,6 @@
       "duration_ms": 265686,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/1g4fv9fRcMsh9gZ9I5afDL"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/1VMd1Kp9pH34iI6sfgynBG"
-      },
-      "artists": [
-        {
-          "name": "Double Virgo",
-          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
-        }
-      ],
-      "duration_ms": 166744,
-      "name": "bemused",
-      "url": "https://open.spotify.com/track/5AzDDivOyNoSuNDv93Q46K"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "BIG",
-        "url": "https://open.spotify.com/album/6R1Eb5iay0fTfNNsqTeow0"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 217405,
-      "name": "BIG",
-      "url": "https://open.spotify.com/track/29wTlp6iaQveoTktQhjqyz"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/2sdK35lVZvkcOvztZYpG3a"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        },
-        {
-          "name": "Soft Glas",
-          "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0"
-        }
-      ],
-      "duration_ms": 230513,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1oABrgkUeG6UEtaBcCBqKn"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "rECKless dRIVing",
-        "url": "https://open.spotify.com/album/4jmpWqFslUYVAQugv2bYhJ"
-      },
-      "artists": [
-        {
-          "name": "Retail Drugs",
-          "url": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "just the thing",
-      "url": "https://open.spotify.com/track/4FLYlVXuuBaZV5qaDdYrAw"
     },
     {
       "added_at": "2026-01-11 10:12:14",

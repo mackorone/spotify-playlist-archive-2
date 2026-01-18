@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Face Yourself
 
-761 songs - 2 day 0 hr 39 min
+762 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Forgiveness is Weakness](https://open.spotify.com/track/0wgAotx2BRq097ibZcjlji) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [The Valley](https://open.spotify.com/album/3CuUGJ6cFro2LQIiWlXOue) | 2:55 | 2021-12-17 | 2023-04-29 |
 | [Forgotten Kings](https://open.spotify.com/track/4Rkmv5Ev1PhtLjL07rZhOY) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [Zwielicht](https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu) | 5:56 | 2024-02-27 |  |
 | [Forlorn](https://open.spotify.com/track/5bqHLjQKAW3QMJKX4Uy7ZC) | [Holehearted](https://open.spotify.com/artist/1AtXmYmKXudpKU4FJ49wcX) | [Hivemind](https://open.spotify.com/album/51FtqRs6kmVbukVs8P2yPm) | 2:53 | 2022-01-14 | 2022-04-09 |
+| [Forlorn](https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Endless](https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj) | 4:23 | 2026-01-16 |  |
 | [Forsaken Soul](https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm) | [Forsaken Soul](https://open.spotify.com/album/68fVWXiPPEZiqEbIoNVd6Z) | 4:48 | 2025-03-14 | 2025-05-17 |
 | [Fortress](https://open.spotify.com/track/3qQ9Fiy70mNNngdgTP6Xhw) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Fortress](https://open.spotify.com/album/6sumg54XS5yp7gsFZTXAJP) | 3:23 | 2021-12-17 | 2022-07-29 |
 | [Foundation of Bones](https://open.spotify.com/track/5VI5iRrQfP6gkUeNUN0SLw) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Foundation of Bones](https://open.spotify.com/album/62LietbraYCLnLgpUyiVee) | 3:24 | 2021-12-17 | 2022-07-25 |
@@ -658,7 +659,7 @@
 | [THE FINAL GATE](https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [THE FINAL GATE](https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N) | 3:04 | 2025-08-22 |  |
 | [The Gallow](https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Gallow](https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1) | 4:58 | 2023-12-13 | 2024-10-19 |
 | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/track/2owXgJfvIVH29Nsz2b1ETa) | [Blindfolded and Led to the Woods](https://open.spotify.com/artist/4yBKoaWwA9iMFSdNd26G9C) | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/album/3nDaZvMPDBa3ZKtx60mISJ) | 4:12 | 2025-10-10 |  |
-| [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 |  |
+| [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 | 2026-01-18 |
 | [The Killing Womb](https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/1J1Alzur5kRYahOsgqCqCh) | 2:32 | 2022-01-07 | 2022-06-12 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2021-12-17 | 2022-07-25 |
 | [The Medicine](https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Leap of Death](https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6) | 4:43 | 2024-08-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50126,
+  "num_followers": 50127,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAABwgy6sBDdxt0ZqAAgKzq9P",
+  "snapshot_id": "aWl/gAAAAADBKe8qIlzRqTt/5er9Rgae",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Muchacho de La Esquina",
+        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 154151,
+      "name": "El Muchacho de La Esquina",
+      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YakiFest, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 186502,
       "name": "Te Compro - En Vivo",
       "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Muchacho de La Esquina",
-        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 154151,
-      "name": "El Muchacho de La Esquina",
-      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
     },
     {
       "added_at": null,

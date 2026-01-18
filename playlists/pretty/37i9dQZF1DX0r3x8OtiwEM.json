@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1052482,
+  "num_followers": 1052611,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "EYES",
-        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "EYES",
-      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
         "name": "You Gonna Want Me (I Know)",
         "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192187,
       "name": "You Gonna Want Me (I Know)",
       "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "EYES",
+        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "EYES",
+      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "About U",
-      "url": "https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Deeplow",
-        "url": "https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Serve Cold",
-          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
-        }
-      ],
-      "duration_ms": 149939,
-      "name": "Deeplow",
-      "url": "https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
         "name": "No Bad Vibes (Adriatique & Samm Remix)",
         "url": "https://open.spotify.com/album/58AVaiT7Ux2VINyX7GWeVr"
       },
@@ -1035,22 +1015,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "SLOWLY",
-        "url": "https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2"
+        "name": "Deeplow",
+        "url": "https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
         },
         {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
         }
       ],
-      "duration_ms": 168000,
-      "name": "SLOWLY",
-      "url": "https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp"
+      "duration_ms": 149939,
+      "name": "Deeplow",
+      "url": "https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1067,6 +1047,26 @@
       "duration_ms": 199546,
       "name": "Answers",
       "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "SLOWLY",
+        "url": "https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
       },
@@ -1219,22 +1239,6 @@
       "duration_ms": 244517,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "BOY (ZACARIA)",
-        "url": "https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 120853,
-      "name": "BOY (ZACARIA)",
-      "url": "https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL"
     }
   ],
   "unique_name": "Lowkey Tech",

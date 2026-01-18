@@ -2,13 +2,13 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
 
 183 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 < 1](https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:57 | 2025-03-27 |  |
+| [100 < 1](https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:58 | 2025-03-27 |  |
 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 | 2024-12-04 |  |
 | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m) | 3:13 | 2023-04-13 | 2024-12-05 |
 | [7711\(bảy bảy một một\) \- Acoustic](https://open.spotify.com/track/6BqI12kwPo7f1D6hHFq9Mc) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711\(bảy bảy một một\) \[Acoustic\]](https://open.spotify.com/album/1i9f50j6IwhHwnFwnoNLAz) | 3:13 | 2023-07-25 | 2024-04-19 |

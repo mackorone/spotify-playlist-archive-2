@@ -1,13 +1,29 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 53364,
+  "num_followers": 53397,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWguAAAAAADBBmvKxwKak65hqNnIx0uh",
+  "snapshot_id": "aWl/gAAAAACObwRXkG+w/XMDppqvBmoc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chino Infierno",
+        "url": "https://open.spotify.com/album/6pHHWQ40suS3C5mpEfqMMy"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 189597,
+      "name": "Chino Infierno",
+      "url": "https://open.spotify.com/track/6lMBbdjLbywu7wVwJuVfB0"
+    },
     {
       "added_at": null,
       "album": {
@@ -351,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Asi Nomas",
+        "url": "https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "El Afortunado",
+      "url": "https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen Que Soy Belicon",
         "url": "https://open.spotify.com/album/2Qk2i6CreCzTWRIs9B8b8a"
       },
@@ -367,22 +399,6 @@
       "duration_ms": 186125,
       "name": "Dicen Que Soy Belicon",
       "url": "https://open.spotify.com/track/1FjWaxfDLfcvJjA5TDZTPc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asi Nomas",
-        "url": "https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "El Afortunado",
-      "url": "https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 180375,
       "name": "La Torre Eiffel",
       "url": "https://open.spotify.com/track/3PBCGgKFkuJmyYUHtqxsKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guerrero En Accion",
-        "url": "https://open.spotify.com/album/2LQapn6GojabAAGCYPtkY0"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 194010,
-      "name": "Guerrero En Accion",
-      "url": "https://open.spotify.com/track/58LOQMwqNIOCk0kjkCKcKO"
     }
   ],
   "unique_name": "This Is Los Farmerz",

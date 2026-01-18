@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: sheidA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,713 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,712 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 11 | [0000](https://open.spotify.com/track/6RjybEGkjLTRmhuWUlupUe) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [0000](https://open.spotify.com/album/5tjfxtDazA8voJOe1n5ibn) | 3:22 |
 | 12 | [Limited](https://open.spotify.com/track/6dIAf5gs0Mhwe5QoXEXOiz) | [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [22MIX](https://open.spotify.com/album/667iN9Jjhroj0aI8LZolPi) | 2:27 |
 | 13 | [Pull Up](https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Pull Up](https://open.spotify.com/album/5xsIGUBxkvpStINwCNl8CW) | 2:30 |
-| 14 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
+| 14 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
 | 15 | [BIGMAN](https://open.spotify.com/track/4QcJ480QrpsKJEWTN6LZQk) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [BIGMAN](https://open.spotify.com/album/0aLj3AiPv9vxtBlT50mK1I) | 2:51 |
 | 16 | [Forget Me](https://open.spotify.com/track/0uvwQCOvSFYPdf5X6MucV7) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [Forget Me](https://open.spotify.com/album/49KlMmnjVThz3tK0h5JuvS) | 3:26 |
 | 17 | [SHIGEKI](https://open.spotify.com/track/3QjJyrMpZ6iouqwcyJb7C4) | [ULTRA SMASH](https://open.spotify.com/artist/0yMAf7raVNCa4Lb1M0NwyI), [Hanemii](https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny) | [SHIGEKI](https://open.spotify.com/album/24hfgy8bnQ4TOecPVIGAYn) | 3:03 |

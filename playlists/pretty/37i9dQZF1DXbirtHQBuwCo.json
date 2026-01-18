@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBabylon, Drake)",
-  "num_followers": 1092778,
+  "num_followers": 1092692,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "TASTE - The 1st Album",
-        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "CRZY",
-      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "TASTE - The 1st Album",
+        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "CRZY",
+      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "ETERNALT",
-        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
-      },
-      "artists": [
-        {
-          "name": "CLOSE YOUR EYES",
-          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "All My Poetry",
-      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "ABG",
         "url": "https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 110103,
       "name": "ABG",
       "url": "https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "ETERNALT",
+        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "All My Poetry",
+      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "JULIE",
-          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
-      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -1115,18 +1095,38 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "jellyfish",
-        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
       "artists": [
         {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "JULIE",
+          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
         }
       ],
-      "duration_ms": 157168,
-      "name": "jellyfish",
-      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+      "duration_ms": 206613,
+      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Mars",
-      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "LOVE VIRUS Pt.1",
-        "url": "https://open.spotify.com/album/1wMPSnMWI5JE47n8GHrK19"
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 223199,
-      "name": "Love Virus (Feat. I.M)",
-      "url": "https://open.spotify.com/track/5jgXg4Sen0qi02jDf68RSA"
+      "duration_ms": 221680,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+        "name": "LOVE VIRUS Pt.1",
+        "url": "https://open.spotify.com/album/1wMPSnMWI5JE47n8GHrK19"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 221680,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
+      "duration_ms": 223199,
+      "name": "Love Virus (Feat. I.M)",
+      "url": "https://open.spotify.com/track/5jgXg4Sen0qi02jDf68RSA"
     }
   ],
   "unique_name": "TrenChill K-R&B",

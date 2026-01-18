@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 64 | [Heart Sing](https://open.spotify.com/track/4t7DKJPtzK0ZbQ9xdZNvcO) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:09 |
 | 65 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 |
 | 66 | [Know Who You Are](https://open.spotify.com/track/5gPirjkgoGH4Hym5JC1gf1) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:31 |
-| 67 | [3AM \(Pull Up\)](https://open.spotify.com/track/5jOY0ZzNkwlb7Fr0bP8Gcg) | [Fitness Workout Hits](https://open.spotify.com/artist/4WcnnHSRP40h3KJ7In8rAX) | [Don't Give Up Workout Hits](https://open.spotify.com/album/1oj0beYwEjOHLKTyWh7LmA) | 4:02 |
-| 68 | [HARDPAIN](https://open.spotify.com/track/1Ak6Bwm8W0v83SGEKziaKY) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:25 |
+| 67 | [HARDPAIN](https://open.spotify.com/track/1Ak6Bwm8W0v83SGEKziaKY) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:25 |
+| 68 | [3AM \(Pull Up\)](https://open.spotify.com/track/5jOY0ZzNkwlb7Fr0bP8Gcg) | [Fitness Workout Hits](https://open.spotify.com/artist/4WcnnHSRP40h3KJ7In8rAX) | [Don't Give Up Workout Hits](https://open.spotify.com/album/1oj0beYwEjOHLKTyWh7LmA) | 4:02 |
 | 69 | [Long Long Time](https://open.spotify.com/track/7dKwod8JCcfpRpc2DhHwa4) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 3:03 |
 | 70 | [Running Out](https://open.spotify.com/track/5QbaDpfGa06GNxSVNfmz4P) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 3:24 |
 | 71 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 72 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcHIQgAAAABhEMjbD8Ewy6Uor9b9I75x`
+Snapshot ID: `AcHN4gAAAAD5fJTtNM5uxuEjQteYClRa`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,147 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 22 | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/track/34haywJFfkSihAmCo67j01) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [ZLAB](https://open.spotify.com/artist/5YtxFNj1nNvPhd9SMsn684) | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/album/77der7U4IMvTHglBYJfrXQ) | 2:34 |
 | 23 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 |
 | 24 | [Benz ft\. V\# \(prod\. Larria.\)](https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:17 |
-| 25 | [100 < 1](https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:57 |
+| 25 | [100 < 1](https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:58 |
 | 26 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:18 |
 | 27 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 |
 | 28 | [sweet savage](https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 2:21 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Régulo Molina, Oscar Maydon y Neton Vega en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,603 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,675 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:55 |
+| 1 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 |
 | 2 | [FRUTO PROHIBIDO](https://open.spotify.com/track/0UQQGwOmaR88smuCpEdAvq) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [FRUTO PROHIBIDO](https://open.spotify.com/album/7Iz3VfOWiRelZ8cmYDG1cy) | 3:28 |
 | 3 | [Seteando](https://open.spotify.com/track/4b1LU25yQiVzVetl7rKmRa) | [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm), [Keibi](https://open.spotify.com/artist/2jCvXbvbzMrnjDXOtbXXmW), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Seteando](https://open.spotify.com/album/4e9bdg2Hcq6evf8GtV93EP) | 3:02 |
 | 4 | [YA NO SIENTO NADA](https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5) | [La Vendicion](https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh), [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y) | [La Hermandad](https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK) | 3:29 |

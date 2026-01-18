@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra RABO, Charli XCX og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,479 likes - 94 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,492 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 59 | [Sucker Punch](https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Sucker Punch](https://open.spotify.com/album/04JKtveNe9qWZ2f9sUaA8w) | 2:44 |
 | 60 | [All My Life](https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [All My Life](https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO) | 3:53 |
 | 61 | [SOMETHING BEAUTIFUL](https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [SOMETHING BEAUTIFUL](https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ) | 1:51 |
-| 62 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 62 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 63 | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Eli & Dani](https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS) | 2:41 |
 | 64 | [nos keremos tanto](https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [nos keremos tanto](https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1) | 3:33 |
 | 65 | [Trur eg fell](https://open.spotify.com/track/1WPI6QEh4VUN830rNK81eK) | [TAUS](https://open.spotify.com/artist/6WkV1AwSf7mtHR8gP8YYt2) | [Trur eg fell](https://open.spotify.com/album/5yNadBhcavHWhr1gGbsQrm) | 2:52 |

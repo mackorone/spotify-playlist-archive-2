@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484590,
+  "num_followers": 484577,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Oily Heart",
-        "url": "https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 134266,
-      "name": "Oily Heart",
-      "url": "https://open.spotify.com/track/066xsSchUAaztnetPLMlVG"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Cut Worms",
@@ -295,6 +279,22 @@
       "duration_ms": 183030,
       "name": "Ballad of the Texas King",
       "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Oily Heart",
+        "url": "https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 134266,
+      "name": "Oily Heart",
+      "url": "https://open.spotify.com/track/066xsSchUAaztnetPLMlVG"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "For The Dreams",
-        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
-      },
-      "artists": [
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
-        }
-      ],
-      "duration_ms": 225198,
-      "name": "Southerly",
-      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "News of the Universe",
         "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 212075,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "For The Dreams",
+        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 225198,
+      "name": "Southerly",
+      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Out Of Here",
-        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 151838,
-      "name": "Out Of Here",
-      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "I AM NOT SO TALL",
@@ -679,6 +663,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 151838,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
-      "added_at": "2025-05-22 14:00:15",
-      "album": {
-        "name": "Pacific Ocean",
-        "url": "https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25"
-      },
-      "artists": [
-        {
-          "name": "GRMLN",
-          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
-        }
-      ],
-      "duration_ms": 153822,
-      "name": "Pacific Ocean",
-      "url": "https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV"
-    },
-    {
       "added_at": "2025-03-27 13:00:14",
       "album": {
         "name": "Right or Wrong",
@@ -839,6 +823,22 @@
       "duration_ms": 207665,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
+    },
+    {
+      "added_at": "2025-05-22 14:00:15",
+      "album": {
+        "name": "Pacific Ocean",
+        "url": "https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25"
+      },
+      "artists": [
+        {
+          "name": "GRMLN",
+          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
+        }
+      ],
+      "duration_ms": 153822,
+      "name": "Pacific Ocean",
+      "url": "https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Welcome Back (To The//Glow)",
-        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 285824,
-      "name": "Welcome Back (To The//Glow)",
-      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
-    },
-    {
       "added_at": "2025-03-27 13:00:14",
       "album": {
         "name": "Stargazer",
@@ -985,6 +969,22 @@
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Welcome Back (To The//Glow)",
+        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 285824,
+      "name": "Welcome Back (To The//Glow)",
+      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Love Sick",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Postcode Lover",
-        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Postcode Lover",
-      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Postcode Lover",
+        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "Postcode Lover",
+      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -1193,20 +1193,24 @@
       "url": "https://open.spotify.com/track/74SyH0pbKqzVlhOHOM1qNR"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Rocketship",
-        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "Jimmy Cloud",
+          "url": "https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv"
+        },
+        {
+          "name": "Willy Sinclair",
+          "url": "https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ"
         }
       ],
-      "duration_ms": 116202,
-      "name": "Rocketship",
-      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+      "duration_ms": 140848,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 320773,
+  "num_followers": 320794,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Product Of My Love",
-        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
-      },
-      "artists": [
-        {
-          "name": "Druidess",
-          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Sniffing Accountant",
-      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+        "name": "The Product Of My Love",
+        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
       },
       "artists": [
         {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+      "duration_ms": 228000,
+      "name": "The Sniffing Accountant",
+      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -643,6 +627,22 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Girls Gone Wild",
+        "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "ANTAGONIST RETURNS",
         "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Girls Gone Wild",
-        "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        },
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Camel Dancefloor",
-        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
-      },
-      "artists": [
-        {
-          "name": "Igorrr",
-          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Camel Dancefloor",
-      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+        "name": "Camel Dancefloor",
+        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
       "artists": [
         {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+          "name": "Igorrr",
+          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
         }
       ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
+      "duration_ms": 193066,
+      "name": "Camel Dancefloor",
+      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -891,6 +875,22 @@
       "duration_ms": 214775,
       "name": "Soul Revolution",
       "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 197600,
       "name": "Fuck What You Heard",
       "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Dr\u00fdsill",
-        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
-        }
-      ],
-      "duration_ms": 532351,
-      "name": "Dr\u00fdsill",
-      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "80486DX",
         "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 272000,
       "name": "80486DX",
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Dr\u00fdsill",
+        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+        }
+      ],
+      "duration_ms": 532351,
+      "name": "Dr\u00fdsill",
+      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
         "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 269265,
       "name": "Power",
       "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Only Paradise Lost",
-        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
-      },
-      "artists": [
-        {
-          "name": "vedawave",
-          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Only Paradise Lost",
-      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 386552,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Only Paradise Lost",
+        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
+      },
+      "artists": [
+        {
+          "name": "vedawave",
+          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Only Paradise Lost",
+      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
     },
     {
       "added_at": "2024-07-19 10:51:43",

@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2666,
+  "num_followers": 2665,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARRS+0xzMEmw5q8W3eKU8g4nJJ0BAz",
+  "snapshot_id": "AAARRk5Lt1eL7OaiGo+fLQVznx639WTO",
   "tracks": [
+    {
+      "added_at": "2026-01-17 11:09:20",
+      "album": {
+        "name": "Es una Loba",
+        "url": "https://open.spotify.com/album/2rvgeG7n0VwTJ0NWdUeTpz"
+      },
+      "artists": [
+        {
+          "name": "DARCOS LIFE",
+          "url": "https://open.spotify.com/artist/0C2us4WTI9QWkRCl7eGkFv"
+        }
+      ],
+      "duration_ms": 293014,
+      "name": "Es una Loba",
+      "url": "https://open.spotify.com/track/7LQRuiqjYxtK3T2HhVF9xL"
+    },
     {
       "added_at": "2026-01-16 13:26:16",
       "album": {

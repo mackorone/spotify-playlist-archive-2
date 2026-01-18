@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148490,
+  "num_followers": 148483,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN2bLulA9197uq++7+AQY7QB87bi",
+  "snapshot_id": "AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U",
   "tracks": [
     {
       "added_at": "2026-01-09 03:01:26",
@@ -883,18 +883,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Uen Uen Uen",
-        "url": "https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv"
+        "name": "placo no pulso",
+        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
       },
       "artists": [
         {
-          "name": "Suiky",
-          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Caio Shock",
+          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
         }
       ],
-      "duration_ms": 208421,
-      "name": "Uen Uen Uen",
-      "url": "https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC"
+      "duration_ms": 176511,
+      "name": "placo no pulso",
+      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -927,26 +931,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
+        "name": "Uen Uen Uen",
+        "url": "https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv"
       },
       "artists": [
         {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+          "name": "Suiky",
+          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
         }
       ],
-      "duration_ms": 115384,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
+      "duration_ms": 208421,
+      "name": "Uen Uen Uen",
+      "url": "https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -971,22 +967,26 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "placo no pulso",
-        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
       },
       "artists": [
         {
-          "name": "Men\u00f3 Felps",
-          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
         },
         {
-          "name": "Caio Shock",
-          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
         }
       ],
-      "duration_ms": 176511,
-      "name": "placo no pulso",
-      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
+      "duration_ms": 115384,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Mr. Lupa Freestyle",
         "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 147129,
       "name": "Mr. Lupa Freestyle",
       "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Da Ponte Pra L\u00e1 O Futuro Das Ruas",
-        "url": "https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP"
-      },
-      "artists": [
-        {
-          "name": "FRESH",
-          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 179994,
-      "name": "ESTRAT\u00c9GIA",
-      "url": "https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Spliff",
         "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 137142,
       "name": "Spliff",
       "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Da Ponte Pra L\u00e1 O Futuro Das Ruas",
+        "url": "https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP"
+      },
+      "artists": [
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 179994,
+      "name": "ESTRAT\u00c9GIA",
+      "url": "https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD"
     }
   ],
   "unique_name": "O Drip",

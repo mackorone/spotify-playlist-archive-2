@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,026 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,055 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 4 | [Yaari](https://open.spotify.com/track/2ZxFXUnvprVMI9IXBcnnAk) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Rohit Lamba](https://open.spotify.com/artist/6yRD7Sx34bc3IxImNTGeTK) | [Yaari](https://open.spotify.com/album/1GcqJREB3RL4GtAXdoFlcN) | 2:50 |
 | 5 | [Desi](https://open.spotify.com/track/5rnlGwt6UesFEC0e6pFY8z) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Desi](https://open.spotify.com/album/3oNnL6AlJP5sKiHSEg9HFE) | 3:33 |
 | 6 | [Haryana Calling](https://open.spotify.com/track/6zfgy4YV3thGmpFO3IfRsD) | [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq), [Muzik Amy](https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK) | [Haryana Calling](https://open.spotify.com/album/7Mv2eHQwPJviS9Vcku1ihm) | 3:32 |
-| 7 | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/track/2oHMFQHewclqxeNP8zt7yZ) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm) | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/album/0WIaCSH8K0G9fFjqqoLthR) | 2:08 |
-| 8 | [Rohtak 3](https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Tijara Vines](https://open.spotify.com/artist/1WNEp9mjzZ2ROMzhJxrLh6) | [Rohtak 3](https://open.spotify.com/album/5diVSj8jd8SVBhW1iJM8Xi) | 3:01 |
+| 7 | [Rohtak 3](https://open.spotify.com/track/2z0WUuIa5AIR6QjxXzWq5Z) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Tijara Vines](https://open.spotify.com/artist/1WNEp9mjzZ2ROMzhJxrLh6) | [Rohtak 3](https://open.spotify.com/album/5diVSj8jd8SVBhW1iJM8Xi) | 3:01 |
+| 8 | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/track/2oHMFQHewclqxeNP8zt7yZ) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm) | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/album/0WIaCSH8K0G9fFjqqoLthR) | 2:08 |
 | 9 | [Lofar](https://open.spotify.com/track/2L5fXA2pNlTXJvQTeMZn4z) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn) | [Lofar](https://open.spotify.com/album/3VzplV5MLsatpZLD3jw7Tg) | 2:09 |
 | 10 | [Tagde Karam](https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Tagde Karam](https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa) | 2:45 |
 | 11 | [Over Confidence](https://open.spotify.com/track/06uSHFvu4crGsylvkgCroZ) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Over Confidence](https://open.spotify.com/album/681CueFKwbAwt5kCRVbjRC) | 2:38 |

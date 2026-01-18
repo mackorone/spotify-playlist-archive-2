@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191421,
+  "num_followers": 191415,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 281000,
       "name": "Touching God (Feat. Yebba & Blood Orange)",
       "url": "https://open.spotify.com/track/2GjW83G2ZUF7pLpcUKuP9Y"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "The Joy of Coincidences",
-        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        }
-      ],
-      "duration_ms": 200260,
-      "name": "Strange Rooms",
-      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "The Sun Will Rise",
         "url": "https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 183226,
       "name": "The Sun Will Rise",
       "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "The Joy of Coincidences",
+        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "Strange Rooms",
+      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "somebody's daughter",
-        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 200806,
-      "name": "i'm not afraid of dying",
-      "url": "https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Truce (Acoustic)",
         "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 222983,
       "name": "Truce - Acoustic",
       "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 200806,
+      "name": "i'm not afraid of dying",
+      "url": "https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
+        "name": "Lonely Heart (Acoustic Version)",
+        "url": "https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mie Wolfs",
+          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "Lonely Heart - Acoustic Version",
+      "url": "https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
-        "name": "Lonely Heart (Acoustic Version)",
-        "url": "https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mie Wolfs",
-          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "Lonely Heart - Acoustic Version",
-      "url": "https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
-      },
-      "artists": [
-        {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
-        }
-      ],
-      "duration_ms": 308293,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "An Hour Per Day",
-        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
       },
       "artists": [
         {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
         }
       ],
-      "duration_ms": 217646,
-      "name": "An Hour Per Day",
-      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+      "duration_ms": 308293,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -995,6 +979,22 @@
       "duration_ms": 308963,
       "name": "Sunflower Sunset",
       "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "More than a warning",
-        "url": "https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW"
-      },
-      "artists": [
-        {
-          "name": "Amongster",
-          "url": "https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK"
-        }
-      ],
-      "duration_ms": 301417,
-      "name": "More than a warning",
-      "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Sincerely, Sevens",
         "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 250306,
       "name": "Exit Wounds",
       "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "More than a warning",
+        "url": "https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW"
+      },
+      "artists": [
+        {
+          "name": "Amongster",
+          "url": "https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK"
+        }
+      ],
+      "duration_ms": 301417,
+      "name": "More than a warning",
+      "url": "https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Moonlit Parade",
-        "url": "https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat"
-      },
-      "artists": [
-        {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Moonlit Parade",
-      "url": "https://open.spotify.com/track/1NL10e7NLz2eODtCieADly"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 248933,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Moonlit Parade",
+        "url": "https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat"
+      },
+      "artists": [
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Moonlit Parade",
+      "url": "https://open.spotify.com/track/1NL10e7NLz2eODtCieADly"
     },
     {
       "added_at": "2025-12-18 23:00:10",

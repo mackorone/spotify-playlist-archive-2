@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat william..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,837 likes - 88 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,846 likes - 88 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 81 | [I Can Tell](https://open.spotify.com/track/252tNXhI3Zhelg0Tpnn5K0) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [I Can Tell](https://open.spotify.com/album/5ur2mp5p20STnhmulkP2B2) | 3:12 |
 | 82 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 |
 | 83 | [High On Heaven](https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [High On Heaven](https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n) | 3:19 |
-| 84 | [Fuck It Up](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
+| 84 | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/track/4PR3GPNQg8RNkGSSA1LAqX) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Fuck It Up \(feat\. Declan McKenna\)](https://open.spotify.com/album/534u1idrGXL7tnaZW00JPP) | 3:32 |
 | 85 | [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 |
 | 86 | [Not Enough](https://open.spotify.com/track/1GgAQK7vuuydUdSn7uJFFT) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not Enough](https://open.spotify.com/album/4iPdqqlQoDwpsarVVgGmHu) | 3:11 |
 | 87 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 |

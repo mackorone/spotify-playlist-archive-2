@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 260725,
+  "num_followers": 260753,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
         "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
         "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 212638,
       "name": "D\u00eda De Suerte",
       "url": "https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2025-09-12 18:56:37",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
+        "name": "La Guzm\u00e1n en Primera Fila",
+        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Mi Peor Error - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
         "name": "Franco De Vita Vuelve en Primera Fila",
         "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 250960,
       "name": "Te Pienso Sin Querer (feat. Gloria Trevi) - Vuelve en Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
-        "name": "La Guzm\u00e1n en Primera Fila",
-        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Mi Peor Error - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
     },
     {
       "added_at": "2025-09-12 18:56:37",

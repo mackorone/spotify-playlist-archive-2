@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,135 likes - 353 songs - 20 hr 6 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,143 likes - 361 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,12 +354,20 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 344 | [Faint](https://open.spotify.com/track/66vElSVmVuC9StxwlBrbYa) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Faint](https://open.spotify.com/album/7EeNUyO2Qcjm9cQYAtkiEb) | 3:27 |
 | 345 | [Cicles caduquen](https://open.spotify.com/track/3n4BLzoQrth8l0WEWLWP8e) | [Només Tot](https://open.spotify.com/artist/5WYj8w4O9AiT8jrOroxydL) | [Cicles Caduquen](https://open.spotify.com/album/1TixayhHk8ebpP5aTBhqdf) | 2:04 |
 | 346 | [DESCENT](https://open.spotify.com/track/43cIju9Ct7euSdX4gq0Gxx) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 5:19 |
-| 347 | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/track/3u2tXGtnEMgNPSjQkF8i2g) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/album/4gC7Szh10Em7tXEla72BRV) | 2:55 |
-| 348 | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/track/6mL5hOMXv00Ta93K2oLihA) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/album/7ve1UcLQUTep9pAZOROZm3) | 2:44 |
-| 349 | [Light up Your World](https://open.spotify.com/track/2ejFVWMyNypU3QWAwdpIc3) | [Deaths of Despair](https://open.spotify.com/artist/1izBmyPF6MjuwiFbIOGsgg) | [Purple Roses](https://open.spotify.com/album/6Qz29HKxGWZd8yEAKUDiqi) | 4:02 |
-| 350 | [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 |
-| 351 | [High Waves](https://open.spotify.com/track/3EnpPXWnbkcOgb4VN3UZuk) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [High Waves](https://open.spotify.com/album/7yBWbfqK8KrB5SAofb4y2H) | 6:25 |
-| 352 | [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 |
-| 353 | [invisible man](https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [\(no matter\) what i said](https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3) | 1:54 |
+| 347 | [Non hai mai capito un cazzo](https://open.spotify.com/track/3ujVDluuhVb3Yej7wxJYv0) | [B\-erre](https://open.spotify.com/artist/5RoNocaWSwVXPlWzh61GbT) | [Profondo Rosso](https://open.spotify.com/album/2gEACwgO3Ai5NuSuxFjyRY) | 1:29 |
+| 348 | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/track/3u2tXGtnEMgNPSjQkF8i2g) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/album/4gC7Szh10Em7tXEla72BRV) | 2:55 |
+| 349 | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/track/6mL5hOMXv00Ta93K2oLihA) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/album/7ve1UcLQUTep9pAZOROZm3) | 2:44 |
+| 350 | [Light up Your World](https://open.spotify.com/track/2ejFVWMyNypU3QWAwdpIc3) | [Deaths of Despair](https://open.spotify.com/artist/1izBmyPF6MjuwiFbIOGsgg) | [Purple Roses](https://open.spotify.com/album/6Qz29HKxGWZd8yEAKUDiqi) | 4:02 |
+| 351 | [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 |
+| 352 | [High Waves](https://open.spotify.com/track/3EnpPXWnbkcOgb4VN3UZuk) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [High Waves](https://open.spotify.com/album/7yBWbfqK8KrB5SAofb4y2H) | 6:25 |
+| 353 | [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 |
+| 354 | [invisible man](https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [\(no matter\) what i said](https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3) | 1:54 |
+| 355 | [Bullshit Jobs](https://open.spotify.com/track/10ng6MpmDRI3oiOMdd9J4I) | [Mr\. Otus](https://open.spotify.com/artist/4nq5dhUkAppP5mRKRXKRd1) | [Bullshit Jobs](https://open.spotify.com/album/7n4Tq7kU22Yo1xZidM3Gaj) | 3:42 |
+| 356 | [where did everyone go](https://open.spotify.com/track/1OYqmMTlM2AhGuZPNQR5CI) | [EVEREND](https://open.spotify.com/artist/159Iki4KcWPMKavS3ST07a) | [where did everyone go](https://open.spotify.com/album/0D0BphVJVWMfkJRqU1tMCn) | 3:17 |
+| 357 | [Circular](https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz) | [Klidas](https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP) | [No Harmony](https://open.spotify.com/album/1gyRigtJgj31N9ohUfn9I1) | 5:09 |
+| 358 | [Lost Inside](https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Lost Inside](https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL) | 3:05 |
+| 359 | [Liability](https://open.spotify.com/track/0cKEwMjEQSzvi0YWvlCDiS) | [Midnight Coup](https://open.spotify.com/artist/6zB2fC5GFd531Gh9zfmlcn) | [Dither](https://open.spotify.com/album/59j0YUxSRk4KBsetSEBjfG) | 3:37 |
+| 360 | [Playboy](https://open.spotify.com/track/0lGzNxd6zMr2iI6g5gENmr) | [The Reevengers](https://open.spotify.com/artist/7msgtCDPICCFaZOH8XMlZl) | [when college becomes executive](https://open.spotify.com/album/2CzCYE4lWIKftbsW4zvtXx) | 3:17 |
+| 361 | [Magika](https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:25 |
 
-Snapshot ID: `AAAKBXDLZBGEFrf24OFI2ZO3wF7cPZfi`
+Snapshot ID: `AAAKDfFWi2vW5YUgvOWBglNlHWnvXE70`

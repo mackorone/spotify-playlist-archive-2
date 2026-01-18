@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-507 songs - 2 day 1 hr 14 min
+508 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Não Há Outro](https://open.spotify.com/track/3YKzZGZFCZBE60IuPkUY1C) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Não Há Outro](https://open.spotify.com/album/3DhSTaULAqGDEZnFWCmPzK) | 6:26 | 2023-04-15 | 2023-04-22 |
 | [Não Me Esconderei de Ti](https://open.spotify.com/track/3Gp4BFOewWTBGldUTqTYLV) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Não Me Esconderei de Ti](https://open.spotify.com/album/6fOmrb6SXy3UGzfnPRZ1ms) | 8:18 | 2025-10-03 |  |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2022-09-09 | 2024-08-10 |
-| [Não Pare de Adorar \- Ao Vivo](https://open.spotify.com/track/3v3Foeumfd7WdPAkMppRN8) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Não Pare de Adorar \(Ao Vivo\)](https://open.spotify.com/album/388nEk7RQVxEUkIppWUV6L) | 5:20 | 2025-05-02 |  |
+| [Não Pare de Adorar \- Ao Vivo](https://open.spotify.com/track/3v3Foeumfd7WdPAkMppRN8) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Não Pare de Adorar \(Ao Vivo\)](https://open.spotify.com/album/388nEk7RQVxEUkIppWUV6L) | 5:20 | 2025-05-02 | 2026-01-18 |
 | [Não Quero Ser Mais Eu](https://open.spotify.com/track/10fS9do6r4TJVZUoeYzLzX) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Não Quero Ser Mais Eu](https://open.spotify.com/album/6dH4AHTuTYLubGRzRnj7d0) | 4:55 | 2025-05-16 | 2025-06-07 |
 | [Não Te Abandono](https://open.spotify.com/track/2QUxsTL6NN2aLISse5WMiD) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Matias Palheiro](https://open.spotify.com/artist/1lLHBfhNJSt67XhQBLJ7Wd), [Guilherme Ludtke](https://open.spotify.com/artist/2dOAyOfeeYGOE3TDXfHLwt) | [Não Te Abandono](https://open.spotify.com/album/5KmuqpltfJxdP1itCpGPZQ) | 4:26 | 2023-10-20 | 2023-11-04 |
 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 | 2025-03-17 |  |
@@ -349,6 +349,7 @@
 | [Para Que Entre o Rei \- Ao Vivo](https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:38 | 2023-06-02 | 2025-05-03 |
 | [Passa Lá em Casa Jesus](https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Passa Lá em Casa Jesus](https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U) | 4:54 | 2025-06-06 |  |
 | [Passa Lá em Casa Jesus \- Ao Vivo](https://open.spotify.com/track/1bh1JcrWy2lJAFgQ9rl6wD) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Passa Lá em Casa Jesus \(Ao Vivo\)](https://open.spotify.com/album/5wnvXHNE9CxxYySwE07WFl) | 4:55 | 2025-05-23 | 2025-08-09 |
+| [Pela Graça \- Ao Vivo](https://open.spotify.com/track/5DOElICehd0dGvkWqYGfTB) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pela Graça \(Ao Vivo\)](https://open.spotify.com/album/5sPvjEv9W6ax4tHwmM6dxr) | 6:26 | 2026-01-08 |  |
 | [Peregrino \- Ao vivo](https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Peregrino \(Ao Vivo\)](https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp) | 5:30 | 2024-06-21 |  |
 | [Perfeito Amor \(Ao Vivo\)](https://open.spotify.com/track/5AQlWBv431Lbhj9ASZ3KZp) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Perfeito Amor \(Ao Vivo\)](https://open.spotify.com/album/0hgoZyP0leG6t0xzaf5FrS) | 5:04 | 2025-01-31 | 2025-05-16 |
 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 | 2024-08-30 | 2025-07-13 |

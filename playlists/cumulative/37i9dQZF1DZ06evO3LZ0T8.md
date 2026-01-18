@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 42 min
+75 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 | 2022-10-10 | 2024-04-24 |
 | [Resonate](https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b) | 3:07 | 2024-04-27 |  |
 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 | 2022-10-10 | 2025-02-28 |
-| [Ride Or Die](https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride Or Die](https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo) | 3:08 | 2025-02-28 |  |
+| [Ride Or Die](https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride Or Die](https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo) | 3:08 | 2025-02-28 | 2026-01-18 |
 | [Rockin' With](https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [KARTY](https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci) | [Rockin' With](https://open.spotify.com/album/0hE8oNAQqvLNVrXpGAXkmR) | 3:09 | 2025-11-02 |  |
 | [Shaka](https://open.spotify.com/track/63pv4p9YcLpVP3QXlgasfP) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Shaka](https://open.spotify.com/album/4OUDrkk6FqwQTBuwwwutbk) | 2:33 | 2024-10-07 |  |
 | [Shake The Dice \(SUBSHIFT Remix\)](https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 3:16 | 2023-06-10 |  |
@@ -72,6 +72,7 @@
 | [Shutdown](https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582) | 2:52 | 2024-08-27 |  |
 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 | 2023-12-13 |  |
 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 | 2024-06-30 |  |
+| [Tap That](https://open.spotify.com/track/10Z2ViSDjIXKW5dB1Oog1X) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Tap That](https://open.spotify.com/album/7iLjS24vCdwEHXTENrz9TD) | 2:48 | 2026-01-18 |  |
 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 | 2022-10-10 |  |
 | [The Streets](https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I) | 2:38 | 2024-04-24 |  |
 | [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 | 2022-10-10 | 2024-04-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Jenni Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,072 likes - 239 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,073 likes - 239 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 13 | [no tenerte duele más](https://open.spotify.com/track/2Ud8lHgQ7tgLnaAWncwpgL) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 3:06 |
 | 14 | [somos peligro](https://open.spotify.com/track/5yzRS2AOgLCAPyL2JOTHOm) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 2:59 |
 | 15 | [contrabando](https://open.spotify.com/track/3Z4sKGics3KdJ1GYucaEqG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 3:10 |
-| 16 | [Dile a Tu Orgullo \- En Vivo](https://open.spotify.com/track/19DnQWh8pdHgrhVc7MQxgi) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [El Flaco y Sus Amigos: Auditorios](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 3:53 |
-| 17 | [El Que Te Amó \- En Vivo](https://open.spotify.com/track/0wS19RsjOizho4unN81Q02) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Flaco y Sus Amigos: Auditorios](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 2:58 |
-| 18 | [Para Ti Papá \- En Vivo](https://open.spotify.com/track/5hLa3MRictiXYffJbVW1Pz) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Flaco y Sus Amigos: Auditorios](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 2:05 |
+| 16 | [Dile a Tu Orgullo \- En Vivo](https://open.spotify.com/track/19DnQWh8pdHgrhVc7MQxgi) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [El Flaco y Sus Amigos: Auditorios \(En Vivo\)](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 3:53 |
+| 17 | [El Que Te Amó \- En Vivo](https://open.spotify.com/track/0wS19RsjOizho4unN81Q02) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Flaco y Sus Amigos: Auditorios \(En Vivo\)](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 2:58 |
+| 18 | [Para Ti Papá \- En Vivo](https://open.spotify.com/track/5hLa3MRictiXYffJbVW1Pz) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Flaco y Sus Amigos: Auditorios \(En Vivo\)](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 2:05 |
 | 19 | [Guason](https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:11 |
 | 20 | [7](https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:03 |
 | 21 | [No Sé](https://open.spotify.com/track/0pfyzF565wWaWtejcahB1c) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 2:47 |
