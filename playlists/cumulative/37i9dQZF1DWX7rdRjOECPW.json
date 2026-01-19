@@ -4209,6 +4209,32 @@
     },
     {
       "album": {
+        "name": "Rude Boi",
+        "url": "https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Lou Combo",
+          "url": "https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX"
+        },
+        {
+          "name": "Erin Kimberly",
+          "url": "https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215409,
+      "name": "Rude Boi",
+      "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
+    },
+    {
+      "album": {
         "name": "Running Around",
         "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
       },
@@ -5448,7 +5474,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 200181,
       "name": "Wake Up (With You Mine)",
       "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"

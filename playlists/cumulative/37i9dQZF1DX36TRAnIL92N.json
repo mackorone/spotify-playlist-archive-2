@@ -387,6 +387,28 @@
     },
     {
       "album": {
+        "name": "Ayi Giri / Dopamine Machine",
+        "url": "https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186475,
+      "name": "Ayi Giri",
+      "url": "https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb"
+    },
+    {
+      "album": {
         "name": "Back for Rave",
         "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
       },
@@ -3822,7 +3844,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"

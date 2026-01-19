@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Elena Carat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,719 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,725 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 5 | [Sa teva barca](https://open.spotify.com/track/6glKG6jxeELnKPwJJMTCO9) | [Júlia Colom](https://open.spotify.com/artist/2FGexWthFJnvymvErkOPaI) | [Paradís](https://open.spotify.com/album/1cefcSPmZJyVa6re1uOSJq) | 2:55 |
 | 6 | [Amor Motorizado](https://open.spotify.com/track/6dJDYcLBm8c6Px2E4c9w83) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh), [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [Amor Motorizado](https://open.spotify.com/album/12HXkS10S6iQjaa7qmfBT7) | 2:35 |
 | 7 | [santo el cielo \(q brilla x nós\)](https://open.spotify.com/track/7bTlEyHjDXbsryF1V1ciRn) | [diego vega](https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [santo el cielo \(q brilla x nós\)](https://open.spotify.com/album/5bN7LBQG2NSeXuHacVzHH0) | 3:06 |
-| 8 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
+| 8 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/5lVc7UgSfLe0ysWNaZRBWm) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
 | 9 | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/track/5z1qOTwU2nCaGEv6zVsAUQ) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Noche de Casino \(This Gambling Man\)](https://open.spotify.com/album/3Zyt72JMHaOMjU5UIbkcAV) | 3:42 |
 | 10 | [sandra...estoy partido](https://open.spotify.com/track/4af0CdDMyBAeuBEcXXYFQJ) | [luisiyo.losiento](https://open.spotify.com/artist/54tHEU6UdxAkVzoKtWR0Yq) | [sandra...estoy partido](https://open.spotify.com/album/4NY54EFQnYcNwIYCfyib9u) | 1:57 |
 | 11 | [límits](https://open.spotify.com/track/4Sh7Fu9hf0nzR8SbTkmf71) | [BALMA](https://open.spotify.com/artist/120KlGliWpuFD6rw7oiLAH) | [Mous tot l'aire](https://open.spotify.com/album/5UyDMHpnVXmf2UORbtAlIA) | 4:05 |

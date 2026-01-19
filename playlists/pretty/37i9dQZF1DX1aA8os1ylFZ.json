@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295593,
+  "num_followers": 295585,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -171,50 +187,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Out The Window",
-        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 256615,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 196270,
-      "name": "NOT FAIR",
-      "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -239,18 +223,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Holy Blindfold",
-        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Holy Blindfold",
-      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+      "duration_ms": 196270,
+      "name": "NOT FAIR",
+      "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -271,6 +255,22 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -339,6 +339,46 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
+        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
+      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "The Only Love We Know",
         "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
       },
@@ -387,46 +427,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Solace & The Vices",
-        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "I Need Her",
-      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 159760,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "U Gotta",
         "url": "https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 122880,
       "name": "U Gotta",
       "url": "https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -615,8 +615,8 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+        "name": "Reclusive",
+        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 150048,
-      "name": "Damage Control",
-      "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
         "name": "MEET THE SUN",
         "url": "https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 285799,
       "name": "MEET THE SUN",
       "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 150048,
+      "name": "Damage Control",
+      "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -863,8 +863,8 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Reclusive",
-        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 186416,
-      "name": "Reclusive",
-      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "TWIN FLAME",
+        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        },
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "Cutesy",
         "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 138352,
       "name": "Saving All My Love",
       "url": "https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "TWIN FLAME",
-        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        },
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "RAIN",
+          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
+        }
+      ],
+      "duration_ms": 174232,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "YARN",
         "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 159512,
       "name": "Club",
       "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        },
-        {
-          "name": "RAIN",
-          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
-        }
-      ],
-      "duration_ms": 174232,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP"
+    },
+    {
+      "added_at": "2026-01-15 23:00:24",
+      "album": {
         "name": "Complicit",
         "url": "https://open.spotify.com/album/77FzzNEtt65KNobFAasmfM"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
+        "name": "Two Cents",
+        "url": "https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW"
       },
       "artists": [
         {
-          "name": "Lavils",
-          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP"
+      "duration_ms": 178137,
+      "name": "Two Cents",
+      "url": "https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1563,22 +1579,6 @@
       "duration_ms": 172410,
       "name": "Never Return",
       "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
-    },
-    {
-      "added_at": "2026-01-15 23:00:24",
-      "album": {
-        "name": "Two Cents",
-        "url": "https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 178137,
-      "name": "Two Cents",
-      "url": "https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq"
     },
     {
       "added_at": "2026-01-15 23:00:24",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-01-15 23:00:24",
       "album": {
-        "name": "Find My Lover",
-        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
       },
       "artists": [
         {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
         }
       ],
-      "duration_ms": 129013,
-      "name": "Find My Lover",
-      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
+      "duration_ms": 152727,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
     }
   ],
   "unique_name": "R&B Magic",

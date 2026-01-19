@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-303 songs - 17 hr 1 min
+310 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Connection](https://open.spotify.com/track/0cy0FndtWeAM8NVatgyHs3) | [Escape Plan](https://open.spotify.com/artist/7eruDo3XiHNOBh5Xc82LA3) | [Connection](https://open.spotify.com/album/0sYsRUL9146ldqKqzkiK87) | 7:15 | 2025-10-21 | 2026-01-05 |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-08 | 2025-12-01 |
 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 | 2025-11-22 | 2026-01-05 |
+| [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 | 2026-01-18 |  |
 | [Courtside](https://open.spotify.com/track/0RboKHUm0oq4oxzj1iSpxZ) | [mrj1ggy](https://open.spotify.com/artist/3BGUIB3F45xlpxXVHNZTrk) | [Courtside](https://open.spotify.com/album/6MUs9obnjquwWNqCmlhNgO) | 1:40 | 2025-11-18 | 2026-01-05 |
 | [CULTIST](https://open.spotify.com/track/2p0MRLv6SoGfL66JLp2vKa) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [CULTIST](https://open.spotify.com/album/2HH4A7x59P8IyiAWTYcwD9) | 2:50 | 2025-11-17 | 2026-01-05 |
 | [Culture Shock](https://open.spotify.com/track/5Jrc2c2Kp0EshetMSq4X3E) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Culture Shock](https://open.spotify.com/album/3mPqFAPHc5MCQeqKsdwE1J) | 1:50 | 2025-12-23 | 2026-01-15 |
@@ -138,6 +139,7 @@
 | [How to Disappear](https://open.spotify.com/track/63tCJRR4eC93oeqFvsWpLp) | [Kat MacKenzie](https://open.spotify.com/artist/17U9gqJry6GtFBLzX9vOpa) | [How to Disappear](https://open.spotify.com/album/5dxG3g6ljbZqoHhHMY5AdG) | 5:26 | 2025-10-30 | 2025-12-01 |
 | [How You Feeling](https://open.spotify.com/track/2TjThOBf6SGlE9ZP6X7K4V) | [Silvan P](https://open.spotify.com/artist/2FU9Ufxvue38MSjJ3I0cFK) | [How You Feeling](https://open.spotify.com/album/0wys4Xyc9v5fj81dmQC3Zh) | 3:53 | 2025-11-10 | 2025-12-01 |
 | [Hymn](https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC) | [Of House](https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u) | [Hymn](https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6) | 8:14 | 2025-12-24 | 2026-01-15 |
+| [I Am Myself](https://open.spotify.com/track/4epi22E8Nfxddq4sB3QmaL) | [Mc Lic](https://open.spotify.com/artist/1EsbQyIL0vr4ze4rKKVHoe), [7sete7](https://open.spotify.com/artist/201Meo78dft4fx9JCW9RwW) | [I Am Myself](https://open.spotify.com/album/1AKtzNNNJrLpSCmA3Coipz) | 2:27 | 2026-01-18 |  |
 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2025-12-22 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
@@ -183,6 +185,7 @@
 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2025-11-22 | 2026-01-05 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2026-01-04 |  |
 | [Mis miedos, mi terror](https://open.spotify.com/track/4yt8b2qgcSfE77EnmyMnue) | [Tekelinos](https://open.spotify.com/artist/6eQjn7wIob0mu1K7q7hZy0) | [Lluvia de Nuestras Realidades](https://open.spotify.com/album/323VD6i36aWnjVYOUKFLW2) | 3:32 | 2025-11-08 | 2025-12-01 |
+| [Mission](https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma) | [Splitter Conspiracy](https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7) | [Mission](https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh) | 3:03 | 2026-01-18 |  |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-01 | 2025-12-01 |
 | [MORE](https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a) | [Poppa Wafer](https://open.spotify.com/artist/6pdp6ZiucSXbdIF3Uu7kRU) | [Righteous Revelation 4](https://open.spotify.com/album/3H9OZxrzKPQ0jpNAphEdRB) | 2:10 | 2025-11-24 | 2026-01-05 |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-01-01 |  |
@@ -225,7 +228,9 @@
 | [Recognize](https://open.spotify.com/track/5EpZwXMWUCS3sLKBPpl7oJ) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 3:09 | 2025-11-10 | 2025-12-01 |
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 | 2026-01-05 |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
+| [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 |  |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 | 2026-01-05 |
+| [RUIN MY NIGHT](https://open.spotify.com/track/1K26NnEUacXVssx2VyN6Fw) | [KING TUT PROJECT](https://open.spotify.com/artist/49ZU77EBsUGTKXM7dLt9S6), [LIL GHETTI](https://open.spotify.com/artist/69n8TMKQqkLJo6JdppWe5r) | [RUIN MY NIGHT](https://open.spotify.com/album/2MIhhCkCjd7mbne3FHg0AI) | 3:32 | 2026-01-18 |  |
 | [Running Away](https://open.spotify.com/track/39tycuF0unuJqmzJw0EJqI) | [LUKAS R](https://open.spotify.com/artist/0exPooezHP0XsOH5KsQXx4) | [Running Away](https://open.spotify.com/album/40CBcKFeRq54eWM9HquVE8) | 3:22 | 2025-12-20 | 2026-01-15 |
 | [S.I.T.W](https://open.spotify.com/track/2XfnSLdry08chNzmBE6ZKO) | [JiuLing](https://open.spotify.com/artist/5R4qDx6PY8KuwUVv1cvumY) | [Something in the Water](https://open.spotify.com/album/65fQUzWkrBvAMJBO84gj9r) | 3:27 | 2025-12-22 | 2026-01-15 |
 | [SAFE SPACE](https://open.spotify.com/track/5inf6KBpzOAEjEJLeJf0jH) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:00 | 2026-01-06 |  |
@@ -256,6 +261,7 @@
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |
 | [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-12-04 | 2026-01-05 |
 | [That Girl](https://open.spotify.com/track/0ckv5piv2C88O9zejIsY4V) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k), [Swaggboss](https://open.spotify.com/artist/5lCK0L28sGSnogU6t1Y6KG) | [That Girl](https://open.spotify.com/album/1ZVgF25vYEIAn9jA1C3rIQ) | 3:29 | 2025-11-01 | 2025-12-01 |
+| [That's Crazy](https://open.spotify.com/track/6MUBkK6vyUfEIkzn7cuawW) | [LingoLive](https://open.spotify.com/artist/7lcc5XvNqm84iaWPyLqZji) | [That's Crazy](https://open.spotify.com/album/4o4xmW92QSyghsbmrORDdX) | 2:59 | 2026-01-18 |  |
 | [The Best](https://open.spotify.com/track/3h4AGD1ov5A3MQvm6Yq9eQ) | [Abanny](https://open.spotify.com/artist/4i9kor3ZKQGq6B1GIhclrx) | [The Best](https://open.spotify.com/album/7v5en12K7q4GaJYFzWxHHH) | 2:28 | 2025-11-10 | 2025-12-01 |
 | [THE HEAT](https://open.spotify.com/track/1ACm87Fnd6ZFTLApCDxy70) | [TESHEA SOUL](https://open.spotify.com/artist/3ztTKXVVM22GWaTAspU2Ws) | [DAYDREAM](https://open.spotify.com/album/6BRskXafHlWiagqmLP6NgK) | 2:55 | 2025-12-20 | 2026-01-15 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 | 2026-01-05 |
@@ -310,6 +316,7 @@
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |
+| [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-18 |  |
 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 | 2026-01-03 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 383561,
+  "num_followers": 383605,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1111,34 +1111,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Beggars & Ballers (feat. Jay Nash, Tony Lucca & Matt Duke)",
-        "url": "https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34"
-      },
-      "artists": [
-        {
-          "name": "TFDI",
-          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
-        },
-        {
-          "name": "Jay Nash",
-          "url": "https://open.spotify.com/artist/0c4o7xzZw62JwRpACfEV6P"
-        },
-        {
-          "name": "Tony Lucca",
-          "url": "https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC"
-        },
-        {
-          "name": "Matt Duke",
-          "url": "https://open.spotify.com/artist/1mGfXwS6yIvwZOPLQ8sdEL"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Maybe I Should Go (feat. Jay Nash, Tony Lucca & Matt Duke)",
-      "url": "https://open.spotify.com/track/59sMueQV9xmGFYbhsm9tS3"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Down and Out in the Garden of Earthly Delights",
         "url": "https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY"
       },
@@ -1167,6 +1139,34 @@
       "duration_ms": 167658,
       "name": "Moment in Time",
       "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Beggars & Ballers (feat. Jay Nash, Tony Lucca & Matt Duke)",
+        "url": "https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34"
+      },
+      "artists": [
+        {
+          "name": "TFDI",
+          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
+        },
+        {
+          "name": "Jay Nash",
+          "url": "https://open.spotify.com/artist/0c4o7xzZw62JwRpACfEV6P"
+        },
+        {
+          "name": "Tony Lucca",
+          "url": "https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC"
+        },
+        {
+          "name": "Matt Duke",
+          "url": "https://open.spotify.com/artist/1mGfXwS6yIvwZOPLQ8sdEL"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Maybe I Should Go (feat. Jay Nash, Tony Lucca & Matt Duke)",
+      "url": "https://open.spotify.com/track/59sMueQV9xmGFYbhsm9tS3"
     },
     {
       "added_at": "2024-07-05 21:33:59",

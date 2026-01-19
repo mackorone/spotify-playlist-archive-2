@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 187887,
+  "num_followers": 187899,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "Buscando a Paz",
+        "url": "https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        },
+        {
+          "name": "W2B Music",
+          "url": "https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "Buscando a Paz",
+      "url": "https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Te Agrade\u00e7o",
         "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 157384,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "Buscando a Paz",
-        "url": "https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        },
-        {
-          "name": "W2B Music",
-          "url": "https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr"
-        }
-      ],
-      "duration_ms": 159095,
-      "name": "Buscando a Paz",
-      "url": "https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -999,10 +999,14 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Sangue",
-        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
+        "name": "Melhores Dias",
+        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
       "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
         {
           "name": "Z\u00c9ZIIN",
           "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
@@ -1010,15 +1014,11 @@
         {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 173548,
-      "name": "Sangue",
-      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
+      "duration_ms": 159069,
+      "name": "Melhores Dias",
+      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -1067,14 +1067,10 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Melhores Dias",
-        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
       "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
         {
           "name": "Z\u00c9ZIIN",
           "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
@@ -1082,11 +1078,15 @@
         {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 159069,
-      "name": "Melhores Dias",
-      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
+      "duration_ms": 173548,
+      "name": "Sangue",
+      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "Irris\u00f3rio",
+        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Irris\u00f3rio",
+      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1255,26 +1287,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Sem a Sua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Clerick",
-          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
-        }
-      ],
-      "duration_ms": 185072,
-      "name": "Sem a Sua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Lesgo",
         "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
@@ -1295,22 +1307,6 @@
       "duration_ms": 204210,
       "name": "Lesgo",
       "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
-      },
-      "artists": [
-        {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -1359,6 +1355,34 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
+      },
+      "artists": [
+        {
+          "name": "Igor PPrata",
+          "url": "https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh"
+        },
+        {
+          "name": "Kenedy Gomes",
+          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
+        },
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 237108,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Love Sangre",
         "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
       },
@@ -1399,34 +1423,6 @@
       "duration_ms": 131785,
       "name": "Profeta",
       "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
-      },
-      "artists": [
-        {
-          "name": "Igor PPrata",
-          "url": "https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh"
-        },
-        {
-          "name": "Kenedy Gomes",
-          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
-        },
-        {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 237108,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Irris\u00f3rio",
-        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+        "name": "Sem a Sua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
       },
       "artists": [
         {
           "name": "shiso",
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Clerick",
+          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
         }
       ],
-      "duration_ms": 146750,
-      "name": "Irris\u00f3rio",
-      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
+      "duration_ms": 185072,
+      "name": "Sem a Sua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2025-12-19 03:01:33",

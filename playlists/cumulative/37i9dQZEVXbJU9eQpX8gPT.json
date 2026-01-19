@@ -3420,6 +3420,24 @@
     {
       "album": {
         "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/51gEzeNUtsdJrLB87NoHE5"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0GbxtTOP0qTlL2M12yJqJg"
+    },
+    {
+      "album": {
+        "name": "B.M.S (by my side)",
         "url": "https://open.spotify.com/album/0f8ThJb81vjn9zQ5lQLS6w"
       },
       "artists": [
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 125467,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/4hmz5NBcB4WCvrVDqUibPI"
@@ -4252,7 +4270,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 197466,
       "name": "BGHAWNI",
       "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
@@ -8660,7 +8678,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 175000,
       "name": "De quoi",
       "url": "https://open.spotify.com/track/6q5NIbriDuG8MX9udQIbYq"
@@ -13530,7 +13548,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 167111,
       "name": "Ha Wlidi",
       "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
@@ -27824,7 +27842,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 191723,
       "name": "Quand elle danse",
       "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"

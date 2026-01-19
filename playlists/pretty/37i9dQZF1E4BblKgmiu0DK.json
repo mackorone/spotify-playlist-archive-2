@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Democracy Don't Die Quiet",
+        "url": "https://open.spotify.com/album/3NwJX8T9MvtyxuEY9zHhnc"
+      },
+      "artists": [
+        {
+          "name": "Lilith Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2QGh2nTXO9UEUogmecBM9U"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Democracy Don't Die Quiet",
+      "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good For December",
         "url": "https://open.spotify.com/album/2IdfFW8izAnyUU8qCtp219"
       },
@@ -43,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "duration_ms": 87433,
+      "name": "Plugged in Riot",
+      "url": "https://open.spotify.com/track/3DnirJo3W10Zq2lERV2FvK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gravity Falls",
         "url": "https://open.spotify.com/album/17ToyTerw0TEsUcJwBlnzn"
       },
@@ -55,38 +87,6 @@
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slick Tsunami",
-        "url": "https://open.spotify.com/album/3OhcvQIAaw41Q6D7IQkRdQ"
-      },
-      "artists": [
-        {
-          "name": "Susanna Pullan",
-          "url": "https://open.spotify.com/artist/2c7axsFa8vxRkjyvtzdnqo"
-        }
-      ],
-      "duration_ms": 188784,
-      "name": "Automatic Confidence",
-      "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Democracy Don't Die Quiet",
-        "url": "https://open.spotify.com/album/3NwJX8T9MvtyxuEY9zHhnc"
-      },
-      "artists": [
-        {
-          "name": "Lilith Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2QGh2nTXO9UEUogmecBM9U"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Democracy Don't Die Quiet",
-      "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
     },
     {
       "added_at": null,
@@ -139,98 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "nunca ando deciado",
-        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+        "name": "Part Of You",
+        "url": "https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC"
       },
       "artists": [
         {
-          "name": "blazingfairis",
-          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+          "name": "ASEA",
+          "url": "https://open.spotify.com/artist/5eRltBx78ejSeDjotwu2o6"
         }
       ],
-      "duration_ms": 87433,
-      "name": "Plugged in Riot",
-      "url": "https://open.spotify.com/track/3DnirJo3W10Zq2lERV2FvK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Purple Garlic",
-        "url": "https://open.spotify.com/album/4xBTmVXIuNVYZIT3wC9XDc"
-      },
-      "artists": [
-        {
-          "name": "flyzhe",
-          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
-        }
-      ],
-      "duration_ms": 242472,
-      "name": "Purple Celery",
-      "url": "https://open.spotify.com/track/30FV0B9p34EAt9qcZFkRBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NIVEA Young Music compilation",
-        "url": "https://open.spotify.com/album/17G9PQh01M2hgWt61b54pw"
-      },
-      "artists": [
-        {
-          "name": "Renee Cassar",
-          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Beat Backwards",
-      "url": "https://open.spotify.com/track/6H3YZW5aRxzZliGJjb0vlw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/4UFHO4O8Cu0PziKNkVaEMc"
-      },
-      "artists": [
-        {
-          "name": "Velvet Rebellion",
-          "url": "https://open.spotify.com/artist/6bmHwapdVkl8LMts4cKBms"
-        }
-      ],
-      "duration_ms": 209018,
-      "name": "Empowerment Code (Reprise)",
-      "url": "https://open.spotify.com/track/2dTbm4BrSQGIZ4JfHiEFjj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Much More",
-        "url": "https://open.spotify.com/album/5ihxC232FTZETQjQ7r5gLK"
-      },
-      "artists": [
-        {
-          "name": "Funky Uncle Charlies Kittens",
-          "url": "https://open.spotify.com/artist/0WvvSRkfVDtAnZ0TRCjs2c"
-        }
-      ],
-      "duration_ms": 229484,
-      "name": "How Much More",
-      "url": "https://open.spotify.com/track/3qonuZK4AphPDd6lCcHFog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Foggy Swells",
-        "url": "https://open.spotify.com/album/5XQlt6LNVMgVCLWbOLQQEb"
-      },
-      "artists": [
-        {
-          "name": "EchoSteelWarrior",
-          "url": "https://open.spotify.com/artist/7meTxHox5p8upNRO7aVoxK"
-        }
-      ],
-      "duration_ms": 125660,
-      "name": "Foggy Swells",
-      "url": "https://open.spotify.com/track/2H5DpeH0VXigLvVyJB8OEj"
+      "duration_ms": 203167,
+      "name": "Part Of You",
+      "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
     },
     {
       "added_at": null,
@@ -267,34 +187,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purple Spinach",
-        "url": "https://open.spotify.com/album/3m8XOTaulsYQuHCtx5T7We"
+        "name": "i miss when monsters were only shadows",
+        "url": "https://open.spotify.com/album/3RQhc4ECZgmOJ97tWvxJAe"
       },
       "artists": [
         {
-          "name": "flyzhe",
-          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
         }
       ],
-      "duration_ms": 254592,
-      "name": "Purple Olive",
-      "url": "https://open.spotify.com/track/55QpXM5WAAfq9G1nuFPK8G"
+      "duration_ms": 169498,
+      "name": "steve",
+      "url": "https://open.spotify.com/track/78F6PP91NbxIBsxYZ6jgBg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Part Of You",
-        "url": "https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC"
+        "name": "Foggy Swells",
+        "url": "https://open.spotify.com/album/5XQlt6LNVMgVCLWbOLQQEb"
       },
       "artists": [
         {
-          "name": "ASEA",
-          "url": "https://open.spotify.com/artist/5eRltBx78ejSeDjotwu2o6"
+          "name": "EchoSteelWarrior",
+          "url": "https://open.spotify.com/artist/7meTxHox5p8upNRO7aVoxK"
         }
       ],
-      "duration_ms": 203167,
-      "name": "Part Of You",
-      "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
+      "duration_ms": 125660,
+      "name": "Foggy Swells",
+      "url": "https://open.spotify.com/track/2H5DpeH0VXigLvVyJB8OEj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Much More",
+        "url": "https://open.spotify.com/album/5ihxC232FTZETQjQ7r5gLK"
+      },
+      "artists": [
+        {
+          "name": "Funky Uncle Charlies Kittens",
+          "url": "https://open.spotify.com/artist/0WvvSRkfVDtAnZ0TRCjs2c"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "How Much More",
+      "url": "https://open.spotify.com/track/3qonuZK4AphPDd6lCcHFog"
     },
     {
       "added_at": null,
@@ -315,6 +251,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "NIVEA Young Music compilation",
+        "url": "https://open.spotify.com/album/17G9PQh01M2hgWt61b54pw"
+      },
+      "artists": [
+        {
+          "name": "Renee Cassar",
+          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Beat Backwards",
+      "url": "https://open.spotify.com/track/6H3YZW5aRxzZliGJjb0vlw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "duration_ms": 157718,
+      "name": "Neon Thrash",
+      "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Spinach",
+        "url": "https://open.spotify.com/album/3m8XOTaulsYQuHCtx5T7We"
+      },
+      "artists": [
+        {
+          "name": "flyzhe",
+          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+        }
+      ],
+      "duration_ms": 169991,
+      "name": "Purple Pepper",
+      "url": "https://open.spotify.com/track/4yChIOsxLjpVDFVqqdP9Af"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/47hVdPk2RrfC20PEHMoak9"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lance's Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/4Yosd4fcngns8WSUw6S3MU"
+      },
+      "artists": [
+        {
+          "name": "Darth Kanga",
+          "url": "https://open.spotify.com/artist/1RTcEa37Sbi9AU5sWV1vi8"
+        }
+      ],
+      "duration_ms": 211599,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/2EbRxELUPwAwsXtOJXa5tF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live and Learn",
         "url": "https://open.spotify.com/album/63YcHtmt0Y7DfM4E6UJs97"
       },
@@ -343,6 +343,278 @@
       "duration_ms": 212973,
       "name": "Live and Learn",
       "url": "https://open.spotify.com/track/3h9ZD4Z1faqKZzTJlDO2a9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/49BS8UnsIYvoudjSdIMqRs"
+      },
+      "artists": [
+        {
+          "name": "Nathan Weber",
+          "url": "https://open.spotify.com/artist/7DCMovDjNJMTyfEyhcPfge"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Gods",
+      "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "duration_ms": 111433,
+      "name": "Flexrage Circuit",
+      "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Spinach",
+        "url": "https://open.spotify.com/album/3m8XOTaulsYQuHCtx5T7We"
+      },
+      "artists": [
+        {
+          "name": "flyzhe",
+          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+        }
+      ],
+      "duration_ms": 254592,
+      "name": "Purple Olive",
+      "url": "https://open.spotify.com/track/55QpXM5WAAfq9G1nuFPK8G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariner Martyr",
+        "url": "https://open.spotify.com/album/3PilCI7uyaroVbuRtWIkoa"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6\u016bp",
+          "url": "https://open.spotify.com/artist/6ZrKy7CVo3mT7J3O8RdOqd"
+        }
+      ],
+      "duration_ms": 273769,
+      "name": "Mariner Martyr",
+      "url": "https://open.spotify.com/track/4ZGNrkCqvABwa99rnTOddZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/03MrfjrQ90HqsIl22wvBro"
+      },
+      "artists": [
+        {
+          "name": "JADIEL MUSK",
+          "url": "https://open.spotify.com/artist/3DBo3ySb74Qk2BKAcTAQ9j"
+        }
+      ],
+      "duration_ms": 183530,
+      "name": "Ugly Lights",
+      "url": "https://open.spotify.com/track/01Dh4x0x0zcKfVuTdLmToe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/4UFHO4O8Cu0PziKNkVaEMc"
+      },
+      "artists": [
+        {
+          "name": "Velvet Rebellion",
+          "url": "https://open.spotify.com/artist/6bmHwapdVkl8LMts4cKBms"
+        }
+      ],
+      "duration_ms": 209018,
+      "name": "Empowerment Code (Reprise)",
+      "url": "https://open.spotify.com/track/2dTbm4BrSQGIZ4JfHiEFjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellhound",
+        "url": "https://open.spotify.com/album/55TTAGCih6EKMAwmzVFieu"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Rayne",
+          "url": "https://open.spotify.com/artist/4CwMs8jUAM2yLTsruhYmpU"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Hellhound",
+      "url": "https://open.spotify.com/track/12HqMjib07q7A5oUuICcTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "duration_ms": 70290,
+      "name": "Savage Flex Riot",
+      "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My husband is a whale",
+        "url": "https://open.spotify.com/album/6IucpNK71PtwU3ksBlqJyF"
+      },
+      "artists": [
+        {
+          "name": "flyzhe",
+          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+        }
+      ],
+      "duration_ms": 205008,
+      "name": "My husband is a rabbit",
+      "url": "https://open.spotify.com/track/1hJiyIosppX1yWHRwEiBYB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superbeautifulmonster",
+        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
+      },
+      "artists": [
+        {
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+        }
+      ],
+      "duration_ms": 164389,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 211941,
+      "name": "I'm Just A Girl",
+      "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slick Tsunami",
+        "url": "https://open.spotify.com/album/3OhcvQIAaw41Q6D7IQkRdQ"
+      },
+      "artists": [
+        {
+          "name": "Susanna Pullan",
+          "url": "https://open.spotify.com/artist/2c7axsFa8vxRkjyvtzdnqo"
+        }
+      ],
+      "duration_ms": 188784,
+      "name": "Automatic Confidence",
+      "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stark",
+        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark waves",
+        "url": "https://open.spotify.com/album/0fSKQEiufV5jJ6hqmtLFzN"
+      },
+      "artists": [
+        {
+          "name": "Ms Vampire",
+          "url": "https://open.spotify.com/artist/1PDiQz2FHEDn1rDKW0WOWP"
+        }
+      ],
+      "duration_ms": 172639,
+      "name": "Dark waves",
+      "url": "https://open.spotify.com/track/0uVU62hPkak4JLXJ6O0ER6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Garlic",
+        "url": "https://open.spotify.com/album/4xBTmVXIuNVYZIT3wC9XDc"
+      },
+      "artists": [
+        {
+          "name": "flyzhe",
+          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+        }
+      ],
+      "duration_ms": 242472,
+      "name": "Purple Celery",
+      "url": "https://open.spotify.com/track/30FV0B9p34EAt9qcZFkRBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "duration_ms": 159433,
+      "name": "Neon Blaze Riot",
+      "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Dead Honey",
+      "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
     },
     {
       "added_at": null,
@@ -367,114 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purple Spinach",
-        "url": "https://open.spotify.com/album/3m8XOTaulsYQuHCtx5T7We"
+        "name": "Whack My Bum, Daddy",
+        "url": "https://open.spotify.com/album/5ciVXEiifCZfimyl23imvP"
       },
       "artists": [
         {
-          "name": "flyzhe",
-          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+          "name": "koaskeiki",
+          "url": "https://open.spotify.com/artist/6GtnHg9KmhBadM1zo9gQ54"
         }
       ],
-      "duration_ms": 241080,
-      "name": "Purple Lettuce",
-      "url": "https://open.spotify.com/track/6NNoOfN0j3JeXH4ywR4i8u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Dreamscape",
-        "url": "https://open.spotify.com/album/7dphmHfM1QCmKr2MYvlfGb"
-      },
-      "artists": [
-        {
-          "name": "Elena Cole",
-          "url": "https://open.spotify.com/artist/6DNlbOo5TdV1LGKvFIwyzL"
-        }
-      ],
-      "duration_ms": 265272,
-      "name": "Rebel's Anthem",
-      "url": "https://open.spotify.com/track/7xj0VbrnmCpFOUsVT3UyNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/6JzIFDiEZXXaQVRvwtdJmG"
-      },
-      "artists": [
-        {
-          "name": "Static Palm Ritual",
-          "url": "https://open.spotify.com/artist/4sssNlLJSAIhiwMrVSHp9M"
-        }
-      ],
-      "duration_ms": 125447,
-      "name": "Paper Hearts",
-      "url": "https://open.spotify.com/track/61YKvyGlDZ88m3HItDDolZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full of Hate",
-        "url": "https://open.spotify.com/album/0mP35D4ldWOZqRZps7a4np"
-      },
-      "artists": [
-        {
-          "name": "Ciclobeat",
-          "url": "https://open.spotify.com/artist/1XuTB7ixrbW3YSTMcI0QJN"
-        }
-      ],
-      "duration_ms": 171279,
-      "name": "Full of Hate",
-      "url": "https://open.spotify.com/track/784dUX0QsFOPg9gNI1U3E2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/49BS8UnsIYvoudjSdIMqRs"
-      },
-      "artists": [
-        {
-          "name": "Nathan Weber",
-          "url": "https://open.spotify.com/artist/7DCMovDjNJMTyfEyhcPfge"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Gods",
-      "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellhound",
-        "url": "https://open.spotify.com/album/55TTAGCih6EKMAwmzVFieu"
-      },
-      "artists": [
-        {
-          "name": "Jordyn Rayne",
-          "url": "https://open.spotify.com/artist/4CwMs8jUAM2yLTsruhYmpU"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Hellhound",
-      "url": "https://open.spotify.com/track/12HqMjib07q7A5oUuICcTs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Purple Spinach",
-        "url": "https://open.spotify.com/album/3m8XOTaulsYQuHCtx5T7We"
-      },
-      "artists": [
-        {
-          "name": "flyzhe",
-          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
-        }
-      ],
-      "duration_ms": 169991,
-      "name": "Purple Pepper",
-      "url": "https://open.spotify.com/track/4yChIOsxLjpVDFVqqdP9Af"
+      "duration_ms": 194999,
+      "name": "Whack My Bum, Daddy",
+      "url": "https://open.spotify.com/track/6nfBxcngs6kplTtMvn7093"
     },
     {
       "added_at": null,
@@ -495,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Purple Spinach",
+        "url": "https://open.spotify.com/album/3m8XOTaulsYQuHCtx5T7We"
+      },
+      "artists": [
+        {
+          "name": "flyzhe",
+          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Purple Lettuce",
+      "url": "https://open.spotify.com/track/6NNoOfN0j3JeXH4ywR4i8u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "nunca ando deciado",
         "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
@@ -504,47 +696,15 @@
           "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
         }
       ],
-      "duration_ms": 157718,
-      "name": "Neon Thrash",
-      "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
+      "duration_ms": 90861,
+      "name": "Hustle Mode Engage",
+      "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Whack My Bum, Daddy",
-        "url": "https://open.spotify.com/album/5ciVXEiifCZfimyl23imvP"
-      },
-      "artists": [
-        {
-          "name": "koaskeiki",
-          "url": "https://open.spotify.com/artist/6GtnHg9KmhBadM1zo9gQ54"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Whack My Bum, Daddy",
-      "url": "https://open.spotify.com/track/6nfBxcngs6kplTtMvn7093"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
       },
       "artists": [
         {
@@ -552,201 +712,57 @@
           "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 211941,
-      "name": "I'm Just A Girl",
-      "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
+      "duration_ms": 182426,
+      "name": "Miss Americvnt",
+      "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My husband is a whale",
-        "url": "https://open.spotify.com/album/6IucpNK71PtwU3ksBlqJyF"
+        "name": "Vida Rapida",
+        "url": "https://open.spotify.com/album/2YgvFe5WUdw3xoLOP1BUuS"
       },
       "artists": [
         {
-          "name": "flyzhe",
-          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
+          "name": "EchoQueen",
+          "url": "https://open.spotify.com/artist/386VOv5kGfvFaXYgHA1146"
         }
       ],
-      "duration_ms": 205008,
-      "name": "My husband is a rabbit",
-      "url": "https://open.spotify.com/track/1hJiyIosppX1yWHRwEiBYB"
+      "duration_ms": 132919,
+      "name": "Por Qu\u00e9 Demoras",
+      "url": "https://open.spotify.com/track/1KlDR4QHGK8TW5LOvoLCBH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dark waves",
-        "url": "https://open.spotify.com/album/0fSKQEiufV5jJ6hqmtLFzN"
+        "name": "Destructo Doll",
+        "url": "https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW"
       },
       "artists": [
         {
-          "name": "Ms Vampire",
-          "url": "https://open.spotify.com/artist/1PDiQz2FHEDn1rDKW0WOWP"
+          "name": "Cassie Steele",
+          "url": "https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X"
         }
       ],
-      "duration_ms": 172639,
-      "name": "Dark waves",
-      "url": "https://open.spotify.com/track/0uVU62hPkak4JLXJ6O0ER6"
+      "duration_ms": 178466,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Love Shot",
-        "url": "https://open.spotify.com/album/02tIYo7EneLIHiRFBWxgUy"
+        "name": "Bruised",
+        "url": "https://open.spotify.com/album/1qZVy50X9AZMobem2R1mXz"
       },
       "artists": [
         {
-          "name": "real silent bloom",
-          "url": "https://open.spotify.com/artist/4J1y5ZnqxWz2QuJkrEjkHQ"
+          "name": "Chasing Mallory",
+          "url": "https://open.spotify.com/artist/26fQx9oPTpQj5fs1IDUXms"
         }
       ],
-      "duration_ms": 146735,
-      "name": "Love Shot",
-      "url": "https://open.spotify.com/track/0liKzWoH4y2QVRTJeRB5dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/03MrfjrQ90HqsIl22wvBro"
-      },
-      "artists": [
-        {
-          "name": "JADIEL MUSK",
-          "url": "https://open.spotify.com/artist/3DBo3ySb74Qk2BKAcTAQ9j"
-        }
-      ],
-      "duration_ms": 183530,
-      "name": "Ugly Lights",
-      "url": "https://open.spotify.com/track/01Dh4x0x0zcKfVuTdLmToe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Superbeautifulmonster",
-        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
-      },
-      "artists": [
-        {
-          "name": "Bif Naked",
-          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
-        }
-      ],
-      "duration_ms": 164389,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nunca ando deciado",
-        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
-      },
-      "artists": [
-        {
-          "name": "blazingfairis",
-          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
-        }
-      ],
-      "duration_ms": 111433,
-      "name": "Flexrage Circuit",
-      "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My husband is a whale",
-        "url": "https://open.spotify.com/album/6IucpNK71PtwU3ksBlqJyF"
-      },
-      "artists": [
-        {
-          "name": "flyzhe",
-          "url": "https://open.spotify.com/artist/14qd1L2kM7akXqP6KZ45bz"
-        }
-      ],
-      "duration_ms": 221688,
-      "name": "My husband is a tiger",
-      "url": "https://open.spotify.com/track/4qR2EGNRoF24YtmpZwKEOU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feral By Choice",
-        "url": "https://open.spotify.com/album/5osFKToPWtS1XAazsafbr9"
-      },
-      "artists": [
-        {
-          "name": "The Nine-Tails Archive",
-          "url": "https://open.spotify.com/artist/0tSOQPrqmnSZtoyu7mlvv2"
-        }
-      ],
-      "duration_ms": 209839,
-      "name": "Born to Howl (Forced to Work)",
-      "url": "https://open.spotify.com/track/6l51Ge3qMuz16GEZStVDYq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kings of the Abyss",
-        "url": "https://open.spotify.com/album/3Hh7bokdFvQDvW9qoKfdBj"
-      },
-      "artists": [
-        {
-          "name": "Echo DaviD jj Rocks",
-          "url": "https://open.spotify.com/artist/5YDC5vAm4fnfdj8Al7WsUa"
-        }
-      ],
-      "duration_ms": 116198,
-      "name": "Echoes of the Underworld",
-      "url": "https://open.spotify.com/track/1RfK4I3vO2gJHV1xIHIFaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHEDELIC PHASER",
-        "url": "https://open.spotify.com/album/5rDxZxRkfvRbfUHKwzEGDC"
-      },
-      "artists": [
-        {
-          "name": "Rockard Mavrix Bennettix",
-          "url": "https://open.spotify.com/artist/2AB2zhocdIX1FXc2xjQUIa"
-        }
-      ],
-      "duration_ms": 120020,
-      "name": "Hypnotic Nebula",
-      "url": "https://open.spotify.com/track/5PBXJGfycyxRjOYsJGn8JR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dollyrots",
-        "url": "https://open.spotify.com/album/2BBGdCOmI2y2VhDvAjVxSZ"
-      },
-      "artists": [
-        {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "Because I'm Awesome (2012)",
-      "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nunca ando deciado",
-        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
-      },
-      "artists": [
-        {
-          "name": "blazingfairis",
-          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
-        }
-      ],
-      "duration_ms": 70290,
-      "name": "Savage Flex Riot",
-      "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
+      "duration_ms": 201596,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/6zn1sTKFMyiPCoAYQyVc7I"
     },
     {
       "added_at": null,
@@ -767,34 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Retreat",
-        "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
       "artists": [
         {
-          "name": "Orion Cross",
-          "url": "https://open.spotify.com/artist/33qC2xJy3CTPODbQkSkehy"
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
         }
       ],
-      "duration_ms": 261071,
-      "name": "Fuel the Storm",
-      "url": "https://open.spotify.com/track/2kKJtM8NETOVmNPuPqZd8w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liquid Logic",
-        "url": "https://open.spotify.com/album/6NpLeLaTsVaNL9sb6rTDiB"
-      },
-      "artists": [
-        {
-          "name": "Georgina Jurd",
-          "url": "https://open.spotify.com/artist/3MlCbbOOrs8vwgZh6xqqgr"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "Phase Transition",
-      "url": "https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm"
+      "duration_ms": 159433,
+      "name": "Turborage Flow",
+      "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 191240,
-      "name": "Dead Honey",
-      "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
+      "duration_ms": 162226,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
     }
   ],
   "unique_name": "Renee Cassar Radio",

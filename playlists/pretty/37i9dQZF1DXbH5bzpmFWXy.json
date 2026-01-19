@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dani Flow & Nfasis en portada.",
-  "num_followers": 289285,
+  "num_followers": 289289,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "Abayarde",
+      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "Abayarde",
-      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
     },
     {
       "added_at": "2026-01-02 06:00:23",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "Lamine Yamal",
-        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 163378,
-      "name": "Lamine Yamal",
-      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "The Essential Cypress Hill",
         "url": "https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 276413,
       "name": "Lowrider",
       "url": "https://open.spotify.com/track/0JFBf2PloRfMkPg5DjXhDx"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "Lamine Yamal",
+        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 163378,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
     },
     {
       "added_at": "2026-01-02 06:00:23",

@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Goodboys, Local Singles and Ryan Shepherd",
-  "num_followers": 268497,
+  "num_followers": 268514,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -811,6 +811,34 @@
       "duration_ms": 155624,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
+        }
+      ],
+      "duration_ms": 125625,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -943,34 +971,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Amira Eldine",
-          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
-        }
-      ],
-      "duration_ms": 125625,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "SPIRAL",
         "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "take your vibes and go",
         "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Same Day Cleaning",
-        "url": "https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 171521,
-      "name": "Match My Mood",
-      "url": "https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
@@ -1343,6 +1319,50 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "Same Day Cleaning",
+        "url": "https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 171521,
+      "name": "Match My Mood",
+      "url": "https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Faded (Blacklizt Version)(HNTR Remix)",
+        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Faded (Blacklizt Version) - HNTR Remix",
+      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -1367,22 +1387,54 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Faded (Blacklizt Version)(HNTR Remix)",
-        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
       },
       "artists": [
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 193005,
-      "name": "Faded (Blacklizt Version) - HNTR Remix",
-      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Fight Machine (feat. NAIIM)",
+        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "NAIIM",
+          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Fight Machine (feat. NAIIM)",
+      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -1451,26 +1503,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Entwined (feat. Grimes)",
-      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "GOLDEN GOOSE",
         "url": "https://open.spotify.com/album/3kGph3xbohiCNsRQs2cjpL"
       },
@@ -1523,38 +1555,6 @@
       "duration_ms": 143379,
       "name": "Wavey",
       "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Fight Machine (feat. NAIIM)",
-        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        },
-        {
-          "name": "Eli & Dani",
-          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
-        },
-        {
-          "name": "NAIIM",
-          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Fight Machine (feat. NAIIM)",
-      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/4TupQBftGajUoFQrw9Z0CS"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 172901,
       "name": "Again? Fuck.",
       "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/4TupQBftGajUoFQrw9Z0CS"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Curry Goat",
-        "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Solesky",
-          "url": "https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw"
-        }
-      ],
-      "duration_ms": 139064,
-      "name": "Curry Goat",
-      "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "gImmE gImmE",
         "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
@@ -2103,6 +2083,26 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Curry Goat",
+        "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Solesky",
+          "url": "https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw"
+        }
+      ],
+      "duration_ms": 139064,
+      "name": "Curry Goat",
+      "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Deadcrow",
-          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
-        }
-      ],
-      "duration_ms": 173616,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
       },
@@ -2371,6 +2351,26 @@
       "duration_ms": 173793,
       "name": "Torch",
       "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
     },
     {
       "added_at": "2026-01-16 05:00:27",

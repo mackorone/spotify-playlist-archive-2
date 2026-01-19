@@ -26445,6 +26445,24 @@
     },
     {
       "album": {
+        "name": "Here We Go! (Steeler Fight Song 2025-2026 Season)",
+        "url": "https://open.spotify.com/album/6iGoySNxB6z8Jv4vhnJgtm"
+      },
+      "artists": [
+        {
+          "name": "Roger Wood",
+          "url": "https://open.spotify.com/artist/5Sdcs9qxQ28udmAk4Ngv71"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171917,
+      "name": "Here We Go! (Steeler Fight Song 2025-2026 Season)",
+      "url": "https://open.spotify.com/track/4jJ4obXsgbEDxTRgpD11RG"
+    },
+    {
+      "album": {
         "name": "Why Lawd?",
         "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
       },
@@ -30614,7 +30632,7 @@
     {
       "album": {
         "name": "It's A Sin",
-        "url": "https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE"
+        "url": "https://open.spotify.com/album/6Coz2RxA3NX2BZKCn9Hzme"
       },
       "artists": [
         {
@@ -30625,6 +30643,24 @@
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280786,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
+    },
+    {
+      "album": {
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2026-01-19",
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
@@ -33808,6 +33844,24 @@
       "duration_ms": 216347,
       "name": "Last Time I Saw You",
       "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "album": {
+        "name": "Last Train to London",
+        "url": "https://open.spotify.com/album/0Gp9FL1cWMilwrVtlalcUx"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Last Train to London",
+      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
       "album": {
@@ -40392,7 +40446,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 193299,
       "name": "My Friend Max",
       "url": "https://open.spotify.com/track/460m8WStichQb9VVyXvlxa"
@@ -56336,7 +56390,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 232942,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0PBOXo6u13fM8hiwv701kW"

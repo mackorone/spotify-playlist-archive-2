@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: CARLANGAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,100 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,087 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 51 | [¿Todo esto para qué?](https://open.spotify.com/track/5hpLys2nnIiYN8Xe6cUoqg) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Alberdi](https://open.spotify.com/artist/0zO7bdIGAHVCPq2rjQKhoK) | [¿Todo esto para qué?](https://open.spotify.com/album/4iv52ufl7nHmxJD2rSrnlZ) | 3:05 |
 | 52 | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG) | 2:42 |
 | 53 | [Lo bien que suenas](https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Lo bien que suenas](https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy) | 3:30 |
-| 54 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
+| 54 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/5lVc7UgSfLe0ysWNaZRBWm) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
 | 55 | [El lago de mi pena](https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [El lago de mi pena](https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc) | 3:56 |
 | 56 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 |
 | 57 | [Nunca Me Parece Suficiente](https://open.spotify.com/track/1ivUBQ0Y3djdGAF5jbNcUJ) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Nunca Me Parece Suficiente](https://open.spotify.com/album/5lYGZ7HW3KEIhmax7KE3lz) | 2:52 |

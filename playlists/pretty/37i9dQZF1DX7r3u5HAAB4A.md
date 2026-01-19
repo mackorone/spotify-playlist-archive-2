@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Leigh\-Anne
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,218 likes - 115 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,269 likes - 115 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

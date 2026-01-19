@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 340744,
+  "num_followers": 340787,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
         "name": "Ac\u00fastico (Live)",
         "url": "https://open.spotify.com/album/5PAME5xiXlJgEGB95zsbhI"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
       },
       "artists": [
         {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+      "duration_ms": 253893,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
     },
     {
       "added_at": "2025-10-03 16:58:21",

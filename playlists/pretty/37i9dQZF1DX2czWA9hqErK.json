@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1331843,
+  "num_followers": 1331771,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Miss",
         "url": "https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 217700,
       "name": "Miss",
       "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 217237,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 217237,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 276437,
-      "name": "Guy Fawkes Tesco Dissociation",
-      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "damn, look at the view !",
         "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 217419,
       "name": "walking on air",
       "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 212043,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ"
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+      "duration_ms": 212043,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Sweet Nothings",
         "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 173000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     },
     {
       "added_at": "2025-12-31 13:31:08",

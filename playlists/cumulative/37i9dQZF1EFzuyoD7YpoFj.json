@@ -5744,10 +5744,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 180880,
       "name": "Kix",
       "url": "https://open.spotify.com/track/2fOr1nExb2DCxierltnBJy"
+    },
+    {
+      "album": {
+        "name": "The London Book Of The Dead",
+        "url": "https://open.spotify.com/album/70HZhEQ9ugOvQURLwWjE3c"
+      },
+      "artists": [
+        {
+          "name": "The Real Tuesday Weld",
+          "url": "https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Kix",
+      "url": "https://open.spotify.com/track/6s4nIOzHT88J33ISCDaT5n"
     },
     {
       "album": {

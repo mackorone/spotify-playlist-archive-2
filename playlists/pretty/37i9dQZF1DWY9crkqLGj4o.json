@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 444542,
+  "num_followers": 444574,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "Meu Mestre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Isabela Agustinho",
-          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
-        }
-      ],
-      "duration_ms": 286680,
-      "name": "Meu Mestre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
-    },
-    {
-      "added_at": "2025-10-06 18:09:09",
-      "album": {
         "name": "Sou Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 275110,
       "name": "Sou Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
+    },
+    {
+      "added_at": "2025-10-06 18:09:09",
+      "album": {
+        "name": "Meu Mestre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Isabela Agustinho",
+          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "Meu Mestre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -959,18 +959,22 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -995,22 +999,18 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 249266,
-      "name": "A Promessa",
-      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2025-10-06 18:09:09",
+      "album": {
         "name": "Fidelidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 330921,
       "name": "Fidelidade (Ao Vivo)",
       "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
-    },
-    {
-      "added_at": "2025-10-06 18:09:09",
-      "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "De Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
+        "name": "Ex\u00e9rcito de Deus",
+        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 275240,
-      "name": "De Manh\u00e3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
+      "duration_ms": 254186,
+      "name": "Ex\u00e9rcito de Deus",
+      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
     }
   ],
   "unique_name": "Louvando e Lou\u00e7a",

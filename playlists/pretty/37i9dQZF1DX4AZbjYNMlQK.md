@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,470 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,425 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 38 | [este diciembre.](https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [este diciembre.](https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI) | 3:02 |
 | 39 | [Santa Para Que Porfa](https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Santa Para Que Porfa](https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P) | 2:56 |
 | 40 | [Navidad](https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad](https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu) | 3:01 |
-| 41 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
-| 42 | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG) | 2:42 |
+| 41 | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG) | 2:42 |
+| 42 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 |
 | 43 | [Llegó La Navidad](https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [El Mix\-Tape De Santa](https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade) | 2:25 |
 | 44 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 45 | [Una Noche Especial](https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie), [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE) | [Una Noche Especial](https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd) | 3:09 |

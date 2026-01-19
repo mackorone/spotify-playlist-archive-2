@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 SI! BOOM! VOILÀ! in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,204 likes - 107 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,200 likes - 107 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

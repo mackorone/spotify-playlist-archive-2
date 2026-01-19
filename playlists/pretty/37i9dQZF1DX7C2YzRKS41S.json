@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 146103,
+  "num_followers": 146127,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 208219,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -459,6 +459,26 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "Um Ver\u00e3o Qualquer",
+        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
+      },
+      "artists": [
+        {
+          "name": "Versos Que Compomos Na Estrada",
+          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
+        },
+        {
+          "name": "Eu Me Chamo Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
+        }
+      ],
+      "duration_ms": 162214,
+      "name": "Minha Voz",
+      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "Menino de Papel",
         "url": "https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 176566,
       "name": "Menino de Papel",
       "url": "https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "Um Ver\u00e3o Qualquer",
-        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
-      },
-      "artists": [
-        {
-          "name": "Versos Que Compomos Na Estrada",
-          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
-        },
-        {
-          "name": "Eu Me Chamo Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
-        }
-      ],
-      "duration_ms": 162214,
-      "name": "Minha Voz",
-      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "A Encomenda da Minha Vida",
+        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "A Encomenda da Minha Vida",
+      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "A Encomenda da Minha Vida",
-        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 178644,
-      "name": "A Encomenda da Minha Vida",
-      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 177665,
-      "name": "Eu Sou Sentimental",
-      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
         "url": "https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 276870,
       "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
       "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 177665,
+      "name": "Eu Sou Sentimental",
+      "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
     },
     {
       "added_at": "2025-10-25 00:54:25",

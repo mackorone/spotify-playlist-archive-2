@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 223133,
       "name": "Kleine Jongen",
       "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
@@ -1508,6 +1508,24 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
+    },
+    {
+      "album": {
+        "name": "Lekker Lekker",
+        "url": "https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203799,
+      "name": "Pure Verleiding",
+      "url": "https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF"
     },
     {
       "album": {

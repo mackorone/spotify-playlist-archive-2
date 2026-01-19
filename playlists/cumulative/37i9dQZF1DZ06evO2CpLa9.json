@@ -2049,6 +2049,32 @@
     },
     {
       "album": {
+        "name": "Sangre Malandra",
+        "url": "https://open.spotify.com/album/0MZA8dGCq9F494Au3Vyf5S"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "THR Cru2",
+          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Sangre Malandra",
+      "url": "https://open.spotify.com/track/10NKRSt1URrU1zabH4rM61"
+    },
+    {
+      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
       },
@@ -2192,7 +2218,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"

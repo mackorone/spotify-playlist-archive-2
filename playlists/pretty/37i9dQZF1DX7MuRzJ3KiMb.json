@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104943,
+  "num_followers": 104935,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "len\u00e7\u00f3is maranhenses",
-        "url": "https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "len\u00e7\u00f3is maranhenses",
-      "url": "https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "la culpa (track 11)",
         "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 165120,
       "name": "la culpa (track 11)",
       "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "len\u00e7\u00f3is maranhenses",
+        "url": "https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "len\u00e7\u00f3is maranhenses",
+      "url": "https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 212382,
       "name": "Perdon Mama",
       "url": "https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Piedras a la Luna",
         "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/2yUOwF7IMhOrFt7agXwgXD"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Monster Truck",
-        "url": "https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 181821,
-      "name": "Monster Truck",
-      "url": "https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "4LIFE",
         "url": "https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 212091,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Monster Truck",
+        "url": "https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 181821,
+      "name": "Monster Truck",
+      "url": "https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "C.A.P.S",
+        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "No estaba tan mal",
+      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Quiz\u00e1 no es para tanto",
         "url": "https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 236130,
       "name": "pens\u00e9 en ti (feat. Caloncho)",
       "url": "https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "C.A.P.S",
-        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
-      },
-      "artists": [
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "No estaba tan mal",
-      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Full time papi",
+        "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Full time papi",
+      "url": "https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 153707,
       "name": "En Tu Marea",
       "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Full time papi",
-        "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Full time papi",
-      "url": "https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Auroras Boreales",
-        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
-      },
-      "artists": [
-        {
-          "name": "EESCA",
-          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
-        }
-      ],
-      "duration_ms": 278792,
-      "name": "Auroras Boreales",
-      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Trist\u00e1n, Ahora Con Reloj",
         "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 181573,
       "name": "Life Is A Movie",
       "url": "https://open.spotify.com/track/0ebYtltzMmXxHPVWBnRTqh"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Auroras Boreales",
+        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
+      },
+      "artists": [
+        {
+          "name": "EESCA",
+          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
+        }
+      ],
+      "duration_ms": 278792,
+      "name": "Auroras Boreales",
+      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "La Cruz De Mi Conciencia",
-        "url": "https://open.spotify.com/album/6vBoHwzDVVsXX0kTKxEJI8"
-      },
-      "artists": [
-        {
-          "name": "Vac\u00edos Cuerpos",
-          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
-        }
-      ],
-      "duration_ms": 216014,
-      "name": "Entre Sombras",
-      "url": "https://open.spotify.com/track/5PxpdL4bx14onNU1BVlSrA"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "NO ACEPTEN IMITACIONES",
         "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+        "name": "La Cruz De Mi Conciencia",
+        "url": "https://open.spotify.com/album/6vBoHwzDVVsXX0kTKxEJI8"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Vac\u00edos Cuerpos",
+          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
         }
       ],
-      "duration_ms": 207949,
-      "name": "Leo tu mente",
-      "url": "https://open.spotify.com/track/73SHvPB1SxWxpblCkbWERn"
+      "duration_ms": 216014,
+      "name": "Entre Sombras",
+      "url": "https://open.spotify.com/track/5PxpdL4bx14onNU1BVlSrA"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1691,34 +1675,18 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Invierno en la playa",
-        "url": "https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU"
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
       },
       "artists": [
         {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 277026,
-      "name": "Visita guiada",
-      "url": "https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "GRANADA",
-        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 139136,
-      "name": "GRANADA",
-      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
+      "duration_ms": 207949,
+      "name": "Leo tu mente",
+      "url": "https://open.spotify.com/track/73SHvPB1SxWxpblCkbWERn"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1739,6 +1707,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Invierno en la playa",
+        "url": "https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Visita guiada",
+      "url": "https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "LOVE BUSINESS",
         "url": "https://open.spotify.com/album/3jO5lAAkeEWUzPF9TWyUeM"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 207801,
       "name": "PERTENECER",
       "url": "https://open.spotify.com/track/3ahgcq09Cc7CXwDkYQxOfq"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "GRANADA",
+        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 139136,
+      "name": "GRANADA",
+      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
     },
     {
       "added_at": "2025-12-03 13:16:51",

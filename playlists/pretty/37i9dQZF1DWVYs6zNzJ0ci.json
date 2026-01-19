@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Manuel Turizo.",
-  "num_followers": 1176412,
+  "num_followers": 1176299,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "C\u00f3mo Te Hago Entender",
         "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 254705,
-      "name": "Antonia",
-      "url": "https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
       },
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/2lHqCDEvSpdiww6pd6ddHU"
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
       "artists": [
         {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 262105,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/0M1pjIYNUMRuZJaA2P9h5l"
+      "duration_ms": 254705,
+      "name": "Antonia",
+      "url": "https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1539,6 +1519,26 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/2lHqCDEvSpdiww6pd6ddHU"
+      },
+      "artists": [
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 262105,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/0M1pjIYNUMRuZJaA2P9h5l"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1571,26 +1571,6 @@
       "duration_ms": 183626,
       "name": "Besos Para Ti",
       "url": "https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "Loco Por Volverla a Ver",
-        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 272189,
-      "name": "Loco Por Volverla a Ver",
-      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1635,6 +1615,26 @@
       "duration_ms": 198238,
       "name": "Uma Brasileira",
       "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Loco Por Volverla a Ver",
+        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 272189,
+      "name": "Loco Por Volverla a Ver",
+      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1763,26 +1763,18 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Lo que piensen de mi",
-        "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
+        "name": "Como Un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
       },
       "artists": [
         {
-          "name": "Mistah Godeh",
-          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
-        },
-        {
-          "name": "Andy Frenx",
-          "url": "https://open.spotify.com/artist/34pd6mO7aMX2ty89nVgHIi"
-        },
-        {
-          "name": "Di BassBoss Musik",
-          "url": "https://open.spotify.com/artist/0gBCxRx0JT3CtkD2UkMRqN"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 206794,
-      "name": "Lo que piensen de mi",
-      "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
+      "duration_ms": 227265,
+      "name": "Como Un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1807,18 +1799,26 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Como Un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
+        "name": "Lo que piensen de mi",
+        "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "Mistah Godeh",
+          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
+        },
+        {
+          "name": "Andy Frenx",
+          "url": "https://open.spotify.com/artist/34pd6mO7aMX2ty89nVgHIi"
+        },
+        {
+          "name": "Di BassBoss Musik",
+          "url": "https://open.spotify.com/artist/0gBCxRx0JT3CtkD2UkMRqN"
         }
       ],
-      "duration_ms": 227265,
-      "name": "Como Un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
+      "duration_ms": 206794,
+      "name": "Lo que piensen de mi",
+      "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Turbulencia o Paz",
-        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        }
-      ],
-      "duration_ms": 203889,
-      "name": "Turbulencia o Paz",
-      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 195156,
       "name": "Cocomango",
       "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Turbulencia o Paz",
+        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        }
+      ],
+      "duration_ms": 203889,
+      "name": "Turbulencia o Paz",
+      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

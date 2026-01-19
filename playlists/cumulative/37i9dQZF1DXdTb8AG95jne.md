@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 장수빈 \(Jang Soo Bin\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,210 songs - 3 day 1 hr 22 min
+1,212 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [\. \(dot\)](https://open.spotify.com/track/3l6kinplmg17FeTt0vcCgs) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 2](https://open.spotify.com/album/6Fm4QPV0EY1yKCcOs7GmAB) | 3:40 | 2025-03-04 | 2025-04-10 |
 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2025-09-25 | 2025-10-15 |
 | [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 | 2025-05-27 |
-| [1 Chance](https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [The Myth Of Sisyphus](https://open.spotify.com/album/5IjWMwBYlFaRoPKh4aFdX4) | 4:04 | 2025-11-06 |  |
+| [1 Chance](https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [The Myth Of Sisyphus](https://open.spotify.com/album/5IjWMwBYlFaRoPKh4aFdX4) | 4:04 | 2025-11-06 | 2026-01-19 |
 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 | 2025-05-07 | 2025-09-12 |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
@@ -421,6 +421,7 @@
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-07-27 | 2024-04-19 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2021-12-12 | 2022-07-25 |
 | [Haute](https://open.spotify.com/track/14jEON4mqnJOclBOORrEMy) | [sueun](https://open.spotify.com/artist/0rStncdtq6ZiVoeCwjGPZ2) | [9 ways to say "I Love You"](https://open.spotify.com/album/5ncCGQypYgjQSyftbcGs29) | 3:52 | 2022-03-31 | 2022-04-07 |
+| [Hazard Course \(feat\. mei ehara\)](https://open.spotify.com/track/74UQERYjLFUVVkIIj7pwqP) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Hazard Course \(feat\. mei ehara\)](https://open.spotify.com/album/7tXzWoZGNzOppuIV8B2Iau) | 4:12 | 2026-01-19 |  |
 | [Heart](https://open.spotify.com/track/73aUjezd8PBHyNrW5lJ8C9) | [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [Heart](https://open.spotify.com/album/3pisk7bLoTZREoNooWkZZU) | 2:32 | 2025-09-01 | 2025-10-02 |
 | [Heart of Gold](https://open.spotify.com/track/7M42ZcNZ3jVzYvZYm0QpkV) | [Twomyung](https://open.spotify.com/artist/6uENO0HTR2Tt1sZzQmPKst), [Trickyneko](https://open.spotify.com/artist/5UNMeC6UjnNmJRkpVZJsHd), [howaho](https://open.spotify.com/artist/4lEQCDab4fOSiY7r0SlOhi) | [Heart of Gold](https://open.spotify.com/album/6Ty9ExLhYQHOwN8re6QmMF) | 3:36 | 2022-03-31 | 2022-04-05 |
 | [Heavy Going \- Single Ver.](https://open.spotify.com/track/2o3wx46DLWC0kUiS6js2OJ) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Heavy Going](https://open.spotify.com/album/0YFFUQOr36O0gobK7vyuQd) | 4:04 | 2024-04-30 | 2024-05-10 |
@@ -583,7 +584,7 @@
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 | 2025-03-15 |
 | [Like me, Love me, and](https://open.spotify.com/track/6nTdhFncoiNoJ0eCSoI3s1) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Love me please](https://open.spotify.com/album/4SYPc5CQpm9ER2mzBNGYsi) | 3:52 | 2025-12-04 |  |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
-| [Like the Sea, Like the River](https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Like the Sea, Like the River](https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod) | 4:09 | 2025-11-19 |  |
+| [Like the Sea, Like the River](https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Like the Sea, Like the River](https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod) | 4:09 | 2025-11-19 | 2026-01-19 |
 | [Like today \(feat\. untell\)](https://open.spotify.com/track/10vUa2rFZmfA3WKmML7qye) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [MINGLE: 'Like today'](https://open.spotify.com/album/4xoSoQdnLy4DSwYR2vmZoG) | 2:28 | 2025-04-30 | 2025-05-19 |
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-31 | 2022-04-19 |
 | [Little Drama](https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Bonfire](https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5) | 3:29 | 2024-11-29 | 2025-02-07 |
@@ -904,6 +905,7 @@
 | [Snow in Seoul](https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Snow in Seoul](https://open.spotify.com/album/1XbTgdcRQ4ss531LtZdXX7) | 4:29 | 2021-12-21 | 2022-07-28 |
 | [Snowborn](https://open.spotify.com/track/0ceFVr2rbxgwLvdJRD7MfE) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Snowborn](https://open.spotify.com/album/4YoqPeAfWSjXBqntTzoO6k) | 3:36 | 2025-06-13 | 2025-06-27 |
 | [snowman](https://open.spotify.com/track/2lOZ5ha2t7YBf3tKRvd0aC) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [snowman](https://open.spotify.com/album/6QJktjy7f9BcLYVHIO1Mud) | 3:35 | 2024-11-20 | 2025-01-31 |
+| [Snowman](https://open.spotify.com/track/0GlY38o6uDGJfUKsgjHjYw) | [Sunsat](https://open.spotify.com/artist/1KaWoXImlq0WXfUrjNUtgC) | [Snowman](https://open.spotify.com/album/33uuiSMbEOHVXnciW8bDfv) | 4:42 | 2026-01-19 |  |
 | [snowy](https://open.spotify.com/track/6CvWQquXQ4gYmuBQbXyX0D) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [snowy](https://open.spotify.com/album/2VhVv8z0XjYvNktTZUf684) | 3:49 | 2025-11-17 |  |
 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 | 2024-07-01 | 2025-07-23 |
 | [So long](https://open.spotify.com/track/5orCdrOWNdA0K8SIFZCKfw) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [So long](https://open.spotify.com/album/7zHSAqsvCJw7uTWyPJbwCM) | 5:00 | 2024-04-30 | 2024-05-10 |

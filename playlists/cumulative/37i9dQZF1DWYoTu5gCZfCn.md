@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-108 songs - 6 hr 27 min
+112 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't Done Losing Yet](https://open.spotify.com/track/4L72ZizqSL74TLb3G7x0Le) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:18 | 2025-01-05 |  |
 | [All Around Cowboy](https://open.spotify.com/track/7sxsVZz3ngXIE5tZ1ea0qa) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 2:57 | 2025-12-21 |  |
 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2024-11-17 |  |
+| [Bad Habits and Good Horses](https://open.spotify.com/track/2VveGKXPV0mQrPli6EW2y7) | [Julianna Rankin](https://open.spotify.com/artist/0uAP95LA0OzjTjVuiJN95v) | [Bad Habits and Good Horses](https://open.spotify.com/album/4X4MHujlBrmYpaAQzbbGG8) | 3:34 | 2026-01-18 |  |
 | [Bad Medicine](https://open.spotify.com/track/08tIZEQ7lyJQv4tqhxUXx4) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 5:12 | 2024-11-17 |  |
 | [Bailazo](https://open.spotify.com/track/5Ha0N3HPC6CcziS8wfRUnP) | [Bang Data](https://open.spotify.com/artist/1z0s3ikCPDZcV6ppW7ER6b) | [Mucho Poco](https://open.spotify.com/album/5pChmvhk2CTx3BmKfx7wkW) | 3:30 | 2025-01-05 |  |
 | [Be Here](https://open.spotify.com/track/1UJyf5XutAz9SjUPt1hNJI) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:57 | 2025-12-21 |  |
@@ -36,6 +37,7 @@
 | [Devil's Den](https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Devil's Den](https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd) | 3:59 | 2025-09-26 |  |
 | [Do It To Myself](https://open.spotify.com/track/4Occbu4aDSZaTqroDgoVXP) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [These Days](https://open.spotify.com/album/5ahjwi58RobjdSbthDocHd) | 2:50 | 2025-11-30 |  |
 | [Do Ya](https://open.spotify.com/track/08g9iSOHHQescaaWuAsQAQ) | [Belle Frantz](https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL) | [Do Ya \(From the Paramount+ Original Series Landman\)](https://open.spotify.com/album/4SVaLazHRMj7v0Oydgrzvm) | 3:39 | 2025-09-26 |  |
+| [Do\-Si\-Don'tcha](https://open.spotify.com/track/2rSs8KpVa1J0b32guNWdoZ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Last Call](https://open.spotify.com/album/1rGKTqvXH0muLAbvZGH8Vo) | 3:01 | 2026-01-18 |  |
 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 | 2025-12-28 |  |
 | [Drink That Strong](https://open.spotify.com/track/0NAi9qwmYJg0urPEgkAqLP) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 4:08 | 2025-12-14 |  |
 | [Drunken Sailor](https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Drunken Sailor](https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo) | 2:56 | 2025-12-14 |  |
@@ -57,6 +59,7 @@
 | [Hunt You Down](https://open.spotify.com/track/6ks9ln2vMb5XIO3e4ncoRh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:24 | 2024-11-24 |  |
 | [i blame the bar](https://open.spotify.com/track/3AqTDfGgH2jrTVTS1EUux7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:57 | 2024-12-01 |  |
 | [I Found Blue](https://open.spotify.com/track/3cweXeXQunad7Jq4gtjqXa) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/5HRneEK33Bxvqc19ZcSRqZ) | 3:37 | 2025-09-26 |  |
+| [I Got To Move](https://open.spotify.com/track/7kVOhWhKc2lPAliOxthIqn) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whomp Whack Thunder](https://open.spotify.com/album/2aR3LbCAYgpurZIgyjBlOs) | 4:10 | 2026-01-18 |  |
 | [If Today Doesn't Do Me In](https://open.spotify.com/track/1zpEaer4WQnovwP4OfOOE8) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 3:57 | 2024-12-15 |  |
 | [Jackpot](https://open.spotify.com/track/7d3vlZE6v7rRULhwgknEBK) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3) | 3:33 | 2026-01-04 |  |
 | [Keep Up With Jones](https://open.spotify.com/track/0EkhflOs3xn0pPnn9fGawo) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-12-22 |  |
@@ -73,6 +76,7 @@
 | [Mean Old Sun](https://open.spotify.com/track/1DFAVRFF65zqaOUQtLoEtx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:08 | 2024-11-17 |  |
 | [Midland After Midnight](https://open.spotify.com/track/7k5lFpunUyqCVFs6kT7Pfe) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Midland After Midnight \(From Paramount + Original Series “Landman”\)](https://open.spotify.com/album/4mQaw4ELX4S6TXLyrj7LMd) | 3:57 | 2025-09-26 |  |
 | [Moment of Truth](https://open.spotify.com/track/714tF0Vt9ohC9uWwEyIRAo) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 5:39 | 2024-12-22 |  |
+| [Needle Fall Down](https://open.spotify.com/track/4dpqG6dRTVCis43cXiKmEl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/2a0WpuqyjACGd5VmXflGu7) | 3:17 | 2026-01-18 |  |
 | [Neon & Off](https://open.spotify.com/track/2btwLUidUoOusavbTdcs0s) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/0HVOnM5SIfxb4ph3Syagha) | 3:51 | 2025-01-05 |  |
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2024-11-17 |  |
 | [No Way Out \- Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)](https://open.spotify.com/track/5VrFKCrqnqA7qh7K36xyMf) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [No Way Out \[Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)\]](https://open.spotify.com/album/1C6Ns0UQdEpTYWQqsDdPHP) | 2:30 | 2025-12-15 |  |

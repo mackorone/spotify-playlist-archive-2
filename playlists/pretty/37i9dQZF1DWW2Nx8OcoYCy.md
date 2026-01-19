@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,482 likes - 89 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,481 likes - 89 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 88 | [So Nice \(Summer Samba\)](https://open.spotify.com/track/2tWBZI1WvBNaUzA7e8jzHW) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Samba '68](https://open.spotify.com/album/19WrrsIWF3vAOqk24ovaU7) | 2:31 |
 | 89 | [Get Free](https://open.spotify.com/track/1bdcSgElwygcyfl5LJtn7K) | [Wojtek Mazolewski Quintet](https://open.spotify.com/artist/4daN0QKE6JqPnvLvrzC9zT), [Wojtek Mazolewski](https://open.spotify.com/artist/6ybyG9khjfNI0rslYCXyHK) | [Polka](https://open.spotify.com/album/78ixfX0FUl3keuO6aZn7My) | 5:22 |
 
-Snapshot ID: `AAAAAC7tOxJqK/NfLXbyKGH09HWH4Pk+`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

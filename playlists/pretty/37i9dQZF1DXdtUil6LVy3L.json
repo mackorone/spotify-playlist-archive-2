@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 40055,
+  "num_followers": 40018,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Holly Jolly Christmas",
-        "url": "https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd"
-      },
-      "artists": [
-        {
-          "name": "Mauro Meira",
-          "url": "https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "O Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 177874,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd"
+      },
+      "artists": [
+        {
+          "name": "Mauro Meira",
+          "url": "https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "I Heard the Bells on Christmas Day",
-        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 149940,
-      "name": "I Heard the Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Christmas Love",
         "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 193500,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
     },
     {
       "added_at": "2025-12-19 14:32:05",

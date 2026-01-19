@@ -4269,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "The Bloomfields",
+        "url": "https://open.spotify.com/album/17675v1WFduEKG9WV1iolH"
+      },
+      "artists": [
+        {
+          "name": "The Bloomfields",
+          "url": "https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Ale",
+      "url": "https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd"
+    },
+    {
+      "album": {
         "name": "Manolya",
         "url": "https://open.spotify.com/album/0oeODqaFflMsXFnEOIQjqF"
       },
@@ -7264,6 +7282,24 @@
     {
       "album": {
         "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/51gEzeNUtsdJrLB87NoHE5"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0GbxtTOP0qTlL2M12yJqJg"
+    },
+    {
+      "album": {
+        "name": "B.M.S (by my side)",
         "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
       },
       "artists": [
@@ -7292,7 +7328,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 125467,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/4hmz5NBcB4WCvrVDqUibPI"
@@ -16842,7 +16878,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -39824,7 +39860,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 192500,
       "name": "\u0130ntiha\u015fk",
       "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA"
@@ -50168,7 +50204,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 213906,
       "name": "Maraton",
       "url": "https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh"
@@ -55726,6 +55762,24 @@
     {
       "album": {
         "name": "The Reminder",
+        "url": "https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
         "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
       "artists": [
@@ -55736,7 +55790,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -58012,6 +58066,28 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "album": {
+        "name": "THE SIN : VANISH",
+        "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "No Way Back (Feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
     },
     {
       "album": {
@@ -76765,6 +76841,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2HBUhieiceu40d9dvyJ7fY"
       },
@@ -82174,6 +82272,24 @@
     {
       "album": {
         "name": "theclubrock",
+        "url": "https://open.spotify.com/album/4upEx9M0b73bqjeiej0Prp"
+      },
+      "artists": [
+        {
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122188,
+      "name": "theclubrock",
+      "url": "https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN"
+    },
+    {
+      "album": {
+        "name": "theclubrock",
         "url": "https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc"
       },
       "artists": [
@@ -82184,7 +82300,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"

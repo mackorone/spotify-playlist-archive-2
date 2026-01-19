@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 71102,
+  "num_followers": 71112,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-12-15 17:55:02",
       "album": {
+        "name": "amor n\u00e3o \u00e9 suficiente",
+        "url": "https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "amor n\u00e3o \u00e9 suficiente",
+      "url": "https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW"
+    },
+    {
+      "added_at": "2025-12-15 17:55:02",
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 245714,
       "name": "Meu I\u00f4 I\u00f4",
       "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2025-12-15 17:55:02",
-      "album": {
-        "name": "amor n\u00e3o \u00e9 suficiente",
-        "url": "https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "amor n\u00e3o \u00e9 suficiente",
-      "url": "https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW"
     },
     {
       "added_at": "2025-12-15 17:55:02",

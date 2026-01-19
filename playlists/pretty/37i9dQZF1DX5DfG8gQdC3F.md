@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from A$AP Rocky, Baby Nova, Madison Beer, Charlie Puth, Mitski, Megan Moroney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,087 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,055 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

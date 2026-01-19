@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 459839,
+  "num_followers": 459984,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Ezequiel 47 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/68PwebAgE0leiFR2KKgiPH"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brito",
+          "url": "https://open.spotify.com/artist/2cPZP8k1AfSggcUQz9H8BR"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 545920,
+      "name": "Ezequiel 47 - Ao Vivo",
+      "url": "https://open.spotify.com/track/193wb5ugpQBN13sIEzXyn8"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Acalma o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 294457,
       "name": "Castelo Forte - Ao Vivo",
       "url": "https://open.spotify.com/track/3rY3TNiZAvSZoIcxniDROl"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Ezequiel 47 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/68PwebAgE0leiFR2KKgiPH"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brito",
-          "url": "https://open.spotify.com/artist/2cPZP8k1AfSggcUQz9H8BR"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 545920,
-      "name": "Ezequiel 47 - Ao Vivo",
-      "url": "https://open.spotify.com/track/193wb5ugpQBN13sIEzXyn8"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Filho do Homem",
-        "url": "https://open.spotify.com/album/6Jpo32Eydd58JyX8HzA0b1"
+        "name": "Minh'alma Engrandece ao Senhor / Adorado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4MkBBQMxmYrJ1lCkmzMqzw"
       },
       "artists": [
         {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        },
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
         }
       ],
-      "duration_ms": 429346,
-      "name": "Vem Habitar",
-      "url": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp"
+      "duration_ms": 454408,
+      "name": "Minh'alma Engrandece ao Senhor / Adorado - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RrDi7nGS8OapfGymSMClE"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1499,38 +1503,18 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Minh'alma Engrandece ao Senhor / Adorado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4MkBBQMxmYrJ1lCkmzMqzw"
+        "name": "Filho do Homem",
+        "url": "https://open.spotify.com/album/6Jpo32Eydd58JyX8HzA0b1"
       },
       "artists": [
         {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        },
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
         }
       ],
-      "duration_ms": 454408,
-      "name": "Minh'alma Engrandece ao Senhor / Adorado - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RrDi7nGS8OapfGymSMClE"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "L\u00e1grimas de Vit\u00f3ria (Ao Vivo em Salvador)",
-        "url": "https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 275409,
-      "name": "L\u00e1grimas de Vit\u00f3ria - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD"
+      "duration_ms": 429346,
+      "name": "Vem Habitar",
+      "url": "https://open.spotify.com/track/1FDIMAX5iHWzygoJwDTHHp"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1547,6 +1531,22 @@
       "duration_ms": 170000,
       "name": "Era a M\u00e3o de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "L\u00e1grimas de Vit\u00f3ria (Ao Vivo em Salvador)",
+        "url": "https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 275409,
+      "name": "L\u00e1grimas de Vit\u00f3ria - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Como Flecha",
         "url": "https://open.spotify.com/album/6J2OuC6XT3qsuyCdmkMYv2"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 345856,
       "name": "Como Flecha",
       "url": "https://open.spotify.com/track/3ovUBNU4EAo9gzlt0fk9lM"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "20 Anos de Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Toque no Altar",
+          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
+        }
+      ],
+      "duration_ms": 348433,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/1imz0t2ampTGxZRKCLTmFc"
       },
@@ -1783,50 +1803,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "20 Anos de Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Toque no Altar",
-          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
-        }
-      ],
-      "duration_ms": 348433,
-      "name": "Sobre As \u00c1guas",
-      "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Teus Altares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH"
-      },
-      "artists": [
-        {
-          "name": "Poiema Music",
-          "url": "https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf"
-        },
-        {
-          "name": "Andr\u00e9 Brisa",
-          "url": "https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun"
-        },
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 497272,
-      "name": "Teus Altares - Ao Vivo",
-      "url": "https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Seja o Centro (Ao Vivo)",
         "url": "https://open.spotify.com/album/0KFZgmEvp8coVby0ZBdpVN"
       },
@@ -1855,6 +1831,30 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Teus Altares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH"
+      },
+      "artists": [
+        {
+          "name": "Poiema Music",
+          "url": "https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf"
+        },
+        {
+          "name": "Andr\u00e9 Brisa",
+          "url": "https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 497272,
+      "name": "Teus Altares - Ao Vivo",
+      "url": "https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Grato Sou (Ao Vivo)",
         "url": "https://open.spotify.com/album/35PDmPnl0pVw7oW8FEmaNv"
       },
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "O Senhor, n\u00e3o os \u00eddolos",
+        "url": "https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "duration_ms": 618059,
+      "name": "O Senhor, n\u00e3o os \u00eddolos",
+      "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 367167,
       "name": "Verdadeira Adora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "O Senhor, n\u00e3o os \u00eddolos",
-        "url": "https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk"
-      },
-      "artists": [
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        }
-      ],
-      "duration_ms": 618059,
-      "name": "O Senhor, n\u00e3o os \u00eddolos",
-      "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Gratid\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Baptista",
-          "url": "https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49"
-        },
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Gratid\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Pela Gra\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/5sPvjEv9W6ax4tHwmM6dxr"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 386385,
       "name": "Pela Gra\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/5DOElICehd0dGvkWqYGfTB"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Gratid\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Baptista",
+          "url": "https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49"
+        },
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Gratid\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4"
     },
     {
       "added_at": "2026-01-08 18:41:25",

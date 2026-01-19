@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Toton Caribo
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,887 likes - 129 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,903 likes - 129 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

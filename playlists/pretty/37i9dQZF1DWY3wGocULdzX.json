@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 121246,
+  "num_followers": 121272,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "El Rey Del Mambo",
+        "url": "https://open.spotify.com/album/0uOqCrRJCMMcyArm5wsv78"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 128360,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/4jmFSkpcqLOUN6scGU6BOO"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "El Manisero",
         "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 169546,
       "name": "Sasauma - Mambo",
       "url": "https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "El Rey Del Mambo",
-        "url": "https://open.spotify.com/album/0uOqCrRJCMMcyArm5wsv78"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 128360,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/4jmFSkpcqLOUN6scGU6BOO"
     },
     {
       "added_at": "2024-07-12 19:25:11",

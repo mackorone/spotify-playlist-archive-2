@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1143,
+  "num_followers": 1150,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAKDfFWi2vW5YUgvOWBglNlHWnvXE70",
+  "snapshot_id": "AAAKEfeS21tblMxGR63UonKVzdjg8Ep4",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -5821,6 +5821,22 @@
       "url": "https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz"
     },
     {
+      "added_at": "2026-01-18 08:27:00",
+      "album": {
+        "name": "ego +",
+        "url": "https://open.spotify.com/album/6HB1GhSOGUp852lQCfnwFw"
+      },
+      "artists": [
+        {
+          "name": "mar\u023ch",
+          "url": "https://open.spotify.com/artist/6Vrp8TrWbYOIW7ErVD3mYf"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "ego +",
+      "url": "https://open.spotify.com/track/2NvZTOntxXFORfVK2eZqaF"
+    },
+    {
       "added_at": "2026-01-17 10:25:25",
       "album": {
         "name": "Lost Inside",
@@ -5883,6 +5899,54 @@
       "duration_ms": 205457,
       "name": "Magika",
       "url": "https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu"
+    },
+    {
+      "added_at": "2026-01-18 12:19:21",
+      "album": {
+        "name": "Ending Road",
+        "url": "https://open.spotify.com/album/7xw86FWnNqFzpxwI2ZzZMB"
+      },
+      "artists": [
+        {
+          "name": "AstroNutz",
+          "url": "https://open.spotify.com/artist/2iadTmele92Qy4lh6pxVUg"
+        }
+      ],
+      "duration_ms": 231059,
+      "name": "Ending Road",
+      "url": "https://open.spotify.com/track/42QNRaxholrUWb7WkLhvHC"
+    },
+    {
+      "added_at": "2026-01-18 22:22:50",
+      "album": {
+        "name": "Bombs of gold",
+        "url": "https://open.spotify.com/album/5e5tP7zpmtIdsGatruEwHe"
+      },
+      "artists": [
+        {
+          "name": "Calendar",
+          "url": "https://open.spotify.com/artist/650q1eIchkOugQlsJ4inNo"
+        }
+      ],
+      "duration_ms": 191760,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/4yl8xFEoCZYjpU9f1ksvRx"
+    },
+    {
+      "added_at": "2026-01-18 22:23:58",
+      "album": {
+        "name": "Demo Cracia",
+        "url": "https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe"
+      },
+      "artists": [
+        {
+          "name": "Ladr\u00e3o",
+          "url": "https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W"
+        }
+      ],
+      "duration_ms": 163140,
+      "name": "Pre\u00e7o",
+      "url": "https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf"
     }
   ],
   "unique_name": "Shuffle Roulette",

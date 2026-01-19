@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Pale Ontology",
+        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
+      },
+      "artists": [
+        {
+          "name": "Tom Markey",
+          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225781,
+      "name": "Aggravated Cultivation",
+      "url": "https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg"
       },
@@ -1498,6 +1516,24 @@
       "duration_ms": 217938,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp"
+    },
+    {
+      "album": {
+        "name": "A Night in Hollywood",
+        "url": "https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM"
+      },
+      "artists": [
+        {
+          "name": "leetham",
+          "url": "https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171732,
+      "name": "Lost My Head",
+      "url": "https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0"
     },
     {
       "album": {

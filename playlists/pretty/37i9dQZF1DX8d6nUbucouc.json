@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 64588,
+  "num_followers": 64603,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Zwarte Koffie",
+      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Documents (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+        "name": "Alleen Maar Nette Mensen",
+        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
       },
       "artists": [
         {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+          "name": "Hydroboyz",
+          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
         }
       ],
-      "duration_ms": 232880,
-      "name": "Zwarte Koffie",
-      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
+      "duration_ms": 265373,
+      "name": "Hindabuilding",
+      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -795,22 +811,6 @@
       "duration_ms": 314080,
       "name": "Wind Waait",
       "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Alleen Maar Nette Mensen",
-        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
-      },
-      "artists": [
-        {
-          "name": "Hydroboyz",
-          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Hindabuilding",
-      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -999,30 +999,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Artikel 140",
-        "url": "https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro"
+        "name": "De Avonturen...",
+        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
       },
       "artists": [
         {
-          "name": "THC",
-          "url": "https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r"
-        },
-        {
-          "name": "Rocks",
-          "url": "https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q"
-        },
-        {
-          "name": "RBDjan",
-          "url": "https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf"
-        },
-        {
-          "name": "Zuen",
-          "url": "https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5"
+          "name": "Extince",
+          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
         }
       ],
-      "duration_ms": 272773,
-      "name": "Wil je weten hoe et voelt",
-      "url": "https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx"
+      "duration_ms": 203609,
+      "name": "Spraakwater Lest De Dorst!",
+      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1047,18 +1035,30 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Avonturen...",
-        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
+        "name": "Artikel 140",
+        "url": "https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro"
       },
       "artists": [
         {
-          "name": "Extince",
-          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
+          "name": "THC",
+          "url": "https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r"
+        },
+        {
+          "name": "Rocks",
+          "url": "https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q"
+        },
+        {
+          "name": "RBDjan",
+          "url": "https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf"
+        },
+        {
+          "name": "Zuen",
+          "url": "https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5"
         }
       ],
-      "duration_ms": 203609,
-      "name": "Spraakwater Lest De Dorst!",
-      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
+      "duration_ms": 272773,
+      "name": "Wil je weten hoe et voelt",
+      "url": "https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx"
     },
     {
       "added_at": "2024-09-09 11:56:35",

@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19398,
+  "num_followers": 19404,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAACZRDRHn4wIlSPnv8cDkv3u",
+  "snapshot_id": "aWrRAAAAAABs8Z3fPgXYfBqDTMEeAsrX",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 518626,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 321786,
       "name": "Morning Light Silhouettes 2",
       "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 518626,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
     },
     {
       "added_at": null,

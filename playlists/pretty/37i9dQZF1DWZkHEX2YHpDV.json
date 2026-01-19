@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 444707,
+  "num_followers": 444689,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Wall",
-        "url": "https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 171049,
-      "name": "Wall",
-      "url": "https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Will You Love Me When I\u2019m Dead",
         "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 193798,
       "name": "Will You Love Me When I\u2019m Dead",
       "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Wall",
+        "url": "https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "Wall",
+      "url": "https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Dilworth",
-        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 203928,
-      "name": "Kill or be Killed",
-      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "WORLD vs PEACE",
         "url": "https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6"
       },
@@ -727,22 +711,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "blindfolded",
-        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "blindfolded",
-      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Why Would I Watch",
         "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 203928,
+      "name": "Kill or be Killed",
+      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc"
-      },
-      "artists": [
-        {
-          "name": "The Paradox",
-          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
-        }
-      ],
-      "duration_ms": 143581,
-      "name": "Leave My Room",
-      "url": "https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "DEADBEAT!",
         "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "WAS HERE",
-        "url": "https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG"
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
         }
       ],
-      "duration_ms": 195161,
-      "name": "NOSE BLEED",
-      "url": "https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W"
+      "duration_ms": 143581,
+      "name": "Leave My Room",
+      "url": "https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1027,6 +1007,26 @@
       "duration_ms": 193166,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "WAS HERE",
+        "url": "https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 152101,
       "name": "I See How It Is",
       "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Dark Magic",
         "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "only overnight",
+        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "only overnight",
+      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "SOULSUCKER",
         "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 272668,
       "name": "PIN-EYE",
       "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "only overnight",
-        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "only overnight",
-      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     }
   ],
   "unique_name": "The Scene",

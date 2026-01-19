@@ -18107,6 +18107,24 @@
     },
     {
       "album": {
+        "name": "Mi Mejor Yo",
+        "url": "https://open.spotify.com/album/0wDhgjnA5voHYiWqi84ZF0"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138143,
+      "name": "Mi Mejor Yo",
+      "url": "https://open.spotify.com/track/4uJI4ReR3zkM1Rc0RPt4f7"
+    },
+    {
+      "album": {
         "name": "Mi Mundo Entero",
         "url": "https://open.spotify.com/album/67zO4G01EisEJsHX4NGFKC"
       },

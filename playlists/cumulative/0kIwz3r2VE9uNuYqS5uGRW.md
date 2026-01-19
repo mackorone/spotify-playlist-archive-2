@@ -4,7 +4,7 @@
 
 > 
 
-141 songs - 7 hr 23 min
+144 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
 | [Classic](https://open.spotify.com/track/3rQ4SQmBLoW3bIqV4tqsvm) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Classic Favoritism](https://open.spotify.com/album/3ZQfefsjENuhY1bi2CqPMd) | 3:03 | 2025-04-14 |  |
+| [classic](https://open.spotify.com/track/02PTfaYBAzhskrltCoQKPN) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 3:07 | 2026-01-18 |  |
 | [CLOWN SH!T](https://open.spotify.com/track/5cJvmKkG9T2zDDYdpSoQq9) | [JAY DA LEGEND](https://open.spotify.com/artist/2Y4q60ShSZU925Xr6kY0Kf) | [CLOWN SH!T](https://open.spotify.com/album/79OjlrUvPkV5NvdUmSpD1p) | 2:53 | 2025-11-03 |  |
 | [Codependent](https://open.spotify.com/track/05917ao89O61nldOfgehAR) | [Jo Anna Van Thuyne](https://open.spotify.com/artist/6l2mMcQpYvxwUGJuPtUXbk) | [Codependent](https://open.spotify.com/album/6LnEjyTnyrc8n6M0mmChOD) | 4:18 | 2025-07-06 |  |
 | [Comin'](https://open.spotify.com/track/1sMc22zOorFtyglxQm1MBn) | [21Gatz](https://open.spotify.com/artist/0r0zw7gjmVZamJs9uY72Eb) | [Comin'](https://open.spotify.com/album/3NoLzPNXKprTlGRMDUlvHP) | 3:14 | 2025-04-10 |  |
@@ -83,6 +84,7 @@
 | [LEAN!](https://open.spotify.com/track/664DgklAT5Lo9Wrb6QXpdb) | [depthOblivious](https://open.spotify.com/artist/21o6YsaoKdb1Nwqj6jPbtk), [SIX KAY](https://open.spotify.com/artist/6mmiz77evce5uhUiL0VcGi), [Christ's Follower](https://open.spotify.com/artist/6uu11HELac3RX4GiGFmRXV) | [LEAN!](https://open.spotify.com/album/1BDq7h2zoZS60NJr0p3Ogd) | 1:25 | 2025-04-07 |  |
 | [Learning to Miss You](https://open.spotify.com/track/1yJ0t8Sf2TdkIj4Ye9pm7x) | [City Builders](https://open.spotify.com/artist/3U28N05cLVVNS1iW4NOA3A) | [Learning to Miss You](https://open.spotify.com/album/2sftCIduUO3KFOu8z1kOJI) | 3:19 | 2025-05-16 |  |
 | [lightspeed](https://open.spotify.com/track/4OEBTrZ4bUE3fUIcPdTqiB) | [JailBird Sage](https://open.spotify.com/artist/1vuRh9rOX23PMKyz4Aj0MB), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [indie princess](https://open.spotify.com/album/6ZA10YUMKPLMpWwB7sfMf3) | 2:02 | 2025-04-08 |  |
+| [Lisa](https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY) | [BEVIxPlanett](https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM) | [Lisa](https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs) | 2:37 | 2026-01-18 |  |
 | [Looking For Someone Else](https://open.spotify.com/track/1utWfzvkT6PKtaX2Bgtr3t) | [Yudiee](https://open.spotify.com/artist/0dNbGpKbJIlqywH7WOeBZi) | [Looking For Someone Else](https://open.spotify.com/album/1ZrVlTdpWzSJtUFSr78Smy) | 2:42 | 2025-03-12 |  |
 | [Love Aside](https://open.spotify.com/track/04P00jBNn198CWuLm0TSgb) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [Love Aside](https://open.spotify.com/album/3WQJCq2gk6DoRdwaWGJmQU) | 3:35 | 2025-04-07 |  |
 | [MEET U AT THE TOP](https://open.spotify.com/track/1Fb3OYey2JClP5kKei8B7m) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [THE CODE](https://open.spotify.com/album/1tPBYF7xveQtDPE9DJBqTe) | 2:28 | 2025-09-15 |  |
@@ -115,6 +117,7 @@
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
+| [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-04-14 |  |

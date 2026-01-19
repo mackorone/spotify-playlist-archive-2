@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 56 min
+107 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2024-01-29 |  |
 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 | 2024-01-29 | 2026-01-15 |
 | [ゴーイング・トゥ・カリフォルニア](https://open.spotify.com/track/0emHVNucvPkBSiFLyEaCHk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:07 | 2025-04-14 | 2025-04-15 |
+| [サムシング](https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [アクロス・ザ・ユニバース](https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3) | 4:36 | 2026-01-19 |  |
 | [ザ・ダンス](https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:33 | 2024-01-29 | 2025-05-19 |
 | [シックス・イン・ザ・モーニング](https://open.spotify.com/track/1FTCnDfJCbDiDXiYop4VQD) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ウォーキング・ダウン・レインヒル](https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6) | 3:48 | 2025-08-04 | 2025-12-27 |
 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 | 2024-10-11 |  |
@@ -110,7 +111,7 @@
 | [一期一会](https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [YEAH.](https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC) | 5:10 | 2024-03-24 | 2024-11-19 |
 | [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 | 2024-11-19 |  |
 | [渚](https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 4:09 | 2024-12-14 |  |
-| [粛々楽々](https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp) | [BEGIN](https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [粛々楽々](https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f) | 2:54 | 2024-01-29 |  |
+| [粛々楽々](https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp) | [BEGIN](https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [粛々楽々](https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f) | 2:54 | 2024-01-29 | 2026-01-19 |
 | [麒麟紀行 II](https://open.spotify.com/track/3Pod4WYXe26n9WsRg8hpQZ) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.2](https://open.spotify.com/album/2xmFyksW6zZ42keDRgw93N) | 1:37 | 2024-12-20 | 2024-12-25 |
 | [麒麟紀行 II](https://open.spotify.com/track/72Q3DO51uZPLUgZfH82i5H) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [麒麟紀行 II](https://open.spotify.com/album/0YJQHkhAEMRNCEEEeqvYeO) | 1:37 | 2025-02-26 | 2025-03-10 |
 | [麒麟紀行 III](https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.3](https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL) | 1:33 | 2024-01-29 | 2024-11-24 |

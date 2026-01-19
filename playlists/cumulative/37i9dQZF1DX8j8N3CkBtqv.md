@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Kanishk Seth, Kavita Seth, and other exciting artists.
 
-1,304 songs - 2 day 23 hr 20 min
+1,305 songs - 2 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [ahista](https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 3:29 | 2025-09-26 | 2025-12-05 |
 | [Ain't Like Me](https://open.spotify.com/track/11Ecuz9pbeML5CuluIw088) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Ain't Like Me](https://open.spotify.com/album/0otiNZRoLLu0VLkBvdzpqj) | 2:02 | 2024-05-31 | 2024-07-06 |
 | [Aise Kaise](https://open.spotify.com/track/0Ug3KGOo5jybEXGhdkazWo) | [Dimple Saikia](https://open.spotify.com/artist/6xVlnKfRctFcRDOYhmkHFS), [Bily & Akarsh](https://open.spotify.com/artist/3MWboBp80iV9GpGCeGKs02) | [Aise Kaise](https://open.spotify.com/album/0vDEn6yEjp4AqUiQkab66W) | 3:08 | 2023-11-10 | 2023-12-02 |
+| [Aise Na Humko](https://open.spotify.com/track/5PZyPpc0GfYfMTx6KmFK5i) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aise Na Humko](https://open.spotify.com/album/03B5hEkHkzXmE9nWaHWMZ3) | 3:16 | 2026-01-16 |  |
 | [Aisi Dooriyaan](https://open.spotify.com/track/4UCjicdxXa8AukOAANRFfX) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 3:41 | 2025-03-27 | 2025-05-03 |
 | [Aitbaar](https://open.spotify.com/track/3FV4KyYTCRgt9SYhVqi9ss) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [Aitbaar](https://open.spotify.com/album/0qS3hXrt4HizWoH0S6Icfq) | 2:38 | 2024-11-15 | 2024-12-21 |
 | [Ajnabee](https://open.spotify.com/track/7qH8uppXORP4UQvXGc9dNl) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Ajnabee](https://open.spotify.com/album/0iZDAWTdaX2HOk8J7CJ63i) | 2:54 | 2025-12-19 |  |
@@ -223,7 +224,7 @@
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-07-22 |
 | [Chal Pada](https://open.spotify.com/track/3oyzb1Hn3x202SwPUZO7lf) | [Rawnaq](https://open.spotify.com/artist/4zS0AxuZ0IKFBGb1hdTS3S) | [Chal Pada](https://open.spotify.com/album/5n5sA4koDtPoCqTOBooZO6) | 3:23 | 2023-04-14 | 2023-06-17 |
 | [Chali Aa](https://open.spotify.com/track/137G1XonNMheqR56AHKjO6) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Chali Aa](https://open.spotify.com/album/0Scrgj7ZxJi5rDOpGzrvMV) | 4:13 | 2024-02-02 | 2024-03-02 |
-| [Chalo Kahin Door](https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Chalo Kahin Door](https://open.spotify.com/album/1AlSnWJkH1ZmOpJSvW46KL) | 2:25 | 2026-01-16 |  |
+| [Chalo Kahin Door](https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Chalo Kahin Door](https://open.spotify.com/album/1AlSnWJkH1ZmOpJSvW46KL) | 2:25 | 2026-01-16 | 2026-01-19 |
 | [Chalte Huye](https://open.spotify.com/track/1KRGKsQNO6G6txFQsGCzls) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Neo Nazmein](https://open.spotify.com/album/3MPiSA9coEf9hpZCi4EiOS) | 3:49 | 2024-02-16 | 2024-03-16 |
 | [Chameli](https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chameli](https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16) | 3:30 | 2024-11-22 | 2025-03-08 |
 | [Chandni](https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG) | [Anmol A](https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb) | [Chandni](https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp) | 3:24 | 2025-08-15 | 2025-08-30 |

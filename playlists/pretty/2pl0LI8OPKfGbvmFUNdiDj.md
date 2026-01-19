@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 524 likes - 41 songs - 2 hr 22 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 524 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,12 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 39 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 |
 | 40 | [NEON](https://open.spotify.com/track/19KW2WQqr28EodAzjVDDAB) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:26 |
 | 41 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 |
+| 42 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 |
+| 43 | [I Am Myself](https://open.spotify.com/track/4epi22E8Nfxddq4sB3QmaL) | [Mc Lic](https://open.spotify.com/artist/1EsbQyIL0vr4ze4rKKVHoe), [7sete7](https://open.spotify.com/artist/201Meo78dft4fx9JCW9RwW) | [I Am Myself](https://open.spotify.com/album/1AKtzNNNJrLpSCmA3Coipz) | 2:27 |
+| 44 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 |
+| 45 | [Mission](https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma) | [Splitter Conspiracy](https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7) | [Mission](https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh) | 3:03 |
+| 46 | [RUIN MY NIGHT](https://open.spotify.com/track/1K26NnEUacXVssx2VyN6Fw) | [KING TUT PROJECT](https://open.spotify.com/artist/49ZU77EBsUGTKXM7dLt9S6), [LIL GHETTI](https://open.spotify.com/artist/69n8TMKQqkLJo6JdppWe5r) | [RUIN MY NIGHT](https://open.spotify.com/album/2MIhhCkCjd7mbne3FHg0AI) | 3:32 |
+| 47 | [That's Crazy](https://open.spotify.com/track/6MUBkK6vyUfEIkzn7cuawW) | [LingoLive](https://open.spotify.com/artist/7lcc5XvNqm84iaWPyLqZji) | [That's Crazy](https://open.spotify.com/album/4o4xmW92QSyghsbmrORDdX) | 2:59 |
+| 48 | [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 |
 
-Snapshot ID: `AAAC3H67lO8EsM7vMOltBBq2jmcymCCT`
+Snapshot ID: `AAAC4/CHF2ZIy9HFU9JAzQkvChiYkmkr`

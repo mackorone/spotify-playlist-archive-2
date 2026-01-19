@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 735746,
+  "num_followers": 735758,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACn12aTMRbKoZN6M+z0CoA5+j2MW",
+  "snapshot_id": "AAAAAGkKYn6aeZjzajRckdiW1Q2kLHfe",
   "tracks": [
     {
       "added_at": "2026-01-09 05:00:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-09 05:00:33",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2026-01-09 05:00:33",
-      "album": {
         "name": "Giving It All (To You)",
         "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 234333,
       "name": "Giving It All (To You)",
       "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:33",
+      "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2026-01-09 05:00:33",

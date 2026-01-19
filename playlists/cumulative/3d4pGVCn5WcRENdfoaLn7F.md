@@ -4,13 +4,14 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-163 songs - 9 hr 57 min
+165 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Do Not\) Whiz on the Electric Fence](https://open.spotify.com/track/5gzpY9y8AC7uJwVpSpxKZB) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [\(Do Not\) Whiz on the Electric Fence](https://open.spotify.com/album/61NiQOfnHvvh7XO0QevG6O) | 4:25 | 2026-01-17 |  |
 | [A Dream Goes Walking By](https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 5:13 | 2025-11-26 | 2025-12-28 |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-11 | 2025-12-06 |
+| [Aggravated Cultivation](https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Pale Ontology](https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6) | 3:45 | 2026-01-19 |  |
 | [Agujas](https://open.spotify.com/track/4E4xgatRQurGBlsXaKfp1z) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 3:45 | 2025-08-29 | 2026-01-05 |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 | 2026-01-17 |  |
@@ -90,6 +91,7 @@
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-05 |
 | [Lithium](https://open.spotify.com/track/4f6eNSvw58g7nm47pXtbMH) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:32 | 2026-01-01 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2025-11-20 | 2025-12-12 |
+| [Lost My Head](https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0) | [leetham](https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u) | [A Night in Hollywood](https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM) | 2:51 | 2026-01-19 |  |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 |  |
 | [Mead](https://open.spotify.com/track/3tdiSnYYRWia0X54OkAtZT) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 3:13 | 2025-12-22 |  |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-12-28 |  |

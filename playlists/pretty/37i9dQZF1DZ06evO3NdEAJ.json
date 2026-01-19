@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 53139,
+  "num_followers": 53141,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAABgPbsS415DhnL8bXVA7Lxp",
+  "snapshot_id": "aWrRAAAAAABgjEFLics4wtwTdWj5Bz7E",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ranchero Y Tosco",
-        "url": "https://open.spotify.com/album/3E7tqH38ZUbfspz2ayzC3s"
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
       },
       "artists": [
-        {
-          "name": "La Nueva Estrategia",
-          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
-        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 172600,
-      "name": "Lo Dice El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6nSMEQt4Ua2nvKovfMWIT7"
+      "duration_ms": 147328,
+      "name": "Cuento las Horas",
+      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
     },
     {
       "added_at": null,
@@ -279,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7.2",
-        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+        "name": "Ranchero Y Tosco",
+        "url": "https://open.spotify.com/album/3E7tqH38ZUbfspz2ayzC3s"
       },
       "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 147328,
-      "name": "Cuento las Horas",
-      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
+      "duration_ms": 172600,
+      "name": "Lo Dice El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6nSMEQt4Ua2nvKovfMWIT7"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intento Diez Mil",
+        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 149825,
+      "name": "Intento Diez Mil",
+      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Toca Hacer Lo Tuyo",
         "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 194432,
       "name": "Te Toca Hacer Lo Tuyo",
       "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intento Diez Mil",
-        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Intento Diez Mil",
-      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
     },
     {
       "added_at": null,

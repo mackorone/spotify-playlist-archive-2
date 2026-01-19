@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 341620,
+  "num_followers": 341627,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
+        "name": "Thinking 'bout You",
+        "url": "https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 140586,
+      "name": "Thinking 'bout You",
+      "url": "https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
         "name": "Images of Love (with Dominic Fike)",
         "url": "https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
-        "name": "Thinking 'bout You",
-        "url": "https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 140586,
-      "name": "Thinking 'bout You",
-      "url": "https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
         "name": "You got time and I got money",
         "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
       },
@@ -443,54 +443,6 @@
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
-        "name": "Anna Karenina",
-        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Anna Karenina",
-      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
-        "name": "Komu mia\u0142abym powiedzie\u0107?",
-        "url": "https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI"
-      },
-      "artists": [
-        {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Komu mia\u0142abym powiedzie\u0107?",
-      "url": "https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9"
     },
     {
       "added_at": "2026-01-16 13:26:27",
@@ -519,6 +471,54 @@
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
+        "name": "Anna Karenina",
+        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Anna Karenina",
+      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
+        "name": "Komu mia\u0142abym powiedzie\u0107?",
+        "url": "https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Komu mia\u0142abym powiedzie\u0107?",
+      "url": "https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-01-16 13:26:27",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
+        "name": "Wczorajszy tlen",
+        "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 180679,
+      "name": "Wczorajszy tlen",
+      "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
         "name": "warszawska fantazja",
         "url": "https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
-        "name": "Wczorajszy tlen",
-        "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
+        "name": "City Walls",
+        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
       },
       "artists": [
         {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
         }
       ],
-      "duration_ms": 180679,
-      "name": "Wczorajszy tlen",
-      "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
+      "duration_ms": 311960,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
     },
     {
       "added_at": "2026-01-16 13:26:27",
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
-        "name": "Plastelina",
-        "url": "https://open.spotify.com/album/0c0Oqs1JYnqh55cyHnmv24"
-      },
-      "artists": [
-        {
-          "name": "Daria ze \u015al\u0105ska",
-          "url": "https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2"
-        }
-      ],
-      "duration_ms": 311589,
-      "name": "Plastelina",
-      "url": "https://open.spotify.com/track/4RBBY31Wiola233RK0hnDu"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
         "name": "Nie chc\u0119 by\u0107 tu sama",
         "url": "https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
-        "name": "PRZEPRASZAM",
-        "url": "https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj"
+        "name": "Plastelina",
+        "url": "https://open.spotify.com/album/0c0Oqs1JYnqh55cyHnmv24"
       },
       "artists": [
         {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+          "name": "Daria ze \u015al\u0105ska",
+          "url": "https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2"
         }
       ],
-      "duration_ms": 157974,
-      "name": "PRZEPRASZAM",
-      "url": "https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF"
+      "duration_ms": 311589,
+      "name": "Plastelina",
+      "url": "https://open.spotify.com/track/4RBBY31Wiola233RK0hnDu"
     },
     {
       "added_at": "2026-01-16 13:26:27",
@@ -919,6 +919,42 @@
       "duration_ms": 237631,
       "name": "Ramen",
       "url": "https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
+        "name": "Anio\u0142y (Pojedynek)",
+        "url": "https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Julia Pietrucha",
+          "url": "https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg"
+        }
+      ],
+      "duration_ms": 282426,
+      "name": "Anio\u0142y (Pojedynek)",
+      "url": "https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
+        "name": "PRZEPRASZAM",
+        "url": "https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "PRZEPRASZAM",
+      "url": "https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF"
     },
     {
       "added_at": "2026-01-16 13:26:27",
@@ -967,22 +1003,6 @@
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
-        "name": "City Walls",
-        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "City Walls",
-      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
     },
     {
       "added_at": "2026-01-16 13:26:27",
@@ -1055,6 +1075,22 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
+        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 196705,
+      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
+    },
+    {
+      "added_at": "2026-01-16 13:26:27",
+      "album": {
         "name": "KATHARSIS",
         "url": "https://open.spotify.com/album/1aEzsCOQaGQLgz9CADG59A"
       },
@@ -1099,38 +1135,6 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
-        "name": "What Men Do",
-        "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
-      },
-      "artists": [
-        {
-          "name": "Barbro",
-          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
-        }
-      ],
-      "duration_ms": 180268,
-      "name": "What Men Do",
-      "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
-        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 196705,
-      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
-    },
-    {
-      "added_at": "2026-01-16 13:26:27",
-      "album": {
         "name": "Yeyeye",
         "url": "https://open.spotify.com/album/7Gi09hgQl5l2CoHBaa8oW7"
       },
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2026-01-16 13:26:27",
       "album": {
-        "name": "Anio\u0142y (Pojedynek)",
-        "url": "https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST"
+        "name": "What Men Do",
+        "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
       },
       "artists": [
         {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        },
-        {
-          "name": "Julia Pietrucha",
-          "url": "https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg"
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
         }
       ],
-      "duration_ms": 282426,
-      "name": "Anio\u0142y (Pojedynek)",
-      "url": "https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv"
+      "duration_ms": 180268,
+      "name": "What Men Do",
+      "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
     },
     {
       "added_at": "2026-01-16 13:26:27",

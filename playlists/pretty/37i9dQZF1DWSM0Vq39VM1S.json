@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388624,
+  "num_followers": 388691,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "After the First Kiss",
         "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "A Couple Minutes (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "A Couple Minutes - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 230661,
       "name": "The Rest Of Me",
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "A Couple Minutes (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "A Couple Minutes - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Satin Psicodelic",
         "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Lisbon",
-        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 150656,
-      "name": "Lisbon",
-      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 201133,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "Lisbon",
+        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 150656,
+      "name": "Lisbon",
+      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "The Long Way Round (Deluxe)",
-        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "I Love You, But",
-      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
         "name": "Flower of the soul (full bloom)",
         "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "I Love You, But",
+      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "Yours Or Mine",
         "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 230977,
       "name": "Yours Or Mine",
       "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Archwood (the playlist)",
-        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -787,22 +771,18 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
       },
       "artists": [
         {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 255877,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -823,6 +803,22 @@
     {
       "added_at": "2026-01-15 23:00:37",
       "album": {
+        "name": "Archwood (the playlist)",
+        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
         "name": "The Eyes Of C\u00e9cilia",
         "url": "https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt"
       },
@@ -835,6 +831,26 @@
       "duration_ms": 205146,
       "name": "The Eyes Of C\u00e9cilia",
       "url": "https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4"
+    },
+    {
+      "added_at": "2026-01-15 23:00:37",
+      "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 255877,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
     },
     {
       "added_at": "2026-01-15 23:00:37",
@@ -887,22 +903,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2026-01-15 23:00:37",
-      "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-01-15 23:00:37",

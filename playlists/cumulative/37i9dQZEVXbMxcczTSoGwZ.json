@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 189052,
       "name": "Ainoa j\u00e4rki",
       "url": "https://open.spotify.com/track/2XF9JpN2brfbj4DV5pKiwQ"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 171428,
       "name": "Alkemia",
       "url": "https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 190313,
       "name": "Apua (feat. Averagekidluke)",
       "url": "https://open.spotify.com/track/5ZC37gG3lAP4gnrSYIK9Hb"
@@ -13546,7 +13546,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -14890,7 +14890,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
@@ -29660,7 +29660,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 188631,
       "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
       "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
@@ -40762,7 +40762,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 172969,
       "name": "Radio p\u00e4\u00e4lle",
       "url": "https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea"
@@ -42740,7 +42740,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 151690,
       "name": "R\u00e4ppii, Seksii & Huumeita",
       "url": "https://open.spotify.com/track/4XUndYhoFjUFzrT9zWBWQA"
@@ -43516,7 +43516,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 145053,
       "name": "Sata shottii",
       "url": "https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO"
@@ -46625,6 +46625,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -48434,7 +48456,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 150242,
       "name": "Syyt\u00e4 t\u00e4t\u00e4 iltaa",
       "url": "https://open.spotify.com/track/2RezuMCTCuePMmT8aZ6RNC"
@@ -52306,7 +52328,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 237232,
       "name": "Tv\u00e5 on kolme",
       "url": "https://open.spotify.com/track/4NKoYuuYR1roS2J5hD2nVW"

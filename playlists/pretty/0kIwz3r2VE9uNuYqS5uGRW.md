@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 142 songs - 7 hr 26 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 147 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,10 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 140 | [If We Ever Stopped Talking](https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5) | [S1D333](https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI) | [If We Ever Stopped Talking](https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM) | 3:08 |
 | 141 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 |
 | 142 | [All Of My Love](https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc) | [Shelton](https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB) | [All Of My Love](https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV) | 2:54 |
+| 143 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 |
+| 144 | [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 |
+| 145 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 |
+| 146 | [classic](https://open.spotify.com/track/02PTfaYBAzhskrltCoQKPN) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 3:07 |
+| 147 | [Lisa](https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY) | [BEVIxPlanett](https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM) | [Lisa](https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs) | 2:37 |
 
-Snapshot ID: `AAAVlAAfmmxAnaNVFuHnsN09ebiXyBen`
+Snapshot ID: `AAAVmUFnk5+RTf6qnYv9rsSKViHbVpHZ`

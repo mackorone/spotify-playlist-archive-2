@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-335 songs - 23 hr 13 min
+336 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [alleswirdgut \- Underworld Remix](https://open.spotify.com/track/10YwDxJAwjbsaMWA00uiKk) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [alleswirdgut \(Underworld Remix\)](https://open.spotify.com/album/6DVSxhK6Qz1HwXsdLerkfR) | 4:50 | 2024-11-29 | 2025-07-23 |
 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 | 2025-06-20 |  |
 | [Ang3l Attack!](https://open.spotify.com/track/2MBp3Z0SgeQL2lCsc0WORT) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Ang3l Attack!](https://open.spotify.com/album/1NXABba2AxQ2oMdxkB922r) | 3:36 | 2025-08-22 | 2025-10-02 |
+| [Arena Conqueror](https://open.spotify.com/track/2V8aIhRuic9LFYSD6ZcKnr) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Arena Conqueror](https://open.spotify.com/album/3ndiZyDYSxxGW8IQFEcAzz) | 4:18 | 2026-01-16 |  |
 | [ASBAK ANTHEM](https://open.spotify.com/track/6gXag9ON69aYPQW6YHGFfV) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [ASBAK ANTHEM](https://open.spotify.com/album/4bTmkkIfnIm7MzEv5zAIGU) | 2:39 | 2025-07-22 | 2025-08-23 |
 | [Ashes \- VIP](https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes \(VIP\)](https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29) | 2:34 | 2025-09-05 |  |
 | [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 | 2024-09-06 | 2025-11-07 |
@@ -100,7 +101,7 @@
 | [Dopamine](https://open.spotify.com/track/0fo5N7yteZrGgpdX796nei) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Dopamine](https://open.spotify.com/album/3rJcwBRcB9SGyw2fUTNWxn) | 2:01 | 2025-03-19 | 2025-04-12 |
 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 | 2025-03-07 |  |
 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 | 2024-04-09 | 2024-07-15 |
-| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 |  |
+| [Duality](https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus) | [Duality](https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge) | 3:27 | 2024-11-13 | 2026-01-19 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 | 2024-11-14 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 | 2025-11-07 |  |

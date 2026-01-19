@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 23779,
+  "num_followers": 23816,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Yokai",
         "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Cold Thoughts",
         "url": "https://open.spotify.com/album/3ZBkNWJe9esw2UmDK3klR3"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Sleeping Soul",
-        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Breathing Stone",
-      "url": "https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Mirage of the Mind",
         "url": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 139000,
       "name": "Whispers of Eden",
       "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Sleeping Soul",
+        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 204090,
+      "name": "Breathing Stone",
+      "url": "https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
-      },
-      "artists": [
-        {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
-        }
-      ],
-      "duration_ms": 156482,
-      "name": "Cherry Tree",
-      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -1031,6 +1015,38 @@
       "duration_ms": 133668,
       "name": "Birds",
       "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "duration_ms": 156482,
+      "name": "Cherry Tree",
+      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
       "artists": [
         {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1103,22 +1119,6 @@
       "duration_ms": 116841,
       "name": "Mt Fuji",
       "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 139095,
-      "name": "Anata",
-      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Hanagasumi",
         "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 160000,
       "name": "Arisa",
       "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 139095,
+      "name": "Anata",
+      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Death Curse",
-      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Mountain Trail",
         "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 153000,
       "name": "Mountain Trail",
       "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Death Curse",
+      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Blood Oath",
-        "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Blood Oath",
-      "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Answer Love",
         "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 145617,
       "name": "Hatsukoi",
       "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Blood Oath",
+      "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Daichi",
-        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
-      },
-      "artists": [
-        {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
-        }
-      ],
-      "duration_ms": 118035,
-      "name": "Daichi",
-      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 194899,
       "name": "Rising Light",
       "url": "https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Daichi",
+        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "duration_ms": 118035,
+      "name": "Daichi",
+      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Sakura Temple",
-        "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sakura Temple",
-      "url": "https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Despair",
         "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 197616,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Sakura Temple",
+        "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sakura Temple",
+      "url": "https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG"
     },
     {
       "added_at": "2025-10-21 04:35:53",

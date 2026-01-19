@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,979 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,971 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 70 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 |
 | 71 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 |
 | 72 | [Driving Fast](https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Driving Fast](https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8) | 3:07 |
-| 73 | [haunted](https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [haunted](https://open.spotify.com/album/6TozBKGt0kW2MILIDwEVj7) | 2:12 |
-| 74 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
+| 73 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
+| 74 | [haunted](https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [haunted](https://open.spotify.com/album/6TozBKGt0kW2MILIDwEVj7) | 2:12 |
 | 75 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
 | 76 | [HEART ATTACK](https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [BRONSON](https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg) | 3:29 |
 | 77 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 90 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 91 | [Disconnected](https://open.spotify.com/track/7xK5a6xjJkLLd8zRKskSMB) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Disconnected](https://open.spotify.com/album/6d5kJtZLuZ6AADFLX6nqFE) | 2:51 |
 | 92 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
-| 93 | [It's Okay](https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [It's Okay](https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u) | 2:45 |
-| 94 | [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 |
+| 93 | [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 |
+| 94 | [It's Okay](https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [It's Okay](https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u) | 2:45 |
 | 95 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
 | 96 | [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 |
 | 97 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 121 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 |
 | 122 | [I'm Done](https://open.spotify.com/track/0gQcEtHlSEaXb40pdhFMki) | [Nofsky](https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC), [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [I'm Done](https://open.spotify.com/album/3hQF3Fy9WSmmXmUuxu0sWW) | 2:42 |
 | 123 | [bring your love \(to the light\)](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq) | [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [bring your love \(to the light\)](https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6) | 3:45 |
-| 124 | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/track/4jRtoUQ5xVNNAxo71Mxh97) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/album/2qLdWJ29vkYMHtlcgq8f1r) | 2:55 |
-| 125 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
+| 124 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
+| 125 | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/track/4jRtoUQ5xVNNAxo71Mxh97) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/album/2qLdWJ29vkYMHtlcgq8f1r) | 2:55 |
 
 Snapshot ID: `AAAAAONbiFSmtrGFD4FxStMFA8/wRZLN`

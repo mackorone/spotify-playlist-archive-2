@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons urbains et Afro les plus chauds \ud83d\udd25 Cover: Tyla",
+  "description": "Les sons urbains et Afro les plus chauds \ud83d\udd25 Cover: Wizkid, Asake",
   "name": "SEHD",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 142122,
       "name": "Adriano",
       "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 173520,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 178000,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5"
@@ -2565,6 +2565,28 @@
     },
     {
       "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+    },
+    {
+      "album": {
         "name": "En attendant Corleone",
         "url": "https://open.spotify.com/album/5Oc5pZozY1jhj7QCyTakPk"
       },
@@ -3046,6 +3068,24 @@
       "duration_ms": 230080,
       "name": "Liki Liki",
       "url": "https://open.spotify.com/track/0CiHaNolq5XcceAqWu8Gbw"
+    },
+    {
+      "album": {
+        "name": "Lil",
+        "url": "https://open.spotify.com/album/1AOiyjzQS8OQrT5bDyeMn6"
+      },
+      "artists": [
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "Lil",
+      "url": "https://open.spotify.com/track/2l34vIHbqzh3xVqOcGxCtP"
     },
     {
       "album": {
@@ -4094,7 +4134,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
@@ -4927,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Rebanav 126bpm",
+        "url": "https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126106,
+      "name": "Rebanav 126bpm",
+      "url": "https://open.spotify.com/track/0zJ73feFCS8807usUclLWo"
+    },
+    {
+      "album": {
         "name": "RIRI&ROCKY",
         "url": "https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh"
       },
@@ -5748,7 +5806,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 252376,
       "name": "Thunes",
       "url": "https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO"

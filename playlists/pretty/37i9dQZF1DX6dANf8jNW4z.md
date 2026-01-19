@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\.  Foto: Lola Flores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,544 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,542 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 50 | [Me quieren caer](https://open.spotify.com/track/2LSed9zviKhwkNIuSOiVa4) | [Lao Ra](https://open.spotify.com/artist/5GDuUaYx3PW3Wa64KxAAAO), [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg) | [Me quieren caer](https://open.spotify.com/album/4pJvoiDT3xQYfQH4zvCQ70) | 2:50 |
 | 51 | [caer hacia arriba](https://open.spotify.com/track/3H012yQRABaab5YxFYyBIw) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY), [SLOWMXBEATZ](https://open.spotify.com/artist/1r1zyjf5wMrGc37Zn4JLhH) | [caer hacia arriba](https://open.spotify.com/album/5LTNqNXtOp6SxZ2E6ZvO49) | 3:18 |
 | 52 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
-| 53 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
+| 53 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Blaya](https://open.spotify.com/artist/5lVc7UgSfLe0ysWNaZRBWm) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 |
 | 54 | [Amor Motorizado](https://open.spotify.com/track/6dJDYcLBm8c6Px2E4c9w83) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh), [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [Amor Motorizado](https://open.spotify.com/album/12HXkS10S6iQjaa7qmfBT7) | 2:35 |
 | 55 | [Nº3 Mal comportamiento \(Worst behaviour\)](https://open.spotify.com/track/5QWwj9zbtoqGznUTKrIY4F) | [KYNE](https://open.spotify.com/artist/0RRa1tJbRhkUZsfrVh6524) | [I GOT YOU COVERED](https://open.spotify.com/album/4tL4m1XK5jP0l32V25q7jw) | 3:03 |
 | 56 | [No Quiero Envejecer](https://open.spotify.com/track/0n49GQNvH8NcMz17WB0p1x) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [No Quiero Envejecer](https://open.spotify.com/album/2GFwBwGvrs8l6K3dgJ1FER) | 2:25 |

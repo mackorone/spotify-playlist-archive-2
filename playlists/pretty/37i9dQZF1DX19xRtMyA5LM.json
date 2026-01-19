@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Qlas",
-  "num_followers": 708415,
+  "num_followers": 708403,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHB3+l6jDoCTv1towEwxsPF2adPN",
+  "snapshot_id": "AAAAALf7lIsUJMcU8cYVrGgM4XROBZF9",
   "tracks": [
     {
       "added_at": "2026-01-16 12:35:30",
@@ -51,6 +51,30 @@
     {
       "added_at": "2026-01-16 12:35:30",
       "album": {
+        "name": "HEFTIG MAN",
+        "url": "https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 145092,
+      "name": "HEFTIG MAN",
+      "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
+    },
+    {
+      "added_at": "2026-01-16 12:35:30",
+      "album": {
         "name": "NO DAYS OFF",
         "url": "https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc"
       },
@@ -87,30 +111,6 @@
       "duration_ms": 142822,
       "name": "Dropship",
       "url": "https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3"
-    },
-    {
-      "added_at": "2026-01-16 12:35:30",
-      "album": {
-        "name": "HEFTIG MAN",
-        "url": "https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 145092,
-      "name": "HEFTIG MAN",
-      "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
     },
     {
       "added_at": "2026-01-16 12:35:30",

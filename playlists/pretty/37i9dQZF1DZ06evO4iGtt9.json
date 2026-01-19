@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8973,
+  "num_followers": 8977,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAACkzoCJtTAh3ciBMGBIoOAW",
+  "snapshot_id": "aWrRAAAAAADSpWG16G0lyoLRYClQEzpr",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ODESHI",
         "url": "https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 192053,
       "name": "ODESHI",
       "url": "https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alubarika",
-        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onorato",
         "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 161111,
       "name": "Yan Yan Po",
       "url": "https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alubarika",
+        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
-        "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
-      },
-      "artists": [
-        {
-          "name": "Kolaboy",
-          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 194871,
-      "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
-      "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
+        "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
+      },
+      "artists": [
+        {
+          "name": "Kolaboy",
+          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 194871,
+      "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
+      "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 161889,
-      "name": "A Night to Remember (ANTR)",
-      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
       },
@@ -755,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Win",
-        "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 223080,
-      "name": "Win",
-      "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
+      "duration_ms": 161889,
+      "name": "A Night to Remember (ANTR)",
+      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 215640,
       "name": "Man on Duty",
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
     },
     {
       "added_at": null,
@@ -843,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
+        "name": "Solidstar",
+        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
         },
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 210210,
-      "name": "Shake Yuh Bum - Machel Montano Remix",
-      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+      "duration_ms": 218305,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
     },
     {
       "added_at": null,
@@ -879,22 +879,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solidstar",
-        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
       },
       "artists": [
         {
-          "name": "Solidstar",
-          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum - Machel Montano Remix",
+      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Than Them",
+        "url": "https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 218305,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
+      "duration_ms": 213921,
+      "name": "Better Than Them",
+      "url": "https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 212498,
       "name": "Abeg Abeg (feat. 2Baba & Timaya)",
       "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Than Them",
-        "url": "https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Better Than Them",
-      "url": "https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA"
     }
   ],
   "unique_name": "This Is Timaya",

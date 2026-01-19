@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 436325,
+  "num_followers": 436376,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -337,7 +337,7 @@
       "artists": [
         {
           "name": "Blaya",
-          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+          "url": "https://open.spotify.com/artist/5lVc7UgSfLe0ysWNaZRBWm"
         }
       ],
       "duration_ms": 152604,
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "INFANCIA MAL CALIBRADA",
         "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
-        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Chus Santana",
-          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
-        }
-      ],
-      "duration_ms": 221837,
-      "name": "4 de Febrero",
-      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Se me pas\u00f3 llamarte, mam\u00e1",
+        "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "duration_ms": 221837,
+      "name": "4 de Febrero",
+      "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "DeSAFINADO",
         "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 173333,
       "name": "DeSAFINADO",
       "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "EL LABERINTO",
-        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
-      },
-      "artists": [
-        {
-          "name": "LEIDAN",
-          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
-        }
-      ],
-      "duration_ms": 221774,
-      "name": "TE DOY MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "EL LABERINTO",
+        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
+      },
+      "artists": [
+        {
+          "name": "LEIDAN",
+          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
+        }
+      ],
+      "duration_ms": 221774,
+      "name": "TE DOY MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Me Vas A Matar",
         "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 188013,
       "name": "Me Vas A Matar",
       "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        },
-        {
-          "name": "Khotton",
-          "url": "https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ"
-        }
-      ],
-      "duration_ms": 195524,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        },
+        {
+          "name": "Khotton",
+          "url": "https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ"
+        }
+      ],
+      "duration_ms": 195524,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "em plou a dins",
+        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "duration_ms": 176288,
+      "name": "em plou a dins",
+      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1703,42 +1723,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Todo Marchit\u00f3",
-        "url": "https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v"
-      },
-      "artists": [
-        {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
-        }
-      ],
-      "duration_ms": 247622,
-      "name": "Todo Marchit\u00f3",
-      "url": "https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "em plou a dins",
-        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 176288,
-      "name": "em plou a dins",
-      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Todo Marchit\u00f3",
+        "url": "https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 247622,
+      "name": "Todo Marchit\u00f3",
+      "url": "https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Temblor (Acoustic)",
         "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 189000,
       "name": "Temblor - Acoustic",
       "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1831,6 +1815,22 @@
       "duration_ms": 234913,
       "name": "Hoguera",
       "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 165806,
+      "name": "Bang bang",
+      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Lim\u00e3o",
         "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 183217,
       "name": "Killing Time - Acoustic Version",
       "url": "https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 165806,
-      "name": "Bang bang",
-      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
     },
     {
       "added_at": "2026-01-16 05:55:21",

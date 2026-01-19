@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 434 likes - 68 songs - 4 hr 7 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 437 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 66 | [You and Your Friends](https://open.spotify.com/track/73W6OmloQlmC5y1mcuEcQT) | [Favourite Sidewalk Couch](https://open.spotify.com/artist/3OKKxACOJMrQgkBRJAtmDW) | [You and Your Friends](https://open.spotify.com/album/2hFLa0wWTltCDmUE68AuaK) | 2:45 |
 | 67 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 |
 | 68 | [Distance](https://open.spotify.com/track/1PlyiUyljQJmnopGshRJSU) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:35 |
+| 69 | [Aggravated Cultivation](https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Pale Ontology](https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6) | 3:45 |
+| 70 | [Lost My Head](https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0) | [leetham](https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u) | [A Night in Hollywood](https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM) | 2:51 |
 
-Snapshot ID: `AAACXtU+pbVU0AG0TNmujkhJt9FiY+81`
+Snapshot ID: `AAACYM5hfqjci1Yaus8VaMXFJ7+7C3hq`

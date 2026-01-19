@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Qlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,415 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,403 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 |
 | 2 | [KOUD?](https://open.spotify.com/track/48DXWf7RObApu0clQeXYeH) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [KOUD?](https://open.spotify.com/album/3B1ImkDB4A45SwnhCA95Db) | 2:38 |
-| 3 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
-| 4 | [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 |
-| 5 | [HEFTIG MAN](https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [HEFTIG MAN](https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY) | 2:25 |
+| 3 | [HEFTIG MAN](https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [HEFTIG MAN](https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY) | 2:25 |
+| 4 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
+| 5 | [Dropship](https://open.spotify.com/track/2kQZRtNoB50YDrzOE6UtE3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Dropship](https://open.spotify.com/album/0pRxKtug8I1s3N9JEhXhAb) | 2:22 |
 | 6 | [Winterbanden](https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Winterbanden](https://open.spotify.com/album/1iGu5Gm0mCfwJ1eO6chiza) | 3:05 |
 | 7 | [nighttime](https://open.spotify.com/track/5SVfiHZp9gQ9buPXzqXqco) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 2:42 |
 | 8 | [LONDON](https://open.spotify.com/track/0i8xNA5Gpo9t50J6TeNXE7) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [LONDON](https://open.spotify.com/album/6nExdJHSEkx8AUo5ObaQf3) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 | 60 | [Pijn](https://open.spotify.com/track/1gqisIAHr9y8qn5P45moWn) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Pijn](https://open.spotify.com/album/32Iz4XTY6O5El79V0aAZcZ) | 4:01 |
 
-Snapshot ID: `AAAAAHB3+l6jDoCTv1towEwxsPF2adPN`
+Snapshot ID: `AAAAALf7lIsUJMcU8cYVrGgM4XROBZF9`

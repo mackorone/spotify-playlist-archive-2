@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43358,
+  "num_followers": 43364,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAACtr5UGdlGJngdr5/ldCLMc",
+  "snapshot_id": "aWrRAAAAAADq4nEF2zijTeObzTxcAPho",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Roots Woman",
-      "url": "https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Roots Woman",
+      "url": "https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Jimmy Cliff",
         "url": "https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Power And The Glory",
-        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 290866,
-      "name": "Sunshine in the Music",
-      "url": "https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 413929,
       "name": "Fire On The Mountain - Live",
       "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Power And The Glory",
+        "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 290866,
+      "name": "Sunshine in the Music",
+      "url": "https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9"
     },
     {
       "added_at": null,

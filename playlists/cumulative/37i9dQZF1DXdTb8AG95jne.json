@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 244500,
       "name": "1 Chance",
       "url": "https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy"
@@ -7731,6 +7731,28 @@
     },
     {
       "album": {
+        "name": "Hazard Course (feat. mei ehara)",
+        "url": "https://open.spotify.com/album/7tXzWoZGNzOppuIV8B2Iau"
+      },
+      "artists": [
+        {
+          "name": "Noridogam",
+          "url": "https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe"
+        },
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252229,
+      "name": "Hazard Course (feat. mei ehara)",
+      "url": "https://open.spotify.com/track/74UQERYjLFUVVkIIj7pwqP"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/3pisk7bLoTZREoNooWkZZU"
       },
@@ -10810,7 +10832,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 249173,
       "name": "Like the Sea, Like the River",
       "url": "https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX"
@@ -16790,6 +16812,24 @@
       "duration_ms": 215618,
       "name": "snowman",
       "url": "https://open.spotify.com/track/2lOZ5ha2t7YBf3tKRvd0aC"
+    },
+    {
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/33uuiSMbEOHVXnciW8bDfv"
+      },
+      "artists": [
+        {
+          "name": "Sunsat",
+          "url": "https://open.spotify.com/artist/1KaWoXImlq0WXfUrjNUtgC"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282261,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/0GlY38o6uDGJfUKsgjHjYw"
     },
     {
       "album": {

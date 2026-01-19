@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-378 songs - 19 hr 26 min
+379 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [315](https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Deep Harry](https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK) | [315](https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG) | 3:15 | 2024-09-16 | 2025-01-09 |
 | [32 Dand](https://open.spotify.com/track/1fbswZJRi9UJq35TJmtJ7c) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [32 Dand](https://open.spotify.com/album/167zp2W8XeoyZZg6z8EOkg) | 2:43 | 2025-10-13 |  |
 | [4 Mint](https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [4 Mint](https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti) | 4:14 | 2025-01-08 |  |
+| [5\-7 Kille](https://open.spotify.com/track/7FKhg9YUox7qcC1qOLZpXB) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY) | [5\-7 Kille](https://open.spotify.com/album/237p4pV9ARtbdRLUNS3C2c) | 4:20 | 2026-01-16 |  |
 | [506](https://open.spotify.com/track/7fjyz7AHmoyps6GH5Wmc5w) | [Kotti](https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [AFSRMUSIC](https://open.spotify.com/artist/4782y51fIf7e1EGSxnfy35) | [506](https://open.spotify.com/album/7eDWLDuUcanG37D8UnlBmv) | 2:17 | 2025-05-01 | 2025-06-07 |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 | 2025-02-26 |
 | [90Degree](https://open.spotify.com/track/6pCUdn2CoXIFwryZpuIk1z) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:16 | 2025-01-08 | 2025-06-19 |
@@ -81,7 +82,7 @@
 | [CHARDIKALA](https://open.spotify.com/track/6v6DXxklXsiaYuO5Ks5cts) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [CHARDIKALA](https://open.spotify.com/album/7fJSZmxRdEoAFNl7vEznxu) | 2:49 | 2025-06-03 |  |
 | [Cheek](https://open.spotify.com/track/5ZFYqdiCp3kQYoc4lLqdiQ) | [Janta Toor](https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c) | [Cheek](https://open.spotify.com/album/4SNix6VltoiKHFRa7VQduI) | 3:13 | 2025-07-10 | 2025-07-19 |
 | [CHIDKAN](https://open.spotify.com/track/2GuOoQXrsJXN8UoNMYqNOo) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3) | [CHIDKAN](https://open.spotify.com/album/0R17rWGVSfYpClGiKR8TVw) | 2:18 | 2025-05-06 | 2025-06-11 |
-| [Chitta Kurta](https://open.spotify.com/track/7mUuarQfB0E0Xs80Vzd2gw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Chitta Kurta](https://open.spotify.com/album/6BNtWTI4thL4DO6vpVz7vZ) | 3:37 | 2025-01-08 |  |
+| [Chitta Kurta](https://open.spotify.com/track/7mUuarQfB0E0Xs80Vzd2gw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Chitta Kurta](https://open.spotify.com/album/6BNtWTI4thL4DO6vpVz7vZ) | 3:37 | 2025-01-08 | 2026-01-19 |
 | [Clash](https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:56 | 2025-01-08 | 2025-08-27 |
 | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/track/5SzPs3C9TLb7CGDwlB5kaZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/album/16T7F58qWvIfjLri9fotfN) | 4:07 | 2021-12-18 | 2022-01-11 |
 | [Cobra](https://open.spotify.com/track/5yBnT2ltrfE0RqKgdf2iL9) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:23 | 2025-02-10 | 2025-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Stree 2",
-  "num_followers": 1224599,
+  "num_followers": 1225158,
   "original_name": "Bollywood Dance Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjZ4ekxNIyw+FdD4MatTfhRnKzF",
+  "snapshot_id": "AAAAALAb2733rpZ4ZovC/LScEivCUODQ",
   "tracks": [
     {
       "added_at": "2026-01-14 09:46:49",
@@ -371,6 +371,34 @@
       "duration_ms": 194761,
       "name": "Nachde Ne Saare",
       "url": "https://open.spotify.com/track/7HuLB7m448hiKT7Af60Ew3"
+    },
+    {
+      "added_at": "2026-01-18 09:52:23",
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Naal Nachna",
+      "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
     },
     {
       "added_at": "2026-01-14 09:46:49",
@@ -1939,50 +1967,6 @@
       "duration_ms": 212741,
       "name": "Aankh Marey",
       "url": "https://open.spotify.com/track/2UE5pVmMGjfD5XUQTpYpD6"
-    },
-    {
-      "added_at": "2026-01-14 09:46:49",
-      "album": {
-        "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-        "url": "https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Sudhir Yaduvanshi",
-          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
-        },
-        {
-          "name": "Charanjit Ahuja",
-          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
-        },
-        {
-          "name": "Muhammad Sadiq",
-          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
-        },
-        {
-          "name": "Ranjit Kaur",
-          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
-        },
-        {
-          "name": "Babu Singh Maan",
-          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
-        }
-      ],
-      "duration_ms": 155590,
-      "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-      "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
     },
     {
       "added_at": "2026-01-14 09:46:49",

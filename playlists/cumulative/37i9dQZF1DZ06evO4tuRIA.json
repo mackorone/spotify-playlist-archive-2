@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "7 BESOS",
+        "url": "https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201604,
+      "name": "7 BESOS",
+      "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
+    },
+    {
+      "album": {
         "name": "A Mi Modo",
         "url": "https://open.spotify.com/album/7LlceSqFxeLBrJgIMkDo0n"
       },
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 159509,
       "name": "LOS ESPA\u00d1OLES",
       "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"

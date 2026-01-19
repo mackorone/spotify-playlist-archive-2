@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Blue Monday",
+        "url": "https://open.spotify.com/album/1ku1kT9D2zCWfrh6wLRPY6"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274787,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/3gpzozDyWN8dFBLLvz0NLN"
+    },
+    {
+      "album": {
         "name": "BLUZA",
         "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
@@ -6115,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "MILCZ",
+        "url": "https://open.spotify.com/album/72vc2D3brHNtwxuBlylJTG"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148818,
+      "name": "MILCZ",
+      "url": "https://open.spotify.com/track/089Hm491O6KqdCU53oDLoU"
+    },
+    {
+      "album": {
         "name": "milczysz",
         "url": "https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI"
       },
@@ -8504,7 +8540,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 131152,
       "name": "PASSPORT",
       "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
@@ -9576,7 +9612,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 232733,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"

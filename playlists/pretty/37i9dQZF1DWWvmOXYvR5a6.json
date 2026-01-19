@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Lil Moshpit, Yoon Suk Cheol)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221553,
+  "num_followers": 221547,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2025-12-11 09:19:30",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
@@ -791,26 +811,6 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2025-12-11 09:19:30",
-      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 124615,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
-    },
-    {
-      "added_at": "2025-12-11 09:19:30",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
     },
     {
       "added_at": "2025-12-11 09:19:30",
@@ -867,18 +851,18 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
-        "name": "Vancouver 2",
-        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 202213,
-      "name": "Vancouver 2",
-      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
+      "duration_ms": 196153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
     },
     {
       "added_at": "2025-12-11 09:19:30",
@@ -895,6 +879,22 @@
       "duration_ms": 164586,
       "name": "200",
       "url": "https://open.spotify.com/track/7dggO2kHQVRfeJGgkTW5rj"
+    },
+    {
+      "added_at": "2025-12-11 09:19:30",
+      "album": {
+        "name": "Vancouver 2",
+        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Vancouver 2",
+      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
     },
     {
       "added_at": "2025-12-11 09:19:30",
@@ -975,22 +975,38 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
-        "name": "HANDS",
-        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
+        "name": "Show Me The Money 10 Episode 1",
+        "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
         },
         {
-          "name": "Jung Zi So",
-          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
+          "name": "LEE SUREEN",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
+        },
+        {
+          "name": "Mudd the student",
+          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Life Is A Movie (Feat. Jung Zi So)",
-      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
+      "duration_ms": 327624,
+      "name": "BREATHE (Feat. MINO) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
     },
     {
       "added_at": "2025-12-11 09:19:30",
@@ -1027,38 +1043,22 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
-        "name": "Show Me The Money 10 Episode 1",
-        "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
       },
       "artists": [
         {
-          "name": "Anandelight",
-          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "LEE SUREEN",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Geegooin",
-          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
-        },
-        {
-          "name": "Mudd the student",
-          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
-        },
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
         }
       ],
-      "duration_ms": 327624,
-      "name": "BREATHE (Feat. MINO) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
+      "duration_ms": 190773,
+      "name": "Life Is A Movie (Feat. Jung Zi So)",
+      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
     },
     {
       "added_at": "2025-12-11 09:19:30",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
-    },
-    {
-      "added_at": "2025-12-11 09:19:30",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1159,6 +1139,26 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+    },
+    {
+      "added_at": "2025-12-11 09:19:30",
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 168175,
+      "name": "put my hoodie on",
+      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
+    },
+    {
+      "added_at": "2025-12-11 09:19:30",
+      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 199064,
       "name": "Deep Sea (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
-    },
-    {
-      "added_at": "2025-12-11 09:19:30",
-      "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 168175,
-      "name": "put my hoodie on",
-      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
     },
     {
       "added_at": "2025-12-11 09:19:30",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-12-11 09:19:30",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 128304,
-      "name": "trouble",
-      "url": "https://open.spotify.com/track/3kjITZTzIoKM929dACraW6"
-    },
-    {
-      "added_at": "2025-12-11 09:19:30",
-      "album": {
         "name": "Hit Me Up (feat. MINGI of ATEEZ)",
         "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 138293,
       "name": "Hit Me Up (feat. MINGI of ATEEZ)",
       "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
+    },
+    {
+      "added_at": "2025-12-11 09:19:30",
+      "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 128304,
+      "name": "trouble",
+      "url": "https://open.spotify.com/track/3kjITZTzIoKM929dACraW6"
     },
     {
       "added_at": "2025-12-11 09:19:30",

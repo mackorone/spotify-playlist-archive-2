@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 155338,
+  "num_followers": 155330,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
         "name": "Relaxed Minds",
         "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 155295,
       "name": "Tropical Waves",
       "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2025-09-23 10:00:46",
@@ -615,34 +615,18 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
-        "name": "Soothing River Sounds",
-        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
+        "name": "Forest Birds",
+        "url": "https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff"
       },
       "artists": [
         {
-          "name": "Rivers and Streams",
-          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Bustling River Sounds",
-      "url": "https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
-        "name": "Bird Life",
-        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
-      },
-      "artists": [
-        {
-          "name": "Beyond North",
-          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bird Life",
-      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+      "duration_ms": 137000,
+      "name": "Forest Bird Sounds",
+      "url": "https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ"
     },
     {
       "added_at": "2025-09-23 10:00:46",
@@ -663,6 +647,38 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
+        "name": "Bird Life",
+        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
+      },
+      "artists": [
+        {
+          "name": "Beyond North",
+          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bird Life",
+      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
+        "name": "Soothing River Sounds",
+        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
+      },
+      "artists": [
+        {
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bustling River Sounds",
+      "url": "https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
         "name": "Soul Healing Birds",
         "url": "https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
-        "name": "Forest Birds",
-        "url": "https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff"
-      },
-      "artists": [
-        {
-          "name": "Zen Master",
-          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Forest Bird Sounds",
-      "url": "https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ"
     },
     {
       "added_at": "2025-09-23 10:00:46",

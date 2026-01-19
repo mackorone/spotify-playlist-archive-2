@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,038 songs - 8 day 11 hr 54 min
+3,039 songs - 8 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [Cenizas](https://open.spotify.com/track/71TLD9WX0FtMyyGrvIFgCG) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Sara](https://open.spotify.com/album/3h7kbdHBjD6JLuNE2664Eg) | 2:35 | 2025-07-11 | 2025-10-25 |
 | [Cento Battiti](https://open.spotify.com/track/510NdoLW88WD1Yo8EyMEvN) | [Boni](https://open.spotify.com/artist/3zkIQYaCLFratMNLoHPlKP), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Cento Battiti](https://open.spotify.com/album/3Dj6KCkmZQqTm5OfQ9WI4j) | 2:13 | 2024-03-29 | 2024-04-04 |
 | [Chains](https://open.spotify.com/track/6IRhFIVo71T4Oe7BbPLtSX) | [MUNI](https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP), [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s), [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Chains](https://open.spotify.com/album/4qF89AmfyY941uXUbWpEfZ) | 3:34 | 2023-05-19 | 2023-05-24 |
-| [Chamber of the Departed](https://open.spotify.com/track/39A1mYvPC5U9bCtLQkC12m) | [Harmony My Strength](https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG), [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [The Great Nothing](https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S) | 1:06 | 2026-01-16 |  |
+| [Chamber of the Departed](https://open.spotify.com/track/39A1mYvPC5U9bCtLQkC12m) | [Harmony My Strength](https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG), [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [The Great Nothing](https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S) | 1:06 | 2026-01-16 | 2026-01-19 |
 | [Chasing Light](https://open.spotify.com/track/0aHwh2rqyJNN0eZ4sGZLEt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:45 | 2023-04-14 | 2023-04-22 |
 | [Chasing Shadows \(Feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Chasing Shadows \(Feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP) | 2:32 | 2025-01-24 | 2025-02-23 |
 | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5) | 3:46 | 2023-06-30 | 2023-07-30 |
@@ -2623,6 +2623,7 @@
 | [The Tipu House](https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [The Tipu House](https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi) | 3:31 | 2025-02-07 | 2025-03-02 |
 | [The Unforgiven \- Live at Metal Church](https://open.spotify.com/track/4cyCR8VZK0r9by3qBA4BG6) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [The Unforgiven \(Live at Metal Church\)](https://open.spotify.com/album/5QyFNVsuF68vxRkiWNHv0t) | 6:22 | 2023-07-28 | 2023-08-12 |
 | [The Unforgiven II](https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Unforgiven II](https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w) | 4:05 | 2024-04-05 | 2024-05-05 |
+| [The Unknown](https://open.spotify.com/track/4sxeZm4bj8HMrC9D6exVmD) | [Harmony My Strength](https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG), [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [The Great Nothing](https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S) | 1:06 | 2026-01-16 |  |
 | [The View From a Memorial Bench](https://open.spotify.com/track/2NOZ9sYYbGXEZraWrxlfSB) | [Martyrs](https://open.spotify.com/artist/39WNEIrCYtDyQHRb7x3oqt) | [The View From a Memorial Bench](https://open.spotify.com/album/439Shb8IHASJxTKw59fsJo) | 4:16 | 2024-12-27 | 2025-01-03 |
 | [The Void Within](https://open.spotify.com/track/0e3PFJptQimRYX3TUIbRmD) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Through Storms Ahead](https://open.spotify.com/album/3PPayB8bP8bK65ws2FWGq2) | 3:24 | 2024-11-15 | 2024-12-07 |
 | [The Void Within](https://open.spotify.com/track/5BWEnFCuoIP9VIcguQcu1Z) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [The Void Within](https://open.spotify.com/album/25a3xkHUh4myBSbuWldXZc) | 3:24 | 2024-11-15 | 2024-11-29 |

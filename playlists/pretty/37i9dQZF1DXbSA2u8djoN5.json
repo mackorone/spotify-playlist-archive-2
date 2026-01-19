@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
-  "num_followers": 22376,
+  "num_followers": 22384,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
+        "name": "Copiii Care Am Fost",
+        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
+      },
+      "artists": [
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        },
+        {
+          "name": "Bastien",
+          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Copiii Care Am Fost",
+      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 194118,
       "name": "Birkin Baby",
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "Copiii Care Am Fost",
-        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
-      },
-      "artists": [
-        {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
-        },
-        {
-          "name": "Bastien",
-          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Copiii Care Am Fost",
-      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -811,38 +811,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Morgana",
-        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
-      },
-      "artists": [
-        {
-          "name": "F.Charm",
-          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
-        }
-      ],
-      "duration_ms": 192890,
-      "name": "Morgana",
-      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
-        "name": "PESTE TOT",
-        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "PESTE TOT",
-      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "Lumea toat\u0103",
         "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
       },
@@ -863,22 +831,34 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "ALTCEVA",
-        "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
+        "name": "PESTE TOT",
+        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
       },
       "artists": [
-        {
-          "name": "Simiz",
-          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
-        },
         {
           "name": "M.G.L.",
           "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 186300,
-      "name": "ALTCEVA",
-      "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
+      "duration_ms": 146526,
+      "name": "PESTE TOT",
+      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
+      },
+      "artists": [
+        {
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
+        }
+      ],
+      "duration_ms": 192890,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -903,6 +883,26 @@
       "duration_ms": 257259,
       "name": "Adam",
       "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "ALTCEVA",
+        "url": "https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo"
+      },
+      "artists": [
+        {
+          "name": "Simiz",
+          "url": "https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "ALTCEVA",
+      "url": "https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79"
     },
     {
       "added_at": "2026-01-15 22:00:28",

@@ -4,7 +4,7 @@
 
 > 
 
-1,305 songs - 2 day 20 hr 29 min
+1,306 songs - 2 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 | 2024-12-16 |  |
 | [Doing Nothing Else](https://open.spotify.com/track/3Yd4kZMzyg4F58YWLnMxT8) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Doing Nothing Else](https://open.spotify.com/album/66IRglUbmpjN4qPWYVIQTR) | 3:05 | 2025-05-11 |  |
 | [don't @ me](https://open.spotify.com/track/5RsjKNch572Mcdg5PS78yy) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:31 | 2022-07-28 | 2023-05-09 |
+| [DONNY DARKO \(FEAT\. LIL UZI VERT\)](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 1:56 | 2026-01-19 |  |
 | [Dont Fall Off \(KTM Drip\)](https://open.spotify.com/track/5Wk9x85aF15JW1kVahYLsK) | [Jakub tłumaczenia](https://open.spotify.com/artist/1HFz1PXpCzdOJdyShiTD8y) | [The Party Never Ends](https://open.spotify.com/album/3WXOCQmch01IIR5q6t3mDZ) | 4:12 | 2022-06-30 | 2024-04-24 |
 | [dont wait til it's late](https://open.spotify.com/track/0R2aitHLTmi85Jsswg6b6A) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [dont wait til it's late](https://open.spotify.com/album/1lMC5ZRLsDzF8bMyhwGGCm) | 2:03 | 2022-07-28 | 2025-05-21 |
 | [Dont Wait Til Its Late](https://open.spotify.com/track/3cn8MxXWtMRZpeqYDQ0hsZ) | [Summr Worldwide](https://open.spotify.com/artist/43A3EKKOLJ8qaUoNSe1fG8) | [Dont Wait Til Its Late](https://open.spotify.com/album/6AFOjMI50XbFfdy2xfrNzf) | 2:03 | 2024-08-23 | 2025-05-21 |

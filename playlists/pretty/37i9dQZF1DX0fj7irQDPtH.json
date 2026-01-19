@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 69084,
+  "num_followers": 69131,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -755,18 +755,22 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S"
+        "name": "El Vuelo del Pez",
+        "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 213060,
-      "name": "Diez Mil Maneras",
-      "url": "https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX"
+      "duration_ms": 211319,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -787,22 +791,18 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "El Vuelo del Pez",
-        "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 211319,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
+      "duration_ms": 213060,
+      "name": "Diez Mil Maneras",
+      "url": "https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -843,18 +843,26 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+        "name": "Candy Perreo",
+        "url": "https://open.spotify.com/album/0zbfqXk5o567KzNdATeOqj"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Dj Peligro",
+          "url": "https://open.spotify.com/artist/59WHbFutFDJyaUAcwYd1kh"
+        },
+        {
+          "name": "Mr Candy Kazu",
+          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
+        },
+        {
+          "name": "DJ Kelvin El Sacamostro",
+          "url": "https://open.spotify.com/artist/6DJyhClLATkdn3UhSDbrtv"
         }
       ],
-      "duration_ms": 292920,
-      "name": "Adentro",
-      "url": "https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX"
+      "duration_ms": 272677,
+      "name": "Candy Perreo",
+      "url": "https://open.spotify.com/track/2UxUyhlnc3yHLTRAt2Xa8I"
     },
     {
       "added_at": "2024-07-13 01:11:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,183 likes - 175 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,293,134 likes - 175 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

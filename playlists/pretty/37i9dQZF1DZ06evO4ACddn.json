@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAADhCcVz9xt7l30BZj3bsVYy",
+  "snapshot_id": "aWrRAAAAAABmrcjZuaSJHHvCb9D6j674",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 379103,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
+      "duration_ms": 177080,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Open Door",
-      "url": "https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn"
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
     },
     {
       "added_at": null,

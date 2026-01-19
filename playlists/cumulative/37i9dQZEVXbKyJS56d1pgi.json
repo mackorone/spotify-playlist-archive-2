@@ -8772,7 +8772,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
@@ -10927,6 +10927,36 @@
     },
     {
       "album": {
+        "name": "Esse Cupido N\u00e3o Me Ajuda",
+        "url": "https://open.spotify.com/album/7kMvEhtZxd5CdhVqQBYtG2"
+      },
+      "artists": [
+        {
+          "name": "Dexhenry",
+          "url": "https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u"
+        },
+        {
+          "name": "DJ QUIRINO",
+          "url": "https://open.spotify.com/artist/7lpdjvBflQskU8qfdHuCSF"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Ascending",
+          "url": "https://open.spotify.com/artist/4LkHFz8KqQUcE5TGf0IapL"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Esse Cupido N\u00e3o Me Ajuda",
+      "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
+    },
+    {
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -11268,7 +11298,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
@@ -14756,7 +14786,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
@@ -19026,7 +19056,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -23064,7 +23094,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "M\u00e3e Solteira",
       "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
@@ -24026,7 +24056,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -25154,7 +25184,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 171845,
       "name": "ORDER OF PROTECTION",
       "url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
@@ -32156,7 +32186,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -32276,7 +32306,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 199015,
       "name": "STOLE YA FLOW",
       "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"

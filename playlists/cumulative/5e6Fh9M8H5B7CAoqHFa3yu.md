@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,737 songs - 4 day 9 hr 4 min
+1,738 songs - 4 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [Merri \- Go](https://open.spotify.com/track/5sgEWkDU0LZ1TtH5TZ9Ibp) | [JayzDayz](https://open.spotify.com/artist/6pd58j15goA4rLevfgIVAC) | [Jealousy Never Blooms](https://open.spotify.com/album/4UIZSIxQ32CLauUcxfRHBC) | 2:58 | 2026-01-10 |  |
 | [Message Man](https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 4:00 | 2024-03-04 |  |
 | [Mi manca \(feat\. Ermal Meta\)](https://open.spotify.com/track/14QmYMPcfpIbOH1k7EmqNq) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Cristian Bugatti](https://open.spotify.com/album/3NX7t2LAvYFjf5GwA1MOCJ) | 4:07 | 2023-03-15 |  |
+| [Mi Mejor Yo](https://open.spotify.com/track/4uJI4ReR3zkM1Rc0RPt4f7) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Mi Mejor Yo](https://open.spotify.com/album/0wDhgjnA5voHYiWqi84ZF0) | 2:18 | 2026-01-18 |  |
 | [Mi Mundo Entero](https://open.spotify.com/track/1ZxKhZJyhexk0BZWPw0vPM) | [R A U](https://open.spotify.com/artist/1dymQTdVtx6SWGFLg0Vi8z) | [Mi Mundo Entero](https://open.spotify.com/album/67zO4G01EisEJsHX4NGFKC) | 4:18 | 2025-08-20 |  |
 | [Mi Otra Mitad](https://open.spotify.com/track/2coAMdbQvb6xgeUBSAvVUA) | [Fernando Rodriguez](https://open.spotify.com/artist/4iiVa7Hbjhosrvgnt5WjVs) | [Mi Otra Mitad](https://open.spotify.com/album/358cTZXI515nink2UKDkpX) | 2:37 | 2025-09-20 |  |
 | [Mi Piaci](https://open.spotify.com/track/3zSlNcv2dBJRtGXAHs2WZI) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Mi Piaci](https://open.spotify.com/album/7mnsDOmktahrGHryyMkG5Y) | 3:23 | 2025-02-28 |  |

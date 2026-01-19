@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,143 likes - 361 songs - 20 hr 33 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,150 likes - 365 songs - 20 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,9 +365,13 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 355 | [Bullshit Jobs](https://open.spotify.com/track/10ng6MpmDRI3oiOMdd9J4I) | [Mr\. Otus](https://open.spotify.com/artist/4nq5dhUkAppP5mRKRXKRd1) | [Bullshit Jobs](https://open.spotify.com/album/7n4Tq7kU22Yo1xZidM3Gaj) | 3:42 |
 | 356 | [where did everyone go](https://open.spotify.com/track/1OYqmMTlM2AhGuZPNQR5CI) | [EVEREND](https://open.spotify.com/artist/159Iki4KcWPMKavS3ST07a) | [where did everyone go](https://open.spotify.com/album/0D0BphVJVWMfkJRqU1tMCn) | 3:17 |
 | 357 | [Circular](https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz) | [Klidas](https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP) | [No Harmony](https://open.spotify.com/album/1gyRigtJgj31N9ohUfn9I1) | 5:09 |
-| 358 | [Lost Inside](https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Lost Inside](https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL) | 3:05 |
-| 359 | [Liability](https://open.spotify.com/track/0cKEwMjEQSzvi0YWvlCDiS) | [Midnight Coup](https://open.spotify.com/artist/6zB2fC5GFd531Gh9zfmlcn) | [Dither](https://open.spotify.com/album/59j0YUxSRk4KBsetSEBjfG) | 3:37 |
-| 360 | [Playboy](https://open.spotify.com/track/0lGzNxd6zMr2iI6g5gENmr) | [The Reevengers](https://open.spotify.com/artist/7msgtCDPICCFaZOH8XMlZl) | [when college becomes executive](https://open.spotify.com/album/2CzCYE4lWIKftbsW4zvtXx) | 3:17 |
-| 361 | [Magika](https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:25 |
+| 358 | [ego +](https://open.spotify.com/track/2NvZTOntxXFORfVK2eZqaF) | [marȼh](https://open.spotify.com/artist/6Vrp8TrWbYOIW7ErVD3mYf) | [ego +](https://open.spotify.com/album/6HB1GhSOGUp852lQCfnwFw) | 1:40 |
+| 359 | [Lost Inside](https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Lost Inside](https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL) | 3:05 |
+| 360 | [Liability](https://open.spotify.com/track/0cKEwMjEQSzvi0YWvlCDiS) | [Midnight Coup](https://open.spotify.com/artist/6zB2fC5GFd531Gh9zfmlcn) | [Dither](https://open.spotify.com/album/59j0YUxSRk4KBsetSEBjfG) | 3:37 |
+| 361 | [Playboy](https://open.spotify.com/track/0lGzNxd6zMr2iI6g5gENmr) | [The Reevengers](https://open.spotify.com/artist/7msgtCDPICCFaZOH8XMlZl) | [when college becomes executive](https://open.spotify.com/album/2CzCYE4lWIKftbsW4zvtXx) | 3:17 |
+| 362 | [Magika](https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:25 |
+| 363 | [Ending Road](https://open.spotify.com/track/42QNRaxholrUWb7WkLhvHC) | [AstroNutz](https://open.spotify.com/artist/2iadTmele92Qy4lh6pxVUg) | [Ending Road](https://open.spotify.com/album/7xw86FWnNqFzpxwI2ZzZMB) | 3:51 |
+| 364 | [Wolves](https://open.spotify.com/track/4yl8xFEoCZYjpU9f1ksvRx) | [Calendar](https://open.spotify.com/artist/650q1eIchkOugQlsJ4inNo) | [Bombs of gold](https://open.spotify.com/album/5e5tP7zpmtIdsGatruEwHe) | 3:11 |
+| 365 | [Preço](https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 2:43 |
 
-Snapshot ID: `AAAKDfFWi2vW5YUgvOWBglNlHWnvXE70`
+Snapshot ID: `AAAKEfeS21tblMxGR63UonKVzdjg8Ep4`

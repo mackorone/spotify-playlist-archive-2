@@ -9604,7 +9604,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 66230,
       "name": "Chamber of the Departed",
       "url": "https://open.spotify.com/track/39A1mYvPC5U9bCtLQkC12m"
@@ -54488,6 +54488,28 @@
       "duration_ms": 245274,
       "name": "The Unforgiven II",
       "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
+    },
+    {
+      "album": {
+        "name": "The Great Nothing",
+        "url": "https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66410,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/4sxeZm4bj8HMrC9D6exVmD"
     },
     {
       "album": {

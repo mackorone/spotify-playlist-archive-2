@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53532,
+  "num_followers": 53550,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAACdR2WETmoB56QOgpBE37hw",
+  "snapshot_id": "aWrRAAAAAAA0HA0AZCMmnd1GqiYhVtw5",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+        "name": "Hey Joe / Piss Factory",
+        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 194002,
-      "name": "Snowball",
-      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
+      "duration_ms": 281026,
+      "name": "Piss Factory",
+      "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Joe / Piss Factory",
-        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 281026,
-      "name": "Piss Factory",
-      "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
+      "duration_ms": 194002,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 253330,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 251120,
       "name": "Summer Cannibals",
       "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 253330,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace & Noise",
-        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "1959",
-      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 377240,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace & Noise",
+        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196346,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 183289,
+      "name": "Glitter In Their Eyes",
+      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,

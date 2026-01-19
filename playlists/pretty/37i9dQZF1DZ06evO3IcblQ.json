@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 35742,
+  "num_followers": 35743,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAABInfkZSACip/qSuqUtjgj6",
+  "snapshot_id": "aWrRAAAAAAAn0GFZOJ6j+8aNys7uCiBJ",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 161573,
-      "name": "Something to Change",
-      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
+      "duration_ms": 190653,
+      "name": "Stand Strong",
+      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Stand Strong",
-      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
+      "duration_ms": 161573,
+      "name": "Something to Change",
+      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
     },
     {
       "added_at": null,

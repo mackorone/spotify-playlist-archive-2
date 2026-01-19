@@ -4101,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "Growing Up Girls",
+        "url": "https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "Randy",
+      "url": "https://open.spotify.com/track/0pypxZqEyE64cAYixBt00F"
+    },
+    {
+      "album": {
         "name": "In Paradise",
         "url": "https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ"
       },
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 133560,
       "name": "Randy",
       "url": "https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg"
@@ -5198,10 +5216,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 153653,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/5X6VbizePQKSnt55YWWyGS"
+    },
+    {
+      "album": {
+        "name": "The Lion Sleeps Tonight (Remastered Edition)",
+        "url": "https://open.spotify.com/album/4sAMWr353GNND1wpCl5ELj"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161161,
+      "name": "The Lion Sleeps Tonight",
+      "url": "https://open.spotify.com/track/4x6QL8zCkeKRlRx05NBPQh"
     },
     {
       "album": {
@@ -5400,7 +5436,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 174333,
       "name": "They're Jealous of Me",
       "url": "https://open.spotify.com/track/187xOao5osxvhgVktYCEyC"
@@ -5422,6 +5458,24 @@
       "duration_ms": 174333,
       "name": "They're Jealous Of Me",
       "url": "https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91"
+    },
+    {
+      "album": {
+        "name": "Growing Up Girls",
+        "url": "https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "They're Jealous of Me",
+      "url": "https://open.spotify.com/track/4Xoj8JzI9AEwa1fIMLxdSU"
     },
     {
       "album": {
@@ -6149,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "Growing Up Girls",
+        "url": "https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153623,
+      "name": "Will Power",
+      "url": "https://open.spotify.com/track/53DCY6TFQxiasPM6O8spPb"
+    },
+    {
+      "album": {
         "name": "Here come... The Cookies!",
         "url": "https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG"
       },
@@ -6178,7 +6250,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 155906,
       "name": "WILL POWER",
       "url": "https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4"

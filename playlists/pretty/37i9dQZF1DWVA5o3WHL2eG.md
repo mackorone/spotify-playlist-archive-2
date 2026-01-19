@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,144 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,138 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [GIB MIR DEIN GELD!](https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [GIB MIR DEIN GELD!](https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L) | 3:56 |
 | 18 | [Wandrisse](https://open.spotify.com/track/7pvXZdRcfJNzaisEFjbJpc) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 2:42 |
 | 19 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 |
-| 20 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 |
-| 21 | [don't ya](https://open.spotify.com/track/0xF7Poiz6FVYVLdU8j4mU3) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [don't ya](https://open.spotify.com/album/55rPgmkVQ3wxy3h85O8Cwi) | 2:15 |
+| 20 | [don't ya](https://open.spotify.com/track/0xF7Poiz6FVYVLdU8j4mU3) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [don't ya](https://open.spotify.com/album/55rPgmkVQ3wxy3h85O8Cwi) | 2:15 |
+| 21 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 |
 | 22 | [f0dseunsere](https://open.spotify.com/track/09YySos6qoKAEwVuYMgamR) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [f0dseunsere](https://open.spotify.com/album/4mi4LKanmSIVmqyqX4U5PR) | 2:40 |
 | 23 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 |
 | 24 | [Ciao Bella](https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Ciao Bella](https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT) | 2:43 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [Meteor](https://open.spotify.com/track/2OkB8iSkiFPgKuDKT5Bara) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2pr4jK4HNc7ESD1TrcK3UX) | 2:26 |
 | 29 | [mein zimmer](https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [mein zimmer](https://open.spotify.com/album/3VwUQRuzAq3tza5OVCpse5) | 3:09 |
 | 30 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 |
-| 31 | [Somebody Prayed For Me](https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Somebody Prayed For Me](https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT) | 2:43 |
-| 32 | [gute mädchen gehen dumm](https://open.spotify.com/track/46cJoNpnQOJP89gpK2NSwx) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [gute mädchen gehen dumm](https://open.spotify.com/album/7e61nKNj1sbmKB0XLVpihU) | 2:38 |
+| 31 | [gute mädchen gehen dumm](https://open.spotify.com/track/46cJoNpnQOJP89gpK2NSwx) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [gute mädchen gehen dumm](https://open.spotify.com/album/7e61nKNj1sbmKB0XLVpihU) | 2:38 |
+| 32 | [Somebody Prayed For Me](https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Somebody Prayed For Me](https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT) | 2:43 |
 | 33 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
 | 34 | [Keiner ist wie du](https://open.spotify.com/track/38JY4M2jAEFoq2fAQlGR1m) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Keiner ist wie du](https://open.spotify.com/album/6uZXJ2w3u8a1LCX4p2BIFr) | 2:54 |
 | 35 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 |

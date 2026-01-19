@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers to soundtrack the happiest day of your life.",
-  "num_followers": 356916,
+  "num_followers": 356962,
   "original_name": "Wedding Party",
   "owner": {
     "name": "Spotify",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 325266,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
         "name": "C'est Chic",
         "url": "https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 327573,
       "name": "Le Freak",
       "url": "https://open.spotify.com/track/28NBmftocOzTPEb6OYA9fW"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
-        "name": "Celebration / Morning Star",
-        "url": "https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Celebration - Single Version",
-      "url": "https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4"
     },
     {
       "added_at": "2024-03-18 17:00:39",

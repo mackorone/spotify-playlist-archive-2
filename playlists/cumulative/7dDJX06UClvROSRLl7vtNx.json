@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 155454,
       "name": "Deep Waters",
       "url": "https://open.spotify.com/track/3nIPnFIIv3nc3jMwAF6KOf"
@@ -6595,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/0tUvT0Bq34h1yZZAAXqUhS"
+      },
+      "artists": [
+        {
+          "name": "FIXL",
+          "url": "https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133833,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/53er7l5eGgX7R5UDn1LFGU"
+    },
+    {
+      "album": {
         "name": "Feel Invisible",
         "url": "https://open.spotify.com/album/2Lv35h237ZtcHaBvY3GL8c"
       },
@@ -7964,6 +7982,28 @@
       "duration_ms": 145799,
       "name": "Golden Eyes",
       "url": "https://open.spotify.com/track/0AMxXIMgpqxlON8MDmVR5i"
+    },
+    {
+      "album": {
+        "name": "Golden Eyes",
+        "url": "https://open.spotify.com/album/4yreE1NDBXs2KjxgZRTlIi"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Alex Jacquin",
+          "url": "https://open.spotify.com/artist/2VoxHK45KlL8ZS0l0tW2QV"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Golden Eyes",
+      "url": "https://open.spotify.com/track/7FAPhrDijoQiCNvVXJcvLo"
     },
     {
       "album": {
@@ -10712,7 +10752,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 153920,
       "name": "If Only",
       "url": "https://open.spotify.com/track/2sPr7aJnY5lERvX23oXbLl"
@@ -12020,6 +12060,32 @@
       "duration_ms": 143951,
       "name": "Last Day Of Summer",
       "url": "https://open.spotify.com/track/77DPvfOqNxUfL2gLvkhSr6"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/2DfUVfVtxEEMyyJcje2dD8"
+      },
+      "artists": [
+        {
+          "name": "PHAR\u00d8",
+          "url": "https://open.spotify.com/artist/3WUrKA2rKNpnphlDdhW9Cx"
+        },
+        {
+          "name": "LYON",
+          "url": "https://open.spotify.com/artist/0ISD6xTAMU5iIDsuKz7uoq"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152410,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3tOo16gUfhBMZphZ7dSK6B"
     },
     {
       "album": {
@@ -13514,7 +13580,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 151935,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/3New6S1101mPKrhtcyWMZZ"
@@ -18782,6 +18848,24 @@
     {
       "album": {
         "name": "Runaway",
+        "url": "https://open.spotify.com/album/023QUfqcxyMQFLMflTti6E"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santoro",
+          "url": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128953,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1K0hfTvzjtTBzx0amj0VBS"
+    },
+    {
+      "album": {
+        "name": "Runaway",
         "url": "https://open.spotify.com/album/68iT2Sh07ikfDY4Qwk8b6Q"
       },
       "artists": [
@@ -24004,6 +24088,28 @@
       "duration_ms": 146400,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/3mYKaKUIceyT9hBJ56X5Kf"
+    },
+    {
+      "album": {
+        "name": "Walk On My Own",
+        "url": "https://open.spotify.com/album/4gGROsus4WFQPWnSSrjroL"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Walk On My Own",
+      "url": "https://open.spotify.com/track/0KB1SJFHQSeBxaExmglsDd"
     },
     {
       "album": {

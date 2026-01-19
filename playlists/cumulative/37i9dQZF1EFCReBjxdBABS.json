@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Heart Like a Songwriter",
+        "url": "https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1"
+      },
+      "artists": [
+        {
+          "name": "Trannie Anderson",
+          "url": "https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "No Good Reason",
+      "url": "https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c"
+    },
+    {
+      "album": {
         "name": "Nothing But Wild",
         "url": "https://open.spotify.com/album/4iuQQpJvgPgqi3pP5txVhb"
       },

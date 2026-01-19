@@ -1432,10 +1432,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 189266,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
+    },
+    {
+      "album": {
+        "name": "Los corridos de los machos",
+        "url": "https://open.spotify.com/album/4pg7vvZ4bIwtDt4KTbyZ2v"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190386,
+      "name": "Traficantes michoacanos",
+      "url": "https://open.spotify.com/track/66RcrbETM4dURNG2eGG860"
     },
     {
       "album": {

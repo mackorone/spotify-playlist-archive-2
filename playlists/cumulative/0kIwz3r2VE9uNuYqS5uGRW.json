@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ"
+      },
+      "artists": [
+        {
+          "name": "Rafael Dies",
+          "url": "https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "classic",
+      "url": "https://open.spotify.com/track/02PTfaYBAzhskrltCoQKPN"
+    },
+    {
+      "album": {
         "name": "CLOWN SH!T",
         "url": "https://open.spotify.com/album/79OjlrUvPkV5NvdUmSpD1p"
       },
@@ -1455,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs"
+      },
+      "artists": [
+        {
+          "name": "BEVIxPlanett",
+          "url": "https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157048,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY"
+    },
+    {
+      "album": {
         "name": "Looking For Someone Else",
         "url": "https://open.spotify.com/album/1ZrVlTdpWzSJtUFSr78Smy"
       },
@@ -2052,6 +2088,24 @@
       "duration_ms": 130867,
       "name": "Rosemary Gold",
       "url": "https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7"
+    },
+    {
+      "album": {
+        "name": "ROTO",
+        "url": "https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd"
+      },
+      "artists": [
+        {
+          "name": "Ecuaxel",
+          "url": "https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177907,
+      "name": "ROTO",
+      "url": "https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe"
     },
     {
       "album": {

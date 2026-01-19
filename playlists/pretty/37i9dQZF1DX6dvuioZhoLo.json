@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 313193,
+  "num_followers": 313195,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
-      },
-      "artists": [
-        {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
-    },
-    {
-      "added_at": "2025-09-26 04:00:20",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 223713,
       "name": "Trouble Me Anytime",
       "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+    },
+    {
+      "added_at": "2025-09-26 04:00:20",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2025-09-26 04:00:20",
@@ -1647,18 +1647,26 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 154026,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm"
+      "duration_ms": 229497,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
     },
     {
       "added_at": "2025-09-26 04:00:20",
@@ -1679,18 +1687,18 @@
     {
       "added_at": "2025-09-26 04:00:20",
       "album": {
-        "name": "Blue Jeans & Barstools",
-        "url": "https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k"
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
       },
       "artists": [
         {
-          "name": "Elijah Ocean",
-          "url": "https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 180946,
-      "name": "I Left My One Spot (Back at the 5 Spot)",
-      "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
+      "duration_ms": 154026,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm"
     }
   ],
   "unique_name": "Vintage Vibes",

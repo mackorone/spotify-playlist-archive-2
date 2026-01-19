@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-836 songs - 1 day 17 hr 58 min
+837 songs - 1 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,6 +789,7 @@
 | [Vraagtekens](https://open.spotify.com/track/1HMV4HV1r7icaylIaadle6) | [Vxlious](https://open.spotify.com/artist/0Bzf7UfWcqZ7ATMQ1Mx6sf) | [Vraagtekens](https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH) | 2:07 | 2023-09-06 | 2023-10-03 |
 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 | 2023-07-04 | 2023-11-01 |
 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 | 2025-11-08 | 2025-11-25 |
+| [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 | 2026-01-18 |  |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-05-21 | 2025-10-22 |
 | [Wackelkontakt](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB) | 2:48 | 2025-02-10 | 2025-03-06 |
 | [Wagwan](https://open.spotify.com/track/13sO1jcA6RxBPYC79dYGxg) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kater Karma](https://open.spotify.com/artist/4uoA55AcDfXP6BqttlThF2) | [Wagwan](https://open.spotify.com/album/5irEqy9aZI4PRKOwMvNKPQ) | 2:54 | 2024-04-04 | 2024-05-24 |

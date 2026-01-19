@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 59955,
+  "num_followers": 59962,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -199,8 +199,8 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+        "name": "Lil Uzi Vert vs. The World",
+        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 207038,
-      "name": "Sauce It Up",
-      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
+      "duration_ms": 163944,
+      "name": "You Was Right",
+      "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -235,6 +235,22 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "way back",
+      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -279,22 +295,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "way back",
-      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Wins & Losses",
         "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
       },
@@ -331,8 +331,8 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Lil Uzi Vert vs. The World",
-        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 163944,
-      "name": "You Was Right",
-      "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
+      "duration_ms": 207038,
+      "name": "Sauce It Up",
+      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Future Hndrxx Presents: The WIZRD",
-        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Jumpin on a Jet",
-      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -519,6 +503,38 @@
       "duration_ms": 166911,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Jumpin on a Jet",
+      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 142710,
+      "name": "Perfect Time",
+      "url": "https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -543,22 +559,6 @@
       "duration_ms": 362839,
       "name": "What's Free (feat. Rick Ross & Jay Z)",
       "url": "https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 142710,
-      "name": "Perfect Time",
-      "url": "https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "SUPER SLIMEY",
+        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187748,
+      "name": "4 da Gang",
+      "url": "https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -639,42 +655,6 @@
       "duration_ms": 190491,
       "name": "Flewed Out",
       "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "Find A Way (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Flamerz Flow",
-        "url": "https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "Flamerz Flow",
-      "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -699,18 +679,54 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "SUPER SLIMEY",
-        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 187748,
-      "name": "4 da Gang",
-      "url": "https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O"
+      "duration_ms": 197416,
+      "name": "Find A Way (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Flamerz Flow",
+        "url": "https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "Flamerz Flow",
+      "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -755,22 +771,6 @@
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
       "url": "https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         }
       ],
-      "duration_ms": 151980,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
+      "duration_ms": 208874,
+      "name": "FUCCWITCHU",
+      "url": "https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
       },
       "artists": [
         {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 208874,
-      "name": "FUCCWITCHU",
-      "url": "https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam"
+      "duration_ms": 151980,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
     },
     {
       "added_at": "2022-10-01 20:14:07",

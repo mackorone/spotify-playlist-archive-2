@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 18546,
+  "num_followers": 18552,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAAB86mlHxtYJv+yrlHuDoGns",
+  "snapshot_id": "aWrRAAAAAABPv7JHBlgd0V0w5xPHkvbx",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
+      "duration_ms": 135386,
+      "name": "womb",
+      "url": "https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 135386,
-      "name": "womb",
-      "url": "https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
     },
     {
       "added_at": null,

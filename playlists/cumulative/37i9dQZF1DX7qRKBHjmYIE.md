@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-968 songs - 2 day 4 hr 11 min
+969 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 | 2024-01-27 |
 | [Mi Onda](https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Mi Onda/Elen](https://open.spotify.com/album/3arQJO6lDTHZgKox9ToHen) | 2:30 | 2024-01-26 | 2024-07-13 |
 | [Mi Otra Mitad](https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 2:51 | 2022-01-24 | 2022-03-22 |
+| [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 | 2026-01-16 |  |
 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 | 2025-07-25 |  |
 | [Miel](https://open.spotify.com/track/3gT7PmnAnGV08uHVcEwONA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:52 | 2023-09-29 | 2023-10-14 |
 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 | 2023-02-17 | 2023-05-13 |
@@ -959,7 +960,7 @@
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2021-12-02 | 2022-03-22 |
 | [Ya no siento nada](https://open.spotify.com/track/1ltRCX8f708xUGyQaKlUNk) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Ya no siento nada](https://open.spotify.com/album/3eT2h0juVrYJQM4z7mn5EJ) | 3:12 | 2021-12-02 | 2022-01-29 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-03-21 | 2022-04-21 |
-| [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 | 2025-04-04 |  |
+| [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 | 2025-04-04 | 2026-01-19 |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 | 2023-07-22 |
 | [you are, you are \- demo](https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [V](https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3) | 2:17 | 2022-07-22 | 2023-02-17 |
 | [you are, you are \- demo](https://open.spotify.com/track/6oTwr1AfReNwa25t7p6XwH) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [easy](https://open.spotify.com/album/3dODNH44dF6l1BrexSj2WM) | 2:17 | 2022-02-01 | 2022-07-19 |

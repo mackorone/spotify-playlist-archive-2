@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-697 songs - 1 day 16 hr 14 min
+701 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,10 +193,12 @@
 | [Echo Chambers](https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Echo Chambers](https://open.spotify.com/album/1UnXilvdjhrObk9GajzhCU) | 5:33 | 2025-08-03 |  |
 | [Echo Chambers \- Radio Edit](https://open.spotify.com/track/7io4vhWULhZDLHmPBcnrPi) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Cleopatra Does The Nasty](https://open.spotify.com/album/6MFW4hr1KMuHHi1CFZUcSa) | 3:38 | 2026-01-08 | 2026-01-17 |
 | [Echoes Of Nowhere](https://open.spotify.com/track/3SzGqxO8yV08UiST2L49ZY) | [Desert Lily](https://open.spotify.com/artist/4PhaxISQScCigU6Tt33Rdd) | [How Did We Get Here](https://open.spotify.com/album/1P5hKWwxb4NHb8X8PwChSp) | 3:16 | 2025-11-16 | 2025-12-10 |
+| [ego +](https://open.spotify.com/track/2NvZTOntxXFORfVK2eZqaF) | [marȼh](https://open.spotify.com/artist/6Vrp8TrWbYOIW7ErVD3mYf) | [ego +](https://open.spotify.com/album/6HB1GhSOGUp852lQCfnwFw) | 1:40 | 2026-01-18 |  |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2025-11-30 | 2025-12-24 |
 | [Elons Neuragazm](https://open.spotify.com/track/3vuNKGnwDSYiIJNYByIaGO) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK), [Tom Hey](https://open.spotify.com/artist/0pE8OHVLedNBkAIjFdx3lS) | [Colonize Mars](https://open.spotify.com/album/0mGkAzYFpSo0HKxxON0wqS) | 2:34 | 2025-12-16 | 2026-01-06 |
 | [Elvira](https://open.spotify.com/track/13g6NsqL8uCVFX6lr3P24R) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:55 | 2025-09-16 |  |
 | [Emo Dancing](https://open.spotify.com/track/3Oaul3W1QAfjbTOY7P1lpf) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 3:15 | 2025-10-24 | 2026-01-15 |
+| [Ending Road](https://open.spotify.com/track/42QNRaxholrUWb7WkLhvHC) | [AstroNutz](https://open.spotify.com/artist/2iadTmele92Qy4lh6pxVUg) | [Ending Road](https://open.spotify.com/album/7xw86FWnNqFzpxwI2ZzZMB) | 3:51 | 2026-01-18 |  |
 | [Endless](https://open.spotify.com/track/3R7S6lzAjZXxUFf9m6xvR6) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Endless](https://open.spotify.com/album/50lvke8lBx77ZD4ieEohCW) | 4:04 | 2025-12-29 |  |
 | [Endless Scroll](https://open.spotify.com/track/6uoCUv7mMYnhsx1s4vyilB) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [PUNKT](https://open.spotify.com/album/1V4XzrUe8LagIAvmSupuoV) | 1:43 | 2025-08-03 |  |
 | [Endless Tragedy](https://open.spotify.com/track/6p9iXwWBpUz3AOmE8fnRkE) | [Parham Gharavaisi](https://open.spotify.com/artist/4QqBOZOiit5hIBwW6Bs9G7), [Cheyenne McKnight](https://open.spotify.com/artist/0yFtzW4hES3UgMS57pKAsI) | [Beyond Devastation](https://open.spotify.com/album/3UQz3Us8YhpwPMl8W0M7Zu) | 3:20 | 2026-01-05 |  |
@@ -461,6 +463,7 @@
 | [Porcos](https://open.spotify.com/track/7aXNmspHUa0aF9KvjSqLin) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Little Angel In An Empty Room](https://open.spotify.com/album/3Jwcyqo1TRK9BtqTPeYhlf) | 2:16 | 2025-12-15 | 2026-01-06 |
 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-11-20 | 2025-12-10 |
 | [Pretty, Pretty Wasted](https://open.spotify.com/track/4Y8Br3p37qix7eUNbSlXoS) | [LESSBRAINLESS](https://open.spotify.com/artist/0fC2GUhN4LpsYpGO9D2Izb) | [Pretty, Pretty Wasted](https://open.spotify.com/album/6DjQhBfBZmVTF4qirB1Yhf) | 4:18 | 2025-12-15 |  |
+| [Preço](https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 2:43 | 2026-01-18 |  |
 | [Progression](https://open.spotify.com/track/7n10SATemReHLWUwmZS5VC) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 2:46 | 2025-08-03 |  |
 | [Promises](https://open.spotify.com/track/1CEL1VeUavd9vghQT8SoHl) | [Hidden Youth](https://open.spotify.com/artist/14HMcD6e7VQ2Te84b9ms5O) | [Promises](https://open.spotify.com/album/1Ark4gJYxiDMQa7N1bIIMv) | 3:52 | 2025-12-22 |  |
 | [PTSD Radio](https://open.spotify.com/track/2lJOJKrfxBKt0bvxuHBFLd) | [Castdoubt](https://open.spotify.com/artist/5dq0TJkDZ0JATOPtq73Muz) | [PTSD Radio](https://open.spotify.com/album/64ir1RUlB8c2oJSAdQBqFL) | 2:43 | 2025-12-29 |  |
@@ -680,6 +683,7 @@
 | [Wither](https://open.spotify.com/track/4M5sVrmGGbKY2h23VwPXOV) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:29 | 2025-12-08 | 2026-01-06 |
 | [Without Within](https://open.spotify.com/track/5SDDsLaIjbJKWupa1TYBgy) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:34 | 2025-09-16 |  |
 | [Wolfpack 2025](https://open.spotify.com/track/7hBCw9EhvG8wkjHIDEqe6k) | [D.Y.S.](https://open.spotify.com/artist/6r3rRE4Pn2QTfzzuJP0Lv4) | [Wolfpack 2025](https://open.spotify.com/album/3z4iy2HHfamxLlTkFbMR3B) | 2:18 | 2026-01-05 |  |
+| [Wolves](https://open.spotify.com/track/4yl8xFEoCZYjpU9f1ksvRx) | [Calendar](https://open.spotify.com/artist/650q1eIchkOugQlsJ4inNo) | [Bombs of gold](https://open.spotify.com/album/5e5tP7zpmtIdsGatruEwHe) | 3:11 | 2026-01-18 |  |
 | [Wolves \(Remaster\)](https://open.spotify.com/track/3EpUZ25T9f353NQrnEcfkH) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Wolves \(Remaster\)](https://open.spotify.com/album/7GUvag7SEWSo4XmY8Wvi2b) | 3:42 | 2025-12-29 |  |
 | [WORK FAST DIE YOUNG \(HO VISTO\)](https://open.spotify.com/track/3jxiT3u0Is6XNTIWWykASS) | [Kamikaze Lavanda](https://open.spotify.com/artist/1VggdEN6pF9vJNeOXh8ULw) | [WORK FAST DIE YOUNG \(HO VISTO\)](https://open.spotify.com/album/1cYFmntki9MrArDWHofH5T) | 2:52 | 2025-11-03 | 2025-12-10 |
 | [Would You Kindly](https://open.spotify.com/track/0Q0LsZQjhpxQhksUUyTjvA) | [Ultra\-Lite](https://open.spotify.com/artist/7om5QGtg4YyvK7OnDBfDD9) | [Would You Kindly](https://open.spotify.com/album/046xpQvBoGaBXFWc5VWKUs) | 3:42 | 2026-01-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 132887,
+  "num_followers": 132911,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Hush Hush; Hush Hush",
         "url": "https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 252093,
       "name": "Hush Hush; Hush Hush / I Will Survive - Medley",
       "url": "https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Perfect Day Single",
         "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 208613,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Cherry (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
       },
@@ -1233,6 +1217,38 @@
       "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "It's the Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Breathe In. Breathe Out.",
+        "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 185921,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
+    },
+    {
       "added_at": "2025-09-05 02:01:30",
       "album": {
         "name": "Me, You & The Music",
@@ -1251,22 +1267,6 @@
       "duration_ms": 238284,
       "name": "Tonight (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Breathe In. Breathe Out.",
-        "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 185921,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
     },
     {
       "added_at": "2024-06-02 21:23:10",

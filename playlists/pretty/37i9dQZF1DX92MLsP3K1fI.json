@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ana Torroja en portada \u2728",
-  "num_followers": 93853,
+  "num_followers": 93858,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-16 06:00:25",
       "album": {
+        "name": "veme as\u00ed (Live performance)",
+        "url": "https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 246688,
+      "name": "lento - Live performance",
+      "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
+    },
+    {
+      "added_at": "2026-01-16 06:00:25",
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": "2026-01-16 06:00:25",
-      "album": {
-        "name": "veme as\u00ed (Live performance)",
-        "url": "https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 246688,
-      "name": "lento - Live performance",
-      "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
     },
     {
       "added_at": "2026-01-16 06:00:25",

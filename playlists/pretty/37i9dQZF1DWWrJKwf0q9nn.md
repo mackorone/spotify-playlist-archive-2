@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Gorgon City & Interplanetary Criminal
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,181 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,174 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 99 | [One Last Dance](https://open.spotify.com/track/1HSLCaNwbhnM5nOLELCgvl) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/3SID4s2PWtKwG6T6A0iXqT) | 2:40 |
 | 100 | [Goes Like](https://open.spotify.com/track/0dgosUjPvND5us34msuSen) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Goes Like](https://open.spotify.com/album/4N1WuEsUKJQp6Tfqo7ylIq) | 2:35 |
 
-Snapshot ID: `AAAAADrCZ5APhkQRT41pCH8YyuGI0WrE`
+Snapshot ID: `AAAAACu0h75ZWRwI0gWjzooZ0xhkZZ4F`

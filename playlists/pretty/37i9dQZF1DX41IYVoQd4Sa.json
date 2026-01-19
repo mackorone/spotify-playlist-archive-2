@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9 ",
-  "num_followers": 33140,
+  "num_followers": 33147,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-01-15 22:00:31",
       "album": {
+        "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
+        "url": "https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J"
+      },
+      "artists": [
+        {
+          "name": "Rotem Shafran",
+          "url": "https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi"
+        }
+      ],
+      "duration_ms": 187434,
+      "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
+      "url": "https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1"
+    },
+    {
+      "added_at": "2026-01-15 22:00:31",
+      "album": {
         "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
         "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-01-15 22:00:31",
       "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
-    },
-    {
-      "added_at": "2026-01-15 22:00:31",
-      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 260075,
       "name": "I Don't Know When, I Don't Know How, I Don't Know Why",
       "url": "https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek"
+    },
+    {
+      "added_at": "2026-01-15 22:00:31",
+      "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
     },
     {
       "added_at": "2026-01-15 22:00:31",
@@ -751,18 +767,18 @@
     {
       "added_at": "2026-01-15 22:00:31",
       "album": {
-        "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
-        "url": "https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J"
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
       },
       "artists": [
         {
-          "name": "Rotem Shafran",
-          "url": "https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi"
+          "name": "Omer Netzer",
+          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
         }
       ],
-      "duration_ms": 187434,
-      "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
-      "url": "https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1"
+      "duration_ms": 229099,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
     },
     {
       "added_at": "2026-01-15 22:00:31",
@@ -779,22 +795,6 @@
       "duration_ms": 362108,
       "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
-    },
-    {
-      "added_at": "2026-01-15 22:00:31",
-      "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
-      },
-      "artists": [
-        {
-          "name": "Omer Netzer",
-          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
-        }
-      ],
-      "duration_ms": 229099,
-      "name": "Midnight Blue",
-      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
     },
     {
       "added_at": "2026-01-15 22:00:31",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-01-15 22:00:31",
       "album": {
-        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        },
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 196262,
-      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
-    },
-    {
-      "added_at": "2026-01-15 22:00:31",
-      "album": {
         "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
         "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 205496,
       "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
+    },
+    {
+      "added_at": "2026-01-15 22:00:31",
+      "album": {
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "duration_ms": 196262,
+      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
     },
     {
       "added_at": "2026-01-15 22:00:31",

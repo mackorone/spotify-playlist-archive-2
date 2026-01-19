@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 448632,
+  "num_followers": 448684,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAABNk7S2IU5kmbxvtEGnLSsG",
+  "snapshot_id": "aWrRAAAAAAB04+W9vcZn/P27PA0/aXcC",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi-Lo (feat. Lindsey Stirling)",
-        "url": "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw"
+        "name": "Synthesis",
+        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
         }
       ],
-      "duration_ms": 256347,
-      "name": "Hi-Lo - feat. Lindsey Stirling",
-      "url": "https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"
+      "duration_ms": 263035,
+      "name": "Imperfection",
+      "url": "https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts"
     },
     {
       "added_at": null,
@@ -627,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synthesis",
-        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
+        "name": "Hi-Lo (feat. Lindsey Stirling)",
+        "url": "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
         }
       ],
-      "duration_ms": 263035,
-      "name": "Imperfection",
-      "url": "https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts"
+      "duration_ms": 256347,
+      "name": "Hi-Lo - feat. Lindsey Stirling",
+      "url": "https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"
     },
     {
       "added_at": null,

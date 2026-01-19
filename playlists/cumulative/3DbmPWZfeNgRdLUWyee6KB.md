@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-492 songs - 1 day 5 hr 36 min
+496 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [J'veux du cash](https://open.spotify.com/track/0sXb1kv3MuS4o0ae1ElGlB) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [J'veux du cash](https://open.spotify.com/album/1cQU8FPCKoQC1s0OfySyQk) | 2:40 | 2025-12-29 |  |
 | [Jane E\. \- Piano solo](https://open.spotify.com/track/7BSf8jEEVwaILkwMFgojua) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Jane E\. \(Piano solo\)](https://open.spotify.com/album/1yqNwUK4HmHSRoX3FOgey5) | 2:50 | 2024-04-11 | 2025-12-28 |
 | [Je suis une femme](https://open.spotify.com/track/2KabSGFaRYzlp6Xbk88eqt) | [Machteld](https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw) | [Je suis une femme](https://open.spotify.com/album/6LUj1exFNYytrCKKkoHEpU) | 3:40 | 2025-12-22 |  |
+| [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Paiton Brooke](https://open.spotify.com/artist/60i0J12QjuqPG8EI4kqW4z) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 | 2026-01-18 |  |
 | [Jonesing](https://open.spotify.com/track/0pItNE4YeIFf2ec6P7jlbe) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Jonesing](https://open.spotify.com/album/1xQgwPKRDhvit3UACsOj5q) | 3:18 | 2025-10-17 | 2025-11-29 |
 | [Josephine M\. \- Piano solo](https://open.spotify.com/track/1M5a7pAmFI2VqtNeLOmKHO) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Josephine M\. \(Piano solo\)](https://open.spotify.com/album/5LhHLwZ76L1lTidJucY4v4) | 2:21 | 2024-07-05 | 2025-12-28 |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-01 |  |
@@ -247,6 +248,7 @@
 | [Madame B.](https://open.spotify.com/track/71fmi6YVjIPGSlEBhLOu93) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Madame B.](https://open.spotify.com/album/6mZWPwDeAzKlKuixUjrVXO) | 2:36 | 2023-09-21 | 2025-11-29 |
 | [Madame Oculus \- Remastered 2023](https://open.spotify.com/track/13RfunYLxstaIPa1XvJWFH) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Mateusz Nawrot](https://open.spotify.com/artist/61HeW3P7VjwuSOY80WO5ym), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 6:39 | 2023-11-16 | 2025-11-29 |
 | [Mahmud Le Fakir \(Alt\. Vers\)](https://open.spotify.com/track/1W6QbynVJXB9oAFofmtpc5) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:25 | 2023-04-20 | 2025-11-29 |
+| [Main Hi Gunehgaar](https://open.spotify.com/track/0ttt1lFFT3kofohNousB5a) | [Yash Singh](https://open.spotify.com/artist/4ZWtaGozXetsojQDui1a9R) | [Main Hi Gunehgaar](https://open.spotify.com/album/7uqFf7WbbXPNi7kxqSpGTc) | 5:39 | 2026-01-18 |  |
 | [Mainline](https://open.spotify.com/track/0CAkW9JOscGbMBpbPshIuc) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 3:18 | 2026-01-05 |  |
 | [Mais Alto Com Cristo \- Acoustic](https://open.spotify.com/track/4AY6D9mDxjVZXOXchspd8W) | [Virgilio alc](https://open.spotify.com/artist/2yKbDLuTiE1kKT2AiBY1Tl) | [Tempo de vitória \(Acoustic\)](https://open.spotify.com/album/1XWYl2rrAwoR0cDIJQjtpP) | 3:08 | 2025-12-09 | 2026-01-05 |
 | [Make Believe](https://open.spotify.com/track/2RBYsVnwR6QKhv6BONCggI) | [Motom Beats](https://open.spotify.com/artist/40x1m6mMmfEvUO4k1RwkaS), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Fight My Demons](https://open.spotify.com/album/4IyPCqRvou8VDSMWIzRMSD) | 2:56 | 2025-08-23 | 2025-11-29 |
@@ -278,6 +280,7 @@
 | [My Friends Are Turning Far Right](https://open.spotify.com/track/2i9Q2e9WiFkpZoJsoTcvKr) | [Dani Rosenoer](https://open.spotify.com/artist/5e3mMdJvt2idfBhdEPbfyO) | [My Friends Are Turning Far Right](https://open.spotify.com/album/3LqGnxSSNPVWiz7KUlURvs) | 3:13 | 2025-08-21 | 2025-11-29 |
 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 | 2025-12-16 | 2026-01-15 |
 | [My one and only love](https://open.spotify.com/track/2R5WpQBKFicMHyMkxg9cQh) | [Pasquale Innarella](https://open.spotify.com/artist/5YrSnPBsG33kyfu269gvOA), [Andrea Zanchi](https://open.spotify.com/artist/13WyEnJNeqxrCxrLlcSWX5) | [My one and only love](https://open.spotify.com/album/13Wopplk2WPBVVvVptJ7Pb) | 4:26 | 2025-08-08 | 2025-12-21 |
+| [My Rest of My Time \- Live](https://open.spotify.com/track/6LPAdIpXndFkUrkGi5eCzz) | [ELSHANO](https://open.spotify.com/artist/02on3cnkxntynubz0QscYr) | [Simple Way](https://open.spotify.com/album/64pXgsLVLz94hUgLlZApAn) | 4:13 | 2026-01-18 |  |
 | [Más equivocado](https://open.spotify.com/track/01fGmw3f3jYtCexQwz6Dl8) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:12 | 2025-11-25 | 2026-01-05 |
 | [MÁS VECES](https://open.spotify.com/track/1KZBz3hN6KXP52EWPOuNSV) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [MÁS VECES](https://open.spotify.com/album/03k16lAHM6C98o7vpS8ymW) | 2:21 | 2025-09-23 | 2025-11-29 |
 | [Nada a favor](https://open.spotify.com/track/15K9yOgfmxOzhJGmLPp7nP) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Instinto animal](https://open.spotify.com/album/3LHoTzJioCqWN8lC3ecAP7) | 3:19 | 2025-11-25 | 2026-01-05 |
@@ -452,6 +455,7 @@
 | [Tu sei il mattino \- Piano Session](https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Tu sei il mattino \(Piano Session\)](https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM) | 3:24 | 2025-12-21 | 2026-01-15 |
 | [Twinski](https://open.spotify.com/track/5l03og7WPmgomYbfhkEYLI) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 1:49 | 2026-01-14 |  |
 | [U Spusaliziu](https://open.spotify.com/track/4g3rqJiWl1IelcneNaEgfx) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [The Golden Age, Vol\. 1](https://open.spotify.com/album/0iMPNCPmESC621cb8jVKfX) | 3:32 | 2023-12-14 | 2025-11-29 |
+| [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 | 2026-01-18 |  |
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-11 | 2025-12-21 |
 | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/track/0hfikWpzoANNDL4o9Kz2A0) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/album/0Xq9hTLQCUBnhGVNBqg9DS) | 2:47 | 2025-11-17 | 2025-12-21 |
 | [UNPREDICTABLE](https://open.spotify.com/track/7sYqRny0YCdeTPTZ4cdFb4) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [UNPREDICTABLE](https://open.spotify.com/album/0yCsT2thys4cYqlQ63A7j6) | 4:04 | 2025-12-29 |  |

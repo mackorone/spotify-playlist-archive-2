@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 185688,
+  "num_followers": 185722,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -419,6 +419,34 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -471,34 +499,6 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
-        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        },
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        }
-      ],
-      "duration_ms": 208461,
-      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
-      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "The Express",
-        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
-      },
-      "artists": [
-        {
-          "name": "Belleruche",
-          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Anything You Want - Not That",
-      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+        "name": "The Express",
+        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
       },
       "artists": [
         {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+          "name": "Belleruche",
+          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
         }
       ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+      "duration_ms": 202480,
+      "name": "Anything You Want - Not That",
+      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -635,6 +619,22 @@
       "duration_ms": 201813,
       "name": "Lonely Touch",
       "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -779,18 +763,34 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Southern Belle",
-        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
       },
       "artists": [
         {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Southern Belle",
-      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+        "name": "Southern Belle",
+        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
       },
       "artists": [
         {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
         }
       ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+      "duration_ms": 185400,
+      "name": "Southern Belle",
+      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -847,6 +847,22 @@
       "duration_ms": 187762,
       "name": "Belle \u00e2me",
       "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -911,22 +927,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "Cryptid",
-      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "Isteri",
         "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 240000,
       "name": "Spell on You",
       "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Tarmac",
+        "url": "https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "Tarmac",
+      "url": "https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -979,38 +995,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Tarmac",
-        "url": "https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Tarmac",
-      "url": "https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218151,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "uplifters",
         "url": "https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 212213,
       "name": "couleur menthe \u00e0 l'eau",
       "url": "https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "Beat Tape III",
+        "url": "https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "duration_ms": 153243,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "special",
         "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 170453,
       "name": "Blame",
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Beat Tape III",
-        "url": "https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Mathilda Homer",
-          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
-        }
-      ],
-      "duration_ms": 153243,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "CHROME HEARTS",
-        "url": "https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq"
-      },
-      "artists": [
-        {
-          "name": "SHADESOFBLUE",
-          "url": "https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6"
-        }
-      ],
-      "duration_ms": 144398,
-      "name": "CHROME HEARTS",
-      "url": "https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "Matahari",
         "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "CHROME HEARTS",
+        "url": "https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq"
+      },
+      "artists": [
+        {
+          "name": "SHADESOFBLUE",
+          "url": "https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6"
+        }
+      ],
+      "duration_ms": 144398,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "Hopes",
+        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Hopes",
+      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "JET LAGGED",
         "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 195454,
       "name": "JET LAGGED",
       "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Hopes",
-        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
-      },
-      "artists": [
-        {
-          "name": "Broken Back",
-          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Hopes",
-      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "No Dawn To Wake",
+        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        }
+      ],
+      "duration_ms": 180011,
+      "name": "No Dawn To Wake",
+      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "young rich & beautiful",
         "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
       },
@@ -1707,26 +1723,6 @@
       "duration_ms": 118441,
       "name": "young rich & beautiful",
       "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Livin Alright",
-        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 176543,
-      "name": "Livin Alright",
-      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     }
   ],
   "unique_name": "D\u00eener entre amis",

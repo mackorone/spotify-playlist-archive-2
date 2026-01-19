@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 128987,
+  "num_followers": 128991,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,30 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
+      "url": "https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
         "name": "Status (Inediti, Rarit\u00e0 & Live)",
         "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
       },
@@ -239,22 +263,6 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 149893,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
@@ -267,6 +275,22 @@
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 149893,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -291,22 +315,6 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "ASTRO DELUXE",
-        "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "M A Y B A C H",
-      "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
         "name": "Northside Melodies",
         "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
       },
@@ -327,22 +335,18 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+        "name": "ASTRO DELUXE",
+        "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
         }
       ],
-      "duration_ms": 167921,
-      "name": "Polvere (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+      "duration_ms": 159999,
+      "name": "M A Y B A C H",
+      "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -379,6 +383,26 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 167921,
+      "name": "Polvere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
       },
@@ -395,34 +419,22 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Fenomeno",
-        "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Stavo Pensando A Te",
-      "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 228454,
-      "name": "Non lo Sai",
-      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+      "duration_ms": 183500,
+      "name": "Beatrice (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -467,22 +479,34 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+        "name": "Fenomeno",
+        "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Beatrice (feat. Annalisa)",
-      "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
+      "duration_ms": 264573,
+      "name": "Stavo Pensando A Te",
+      "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -523,30 +547,6 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
-      "url": "https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -603,6 +603,42 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 142051,
+      "name": "X Te",
+      "url": "https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
       },
@@ -631,54 +667,18 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Pixel",
-        "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
+        "name": "Tutti i Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
       "artists": [
         {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 142051,
-      "name": "X Te",
-      "url": "https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 215421,
-      "name": "X CASO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 176584,
-      "name": "IL GIOCO DEL SILENZIO",
-      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
+      "duration_ms": 179072,
+      "name": "Donna",
+      "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -695,22 +695,6 @@
       "duration_ms": 207322,
       "name": "Forte",
       "url": "https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
-        "name": "Tutti i Nomi del Diavolo",
-        "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Donna",
-      "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -743,6 +727,22 @@
       "duration_ms": 180009,
       "name": "Torna Da Me",
       "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 176584,
+      "name": "IL GIOCO DEL SILENZIO",
+      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -927,26 +927,18 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "FUNNY GAMES",
-        "url": "https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf"
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
       },
       "artists": [
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        },
-        {
-          "name": "Sine",
-          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 170571,
-      "name": "PAZZA IDEA (feat. Achille Lauro)",
-      "url": "https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp"
+      "duration_ms": 157200,
+      "name": "Tutto o Nada",
+      "url": "https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -991,22 +983,6 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Tutto o Nada",
-      "url": "https://open.spotify.com/track/5QtcghmkREVhNwOFjyOGFJ"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "FUNNY GAMES",
+        "url": "https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "PAZZA IDEA (feat. Achille Lauro)",
+      "url": "https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Musica Triste",
-        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "SOGNI SPORCHI",
-      "url": "https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "SOGNI SPORCHI",
+      "url": "https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 227179,
       "name": "PENTOTHAL",
       "url": "https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
-        "name": "Hustle Mixtape Vol. 2",
-        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 141357,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/6NaqgmzkORbjDKOzVrI26M"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+      "duration_ms": 141357,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/6NaqgmzkORbjDKOzVrI26M"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -1211,6 +1195,22 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "added_at": "2026-01-16 00:01:29",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-16 00:01:29",
       "album": {
-        "name": "L'erba cattiva",
-        "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 231655,
-      "name": "Parole di ghiaccio",
-      "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
-    },
-    {
-      "added_at": "2026-01-16 00:01:29",
-      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
+    },
+    {
+      "added_at": "2026-01-16 00:01:29",
+      "album": {
+        "name": "L'erba cattiva",
+        "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 231655,
+      "name": "Parole di ghiaccio",
+      "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
     },
     {
       "added_at": "2026-01-16 00:01:29",

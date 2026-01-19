@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 548824,
+  "num_followers": 549358,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
-        "name": "Brazil 2",
-        "url": "https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Ela e Carioca",
-      "url": "https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7"
-    },
-    {
-      "added_at": "2025-12-09 10:41:43",
-      "album": {
         "name": "Summer Samba! - Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 136066,
       "name": "De Conversa Em Conversa",
       "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
+    },
+    {
+      "added_at": "2025-12-09 10:41:43",
+      "album": {
+        "name": "Brazil 2",
+        "url": "https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Ela e Carioca",
+      "url": "https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7"
     },
     {
       "added_at": "2025-12-09 10:41:43",

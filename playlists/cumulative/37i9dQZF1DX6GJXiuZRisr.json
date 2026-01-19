@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 217213,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
@@ -7764,6 +7764,28 @@
       "duration_ms": 187500,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/7iDmdm79hvjnMqZe5oF69h"
+    },
+    {
+      "album": {
+        "name": "Need A Little Love",
+        "url": "https://open.spotify.com/album/3Nsk5gtRDbZzdBc6K03Crs"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Need A Little Love",
+      "url": "https://open.spotify.com/track/7AMdIDKxQZkHOuRuMLqZ1z"
     },
     {
       "album": {

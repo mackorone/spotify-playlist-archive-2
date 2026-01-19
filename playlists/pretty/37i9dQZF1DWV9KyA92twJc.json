@@ -227,6 +227,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1663,42 +1663,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        },
-        {
-          "name": "Haim Moshe",
-          "url": "https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L"
-        }
-      ],
-      "duration_ms": 209890,
-      "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
-      "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05de\u05d4 \u05d9\u05d1\u05d5\u05d0",
-        "url": "https://open.spotify.com/album/0BGH0loFudBYXf13fjYb1O"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 151601,
-      "name": "\u05de\u05d4 \u05d9\u05d1\u05d5\u05d0",
-      "url": "https://open.spotify.com/track/5JU5xtaUvWXK5IkyUIFd03"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d0\u05d4 \u05d5\u05d5\u05d0\u05d5",
         "url": "https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs"
       },
@@ -1719,6 +1683,42 @@
       "duration_ms": 256000,
       "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d1\u05d5 \u05d0\u05e0\u05d9 \u05d2\u05e8",
       "url": "https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05de\u05d4 \u05d9\u05d1\u05d5\u05d0",
+        "url": "https://open.spotify.com/album/0BGH0loFudBYXf13fjYb1O"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 151601,
+      "name": "\u05de\u05d4 \u05d9\u05d1\u05d5\u05d0",
+      "url": "https://open.spotify.com/track/5JU5xtaUvWXK5IkyUIFd03"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        },
+        {
+          "name": "Haim Moshe",
+          "url": "https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L"
+        }
+      ],
+      "duration_ms": 209890,
+      "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
     }
   ],
   "unique_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",

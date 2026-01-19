@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Magda",
-  "num_followers": 43144,
+  "num_followers": 43138,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
         "name": "don't ya",
         "url": "https://open.spotify.com/album/55rPgmkVQ3wxy3h85O8Cwi"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 135000,
       "name": "don't ya",
       "url": "https://open.spotify.com/track/0xF7Poiz6FVYVLdU8j4mU3"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-01-06 23:00:08",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
-        "name": "Somebody Prayed For Me",
-        "url": "https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT"
-      },
-      "artists": [
-        {
-          "name": "Nina Hagen",
-          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
-        }
-      ],
-      "duration_ms": 163252,
-      "name": "Somebody Prayed For Me",
-      "url": "https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
         "name": "gute m\u00e4dchen gehen dumm",
         "url": "https://open.spotify.com/album/7e61nKNj1sbmKB0XLVpihU"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 158721,
       "name": "gute m\u00e4dchen gehen dumm",
       "url": "https://open.spotify.com/track/46cJoNpnQOJP89gpK2NSwx"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
+        "name": "Somebody Prayed For Me",
+        "url": "https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        }
+      ],
+      "duration_ms": 163252,
+      "name": "Somebody Prayed For Me",
+      "url": "https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB"
     },
     {
       "added_at": "2026-01-06 23:00:08",

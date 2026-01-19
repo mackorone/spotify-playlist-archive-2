@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,173 likes - 160 songs - 9 hr 15 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,178 likes - 164 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,5 +168,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 158 | [Hängematte](https://open.spotify.com/track/5w8apl86z4vmd1wkSRJr4G) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Hängematte](https://open.spotify.com/album/3RY4slE0DaXLZNsMBEg3GB) | 3:51 |
 | 159 | [Nein Danke](https://open.spotify.com/track/4pSpIFOpHjuFpByS9xdApT) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Nein Danke](https://open.spotify.com/album/667P5W52IbzIIRkYlGiROE) | 2:57 |
 | 160 | [ひとり](https://open.spotify.com/track/7xLu5dgYm4EhCnkNG3d4li) | [MONDA](https://open.spotify.com/artist/2lAZUpLD2ZwUSnXvKU2bPi) | [ひとり](https://open.spotify.com/album/14ZLH4GxrkSMUJqqPbPbbv) | 3:57 |
+| 161 | [My Rest of My Time \- Live](https://open.spotify.com/track/6LPAdIpXndFkUrkGi5eCzz) | [ELSHANO](https://open.spotify.com/artist/02on3cnkxntynubz0QscYr) | [Simple Way](https://open.spotify.com/album/64pXgsLVLz94hUgLlZApAn) | 4:13 |
+| 162 | [Main Hi Gunehgaar](https://open.spotify.com/track/0ttt1lFFT3kofohNousB5a) | [Yash Singh](https://open.spotify.com/artist/4ZWtaGozXetsojQDui1a9R) | [Main Hi Gunehgaar](https://open.spotify.com/album/7uqFf7WbbXPNi7kxqSpGTc) | 5:39 |
+| 163 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 |
+| 164 | [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Paiton Brooke](https://open.spotify.com/artist/60i0J12QjuqPG8EI4kqW4z) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 |
 
-Snapshot ID: `AAAPVR2DrRhD31UiHW4xk3l6vQPPIejt`
+Snapshot ID: `AAAPWXbri4yPfInjNOK2Y7BrnwjuLBwZ`

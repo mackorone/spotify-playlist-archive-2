@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 751085,
+  "num_followers": 751400,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "7 Colours (The Remixes)",
+        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "7 Colours - Radio Edit",
+      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
         "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "7 Colours (The Remixes)",
-        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
-      },
-      "artists": [
-        {
-          "name": "Lost Witness",
-          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "7 Colours - Radio Edit",
-      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
     },
     {
       "added_at": "2024-07-23 09:55:55",

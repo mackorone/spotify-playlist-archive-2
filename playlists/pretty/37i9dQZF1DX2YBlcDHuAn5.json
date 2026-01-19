@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33825,
+  "num_followers": 33826,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,22 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Time (feat. Jade Bird)",
-        "url": "https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6"
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
       },
       "artists": [
         {
-          "name": "Tors",
-          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         },
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
         }
       ],
-      "duration_ms": 179812,
-      "name": "Time (feat. Jade Bird)",
-      "url": "https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3"
+      "duration_ms": 195732,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Honky Tonk Hell",
-        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        },
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 195732,
-      "name": "Honky Tonk Hell",
-      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 144901,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Time (feat. Jade Bird)",
+        "url": "https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        },
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 179812,
+      "name": "Time (feat. Jade Bird)",
+      "url": "https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Can't Take My Story Away",
-        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
+        "name": "Catch A Rainbow",
+        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
         }
       ],
-      "duration_ms": 251566,
-      "name": "Can't Take My Story Away",
-      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
+      "duration_ms": 154160,
+      "name": "Catch A Rainbow",
+      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -399,34 +399,18 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Catch A Rainbow",
-        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
+        "name": "Can't Take My Story Away",
+        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
       },
       "artists": [
         {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Catch A Rainbow",
-      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
-        "name": "Heartbreak & Roses",
-        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 354760,
-      "name": "Heartbreak & Roses",
-      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
+      "duration_ms": 251566,
+      "name": "Can't Take My Story Away",
+      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -443,6 +427,22 @@
       "duration_ms": 194741,
       "name": "The Machine - Radio Edit",
       "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -555,8 +555,8 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Let's Get This Over With",
-        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
+        "name": "Time Jumper",
+        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
         }
       ],
-      "duration_ms": 167586,
-      "name": "Let's Get This Over With",
-      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
+      "duration_ms": 186680,
+      "name": "She Needs Lovin' Too",
+      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -639,8 +639,8 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Time Jumper",
-        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
+        "name": "Let's Get This Over With",
+        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
         }
       ],
-      "duration_ms": 186680,
-      "name": "She Needs Lovin' Too",
-      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
+      "duration_ms": 167586,
+      "name": "Let's Get This Over With",
+      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Don't Wanna Be Nervous",
-        "url": "https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW"
-      },
-      "artists": [
-        {
-          "name": "MISTER & MRS",
-          "url": "https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS"
-        }
-      ],
-      "duration_ms": 180784,
-      "name": "Don't Wanna Be Nervous",
-      "url": "https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "The Fire Inside",
         "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 215483,
       "name": "The Fire Inside",
       "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Don't Wanna Be Nervous",
+        "url": "https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW"
+      },
+      "artists": [
+        {
+          "name": "MISTER & MRS",
+          "url": "https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS"
+        }
+      ],
+      "duration_ms": 180784,
+      "name": "Don't Wanna Be Nervous",
+      "url": "https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Human Mind",
-        "url": "https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 192459,
-      "name": "Human Mind",
-      "url": "https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "Scary Movie",
         "url": "https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 183374,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Human Mind",
+        "url": "https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 192459,
+      "name": "Human Mind",
+      "url": "https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+        "name": "Not Cause I Wanted To",
+        "url": "https://open.spotify.com/album/6eZygmRQkhCOX8ShR5uXmU"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
+      "duration_ms": 213131,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/6rDHCMfDbnn3cWmPhea9ef"
     }
   ],
   "unique_name": "Country & Americana",

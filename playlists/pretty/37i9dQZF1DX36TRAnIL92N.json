@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 464118,
+  "num_followers": 464299,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -259,42 +259,6 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "Charlotte de Witte",
-        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 493667,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
-        "name": "Spiritual Driveby",
-        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Shl\u00f8mo",
-          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
-        }
-      ],
-      "duration_ms": 218882,
-      "name": "Play With Me",
-      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -319,6 +283,42 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
+        "name": "Spiritual Driveby",
+        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        }
+      ],
+      "duration_ms": 218882,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 493667,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
+        "name": "Ayi Giri / Dopamine Machine",
+        "url": "https://open.spotify.com/album/2vhwDcGYmlSy5S3lWEtGF7"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Ayi Giri",
+      "url": "https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
         "name": "YKSI",
         "url": "https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 194509,
       "name": "Kummer",
       "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 259023,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     }
   ],
   "unique_name": "Techno Workout",

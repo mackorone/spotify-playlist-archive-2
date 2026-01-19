@@ -4,7 +4,7 @@
 
 > old asl
 
-650 songs - 1 day 11 hr 37 min
+653 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2022-07-12 |  |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-08 |  |
 | [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 | 2024-03-27 |  |
+| [This Close](https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Memento Mori \(Expanded\)](https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg) | 3:19 | 2026-01-18 |  |
 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2026-01-14 |  |
 | [Thot Thot](https://open.spotify.com/track/4YAH2RzSQ78Oz8lqL9CS13) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:01 | 2026-01-02 |  |
 | [thrax](https://open.spotify.com/track/1P6ZWbU95Y5issu4KXTpwz) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [night before ko](https://open.spotify.com/album/3mWiZ6VBKD3hvvmZnngw5l) | 2:28 | 2024-01-07 |  |
@@ -616,6 +617,7 @@
 | [Un\-thinkable \(I'm Ready\) \(feat\. Drake\) \- Remix](https://open.spotify.com/track/4o4wEDRqotccDTXiQ7TORu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Un\-thinkable \(I'm Ready\) \(feat\. Drake\) \[Remix\]](https://open.spotify.com/album/1QdTD7TKQCHEZueuVAlE72) | 4:42 | 2023-08-19 |  |
 | [Uuuu](https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2023-08-24 |  |
 | [Vampire Love](https://open.spotify.com/track/0IPlCJvFrEIGCQKwgPivYC) | [Souljahwitch](https://open.spotify.com/artist/6jZSUJtoL8PuWyLjiDojHU) | [e m o c e a n](https://open.spotify.com/album/1D00BU8Que1L8ehoIvm86V) | 1:42 | 2023-02-17 |  |
+| [VENDETTA](https://open.spotify.com/track/50mVezQ0Aj1SfVsZwAQVY1) | [Sunday Psych](https://open.spotify.com/artist/2JN61zjzDhPjKvLC82bzHf) | [VENDETTA](https://open.spotify.com/album/5TZmykjgdSXLL5ucxthAn1) | 3:28 | 2026-01-18 |  |
 | [Viaje de Amor](https://open.spotify.com/track/4RsI4VNS7A4ZjxeQJ1msAv) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 5:10 | 2022-11-19 |  |
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-02-02 |  |
 | [Vida](https://open.spotify.com/track/0oK11MH5gsH9mJsJ8DULHS) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I, Vol\. 2](https://open.spotify.com/album/6SnoXqegBArgIFwal8C0s8) | 1:59 | 2023-05-09 |  |
@@ -637,6 +639,7 @@
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2024-01-11 |  |
 | [white wine](https://open.spotify.com/track/4lYYcshIX87jvUyW81zBGU) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [castles](https://open.spotify.com/album/25oEprOhBXct5yYNt6u7Ld) | 2:36 | 2022-02-16 |  |
 | [whitegold](https://open.spotify.com/track/1xqLOYIMiNoCduM983ibjk) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [whitegold](https://open.spotify.com/album/1XRIpP2HiwRx1XjEM6CJGx) | 2:33 | 2022-02-08 |  |
+| [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 | 2026-01-18 |  |
 | [Who Would've Ever Thought](https://open.spotify.com/track/3NqjNFD7JkI9S96iLx8ZWS) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 1](https://open.spotify.com/album/7EqMqgEZ40knsZwfnVxA48) | 2:07 | 2023-10-28 |  |
 | [Whuss the Deal](https://open.spotify.com/track/64FxpKdU055iIaMDY441Qc) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [ShorelineDoThatShit](https://open.spotify.com/album/1FcJAZ1CkDSBRiQu47wrBU) | 3:15 | 2022-10-27 |  |
 | [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2022-07-03 |  |

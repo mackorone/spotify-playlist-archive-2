@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8596,
+  "num_followers": 8620,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAABaTiTOTJvgPxuVMP9wblvW",
+  "snapshot_id": "aWrRAAAAAACj6xOortzhfjhEVlpBnWQv",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 141674,
       "name": "Run from God",
       "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 160960,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escober",
         "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 183693,
       "name": "Escober",
       "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 161062,
-      "name": "Motivate",
-      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 164571,
       "name": "Play (feat. Fave)",
       "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 161062,
+      "name": "Motivate",
+      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Lane",
-        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 132185,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -711,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different Lane",
+        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 132185,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 144552,
       "name": "Alone (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-698 songs - 2 day 10 hr 38 min
+699 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,12 @@
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-06-28 | 2024-08-13 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
 | [Baba Ibeji](https://open.spotify.com/track/11L9IIVIAKloKykPmMUeD6) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Baba Ibeji](https://open.spotify.com/album/65jLZyoYDzF5ch4AgO8cU2) | 4:14 | 2025-09-26 | 2025-10-26 |
+| [Baba Modupe](https://open.spotify.com/track/5eHL0zrUKt5X0t2EBUVVi4) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Baba Modupe](https://open.spotify.com/album/3CN7WpsAVuE4CLmBRr90lj) | 3:05 | 2026-01-16 |  |
 | [Babylonia](https://open.spotify.com/track/6ctXUT5djvU3OE9AVxuab6) | [RACHL](https://open.spotify.com/artist/7GHCpCmmUgy7LRtIeo2uw3), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Babylonia](https://open.spotify.com/album/6iHbMxKu2Doj3D1pOVFZdR) | 3:13 | 2025-05-16 | 2025-06-27 |
 | [Balogun \( the Army Commander \)](https://open.spotify.com/track/5vkJqTq7fFd2fchzQL4LuB) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Balogun \( the Army Commander \)](https://open.spotify.com/album/1N6f63MFhAL4jDdeSWivFw) | 9:55 | 2025-10-10 |  |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 | 2024-04-27 |
 | [Beautiful Thing](https://open.spotify.com/track/2cknVxUrW4KU6nvlqWcHaK) | [Wole Awolola](https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez) | [Beautiful Thing](https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1) | 5:20 | 2025-02-21 | 2025-03-07 |
-| [Believer](https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Believer](https://open.spotify.com/album/0ghQs4vR2dJgflZckBUWV0) | 2:13 | 2025-10-31 |  |
+| [Believer](https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Believer](https://open.spotify.com/album/0ghQs4vR2dJgflZckBUWV0) | 2:13 | 2025-10-31 | 2026-01-19 |
 | [Belongs To You](https://open.spotify.com/track/4QI6Qba9iqc3XaqI5OSWrS) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Belongs To You](https://open.spotify.com/album/31g16Qly95t9uSQdt5MSOI) | 2:25 | 2025-07-04 | 2025-07-29 |
 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 | 2025-10-17 |  |
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-06-27 |

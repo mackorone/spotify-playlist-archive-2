@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAACCJibYnZAdbhkxkApAAwON",
+  "snapshot_id": "aWrRAAAAAAAuKsPbDki2LSBFqkspFM8z",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beware!",
-        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "I Won't Settle For Less Than The Best (For You Baby)",
-      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 340826,
       "name": "Lady, Sweet Lady",
       "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beware!",
+        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "I Won't Settle For Less Than The Best (For You Baby)",
+      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 305600,
-      "name": "If You Know, Won't You Tell Me",
-      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 345333,
       "name": "Volare",
       "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "I've Found Someone",
-      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Staying Power",
         "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 342360,
       "name": "Which Way is Up",
       "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Put Me In Your Mix - Single Version",
-      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Staying Power",
         "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 370266,
       "name": "Staying Power",
       "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Put Me In Your Mix - Single Version",
+      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
     },
     {
       "added_at": null,

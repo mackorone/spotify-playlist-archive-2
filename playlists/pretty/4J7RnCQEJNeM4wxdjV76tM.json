@@ -6,7 +6,7 @@
     "name": "jas",
     "url": "https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4"
   },
-  "snapshot_id": "AAAETak9xr5nWmMHOH0Z42goSFic36cr",
+  "snapshot_id": "AAAEUM05e+h+v38K8QoccUCHPckV+HhJ",
   "tracks": [
     {
       "added_at": "2022-02-17 21:09:23",
@@ -11183,6 +11183,54 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
+    },
+    {
+      "added_at": "2026-01-18 04:59:41",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
+    },
+    {
+      "added_at": "2026-01-18 04:59:44",
+      "album": {
+        "name": "Memento Mori (Expanded)",
+        "url": "https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg"
+      },
+      "artists": [
+        {
+          "name": "Flyleaf",
+          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "This Close",
+      "url": "https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX"
+    },
+    {
+      "added_at": "2026-01-18 18:53:34",
+      "album": {
+        "name": "VENDETTA",
+        "url": "https://open.spotify.com/album/5TZmykjgdSXLL5ucxthAn1"
+      },
+      "artists": [
+        {
+          "name": "Sunday Psych",
+          "url": "https://open.spotify.com/artist/2JN61zjzDhPjKvLC82bzHf"
+        }
+      ],
+      "duration_ms": 208068,
+      "name": "VENDETTA",
+      "url": "https://open.spotify.com/track/50mVezQ0Aj1SfVsZwAQVY1"
     }
   ],
   "unique_name": "$$",

@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11152,
+  "num_followers": 11155,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Frok en Stien",
-        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 182301,
-      "name": "Misschien",
-      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6"
       },
@@ -199,6 +179,46 @@
       "duration_ms": 160678,
       "name": "Moe Van Jezelf",
       "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 182301,
+      "name": "Misschien",
+      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "YAYO HARTJE JIMMY",
+        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 189648,
+      "name": "Ze Wil",
+      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -275,26 +295,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Frok en Stien",
-        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 149767,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Vrijplaats II",
         "url": "https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts"
       },
@@ -311,26 +311,6 @@
       "duration_ms": 181970,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "YAYO HARTJE JIMMY",
-        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 189648,
-      "name": "Ze Wil",
-      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -383,18 +363,22 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Skinroutine Bikinilijn",
-        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Skinroutine Bikinilijn",
-      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
+      "duration_ms": 149767,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -415,6 +399,42 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Skinroutine Bikinilijn",
+        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Skinroutine Bikinilijn",
+      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Schaduw",
+        "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        }
+      ],
+      "duration_ms": 216887,
+      "name": "Schaduw",
+      "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -451,22 +471,18 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Schaduw",
-        "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
+        "name": "Ik Weet Hoe Het Werkt",
+        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
         }
       ],
-      "duration_ms": 216887,
-      "name": "Schaduw",
-      "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
+      "duration_ms": 141051,
+      "name": "Ik Weet Hoe Het Werkt",
+      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -483,22 +499,6 @@
       "duration_ms": 153428,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "Ik Weet Hoe Het Werkt",
-        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
-      },
-      "artists": [
-        {
-          "name": "Kaat Van Stralen",
-          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
-        }
-      ],
-      "duration_ms": 141051,
-      "name": "Ik Weet Hoe Het Werkt",
-      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "kleine auto, grote hot wheel",
-        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
-      },
-      "artists": [
-        {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "dichtbij, veraf",
-      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Rondjes",
         "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 190541,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "kleine auto, grote hot wheel",
+        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "dichtbij, veraf",
+      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -687,34 +687,18 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "God Los",
-        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+        "name": "Toen kwam jij",
+        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
         }
       ],
-      "duration_ms": 223013,
-      "name": "God Los",
-      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "Levelen",
-        "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
-      },
-      "artists": [
-        {
-          "name": "Don Melody Club",
-          "url": "https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY"
-        }
-      ],
-      "duration_ms": 248544,
-      "name": "Levelen",
-      "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
+      "duration_ms": 254935,
+      "name": "Toen kwam jij",
+      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -735,34 +719,18 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Toen kwam jij",
-        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
+        "name": "God Los",
+        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
       },
       "artists": [
         {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
         }
       ],
-      "duration_ms": 254935,
-      "name": "Toen kwam jij",
-      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
-        "name": "In De Steek",
-        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "In De Steek",
-      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
+      "duration_ms": 223013,
+      "name": "God Los",
+      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -779,6 +747,22 @@
       "duration_ms": 173816,
       "name": "narcose",
       "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Levelen",
+        "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
+      },
+      "artists": [
+        {
+          "name": "Don Melody Club",
+          "url": "https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY"
+        }
+      ],
+      "duration_ms": 248544,
+      "name": "Levelen",
+      "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
     },
     {
       "added_at": "2026-01-12 09:51:56",
@@ -847,22 +831,34 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Vager!",
-        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
+        "name": "In De Steek",
+        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
       },
       "artists": [
         {
           "name": "IDA",
           "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        },
-        {
-          "name": "MAZOO",
-          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Vager!",
-      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
+      "duration_ms": 168224,
+      "name": "In De Steek",
+      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Doe Het Voor Het Geld",
+        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 201981,
+      "name": "Doe Het Voor Het Geld",
+      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     }
   ],
   "unique_name": "indie.nl",

@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 93490,
+  "num_followers": 93498,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Lady Mine (feat. Chad Kroeger)",
+        "url": "https://open.spotify.com/album/3bTZjLUpO6FQ8RXlHM9SC7"
+      },
+      "artists": [
+        {
+          "name": "Josh Ramsay",
+          "url": "https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B"
+        },
+        {
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        }
+      ],
+      "duration_ms": 243047,
+      "name": "Lady Mine (feat. Chad Kroeger)",
+      "url": "https://open.spotify.com/track/0afR9bRVOepZeNYj3pKCuq"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Natchez",
         "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
       },
@@ -1251,22 +1271,6 @@
       "duration_ms": 182689,
       "name": "Heavy Soul",
       "url": "https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "First High",
-        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
     }
   ],
   "unique_name": "Southern Comfort",

@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Yami Safdie & Carin Leon",
-  "num_followers": 74021,
+  "num_followers": 74108,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-12-19 12:07:44",
       "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
-    },
-    {
-      "added_at": "2025-12-19 12:07:44",
-      "album": {
         "name": "Indios",
         "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 158840,
       "name": "Tu Geograf\u00eda",
       "url": "https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw"
+    },
+    {
+      "added_at": "2025-12-19 12:07:44",
+      "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2025-12-19 12:07:44",
@@ -1187,42 +1187,6 @@
     {
       "added_at": "2025-12-19 12:07:44",
       "album": {
-        "name": "solo por hoy",
-        "url": "https://open.spotify.com/album/2vuts65UMH6sMDCAhGa6eF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 181190,
-      "name": "solo por hoy",
-      "url": "https://open.spotify.com/track/5m8u5YdRWmUQDSnWqLOvWy"
-    },
-    {
-      "added_at": "2025-12-19 12:07:44",
-      "album": {
-        "name": "Mientes",
-        "url": "https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
-    },
-    {
-      "added_at": "2025-12-19 12:07:44",
-      "album": {
         "name": "Trepando Paredes",
         "url": "https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC"
       },
@@ -1243,6 +1207,22 @@
     {
       "added_at": "2025-12-19 12:07:44",
       "album": {
+        "name": "Mientes",
+        "url": "https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
+    },
+    {
+      "added_at": "2025-12-19 12:07:44",
+      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2025-12-19 12:07:44",
+      "album": {
+        "name": "solo por hoy",
+        "url": "https://open.spotify.com/album/2vuts65UMH6sMDCAhGa6eF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 181190,
+      "name": "solo por hoy",
+      "url": "https://open.spotify.com/track/5m8u5YdRWmUQDSnWqLOvWy"
     },
     {
       "added_at": "2025-12-19 12:07:44",
@@ -1275,6 +1275,30 @@
       "duration_ms": 206520,
       "name": "Es ahora",
       "url": "https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG"
+    },
+    {
+      "added_at": "2025-12-19 12:07:44",
+      "album": {
+        "name": "Las Leyes de La Vida",
+        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Benja Torres",
+          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
+        }
+      ],
+      "duration_ms": 199340,
+      "name": "Las Leyes de La Vida",
+      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
     },
     {
       "added_at": "2025-12-19 12:07:44",
@@ -1311,30 +1335,6 @@
     {
       "added_at": "2025-12-19 12:07:44",
       "album": {
-        "name": "Las Leyes de La Vida",
-        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Benja Torres",
-          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
-        }
-      ],
-      "duration_ms": 199340,
-      "name": "Las Leyes de La Vida",
-      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
-    },
-    {
-      "added_at": "2025-12-19 12:07:44",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-12-19 12:07:44",
       "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Acaramelao",
+      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
+    },
+    {
+      "added_at": "2025-12-19 12:07:44",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 213948,
       "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
       "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
-    },
-    {
-      "added_at": "2025-12-19 12:07:44",
-      "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Acaramelao",
-      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
     },
     {
       "added_at": "2025-12-19 12:07:44",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-12-19 12:07:44",
       "album": {
-        "name": "Te Sigo Amando",
-        "url": "https://open.spotify.com/album/36SZ9ohqiisWRZJrmqsZiE"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 192410,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/56cW4aGMUfORDPGZ1ULknD"
-    },
-    {
-      "added_at": "2025-12-19 12:07:44",
-      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2025-12-19 12:07:44",
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/36SZ9ohqiisWRZJrmqsZiE"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 192410,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/56cW4aGMUfORDPGZ1ULknD"
     },
     {
       "added_at": "2025-12-19 12:07:44",

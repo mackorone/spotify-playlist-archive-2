@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 649 songs - 1 day 11 hr 31 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 652 songs - 1 day 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -657,5 +657,8 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 647 | [Thot Thot](https://open.spotify.com/track/4YAH2RzSQ78Oz8lqL9CS13) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:01 |
 | 648 | [After Me](https://open.spotify.com/track/0mSm74ZDcFbpQzqAOuClhh) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 3:52 |
 | 649 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 |
+| 650 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
+| 651 | [This Close](https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Memento Mori \(Expanded\)](https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg) | 3:19 |
+| 652 | [VENDETTA](https://open.spotify.com/track/50mVezQ0Aj1SfVsZwAQVY1) | [Sunday Psych](https://open.spotify.com/artist/2JN61zjzDhPjKvLC82bzHf) | [VENDETTA](https://open.spotify.com/album/5TZmykjgdSXLL5ucxthAn1) | 3:28 |
 
-Snapshot ID: `AAAETak9xr5nWmMHOH0Z42goSFic36cr`
+Snapshot ID: `AAAEUM05e+h+v38K8QoccUCHPckV+HhJ`

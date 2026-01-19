@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,802 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

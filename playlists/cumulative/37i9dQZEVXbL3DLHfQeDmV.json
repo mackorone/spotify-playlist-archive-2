@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 219920,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/63aYFTVJyBKPdkUGqoAxTL"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 205046,
       "name": "Charlie's Garden",
       "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 203349,
       "name": "Delete Ya",
       "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
@@ -1984,6 +1984,24 @@
       "duration_ms": 189959,
       "name": "Forever a Lover Girl",
       "url": "https://open.spotify.com/track/31V0Hcu2pM5DnjF3RuMAJN"
+    },
+    {
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Forever Your Girl",
+      "url": "https://open.spotify.com/track/0lmS0Wofcv7B7uFYssSKta"
     },
     {
       "album": {
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 161985,
       "name": "justfallinlovewithme.",
       "url": "https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD"
@@ -4420,6 +4438,28 @@
       "duration_ms": 194625,
       "name": "No Scotland No Party",
       "url": "https://open.spotify.com/track/6mlyKsfNwymtDxGbengTWK"
+    },
+    {
+      "album": {
+        "name": "THE SIN : VANISH",
+        "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "No Way Back (Feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
     },
     {
       "album": {
@@ -6206,6 +6246,24 @@
     {
       "album": {
         "name": "theclubrock",
+        "url": "https://open.spotify.com/album/4upEx9M0b73bqjeiej0Prp"
+      },
+      "artists": [
+        {
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122188,
+      "name": "theclubrock",
+      "url": "https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN"
+    },
+    {
+      "album": {
+        "name": "theclubrock",
         "url": "https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc"
       },
       "artists": [
@@ -6216,7 +6274,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -6742,7 +6800,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 224479,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"

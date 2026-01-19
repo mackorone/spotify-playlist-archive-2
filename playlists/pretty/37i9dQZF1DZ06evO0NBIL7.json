@@ -1,12 +1,12 @@
 {
   "description": "This is Fangclub. The essential tracks, all in one playlist.",
-  "num_followers": 1463,
+  "num_followers": 1462,
   "original_name": "This Is Fangclub",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAACpuUki/VSHIynQTXxhG5Co",
+  "snapshot_id": "aWrRAAAAAAC5VEISTXy1bgerjPBM9/bc",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 224063,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+      "duration_ms": 190560,
+      "name": "You Had Me At Hello",
+      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
     },
     {
       "added_at": null,
@@ -260,15 +260,15 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Bad Words",
-      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 210729,
-      "name": "Exit Oblivion",
-      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
+      "duration_ms": 224063,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 267080,
+      "name": "Bad Words",
+      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 190560,
-      "name": "You Had Me At Hello",
-      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
+      "duration_ms": 210729,
+      "name": "Exit Oblivion",
+      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
     },
     {
       "added_at": null,

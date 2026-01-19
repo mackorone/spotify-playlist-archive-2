@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Danyl",
-  "num_followers": 84184,
+  "num_followers": 84194,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
-        "name": "TO CRY A FLOOD",
-        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "DROWN",
-      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
-    },
-    {
-      "added_at": "2026-01-16 14:00:04",
-      "album": {
         "name": "life",
         "url": "https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 156279,
       "name": "life",
       "url": "https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY"
+    },
+    {
+      "added_at": "2026-01-16 14:00:04",
+      "album": {
+        "name": "TO CRY A FLOOD",
+        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
     },
     {
       "added_at": "2026-01-16 14:00:04",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
+        "name": "Un Cri Dans Le M\u00e9tro",
+        "url": "https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Un Cri Dans Le M\u00e9tro",
+      "url": "https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP"
+    },
+    {
+      "added_at": "2026-01-16 14:00:04",
+      "album": {
         "name": "\u5922\u4e2d\u732b",
         "url": "https://open.spotify.com/album/6CcurU0qUHoUWLhYo9iZyp"
       },
@@ -283,18 +299,18 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
-        "name": "Un Cri Dans Le M\u00e9tro",
-        "url": "https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS"
+        "name": "Je ne l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF"
       },
       "artists": [
         {
-          "name": "Sam Sauvage",
-          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Un Cri Dans Le M\u00e9tro",
-      "url": "https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP"
+      "duration_ms": 259845,
+      "name": "Je ne l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
     },
     {
       "added_at": "2026-01-16 14:00:04",
@@ -315,38 +331,6 @@
     {
       "added_at": "2026-01-16 14:00:04",
       "album": {
-        "name": "Je ne l'ai jamais dit \u00e0 personne",
-        "url": "https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF"
-      },
-      "artists": [
-        {
-          "name": "Camille Yembe",
-          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
-        }
-      ],
-      "duration_ms": 259845,
-      "name": "Je ne l'ai jamais dit \u00e0 personne",
-      "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
-    },
-    {
-      "added_at": "2026-01-16 14:00:04",
-      "album": {
-        "name": "Insecurity",
-        "url": "https://open.spotify.com/album/0aFrAXbbZZF82pRhaT7O1Q"
-      },
-      "artists": [
-        {
-          "name": "Shae Gill",
-          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Insecurity",
-      "url": "https://open.spotify.com/track/5OvQtruSErQghU31RE8ITe"
-    },
-    {
-      "added_at": "2026-01-16 14:00:04",
-      "album": {
         "name": "Mere Qareeb",
         "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 224284,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
+    },
+    {
+      "added_at": "2026-01-16 14:00:04",
+      "album": {
+        "name": "Insecurity",
+        "url": "https://open.spotify.com/album/0aFrAXbbZZF82pRhaT7O1Q"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Insecurity",
+      "url": "https://open.spotify.com/track/5OvQtruSErQghU31RE8ITe"
     },
     {
       "added_at": "2026-01-16 14:00:04",

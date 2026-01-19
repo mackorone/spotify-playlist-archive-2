@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Jenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,921 likes - 101 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,966 likes - 101 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

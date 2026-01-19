@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,634 likes - 102 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,647 likes - 102 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

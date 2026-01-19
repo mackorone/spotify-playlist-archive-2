@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Nita",
-  "num_followers": 24727,
+  "num_followers": 24754,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
         "name": "Czu\u0142y punkt",
         "url": "https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
         "name": "Nic nie p\u0142onie",
         "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
       },
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
-        "url": "https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me"
-      },
-      "artists": [
-        {
-          "name": "Krzyk Mody",
-          "url": "https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
-      "url": "https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
         "name": "Na dno",
         "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 220840,
       "name": "Na dno",
       "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
+        "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
+        "url": "https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me"
+      },
+      "artists": [
+        {
+          "name": "Krzyk Mody",
+          "url": "https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
+      "url": "https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM"
     },
     {
       "added_at": "2026-01-16 10:23:21",
@@ -683,6 +683,26 @@
       "duration_ms": 198882,
       "name": "Wyjmij mnie",
       "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
+        "name": "WARM UP",
+        "url": "https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV"
+      },
+      "artists": [
+        {
+          "name": "zuziula",
+          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
+        },
+        {
+          "name": "Propz",
+          "url": "https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2"
+        }
+      ],
+      "duration_ms": 175094,
+      "name": "B\u0118D\u0118 KIM\u015a",
+      "url": "https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp"
     },
     {
       "added_at": "2026-01-16 10:23:21",
@@ -847,6 +867,22 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
+        "name": "Rany, chyba nie daj\u0119 rady",
+        "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "duration_ms": 151038,
+      "name": "Rany, chyba nie daj\u0119 rady",
+      "url": "https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
         "name": "Blue music",
         "url": "https://open.spotify.com/album/4xuNNfpH4La2sigSZA0aYW"
       },
@@ -867,22 +903,6 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "Rany, chyba nie daj\u0119 rady",
-        "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 151038,
-      "name": "Rany, chyba nie daj\u0119 rady",
-      "url": "https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
         "name": "KEEPITUP",
         "url": "https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV"
       },
@@ -895,6 +915,22 @@
       "duration_ms": 238978,
       "name": "KEEPITUP",
       "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
+        "name": "NAD RANEM",
+        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "NAD RANEM",
+      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
     },
     {
       "added_at": "2026-01-16 10:23:21",
@@ -919,22 +955,50 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "WARM UP",
-        "url": "https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV"
+        "name": "MILCZ",
+        "url": "https://open.spotify.com/album/72vc2D3brHNtwxuBlylJTG"
       },
       "artists": [
         {
-          "name": "zuziula",
-          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
-        },
-        {
-          "name": "Propz",
-          "url": "https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2"
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
         }
       ],
-      "duration_ms": 175094,
-      "name": "B\u0118D\u0118 KIM\u015a",
-      "url": "https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp"
+      "duration_ms": 148818,
+      "name": "MILCZ",
+      "url": "https://open.spotify.com/track/089Hm491O6KqdCU53oDLoU"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
+        "name": "bravo girl",
+        "url": "https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 185165,
+      "name": "bravo girl",
+      "url": "https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
+        "name": "To dopiero pocz\u0105tek",
+        "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 217290,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
     },
     {
       "added_at": "2026-01-16 10:23:21",
@@ -959,54 +1023,6 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "NAD RANEM",
-        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "NAD RANEM",
-      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
-        "name": "To dopiero pocz\u0105tek",
-        "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 217290,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
-        "name": "bravo girl",
-        "url": "https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 185165,
-      "name": "bravo girl",
-      "url": "https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
         "name": "dooko\u0142a mnie",
         "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
       },
@@ -1023,6 +1039,22 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
+        "name": "Blue Monday",
+        "url": "https://open.spotify.com/album/1ku1kT9D2zCWfrh6wLRPY6"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 274787,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/3gpzozDyWN8dFBLLvz0NLN"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
         "name": "Kwiaty",
         "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
       },
@@ -1035,6 +1067,26 @@
       "duration_ms": 168661,
       "name": "Kwiaty",
       "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
+    },
+    {
+      "added_at": "2026-01-16 10:23:21",
+      "album": {
+        "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
+        "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
+      },
+      "artists": [
+        {
+          "name": "Jadwiga Zarzycka",
+          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
+        },
+        {
+          "name": "Maria Sadowska",
+          "url": "https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC"
+        }
+      ],
+      "duration_ms": 206300,
+      "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
+      "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
     },
     {
       "added_at": "2026-01-16 10:23:21",
@@ -1075,26 +1127,6 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
-        "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
-      },
-      "artists": [
-        {
-          "name": "Jadwiga Zarzycka",
-          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
-        },
-        {
-          "name": "Maria Sadowska",
-          "url": "https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC"
-        }
-      ],
-      "duration_ms": 206300,
-      "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
-      "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
         "name": "Boisz si\u0119",
         "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
       },
@@ -1115,22 +1147,6 @@
     {
       "added_at": "2026-01-16 10:23:21",
       "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
         "name": "Sedno",
         "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 141000,
       "name": "Sedno",
       "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
-    },
-    {
-      "added_at": "2026-01-16 10:23:21",
-      "album": {
-        "name": "Rzeka",
-        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
-      },
-      "artists": [
-        {
-          "name": "Clayknot",
-          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Rzeka",
-      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
     }
   ],
   "unique_name": "up next",

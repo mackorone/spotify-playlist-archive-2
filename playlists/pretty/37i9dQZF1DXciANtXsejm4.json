@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 329240,
+  "num_followers": 329397,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 201066,
       "name": "Y Que De M\u00ed",
       "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Tu Sombra en Mi",
-      "url": "https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Tu Sombra en Mi",
+      "url": "https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -267,8 +267,8 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+      "duration_ms": 187148,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/6a0FNGCFye7YPJc02S6vDF"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -347,8 +347,8 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca"
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 187148,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/6a0FNGCFye7YPJc02S6vDF"
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "El M\u00e1s Parrandero",
-        "url": "https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd"
+        "name": "C\u00f3mo Le Gusta A Mi Gente",
+        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 270453,
-      "name": "Sufrir\u00e1s",
-      "url": "https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g"
+      "duration_ms": 253800,
+      "name": "Que Precio Tiene El Cielo",
+      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -567,8 +567,8 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "C\u00f3mo Le Gusta A Mi Gente",
-        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
+        "name": "El M\u00e1s Parrandero",
+        "url": "https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Que Precio Tiene El Cielo",
-      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+      "duration_ms": 270453,
+      "name": "Sufrir\u00e1s",
+      "url": "https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
+        "name": "Apaga La Tele",
+        "url": "https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy"
       },
       "artists": [
         {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
         }
       ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+      "duration_ms": 174165,
+      "name": "Apaga La Tele",
+      "url": "https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Apaga La Tele",
-        "url": "https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy"
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
       "artists": [
         {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
         }
       ],
-      "duration_ms": 174165,
-      "name": "Apaga La Tele",
-      "url": "https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC"
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2025-12-01 13:20:09",

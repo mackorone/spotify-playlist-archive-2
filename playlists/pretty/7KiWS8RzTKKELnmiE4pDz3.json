@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAflShrP802+LN3yWbTCmEuaPLyXF/G",
+  "snapshot_id": "AAAflhMFIOESHelmkSSEoblCnAT39xaI",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -8231,6 +8231,26 @@
       "duration_ms": 251906,
       "name": "The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version",
       "url": "https://open.spotify.com/track/52uU5uNt9lOstGCc6C7QEJ"
+    },
+    {
+      "added_at": "2026-01-19 01:33:40",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 116733,
+      "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
+      "url": "https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n"
     }
   ],
   "unique_name": "main ",

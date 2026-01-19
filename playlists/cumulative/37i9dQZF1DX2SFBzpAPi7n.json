@@ -8997,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "Kidult",
+        "url": "https://open.spotify.com/album/0FV6J2eoZ4t6bUksrfRQG5"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Kidult",
+      "url": "https://open.spotify.com/track/1My1uY7NNNkeEGBqMENGoz"
+    },
+    {
+      "album": {
         "name": "3LOGY",
         "url": "https://open.spotify.com/album/3IY5HE1P7GADh5Ojpe5PZU"
       },
@@ -9008,7 +9026,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 180000,
       "name": "Killer Joy",
       "url": "https://open.spotify.com/track/4QAALgs6KkeklDwg4UeuzP"
@@ -10186,6 +10204,24 @@
       "duration_ms": 183000,
       "name": "Love is No Sin",
       "url": "https://open.spotify.com/track/1kpRu51hGlJmBbJoQMchoJ"
+    },
+    {
+      "album": {
+        "name": "Can This Love Be Translated? (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185547,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP"
     },
     {
       "album": {
@@ -13280,7 +13316,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 179386,
       "name": "Pump Up The Volume!",
       "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
@@ -15160,7 +15196,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 213000,
       "name": "Sincere Lies (Feat. GARY)",
       "url": "https://open.spotify.com/track/1NK9RWPSHo1sti3n5gSR7z"
@@ -17576,7 +17612,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"

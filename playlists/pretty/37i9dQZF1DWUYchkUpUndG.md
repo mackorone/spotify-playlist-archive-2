@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Tkeyz and Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,561 likes - 132 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,593 likes - 132 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

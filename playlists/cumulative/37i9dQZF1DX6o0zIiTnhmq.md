@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-188 songs - 1 day 21 hr 5 min
+189 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Ik Onkar \- Mool Mantra](https://open.spotify.com/track/7JKIryV7GlXMpbzF7QuLwC) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Ik Onkar \- Mool Mantra](https://open.spotify.com/album/2F4KvMF2TeB5nIWZFZJAju) | 5:11 | 2025-01-13 |  |
 | [Jap Le Mannva](https://open.spotify.com/track/7sNeybpyjW2Pp2P0xe6pib) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 4:00 | 2024-02-23 | 2024-09-14 |
 | [Kali Sahasranama](https://open.spotify.com/track/6ZwA6i0FoP5dKSsSrWfiDx) | [Shubhra Agnihotri](https://open.spotify.com/artist/6LHtfZj7IMdtlyYGh2JeUS) | [Kali Sahasranama](https://open.spotify.com/album/4DTZ5iAAy1TEzSBxRgcl6g) | 31:04 | 2025-02-07 | 2025-07-12 |
-| [Kali Sahasranama Stotram](https://open.spotify.com/track/7GmfyieeIgnRbdY7Cl4soT) | [Mugdha Vaishampayan](https://open.spotify.com/artist/6w3ORCH9s76YFNWrBDj14F) | [Kali Sahasranama Stotram](https://open.spotify.com/album/589GGuAPdfZxB59Rz2H4w0) | 31:29 | 2025-11-26 |  |
+| [Kali Sahasranama Stotram](https://open.spotify.com/track/7GmfyieeIgnRbdY7Cl4soT) | [Mugdha Vaishampayan](https://open.spotify.com/artist/6w3ORCH9s76YFNWrBDj14F) | [Kali Sahasranama Stotram](https://open.spotify.com/album/589GGuAPdfZxB59Rz2H4w0) | 31:29 | 2025-11-26 | 2026-01-19 |
 | [Kar Darshanam](https://open.spotify.com/track/2kavzWD9eedpa1ueYu79pW) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 1:01 | 2022-01-24 | 2022-07-29 |
 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 | 2022-01-24 | 2023-08-11 |
 | [Kar Darshanam](https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sunrise to Sunset, Vol\. 1](https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa) | 1:01 | 2022-08-05 | 2022-11-13 |
@@ -161,6 +161,7 @@
 | [Shiv Gayatri Mantra](https://open.spotify.com/track/517LGCx1efHiGyZpYlW2bI) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shiv Gayatri Mantra](https://open.spotify.com/album/3W6cZZ15Zt7EPReYFHOloS) | 5:36 | 2025-04-07 | 2025-10-07 |
 | [Shiv Mahimna Stotra](https://open.spotify.com/track/12hZYt5gpkfP7UzpYYJHxd) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shiv Mahimna Stotra](https://open.spotify.com/album/2bjbfBm4rgKJDehmzayF8O) | 23:49 | 2025-02-07 | 2025-02-13 |
 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 | 2023-08-10 |  |
+| [Shiv Tandav Stotram](https://open.spotify.com/track/6NFAlpTFpLrYBrsFuiloH3) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Shiv Tandav Stotram](https://open.spotify.com/album/5L89HjLOUHzhYLsrncv5pv) | 9:13 | 2026-01-18 |  |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/23gj0ztuhpH7H2l2d4hT3J) | 3:18 | 2023-12-26 | 2024-02-16 |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/6fI7Z1YcFQoS4mq3JZYLT6) | 3:18 | 2023-11-05 | 2024-02-24 |
 | [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 | 2023-07-28 | 2023-12-12 |

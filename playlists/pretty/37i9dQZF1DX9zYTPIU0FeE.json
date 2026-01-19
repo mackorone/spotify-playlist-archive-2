@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12673,
+  "num_followers": 12678,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        },
-        {
-          "name": "MoAfrika Wa Mokgathi",
-          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Elusive Freedom",
-      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        },
+        {
+          "name": "MoAfrika Wa Mokgathi",
+          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Elusive Freedom",
+      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
     },
     {
       "added_at": "2025-11-07 00:07:51",

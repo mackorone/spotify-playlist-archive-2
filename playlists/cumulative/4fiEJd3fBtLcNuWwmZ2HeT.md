@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-435 songs - 1 day 1 hr 21 min
+438 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 | 2025-05-27 |  |
 | [Knife of Love](https://open.spotify.com/track/3uA8nw4Jwgdcq6Q8JXTMYx) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [Knife of Love](https://open.spotify.com/album/579EA2TK9INZyfuJ1mH7Y9) | 2:42 | 2025-04-06 |  |
 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 | 2025-05-27 |  |
-| [Koukatsu](https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:46 | 2026-01-17 |  |
+| [Koukatsu](https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:46 | 2026-01-17 | 2026-01-19 |
 | [Kubiwa Kyouiku no Susume](https://open.spotify.com/track/454m8n2FSYs4jOxJz49REC) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Kubiwa Kyouiku no Susume](https://open.spotify.com/album/0zH8j5cGtsFW4G0Yb1hEdq) | 3:50 | 2025-09-25 |  |
 | [KUCHUBURANKO](https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [KUCHUBURANKO](https://open.spotify.com/album/2fy2QRd4TmqZyM1cYSVRTN) | 5:24 | 2025-10-16 |  |
 | [kyu\-kurarin](https://open.spotify.com/track/2DH3aIhZH7sD9XSLKwSusd) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/5pqafuysvNgetlr7tZKTZk) | 3:37 | 2025-08-30 |  |
@@ -155,6 +155,7 @@
 | [Lepido](https://open.spotify.com/track/480iwKxMnM5sZsP8FjE1Y2) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:39 | 2025-05-20 |  |
 | [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 | 2025-04-16 |  |
 | [Like an idiot](https://open.spotify.com/track/27j5sGsWlhwNtHz5gY5bMB) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Like an idiot](https://open.spotify.com/album/2jEG6sJvdmgYS4UzSDiE7m) | 2:10 | 2024-01-22 |  |
+| [Looping the Rooms \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI) | [rusino](https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Looping the Rooms / Lambent Aria](https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM) | 2:14 | 2026-01-18 |  |
 | [Los! Los! Los!](https://open.spotify.com/track/4M5WCAgpMCbBYwaQerEkMo) | [ターニャ・デグレチャフ\(CV:悠木碧\)](https://open.spotify.com/artist/6swJSqM6NMF0u3kslRDRwu) | [TVアニメ「幼女戦記」エンディングテーマ「Los! Los! Los!」](https://open.spotify.com/album/3zfMMMTn2pp4sd2a7wln92) | 3:37 | 2024-06-10 |  |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-05-05 |  |
 | [Love I Need](https://open.spotify.com/track/1pvjgrDx35jAt5FOcdrsuT) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Love I Need](https://open.spotify.com/album/7oQqmAf8OR0zfW5wbZIVH4) | 3:12 | 2022-08-04 |  |
@@ -176,7 +177,9 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-11-28 |  |
 | [moshimoshi](https://open.spotify.com/track/6ioQplGa4tsMtgGtH2vrcu) | [Mamireta](https://open.spotify.com/artist/70fpaWdKERbVq5PNXEWcjk) | [moshimoshi](https://open.spotify.com/album/7MyLRzjdYbEhfG7AGz0fPP) | 3:18 | 2025-08-10 |  |
 | [Mr\. Loverman](https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:36 | 2023-12-17 |  |
+| [My bread was Burnt to a Crisp](https://open.spotify.com/track/1Sv11p7ViXK4hwgioiQIOE) | [picdo](https://open.spotify.com/artist/0OZLgdMz8IijJ4zJofCM5L), [Rei Adachi](https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re) | [My bread was Burnt to a Crisp](https://open.spotify.com/album/5tCpuVqeBgh3hlbrwlKrRO) | 0:44 | 2026-01-18 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-07-04 |  |
+| [My September](https://open.spotify.com/track/5awD45wQF7zj7ywVw6kKIM) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/36sx9zofL5sI6StsgsB3ms) | 4:40 | 2026-01-18 |  |
 | [My September](https://open.spotify.com/track/79YWz8oV1RZxdi2UVpbrB7) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 4:40 | 2024-08-02 |  |
 | [Necro no Hanayome](https://open.spotify.com/track/228q0rCvDuHo7Mdb1i5z1O) | [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [RUNWAY](https://open.spotify.com/album/4fYSc5hRJ9VuCASYHPvmns) | 4:05 | 2025-12-16 |  |
 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2024-06-17 |  |

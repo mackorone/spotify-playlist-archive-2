@@ -783,26 +783,6 @@
     {
       "added_at": "2024-12-02 14:59:51",
       "album": {
-        "name": "Brat/Nasty",
-        "url": "https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC"
-      },
-      "artists": [
-        {
-          "name": "J Wax",
-          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
-        },
-        {
-          "name": "LN",
-          "url": "https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Brat",
-      "url": "https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI"
-    },
-    {
-      "added_at": "2024-12-02 14:59:51",
-      "album": {
         "name": "Chez Moi (Waiting For You)",
         "url": "https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 385607,
       "name": "Chez Moi (Waiting For You) - Club Mix",
       "url": "https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo"
+    },
+    {
+      "added_at": "2024-12-02 14:59:51",
+      "album": {
+        "name": "Brat/Nasty",
+        "url": "https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC"
+      },
+      "artists": [
+        {
+          "name": "J Wax",
+          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
+        },
+        {
+          "name": "LN",
+          "url": "https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ"
+        }
+      ],
+      "duration_ms": 152659,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI"
     },
     {
       "added_at": "2024-12-02 14:59:51",

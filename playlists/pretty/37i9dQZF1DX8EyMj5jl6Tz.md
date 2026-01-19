@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 
 > Dance remixes of popular songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,241 likes - 150 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,500 likes - 150 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 | 149 | [Shivers \(feat\. Sam Rendina\)](https://open.spotify.com/track/29Ck3QVMprwhElUjqJUCKr) | [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [Brøder](https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR), [DEBO](https://open.spotify.com/artist/3EznjIn5ZWWsgVtljYDd7Y), [Sam Rendina](https://open.spotify.com/artist/2vTsgwtZQXNvWuDNB5dtIK) | [Shivers \(Feat\. Sam Rendina\)](https://open.spotify.com/album/50m0njzQ4jYx8UmbHy7sTX) | 2:43 |
 | 150 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 |
 
-Snapshot ID: `AAAAAC6lcXn9ucF1hen8AoaeJaOALYWi`
+Snapshot ID: `AAAAAKUfujw7AOxEieM8TxdMlwWD6o7r`

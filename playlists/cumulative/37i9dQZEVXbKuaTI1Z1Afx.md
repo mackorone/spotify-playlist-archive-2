@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,712 songs - 10 day 13 hr 14 min
+4,713 songs - 10 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4088,7 +4088,8 @@
 | [The Wizard And I](https://open.spotify.com/track/0nkHQKAeFFviNCHCo2HErO) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Carole Shelley](https://open.spotify.com/artist/31qXl2kZWi81O4SU8Efvys), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi), [Alex Lacamoire](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) | [Defying Gravity: Songs from Wicked](https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ) | 5:09 | 2024-11-24 | 2024-12-06 |
 | [The Wizard And I \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/3TJQRDc5qot9GJb6T0Pdh2) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Carole Shelley](https://open.spotify.com/artist/31qXl2kZWi81O4SU8Efvys), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi), [Alex Lacamoire](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) | [Wicked](https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR) | 5:09 | 2024-11-14 | 2024-11-30 |
 | [The Wreck of the Edmund Fitzgerald](https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Summertime Dream](https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8) | 6:29 | 2023-05-03 | 2025-11-22 |
-| [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 | 2026-01-15 |  |
+| [theclubrock](https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/4upEx9M0b73bqjeiej0Prp) | 2:02 | 2026-01-18 |  |
+| [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 | 2026-01-15 | 2026-01-19 |
 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 | 2021-12-30 | 2022-02-02 |
 | [There Is Something on Your Mind](https://open.spotify.com/track/1bSBbbH9KYzwsKosToLeAC) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 3:22 | 2022-02-16 | 2022-03-14 |
 | [There She Goes](https://open.spotify.com/track/71WVaCgIEVbfTgL0iJt8c3) | [Roots Makers](https://open.spotify.com/artist/5GW8eA8cu6Wom2eUecc9wR), [Kapena Mokiao](https://open.spotify.com/artist/6rjWVlFPZOCFu7vmfIE58s) | [Summer Lovers \- EP](https://open.spotify.com/album/21lgsFYZeRulQ5lJRJD9QV) | 3:43 | 2025-06-24 | 2025-07-04 |

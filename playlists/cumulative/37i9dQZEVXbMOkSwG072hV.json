@@ -11870,7 +11870,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 157882,
       "name": "Brand\u00e3o085 - Warzone",
       "url": "https://open.spotify.com/track/4Rga1YP5uwlsSXRr1quFpY"
@@ -66319,6 +66319,24 @@
     },
     {
       "album": {
+        "name": "Quero o Seu Amor",
+        "url": "https://open.spotify.com/album/3DU43lW6aGiKHGOOdolXKB"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/30tExRU8h8VOiCeL9ia2aK"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184704,
+      "name": "Quero o Seu Amor",
+      "url": "https://open.spotify.com/track/5ealTwFIxSxIaVym9YGXLV"
+    },
+    {
+      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -72442,7 +72460,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 361875,
       "name": "Set do Rincon 1",
       "url": "https://open.spotify.com/track/7t2JELey25yJKmZLA00BJz"
@@ -77274,6 +77292,32 @@
       "duration_ms": 177650,
       "name": "Tanto Faz",
       "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
+    },
+    {
+      "album": {
+        "name": "Tantos Mares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283406,
+      "name": "Tantos Mares - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
     },
     {
       "album": {

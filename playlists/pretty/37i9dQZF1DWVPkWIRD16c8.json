@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 246221,
+  "num_followers": 246302,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 193091,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Heaven On My Mind",
-        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 203450,
-      "name": "Heaven On My Mind",
-      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+      "duration_ms": 193091,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
+        "name": "Nothin' Sweeter",
+        "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 176929,
+      "name": "Nothin' Sweeter",
+      "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
         "name": "Far Country",
         "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 192250,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
-        "name": "Nothin' Sweeter",
-        "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 176929,
-      "name": "Nothin' Sweeter",
-      "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
+        "name": "STEPPIN in the LIGHT",
+        "url": "https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "IN THE LIGHT",
+      "url": "https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 120000,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
-        "name": "STEPPIN in the LIGHT",
-        "url": "https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I"
-      },
-      "artists": [
-        {
-          "name": "Anike",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "IN THE LIGHT",
-      "url": "https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv"
     },
     {
       "added_at": "2025-12-12 22:21:53",

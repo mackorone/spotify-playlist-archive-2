@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 274495,
+  "num_followers": 274593,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Pretty & Plump",
         "url": "https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Take No Chat",
         "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 214285,
       "name": "Take No Chat",
       "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
+      },
+      "artists": [
+        {
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -839,6 +859,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "If You Could Be My Sweetheart",
+        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "If You Could Be My Sweetheart",
+      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "SEND IT",
         "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
       },
@@ -859,18 +895,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "If You Could Be My Sweetheart",
-        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
+        "name": "The Things That We Should Say",
+        "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
       },
       "artists": [
         {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+          "name": "TACTICS",
+          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
-      "duration_ms": 246857,
-      "name": "If You Could Be My Sweetheart",
-      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
+      "duration_ms": 128394,
+      "name": "The Things That We Should Say",
+      "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -891,26 +931,6 @@
       "duration_ms": 187708,
       "name": "I Would Like - Chad Harrison Remix",
       "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "The Things That We Should Say",
-        "url": "https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv"
-      },
-      "artists": [
-        {
-          "name": "TACTICS",
-          "url": "https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 128394,
-      "name": "The Things That We Should Say",
-      "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1207,26 +1227,6 @@
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
-      },
-      "artists": [
-        {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
-        },
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
     },
     {
       "added_at": "2026-01-16 00:00:17",

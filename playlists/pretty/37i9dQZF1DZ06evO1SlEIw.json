@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAADNQFbtCExihH52Qlg40qMo",
+  "snapshot_id": "aWrRAAAAAAADaph1SbRPTbSf01XnR8NF",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 315255,
-      "name": "\u96db\u9ce5 - Vocalized Version",
-      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
+      "duration_ms": 341344,
+      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
+      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 341344,
-      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
-      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
+      "duration_ms": 315255,
+      "name": "\u96db\u9ce5 - Vocalized Version",
+      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 687298,
-      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
-      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
+      "duration_ms": 326693,
+      "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
+      "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 326693,
-      "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
-      "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
+      "duration_ms": 687298,
+      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
+      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
     },
     {
       "added_at": null,

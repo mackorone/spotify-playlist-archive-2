@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Anemoia Vol.1",
+        "url": "https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY"
+      },
+      "artists": [
+        {
+          "name": "Obsoletha",
+          "url": "https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "A Blast From The Past",
+      "url": "https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu"
+    },
+    {
+      "album": {
         "name": "Mindfield",
         "url": "https://open.spotify.com/album/5jylpsenC69YTYfbCO6SOp"
       },
@@ -786,7 +804,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 160783,
       "name": "Apology",
       "url": "https://open.spotify.com/track/2wdAXsku85d1vbcd6Pp3u4"
@@ -3239,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/4SIRuWMdM4TvtpFm1UFgZv"
+      },
+      "artists": [
+        {
+          "name": "iKRE8",
+          "url": "https://open.spotify.com/artist/31XomTA1IIP922ysdLvkd2"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203319,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/0PjlSkcr4QUKT6prsiV6Sc"
+    },
+    {
+      "album": {
         "name": "do you hear me now ?",
         "url": "https://open.spotify.com/album/4F1c5GSA7rHwqhDty7d0Yj"
       },
@@ -4929,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4U8GAhOShNYQE6YuhdmK2D"
+      },
+      "artists": [
+        {
+          "name": "J.C. Maru",
+          "url": "https://open.spotify.com/artist/0P9mdqeeWfIG1jyBSsLUC7"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201683,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/4ElvUEDrfa5O2fMIOafDdI"
+    },
+    {
+      "album": {
         "name": "Food and Water",
         "url": "https://open.spotify.com/album/7IUS9S8uYOJ1U4YiVZJMCL"
       },
@@ -5634,7 +5688,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 105941,
       "name": "Guard Down",
       "url": "https://open.spotify.com/track/4SgEprlJd3NR3eJPVwwtFa"
@@ -8366,7 +8420,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 152818,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/24kV93ixZsfscwc9LNjqfN"
@@ -8576,7 +8630,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 204536,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/2SNfhi0vP2FCOic7iBMEzj"
@@ -9136,7 +9190,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 173339,
       "name": "Movin On",
       "url": "https://open.spotify.com/track/2Nr5sqgOtW5xG1xA8IoFAo"
@@ -9176,6 +9230,24 @@
       "duration_ms": 308235,
       "name": "Mumble and Peg",
       "url": "https://open.spotify.com/track/4SYpeTHhmQEAooBoWrcKc7"
+    },
+    {
+      "album": {
+        "name": "we almost existed",
+        "url": "https://open.spotify.com/album/7IBIrTUNrqdx3oP6IBCGeX"
+      },
+      "artists": [
+        {
+          "name": "Lynwi",
+          "url": "https://open.spotify.com/artist/7lodS5zmwpwEicx9QxuElv"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "music box",
+      "url": "https://open.spotify.com/track/7MyJHFbpzNqlQMu8NoEzIN"
     },
     {
       "album": {
@@ -10602,7 +10674,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 217839,
       "name": "People You Become",
       "url": "https://open.spotify.com/track/41GRehbWpLErI8XSo4HSZD"

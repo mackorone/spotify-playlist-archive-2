@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: \nAmy Gadiaga",
-  "num_followers": 335115,
+  "num_followers": 335140,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
+        "name": "Teal Dreams",
+        "url": "https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Longest Way Round",
+      "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
       },
@@ -259,18 +275,18 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "Teal Dreams",
-        "url": "https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ"
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Longest Way Round",
-      "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -291,38 +307,6 @@
       "duration_ms": 225613,
       "name": "Twisting (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -359,6 +343,22 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 176715,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
+        "name": "What We Do",
+        "url": "https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "What We Do",
+      "url": "https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -391,22 +407,6 @@
       "duration_ms": 229906,
       "name": "Twang",
       "url": "https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
-        "name": "What We Do",
-        "url": "https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "What We Do",
-      "url": "https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "Tracy Beaker",
-        "url": "https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s"
-      },
-      "artists": [
-        {
-          "name": "BINA.",
-          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Tracy Beaker",
-      "url": "https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
         "name": "No Others / When Palestine Is Free",
         "url": "https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 266426,
       "name": "No Others",
       "url": "https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
+        "name": "Tracy Beaker",
+        "url": "https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Tracy Beaker",
+      "url": "https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "THE WHIRR",
-        "url": "https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx"
+        "name": "Brown Penny",
+        "url": "https://open.spotify.com/album/0Fk5K3WqlJpul1nRUgOOSm"
       },
       "artists": [
         {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+          "name": "Brown Penny",
+          "url": "https://open.spotify.com/artist/2GKfcKmg033I05MZPVHM5d"
         }
       ],
-      "duration_ms": 330085,
-      "name": "Don Gino",
-      "url": "https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ"
+      "duration_ms": 262911,
+      "name": "Nowadays",
+      "url": "https://open.spotify.com/track/4n0jArV3iicpREgHp99uRe"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "Brown Penny",
-        "url": "https://open.spotify.com/album/0Fk5K3WqlJpul1nRUgOOSm"
-      },
-      "artists": [
-        {
-          "name": "Brown Penny",
-          "url": "https://open.spotify.com/artist/2GKfcKmg033I05MZPVHM5d"
-        }
-      ],
-      "duration_ms": 262911,
-      "name": "Nowadays",
-      "url": "https://open.spotify.com/track/4n0jArV3iicpREgHp99uRe"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
         "name": "Save You",
         "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 132320,
       "name": "Save You",
       "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
+        "name": "THE WHIRR",
+        "url": "https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        }
+      ],
+      "duration_ms": 330085,
+      "name": "Don Gino",
+      "url": "https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "Prophet",
-        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 296186,
-      "name": "Prophet",
-      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
         "name": "Squeeze",
         "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
+        "name": "Prophet",
+        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
+        "name": "I Get Along Without You Very Well",
+        "url": "https://open.spotify.com/album/0TalkBjr8BLBQdfDYPgbMh"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 178370,
+      "name": "I Get Along Without You Very Well",
+      "url": "https://open.spotify.com/track/0FSv96L0MHQLsqNqz4FSAA"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
         "name": "Cali",
         "url": "https://open.spotify.com/album/0Yj5zhtDAOsEX8Ttvf0ezI"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 175247,
       "name": "Cali",
       "url": "https://open.spotify.com/track/0QLMIFB1tGQBQ3HlGVKWsp"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
-        "name": "I Get Along Without You Very Well",
-        "url": "https://open.spotify.com/album/0TalkBjr8BLBQdfDYPgbMh"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 178370,
-      "name": "I Get Along Without You Very Well",
-      "url": "https://open.spotify.com/track/0FSv96L0MHQLsqNqz4FSAA"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "BabyGoated",
-        "url": "https://open.spotify.com/album/3PhOU4yafgKTKWOYM0k0yH"
-      },
-      "artists": [
-        {
-          "name": "Amy Gadiaga",
-          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
-        }
-      ],
-      "duration_ms": 238433,
-      "name": "BabyGoated",
-      "url": "https://open.spotify.com/track/11rX5L5m4Bjn3sJ6xAQg6W"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
         "name": "Give Me Time",
         "url": "https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219125,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
+        "name": "BabyGoated",
+        "url": "https://open.spotify.com/album/3PhOU4yafgKTKWOYM0k0yH"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "duration_ms": 238433,
+      "name": "BabyGoated",
+      "url": "https://open.spotify.com/track/11rX5L5m4Bjn3sJ6xAQg6W"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/1PexTdqHu6pScyHcvDrFyZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2lo",
+          "url": "https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN"
+        }
+      ],
+      "duration_ms": 207209,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 96529,
       "name": "Agave Flute",
       "url": "https://open.spotify.com/track/0QFqGiwrunHgwpflzQhgmQ"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
-        "name": "Yearning",
-        "url": "https://open.spotify.com/album/1PexTdqHu6pScyHcvDrFyZ"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2lo",
-          "url": "https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN"
-        }
-      ],
-      "duration_ms": 207209,
-      "name": "Yearning",
-      "url": "https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY"
     },
     {
       "added_at": "2026-01-16 17:29:59",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-01-16 17:29:59",
       "album": {
-        "name": "Schism",
-        "url": "https://open.spotify.com/album/5aPDLmcYcgV8CKipAp4vyd"
-      },
-      "artists": [
-        {
-          "name": "Mike de Souza",
-          "url": "https://open.spotify.com/artist/5amuwSXGocWv4MZ5PhrT4d"
-        }
-      ],
-      "duration_ms": 355963,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/3F3rxHeVip60UIolkWpuEx"
-    },
-    {
-      "added_at": "2026-01-16 17:29:59",
-      "album": {
         "name": "Tempest",
         "url": "https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 296607,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
+    },
+    {
+      "added_at": "2026-01-16 17:29:59",
+      "album": {
+        "name": "Schism",
+        "url": "https://open.spotify.com/album/5aPDLmcYcgV8CKipAp4vyd"
+      },
+      "artists": [
+        {
+          "name": "Mike de Souza",
+          "url": "https://open.spotify.com/artist/5amuwSXGocWv4MZ5PhrT4d"
+        }
+      ],
+      "duration_ms": 355963,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/3F3rxHeVip60UIolkWpuEx"
     },
     {
       "added_at": "2026-01-16 17:29:59",

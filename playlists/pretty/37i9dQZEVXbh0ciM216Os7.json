@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWnF0AAAAADNtaHSYgDF/D617hBX4y1N",
+  "snapshot_id": "aWnF0AAAAAByTWvvt61E4hMq2EzwlcVW",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/6Coz2RxA3NX2BZKCn9Hzme"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
+    },
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
@@ -39,18 +55,58 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "In Another Life",
-        "url": "https://open.spotify.com/album/5aZTL0Zj5cDn7M43SLRNUB"
+        "name": "When It's Cold I'd Like to Die",
+        "url": "https://open.spotify.com/album/0D7jPdOOrPARdIYCmY8d4X"
       },
       "artists": [
         {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
         }
       ],
-      "duration_ms": 193299,
-      "name": "My Friend Max",
-      "url": "https://open.spotify.com/track/460m8WStichQb9VVyXvlxa"
+      "duration_ms": 256755,
+      "name": "When It's Cold I'd Like to Die",
+      "url": "https://open.spotify.com/track/1uSxWX6zhhqwoopRS0wWaa"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Not Free Money (with DENM)",
+        "url": "https://open.spotify.com/album/3qBY9BfELGiDnIT2XsEAGL"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Not Free Money (with DENM)",
+      "url": "https://open.spotify.com/track/0GlDJWpDdKoOMAWs4doqPa"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Slid Off",
+        "url": "https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 140924,
+      "name": "Slid Off",
+      "url": "https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -111,46 +167,6 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "NOTHING IS REAL",
-        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
-        "name": "Not Free Money (with DENM)",
-        "url": "https://open.spotify.com/album/3qBY9BfELGiDnIT2XsEAGL"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "DENM",
-          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Not Free Money (with DENM)",
-      "url": "https://open.spotify.com/track/0GlDJWpDdKoOMAWs4doqPa"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
         "name": "BURN",
         "url": "https://open.spotify.com/album/41L8dLF51Yi3ljcNWnNcul"
       },
@@ -179,54 +195,22 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "It's A Sin",
-        "url": "https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE"
+        "name": "NOTHING IS REAL",
+        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "It's A Sin",
-      "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
-        "name": "Slid Off",
-        "url": "https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 140924,
-      "name": "Slid Off",
-      "url": "https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
-        "name": "When It's Cold I'd Like to Die",
-        "url": "https://open.spotify.com/album/0D7jPdOOrPARdIYCmY8d4X"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         },
         {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 256755,
-      "name": "When It's Cold I'd Like to Die",
-      "url": "https://open.spotify.com/track/1uSxWX6zhhqwoopRS0wWaa"
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -359,22 +343,6 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5fp45VwDm11DHawMxhhPvm"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 232942,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/0PBOXo6u13fM8hiwv701kW"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
         "name": "PUNK ROCKY",
         "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
       },
@@ -387,6 +355,26 @@
       "duration_ms": 235344,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 239582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -419,26 +407,6 @@
       "duration_ms": 232378,
       "name": "Such A Funny Way",
       "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 239582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -479,6 +447,22 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
+        "name": "Shrovers",
+        "url": "https://open.spotify.com/album/4znI8mbvNLkj4wfmXYp2c4"
+      },
+      "artists": [
+        {
+          "name": "Shred Meyer",
+          "url": "https://open.spotify.com/artist/2iSz7OPfgyR2c3EM1pKMoT"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Kiss Me Thru The Phone",
+      "url": "https://open.spotify.com/track/7IwwgpjS9rj72ETYUy6zdG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
         "name": "Arroz con Pollo",
         "url": "https://open.spotify.com/album/0ftVPflVJg7D53DFA9boyB"
       },
@@ -495,18 +479,34 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Shrovers",
-        "url": "https://open.spotify.com/album/4znI8mbvNLkj4wfmXYp2c4"
+        "name": "Here We Go! (Steeler Fight Song 2025-2026 Season)",
+        "url": "https://open.spotify.com/album/6iGoySNxB6z8Jv4vhnJgtm"
       },
       "artists": [
         {
-          "name": "Shred Meyer",
-          "url": "https://open.spotify.com/artist/2iSz7OPfgyR2c3EM1pKMoT"
+          "name": "Roger Wood",
+          "url": "https://open.spotify.com/artist/5Sdcs9qxQ28udmAk4Ngv71"
         }
       ],
-      "duration_ms": 204375,
-      "name": "Kiss Me Thru The Phone",
-      "url": "https://open.spotify.com/track/7IwwgpjS9rj72ETYUy6zdG"
+      "duration_ms": 171917,
+      "name": "Here We Go! (Steeler Fight Song 2025-2026 Season)",
+      "url": "https://open.spotify.com/track/4jJ4obXsgbEDxTRgpD11RG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Last Train to London",
+        "url": "https://open.spotify.com/album/0Gp9FL1cWMilwrVtlalcUx"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Last Train to London",
+      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
       "added_at": "2026-01-16 05:00:00",

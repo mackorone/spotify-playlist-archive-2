@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 211393,
       "name": "2much - YCO Jay Remix",
       "url": "https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4"
@@ -192,7 +192,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -976,6 +976,24 @@
       "duration_ms": 130168,
       "name": "It's a Stick Up",
       "url": "https://open.spotify.com/track/26HB2IAUsyDenlJWmkD4zk"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Better",
+        "url": "https://open.spotify.com/album/3SQpLyFjDApF7me9HGKtj5"
+      },
+      "artists": [
+        {
+          "name": "5ive",
+          "url": "https://open.spotify.com/artist/1amQb9Uw9xQGWXyZjW42H1"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116355,
+      "name": "I\u2019m Better",
+      "url": "https://open.spotify.com/track/2yLD8NTUwrDu6g6r8G5xrL"
     },
     {
       "album": {
@@ -1772,6 +1790,28 @@
       "duration_ms": 137142,
       "name": "splat!",
       "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
+    },
+    {
+      "album": {
+        "name": "Stop Leaking You Bitch",
+        "url": "https://open.spotify.com/album/165B42CoYAanyBBGXxwEaf"
+      },
+      "artists": [
+        {
+          "name": "Team East",
+          "url": "https://open.spotify.com/artist/7ckGBRivmMlVOyaAYnRuqV"
+        },
+        {
+          "name": "Off Radar",
+          "url": "https://open.spotify.com/artist/4tGND9ruWooOSDt5j4ZaG1"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128104,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3ocpEYcnzvZ0bjJwRz04JR"
     },
     {
       "album": {

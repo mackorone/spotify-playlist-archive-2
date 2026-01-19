@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 395800,
+  "num_followers": 395823,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 214817,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "Call Me When You Get In",
         "url": "https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 228422,
       "name": "Call Me When You Get In",
       "url": "https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209267,
-      "name": "Colourblind",
-      "url": "https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "By the Way",
-        "url": "https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u"
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 160153,
-      "name": "By the Way",
-      "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -583,6 +567,22 @@
       "duration_ms": 192080,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "By the Way",
+        "url": "https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -747,38 +747,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 194675,
-      "name": "Last Forever - Acoustic",
-      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Here's To Forever",
-        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
-      },
-      "artists": [
-        {
-          "name": "Bart van Liemt",
-          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "Here's To Forever",
-      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "You Give Me Something (Refreshed)",
         "url": "https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV"
       },
@@ -811,6 +779,38 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 194675,
+      "name": "Last Forever - Acoustic",
+      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Saturday Silence",
-        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
       },
       "artists": [
         {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
         }
       ],
-      "duration_ms": 175844,
-      "name": "Saturday Silence",
-      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Illusion (feat. Tangarine) [acoustic]",
         "url": "https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 193749,
       "name": "Illusion (feat. Tangarine) - acoustic",
       "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Brotherhood",
-        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
       "artists": [
         {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
       },
       "artists": [
         {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
         }
       ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+      "duration_ms": 236394,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "I Look For You",
-        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
-      },
-      "artists": [
-        {
-          "name": "BYNK",
-          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
-        }
-      ],
-      "duration_ms": 211704,
-      "name": "I Look For You",
-      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Heart of the Matter",
         "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 244472,
       "name": "Heart of the Matter",
       "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "I Look For You",
+        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
+      },
+      "artists": [
+        {
+          "name": "BYNK",
+          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
+        }
+      ],
+      "duration_ms": 211704,
+      "name": "I Look For You",
+      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Amen (Acoustic)",
-        "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Amen - Acoustic",
-      "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 186040,
       "name": "Lush",
       "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Amen (Acoustic)",
+        "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Amen - Acoustic",
+      "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
     },
     {
       "added_at": "2025-12-05 07:59:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,551 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 27 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 28 | [I Like](https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18) | [71A](https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb) | [I Like](https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD) | 3:38 |
 | 29 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 |
-| 30 | [grab my coat](https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC), [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:37 |
-| 31 | [Mood](https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Mood](https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby) | 4:07 |
+| 30 | [Mood](https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Mood](https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby) | 4:07 |
+| 31 | [grab my coat](https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC), [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:37 |
 | 32 | [COMING DOWN](https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [COMING DOWN](https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z) | 3:19 |
 | 33 | [SE17](https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U), [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP) | [SE17](https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC) | 3:22 |
 | 34 | [Ode To Mumma](https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Mac Wetha & Friends](https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK) | 1:43 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 54 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 |
 | 55 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
 | 56 | [Braid It Back](https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 3:20 |
-| 57 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
-| 58 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
-| 59 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |
+| 57 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
+| 58 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |
+| 59 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
 | 60 | [Out Of The Blue](https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Out Of The Blue](https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo) | 3:27 |
 | 61 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 |
 | 62 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 |

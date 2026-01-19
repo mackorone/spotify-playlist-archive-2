@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 199962,
+  "num_followers": 200015,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "LIEBE IN GEFAHR",
         "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 164936,
       "name": "Jeden Tag mehr",
       "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bourani",
+          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Ultraleicht",
+      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
       "artists": [
         {
-          "name": "Andreas Bourani",
-          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
         }
       ],
-      "duration_ms": 265026,
-      "name": "Ultraleicht",
-      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+      "duration_ms": 209720,
+      "name": "Demo (Letzter Tag)",
+      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -767,22 +783,6 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Demo (Letzter Tag)",
-      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Blaue Augen",
-        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Blaue Augen",
-      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 259346,
       "name": "Der Weg",
       "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     },
     {
       "added_at": "2025-03-26 13:54:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,802 songs - 4 day 13 hr 5 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,803 songs - 4 day 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1810,5 +1810,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1800 | [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 |
 | 1801 | [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 |
 | 1802 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 |
+| 1803 | [Mi Mejor Yo](https://open.spotify.com/track/4uJI4ReR3zkM1Rc0RPt4f7) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Mi Mejor Yo](https://open.spotify.com/album/0wDhgjnA5voHYiWqi84ZF0) | 2:18 |
 
-Snapshot ID: `AAAH3vjQp/wqzfAh8wpFa9mVe+vUKLsF`
+Snapshot ID: `AAAH36P9R2SJ3VxTU9Y5+XF0m2RYU47P`

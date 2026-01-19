@@ -339,7 +339,7 @@
     },
     {
       "album": {
-        "name": "Radhe Shyam",
+        "name": "Radhe Shyam (Telugu)",
         "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
       },
       "artists": [
@@ -350,6 +350,14 @@
         {
           "name": "Harini Ivaturi",
           "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        },
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
         }
       ],
       "date_added": "2023-11-08",

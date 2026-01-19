@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35563,
+  "num_followers": 35573,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAAB/aUBKXyBLrkDPIE6dlPZ9",
+  "snapshot_id": "aWrRAAAAAAAZmk+HXNG0O3mXPo+BE2k5",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt",
+        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Sweet Georgia Brown",
+      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "War Clouds 1940",
         "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
       },
@@ -591,26 +607,6 @@
       "duration_ms": 163226,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol.2 / 1936 - 1937",
-        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt",
-        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
+        "name": "Djangologie Vol.2 / 1936 - 1937",
+        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 187594,
-      "name": "Sweet Georgia Brown",
-      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
+      "duration_ms": 171106,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
     },
     {
       "added_at": null,
@@ -791,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Django: Radio Recordings 1947",
-        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Eug\u00e8ne V\u00e9es",
-          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
-        },
-        {
-          "name": "Emmanuel Soudieux",
-          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
-        },
-        {
-          "name": "Andr\u00e9 Jourdan",
-          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
-        },
-        {
-          "name": "G\u00e9rard L\u00e9v\u00e9que",
-          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
-        },
-        {
-          "name": "Fred Ermelin",
-          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
-        }
-      ],
-      "duration_ms": 172993,
-      "name": "I Can't Give You Anything but Love",
-      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -879,6 +843,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Django: Radio Recordings 1947",
+        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Eug\u00e8ne V\u00e9es",
+          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
+        },
+        {
+          "name": "Emmanuel Soudieux",
+          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
+        },
+        {
+          "name": "Andr\u00e9 Jourdan",
+          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
+        },
+        {
+          "name": "G\u00e9rard L\u00e9v\u00e9que",
+          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
+        },
+        {
+          "name": "Fred Ermelin",
+          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
+        }
+      ],
+      "duration_ms": 172993,
+      "name": "I Can't Give You Anything but Love",
+      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 182866,
       "name": "My Serenade",
       "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limitless Jazz, Vol. 31",
-        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     },
     {
       "added_at": null,
@@ -935,6 +915,26 @@
       "duration_ms": 165533,
       "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 31",
+        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     },
     {
       "added_at": null,

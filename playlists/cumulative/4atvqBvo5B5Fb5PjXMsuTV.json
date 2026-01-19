@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Jan 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Jan 19:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -4544,6 +4544,24 @@
       "duration_ms": 153840,
       "name": "All My Ladies",
       "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
     },
     {
       "album": {
@@ -16244,7 +16262,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 117011,
       "name": "Cali Crazy",
       "url": "https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W"
@@ -17858,7 +17876,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 235818,
       "name": "CHAMPION SOUND",
       "url": "https://open.spotify.com/track/3aGsNK0Njz9JMTg93ObtHy"
@@ -62961,6 +62979,24 @@
     },
     {
       "album": {
+        "name": "Marine Snow",
+        "url": "https://open.spotify.com/album/0sJDqmEFOHTyvRYVZaNXru"
+      },
+      "artists": [
+        {
+          "name": "Creo",
+          "url": "https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294156,
+      "name": "Marine Snow",
+      "url": "https://open.spotify.com/track/4V6mwQ6eOVy9IutREjrFQr"
+    },
+    {
+      "album": {
         "name": "MARiO COINS",
         "url": "https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g"
       },
@@ -78502,7 +78538,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 163360,
       "name": "Proof",
       "url": "https://open.spotify.com/track/7eT7KkcYXFwELw4nzAzUdJ"
@@ -108302,6 +108338,24 @@
       "duration_ms": 248463,
       "name": "We Were Never Alive",
       "url": "https://open.spotify.com/track/0oHuN77kxHehaK8nbudk0U"
+    },
+    {
+      "album": {
+        "name": "We Were Never The Same",
+        "url": "https://open.spotify.com/album/53yI8BS9n5ujuSs7A7vMJM"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253169,
+      "name": "We Were Never the Same",
+      "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
     },
     {
       "album": {

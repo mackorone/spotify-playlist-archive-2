@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,777 likes - 304 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,775 likes - 304 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,9 +159,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 149 | [Look @ This](https://open.spotify.com/track/1kjQO3Hw1NT3F7gGncR0AZ) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:16 |
 | 150 | [Tony Starks](https://open.spotify.com/track/2qi1wp1XsNO64udWaFaIIc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:28 |
 | 151 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
-| 152 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 |
-| 153 | [NO TEARS LEFT](https://open.spotify.com/track/2CmSjGo9KRVvNiDgIZudCj) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE \(DELUXE\)](https://open.spotify.com/album/5Vmz3pIxG7Dsx7fzHgtyJB) | 3:56 |
-| 154 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 152 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 153 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 |
+| 154 | [NO TEARS LEFT](https://open.spotify.com/track/2CmSjGo9KRVvNiDgIZudCj) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE \(DELUXE\)](https://open.spotify.com/album/5Vmz3pIxG7Dsx7fzHgtyJB) | 3:56 |
 | 155 | [Thank You Come Again](https://open.spotify.com/track/7b62buEn2WToU7SC13eMb4) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/4x2VITMV5Rhr6qdkOUHM0b) | 2:45 |
 | 156 | [玉](https://open.spotify.com/track/7fNS68yphpEsbIyNzxpLA7) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [蓮](https://open.spotify.com/album/0RC2WnrP7RwfII4HTX4vPM) | 3:19 |
 | 157 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
@@ -298,8 +298,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 288 | [I Want War](https://open.spotify.com/track/7yn6VmqXSV92zaRdBY73zu) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [PAID!NFULL](https://open.spotify.com/artist/7B37NUWYcRkxnAc0YO84ue), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Want War](https://open.spotify.com/album/4kgvJeUeG2yD2K8AyVLDoW) | 2:18 |
 | 289 | [This Is For](https://open.spotify.com/track/3vrupZhs2JgYjLR70XCiEK) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z EP](https://open.spotify.com/album/7eGX6qd3WeO5QmC0t7P6Nv) | 2:32 |
 | 290 | [Digital Money](https://open.spotify.com/track/5d4KkVNzXg93hXqNlkKo5g) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi) | [Bleeding Bull](https://open.spotify.com/album/1oT7uPFXaGwaB0kFSWpqhe) | 2:06 |
-| 291 | [No Money No Funny](https://open.spotify.com/track/6BN6XvKuYIsjidk90dLZ28) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [No Money No Funny](https://open.spotify.com/album/5DVFcnvG5uaSoKmYV7azh3) | 3:04 |
-| 292 | [Without You](https://open.spotify.com/track/4Hc9y3jxWiuE3OdyGVr03L) | [Lajno](https://open.spotify.com/artist/2pv64X9vjtSJ2R43eJNUl5), [Quav](https://open.spotify.com/artist/0wLjvZYWmm1pmfhN24LOeG) | [Without You](https://open.spotify.com/album/2dZUEcSbws5QOetTbi2ZCW) | 4:10 |
+| 291 | [Without You](https://open.spotify.com/track/4Hc9y3jxWiuE3OdyGVr03L) | [Lajno](https://open.spotify.com/artist/2pv64X9vjtSJ2R43eJNUl5), [Quav](https://open.spotify.com/artist/0wLjvZYWmm1pmfhN24LOeG) | [Without You](https://open.spotify.com/album/2dZUEcSbws5QOetTbi2ZCW) | 4:10 |
+| 292 | [No Money No Funny](https://open.spotify.com/track/6BN6XvKuYIsjidk90dLZ28) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [No Money No Funny](https://open.spotify.com/album/5DVFcnvG5uaSoKmYV7azh3) | 3:04 |
 | 293 | [Heard](https://open.spotify.com/track/0lONjaf6LdcxXsOya7USLm) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:05 |
 | 294 | [Don't Change On Me](https://open.spotify.com/track/1QyyH8aqLkAaWC5TttfETb) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 3:45 |
 | 295 | [Go Hard](https://open.spotify.com/track/4VLDrl5Rnvd9e8885YX4Jq) | [Booggz](https://open.spotify.com/artist/17LWRPvDAiIUUPECIakeBu) | [Go Hard](https://open.spotify.com/album/310iGUoykPmp1otabSaUKC) | 2:58 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 303 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 304 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcHN2AAAAADAYWKZ4XRMbREsbTmu/yjH`
+Snapshot ID: `AcHTeAAAAACsTRyqcI0fpJnaIAzfejXi`

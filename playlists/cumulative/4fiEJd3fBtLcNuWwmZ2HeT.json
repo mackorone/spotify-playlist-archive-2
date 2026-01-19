@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 226310,
       "name": "Koukatsu",
       "url": "https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW"
@@ -2852,6 +2852,28 @@
       "duration_ms": 130256,
       "name": "Like an idiot",
       "url": "https://open.spotify.com/track/27j5sGsWlhwNtHz5gY5bMB"
+    },
+    {
+      "album": {
+        "name": "Looping the Rooms / Lambent Aria",
+        "url": "https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM"
+      },
+      "artists": [
+        {
+          "name": "rusino",
+          "url": "https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134071,
+      "name": "Looping the Rooms (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
     },
     {
       "album": {
@@ -3265,6 +3287,28 @@
     },
     {
       "album": {
+        "name": "My bread was Burnt to a Crisp",
+        "url": "https://open.spotify.com/album/5tCpuVqeBgh3hlbrwlKrRO"
+      },
+      "artists": [
+        {
+          "name": "picdo",
+          "url": "https://open.spotify.com/artist/0OZLgdMz8IijJ4zJofCM5L"
+        },
+        {
+          "name": "Rei Adachi",
+          "url": "https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44362,
+      "name": "My bread was Burnt to a Crisp",
+      "url": "https://open.spotify.com/track/1Sv11p7ViXK4hwgioiQIOE"
+    },
+    {
+      "album": {
         "name": "My Ordinary Life",
         "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
       },
@@ -3280,6 +3324,24 @@
       "duration_ms": 230893,
       "name": "My Ordinary Life",
       "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "album": {
+        "name": "Another Secret",
+        "url": "https://open.spotify.com/album/36sx9zofL5sI6StsgsB3ms"
+      },
+      "artists": [
+        {
+          "name": "NASTYONA",
+          "url": "https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "My September",
+      "url": "https://open.spotify.com/track/5awD45wQF7zj7ywVw6kKIM"
     },
     {
       "album": {

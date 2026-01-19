@@ -1513,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "Baba Modupe",
+        "url": "https://open.spotify.com/album/3CN7WpsAVuE4CLmBRr90lj"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Baba Modupe",
+      "url": "https://open.spotify.com/track/5eHL0zrUKt5X0t2EBUVVi4"
+    },
+    {
+      "album": {
         "name": "Babylonia",
         "url": "https://open.spotify.com/album/6iHbMxKu2Doj3D1pOVFZdR"
       },
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 133928,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel"

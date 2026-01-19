@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 42944,
+  "num_followers": 42950,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAADYbqJ3Pmm+ZcdaXsjVc7cb",
+  "snapshot_id": "aWrRAAAAAAD9p57A8IwnJ8s7AAR6AdLj",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lay Down (feat. GloRilla) [Remix]",
         "url": "https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 213608,
       "name": "Lay Down (feat. GloRilla) - Remix",
       "url": "https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"
     },
     {
       "added_at": null,

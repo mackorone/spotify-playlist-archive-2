@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,619 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,611 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 34 | [Sexy Ways](https://open.spotify.com/track/2rPldGkXgTyfehH8uRss0k) | [The Midnighters](https://open.spotify.com/artist/5IMmgN6diakOaeFp8ydvDu) | [Sexy Ways \- 4 Track EP](https://open.spotify.com/album/0YTiWX0LrfxXDfyBJnW5E3) | 2:32 |
 | 35 | [Deacon Rides Again](https://open.spotify.com/track/6VT0pyPchEgvAQeCfMVB2m) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [The Best Of \(1948\-1955\)](https://open.spotify.com/album/4hPy6XBw8d7WtgDA3WKwUf) | 2:47 |
 | 36 | [Mary Lou](https://open.spotify.com/track/3SiFaqEUZf3gg2hRR5tzHM) | [Young Jessie](https://open.spotify.com/artist/1sTrSq571Q88nMlONdgtth) | [Jukebox Jam, Vol\. 2](https://open.spotify.com/album/7Mh4VDo07r5RQlAMz1r0qH) | 2:33 |
-| 37 | [Book Of Love \- Single Version](https://open.spotify.com/track/6kIYy84YuKk2dwAZbYJjrG) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Chess Chartbusters Vol\. 2](https://open.spotify.com/album/1dETsddr8HxqJcUOpMcMg4) | 2:18 |
+| 37 | [Book Of Love \- Single Version](https://open.spotify.com/track/6kIYy84YuKk2dwAZbYJjrG) | [Monotones](https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm) | [Chess Chartbusters Vol\. 2](https://open.spotify.com/album/1dETsddr8HxqJcUOpMcMg4) | 2:18 |
 | 38 | [Grandpa Can Boogie Too](https://open.spotify.com/track/0312NazIYCEgasJZ4CYNLA) | [Lil Greenwood](https://open.spotify.com/artist/1RHzjHTL6ssV7dQPZ4HoYB) | [The Best of Rock & Roll \(70 Rock & Roll Songs\)](https://open.spotify.com/album/09WyLrdpTp3FascZgBzC4y) | 2:50 |
 | 39 | [Best Wishes](https://open.spotify.com/track/6fG9YAjxpQXbUyz4tENFzN) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Best Of The Blues](https://open.spotify.com/album/7krDrZMLilqYK5ieEVOrpl) | 3:01 |
 | 40 | [Safronia B](https://open.spotify.com/track/27kwBNU1VWNRPjFxvz8EOt) | [Calvin Boze and His All Stars](https://open.spotify.com/artist/4eoLuYkFKv9tETDJoVMgQM) | [Jump Blue: Rockin' The Jukes](https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk) | 2:24 |

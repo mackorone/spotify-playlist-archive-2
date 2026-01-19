@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: AGGi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,271 likes - 132 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,293 likes - 132 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

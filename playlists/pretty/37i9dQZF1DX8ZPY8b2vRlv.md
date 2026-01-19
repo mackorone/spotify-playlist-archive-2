@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZPY8b2vRlv.md) - [plain]
 
 > Jam out with the whole family to music from Netflix Dr\. Seuss Tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 28 songs - 46 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 28 songs - 46 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

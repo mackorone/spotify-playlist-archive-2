@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,680 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,676 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 38 | [Ain’t Got No](https://open.spotify.com/track/4MUOuZNzV7OEv1dcCxbGn5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Conceição Evaristo](https://open.spotify.com/artist/5TwjbcI0iMF9iVyXlqQsbJ) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/6lhd9FDNmM9ba9sqOAk6Ka) | 2:48 |
 | 39 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 40 | [Chamego](https://open.spotify.com/track/5f2MoVVIsUYbFAqA9gUqFq) | [Fitti](https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Transespacial](https://open.spotify.com/album/5ad60ItCkVWina53xajH4n) | 3:30 |
-| 41 | [Te Vejo em Tudo](https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U) | [Te Vejo em Tudo](https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA) | 3:01 |
-| 42 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |
+| 41 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |
+| 42 | [Te Vejo em Tudo](https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U) | [Te Vejo em Tudo](https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA) | 3:01 |
 | 43 | [Doce Confusão](https://open.spotify.com/track/4ZjIJ1J5Umb5gp4CPsfDYU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [Doce Confusão](https://open.spotify.com/album/3byioriAq7d7LF44fdbeCJ) | 2:48 |
 | 44 | [Istambul](https://open.spotify.com/track/7gAx4l83rtiQ5I0X9XYRRd) | [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Disparada](https://open.spotify.com/album/691VKzDgLirg4O6LLiKklV) | 2:39 |
 | 45 | [Imagem](https://open.spotify.com/track/2eDz2aRZ7OZPNsKRCURhWW) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:35 |

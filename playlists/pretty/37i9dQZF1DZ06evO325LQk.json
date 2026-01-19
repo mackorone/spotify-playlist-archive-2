@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37923,
+  "num_followers": 37930,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWl/gAAAAAC6kAzQOu/4PbP9zCoPZLn/",
+  "snapshot_id": "aWrRAAAAAAANTv2jlyMa/M9m35AWzHJb",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+        "name": "1,2,3 dayz up",
+        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         },
         {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 244839,
-      "name": "My Forever (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
+      "duration_ms": 213678,
+      "name": "1,2,3 dayz up",
+      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
     },
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1,2,3 dayz up",
-        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
         }
       ],
-      "duration_ms": 213678,
-      "name": "1,2,3 dayz up",
-      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
+      "duration_ms": 244839,
+      "name": "My Forever (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
     },
     {
       "added_at": null,
@@ -472,7 +472,7 @@
       "added_at": null,
       "album": {
         "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
@@ -489,8 +489,8 @@
         }
       ],
       "duration_ms": 244062,
-      "name": "Live In My Truth (feat. BC Kingdom & LIZ)",
-      "url": "https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy"
+      "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
+      "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
     },
     {
       "added_at": null,

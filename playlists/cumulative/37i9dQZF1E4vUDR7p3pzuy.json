@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Splitter Conspiracy, Rob Harrowven, Evil Level Live and more",
+  "description": "With Rob Harrowven, Splitter Conspiracy, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 179867,
       "name": "Call of the Wendigo",
       "url": "https://open.spotify.com/track/1jRF9SJgxRqqghUkFmCgGJ"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 231231,
       "name": "Deliria",
       "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1708,10 +1708,32 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
+    },
+    {
+      "album": {
+        "name": "What if I'm right",
+        "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
+      },
+      "artists": [
+        {
+          "name": "Fireside Shadow",
+          "url": "https://open.spotify.com/artist/2i66zDxx6bXxuiROp90qwg"
+        },
+        {
+          "name": "The Respire",
+          "url": "https://open.spotify.com/artist/6lg7qMMhnyJhQcoqoZmuC5"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217944,
+      "name": "Glass Figure",
+      "url": "https://open.spotify.com/track/6h57HgSCAIRBjioZFu5IyA"
     },
     {
       "album": {
@@ -1828,7 +1850,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -1922,6 +1944,24 @@
       "duration_ms": 203726,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/1me7dnRitdwH0wGuspiZ8g"
+    },
+    {
+      "album": {
+        "name": "Here comes the rain again",
+        "url": "https://open.spotify.com/album/1SfW3ei0YC61ztt0utV85D"
+      },
+      "artists": [
+        {
+          "name": "Pure Obsessions & Red Nights",
+          "url": "https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Here comes the rain again",
+      "url": "https://open.spotify.com/track/0IDP8V9dFCoayfuQ8UH60b"
     },
     {
       "album": {
@@ -2177,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "What if I'm right",
+        "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
+      },
+      "artists": [
+        {
+          "name": "Fireside Shadow",
+          "url": "https://open.spotify.com/artist/2i66zDxx6bXxuiROp90qwg"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "If it isn't about YOU",
+      "url": "https://open.spotify.com/track/1vqNhV7zSbbOFqqCzHT4pS"
+    },
+    {
+      "album": {
         "name": "Impuls",
         "url": "https://open.spotify.com/album/0xm8E9ZpyQ1lSoby2w7aw1"
       },
@@ -2336,7 +2394,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 223219,
       "name": "It Only Takes a Minute",
       "url": "https://open.spotify.com/track/2mLHukkiu1jx9Ibdb882v2"
@@ -2372,7 +2430,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -2632,7 +2690,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Lena",
       "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
@@ -3123,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Natural Behaviour",
+        "url": "https://open.spotify.com/album/09ZTXepHAFcx2P8TK9fkqp"
+      },
+      "artists": [
+        {
+          "name": "Farveblind",
+          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
+        },
+        {
+          "name": "Emmeline",
+          "url": "https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315106,
+      "name": "Natural Behaviour",
+      "url": "https://open.spotify.com/track/1jl3b9Y0B1fBIy8MJ1nVcT"
+    },
+    {
+      "album": {
         "name": "Neon Horizon",
         "url": "https://open.spotify.com/album/2b7c8hVrIYb9zMs7QW5I6f"
       },
@@ -3188,7 +3268,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 160880,
       "name": "Obligations",
       "url": "https://open.spotify.com/track/0JP7lokt6eLt0KpEJtxApe"
@@ -3336,7 +3416,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 228048,
       "name": "Perfect in Design",
       "url": "https://open.spotify.com/track/1VIzQmcHwk1kmynaNMHA89"
@@ -3354,7 +3434,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 254663,
       "name": "Play On",
       "url": "https://open.spotify.com/track/5finqfmqX3w1XQVowqwYT9"
@@ -3412,7 +3492,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 183613,
       "name": "Plowjob",
       "url": "https://open.spotify.com/track/4vOKuH7gOHQqKv6YVhajoP"
@@ -3594,7 +3674,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
@@ -3670,7 +3750,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -3920,7 +4000,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 294389,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7n3N6Thp6WFEyBIxdiOZH9"
@@ -4039,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "LOVE SONGS WILL SLOWLY KILL YOU",
+        "url": "https://open.spotify.com/album/1RlojDVhONjfMChl49VL6J"
+      },
+      "artists": [
+        {
+          "name": "ADD NOTHING",
+          "url": "https://open.spotify.com/artist/4UOOQswDpByGh8m8BY9l5L"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/6sco1HlavZseVeh444Pizs"
+    },
+    {
+      "album": {
         "name": "Smoking DMT With Carl Jung",
         "url": "https://open.spotify.com/album/6FU2JWQvOoe2SxajQIGgVw"
       },
@@ -4072,7 +4170,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 325407,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3990wQM7Bixk2UtfoEQlqL"
@@ -4684,7 +4782,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 193480,
       "name": "Thin Skin",
       "url": "https://open.spotify.com/track/5jWlIjv49XpkmxoOoHVi4A"
@@ -4742,7 +4840,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -5060,7 +5158,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 191563,
       "name": "Waiting for You to Come Home (Radio Edit)",
       "url": "https://open.spotify.com/track/5IDcKfTTPh0oT5LSxQIi6g"
@@ -5360,7 +5458,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 221000,
       "name": "Your Disaster",
       "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"

@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 313886,
+  "num_followers": 313894,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
         {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
-        },
-        {
-          "name": "Janie Fricke",
-          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1107,6 +1103,26 @@
       "duration_ms": 140173,
       "name": "Love Is Like a Butterfly",
       "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
+    },
+    {
+      "added_at": "2025-10-08 18:42:40",
+      "album": {
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+        },
+        {
+          "name": "Janie Fricke",
+          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1147,26 +1163,6 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "Hello, I'm Johnny Cash",
-        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "If I Were a Carpenter",
-      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
-    },
-    {
-      "added_at": "2025-10-08 18:42:40",
-      "album": {
         "name": "The Best Of Sammi Smith",
         "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
       },
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "25 Number Ones",
-        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
+        "name": "Hello, I'm Johnny Cash",
+        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 181932,
-      "name": "You've Never Been This Far Before",
-      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
+      "duration_ms": 180573,
+      "name": "If I Were a Carpenter",
+      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1227,6 +1227,22 @@
       "duration_ms": 166360,
       "name": "Funny Face",
       "url": "https://open.spotify.com/track/27145diX1C7BE6m6FzONqb"
+    },
+    {
+      "added_at": "2025-10-08 18:42:40",
+      "album": {
+        "name": "25 Number Ones",
+        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 181932,
+      "name": "You've Never Been This Far Before",
+      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
-    },
-    {
-      "added_at": "2025-10-08 18:42:40",
-      "album": {
         "name": "Certified Hits",
         "url": "https://open.spotify.com/album/0SqgAUdIDTesLUoLn3sTn2"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1387,6 +1387,22 @@
       "duration_ms": 160920,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1"
+    },
+    {
+      "added_at": "2025-10-08 18:42:40",
+      "album": {
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
-    },
-    {
-      "added_at": "2025-10-08 18:42:40",
-      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 176200,
       "name": "Why Have You Left The One You Left Me For",
       "url": "https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0"
+    },
+    {
+      "added_at": "2025-10-08 18:42:40",
+      "album": {
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Mother Country Music",
-      "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
-    },
-    {
-      "added_at": "2025-10-08 18:42:40",
-      "album": {
         "name": "The Essential Tammy Wynette",
         "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
       },
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
-        "name": "The Best Of Billy \"Crash\" Craddock",
-        "url": "https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii"
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
       },
       "artists": [
         {
-          "name": "Billy 'Crash' Craddock",
-          "url": "https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq"
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
         }
       ],
-      "duration_ms": 146800,
-      "name": "Rub It In",
-      "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
+      "duration_ms": 173853,
+      "name": "Mother Country Music",
+      "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
     },
     {
       "added_at": "2025-10-08 18:42:40",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-10-08 18:42:40",
       "album": {
+        "name": "The Best Of Billy \"Crash\" Craddock",
+        "url": "https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii"
+      },
+      "artists": [
+        {
+          "name": "Billy 'Crash' Craddock",
+          "url": "https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "Rub It In",
+      "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
+    },
+    {
+      "added_at": "2025-10-08 18:42:40",
+      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 139560,
       "name": "When You're Hot, You're Hot",
       "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
-    },
-    {
-      "added_at": "2025-10-08 18:42:40",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Marie Laveau",
-      "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
     }
   ],
   "unique_name": "70s Country",

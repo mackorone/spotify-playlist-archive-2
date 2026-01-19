@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Hijos de la Ruina, Manuel Turizo, Young Cister, Metrika y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,438 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,434 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

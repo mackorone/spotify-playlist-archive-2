@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 159833,
       "name": "Al\u00f4 Virg\u00ednia - Ao Vivo",
       "url": "https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv"
@@ -11874,7 +11874,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -12492,6 +12492,28 @@
       "duration_ms": 471285,
       "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
       "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
+    },
+    {
+      "album": {
+        "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
     },
     {
       "album": {
@@ -15660,7 +15682,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 144812,
       "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
       "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
@@ -18624,7 +18646,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 177268,
       "name": "Maloqueiro - Ao Vivo",
       "url": "https://open.spotify.com/track/7MzgCL44HTP2noUkTevxzs"
@@ -28538,7 +28560,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 185984,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4QZqSqxdcgAbtZle4MS4ph"
@@ -29772,7 +29794,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 164892,
       "name": "Se Eu Te Perdoar - Ao Vivo",
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
@@ -30214,7 +30236,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 548571,
       "name": "Semi Nua",
       "url": "https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL"
@@ -32530,7 +32552,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
@@ -33574,7 +33596,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-19",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
