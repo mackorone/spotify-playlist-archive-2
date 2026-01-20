@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2026 Artists to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,943 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,963 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 9 | [DIOS POR DELANTE](https://open.spotify.com/track/08YpPMWRDp6FwHWivbwOkw) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/3Tq4UKvhptnjeBCG1xFDtz) | 3:34 |
 | 10 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 |
 | 11 | [Lullaby](https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:37 |
-| 12 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
-| 13 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
+| 12 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
+| 13 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 | 14 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 |
 | 15 | [Happy For You](https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Happy For You](https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb) | 2:51 |
 | 16 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 24 | [Candycrush](https://open.spotify.com/track/3vGaZLl90LVC8ghGEb1IV9) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Candycrush](https://open.spotify.com/album/4lzlcepHrqqSFLjJXBgUM1) | 3:14 |
 | 25 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
 | 26 | [soulless](https://open.spotify.com/track/0MR7Cb6TlNaQgs0vXDaK0W) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [soulless](https://open.spotify.com/album/3jGZXvQfjP1PUehR25z6T1) | 2:08 |
-| 27 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
-| 28 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 |
-| 29 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
-| 30 | [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 |
+| 27 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 |
+| 28 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
+| 29 | [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 |
+| 30 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 31 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 32 | [Won't Force You](https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Won't Force You](https://open.spotify.com/album/6jzHblS8sSvp157rtAyLtp) | 3:26 |
 | 33 | [PEACE](https://open.spotify.com/track/3ReoBWqpM0ceIUNmu7Gii9) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [PEACE](https://open.spotify.com/album/0UQAktHlWTgQtvt8QjMSho) | 2:17 |

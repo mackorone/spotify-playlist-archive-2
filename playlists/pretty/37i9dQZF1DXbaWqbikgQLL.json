@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 73897,
+  "num_followers": 73949,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 335621,
-      "name": "A Esa Gran Velocidad",
-      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 297293,
       "name": "Rumba Quimbumba",
       "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 335621,
+      "name": "A Esa Gran Velocidad",
+      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Ahora M\u00e1s Que Nunca",
-        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 271766,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Ahora M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 271766,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Zayda",
-        "url": "https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H"
-      },
-      "artists": [
-        {
-          "name": "Zayda",
-          "url": "https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn"
-        }
-      ],
-      "duration_ms": 260109,
-      "name": "Lo Quiero a Morir",
-      "url": "https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Manos de Tijera",
         "url": "https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 230225,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Zayda",
+        "url": "https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H"
+      },
+      "artists": [
+        {
+          "name": "Zayda",
+          "url": "https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn"
+        }
+      ],
+      "duration_ms": 260109,
+      "name": "Lo Quiero a Morir",
+      "url": "https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Con Musica Del Barrio y Para El Barrio",
-        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "El Baile De San Juan",
-      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Sin Escencia",
         "url": "https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 195960,
       "name": "Sin Escencia",
       "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Con Musica Del Barrio y Para El Barrio",
+        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "El Baile De San Juan",
+      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
     },
     {
       "added_at": "2025-09-26 06:00:27",

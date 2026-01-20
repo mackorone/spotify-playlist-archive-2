@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7969,
+  "num_followers": 7972,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABMY3MB8rb2ZFXLzqjWmBu+",
+  "snapshot_id": "aWwigAAAAAD5UfuaMA8hibLO7qQG2fb1",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
+        "name": "Balling",
+        "url": "https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx"
       },
       "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 303847,
-      "name": "Possibility",
-      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
+      "duration_ms": 170204,
+      "name": "Balling",
+      "url": "https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balling",
-        "url": "https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
       "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 170204,
-      "name": "Balling",
-      "url": "https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix"
+      "duration_ms": 303847,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 184420,
       "name": "Target You (feat. Syemca)",
       "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azaman",
         "url": "https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY"
       },
@@ -527,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
         }
       ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realness Over Hype",
         "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
       },
@@ -835,8 +815,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salary 4 Life",
-        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/3grgFoNON7BInRDNkdMwRP"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 153027,
-      "name": "Salary 4 Life",
-      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
+      "duration_ms": 240960,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/2G9ezxBQn9N6iygkWGLF7q"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
       "duration_ms": 236564,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 234527,
+      "name": "Hate What You Do To Me",
+      "url": "https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8"
     },
     {
       "added_at": null,
@@ -887,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/3grgFoNON7BInRDNkdMwRP"
+        "name": "Salary 4 Life",
+        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
       },
       "artists": [
         {
@@ -896,25 +912,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 240960,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/2G9ezxBQn9N6iygkWGLF7q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 234527,
-      "name": "Hate What You Do To Me",
-      "url": "https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8"
+      "duration_ms": 153027,
+      "name": "Salary 4 Life",
+      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Ehi Idibia",
-          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
-        }
-      ],
-      "duration_ms": 230191,
-      "name": "Free (feat. Ehi Idibia)",
-      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chairman",
         "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 347085,
       "name": "Human Being (feat. 2Face & Sound Sultan)",
       "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Ehi Idibia",
+          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
+        }
+      ],
+      "duration_ms": 230191,
+      "name": "Free (feat. Ehi Idibia)",
+      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
     }
   ],
   "unique_name": "This Is 2Baba",

@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 24912,
+  "num_followers": 24919,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
         }
       ],
-      "duration_ms": 179693,
-      "name": "Een Meisje Van Zestien",
-      "url": "https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r"
+      "duration_ms": 144693,
+      "name": "Verdronken Vlinder",
+      "url": "https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -328,13 +328,13 @@
       },
       "artists": [
         {
-          "name": "De Spelbrekers",
-          "url": "https://open.spotify.com/artist/2PLaITIwJ2PSGwid7cvMfm"
+          "name": "Karin Kent",
+          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Katinka",
-      "url": "https://open.spotify.com/track/6vljr41C784IaL4h2gkx8A"
+      "duration_ms": 159000,
+      "name": "Dans Je De Hele Nacht Met Mij?",
+      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
         }
       ],
-      "duration_ms": 144693,
-      "name": "Verdronken Vlinder",
-      "url": "https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5"
+      "duration_ms": 179693,
+      "name": "Een Meisje Van Zestien",
+      "url": "https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -360,29 +360,13 @@
       },
       "artists": [
         {
-          "name": "Karin Kent",
-          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
+          "name": "De Spelbrekers",
+          "url": "https://open.spotify.com/artist/2PLaITIwJ2PSGwid7cvMfm"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Dans Je De Hele Nacht Met Mij?",
-      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Egbert Douwe",
-          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Kom Uit De Bedstee M'n Liefste",
-      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
+      "duration_ms": 171666,
+      "name": "Katinka",
+      "url": "https://open.spotify.com/track/6vljr41C784IaL4h2gkx8A"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -411,6 +395,22 @@
       "duration_ms": 163120,
       "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
       "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Egbert Douwe",
+          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Kom Uit De Bedstee M'n Liefste",
+      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Regenboog Serie: Tony Bass",
-        "url": "https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel"
-      },
-      "artists": [
-        {
-          "name": "Tony Bass",
-          "url": "https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe"
-        }
-      ],
-      "duration_ms": 193068,
-      "name": "Ik Ben Met Jou Niet Getrouwd",
-      "url": "https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Mooiste Van Wim Sonneveld",
         "url": "https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 129026,
       "name": "De Kat Van Ome Willem",
       "url": "https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Regenboog Serie: Tony Bass",
+        "url": "https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel"
+      },
+      "artists": [
+        {
+          "name": "Tony Bass",
+          "url": "https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe"
+        }
+      ],
+      "duration_ms": 193068,
+      "name": "Ik Ben Met Jou Niet Getrouwd",
+      "url": "https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
         }
       ],
-      "duration_ms": 166453,
-      "name": "Batje Vier",
-      "url": "https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP"
+      "duration_ms": 155760,
+      "name": "Hup, hup, hup",
+      "url": "https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
         }
       ],
-      "duration_ms": 155760,
-      "name": "Hup, hup, hup",
-      "url": "https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ"
+      "duration_ms": 166453,
+      "name": "Batje Vier",
+      "url": "https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Imca Marina",
-          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Harlekino",
-      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Televisie-Vriendjes",
         "url": "https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 159381,
       "name": "Swiebertje",
       "url": "https://open.spotify.com/track/6ffETXUkqnGug5hev2G765"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Imca Marina",
+          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Harlekino",
+      "url": "https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
-        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
-      },
-      "artists": [
-        {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
-        }
-      ],
-      "duration_ms": 137920,
-      "name": "Da Doo Ron Ron",
-      "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van Ronnie Tober",
         "url": "https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 191341,
       "name": "Arrivederci Ans",
       "url": "https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
+        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 137920,
+      "name": "Da Doo Ron Ron",
+      "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Favorieten Expres",
-        "url": "https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl"
-      },
-      "artists": [
-        {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Schemering (Wanneer De Zon Verkleurt Tot Oranje) - Remastered",
-      "url": "https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Kom Uit De Bedstee Mijn Liefste (Bonus Track)",
         "url": "https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 227166,
       "name": "Vader Is De Dader - Bonus Track",
       "url": "https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Favorieten Expres",
+        "url": "https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Schemering (Wanneer De Zon Verkleurt Tot Oranje) - Remastered",
+      "url": "https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI"
     },
     {
       "added_at": "2024-07-19 06:41:15",

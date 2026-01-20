@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168753,
+  "num_followers": 168755,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABiVMRiTj8HGxPgYvVzGJ5A",
+  "snapshot_id": "aWwigAAAAAA570ZwBqDSsgL2HhvVEzUP",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OPVS NOIR Vol. 1",
-        "url": "https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        },
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 216653,
-      "name": "Light Can Only Shine In The Darkness",
-      "url": "https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 243213,
       "name": "Whole World Is Watching (feat. Dave Pirner)",
       "url": "https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OPVS NOIR Vol. 1",
+        "url": "https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        },
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 216653,
+      "name": "Light Can Only Shine In The Darkness",
+      "url": "https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm"
     },
     {
       "added_at": null,

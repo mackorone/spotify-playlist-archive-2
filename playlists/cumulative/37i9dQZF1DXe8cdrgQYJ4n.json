@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196079,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/4OSVR8gq2l3ceJiXNR7iiM"
+    },
+    {
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -424,6 +442,24 @@
       "duration_ms": 223019,
       "name": "CO",
       "url": "https://open.spotify.com/track/6CIZHot9XsXxRgwq0xH40S"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Cold As Hell",
+      "url": "https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC"
     },
     {
       "album": {
@@ -756,7 +792,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 203518,
       "name": "Eat Sleep Live Repeat",
       "url": "https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH"
@@ -2066,7 +2102,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 230947,
       "name": "No, Thanks (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/2puhFUzrx1DjRJN7guhQoe"
@@ -2402,7 +2438,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 151009,
       "name": "SHE'S FINE",
       "url": "https://open.spotify.com/track/7LbK25YpQpA44NVfJEC1EA"
@@ -2768,7 +2804,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 170360,
       "name": "Wish You Hell",
       "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"

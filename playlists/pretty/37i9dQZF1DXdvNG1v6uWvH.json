@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of \u00c0sgeir, \u00deETTA REDDAST og m\u00f6rgum fleiri!",
-  "num_followers": 9586,
+  "num_followers": 9587,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
         "name": "DANCE...",
         "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 236041,
       "name": "DANCE... - Edit",
       "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
         "name": "THE THING",
         "url": "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI"
       },
@@ -495,38 +511,18 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
         }
       ],
-      "duration_ms": 124133,
-      "name": "Cryptid",
-      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
-        "name": "Raft In The Sea",
-        "url": "https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 215352,
-      "name": "Raft In The Sea",
-      "url": "https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1"
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -547,18 +543,22 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+        "name": "Raft In The Sea",
+        "url": "https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
+      "duration_ms": 215352,
+      "name": "Raft In The Sea",
+      "url": "https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Sy dig p\u00e5 mig",
-        "url": "https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 222549,
-      "name": "Sy dig p\u00e5 mig",
-      "url": "https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
         "name": "Drama King",
         "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
+        "name": "Sy dig p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 222549,
+      "name": "Sy dig p\u00e5 mig",
+      "url": "https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 326068,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190794,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 190794,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
         "name": "EVERYTHING CHANGES",
         "url": "https://open.spotify.com/album/1asaUEJ8xf7YFxkMHluTal"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 187428,
       "name": "EVERYTHING CHANGES",
       "url": "https://open.spotify.com/track/0kMVmRHVHzqJutC4v4j72x"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
-        "name": "Against the Dying of the Light",
-        "url": "https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 148920,
-      "name": "Against the Dying of the Light",
-      "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -767,6 +751,22 @@
       "duration_ms": 202013,
       "name": "Sleepwalker's Pendulum",
       "url": "https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
+        "name": "Against the Dying of the Light",
+        "url": "https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 148920,
+      "name": "Against the Dying of the Light",
+      "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Hum Of Maybe",
-        "url": "https://open.spotify.com/album/4QHMTMjwQO18X9Jn0eedP5"
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
       },
       "artists": [
         {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
         }
       ],
-      "duration_ms": 334517,
-      "name": "Hum Of Maybe",
-      "url": "https://open.spotify.com/track/5RoIYMxBl8LgkSRThD1RUC"
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+        "name": "Hum Of Maybe",
+        "url": "https://open.spotify.com/album/4QHMTMjwQO18X9Jn0eedP5"
       },
       "artists": [
         {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
         }
       ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
+      "duration_ms": 334517,
+      "name": "Hum Of Maybe",
+      "url": "https://open.spotify.com/track/5RoIYMxBl8LgkSRThD1RUC"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "V\u00e4xtv\u00e4rk",
-        "url": "https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm"
+        "name": "Scared Of Loving Wild Again",
+        "url": "https://open.spotify.com/album/2N4U9Tkspa4lNhSb71zeXS"
       },
       "artists": [
         {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Tempor\u00e4rt",
-      "url": "https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1"
+      "duration_ms": 168490,
+      "name": "Scared Of Loving Wild Again",
+      "url": "https://open.spotify.com/track/7FcTEvbElcmioUYPtc5bpj"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Scared Of Loving Wild Again",
-        "url": "https://open.spotify.com/album/2N4U9Tkspa4lNhSb71zeXS"
+        "name": "V\u00e4xtv\u00e4rk",
+        "url": "https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
         }
       ],
-      "duration_ms": 168490,
-      "name": "Scared Of Loving Wild Again",
-      "url": "https://open.spotify.com/track/7FcTEvbElcmioUYPtc5bpj"
+      "duration_ms": 196600,
+      "name": "Tempor\u00e4rt",
+      "url": "https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
+        "name": "Gentleman Blue",
+        "url": "https://open.spotify.com/album/7DqZlAXPkwicTQdm9Ii3eu"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Gentleman Blue",
+      "url": "https://open.spotify.com/track/3lV07aYA51LIEH2egLXyV7"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
         "name": "Grand Man (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07hWXWc0u8j793H2ksjLTx"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 231073,
       "name": "Friends Or Lovers",
       "url": "https://open.spotify.com/track/3KLgxGNNKSFRofPkSxLBpY"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
-        "name": "Gentleman Blue",
-        "url": "https://open.spotify.com/album/7DqZlAXPkwicTQdm9Ii3eu"
-      },
-      "artists": [
-        {
-          "name": "Elysia Biro",
-          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Gentleman Blue",
-      "url": "https://open.spotify.com/track/3lV07aYA51LIEH2egLXyV7"
     },
     {
       "added_at": "2026-01-16 00:00:15",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
+        "name": "With All That\u2019s Left",
+        "url": "https://open.spotify.com/album/2rNjDEe9fPvLmSO4LqnGiv"
+      },
+      "artists": [
+        {
+          "name": "Cold Night For Alligators",
+          "url": "https://open.spotify.com/artist/2iFIkdC4XNYlTdFSnaYPo4"
+        }
+      ],
+      "duration_ms": 317600,
+      "name": "With All That\u2019s Left",
+      "url": "https://open.spotify.com/track/6KD9gGduajZ0f0IZQS2K89"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
         "name": "Graveheart",
         "url": "https://open.spotify.com/album/54aNcZx8x4lyWEj3n7vlHy"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "With All That\u2019s Left",
-        "url": "https://open.spotify.com/album/2rNjDEe9fPvLmSO4LqnGiv"
-      },
-      "artists": [
-        {
-          "name": "Cold Night For Alligators",
-          "url": "https://open.spotify.com/artist/2iFIkdC4XNYlTdFSnaYPo4"
-        }
-      ],
-      "duration_ms": 317600,
-      "name": "With All That\u2019s Left",
-      "url": "https://open.spotify.com/track/6KD9gGduajZ0f0IZQS2K89"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
         "name": "Step Into My Limousine",
         "url": "https://open.spotify.com/album/22IFIZ7Vat6mzUxk9M91hW"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-01-16 00:00:15",
       "album": {
-        "name": "Fall In Love With Your Life",
-        "url": "https://open.spotify.com/album/5Wd25sRzDtlh1AjPjqAHKf"
-      },
-      "artists": [
-        {
-          "name": "KOPS",
-          "url": "https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Fall In Love With Your Life",
-      "url": "https://open.spotify.com/track/5xdYMxd96DeE35dmrs1Oi6"
-    },
-    {
-      "added_at": "2026-01-16 00:00:15",
-      "album": {
         "name": "Fall From the Stars",
         "url": "https://open.spotify.com/album/7mVrC48fO11AIkv3ko7B2Q"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 262892,
       "name": "Fall From the Stars",
       "url": "https://open.spotify.com/track/1GrTTmg5V2TGTL9Pdh2E6h"
+    },
+    {
+      "added_at": "2026-01-16 00:00:15",
+      "album": {
+        "name": "Fall In Love With Your Life",
+        "url": "https://open.spotify.com/album/5Wd25sRzDtlh1AjPjqAHKf"
+      },
+      "artists": [
+        {
+          "name": "KOPS",
+          "url": "https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Fall In Love With Your Life",
+      "url": "https://open.spotify.com/track/5xdYMxd96DeE35dmrs1Oi6"
     },
     {
       "added_at": "2026-01-16 00:00:15",

@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Holier (SHOWBIZ)",
+        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
+      },
+      "artists": [
+        {
+          "name": "Olli P",
+          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "Holier (SHOWBIZ)",
+      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
+    },
+    {
+      "album": {
         "name": "WONDERLOVE +",
         "url": "https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd"
       },

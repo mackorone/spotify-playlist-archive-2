@@ -5697,6 +5697,28 @@
     },
     {
       "album": {
+        "name": "Party Out",
+        "url": "https://open.spotify.com/album/22TJwoQuZnXx8k0XbmGUCz"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "A+",
+          "url": "https://open.spotify.com/artist/0QUIxJh1rw7FrbtvG6BbnA"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "Party Out",
+      "url": "https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },

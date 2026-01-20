@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1083010,
+  "num_followers": 1083046,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQBA6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MQGSaAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -33,27 +33,7 @@
       "url": "https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 185384,
-      "name": "OL\u00c8 (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -73,7 +53,91 @@
       "url": "https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 185384,
+      "name": "OL\u00c8 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "FACIL FACIL",
+      "url": "https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "STELLE",
+      "url": "https://open.spotify.com/track/6A4xLWcVQdGGSGkY0XqZ6U"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 196681,
+      "name": "UN RICCO E UN POVERO",
+      "url": "https://open.spotify.com/track/2fqbBzhl01hcq6JRYoIo11"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 140567,
+      "name": "1H",
+      "url": "https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -93,71 +157,7 @@
       "url": "https://open.spotify.com/track/2nnbBAAna484g9hKWvu5BR"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "FACIL FACIL",
-      "url": "https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 140567,
-      "name": "1H",
-      "url": "https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "STELLE",
-      "url": "https://open.spotify.com/track/6A4xLWcVQdGGSGkY0XqZ6U"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 196681,
-      "name": "UN RICCO E UN POVERO",
-      "url": "https://open.spotify.com/track/2fqbBzhl01hcq6JRYoIo11"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -177,23 +177,7 @@
       "url": "https://open.spotify.com/track/5W5lGzvUR9jWQ7kyz9rr4T"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 224767,
-      "name": "FOTOGRAFIA",
-      "url": "https://open.spotify.com/track/3Db9CbfPmpuBsLGIm3HtgU"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -209,7 +193,55 @@
       "url": "https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 224767,
+      "name": "FOTOGRAFIA",
+      "url": "https://open.spotify.com/track/3Db9CbfPmpuBsLGIm3HtgU"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "PECCATO PER I TESTI (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6pYQjzqrw6FBZMq6I9xo89"
+      },
+      "artists": [
+        {
+          "name": "TonyPitony",
+          "url": "https://open.spotify.com/artist/07yfI2D37Ir0pGQ8huDd4j"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "DONNE RICCHE - Acoustic Version",
+      "url": "https://open.spotify.com/track/5tY8rR8cdFsQdBauMGB7nz"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "Push It (feat. ANNA)",
         "url": "https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5"
@@ -229,55 +261,7 @@
       "url": "https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "PECCATO PER I TESTI (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6pYQjzqrw6FBZMq6I9xo89"
-      },
-      "artists": [
-        {
-          "name": "TonyPitony",
-          "url": "https://open.spotify.com/artist/07yfI2D37Ir0pGQ8huDd4j"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "DONNE RICCHE - Acoustic Version",
-      "url": "https://open.spotify.com/track/5tY8rR8cdFsQdBauMGB7nz"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "SONNAMBULO",
-      "url": "https://open.spotify.com/track/3cxq6vTJC9fixbGVC3FxCL"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -293,23 +277,7 @@
       "url": "https://open.spotify.com/track/0OiPqxdgIpfpfHt1zcDyHm"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "DESIDERIO",
-      "url": "https://open.spotify.com/track/4XyGDp3DyApDjoldIW9kqp"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "Schiena",
         "url": "https://open.spotify.com/album/3Wn6SpnPf6JDvk3ED4AcuJ"
@@ -325,7 +293,7 @@
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -336,12 +304,28 @@
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 194193,
-      "name": "P'FORZ",
-      "url": "https://open.spotify.com/track/41fSmhPqa9SYuYTalNyNM9"
+      "duration_ms": 183157,
+      "name": "SONNAMBULO",
+      "url": "https://open.spotify.com/track/3cxq6vTJC9fixbGVC3FxCL"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "DESIDERIO",
+      "url": "https://open.spotify.com/track/4XyGDp3DyApDjoldIW9kqp"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -357,7 +341,23 @@
       "url": "https://open.spotify.com/track/2q5m3HDPuPaLgVwLBIhWNg"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 194193,
+      "name": "P'FORZ",
+      "url": "https://open.spotify.com/track/41fSmhPqa9SYuYTalNyNM9"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "ACQUARIO",
         "url": "https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3"
@@ -373,23 +373,7 @@
       "url": "https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "MA IO SONO FUOCO",
-        "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Esibizionista",
-      "url": "https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTA VITA (SEMPRE)",
         "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
@@ -409,7 +393,55 @@
       "url": "https://open.spotify.com/track/1VX2LLBpUPS2QJVou4WGz3"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "MA IO SONO FUOCO",
+        "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Esibizionista",
+      "url": "https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "Amarsi \u00e8 la rivoluzione",
+        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
+      },
+      "artists": [
+        {
+          "name": "Eddie Brock",
+          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
+        }
+      ],
+      "duration_ms": 187698,
+      "name": "Non \u00e8 mica te",
+      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 214934,
+      "name": "PER TE",
+      "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -449,23 +481,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "Amarsi \u00e8 la rivoluzione",
-        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
-      },
-      "artists": [
-        {
-          "name": "Eddie Brock",
-          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
-        }
-      ],
-      "duration_ms": 187698,
-      "name": "Non \u00e8 mica te",
-      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "Comuni Mortali",
         "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
@@ -481,47 +497,7 @@
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 214934,
-      "name": "PER TE",
-      "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "FASTLIFE 5 : Audio Luxury",
-        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Celine G",
-          "url": "https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3"
-        }
-      ],
-      "duration_ms": 170637,
-      "name": "Loquito (with Celine G)",
-      "url": "https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTA VITA (SEMPRE)",
         "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
@@ -541,23 +517,7 @@
       "url": "https://open.spotify.com/track/1QMGYNbDtHIRzDMKugpg7t"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "Comuni Mortali",
-        "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        }
-      ],
-      "duration_ms": 244244,
-      "name": "Perdutamente",
-      "url": "https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -589,27 +549,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TUTTA VITA",
-        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Devastante",
-      "url": "https://open.spotify.com/track/1ej2NcW0CHnscPp1RZpr1V"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "PER SOLDI E PER AMORE",
         "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
@@ -629,7 +569,155 @@
       "url": "https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "FASTLIFE 5 : Audio Luxury",
+        "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Celine G",
+          "url": "https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3"
+        }
+      ],
+      "duration_ms": 170637,
+      "name": "Loquito (with Celine G)",
+      "url": "https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Devastante",
+      "url": "https://open.spotify.com/track/1ej2NcW0CHnscPp1RZpr1V"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "G&V",
+        "url": "https://open.spotify.com/album/1hSHdf8O0jsoaqFi7cpLAR"
+      },
+      "artists": [
+        {
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "G&V",
+      "url": "https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "SANTANA MONEY GANG",
+        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Chicchi di caff\u00e8",
+      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "Comuni Mortali",
+        "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "duration_ms": 244244,
+      "name": "Perdutamente",
+      "url": "https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "FASTLIFE 5 : Audio Luxury",
         "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
@@ -653,47 +741,7 @@
       "url": "https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "SANTANA MONEY GANG",
-        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "9MILLIMETRI",
-        "url": "https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "9MILLIMETRI",
-      "url": "https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
@@ -717,71 +765,7 @@
       "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Chicchi di caff\u00e8",
-      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "Mediterraneo",
-        "url": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 200590,
-      "name": "Dai che fai",
-      "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "ALASKA BABY",
         "url": "https://open.spotify.com/album/3ROTuddVE79FtfYVw5BfzG"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "TONYPITONY",
         "url": "https://open.spotify.com/album/4QmHGyvYPomUJO1GsIzmWu"
@@ -813,79 +797,39 @@
       "url": "https://open.spotify.com/track/3MI1TeWMJqhWuZtpjn0SZX"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
-        "name": "G&V",
-        "url": "https://open.spotify.com/album/1hSHdf8O0jsoaqFi7cpLAR"
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
       "artists": [
         {
-          "name": "IvanBi",
-          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 112500,
-      "name": "G&V",
-      "url": "https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh"
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "Mediterraneo",
+        "url": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 200590,
+      "name": "Dai che fai",
+      "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "PROGETTO X DELUXE",
-        "url": "https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1"
-      },
-      "artists": [
-        {
-          "name": "LILCR",
-          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 150444,
-      "name": "BETTY BOOP (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "BIG 5",
         "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
@@ -901,7 +845,47 @@
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
     },
     {
-      "added_at": "2026-01-18 14:23:41",
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "9MILLIMETRI",
+        "url": "https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "9MILLIMETRI",
+      "url": "https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "SANTANA MONEY GANG",
+        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 209962,
+      "name": "COME SE NON FOSSI NEI GUAI",
+      "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -915,6 +899,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-01-19 14:22:56",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 222794,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
     }
   ],
   "unique_name": "Top 50 - Italy",

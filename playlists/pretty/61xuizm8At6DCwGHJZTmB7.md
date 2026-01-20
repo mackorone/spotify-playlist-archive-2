@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Happy New Year 2026! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,569 likes - 162 songs - 14 hr 39 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,560 likes - 162 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

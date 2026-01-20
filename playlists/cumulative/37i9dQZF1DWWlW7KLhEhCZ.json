@@ -67,6 +67,40 @@
     },
     {
       "album": {
+        "name": "#1 MIB",
+        "url": "https://open.spotify.com/album/2fPD5mcjMHnQYS3MTYLg24"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Yrpedro",
+          "url": "https://open.spotify.com/artist/339yVlPjJYiFe211UDs01q"
+        },
+        {
+          "name": "LIM\u00c3O",
+          "url": "https://open.spotify.com/artist/4uXop3eLCglwjtm6tlGPIB"
+        },
+        {
+          "name": "25monteiro",
+          "url": "https://open.spotify.com/artist/5rSXqaAnXXpBhwCDeQ94eJ"
+        },
+        {
+          "name": "MIB",
+          "url": "https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "#1 MIB",
+      "url": "https://open.spotify.com/track/5pzC3qvum6pY4fDSgj0LCc"
+    },
+    {
+      "album": {
         "name": "#Fodaseaspritelimpa",
         "url": "https://open.spotify.com/album/6WrfGdoDoCrikxYKtBkwGX"
       },
@@ -420,7 +454,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 141636,
       "name": "20k",
       "url": "https://open.spotify.com/track/0exOURZmvuqfFl7it0tJZZ"
@@ -1551,6 +1585,32 @@
     },
     {
       "album": {
+        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
+        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "916frosty",
+          "url": "https://open.spotify.com/artist/6c0lj01vVpHsCH7Z5CfJ9K"
+        },
+        {
+          "name": "Necroez",
+          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232276,
+      "name": "ACORDO T\u00c3O FASHION",
+      "url": "https://open.spotify.com/track/1TWNnT8nV3VHvf3Xng1Rd2"
+    },
+    {
+      "album": {
         "name": "Adedonha",
         "url": "https://open.spotify.com/album/0arJNMRoh1LRBXiqd6nRA4"
       },
@@ -2651,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Apenas Sendo Honesto",
+        "url": "https://open.spotify.com/album/5j5irrVKyxPqAu0VHZk19w"
+      },
+      "artists": [
+        {
+          "name": "Tivityn",
+          "url": "https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Apenas Sendo Honesto",
+      "url": "https://open.spotify.com/track/5Kt6O1NgUvagPpFknb6Wx4"
+    },
+    {
+      "album": {
         "name": "Apesar De Voc\u00ea (Mixtape)",
         "url": "https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX"
       },
@@ -3472,7 +3550,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 108330,
       "name": "AX\u00c9",
       "url": "https://open.spotify.com/track/5IwUrbCCmyf51VlS4ODpzE"
@@ -6701,6 +6779,28 @@
     },
     {
       "album": {
+        "name": "CAPACIDADE",
+        "url": "https://open.spotify.com/album/1SXVb10fqlXBWRgpm5FhPv"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "CAPACIDADE",
+      "url": "https://open.spotify.com/track/7xLjxewtVAAuhCxEtdYHED"
+    },
+    {
+      "album": {
         "name": "Capital das Notas",
         "url": "https://open.spotify.com/album/0JlVSuqyZOu1EJ1cJrJNXl"
       },
@@ -7766,6 +7866,40 @@
       "duration_ms": 178775,
       "name": "Chandon",
       "url": "https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu"
+    },
+    {
+      "album": {
+        "name": "CHAPA",
+        "url": "https://open.spotify.com/album/4kQYU2woqbYQ7LS5DUqsDu"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132037,
+      "name": "CHAPA",
+      "url": "https://open.spotify.com/track/1mKsDKzhikHx8JZvPPj1bA"
     },
     {
       "album": {
@@ -14478,7 +14612,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 157714,
       "name": "Eu Meto Bronca",
       "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
@@ -18864,6 +18998,40 @@
       "duration_ms": 146549,
       "name": "Inicial na Unha",
       "url": "https://open.spotify.com/track/1x9mhUlhP5RDAHAq4bQALb"
+    },
+    {
+      "album": {
+        "name": "Inimigo do Cupido",
+        "url": "https://open.spotify.com/album/2agxx8U2GggGanntgjkiho"
+      },
+      "artists": [
+        {
+          "name": "Mineirin",
+          "url": "https://open.spotify.com/artist/2aKV7lCt1FIb79KzJX6zVu"
+        },
+        {
+          "name": "Calixto",
+          "url": "https://open.spotify.com/artist/3ex0EuBOYoYV4ma8fl9Cfz"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        },
+        {
+          "name": "DJ Lelo",
+          "url": "https://open.spotify.com/artist/2SoWK66MaUTQln4wmjyGTh"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Inimigo do Cupido",
+      "url": "https://open.spotify.com/track/4KGxhBFfir5vPwFkqnyqh0"
     },
     {
       "album": {
@@ -26966,7 +27134,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 169714,
       "name": "O Que a Cena Precisa",
       "url": "https://open.spotify.com/track/6GLoE264LXP1AjbLMe25y7"
@@ -29342,7 +29510,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 102352,
       "name": "PIIICOLO",
       "url": "https://open.spotify.com/track/6KBa14dnmSnradAoNJ4dT6"
@@ -29632,7 +29800,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 158400,
       "name": "PIR\u00c2MIDE",
       "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
@@ -30132,6 +30300,28 @@
       "duration_ms": 157187,
       "name": "Pod",
       "url": "https://open.spotify.com/track/4hHXcfk6Lo8lK2EgkIcnjJ"
+    },
+    {
+      "album": {
+        "name": "PODE CHORAR",
+        "url": "https://open.spotify.com/album/3xzAeWrMhdGCVD6snKWcSD"
+      },
+      "artists": [
+        {
+          "name": "IAMCOUT",
+          "url": "https://open.spotify.com/artist/7r3TP6jKHTYnlBnsqTLSge"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "PODE CHORAR",
+      "url": "https://open.spotify.com/track/5RyblFrsZOV7s0IAmZIziF"
     },
     {
       "album": {
@@ -32752,6 +32942,28 @@
       "duration_ms": 168000,
       "name": "Resignar",
       "url": "https://open.spotify.com/track/0cP0H3mezxubJHdDCUEMX4"
+    },
+    {
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/2TwKf8SLlHhasqt9i2xj3u"
+      },
+      "artists": [
+        {
+          "name": "dreko",
+          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
+        },
+        {
+          "name": "Igor G.",
+          "url": "https://open.spotify.com/artist/1EMBzeRHBxWRYjct4Ia05J"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/47pt0aFZ0AKAnhz05VT0ZH"
     },
     {
       "album": {
@@ -36520,7 +36732,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 175774,
       "name": "Tabuleiro",
       "url": "https://open.spotify.com/track/3OGEooizIH0VKUQKyAp8KO"
@@ -41228,7 +41440,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 132964,
       "name": "zaza",
       "url": "https://open.spotify.com/track/6Asc5kP4mYUpUXaAqYJV3x"

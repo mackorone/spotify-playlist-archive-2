@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Editors’ Picks: Die besten Deutschrap Tracks des Jahres\. Cover: Ceren & Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,657 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,672 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

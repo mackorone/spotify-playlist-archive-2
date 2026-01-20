@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 437,
+  "num_followers": 445,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACYM5hfqjci1Yaus8VaMXFJ7+7C3hq",
+  "snapshot_id": "AAACZYC7PhLfFRshWgFBYlDz2+tTxBWG",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1135,6 +1135,86 @@
       "duration_ms": 171732,
       "name": "Lost My Head",
       "url": "https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0"
+    },
+    {
+      "added_at": "2026-01-19 14:37:57",
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D"
+      },
+      "artists": [
+        {
+          "name": "Joel Hunt",
+          "url": "https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8"
+        }
+      ],
+      "duration_ms": 295421,
+      "name": "Universes",
+      "url": "https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE"
+    },
+    {
+      "added_at": "2026-01-19 14:41:57",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5"
+    },
+    {
+      "added_at": "2026-01-19 14:46:08",
+      "album": {
+        "name": "Bleeding Rage",
+        "url": "https://open.spotify.com/album/3Tih67eYTaq5xzKDMT0sAc"
+      },
+      "artists": [
+        {
+          "name": "Cutloose",
+          "url": "https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Bleeding Rage",
+      "url": "https://open.spotify.com/track/5OOTUzZhTPjYfFlp97yxIU"
+    },
+    {
+      "added_at": "2026-01-19 14:51:31",
+      "album": {
+        "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0432\u0430\u043c",
+        "url": "https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0430\u043b\u043c\u0435\u0440\u0438\u043d",
+          "url": "https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO"
+        }
+      ],
+      "duration_ms": 198384,
+      "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0432\u0430\u043c",
+      "url": "https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV"
+    },
+    {
+      "added_at": "2026-01-19 15:10:49",
+      "album": {
+        "name": "Off to the Happy Place",
+        "url": "https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "duration_ms": 149144,
+      "name": "No One Speaks",
+      "url": "https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

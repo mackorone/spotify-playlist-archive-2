@@ -18680,7 +18680,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60",
       "url": "https://open.spotify.com/track/6FIhcAp2lj45eFlUkTriAr"
@@ -19924,7 +19924,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "\u505a\u6211\u7684\u521d\u6200",
       "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
@@ -20148,6 +20148,24 @@
       "duration_ms": 275006,
       "name": "\u518d\u898b,\u5c11\u5e74 (Farewell, My Lad) - \u96fb\u5f71\u300a\u518d\u898b,\u5c11\u5e74\u300b\u540c\u540d\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5KSOS6tZc3kl2BNdDdyRDR"
+    },
+    {
+      "album": {
+        "name": "\u518d\u898b\u7684\u6642\u5019 (\u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248)",
+        "url": "https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234614,
+      "name": "\u518d\u898b\u7684\u6642\u5019 - \u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248",
+      "url": "https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P"
     },
     {
       "album": {
@@ -20956,7 +20974,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
@@ -23494,7 +23512,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 289066,
       "name": "\u6211\u61f7\u5ff5\u7684",
       "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
@@ -27280,7 +27298,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"

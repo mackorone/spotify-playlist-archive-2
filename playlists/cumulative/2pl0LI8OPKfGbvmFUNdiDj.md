@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-310 songs - 17 hr 21 min
+314 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-24 | 2026-01-15 |
 | [All In](https://open.spotify.com/track/663hZ5d086UY6QZUCwmGFU) | [Drip Label](https://open.spotify.com/artist/4aR0chhEdjyxu9y9JkCqXR) | [All In](https://open.spotify.com/album/2VYG35zYIpbRF9YQPjXXeG) | 3:12 | 2025-11-10 | 2025-12-01 |
 | [Along the Road](https://open.spotify.com/track/7v1etJXp32nRfRsBnHTllE) | [K!ko](https://open.spotify.com/artist/2a7EXQxuh8s60Yws9pksh1) | [Along the Road](https://open.spotify.com/album/4psrRJPnDTu04JfCQPwUtH) | 2:31 | 2025-11-08 | 2025-12-01 |
+| [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 | 2026-01-19 |  |
 | [Always](https://open.spotify.com/track/3GQiYPybaCU1oZonN8kCQ2) | [Encore](https://open.spotify.com/artist/74q62Ut63aFckyhGf1nirq) | [Always](https://open.spotify.com/album/7qxOiUgM02BM2L2QkFrYlT) | 3:36 | 2025-11-08 | 2025-12-01 |
 | [AMALFI COAST](https://open.spotify.com/track/7mTk4DkWvxKIeX8INzG426) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [AMALFI COAST](https://open.spotify.com/album/5d6KIZ7Euod0uin0zvShtM) | 2:27 | 2025-10-19 | 2026-01-05 |
 | [AMARO](https://open.spotify.com/track/0HttEPEYJ7QzjjLxCCuFAB) | [Modalità Ostile](https://open.spotify.com/artist/47DoF17yIAH58maogss0BI) | [AMARO](https://open.spotify.com/album/4JJv2doWWf82piWQwExjsJ) | 4:14 | 2025-11-17 | 2026-01-05 |
@@ -36,6 +37,7 @@
 | [Another kind of love](https://open.spotify.com/track/1nCXxexVgfL51nDIoebmBV) | [NUNA](https://open.spotify.com/artist/2ZDRiuhvUAmjhAMlIBKsJt) | [Another kind of love](https://open.spotify.com/album/2qlJ3o9DTV66eWozihYItB) | 3:16 | 2025-11-01 | 2025-12-01 |
 | [Anti Romantic](https://open.spotify.com/track/16Gat5a1EIYm4QYmvsAlUR) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Luxed Out](https://open.spotify.com/album/2Ig92MoXAouPQuWWZ2pBGP) | 3:25 | 2025-11-05 | 2025-12-01 |
 | [Apocalypticated](https://open.spotify.com/track/7afKSNMqHE9RTEurgxjXRi) | [Met1hod](https://open.spotify.com/artist/1l40FvIvVg9uZyRZpwMXql) | [Apocalypticated](https://open.spotify.com/album/55is4wGGblko5h6K5RE2ZK) | 4:08 | 2025-11-17 | 2026-01-05 |
+| [Ashes](https://open.spotify.com/track/5Ft6nMdweaJkJAJX57SHza) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:57 | 2026-01-19 |  |
 | [Astrifer](https://open.spotify.com/track/66NCwHAAArMOhD6aduLl6g) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Spectra](https://open.spotify.com/album/0dRFvEUEt5gg9u4TVhLJpe) | 4:08 | 2025-11-08 | 2025-12-01 |
 | [Autumn Fall](https://open.spotify.com/track/1bm4evNgnGNc6TkrW5coXx) | [Legends of the Seven Golden Vampires](https://open.spotify.com/artist/5MWBriMQP4x8AeTN48ErdZ) | [Autumn Fall](https://open.spotify.com/album/7x7BkLrEek3R6ekBdB6mrB) | 2:56 | 2025-12-30 |  |
 | [Avatar](https://open.spotify.com/track/4jvDddu5cVPq4ogsmSEeQ9) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Avatar](https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f) | 4:28 | 2025-12-26 | 2026-01-15 |
@@ -144,6 +146,7 @@
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-17 | 2026-01-05 |
+| [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-01-19 |  |
 | [Il mio nome è Divoc](https://open.spotify.com/track/5C9onzUPqDPEa1bkicVEvH) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:16 | 2025-11-24 | 2026-01-05 |
 | [Imagine](https://open.spotify.com/track/0qfZc2BEwvldx3YU55aBJy) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Imagine](https://open.spotify.com/album/1GCezoHHagiknb2SwdHAdd) | 3:15 | 2025-11-10 | 2025-12-01 |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-08 | 2025-12-01 |
@@ -297,6 +300,7 @@
 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 | 2025-12-20 | 2026-01-15 |
 | [Waste Your Life Away](https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5) | [No Consent](https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW) | [Waste Your Life Away](https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6) | 2:56 | 2025-12-04 | 2026-01-05 |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-12-29 |  |
+| [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 | 2026-01-19 |  |
 | [What I Need](https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [What I Need](https://open.spotify.com/album/0AkgS5mr0RnX863tboGE1e) | 3:16 | 2025-11-17 | 2026-01-05 |
 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 | 2025-12-22 | 2026-01-15 |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-03 | 2026-01-05 |

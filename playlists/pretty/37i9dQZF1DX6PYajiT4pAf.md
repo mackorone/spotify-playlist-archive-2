@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Hijos de la Ruina, Manuel Turizo, Young Cister, Metrika y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,434 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,409 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 44 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
 | 45 | [Slumber Party](https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Slumber Party](https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz) | 4:01 |
 | 46 | [Gigante](https://open.spotify.com/track/39e9XFY4lKx8CPwspoT0A1) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Gigante](https://open.spotify.com/album/6YW5UPSick4KA2ghpE5cPS) | 3:38 |
-| 47 | [Para Dos](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para Dos](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 |
+| 47 | [Para 2](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para 2](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 |
 | 48 | [San José, Almería](https://open.spotify.com/track/14KTHyfbq3kEATrTKblhg9) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [San José, Almería](https://open.spotify.com/album/3K7yTOr0HcWK0ar43zC1tH) | 3:42 |
 | 49 | [¿El Corazón?](https://open.spotify.com/track/2jHTO67KSU7bZqu2YTD8Mr) | [Querido](https://open.spotify.com/artist/3ulrDH2Ccc1FPggTGbvxho), [David Ruiz](https://open.spotify.com/artist/7aEuYgBWaCWbwnSld4LDIN), [La Maravillosa Orquesta del Alcohol](https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq) | [¿El Corazón?](https://open.spotify.com/album/5B0hWXYmkztSyhcAFFddyr) | 4:33 |
 | 50 | [Nada bueno](https://open.spotify.com/track/6vxtbH2urM6FWwWUsydJ6F) | [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [Reinicio](https://open.spotify.com/album/61Pzajp2zp71SqsK3Ve4wg) | 3:43 |

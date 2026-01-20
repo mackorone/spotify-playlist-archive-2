@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 394985,
+  "num_followers": 395085,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 203466,
       "name": "Quick Hands",
       "url": "https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "More More More",
-        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 192753,
-      "name": "More More More",
-      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 194237,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/1si9NdGIgzOvt9iutjL7G3"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Beg, Steal, Borrow",
-      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Running With The Wolves",
         "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 163821,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Beg, Steal, Borrow",
+      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
       },
       "artists": [
         {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
         }
       ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+      "duration_ms": 262853,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
       "artists": [
         {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 262853,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 208088,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        },
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 143030,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
       },
@@ -2123,18 +2103,22 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        },
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+      "duration_ms": 143030,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2151,6 +2135,22 @@
       "duration_ms": 232000,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Queen of Silver Linings",
-        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+        "name": "Say Something Now",
+        "url": "https://open.spotify.com/album/5MQSXVuerRkqvIn2yqK0MI"
       },
       "artists": [
         {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 212964,
-      "name": "Queen of Silver Linings",
-      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+      "duration_ms": 209040,
+      "name": "Say Something Now",
+      "url": "https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Say Something Now",
-        "url": "https://open.spotify.com/album/5MQSXVuerRkqvIn2yqK0MI"
+        "name": "Queen of Silver Linings",
+        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Say Something Now",
-      "url": "https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg"
+      "duration_ms": 212964,
+      "name": "Queen of Silver Linings",
+      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Love Is Tall",
-        "url": "https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Love Is Tall",
-      "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Love Is Tall",
+        "url": "https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Love Is Tall",
+      "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "American Recordings",
-        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 123301,
-      "name": "Chicago Flood",
-      "url": "https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -2679,18 +2663,34 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF"
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
       },
       "artists": [
         {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
         }
       ],
-      "duration_ms": 184228,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
+      "duration_ms": 123301,
+      "name": "Chicago Flood",
+      "url": "https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Goodbye Mr Blue",
+        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr Blue",
+      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2711,18 +2711,18 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Goodbye Mr Blue",
-        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr Blue",
-      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
+      "duration_ms": 184228,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Starting To Get To You",
-        "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 161088,
-      "name": "Starting To Get To You",
-      "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Songs From The Ashes (PT. 1)",
         "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 282802,
       "name": "Nobody Opened The Door",
       "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Starting To Get To You",
+        "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 161088,
+      "name": "Starting To Get To You",
+      "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2887,22 +2887,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Sedona (The Voice Performance)",
-        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 205726,
-      "name": "Sedona - The Voice Performance",
-      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
       },
@@ -2915,6 +2899,22 @@
       "duration_ms": 205266,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Sedona (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 205726,
+      "name": "Sedona - The Voice Performance",
+      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 197113,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Hold Space (Live Acoustic)",
         "url": "https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 193432,
       "name": "Hold Space - Live Acoustic",
       "url": "https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 197113,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Happier - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
-    },
-    {
-      "added_at": "2025-12-08 17:19:32",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -3147,6 +3131,22 @@
       "duration_ms": 169226,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB"
+    },
+    {
+      "added_at": "2025-12-08 17:19:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Happier - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
     },
     {
       "added_at": "2025-12-08 17:19:32",
@@ -3319,18 +3319,18 @@
     {
       "added_at": "2025-12-08 17:19:32",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "Way to the Way",
+        "url": "https://open.spotify.com/album/3CWgExtidV8MWBaSbwo29M"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Kevin Paris",
+          "url": "https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 254545,
+      "name": "Way to the Way",
+      "url": "https://open.spotify.com/track/2LU6SdGdA3faORkSDY6tw6"
     }
   ],
   "unique_name": "Morning Coffee",

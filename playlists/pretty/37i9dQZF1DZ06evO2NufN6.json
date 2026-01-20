@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 976230,
+  "num_followers": 976398,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACsMInfG9+yyy4pbhjwqSfi",
+  "snapshot_id": "aWwigAAAAAA8t75P/TGQCOeGtotrS4QG",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 153881,
       "name": "Rain (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -647,6 +631,38 @@
       "duration_ms": 319272,
       "name": "We (feat. CeeLo Green)",
       "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 256423,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4lSSv5nRcv47yLSRj92omI"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 190186,
       "name": "Programs",
       "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 256423,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4lSSv5nRcv47yLSRj92omI"
     },
     {
       "added_at": null,

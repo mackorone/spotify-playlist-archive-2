@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-387 songs - 1 day 13 hr 25 min
+389 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Evaporation](https://open.spotify.com/track/3eR10l5J7GVTnIeD2oSKYX) | [o.utlier](https://open.spotify.com/artist/6PsYj01GgN9NA1jcXME5FB) | [Biome](https://open.spotify.com/album/1S7tEKbb4ROJPk9ZUNlcZ1) | 6:30 | 2025-03-21 | 2026-01-15 |
 | [Event](https://open.spotify.com/track/6qf8R83argmrKQ6dN1fWw8) | [Gábor Lázár](https://open.spotify.com/artist/49bi4Ch9Ip1cIQuevzyU2V) | [Reflex](https://open.spotify.com/album/71l4rTxbUOzIk8T6xHSgEe) | 4:20 | 2024-11-06 | 2025-09-06 |
 | [Exosphere](https://open.spotify.com/track/1mhTbFNIKZ1mNdIWDXJ1G6) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ), [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Fragments](https://open.spotify.com/album/3sWl78pgsFFgbCp2mnpPW3) | 5:20 | 2025-01-16 | 2025-11-11 |
+| [Exposition Zero](https://open.spotify.com/track/5vn885OXc2gvVrJF8r40RD) | [Surface Access](https://open.spotify.com/artist/5Ev2mHd9pK6LXAg1rDqjOG) | [Transfer](https://open.spotify.com/album/4nIxSsKwtI6vKzIy4M18MY) | 7:39 | 2026-01-19 |  |
 | [Fade To Black](https://open.spotify.com/track/2VcK9l2rGaxUw6cI4u5zxy) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fade To Black EP](https://open.spotify.com/album/1CuBDDWPdzNolcPtYGAT8N) | 4:20 | 2025-09-05 |  |
 | [Fallen](https://open.spotify.com/track/6uNHQ4dK0E9GNmPfQr7Lyt) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [Part 9](https://open.spotify.com/album/0fMmO5tamKGVpthiE5Fmxp) | 7:33 | 2024-11-11 | 2025-09-17 |
 | [Falling Apart](https://open.spotify.com/track/5DEpg2xpW5D6kdM8BH7cu8) | [WOODKIN](https://open.spotify.com/artist/1erMnbnkJ35Y62j7oBr7kj), [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [MAZ'N](https://open.spotify.com/artist/1yYMHWtDyG3bb1DYKUpNOL) | [Tears & Hope \- Part 1](https://open.spotify.com/album/2W3Aam9CHeI8quUi934Wgx) | 4:00 | 2025-04-29 |  |
@@ -270,6 +271,7 @@
 | [Porcupine Tattoo \- DJ Koze Remix](https://open.spotify.com/track/7HkpSCzqJHmAEgYvoUlfgW) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Porcupine Tattoo \(DJ Koze Remix\)](https://open.spotify.com/album/01oamQ0iUbRggTBgfSrQr3) | 4:43 | 2025-08-21 |  |
 | [Premise](https://open.spotify.com/track/19DW5bCWRiX3GuErm0EOnx) | [Felix Fleer](https://open.spotify.com/artist/4DmLD0EhjRVayjuWPO3FXx) | [Premise](https://open.spotify.com/album/4iXHmnaKCQOfTCbvo88FDq) | 4:16 | 2024-11-06 | 2025-09-17 |
 | [Pulse XIV](https://open.spotify.com/track/5un1LT8gEj9YiFo0SS3hLv) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Pulse Echo EP](https://open.spotify.com/album/65s546D9JTDUOLzgJ4o8BN) | 6:02 | 2025-06-04 |  |
+| [Purple People](https://open.spotify.com/track/6L4Xniw1SnUqdn13AJNw4i) | [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C) | [NEOCLASH](https://open.spotify.com/album/3AxYDQIJAioVgNDXBF36GG) | 9:23 | 2026-01-19 |  |
 | [Queen Of 14th St](https://open.spotify.com/track/6G76apo7QJ3y8UdglGWUxA) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. II \(Splendour & Obedience\)](https://open.spotify.com/album/7tw9VZCzCmiavs3jddFeCm) | 5:51 | 2025-02-18 | 2026-01-15 |
 | [Quintessence](https://open.spotify.com/track/24kgTHvNuRKRgr0XJUplhh) | [Jancen](https://open.spotify.com/artist/5DEG6jf4lvaICXAUhi6BKk) | [Inner Labyrinth, Pt\. 1](https://open.spotify.com/album/0VKwkv9QzuwxWK035BSQGI) | 5:16 | 2024-11-06 | 2025-09-17 |
 | [Ratibor Numida](https://open.spotify.com/track/3wW5NcpvMSd6z0BCihPcNn) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Ratibor Numida](https://open.spotify.com/album/0S4LIXDbPhu24t6ViTUlzu) | 5:44 | 2025-11-14 |  |

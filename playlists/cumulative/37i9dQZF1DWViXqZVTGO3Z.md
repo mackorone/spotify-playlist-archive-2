@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
-515 songs - 1 day 9 hr 24 min
+516 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6rCdJDoe9gCKDtf2J5ms9A) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/2r0s6DBklPX2xf4tTPenEQ) | 3:20 | 2022-11-26 | 2023-03-10 |
 | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/track/0WqMFT1BrV53fUDpkxPPBK) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Laura Cooksey](https://open.spotify.com/artist/6MWom32rnuJDTw1LnnvsxK), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio) | 4:33 | 2022-11-26 |  |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2022-07-27 |
+| [Savior of the Nations, Come](https://open.spotify.com/track/4zEOFejGGezuHnyxSvUejY) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Hymns IV](https://open.spotify.com/album/65Yv0dk2ynKDYPvLY5Ik86) | 2:08 | 2025-12-12 |  |
 | [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 |  |
 | [Saviour Of The World](https://open.spotify.com/track/48cgU4wfeTp28IrlTVG0MU) | [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg), [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Saviour Of The World](https://open.spotify.com/album/3yZjjoaKIQxCqoLffDALox) | 3:34 | 2024-07-31 |  |
 | [Seasons](https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:34 | 2021-12-11 | 2024-08-01 |
@@ -446,7 +447,7 @@
 | [The First Christmas](https://open.spotify.com/track/4hbAE2LJzCupitJ898V6k4) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [The First Christmas](https://open.spotify.com/album/69ob5WRhc4ftmaSr9A3I90) | 3:53 | 2021-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/0zZS5f3qS0iql0GNmapr2C) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The First Noel](https://open.spotify.com/album/2xws45Dyh4qmerwUIUzXOK) | 2:56 | 2025-11-16 |  |
-| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 |  |
+| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 | 2026-01-20 |
 | [The First Noel](https://open.spotify.com/track/0GBlcKQjHBVMsQGDnwE2Cs) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Majesty Rose](https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz) | [Maverick City Christmas](https://open.spotify.com/album/3zLMIw0wBGpIaGNox8oiKH) | 3:47 | 2021-12-11 | 2022-07-28 |
 | [The First Noel](https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [The First Noel](https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |

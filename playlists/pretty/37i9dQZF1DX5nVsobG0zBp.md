@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Papillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,551 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,589 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Como É Que 'Tás](https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Como É Que 'Tás](https://open.spotify.com/album/0Ttu6SVIqBpNUhZSAyeSpW) | 1:59 |
 | 80 | [Bairro](https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Bairro](https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46) | 4:18 |
 
-Snapshot ID: `AAAAAA8HbBo8J7vI9EKGOCIA+eR/B95Q`
+Snapshot ID: `AAAAAATiVxSBNXr0JG7Ypg0MmZB2PxT3`

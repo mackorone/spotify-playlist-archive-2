@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,358 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,747 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 29 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
 | 30 | [Adriana](https://open.spotify.com/track/07jiARShTjI2U7p9vay1df) | [Wanda Sá](https://open.spotify.com/artist/5mZMounx8LpSyLospHT1dK) | [Wanda..Vagamente..](https://open.spotify.com/album/1tZZhPTwHPqNVLNbw38GPZ) | 1:52 |
 | 31 | [Samba De Verao](https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 3:07 |
-| 32 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 |
-| 33 | [One Note Samba](https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 3:01 |
+| 32 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
+| 33 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 |
 | 34 | [Desafinado](https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:58 |
-| 35 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 |
+| 35 | [One Note Samba](https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 3:01 |
 | 36 | [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 |
-| 37 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
+| 37 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 |
 | 38 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 |
 | 39 | [The Girl From Ipanema](https://open.spotify.com/track/3QczGFzPU2pr54vcRn90at) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Francis Albert Sinatra & Antonio Carlos Jobim](https://open.spotify.com/album/1DcmsgvmP94BH8XShg74N0) | 3:14 |
 | 40 | [Só Tinha De Ser Com Você](https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 3:49 |

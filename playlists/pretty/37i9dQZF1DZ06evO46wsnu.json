@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 175821,
+  "num_followers": 175834,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABO9/lSukHLHLiIgmufJQ4v",
+  "snapshot_id": "aWwigAAAAAAVcNpvtKXO90kheay8as8W",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolutions Per Minute",
-        "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Black Masks & Gasoline",
-      "url": "https://open.spotify.com/track/6tdQ4rDt4NPl9L7eSIEXtY"
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
+        "name": "Revolutions Per Minute",
+        "url": "https://open.spotify.com/album/60plJOxpeoHm5iRkMUIu5A"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+      "duration_ms": 179466,
+      "name": "Black Masks & Gasoline",
+      "url": "https://open.spotify.com/track/6tdQ4rDt4NPl9L7eSIEXtY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Bismil, Shaan,  Anweshaa and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,395 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,417 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 5 | [Uss Dilnashi](https://open.spotify.com/track/3je1pOIzXhiWjuUKaWN4lc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Uss Dilnashi](https://open.spotify.com/album/59P88ZCHATtmDrYJA310qi) | 4:21 |
 | 6 | [Koi Naam](https://open.spotify.com/track/0vRgu0FsgI5AP1MJ9GupIR) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Aditya Sharma](https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl) | [Koi Naam](https://open.spotify.com/album/0yEvTMsYDemfZ75FmcB6hY) | 3:48 |
 | 7 | [Chaal](https://open.spotify.com/track/2t67X9iFlgDAyZRrlgALnG) | [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF) | [Chaal](https://open.spotify.com/album/5g3aydqrHDiNAS5is2MtA0) | 3:36 |
-| 8 | [Sanam Beraham](https://open.spotify.com/track/0BFtVfD4UCM17SZ2Uz41LL) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Sanam Beraham](https://open.spotify.com/album/3vOPTCFkLgYmycCMjLjFjO) | 4:58 |
+| 8 | [Sanam Beraham](https://open.spotify.com/track/0BFtVfD4UCM17SZ2Uz41LL) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV), [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Sanam Beraham](https://open.spotify.com/album/3vOPTCFkLgYmycCMjLjFjO) | 4:58 |
 | 9 | [Saanu Tere Naal](https://open.spotify.com/track/50LOCpH5OsXbQ9Wq0OKvbl) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Arvinder Singh](https://open.spotify.com/artist/4ZY81pabNXmCTyutcniAVW), [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF) | [Saanu Tere Naal](https://open.spotify.com/album/5BmUhx8SXUqQEkcYVJatXW) | 2:41 |
 | 10 | [umraan](https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [umraan](https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7) | 2:31 |
 | 11 | [Sohneya](https://open.spotify.com/track/16GbQga1KdwbYPDoIBnok5) | [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Suniil Rao](https://open.spotify.com/artist/3Jk2kOTIDixrXv04oyFl3y) | [Sohneya](https://open.spotify.com/album/5G9CL3D2fG2NzlGc93fbin) | 3:25 |

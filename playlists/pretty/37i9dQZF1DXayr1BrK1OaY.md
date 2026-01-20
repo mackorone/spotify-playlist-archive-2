@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,971 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,001 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 90 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 91 | [Disconnected](https://open.spotify.com/track/7xK5a6xjJkLLd8zRKskSMB) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Disconnected](https://open.spotify.com/album/6d5kJtZLuZ6AADFLX6nqFE) | 2:51 |
 | 92 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
-| 93 | [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 |
-| 94 | [It's Okay](https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [It's Okay](https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u) | 2:45 |
-| 95 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
+| 93 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
+| 94 | [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 |
+| 95 | [It's Okay](https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [It's Okay](https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u) | 2:45 |
 | 96 | [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 |
 | 97 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 98 | [Moving On](https://open.spotify.com/track/5vqaxhBBQmMSOdbx1VuQNI) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [STOREY](https://open.spotify.com/artist/3A9aSreVGjMrRyhDHOSzbN), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Moving On](https://open.spotify.com/album/7vzSIDKeliMyC4akCCEsVy) | 2:31 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 110 | [i don't know what to say](https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Hana Fatur](https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX) | [i don't know what to say](https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5) | 3:29 |
 | 111 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
 | 112 | [Love Let Me Go](https://open.spotify.com/track/7bJhgRTEevQQksYPbXKxRR) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Love Let Me Go](https://open.spotify.com/album/0bvltW5lUvvoK4lmex3v5Q) | 4:01 |
-| 113 | [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 |
-| 114 | [Sober](https://open.spotify.com/track/74QCgg5K5SfOjFxOBOXXHf) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Hix](https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO), [Tori Smith](https://open.spotify.com/artist/2cmtBSw2XFP9YGc4m20gwU) | [Sober](https://open.spotify.com/album/5EO4GE66HG5M5aleLkIZZc) | 2:52 |
+| 113 | [Sober](https://open.spotify.com/track/74QCgg5K5SfOjFxOBOXXHf) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Hix](https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO), [Tori Smith](https://open.spotify.com/artist/2cmtBSw2XFP9YGc4m20gwU) | [Sober](https://open.spotify.com/album/5EO4GE66HG5M5aleLkIZZc) | 2:52 |
+| 114 | [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 |
 | 115 | [That Boy's Not Nice](https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [That Boy's Not Nice](https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F) | 3:18 |
 | 116 | [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 |
 | 117 | [DANCING ALONE](https://open.spotify.com/track/7IsyOBwLw4LXuB8pecbQnD) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [DANCING ALONE](https://open.spotify.com/album/3vxhnx6m20fyU1GGo2ULOf) | 3:37 |

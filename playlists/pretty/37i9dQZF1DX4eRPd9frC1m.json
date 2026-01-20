@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> \ud83d\udcaa\ud83d\udca5",
-  "num_followers": 2576056,
+  "num_followers": 2576079,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 191357,
       "name": "THRASH (PARTY STARTER)",
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
         "name": "Griztronics II (Another Level)",
         "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 165517,
       "name": "Griztronics II (Another Level)",
       "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
+        "name": "Coast 2 Coast ft. Flowdan",
+        "url": "https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 174751,
+      "name": "Coast 2 Coast ft. Flowdan",
+      "url": "https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -931,22 +951,6 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -963,6 +967,22 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "Coast 2 Coast ft. Flowdan",
-        "url": "https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 174751,
-      "name": "Coast 2 Coast ft. Flowdan",
-      "url": "https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
         "name": "A MILLI (Zoey's Version)",
         "url": "https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 105931,
       "name": "A MILLI (Zoey's Version)",
       "url": "https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Duel of the Fates",
-        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        }
-      ],
-      "duration_ms": 202449,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
+        "name": "Duel of the Fates",
+        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "duration_ms": 202449,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 135724,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -1187,22 +1203,6 @@
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2026-01-16 05:00:45",

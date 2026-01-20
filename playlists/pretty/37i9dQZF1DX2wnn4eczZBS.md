@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,155 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,161 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 49 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
 | 50 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 |
 
-Snapshot ID: `AAAAAA/gvPJEDI/FzR9LNAKeRFlWLkPM`
+Snapshot ID: `AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E`

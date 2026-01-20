@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 340849,
+  "num_followers": 340920,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
+        "name": "It Don\u2019t Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
         "name": "Rhythm of the Night",
         "url": "https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1"
       },
@@ -491,30 +515,6 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "It Don\u2019t Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 173742,
-      "name": "It Don\u2019t Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
         "name": "Tigra & Bunny",
         "url": "https://open.spotify.com/album/7wQu3DEsumo94QDNuFnOkV"
       },
@@ -543,6 +543,26 @@
       "duration_ms": 174480,
       "name": "Pararam",
       "url": "https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -583,26 +603,6 @@
       "duration_ms": 221769,
       "name": "Do You",
       "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -651,6 +651,26 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
         "name": "One Million",
         "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
       },
@@ -691,22 +711,18 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -727,22 +743,6 @@
       "duration_ms": 217920,
       "name": "Believe - Sevenn Remix",
       "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -987,22 +987,18 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+        "name": "Strobe Lights",
+        "url": "https://open.spotify.com/album/188xhKRQE9SGzshNT9kU7L"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         }
       ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+      "duration_ms": 153230,
+      "name": "Strobe Lights",
+      "url": "https://open.spotify.com/track/5p2e47MQVn2YjUz8QbHJhe"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -1027,8 +1023,28 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "Vodka",
-        "url": "https://open.spotify.com/album/3Ni5e9roK3dDrAgSVDqJgd"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
+        "name": "Atomic Bomb (feat. Juan Alcasar)",
+        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
       "artists": [
         {
@@ -1036,29 +1052,21 @@
           "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Dekho (MX)",
-          "url": "https://open.spotify.com/artist/4Q4lGYyIw28g7YK5ekAEZM"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Vodka",
-      "url": "https://open.spotify.com/track/0NFLot7aYjdkJon2mMN5lG"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
-        "name": "Strobe Lights",
-        "url": "https://open.spotify.com/album/188xhKRQE9SGzshNT9kU7L"
-      },
-      "artists": [
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Juan Alcasar",
+          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Strobe Lights",
-      "url": "https://open.spotify.com/track/5p2e47MQVn2YjUz8QbHJhe"
+      "duration_ms": 129000,
+      "name": "Atomic Bomb (feat. Juan Alcasar)",
+      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

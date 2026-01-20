@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484555,
+  "num_followers": 484521,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 231950,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Simpin'",
-        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 213661,
-      "name": "Simpin'",
-      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Can You See The Sunshine? (EP)",
@@ -983,6 +967,22 @@
       "duration_ms": 205376,
       "name": "Couch Sex",
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Simpin'",
+        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 213661,
+      "name": "Simpin'",
+      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Midnight Man",
-        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
-      },
-      "artists": [
-        {
-          "name": "Tiger Print",
-          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Midnight Man",
-      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 245853,
       "name": "Ceviche",
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Midnight Man",
+        "url": "https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7"
+      },
+      "artists": [
+        {
+          "name": "Tiger Print",
+          "url": "https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p"
+        }
+      ],
+      "duration_ms": 159910,
+      "name": "Midnight Man",
+      "url": "https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5"
+        "name": "Teasing Me",
+        "url": "https://open.spotify.com/album/5VrwIJW10AsycVKlVhRmjo"
       },
       "artists": [
         {
-          "name": "Jimmy Cloud",
-          "url": "https://open.spotify.com/artist/5eG7CShmVJKxJ168KQcpLv"
-        },
-        {
-          "name": "Willy Sinclair",
-          "url": "https://open.spotify.com/artist/0coVCuGuAQjBcrAyWLznWQ"
+          "name": "J.F. Gloss",
+          "url": "https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1"
         }
       ],
-      "duration_ms": 140848,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
+      "duration_ms": 97869,
+      "name": "Teasing Me",
+      "url": "https://open.spotify.com/track/3UnxPLNKTutLCmgHTaZKFw"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

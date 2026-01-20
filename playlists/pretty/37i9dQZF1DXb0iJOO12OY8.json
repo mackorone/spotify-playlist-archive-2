@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 211711,
+  "num_followers": 211704,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
+        "name": "Sjarm\u00f8r (Beepolar)",
+        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
+      },
+      "artists": [
+        {
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
+        }
+      ],
+      "duration_ms": 163070,
+      "name": "Sjarm\u00f8r (Beepolar)",
+      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 170146,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
-        "name": "Sjarm\u00f8r (Beepolar)",
-        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
-      },
-      "artists": [
-        {
-          "name": "Problembarn",
-          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
-        }
-      ],
-      "duration_ms": 163070,
-      "name": "Sjarm\u00f8r (Beepolar)",
-      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
     },
     {
       "added_at": "2026-01-08 23:00:06",

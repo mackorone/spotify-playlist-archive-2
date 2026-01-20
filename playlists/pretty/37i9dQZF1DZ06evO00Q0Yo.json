@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19889,
+  "num_followers": 19891,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAC2Fzqlaea8X//hnsIAcM74",
+  "snapshot_id": "aWwigAAAAADZnqHOZsJ+fi0Co5XSNE8s",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146854,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ho, why is you here ?",
         "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
@@ -99,22 +83,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6"
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
       "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 182464,
-      "name": "I Am (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq"
+      "duration_ms": 146854,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
     },
     {
       "added_at": null,
@@ -147,22 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Not Humping (Remix)",
-        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6"
       },
       "artists": [
         {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 143325,
-      "name": "We Not Humping - Remix",
-      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+      "duration_ms": 182464,
+      "name": "I Am (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq"
     },
     {
       "added_at": null,
@@ -179,6 +159,26 @@
       "duration_ms": 137361,
       "name": "In The Party",
       "url": "https://open.spotify.com/track/52BJrldggFQyTiW8XrILhO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Not Humping (Remix)",
+        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 143325,
+      "name": "We Not Humping - Remix",
+      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomioka (with Flo Milli) [Remix]",
-        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
-      },
-      "artists": [
-        {
-          "name": "Jay Eazy",
-          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137532,
-      "name": "Tomioka (with Flo Milli) - Remix",
-      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
         "url": "https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 200769,
       "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
       "url": "https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomioka (with Flo Milli) [Remix]",
+        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
+      },
+      "artists": [
+        {
+          "name": "Jay Eazy",
+          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137532,
+      "name": "Tomioka (with Flo Milli) - Remix",
+      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BGC",
-        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 156877,
-      "name": "BGC",
-      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
+      "duration_ms": 106763,
+      "name": "Pockets Bigger",
+      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+        "name": "BGC",
+        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 106763,
-      "name": "Pockets Bigger",
-      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+      "duration_ms": 156877,
+      "name": "BGC",
+      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roaring 20s",
-        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 129145,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+        "name": "Roaring 20s",
+        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+      "duration_ms": 129145,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
     },
     {
       "added_at": null,

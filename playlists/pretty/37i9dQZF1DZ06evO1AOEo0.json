@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38152,
+  "num_followers": 38164,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACTvKixs3+XUnMGm537k8ax",
+  "snapshot_id": "aWwigAAAAAC43z2QfZ5uO7RViBXGf/Qj",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 293802,
-      "name": "Is He Worthy (Live)",
-      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+      "duration_ms": 286851,
+      "name": "His Mercy Is More (Live)",
+      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
     },
     {
       "added_at": null,
@@ -379,18 +379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+        "name": "The Worship Initiative, Vol. 18",
+        "url": "https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609"
       },
       "artists": [
         {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Bethany Barnard",
+          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
         }
       ],
-      "duration_ms": 338422,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0"
+      "duration_ms": 352086,
+      "name": "Yet Not I but Through Christ in Me",
+      "url": "https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh"
     },
     {
       "added_at": null,
@@ -420,33 +428,25 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 286851,
-      "name": "His Mercy Is More (Live)",
-      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
+      "duration_ms": 293802,
+      "name": "Is He Worthy (Live)",
+      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 18",
-        "url": "https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609"
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Bethany Barnard",
-          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
         }
       ],
-      "duration_ms": 352086,
-      "name": "Yet Not I but Through Christ in Me",
-      "url": "https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh"
+      "duration_ms": 338422,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 11",
-        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 340129,
-      "name": "O Come to the Altar",
-      "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunday Setlist #1",
         "url": "https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 253586,
       "name": "Oh But God",
       "url": "https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship Initiative, Vol. 11",
+        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 340129,
+      "name": "O Come to the Altar",
+      "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
     },
     {
       "added_at": null,

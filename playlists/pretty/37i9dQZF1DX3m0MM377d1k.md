@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 
 > Music from "【OSHI NO KO】©️赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,215 likes - 78 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,236 likes - 78 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
-| 2 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
-| 3 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 4 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
-| 5 | [メフィスト](https://open.spotify.com/track/4kMnTtgP9nUlk5aPivK6pT) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/6Caa8HdL3LdWEbTmZEAIZ9) | 3:50 |
-| 6 | [Bのリベンジ](https://open.spotify.com/track/1Ql4e2TPr2I9c8MdELvxho) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [Bのリベンジ](https://open.spotify.com/album/3NZfX1kbq3IsKYIE16wQlN) | 3:01 |
+| 2 | [Bのリベンジ](https://open.spotify.com/track/1Ql4e2TPr2I9c8MdELvxho) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [Bのリベンジ](https://open.spotify.com/album/3NZfX1kbq3IsKYIE16wQlN) | 3:01 |
+| 3 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
+| 4 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 5 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 6 | [メフィスト](https://open.spotify.com/track/4kMnTtgP9nUlk5aPivK6pT) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/6Caa8HdL3LdWEbTmZEAIZ9) | 3:50 |
 | 7 | [サインはB \- アイ Solo Ver.](https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.1\)](https://open.spotify.com/album/7d64mWymF8BzaGpIrSp0iS) | 3:33 |
 | 8 | [STAR☆T☆RAIN \- New Arrange Ver.](https://open.spotify.com/track/5eP8pfVfJoVCR1b9mo1Fck) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:52 |
 | 9 | [HEART's♡KISS \- New Arrange Ver.](https://open.spotify.com/track/14eh6tobHVg8ojp9t27vm3) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:35 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3m0MM377d1k.md) - [plain]
 | 77 | [Honest Feeling \- II](https://open.spotify.com/track/2jlhPVqBYivgZnseKoB1S9) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:11 |
 | 78 | [Impatience](https://open.spotify.com/track/60kXBqpnQMSjr0nWlV58G8) | [Takuro Iga](https://open.spotify.com/artist/2zAkhP8zXyacAYfcd1qSkb) | [TVアニメ「【推しの子】」オリジナルサウンドトラック](https://open.spotify.com/album/1KJWHoyn9P9LA3OEyWIy0R) | 2:07 |
 
-Snapshot ID: `AAAAAA69gBoxLLLY+uv7JbxIv/hAoaYs`
+Snapshot ID: `AAAAAOUztrPb3cSwJcyxU8zUD6sJlOGl`

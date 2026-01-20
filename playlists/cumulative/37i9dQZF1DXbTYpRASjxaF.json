@@ -1677,6 +1677,32 @@
     },
     {
       "album": {
+        "name": "BANDIDIN",
+        "url": "https://open.spotify.com/album/0EpvbA2BJKoIYRQa14bzY7"
+      },
+      "artists": [
+        {
+          "name": "Ramaciote",
+          "url": "https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158270,
+      "name": "BANDIDIN",
+      "url": "https://open.spotify.com/track/68JuEQAcgqaC5XtzGgRIQh"
+    },
+    {
+      "album": {
         "name": "BANDIDO COM BANDIDA",
         "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
       },
@@ -4888,7 +4914,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 143414,
       "name": "Eu Te Procurei",
       "url": "https://open.spotify.com/track/2yrw5T1OVDjER8vb2DyUxm"
@@ -11601,6 +11627,32 @@
     },
     {
       "album": {
+        "name": "Rebola Na Vara",
+        "url": "https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g"
+      },
+      "artists": [
+        {
+          "name": "DJ Shua",
+          "url": "https://open.spotify.com/artist/5KxqaJcX319zOOEj8E7ZUC"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Conex\u00e3o do Funk",
+          "url": "https://open.spotify.com/artist/4gsXN66pofmZfqIMrOEFX3"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149684,
+      "name": "Rebola Na Vara",
+      "url": "https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ"
+    },
+    {
+      "album": {
         "name": "Rede Social",
         "url": "https://open.spotify.com/album/2AdS53TIG7pqsabSg6WVUV"
       },
@@ -13968,7 +14020,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 160818,
       "name": "TZ da Coronel and Lc da 100 On The Radar Freestyle",
       "url": "https://open.spotify.com/track/4bIbtHOh4b4rZN9A4ztqH1"

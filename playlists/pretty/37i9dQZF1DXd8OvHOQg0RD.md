@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 
 > Cuando el talento sale de la cancha y se mete en el estudio ⚽️
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,857 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,855 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: ElGrandeToto",
+  "description": "Cover: Najm",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "SILENT BATTLES",
+        "url": "https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY"
+      },
+      "artists": [
+        {
+          "name": "ELHAFIDY",
+          "url": "https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "T3EQDNA",
+      "url": "https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc"
+    },
+    {
+      "album": {
         "name": "Ta7t Jna7i",
         "url": "https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN"
       },
@@ -7822,7 +7840,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"

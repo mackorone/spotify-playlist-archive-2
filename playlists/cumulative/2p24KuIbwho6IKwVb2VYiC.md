@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-386 songs - 20 hr 11 min
+387 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 | 2025-05-16 | 2025-05-21 |
 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 | 2024-03-15 | 2025-02-05 |
 | [Party Girl](https://open.spotify.com/track/4yBCo06OTulX4uBdDtKYrr) | [Our Anthem](https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl) | [Party Girl](https://open.spotify.com/album/4SgOSWTYzsSA78jKqFIRpg) | 3:22 | 2024-03-04 | 2025-02-05 |
+| [Party Out](https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [A+](https://open.spotify.com/artist/0QUIxJh1rw7FrbtvG6BbnA) | [Party Out](https://open.spotify.com/album/22TJwoQuZnXx8k0XbmGUCz) | 3:29 | 2026-01-19 |  |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-10-27 | 2023-11-25 |
 | [Past Life \- Koven Remix](https://open.spotify.com/track/0vrM0WITqW7On94qLHfFrX) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Past Life \(Koven Remix\)](https://open.spotify.com/album/03TTEBdmcDUXW9PdTqo5dZ) | 2:30 | 2023-11-24 | 2024-05-13 |
 | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/album/25nwZXV9npGbu4CFqvDCb0) | 3:05 | 2025-06-06 |  |

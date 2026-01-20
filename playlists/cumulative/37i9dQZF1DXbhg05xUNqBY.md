@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-360 songs - 23 hr 49 min
+361 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Belovedness](https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness](https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m) | 3:42 | 2021-10-31 | 2024-07-27 |
 | [Belovedness \- Lullaby](https://open.spotify.com/track/4otbUxvuD7PdY5gK3tZkSg) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness \(Lullaby\)](https://open.spotify.com/album/50oTpxuB6Vb5OmdE5BzKx9) | 3:52 | 2025-10-10 |  |
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
+| [Between Garden and Glory](https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [Between Garden and Glory](https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B) | 4:59 | 2025-12-13 |  |
 | [Blessed](https://open.spotify.com/track/1bKaY9NsqoMlVopgtV0aCY) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Blessed](https://open.spotify.com/album/0vnGzRXln9z7XcR3aZWAAw) | 4:36 | 2025-12-13 |  |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-06-23 | 2025-04-05 |
 | [Breathe \- breathe version](https://open.spotify.com/track/2rFrYi2PmyirWybLIrAM2m) | [Worship For Everyone](https://open.spotify.com/artist/5VYPBA36e08yP6JOMvPxau), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW) | [Breathe](https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW) | 4:06 | 2024-07-26 | 2025-04-05 |
@@ -224,7 +225,7 @@
 | [Ordinary Miracle](https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Ordinary Miracle](https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu) | 3:44 | 2025-04-05 |  |
 | [Overflow](https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R) | [Madison Hamm](https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT) | [Overflow](https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz) | 3:25 | 2024-07-26 | 2025-04-05 |
 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 | 2025-04-05 |  |
-| [patient.](https://open.spotify.com/track/7IR29E7bJQ4J8PUAAggdrw) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Dan's music](https://open.spotify.com/artist/6G6KxdPb45tFu5fvsZriVW) | [patient.](https://open.spotify.com/album/2IZ952a45yh2M2pwEyOYBK) | 3:20 | 2025-12-13 |  |
+| [patient.](https://open.spotify.com/track/7IR29E7bJQ4J8PUAAggdrw) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Dan's music](https://open.spotify.com/artist/6G6KxdPb45tFu5fvsZriVW) | [patient.](https://open.spotify.com/album/2IZ952a45yh2M2pwEyOYBK) | 3:20 | 2025-12-13 | 2026-01-20 |
 | [Peace](https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Peace](https://open.spotify.com/album/3tE9TpTQossZEL136kY0lM) | 1:32 | 2025-10-10 |  |
 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 | 2021-10-31 | 2024-07-27 |
 | [Peace Be Still](https://open.spotify.com/track/6naJCIwcdALuA7X6t3wFBA) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Peace Be Still](https://open.spotify.com/album/0hvmi61bBgQ50K0XWp7OyU) | 4:08 | 2025-12-13 |  |

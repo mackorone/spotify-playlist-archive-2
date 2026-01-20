@@ -1,12 +1,12 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4752,
+  "num_followers": 4753,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAOQeOwwgFdcobQbBZmz4/KTpgg8Vnb",
+  "snapshot_id": "AAAOSFhoFBHDB1vQ6sFuW2s9HW9zuemG",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:54",
@@ -1327,6 +1327,122 @@
       "duration_ms": 144989,
       "name": "Innit ?",
       "url": "https://open.spotify.com/track/1IkHgUGP0jiXoqyZJJzFgr"
+    },
+    {
+      "added_at": "2026-01-19 08:51:03",
+      "album": {
+        "name": "Count the Silence",
+        "url": "https://open.spotify.com/album/4uKoOlN6EAWD0igCdXmT0T"
+      },
+      "artists": [
+        {
+          "name": "Aged Beyond Decay",
+          "url": "https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb"
+        }
+      ],
+      "duration_ms": 293800,
+      "name": "Count the Silence",
+      "url": "https://open.spotify.com/track/4tRtA0Rt8C2uehZ9YwiAP3"
+    },
+    {
+      "added_at": "2026-01-19 08:51:07",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2iavwGaGxWpePayenFpKRG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wallisch Jr.",
+          "url": "https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ"
+        },
+        {
+          "name": "Acid.Prof",
+          "url": "https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7wkcfdfG847di04Osh9GM8"
+    },
+    {
+      "added_at": "2026-01-19 08:51:09",
+      "album": {
+        "name": "See You In The Wind",
+        "url": "https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 182834,
+      "name": "See You In The Wind",
+      "url": "https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD"
+    },
+    {
+      "added_at": "2026-01-19 08:51:15",
+      "album": {
+        "name": "Mad People",
+        "url": "https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Boy",
+          "url": "https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Mad People",
+      "url": "https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU"
+    },
+    {
+      "added_at": "2026-01-19 08:51:29",
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "duration_ms": 259930,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj"
+    },
+    {
+      "added_at": "2026-01-19 08:51:32",
+      "album": {
+        "name": "Brighter Than Red Water",
+        "url": "https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq"
+      },
+      "artists": [
+        {
+          "name": "Adam Earl",
+          "url": "https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt"
+        }
+      ],
+      "duration_ms": 370472,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/2XMyZaqCCSgrl2p98fib2N"
+    },
+    {
+      "added_at": "2026-01-19 08:51:53",
+      "album": {
+        "name": "Into The World Of Man",
+        "url": "https://open.spotify.com/album/1yj0CWxvKoB4c02hrtIb3Y"
+      },
+      "artists": [
+        {
+          "name": "Amos Ender",
+          "url": "https://open.spotify.com/artist/2Nt0gG43vrYBQiPAZMUUuw"
+        }
+      ],
+      "duration_ms": 217885,
+      "name": "Red Suitcase - Single Version",
+      "url": "https://open.spotify.com/track/5tgpVpdkGL7IgayCLRTTra"
     }
   ],
   "unique_name": "Indie Rock",

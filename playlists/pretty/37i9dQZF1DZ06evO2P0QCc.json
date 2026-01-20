@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 122409,
+  "num_followers": 122417,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAARvKtnLHttXPeEPmZeqHKR",
+  "snapshot_id": "aWwigAAAAAD+kEdHBRrdxCadn0ruRcKd",
   "tracks": [
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 220080,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
+      "duration_ms": 209793,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 209793,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
+      "duration_ms": 220080,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
     },
     {
       "added_at": null,

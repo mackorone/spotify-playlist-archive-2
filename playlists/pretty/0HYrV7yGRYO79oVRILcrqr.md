@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,674 likes - 99 songs - 6 hr 20 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,677 likes - 104 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 97 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 |
 | 98 | [Synchronicity](https://open.spotify.com/track/022SKr9Ibv4kGJz069ukGm) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Synchronicity](https://open.spotify.com/album/3ECpJVnGuYwyoQVywguY0B) | 4:09 |
 | 99 | [Besándonos](https://open.spotify.com/track/4OKsfv1MEH1PqIDt81w6Sa) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:36 |
+| 100 | [Rise Above](https://open.spotify.com/track/309LwauvrDOeNJRMuE0Imu) | [Gut\-Scrapers](https://open.spotify.com/artist/1aelV1MURttvVkO7W4SSDa) | [Twelve Rays](https://open.spotify.com/album/7FSxxUop7f29sNP8qfCSzg) | 4:21 |
+| 101 | [I Been Gone](https://open.spotify.com/track/4FJ4AHtBaQngZ45BqdYI56) | [TJ Rosenthal](https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s) | [I Been Gone](https://open.spotify.com/album/0LJuoEfEWvakYgZ6OAOWwi) | 3:11 |
+| 102 | [My Soul's on Fire](https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [My Soul's on Fire](https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae) | 2:32 |
+| 103 | [Ride](https://open.spotify.com/track/5x4ka2kVGFhnWEfTLM2RFL) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Ride](https://open.spotify.com/album/7jrWuQolOpkVOKikDFc6oS) | 4:03 |
+| 104 | [La Viuda Negra](https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [AQUILES LAGP](https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:40 |
 
-Snapshot ID: `AAAKdVDQ4yQHT3pFxcIBAslKzIxFUS+R`
+Snapshot ID: `AAAKehZsWj9c6xst8mSo+yQdrCeW0uOT`

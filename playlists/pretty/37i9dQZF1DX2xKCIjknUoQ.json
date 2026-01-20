@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 55394,
+  "num_followers": 55406,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 327733,
-      "name": "La vie est belle",
-      "url": "https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "The Geeks and the Jerkin' Socks",
         "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 238133,
       "name": "I'm Picky",
       "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 327733,
+      "name": "La vie est belle",
+      "url": "https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Tree Of Life",
-        "url": "https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT"
-      },
-      "artists": [
-        {
-          "name": "Yodelice",
-          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
-        }
-      ],
-      "duration_ms": 137093,
-      "name": "Sunday With A Flu",
-      "url": "https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "The Geeks and the Jerkin' Socks",
         "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 207132,
       "name": "My Name Is Stain",
       "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "duration_ms": 137093,
+      "name": "Sunday With A Flu",
+      "url": "https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql"
     },
     {
       "added_at": "2025-11-13 09:07:41",

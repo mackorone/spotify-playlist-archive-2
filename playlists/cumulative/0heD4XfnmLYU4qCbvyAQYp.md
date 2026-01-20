@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-102 songs - 6 hr 40 min
+109 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 | 2025-10-05 |  |
 | [Better Not Be Late](https://open.spotify.com/track/2LwjOPIjBi6pzeIEZzHKE0) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Better Not Be Late](https://open.spotify.com/album/62zlN0T8PV7TnGcbm7FZj5) | 3:40 | 2025-05-04 |  |
 | [Black Beach](https://open.spotify.com/track/4GAfjkz3Df80JzLsCl8kKg) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Black Beach](https://open.spotify.com/album/4kM8ETgFcYp1FwRGZO9gCn) | 2:32 | 2025-12-21 |  |
+| [Black Dress](https://open.spotify.com/track/2XMyZaqCCSgrl2p98fib2N) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 6:10 | 2026-01-19 |  |
 | [Blackened Architect](https://open.spotify.com/track/0nEi6fpYMwboIQvwlZssrE) | [Atrophy Ruin](https://open.spotify.com/artist/6Gb89o5tx0u1sdKU2aM20X) | [Throne of Flies](https://open.spotify.com/album/3r31wntjvkorILoHmC2bav) | 2:35 | 2025-12-07 |  |
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2025-11-24 |  |
 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 | 2025-05-04 |  |
@@ -32,6 +33,8 @@
 | [Cigarettes & You](https://open.spotify.com/track/7FZVT77Cdxym3m1NIoTMsh) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Cigarettes & You](https://open.spotify.com/album/4RU6yASw82LGwgKQkxXEHp) | 4:43 | 2025-11-24 |  |
 | [Claridad](https://open.spotify.com/track/5cJifL4P0gsUeBThG2aWPq) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 3:45 | 2025-11-24 |  |
 | [Come Out](https://open.spotify.com/track/4MePv6tLO4aFyFjkm1m1dc) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Come Out](https://open.spotify.com/album/1pJioJgZeEVjsuuJvNVbyv) | 3:24 | 2025-11-06 | 2025-12-08 |
+| [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 | 2026-01-19 |  |
+| [Count the Silence](https://open.spotify.com/track/4tRtA0Rt8C2uehZ9YwiAP3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Count the Silence](https://open.spotify.com/album/4uKoOlN6EAWD0igCdXmT0T) | 4:53 | 2026-01-19 |  |
 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 | 2025-12-17 |  |
 | [Drain You](https://open.spotify.com/track/2aIcXOu6wc7yNtviwbqp7A) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Drain You](https://open.spotify.com/album/7lKrZsFDSZpSHOEYTT23G3) | 3:42 | 2025-12-17 |  |
 | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/track/4DkFtR711mWQSXJO3PApXa) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/album/3jAPjP3mXAIslhjF2szkO2) | 2:55 | 2025-11-02 |  |
@@ -52,6 +55,7 @@
 | [Hermit New PostAtomic \(Remastered 2025\)](https://open.spotify.com/track/7pOXV31VGpHJIlY5FeA4jq) | [Kings of Subhumans](https://open.spotify.com/artist/3EPriYoQ0wrrE6SC65weG9) | [Forever Emerging](https://open.spotify.com/album/3r2umy8tBFen0QaRCv0mWm) | 3:29 | 2025-11-06 | 2025-12-08 |
 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 | 2025-05-04 |  |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2026-01-13 |  |
+| [Hold On](https://open.spotify.com/track/7wkcfdfG847di04Osh9GM8) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Hold On](https://open.spotify.com/album/2iavwGaGxWpePayenFpKRG) | 3:07 | 2026-01-19 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2025-05-04 |  |
 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 | 2026-01-14 |  |
 | [In Chains](https://open.spotify.com/track/5QSOhaJsSyhPeV7RHCi21L) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 7:20 | 2025-07-31 |  |
@@ -63,6 +67,7 @@
 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 | 2026-01-14 |  |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 |  |
+| [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-19 |  |
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-01-14 |  |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-04 | 2025-12-08 |
 | [Medo](https://open.spotify.com/track/1Pzo6BtYmAvLYo4yyCZBgd) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [An Open Window](https://open.spotify.com/album/0ytewcDY7woiqooEiKMt5a) | 4:42 | 2025-11-24 |  |
@@ -78,7 +83,9 @@
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-11-24 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-11-04 | 2025-12-08 |
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-17 |  |
+| [Red Suitcase \- Single Version](https://open.spotify.com/track/5tgpVpdkGL7IgayCLRTTra) | [Amos Ender](https://open.spotify.com/artist/2Nt0gG43vrYBQiPAZMUUuw) | [Into The World Of Man](https://open.spotify.com/album/1yj0CWxvKoB4c02hrtIb3Y) | 3:37 | 2026-01-19 |  |
 | [Relations](https://open.spotify.com/track/3z4yeBOZWcnC8xn95osAPC) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Relations](https://open.spotify.com/album/6UkWcFTCAGuD1EbbaQhNBM) | 5:16 | 2025-11-24 |  |
+| [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 | 2026-01-19 |  |
 | [Shadows](https://open.spotify.com/track/2XNu31N13CPRtrlzLRzdPq) | [Tiszavirag](https://open.spotify.com/artist/2wSUuggTn3dmDSjR5kLhsR) | [Shadows](https://open.spotify.com/album/1lY64IUTTZg7BLfAPpIevO) | 3:15 | 2025-11-02 |  |
 | [shine!](https://open.spotify.com/track/12FJOrGXlwUjyZoVHEQRnC) | [Bishesh Silwal](https://open.spotify.com/artist/0gh2ztSK87CtLjYwEDSITZ) | [shine!](https://open.spotify.com/album/0PQROcnMgrVm3ajmdIoItH) | 3:15 | 2025-12-17 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-11-14 | 2025-12-08 |

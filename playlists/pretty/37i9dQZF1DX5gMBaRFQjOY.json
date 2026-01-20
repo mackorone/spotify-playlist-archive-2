@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 602050,
+  "num_followers": 602277,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,18 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "With His Hot and Blue Guitar",
-        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 163045,
-      "name": "I Walk The Line - Single Version",
-      "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -759,18 +755,18 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+      "duration_ms": 314226,
+      "name": "You Never Even Called Me By My Name",
+      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -791,18 +787,22 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
       },
       "artists": [
         {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 314226,
-      "name": "You Never Even Called Me By My Name",
-      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 132320,
-      "name": "You Ain't Woman Enough - Single Version",
-      "url": "https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 154626,
       "name": "I Don't Wanna Play House",
       "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "added_at": "2025-11-03 22:16:59",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "You Ain't Woman Enough - Single Version",
+      "url": "https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx"
     },
     {
       "added_at": "2025-11-03 22:16:59",

@@ -39,26 +39,6 @@
     {
       "added_at": "2026-01-16 03:00:00",
       "album": {
-        "name": "The Great Nothing",
-        "url": "https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S"
-      },
-      "artists": [
-        {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 66410,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/4sxeZm4bj8HMrC9D6exVmD"
-    },
-    {
-      "added_at": "2026-01-16 03:00:00",
-      "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
+    },
+    {
+      "added_at": "2026-01-16 03:00:00",
+      "album": {
+        "name": "The Great Nothing",
+        "url": "https://open.spotify.com/album/1qWJhQklBKHJWrtkR0CA4S"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 66410,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/4sxeZm4bj8HMrC9D6exVmD"
     },
     {
       "added_at": "2026-01-16 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,262 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,264 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Spring](https://open.spotify.com/track/7DVpQtGT0ut0NZYeanywwl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:55 |
 | 50 | [Io Ci Sarò](https://open.spotify.com/track/71wMVF1PqS9C6WQTO8zOtS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lo Mejor De Andrea Bocelli \- 'Vivere' \(Edición Especial En Español\)](https://open.spotify.com/album/4BdLmeSfRa5uJPHHjDcWuX) | 4:48 |
 
-Snapshot ID: `aWrRAAAAAAD7zfWh8sZXHqi0CaOyYTjK`
+Snapshot ID: `aWwigAAAAADlBU1wpMpgFI/3nIq4v5HI`

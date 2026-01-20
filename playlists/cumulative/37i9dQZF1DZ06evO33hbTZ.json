@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Never Find",
+        "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240375,
+      "name": "Never Find",
+      "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },

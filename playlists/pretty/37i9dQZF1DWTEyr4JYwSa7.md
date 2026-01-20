@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,149 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,142 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 65 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 |
 | 66 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 67 | [Joyeux Noël](https://open.spotify.com/track/7JoMjFyugtJLLZuF1bxNzE) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Joyeux Noël](https://open.spotify.com/album/6KG96S8ocsbzBouNsfxcXP) | 3:07 |
-| 68 | [Song For A Winter’s Night](https://open.spotify.com/track/41MtmS1pfdstaHpcufTaqO) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Jeanick Fournier \(Deluxe\)](https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn) | 2:54 |
-| 69 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
+| 68 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
+| 69 | [Song For A Winter’s Night](https://open.spotify.com/track/41MtmS1pfdstaHpcufTaqO) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Jeanick Fournier \(Deluxe\)](https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn) | 2:54 |
 | 70 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 |
 | 71 | [Ton chandail de Noël](https://open.spotify.com/track/4QeYg9ev7grCrFrJR4k7VO) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Noël amoureux](https://open.spotify.com/album/0C9sNkimLY6w0gECvdPW3B) | 3:35 |
 | 72 | [Chanson pour une nuit d'hiver](https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Lumières d'hiver](https://open.spotify.com/album/4GVVHF9DXhDaXh8b74Uyjo) | 4:23 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 75 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 |
 | 76 | [Promenade en traîneau](https://open.spotify.com/track/47CEnviJEZLJ0e7LstG1rx) | [Raffy](https://open.spotify.com/artist/5PW85Meg3JSYjhl9aOOZRz) | [Joyeux Noël et bonne année](https://open.spotify.com/album/4rwdFdwkoCgsc4wlyFKzG3) | 3:56 |
 | 77 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 |
-| 78 | [Noël blanc](https://open.spotify.com/track/6bgz0wcaqLcpBh99aZlF46) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Noël blanc](https://open.spotify.com/album/6K2IN7O6z7dfMcStV9PvMM) | 2:38 |
-| 79 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
+| 78 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
+| 79 | [Noël blanc](https://open.spotify.com/track/6bgz0wcaqLcpBh99aZlF46) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Noël blanc](https://open.spotify.com/album/6K2IN7O6z7dfMcStV9PvMM) | 2:38 |
 | 80 | [Noël, c’est l’amour](https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Noël, c’est l’amour](https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte) | 3:35 |
 | 81 | [C'est Noël quand tu es là](https://open.spotify.com/track/55xkpoU7IkZRXTQPyKZtui) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [C'est Noël quand tu es là](https://open.spotify.com/album/1UIBYSZ3j5LpPmrrE8BVOJ) | 2:43 |
 | 82 | [Jusqu'au nouvel an](https://open.spotify.com/track/5MVDheHPuschD7hliwTEvq) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj) | [Noël en famille](https://open.spotify.com/album/1ErcaPRj2K89GSZNkPymj8) | 4:56 |

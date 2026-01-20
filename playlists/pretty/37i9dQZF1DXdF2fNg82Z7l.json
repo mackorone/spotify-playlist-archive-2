@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover: Kehlani",
-  "num_followers": 204161,
+  "num_followers": 204179,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 226546,
       "name": "Ensalada (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/4vb777iaycnlFxVkJMmtfd"
     },
     {
       "added_at": "2025-10-13 00:21:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 185000,
       "name": "Shameful Game",
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2025-10-13 00:21:48",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
         "name": "Change & Remain",
         "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 175813,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2025-10-13 00:21:48",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
+        "name": "In Search Of...",
+        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "duration_ms": 291066,
+      "name": "Run To The Sun",
+      "url": "https://open.spotify.com/track/4Bjwyj8KM85xblkSt5A24j"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
-        "name": "In Search Of...",
-        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
-      },
-      "artists": [
-        {
-          "name": "N.E.R.D",
-          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
-        }
-      ],
-      "duration_ms": 291066,
-      "name": "Run To The Sun",
-      "url": "https://open.spotify.com/track/4Bjwyj8KM85xblkSt5A24j"
     },
     {
       "added_at": "2025-10-13 00:21:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1299,22 +1283,6 @@
     {
       "added_at": "2025-10-13 00:21:48",
       "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 117976,
-      "name": "I'll Call U Back",
-      "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
-    },
-    {
-      "added_at": "2025-10-13 00:21:48",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -1335,6 +1303,38 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 117976,
+      "name": "I'll Call U Back",
+      "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
+    },
+    {
+      "added_at": "2025-10-13 00:21:48",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
     },
     {
       "added_at": "2025-10-13 00:21:48",

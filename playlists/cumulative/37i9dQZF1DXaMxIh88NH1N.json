@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 145516,
       "name": "3 Doritos Despu\u00e9s",
       "url": "https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 176666,
       "name": "5 Y 5 Suman 10",
       "url": "https://open.spotify.com/track/7EXd6k3GrVjpkgtTnXKtSE"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 144726,
       "name": "Con Toda La Fe",
       "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 214473,
       "name": "DIOS POR DELANTE",
       "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
@@ -4066,6 +4066,24 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
+    },
+    {
+      "album": {
+        "name": "GAD",
+        "url": "https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/6w60YlYpRUFr0XrZ1bNt9D"
     },
     {
       "album": {
@@ -6057,6 +6075,24 @@
     },
     {
       "album": {
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "album": {
         "name": "El Mencho",
         "url": "https://open.spotify.com/album/5J4dl2J6TPSs9oYmPdfomH"
       },
@@ -7487,6 +7523,24 @@
     },
     {
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181251,
+      "name": "Es Dif\u00edcil Ser Un Santo",
+      "url": "https://open.spotify.com/track/6NuJqPmsZEag7XJf0B67ZI"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -7542,7 +7596,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 177528,
       "name": "Estilo Militar",
       "url": "https://open.spotify.com/track/4PaS9QrY9IqVUh5iAYf2mH"
@@ -7564,6 +7618,24 @@
       "duration_ms": 248208,
       "name": "Estilo Sinaloa",
       "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
+    },
+    {
+      "album": {
+        "name": "EVOLUZION\u00c9",
+        "url": "https://open.spotify.com/album/6GOumSWtPIA2CftFTsL2mj"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215032,
+      "name": "EVOLUZION\u00c9",
+      "url": "https://open.spotify.com/track/2dollsa47aEK6VYQm51B1X"
     },
     {
       "album": {
@@ -8286,7 +8358,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 209132,
       "name": "Hoy Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/2cg377edoXNT7XAuZFtpun"
@@ -8494,7 +8566,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 179858,
       "name": "intro",
       "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
@@ -8938,6 +9010,24 @@
       "duration_ms": 202971,
       "name": "La Changa",
       "url": "https://open.spotify.com/track/1E6dXHr5Z00c5eCEuWTCOg"
+    },
+    {
+      "album": {
+        "name": "La Changa",
+        "url": "https://open.spotify.com/album/5mJ1qmtxHAhEt6kMs4JtDU"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "La Changa",
+      "url": "https://open.spotify.com/track/2YgkAmmy6295Gibb5GyBhP"
     },
     {
       "album": {
@@ -9463,6 +9553,24 @@
     },
     {
       "album": {
+        "name": "Broche De Oro",
+        "url": "https://open.spotify.com/album/2eSWBE52YZrtDpWDq4pd4b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150665,
+      "name": "La Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/0j8OGRGBjBMb286wJxt1o8"
+    },
+    {
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -9642,7 +9750,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy"
@@ -10382,7 +10490,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 211991,
       "name": "M.L.P.",
       "url": "https://open.spotify.com/track/6weS1JeUTudTUo8u8f0VgU"
@@ -13150,7 +13258,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 155541,
       "name": "Que Chimba",
       "url": "https://open.spotify.com/track/1Jlro1rJPEtVGkuZZvhRx7"
@@ -14916,7 +15024,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 213000,
       "name": "SUCIO DOM",
       "url": "https://open.spotify.com/track/3OnkNJm1uONbtGH59P0rKq"
@@ -16132,7 +16240,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 167893,
       "name": "XO",
       "url": "https://open.spotify.com/track/0xeQjxsinZJnAOXMbmUX9o"

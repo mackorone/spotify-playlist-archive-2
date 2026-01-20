@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 22 | [Bez teb](https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Bez teb](https://open.spotify.com/album/6zOxZsZ7mYY2jsJRpy2QiE) | 3:04 |
 | 23 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
 | 24 | [S men da varvish](https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Da ti bada korona](https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM) | 4:12 |
-| 25 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Only Hits](https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ) | 4:03 |
+| 25 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It up to Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
 | 26 | [Danoto kopay](https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/4BGy2DxZmw8dLyu1OYEeyT) | 4:08 |
 | 27 | [Дале дале](https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls), [Tomas](https://open.spotify.com/artist/6Pu7616ebCHHPJkcpuiBZd) | [Дале дале](https://open.spotify.com/album/7CRtx8ujJFVrTLRYNkjknI) | 2:48 |
 | 28 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 |
 | 50 | [Moeto slabo myasto](https://open.spotify.com/track/6o1w1oqUMiJI1Kp0s0ksRK) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Moeto slabo myasto](https://open.spotify.com/album/0M7A1ridrbY5px8m1ijIlX) | 3:23 |
 
-Snapshot ID: `MQBA6AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MQGSaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

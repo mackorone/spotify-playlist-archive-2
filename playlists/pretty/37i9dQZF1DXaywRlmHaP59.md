@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,476 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,557 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
-| 2 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 |
-| 3 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |
-| 4 | [Wbghar](https://open.spotify.com/track/68o5JAOXXd5Zjwbwk6N5QG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Wbghar](https://open.spotify.com/album/3H3DYRKSjKC2VsiaNsirb9) | 3:09 |
-| 5 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 |
-| 6 | [قلبي دق](https://open.spotify.com/track/1BY9r3MwnSMOFoffuSmi9p) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [٢٢](https://open.spotify.com/album/5ispGWCzyFIcUmRZB59Epa) | 3:13 |
-| 7 | [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 |
+| 1 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
+| 2 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
+| 3 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 |
+| 4 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |
+| 5 | [Wbghar](https://open.spotify.com/track/68o5JAOXXd5Zjwbwk6N5QG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Wbghar](https://open.spotify.com/album/3H3DYRKSjKC2VsiaNsirb9) | 3:09 |
+| 6 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 |
+| 7 | [قلبي دق](https://open.spotify.com/track/1BY9r3MwnSMOFoffuSmi9p) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [٢٢](https://open.spotify.com/album/5ispGWCzyFIcUmRZB59Epa) | 3:13 |
 | 8 | [Farek Men El Sama Lal Ard](https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Taghyeer El Fousoul](https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94) | 3:37 |
 | 9 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
 | 10 | [Albi Mertah](https://open.spotify.com/track/7AR95BVtIccdWjaWD2iuWX) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Albi Mertah](https://open.spotify.com/album/4LhiXTMY6udx0hlECrTfb2) | 3:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 39 | [Hobbak Metl Beirut](https://open.spotify.com/track/2DYIRwjjr3oJ0LMoOsIlrs) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Hobbak Metl Beirut](https://open.spotify.com/album/43M4mL9yhmnSK0C8P4FhSS) | 4:03 |
 | 40 | [Shou Helou](https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP) | 3:31 |
 
-Snapshot ID: `AAAAADqOwE6cS1OGuujB+FmBB8q36ij4`
+Snapshot ID: `AAAAAGd+ahFE9aNGMcH9HMwePrWyxjCk`

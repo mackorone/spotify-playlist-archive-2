@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 160364,
+  "num_followers": 160428,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 181586,
       "name": "Quien",
       "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Los \u00c9xitos De Los Terricolas",
-        "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Luto En Mi Alma",
-      "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 195653,
       "name": "No Son Palabritas",
       "url": "https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Los \u00c9xitos De Los Terricolas",
+        "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Luto En Mi Alma",
+      "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 228925,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 186400,
       "name": "Espejismo",
       "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 228925,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Una Carta",
-      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 182999,
       "name": "Recuerdos de una Noche",
       "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Una Carta",
+      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "El Disco de Oro de la Tropa Loca",
         "url": "https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 205813,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "En M\u00e9xico",
-        "url": "https://open.spotify.com/album/0Dwx2FDxz0puFHQGATzOiZ"
+        "name": "Viviras",
+        "url": "https://open.spotify.com/album/3pXxiwjoWdrXWLVWiJYDee"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/3vYG2qFeNaBcQW4Pwkiqu9"
         }
       ],
-      "duration_ms": 220496,
-      "name": "Deja De Llorar Chiquilla",
-      "url": "https://open.spotify.com/track/5tPNtzaWcxqPKZIp4CJoTU"
+      "duration_ms": 215643,
+      "name": "Vivir\u00e1s",
+      "url": "https://open.spotify.com/track/7fhkGd7BHMhf8tLSolEsBM"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1291,6 +1291,22 @@
       "duration_ms": 141533,
       "name": "Anoche Me Enamore",
       "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Emonciones Sin Limite (Volumen 5)",
+        "url": "https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42"
+      },
+      "artists": [
+        {
+          "name": "Los Fresno",
+          "url": "https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Coraz\u00f3n De Roca",
+      "url": "https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Emonciones Sin Limite (Volumen 5)",
-        "url": "https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42"
-      },
-      "artists": [
-        {
-          "name": "Los Fresno",
-          "url": "https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Coraz\u00f3n De Roca",
-      "url": "https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "15 Exitos De Los Silver",
         "url": "https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1"
       },
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Viviras",
-        "url": "https://open.spotify.com/album/3pXxiwjoWdrXWLVWiJYDee"
+        "name": "En M\u00e9xico",
+        "url": "https://open.spotify.com/album/0Dwx2FDxz0puFHQGATzOiZ"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/3vYG2qFeNaBcQW4Pwkiqu9"
         }
       ],
-      "duration_ms": 215643,
-      "name": "Vivir\u00e1s",
-      "url": "https://open.spotify.com/track/7fhkGd7BHMhf8tLSolEsBM"
+      "duration_ms": 220496,
+      "name": "Deja De Llorar Chiquilla",
+      "url": "https://open.spotify.com/track/5tPNtzaWcxqPKZIp4CJoTU"
     },
     {
       "added_at": "2025-01-28 15:41:46",

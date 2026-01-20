@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34869,
+  "num_followers": 34873,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABtfF3C7wOCwRumw3oF/JTR",
+  "snapshot_id": "aWwigAAAAACodZccv4GscGR5jV0VT6Ys",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playing for Change (Live)",
-        "url": "https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5"
-      },
-      "artists": [
-        {
-          "name": "Playing For Change",
-          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Love Is My Religion (Live)",
-      "url": "https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 149306,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playing for Change (Live)",
+        "url": "https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5"
+      },
+      "artists": [
+        {
+          "name": "Playing For Change",
+          "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Love Is My Religion (Live)",
+      "url": "https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "RUSL",
-          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
-        }
-      ],
-      "duration_ms": 188668,
-      "name": "Sunshine (feat. RUSL) - RUSL Remix",
-      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbiana",
         "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "RUSL",
+          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
+        }
+      ],
+      "duration_ms": 188668,
+      "name": "Sunshine (feat. RUSL) - RUSL Remix",
+      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238265,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solid Gold",
         "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 269929,
       "name": "Trenchtown Rock (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238265,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lift Our Spirits Raise Our Voice",
         "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
       },
@@ -863,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+      "duration_ms": 218786,
+      "name": "This Train (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
     },
     {
       "added_at": null,
@@ -903,26 +923,6 @@
       "duration_ms": 245813,
       "name": "the only",
       "url": "https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "This Train (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
     },
     {
       "added_at": null,

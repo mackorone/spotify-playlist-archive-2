@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,621 likes - 111 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,562 likes - 111 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

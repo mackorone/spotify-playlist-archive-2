@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234426,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO"
+    },
+    {
+      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
       },

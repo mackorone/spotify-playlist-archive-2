@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Annan Galax",
+        "url": "https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Annan Galax",
+      "url": "https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy"
+    },
+    {
+      "album": {
         "name": "Another Life (Marcus & Martinus vs VIZE)",
         "url": "https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY"
       },
@@ -12202,7 +12220,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
@@ -13068,6 +13086,24 @@
       "duration_ms": 218181,
       "name": "Pistol - Spotify Singles",
       "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
+    },
+    {
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185788,
+      "name": "Plastic Cigarette",
+      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
     },
     {
       "album": {
@@ -15246,7 +15282,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 120000,
       "name": "Smutsiga Tankar",
       "url": "https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil"

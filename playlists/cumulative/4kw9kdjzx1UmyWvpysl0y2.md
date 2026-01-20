@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,154 songs - 2 day 16 hr 31 min
+1,155 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [DIVA \- SØL Remix](https://open.spotify.com/track/2z3ecxzZrkbAsIoWlb3u0I) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [SØL](https://open.spotify.com/artist/4lIm4NzXKTs3bHWxUq2C5a) | [DIVA \(SØL Remix\)](https://open.spotify.com/album/6mfwuGrWhFkFPby8T08m3E) | 2:17 | 2024-10-10 | 2025-01-21 |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 | 2022-10-26 |
 | [Diving In](https://open.spotify.com/track/7amcoQCeUQxCNullGD7V7F) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Diving In](https://open.spotify.com/album/1WWPOc87xTKMigQYkmDRn9) | 3:49 | 2023-03-15 | 2023-06-08 |
-| [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 | 2025-10-16 |  |
+| [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 | 2025-10-16 | 2026-01-20 |
 | [do it](https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [do it](https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9) | 2:07 | 2022-03-09 | 2022-05-21 |
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-02-11 | 2022-04-23 |
 | [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-10 | 2023-05-02 |
@@ -594,6 +594,7 @@
 | [Lone](https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Lone](https://open.spotify.com/album/4woa0Yhe82WmbMGe7zuxS1) | 4:14 | 2022-03-04 | 2022-05-17 |
 | [Lonely](https://open.spotify.com/track/2c6PNDLjisZLJe08W3j3PU) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Lonely](https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe) | 2:19 | 2024-09-12 | 2024-12-06 |
 | [Long Ago](https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE) | [Wassu](https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Long Ago](https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y) | 4:20 | 2023-03-01 | 2023-05-30 |
+| [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 | 2026-01-19 |  |
 | [Looking for the Light](https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Space Boy](https://open.spotify.com/album/4Qa2yBO6R4r5g9mhSu4TVN) | 3:35 | 2022-04-25 | 2022-07-07 |
 | [Lose Our Minds](https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lose Our Minds](https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E) | 2:37 | 2022-08-16 | 2022-11-01 |
 | [Losing Control](https://open.spotify.com/track/4deqAXqtabM0PUskQUelxt) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Losing Control](https://open.spotify.com/album/281n7TlRzznNkJFlQDa3yg) | 3:43 | 2021-11-19 | 2022-02-15 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c 2025 \ubca0\uc2a4\ud2b8 \ud2b8\ub799\uc785\ub2c8\ub2e4. (\ucee4\ubc84: LE SSERAFIM)",
-  "name": "Best of EQUAL Korea 2025",
+  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: ITZY)",
+  "name": "EQUAL Korea",
   "tracks": [
     {
       "album": {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 208293,
       "name": "1-4-3",
       "url": "https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 156641,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 194733,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/04mHr76sMR8RSqVIgWl785"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 194733,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/6VBiGpCFThcOFlldRiCPr9"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 194093,
       "name": "Balloon in Love",
       "url": "https://open.spotify.com/track/0VeNNzlIwfJZERTSepu9NQ"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 194093,
       "name": "Balloon in Love",
       "url": "https://open.spotify.com/track/2Xo69A6LBao4m8b72D9KOG"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 161533,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/0a3yuKvRpU1QSW7cx5t36h"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 164884,
       "name": "BEEP",
       "url": "https://open.spotify.com/track/0YjIGs3jqdOgJxHCRWvDS1"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 164884,
       "name": "BEEP",
       "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 196013,
       "name": "BLUE!",
       "url": "https://open.spotify.com/track/5LaKPFbWUQOMagvyT5kdbD"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 196013,
       "name": "BLUE!",
       "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 177228,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3s3Eo4rb6aq3O62g6z6jtZ"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "CAPPUCCINO",
       "url": "https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk"
@@ -4626,7 +4626,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 195835,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI"
@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 195835,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB"
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -6746,7 +6746,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
@@ -7428,7 +7428,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 177052,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
@@ -7446,7 +7446,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6TGc4ONEDJzd5872yDDIYz"
@@ -7774,7 +7774,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 184155,
       "name": "FXCK UP THE WORLD (feat. Future)",
       "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
@@ -8258,7 +8258,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
@@ -8276,7 +8276,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/7smHxl3Ga5qJ4LL5pjZPZZ"
@@ -8630,7 +8630,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
@@ -8648,7 +8648,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/4bWVpxm6uet9LeOLIxLJZq"
@@ -9382,7 +9382,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf"
@@ -9400,7 +9400,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
@@ -9700,7 +9700,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
@@ -9718,7 +9718,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/6qmfxmtoNEzqucF1FWeXl8"
@@ -11238,7 +11238,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 163243,
       "name": "jellyous",
       "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
@@ -11256,7 +11256,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 163243,
       "name": "jellyous",
       "url": "https://open.spotify.com/track/51pREVFJeAJGvhJ1rYCKZH"
@@ -11346,7 +11346,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
@@ -11364,7 +11364,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -11400,7 +11400,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 193760,
       "name": "Just a friend",
       "url": "https://open.spotify.com/track/6U2OX5cwoox9apyegYq6rF"
@@ -11642,7 +11642,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 175106,
       "name": "Klaxon",
       "url": "https://open.spotify.com/track/32Zr1pnXLBLzj34RynRYpz"
@@ -12650,7 +12650,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6DryqX1P8pkEHwnS3tj1lU"
@@ -12726,7 +12726,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
@@ -12784,7 +12784,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
@@ -13682,7 +13682,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 159524,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/5mxBUe5ycmUiUkDaLC5yVI"
@@ -16364,7 +16364,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 212960,
       "name": "PainDrop (by SeoYeon, JiWoo, YuBin, SoHyun)",
       "url": "https://open.spotify.com/track/0lBpd8IbpD4m7BydKwNPqk"
@@ -16476,7 +16476,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 196346,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/0XVbVHwZWkWutuBkSK78s9"
@@ -16494,7 +16494,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 196346,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ"
@@ -16534,7 +16534,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 189440,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq"
@@ -17772,7 +17772,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 202560,
       "name": "Regret",
       "url": "https://open.spotify.com/track/7Do7RCLSRhaHnVvdqHFxLW"
@@ -18574,7 +18574,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 82013,
       "name": "Seeking happy in the crowd",
       "url": "https://open.spotify.com/track/4hm3en2ooSk88x0ZpKGue4"
@@ -18830,7 +18830,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/6tCd8bPvYnceDG7W9M1RMk"
@@ -18946,7 +18946,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 166612,
       "name": "SIGN",
       "url": "https://open.spotify.com/track/3yoNPRG7fYlOu7Mgwoc6WQ"
@@ -19652,7 +19652,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "SPINNIN\u2032 ON IT",
       "url": "https://open.spotify.com/track/0XbCJq4M7vpNKIUxdN90jq"
@@ -20230,7 +20230,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 204400,
       "name": "STRESS",
       "url": "https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj"
@@ -20324,7 +20324,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 209671,
       "name": "STYLE",
       "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
@@ -20400,7 +20400,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 235858,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/0SUESedv5jr4AbuQLrnrLf"
@@ -20454,7 +20454,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 192040,
       "name": "Summer Was You",
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
@@ -21156,7 +21156,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 178900,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
@@ -22498,7 +22498,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1"
@@ -24214,7 +24214,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 154000,
       "name": "XOXZ",
       "url": "https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP"
@@ -24232,7 +24232,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "XOXZ",
       "url": "https://open.spotify.com/track/2f79jWcTf2pxVxDLdxi1Lm"
@@ -24738,7 +24738,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 173232,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6TPpCbn9z0IY5Te048iy5R"

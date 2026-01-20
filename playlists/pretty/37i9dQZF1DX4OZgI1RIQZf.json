@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 143434,
+  "num_followers": 143405,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Vampire Again",
-        "url": "https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 242959,
-      "name": "Vampire Again",
-      "url": "https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 289000,
       "name": "Suck the Blood from My Wound",
       "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Vampire Again",
+        "url": "https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 242959,
+      "name": "Vampire Again",
+      "url": "https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA"
     },
     {
       "added_at": "2025-11-03 08:50:06",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Zombie Prom (Hallowe'en At Home Edition)",
-        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Zombie Prom",
-      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Zombie Prom (Hallowe'en At Home Edition)",
+        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Zombie Prom",
+      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
     },
     {
       "added_at": "2025-11-03 08:50:06",

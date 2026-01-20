@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-165 songs - 10 hr 3 min
+170 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 | 2025-12-13 | 2026-01-05 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 | 2026-01-05 |
 | [Black Swan](https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Black Swan](https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs) | 3:31 | 2025-12-30 |  |
+| [Bleeding Rage](https://open.spotify.com/track/5OOTUzZhTPjYfFlp97yxIU) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Bleeding Rage](https://open.spotify.com/album/3Tih67eYTaq5xzKDMT0sAc) | 3:28 | 2026-01-19 |  |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-11-19 |  |
 | [Blood on the Wall](https://open.spotify.com/track/0JHHM2XMXcMREVStlNDLKS) | [David Larosa](https://open.spotify.com/artist/6LJggCdTMxlzs5iRq0MsND) | [Liminal Space](https://open.spotify.com/album/7DL03disLL5FCb8UhwOHwZ) | 2:49 | 2025-11-13 | 2025-12-06 |
 | [body of water](https://open.spotify.com/track/5wP9DYz49ksiTGp3R3lOu0) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [body of water](https://open.spotify.com/album/0O28yb82DrLDnp9isurKNa) | 2:11 | 2025-11-01 | 2025-12-06 |
@@ -87,6 +88,7 @@
 | [L0st With1n \(Nowhere To Hide\)](https://open.spotify.com/track/09v2BHi9r6vYjZ92DOrMNp) | [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [L0st With1n \(Nowhere To Hide\)](https://open.spotify.com/album/2ZiuHnUaPIjj2WawwsWIEM) | 2:28 | 2026-01-03 |  |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 | 2026-01-05 |
 | [Le Voyage Dans La Lune\`](https://open.spotify.com/track/2DynYhI3uQaG4noHkRTcun) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Le Voyage Dans La Lune\`](https://open.spotify.com/album/6kZea5A0pO9KcmLb8L5u7X) | 4:23 | 2025-12-22 |  |
+| [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2026-01-19 |  |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-20 |  |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-05 |
 | [Lithium](https://open.spotify.com/track/4f6eNSvw58g7nm47pXtbMH) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:32 | 2026-01-01 |  |
@@ -105,6 +107,7 @@
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 | 2025-12-06 |
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2025-12-05 |  |
+| [No One Speaks](https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Off to the Happy Place](https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR) | 2:29 | 2026-01-19 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-21 |  |
 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 | 2025-12-13 | 2026-01-05 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-12 |
@@ -160,6 +163,7 @@
 | [Too many shots](https://open.spotify.com/track/1LgaBhXA2yXHXm163tBUJB) | [Prodii](https://open.spotify.com/artist/2P606xCQx03HHlD28pXMs5) | [Too many shots](https://open.spotify.com/album/4ack6tut3wHYNFCYa1mIS3) | 2:49 | 2026-01-15 |  |
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 |  |
 | [Trampeltier](https://open.spotify.com/track/6wsAvwlXPQLyEUeItX417g) | [Neidmaer](https://open.spotify.com/artist/0hCDG82eSZNEb32nKPyeKR) | [Trampeltier](https://open.spotify.com/album/3ahMXPDYjOxgf8JmfbanPy) | 4:28 | 2025-09-25 | 2026-01-05 |
+| [Universes](https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:55 | 2026-01-19 |  |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-11 |  |
 | [Virginia](https://open.spotify.com/track/2Gp5Y4AoDm0sQotveaD4T3) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 4:25 | 2025-11-21 | 2025-12-12 |
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 | 2025-12-28 |
@@ -173,5 +177,6 @@
 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 | 2025-10-29 |  |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Your Love Shines Down Like a Supernova's Death](https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:06 | 2025-11-02 | 2025-12-06 |
+| [Навстречу вам](https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Навстречу вам](https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob) | 3:18 | 2026-01-19 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

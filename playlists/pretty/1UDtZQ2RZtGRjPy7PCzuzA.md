@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,137 songs - 2 day 16 hr 40 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,138 songs - 2 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1145,5 +1145,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1135 | [Viva La Vida](https://open.spotify.com/track/4zOfy9kqJlG0ZXvcaSh4gv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/7sYd6KDHefklNf94RmND8g) | 4:02 |
 | 1136 | [Goodbye Glitter](https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Goodbye Glitter](https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii) | 3:54 |
 | 1137 | [Let Alone The One You Love](https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:06 |
+| 1138 | [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 |
 
-Snapshot ID: `AAAHzWbpjrlHFc0T6P6np4Qf6coRPVdb`
+Snapshot ID: `AAAHzotT+peeSBTLB+D+LyIKrITUHk9L`

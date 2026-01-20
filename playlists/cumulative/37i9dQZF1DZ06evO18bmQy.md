@@ -4,7 +4,7 @@
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-130 songs - 9 hr 7 min
+131 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [em quase tudo](https://open.spotify.com/track/26EFuKUDqQKLc4BStNDnHh) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:17 | 2023-09-18 |  |
 | [Era de Aquarius](https://open.spotify.com/track/0HifRAxIjuvd7XBJEviQOK) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Era de Aquarius](https://open.spotify.com/album/4w8zGC0mKxObMx71b2KgG6) | 2:58 | 2025-01-03 | 2025-01-12 |
 | [Esquimó](https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 4:16 | 2023-09-18 | 2025-11-13 |
+| [Esquimó](https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 4:16 | 2026-01-20 |  |
 | [ETERNO \- Remake](https://open.spotify.com/track/0WjWIeXZighu9xmR5D7fhs) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 3:46 | 2025-12-22 |  |
 | [Eu](https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 5:10 | 2023-09-18 | 2025-11-25 |
 | [Eu](https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 5:10 | 2025-11-27 |  |
@@ -68,7 +69,7 @@
 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 | 2025-03-16 |  |
 | [JUNHO DE 94](https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:29 | 2023-09-18 | 2025-11-28 |
 | [JUNHO DE 94](https://open.spotify.com/track/56AJGc24Vrk3Zzcut70Sng) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 5:29 | 2025-11-28 |  |
-| [LADRÃO](https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 4:22 | 2026-01-15 |  |
+| [LADRÃO](https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 4:22 | 2026-01-15 | 2026-01-20 |
 | [LADRÃO](https://open.spotify.com/track/1SoVbAACWECOhsVZY4M1Jb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:22 | 2023-09-18 | 2025-11-17 |
 | [LEAL](https://open.spotify.com/track/1tkJNRVpPUhWlxESlXTy4p) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Rapaz do Dread](https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 3:32 | 2025-11-28 |  |
 | [LEAL](https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:32 | 2023-09-18 | 2025-11-28 |

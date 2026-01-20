@@ -816,7 +816,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189134,
       "name": "Dog",
       "url": "https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 263760,
       "name": "Evergreen (l-o-v-e-d)",
       "url": "https://open.spotify.com/track/2kM0IjYQAdtkoLoeWMDZWV"
@@ -1360,6 +1360,24 @@
       "duration_ms": 269160,
       "name": "Hey",
       "url": "https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU"
+    },
+    {
+      "album": {
+        "name": "Hippie Sunshine",
+        "url": "https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186289,
+      "name": "Hippie Sunshine",
+      "url": "https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP"
     },
     {
       "album": {
@@ -3650,6 +3668,24 @@
       "duration_ms": 157910,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY"
+    },
+    {
+      "album": {
+        "name": "Somehow",
+        "url": "https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx"
+      },
+      "artists": [
+        {
+          "name": "SONS",
+          "url": "https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209306,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ"
     },
     {
       "album": {

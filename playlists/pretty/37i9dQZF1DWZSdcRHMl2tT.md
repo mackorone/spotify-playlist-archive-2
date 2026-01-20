@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,265 likes - 305 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,268 likes - 305 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 304 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 |
 | 305 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 |
 
-Snapshot ID: `AAAAAFNBzsZtTxS78gCLTUj6MD5K82Oe`
+Snapshot ID: `AAAAALFyq+hRXl34K89SedF+6ivryJfg`

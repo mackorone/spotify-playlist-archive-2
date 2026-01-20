@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: Alleh, Yorghaki",
+  "description": "Just vibes. Cover: Yandel, LATIN MAFIA",
   "name": "Vibras",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 120314,
       "name": "2025",
       "url": "https://open.spotify.com/track/479AXnqdLy7TSGT0I29hPj"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 184984,
       "name": "AFRO",
       "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
@@ -1210,6 +1210,28 @@
       "duration_ms": 157558,
       "name": "Avi\u00f3n De Pap\u00e9l",
       "url": "https://open.spotify.com/track/2xs4ahPFyQpKVsLTOm3YC4"
+    },
+    {
+      "album": {
+        "name": "Ay Dale",
+        "url": "https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Ay Dale",
+      "url": "https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt"
     },
     {
       "album": {
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 204133,
       "name": "buen d\u00eda portaci\u00f3n de rostro",
       "url": "https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi"
@@ -2465,6 +2487,28 @@
     },
     {
       "album": {
+        "name": "LA 8VA MARAVILLA",
+        "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214658,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/1yV4oNq40BpcwAxr0Bl4Mx"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -2630,6 +2674,28 @@
       "duration_ms": 159344,
       "name": "Committed",
       "url": "https://open.spotify.com/track/7xdRj1wA4XzYnXynPmtmnq"
+    },
+    {
+      "album": {
+        "name": "Como Es Que Se Hace",
+        "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Como Es Que Se Hace",
+      "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
     },
     {
       "album": {
@@ -4107,6 +4173,28 @@
     },
     {
       "album": {
+        "name": "EL MUNDO SE VA A ACABAR",
+        "url": "https://open.spotify.com/album/7c6vZUg8HMdXnAtBHUFLT4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "KARBeats",
+          "url": "https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "EL MUNDO SE VA A ACABAR",
+      "url": "https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n"
+    },
+    {
+      "album": {
         "name": "El Problema (2020)",
         "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
       },
@@ -4738,6 +4826,24 @@
       "duration_ms": 166303,
       "name": "estrella",
       "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
     },
     {
       "album": {
@@ -7594,7 +7700,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 144943,
       "name": "lonely",
       "url": "https://open.spotify.com/track/2zajUUzQI6EVxepdee2KML"
@@ -7630,7 +7736,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 224761,
       "name": "LOVELANGUAGE",
       "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
@@ -8143,6 +8249,28 @@
     },
     {
       "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
+    },
+    {
+      "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
@@ -8436,6 +8564,40 @@
       "duration_ms": 282346,
       "name": "Merry Remix",
       "url": "https://open.spotify.com/track/5fEL5j5BeLYP3gmKCH5RoP"
+    },
+    {
+      "album": {
+        "name": "Private Suite (Vol. 4)",
+        "url": "https://open.spotify.com/album/1XSQ56Y0zCG0Aht3EvSHj4"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382459,
+      "name": "MI CHIMBITA",
+      "url": "https://open.spotify.com/track/0Vx3Z5Lrr7smPKUwrok9xh"
     },
     {
       "album": {
@@ -9255,6 +9417,32 @@
     },
     {
       "album": {
+        "name": "NETFLIX AND CHILL",
+        "url": "https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "NETFLIX AND CHILL",
+      "url": "https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV"
+    },
+    {
+      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ"
       },
@@ -9318,7 +9506,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 229787,
       "name": "Ni Me Conozco",
       "url": "https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi"
@@ -9812,7 +10000,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 205943,
       "name": "nochecer",
       "url": "https://open.spotify.com/track/1F6PiJWUr4AHOqeM6BWB6R"
@@ -11195,6 +11383,24 @@
     },
     {
       "album": {
+        "name": "Pobla2",
+        "url": "https://open.spotify.com/album/1zgzBzXx8MjcF9CTrkpKGF"
+      },
+      "artists": [
+        {
+          "name": "Aron Luix",
+          "url": "https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Pobla2",
+      "url": "https://open.spotify.com/track/2tAfxJ5ApTwZUxp5GDdRSQ"
+    },
+    {
+      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -12296,7 +12502,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
@@ -13058,7 +13264,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 153402,
       "name": "SQ - W Sound 04",
       "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"

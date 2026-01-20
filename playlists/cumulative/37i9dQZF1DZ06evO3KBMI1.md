@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-128 songs - 8 hr 52 min
+129 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [PHOENIX](https://open.spotify.com/track/6x4Ic92TnTIG6uJHi2VoXy) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX](https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc) | 3:01 | 2024-12-16 | 2025-10-31 |
 | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 | 2024-10-19 | 2024-12-16 |
 | [PHOENIX AX](https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 4:11 | 2025-07-05 |  |
+| [PHOENIX AX EPIPHANY at Tokyo Dome 2025.06.15 \- Live Version](https://open.spotify.com/track/6Q0IK5FFf8jA2qUBXJjcc2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY at Tokyo Dome 2025.06.15](https://open.spotify.com/album/1f018h8BBE9PAXJoWBqlRR) | 4:32 | 2026-01-20 |  |
 | [PLOT](https://open.spotify.com/track/6nw2b6JtDb2A7vUwMrSPDA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE](https://open.spotify.com/album/1sKDBoYMLDPx74Ktp5tnJ1) | 3:27 | 2022-08-09 | 2022-08-11 |
 | [PRAYING RUN](https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 6:16 | 2022-06-09 |  |
 | [Q.E.D.](https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:42 | 2022-06-09 | 2025-01-05 |
@@ -103,7 +104,7 @@
 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 | 2023-07-20 |  |
 | [WANNA be BRILLIANT](https://open.spotify.com/track/6lfnRtdV3bJneiA3Y0aY5G) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 3:31 | 2022-06-09 | 2022-10-02 |
 | [WICKED boy](https://open.spotify.com/track/0XMYF0XKZW8IdxTelseVBF) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 1:56 | 2025-07-07 | 2025-07-24 |
-| [WINGS ever](https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:26 | 2025-07-07 |  |
+| [WINGS ever](https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:26 | 2025-07-07 | 2026-01-20 |
 | [WINGS ever](https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH](https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr) | 3:28 | 2024-12-08 | 2025-06-13 |
 | [Wizard CLUB](https://open.spotify.com/track/4kvQEOuOZWtSV1ObwHq1HJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:10 | 2022-06-15 | 2022-10-13 |
 | [world LOST world](https://open.spotify.com/track/4DCjLkXskVac4WlzP2gpNd) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 4:59 | 2022-06-11 | 2022-10-11 |

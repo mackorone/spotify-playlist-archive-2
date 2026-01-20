@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5TlymhW0U0a6SjovrF8tEr"
+      },
+      "artists": [
+        {
+          "name": "Nick Havsen",
+          "url": "https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3"
+        },
+        {
+          "name": "B00ST",
+          "url": "https://open.spotify.com/artist/4LbUyZ8D2tXu1kuSFzYZdx"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121329,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz"
+    },
+    {
+      "album": {
         "name": "Chica Culo Mami",
         "url": "https://open.spotify.com/album/6SF2AdqdJxjgR3nm2hfe6r"
       },

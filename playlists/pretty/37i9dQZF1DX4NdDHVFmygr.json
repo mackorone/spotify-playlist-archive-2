@@ -1,13 +1,29 @@
 {
   "description": "Les hits marocains qui nous rassemblent, o\u00f9 qu\u2019on soit \ud83c\uddf2\ud83c\udde6",
-  "num_followers": 107423,
+  "num_followers": 107565,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKfTSSt3Zg0wIe3ZJJUNhYGdnBT",
+  "snapshot_id": "AAAAABrixdP/rNRDXJi7B06fNVJKwmH9",
   "tracks": [
+    {
+      "added_at": "2026-01-17 09:46:45",
+      "album": {
+        "name": "Ha Wlidi",
+        "url": "https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ"
+      },
+      "artists": [
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "Ha Wlidi",
+      "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
+    },
     {
       "added_at": "2026-01-17 09:46:45",
       "album": {
@@ -83,22 +99,6 @@
       "duration_ms": 179368,
       "name": "NGHAMER",
       "url": "https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd"
-    },
-    {
-      "added_at": "2026-01-17 09:46:45",
-      "album": {
-        "name": "Ha Wlidi",
-        "url": "https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ"
-      },
-      "artists": [
-        {
-          "name": "Jaylann",
-          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "Ha Wlidi",
-      "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
     },
     {
       "added_at": "2026-01-17 09:46:45",

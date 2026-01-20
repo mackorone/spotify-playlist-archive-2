@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 80834,
+  "num_followers": 80850,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Blauw",
-        "url": "https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ"
+        "name": "Oker",
+        "url": "https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf"
       },
       "artists": [
         {
-          "name": "The Scene",
-          "url": "https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj"
+          "name": "Clouseau",
+          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
         }
       ],
-      "duration_ms": 276773,
-      "name": "Blauw",
-      "url": "https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG"
+      "duration_ms": 302800,
+      "name": "Passie",
+      "url": "https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Oker",
-        "url": "https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf"
+        "name": "Blauw",
+        "url": "https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ"
       },
       "artists": [
         {
-          "name": "Clouseau",
-          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
+          "name": "The Scene",
+          "url": "https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj"
         }
       ],
-      "duration_ms": 302800,
-      "name": "Passie",
-      "url": "https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX"
+      "duration_ms": 276773,
+      "name": "Blauw",
+      "url": "https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Verbazing",
-        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        },
-        {
-          "name": "Vagant",
-          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Het Is Een Nacht... (Levensecht)",
-      "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Voltooid Verleden Tijd",
         "url": "https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 210200,
       "name": "Woorden Zonder Woorden",
       "url": "https://open.spotify.com/track/63Ulbl3LNcl2ba5C7eTCzJ"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Verbazing",
+        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "Vagant",
+          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Het Is Een Nacht... (Levensecht)",
+      "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
     },
     {
       "added_at": "2024-07-09 16:41:04",

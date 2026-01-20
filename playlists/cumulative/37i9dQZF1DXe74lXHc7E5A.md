@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: 21 Savage
 
-610 songs - 1 day 6 hr 40 min
+611 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-01-31 | 2025-03-07 |
 | [Blood on My Hands](https://open.spotify.com/track/0VaFr38OtY9nqx0HPBJhEz) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Blood on My Hands](https://open.spotify.com/album/0OzjJ6qBaDig8Aw1N9U9ot) | 1:53 | 2024-09-27 | 2024-11-16 |
 | [Blue Chills](https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:51 | 2022-07-27 | 2023-05-16 |
+| [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 | 2026-01-19 |  |
 | [Bodega Baddie](https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 1:44 | 2025-09-19 |  |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 | 2023-10-02 |
 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 | 2025-11-28 |  |
@@ -246,7 +247,7 @@
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 | 2022-10-14 |
 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 | 2022-07-27 | 2023-06-20 |
 | [Hear It Back \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:14 | 2022-07-27 | 2022-09-24 |
-| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 |  |
+| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 | 2026-01-20 |
 | [Hello Mate](https://open.spotify.com/track/76F7T5zPxdpcPndQNs2dQU) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Hello Mate](https://open.spotify.com/album/0WLtXpCoQXJBoWmtcRkmKX) | 3:12 | 2022-07-27 | 2022-10-08 |
 | [Hermano](https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Hermano](https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo) | 3:12 | 2025-07-18 | 2025-08-26 |
 | [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-13 | 2022-11-25 |

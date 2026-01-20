@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 112225,
+  "num_followers": 112196,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Behold Him",
+        "url": "https://open.spotify.com/album/19qbeTrzKvrsI2LJllXqzX"
+      },
+      "artists": [
+        {
+          "name": "Holly Halliwell",
+          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
+        }
+      ],
+      "duration_ms": 303057,
+      "name": "Behold Him",
+      "url": "https://open.spotify.com/track/2MChV6oQqW209U2i0CFjIO"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "O Come Let Us Adore Him/The Blessing",
         "url": "https://open.spotify.com/album/0wIwPCv83L6SdEvsn3fg0U"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 154325,
       "name": "O Come Let Us Adore Him/The Blessing",
       "url": "https://open.spotify.com/track/7aGxy8qDrcLQoIdLHa6Uq8"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Behold Him",
-        "url": "https://open.spotify.com/album/19qbeTrzKvrsI2LJllXqzX"
-      },
-      "artists": [
-        {
-          "name": "Holly Halliwell",
-          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
-        }
-      ],
-      "duration_ms": 303057,
-      "name": "Behold Him",
-      "url": "https://open.spotify.com/track/2MChV6oQqW209U2i0CFjIO"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "What A Savior",
+        "url": "https://open.spotify.com/album/4AGBatFouozkVlABjVLMmM"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 277412,
+      "name": "What A Savior",
+      "url": "https://open.spotify.com/track/1Ltm22hV9LbhSPZ7bwQyP7"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Worship in the Word, Christmas (Live)",
         "url": "https://open.spotify.com/album/6AMwxLTuB0LqgJdUsrWy4W"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 264244,
       "name": "Joy to the World (Joyful, Joyful) - Live",
       "url": "https://open.spotify.com/track/46m3G9WzGDLLtCVK4OK1VG"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "What A Savior",
-        "url": "https://open.spotify.com/album/4AGBatFouozkVlABjVLMmM"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 277412,
-      "name": "What A Savior",
-      "url": "https://open.spotify.com/track/1Ltm22hV9LbhSPZ7bwQyP7"
     },
     {
       "added_at": "2025-12-12 06:51:53",

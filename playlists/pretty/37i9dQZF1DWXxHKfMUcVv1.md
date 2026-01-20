@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,108 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,125 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 46 | [Dónde está el amor?](https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu) | [Jose Viera](https://open.spotify.com/artist/2Sp7cTDbjsYFB8uzRsnIuR), [Jazmín del Paraguay](https://open.spotify.com/artist/69hJLucbwhNIw8vPF3FzXV) | [Dónde está el amor?](https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE) | 3:14 |
 | 47 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
 | 48 | [Estación Lunar](https://open.spotify.com/track/2enrZW8F0pWuC5oNvIyQ0L) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM) | [Estación Lunar](https://open.spotify.com/album/4Ub0A1BZ6b4wGetZC8KrbI) | 3:16 |
-| 49 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
+| 49 | [Viernes De Peña](https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf), [Sol Codas](https://open.spotify.com/artist/0Kb2kX8II2Z8VU2zNmTeIt) | [Viernes De Peña](https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc) | 3:23 |
 | 50 | [Auto](https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Auto](https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf) | 2:22 |
 
 Snapshot ID: `AAAAAOGNLgadf1RFYhS1Psm444jkrjCR`

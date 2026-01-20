@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7874,
+  "num_followers": 7877,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAAkr9EY7dfdP0A8Ga3pfvas",
+  "snapshot_id": "aWwigAAAAADTs9au+WTWM8hMf1gVwtVS",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wide",
         "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 119733,
       "name": "Make Me Over",
       "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 50000,
-      "name": "The Races",
-      "url": "https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8"
     },
     {
       "added_at": null,

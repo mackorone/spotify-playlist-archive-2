@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 323125,
+  "num_followers": 323134,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABxjIgYNiZzWo0qiJz6UoxQ",
+  "snapshot_id": "aWwigAAAAACSSP4E9qXF/Yzbd0f0JnoL",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "DIFFERENT DAY",
-      "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 260672,
       "name": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
       "url": "https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "DIFFERENT DAY",
+      "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
     },
     {
       "added_at": null,

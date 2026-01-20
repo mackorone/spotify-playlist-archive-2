@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 53429,
+  "num_followers": 53433,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABNbtY6vGlGKC4RIQ2ISO0o",
+  "snapshot_id": "aWwigAAAAACZYckXTsi2+UGwvUqxd28R",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 145666,
-      "name": "Honeybear",
-      "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
+      "duration_ms": 236000,
+      "name": "Little Shadow",
+      "url": "https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Little Shadow",
-      "url": "https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT"
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
     },
     {
       "added_at": null,

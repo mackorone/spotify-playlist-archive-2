@@ -4,10 +4,11 @@
 
 > Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Drevo
 
-173 songs - 8 hr 38 min
+175 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 | 2026-01-19 |  |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2025-12-12 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-15 | 2025-02-14 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-13 | 2025-10-17 |
@@ -20,6 +21,7 @@
 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 | 2025-03-20 | 2025-04-18 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-13 | 2025-03-11 |
 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 | 2025-12-01 |  |
+| [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 | 2026-01-19 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2024-12-31 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 | 2024-09-20 |
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-20 | 2025-03-28 |
@@ -94,7 +96,7 @@
 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-05 | 2024-12-13 |
 | [Де би де би](https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Перший тайм](https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl) | 2:49 | 2025-06-09 |  |
 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 | 2025-09-04 |  |
-| [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 | 2025-03-10 |  |
+| [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 | 2025-03-10 | 2026-01-20 |
 | [Додому](https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [8 марабу](https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw) | 2:49 | 2024-06-27 | 2025-02-07 |
 | [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 | 2024-06-27 | 2024-11-05 |
 | [Ендорфін](https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Ендорфін](https://open.spotify.com/album/1pmVMeRAhWNmPTRYDy7X1d) | 2:32 | 2024-10-03 | 2025-03-21 |
@@ -115,7 +117,7 @@
 | [Коси](https://open.spotify.com/track/3kebQnMSfgN6i97Ur2uQNb) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu), [SAMCHUK](https://open.spotify.com/artist/5fWcYXCPzkgi05jN3tV8WQ) | [Коси](https://open.spotify.com/album/5pDEnvXPD0R6dryY1jNGTm) | 2:37 | 2025-04-10 | 2025-05-02 |
 | [Кохаю, але не зовсім](https://open.spotify.com/track/7erP3ICSBISAa9ZH4vyo42) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Кохаю, але не зовсім](https://open.spotify.com/album/5cnpwmYQBU8JgK8AYYUsFS) | 3:19 | 2024-06-27 | 2024-09-27 |
 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 | 2024-12-12 | 2025-12-12 |
-| [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 | 2025-03-27 |  |
+| [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 | 2025-03-27 | 2026-01-20 |
 | [Миленький](https://open.spotify.com/track/0K5dkhupd2LyXehp0zbO1h) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt), [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Миленький](https://open.spotify.com/album/0wUyl9j02U3IkieEErkAui) | 3:12 | 2025-10-26 |  |
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2024-12-12 | 2025-10-27 |
 | [Мужчина](https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Мужчина](https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF) | 2:43 | 2025-04-03 |  |

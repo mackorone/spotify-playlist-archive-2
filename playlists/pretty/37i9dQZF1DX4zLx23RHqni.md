@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Amrit Ramnath
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,939 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,945 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 44 | [Kathali](https://open.spotify.com/track/1rMuC0v08MocBqVhDaIfwy) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Havoc Naven](https://open.spotify.com/artist/5ZWUML76b3ZPdKdYXm0cNf) | [Best Of Havoc Brothers](https://open.spotify.com/album/666d9PNXmiyefgWdJpZbgG) | 4:25 |
 | 45 | [Rasaathi Nenja \- Madras Gig Season 2](https://open.spotify.com/track/0H1Uhrit1CxZzGBgsAz4at) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF) | [Rasaathi Nenja \(Madras Gig Season 2\)](https://open.spotify.com/album/4aE7Hi754nkUABnmettoac) | 4:47 |
 | 46 | [Thottu Vidum Thooram](https://open.spotify.com/track/50JJ12Cb2eJmKBJjlfGWze) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Aishwarya Yogarajh](https://open.spotify.com/artist/3TZfjkHHgQWsXYT5o9PYdZ) | [Thottu Vidum Thooram](https://open.spotify.com/album/4qdpasJoDy0nrh0oSYBbah) | 3:41 |
-| 47 | [Neeye](https://open.spotify.com/track/4sbR5eyctZyWWrN6JAPOHR) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Neeye](https://open.spotify.com/album/35cyKG8a4BvAGsW617H9w3) | 5:07 |
+| 47 | [Neeye](https://open.spotify.com/track/4sbR5eyctZyWWrN6JAPOHR) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Neeye](https://open.spotify.com/album/35cyKG8a4BvAGsW617H9w3) | 5:07 |
 | 48 | [Ennaval](https://open.spotify.com/track/7ceeckHyXKhb2ZbtN3fpCJ) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ennaval](https://open.spotify.com/album/7zsQgug8SUE7Skc8FyWmra) | 3:40 |
 | 49 | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/track/7Ig3FFPdw2saocwylElPVx) | [Aswath Ajith](https://open.spotify.com/artist/4C56AkIkyjcnR9rB94c6Nz) | [Kaadhalae Thalli Pogadhae \- Single](https://open.spotify.com/album/3ctUBiDN7Wibe8uT6yBmf8) | 3:10 |
 | 50 | [En Manasa Kalachale](https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN) | [Manoj Kumar.M, Sibhi](https://open.spotify.com/artist/5GKDMTkfivrBS17gPP6h0b) | [En Manasa Kalachale](https://open.spotify.com/album/5lf9NhTSRez5DnAHF1v8eR) | 3:34 |

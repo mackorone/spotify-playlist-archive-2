@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157919,
+  "num_followers": 157922,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -387,22 +403,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Gav Det Et Skud",
+        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 176489,
+      "name": "Gav Det Et Skud",
+      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Gav Det Et Skud",
-        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 176489,
-      "name": "Gav Det Et Skud",
-      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 290500,
       "name": "Tristan & Isolde",
       "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "P\u00e6n",
         "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 190300,
       "name": "P\u00e6n",
       "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Make A Baby (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/5hyF0NmMQ8GnVsndZjkYID"
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
         }
       ],
-      "duration_ms": 177064,
-      "name": "Make A Baby (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/7DrMUeCJ5lgfcxhBdb4mV1"
+      "duration_ms": 159680,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1755,18 +1751,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
+        "name": "Make A Baby (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/5hyF0NmMQ8GnVsndZjkYID"
       },
       "artists": [
         {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 159680,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
+      "duration_ms": 177064,
+      "name": "Make A Baby (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/7DrMUeCJ5lgfcxhBdb4mV1"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
+        "name": "Lifetimes Away (feat. Medina)",
+        "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
       "artists": [
         {
-          "name": "Halloran & Kate",
-          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
         },
         {
-          "name": "May Raya",
-          "url": "https://open.spotify.com/artist/30I99Rrr7vPR38I9Wx8oQ9"
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
         }
       ],
-      "duration_ms": 201282,
-      "name": "Weak - Acoustic",
-      "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
+      "duration_ms": 185769,
+      "name": "Lifetimes Away (feat. Medina)",
+      "url": "https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0"
     }
   ],
   "unique_name": "ren hygge",

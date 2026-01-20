@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-746 songs - 1 day 8 hr 2 min
+747 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Imaginary](https://open.spotify.com/track/2w6LzuwyGCAV75dlAPcNBN) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Imaginary](https://open.spotify.com/album/4JJpW8XDzme7pqCiyZjyKN) | 2:02 | 2024-11-08 |  |
 | [In My Dream](https://open.spotify.com/track/7qMBMAhXxLT329FpDOyCMj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [In My Dreams](https://open.spotify.com/album/1zwjrK3mHHClptAtLX06tZ) | 1:59 | 2025-03-14 | 2025-03-20 |
 | [In the Backseat](https://open.spotify.com/track/4vI1kjJ48bbpIf7ByHFzUu) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [In the Backseat](https://open.spotify.com/album/06C0oK1SNXafHXh9HqeNHo) | 2:33 | 2024-08-23 | 2025-05-10 |
+| [In The Middle](https://open.spotify.com/track/2YI0sVrWr2jmmc3Kdjy0HV) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [In The Middle](https://open.spotify.com/album/2FhCh21wkaO0qhcLM17Crb) | 2:01 | 2026-01-16 |  |
 | [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 | 2024-09-08 |
 | [Incense](https://open.spotify.com/track/1FSHmMjfuNvewPOMkiPZNs) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Incense](https://open.spotify.com/album/0CdqpB70Ziy512OwnYxBaF) | 1:52 | 2025-07-18 | 2025-08-30 |
 | [Indica Badu](https://open.spotify.com/track/283WNLow8l5Opa1q1VmLVQ) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Indica Badu](https://open.spotify.com/album/0RrAnODx9ARkS8gHBVnyYB) | 2:08 | 2024-11-29 | 2025-12-27 |
@@ -724,7 +725,7 @@
 | [Voyageurs](https://open.spotify.com/track/5d8z9xQC88LkBn06ETDkpS) | [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [Voyageurs](https://open.spotify.com/album/6nhmqXfwOB3QiklHufGWpo) | 2:14 | 2025-04-11 |  |
 | [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 | 2024-12-09 |
 | [warm oceans](https://open.spotify.com/track/49J1knV6TE0yZw3qFh5vdi) | [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa), [Choson Wan](https://open.spotify.com/artist/7DkwMh1UTUV50kH6LbZd3q), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [warm oceans](https://open.spotify.com/album/55mkAyXtpdMfwdaSm32W9I) | 1:57 | 2025-04-11 |  |
-| [Warmth](https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Warmth](https://open.spotify.com/album/6tN1rF4AViLLKG30Iw5dve) | 1:51 | 2025-05-23 |  |
+| [Warmth](https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Warmth](https://open.spotify.com/album/6tN1rF4AViLLKG30Iw5dve) | 1:51 | 2025-05-23 | 2026-01-20 |
 | [Washed in Vermillion](https://open.spotify.com/track/2iVDPydX7QsgR7IY3PSQBD) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Washed in Vermillion](https://open.spotify.com/album/7u1fhd2dzeo0dLL8yJdNxt) | 2:10 | 2025-10-24 |  |
 | [Water Reflections](https://open.spotify.com/track/6oJdNQwY3q3rajH52K2aG1) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A), [Cali Soul](https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6) | [Water Reflections](https://open.spotify.com/album/2DfBvCJZs7lLG5QIIXXNFl) | 1:59 | 2025-10-24 | 2025-12-04 |
 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 | 2023-10-13 | 2024-08-27 |

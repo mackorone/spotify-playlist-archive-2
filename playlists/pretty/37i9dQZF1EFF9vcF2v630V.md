@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 49 | [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 |
 | 50 | [I Want](https://open.spotify.com/track/0SmxXmLh1b3Fzo538a1hFF) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [Mike City](https://open.spotify.com/artist/4b8jP3BNzAfeaKqd4Whlvd) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:58 |
 | 51 | [Broke](https://open.spotify.com/track/7nn5HRBngi7LTst0dDxVTt) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 3:16 |
-| 52 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 |
-| 53 | [Bye Bye](https://open.spotify.com/track/4OjVl9VWxl45MXIvkLpl3c) | [NES](https://open.spotify.com/artist/2gVohQzPBy9wFFc3k7O9ot), [Nesrine](https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo), [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [David Gadea](https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso) | [Ahlam](https://open.spotify.com/album/422LklmVZfFAoQOyCedcbl) | 4:28 |
+| 52 | [Bye Bye](https://open.spotify.com/track/4OjVl9VWxl45MXIvkLpl3c) | [NES](https://open.spotify.com/artist/2gVohQzPBy9wFFc3k7O9ot), [Nesrine](https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo), [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [David Gadea](https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso) | [Ahlam](https://open.spotify.com/album/422LklmVZfFAoQOyCedcbl) | 4:28 |
+| 53 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 |
 | 54 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
 | 55 | [Not Over You](https://open.spotify.com/track/4iLQ5KX7IYsqlaDNWL8xqf) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Not Over You](https://open.spotify.com/album/1cJSPEAABSatHfV2pwXBPG) | 3:04 |
 | 56 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 70 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 71 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AcHTeAAAAAAcwLZAjahveneO7fPCYmoq`
+Snapshot ID: `AcHZVAAAAABfCbmJHNedDjzxyB8Wvo8N`

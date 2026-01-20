@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Parvaaz
 
-383 songs - 21 hr 29 min
+384 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Melancholic](https://open.spotify.com/track/2J6ehazUCGusP0YqK31fjL) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Melancholic](https://open.spotify.com/album/3v76zS849Cf1r2M1j9vuPX) | 3:42 | 2022-12-28 | 2023-10-20 |
 | [Mera Ishq](https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Mera Ishq](https://open.spotify.com/album/0Q953EBSXukY8hQAP8DtHr) | 3:57 | 2024-01-05 | 2025-05-31 |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2024-09-09 |  |
+| [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 | 2026-01-19 |  |
 | [Meri Ho](https://open.spotify.com/track/4A26yugsWmBVHLDj9NZlNr) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Meri Ho](https://open.spotify.com/album/0K9nCfWIFmrafSRVYwMKx3) | 2:18 | 2025-02-18 | 2025-03-18 |
 | [Mi Amore](https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Sunep A Jamir](https://open.spotify.com/artist/0CFC42AIQYwitBM9VnCtLB), [Hanu Dixit](https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5), [Gaia Meera](https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw), [Inga](https://open.spotify.com/artist/3xVqskuXhRRXOpBTA5PwrK), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Mi Amore](https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2) | 3:06 | 2025-02-14 | 2025-02-19 |
 | [Milaap](https://open.spotify.com/track/4Ajwb8BDGskWZciR7YIDkC) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 5:08 | 2024-12-12 | 2025-01-22 |
@@ -354,7 +355,7 @@
 | [Tu](https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Tu](https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd) | 2:53 | 2024-10-15 | 2024-10-24 |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 | 2025-12-11 |
 | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/album/64TpPq3QgOQUaX3GSNMEYt) | 4:29 | 2024-01-19 | 2025-07-22 |
-| [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 | 2025-01-21 |  |
+| [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 | 2025-01-21 | 2026-01-20 |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-24 | 2023-09-09 |
 | [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 | 2023-01-13 |
 | [Tu Mileya Ve](https://open.spotify.com/track/6dYVPyx5AQnOAmFOyJljIz) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Unnati Shah](https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP) | [Tu Mileya Ve](https://open.spotify.com/album/4oyY0mE03bj7LCnfL9Q6h2) | 4:03 | 2024-01-05 | 2024-01-27 |

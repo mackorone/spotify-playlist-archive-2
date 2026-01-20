@@ -2,7 +2,7 @@
 
 ### [90s Party](https://open.spotify.com/playlist/37i9dQZF1DXdo6A3mWpdWx)
 
-> The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
+> The biggest party hits of the 1990s\. Cover: Aqua.
 
 364 songs - 1 day 0 hr 52 min
 
@@ -186,7 +186,7 @@
 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 | 2021-03-22 |  |
 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 | 2021-09-08 |  |
 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 | 2021-09-08 | 2025-05-15 |
-| [Killer](https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2) | [Adamski](https://open.spotify.com/artist/737Z8bAmJiUqg2I6Ru8fYV), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Doctor Adamski’s Musical Pharmacy](https://open.spotify.com/album/4tr6huX1QRgVJ8KEFsAKd7) | 4:10 | 2021-03-22 | 2025-12-27 |
+| [Killer](https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2) | [Adamski](https://open.spotify.com/artist/737Z8bAmJiUqg2I6Ru8fYV), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Doctor Adamski’s Musical Pharmacy](https://open.spotify.com/album/4tr6huX1QRgVJ8KEFsAKd7) | 4:10 | 2021-03-22 |  |
 | [Kung Fu Fighting](https://open.spotify.com/track/4FiWYfYBJmlnIq8NkMbPtY) | [Bus Stop](https://open.spotify.com/artist/170spSRNlcuuhGEpDUrsY5), [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:52 | 2021-09-08 | 2022-06-23 |
 | [La Primavera \- UK Radio Edit](https://open.spotify.com/track/1aepCwv2LhrYRIk9g3OAZb) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Life Goes On](https://open.spotify.com/album/2ANQ6hLrvOnhRUQEmMsjLi) | 3:36 | 2021-09-08 | 2022-07-22 |
 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 | 2021-09-08 |  |
@@ -198,7 +198,7 @@
 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 | 2021-03-22 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2021-03-22 | 2024-04-19 |
 | [Let's Get Loud](https://open.spotify.com/track/0OKA2QqBb0vkRrVFTWnayY) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Latin Explosion](https://open.spotify.com/album/5c1ctCLSuIaFvPNPAzlyLI) | 4:00 | 2022-10-11 | 2022-11-13 |
-| [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 | 2021-03-22 |  |
+| [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 | 2021-03-22 | 2026-01-20 |
 | [Lets Get Ready to Rhumble](https://open.spotify.com/track/5yIDhiIA3rjYBaApHcwlDV) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB) | [Psyche](https://open.spotify.com/album/07XYnWqfJDXe0X5CJYDkCO) | 3:58 | 2021-09-08 | 2022-07-27 |
 | [Life \- Radio Edit](https://open.spotify.com/track/42MOQv8uspw7Jt6XSujAm7) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:17 | 2021-09-08 | 2022-05-29 |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2021-03-22 |  |

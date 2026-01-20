@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Smita
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : AsurA
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,152 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,159 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 42 | [Fierce](https://open.spotify.com/track/6QAjVRwHoryRaSfqPUq7m1) | [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L) | [Fierce](https://open.spotify.com/album/519CM8Sv6vVPuYQYqSxK0C) | 3:15 |
 | 43 | [Kalavarinche Kshanam](https://open.spotify.com/track/4DkxdK8rt1uxBmptVsNrOF) | [Sai Teja Reddy](https://open.spotify.com/artist/0bqjri9k43E0zIhSOKaHd1), [Tejaswini Pola](https://open.spotify.com/artist/7G3ntC37kHqOeOJJgbMcaX) | [Kalavarinche Kshanam](https://open.spotify.com/album/0HNuGJEhHjaMS7AwtB5Xd1) | 2:21 |
 | 44 | [Vasthaavaa](https://open.spotify.com/track/1M67wuVGrL7BSDAIZrKNlJ) | [Amargeeth](https://open.spotify.com/artist/12fWWM8fYvtkySJ5SHo34V), [Bavathayini Nagarajan](https://open.spotify.com/artist/2cxGdIddB5cifEAuu1u5J9), [Thomas Chitamel Alexander](https://open.spotify.com/artist/2WAp8ekuCuSgyv8L1nKZyV), [Vidyuth Srinivas](https://open.spotify.com/artist/5TbKgZkS33cpXsaN1Xk1KU) | [Vasthaavaa](https://open.spotify.com/album/0Z2keKDowMZ1dWluhulFTB) | 4:07 |
-| 45 | [Kashmir Diaries](https://open.spotify.com/track/3eUoCOpwv7gYDBIOA0R8RE) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sowmiya](https://open.spotify.com/artist/5XhjNUreUgIAs7nrLDVZYB) | [Kashmir Diaries](https://open.spotify.com/album/0xFCRfurBOG9cu17TeecrA) | 4:30 |
+| 45 | [Kashmir Diaries](https://open.spotify.com/track/3eUoCOpwv7gYDBIOA0R8RE) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sowmiya](https://open.spotify.com/artist/5XhjNUreUgIAs7nrLDVZYB) | [Kashmir Diaries](https://open.spotify.com/album/0xFCRfurBOG9cu17TeecrA) | 4:30 |
 | 46 | [Chinni Chinni Chandamama](https://open.spotify.com/track/1nddFFScQAwpu7cW9ThUiB) | [Soujanya Bhagavatula](https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt), [Viswadeep](https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el) | [Chinni Chinni Chandamama](https://open.spotify.com/album/20nG6atFv55rtC9uwBqyN2) | 3:32 |
 | 47 | [Malli](https://open.spotify.com/track/0628Dj8mPaQkvFDN8dfw9U) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Malli](https://open.spotify.com/album/2uOCZDqhcAnydzgnD2cFsI) | 3:15 |
 | 48 | [Prema \(From "Loopd"\)](https://open.spotify.com/track/6Q1CdUtTPYsEH97VFV2cHM) | [Peddapalli Rohith \(PR\)](https://open.spotify.com/artist/45m3peSZBkrwRhyxXGKUv0), [Junaid Kumar](https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN), [Aishwarya Daruri](https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf) | [Prema \(From "Loopd"\)](https://open.spotify.com/album/1jxoCUPZXc11AGp1DK7OFr) | 5:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Seenu Gaani Dawath](https://open.spotify.com/track/2vbfIUYmq9H9B2CVaZrtYK) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [Seenu Gaani Dawath](https://open.spotify.com/album/5UgeFsY9v8Sc5VOTQhgF6C) | 3:01 |
 | 75 | [Padipoya](https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8) | [Padipoya](https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz) | 2:56 |
 
-Snapshot ID: `AAAAAFWWIxv3GY+ADFnLaQE0+gBcKXFn`
+Snapshot ID: `AAAAALe+3FzjZln/jhAuR40qdWYrX7Ch`

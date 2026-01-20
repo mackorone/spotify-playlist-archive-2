@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-658 songs - 1 day 15 hr 30 min
+659 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Black Rain](https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 3:51 | 2021-12-16 |  |
 | [Body and Soul](https://open.spotify.com/track/4H7MtvOMVqg7ZwQYKHSBaJ) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Shout](https://open.spotify.com/album/0mz8H39pXZPUOpkU7dL48p) | 2:46 | 2022-02-04 | 2022-04-19 |
 | [Bold Soul Sister, Bold Soul Brother](https://open.spotify.com/track/255kBW0xbGQtP48RLrB0I6) | [The Black On White Affair](https://open.spotify.com/artist/1C69pZ4adGi3zgz4tojXSb) | [Kearney Barton: Architect of the Northwest Sound](https://open.spotify.com/album/5AkmoYc5XFDpJaJzstO9HS) | 2:56 | 2022-03-30 | 2022-04-17 |
-| [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 | 2025-04-29 |  |
+| [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 | 2025-04-29 | 2026-01-20 |
 | [Break My Heart](https://open.spotify.com/track/6idk9z9D8kfNYFantFL2gC) | [The McCharmlys](https://open.spotify.com/artist/09l8Gk7eyahBzFK3FxnFAT) | [Break My Heart](https://open.spotify.com/album/0fWTjBxLoIvd6EHGGnsBhH) | 2:41 | 2025-08-29 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5EoYc5wvRYOtkudLfrjsL1) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:44 | 2022-07-26 | 2022-10-04 |
 | [Bring It On Home to Me \- Remastered](https://open.spotify.com/track/2IIOqpwQKULhxixat2Pz7N) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best Of Sam Cooke](https://open.spotify.com/album/1PSzHNimmvs0fEZnVmFpCL) | 2:42 | 2022-03-30 | 2022-04-20 |
@@ -450,6 +450,7 @@
 | [Planes, Boats and Trains](https://open.spotify.com/track/4DHzUFdHMJRouGGJ4XqrKQ) | [Andrew Jackman](https://open.spotify.com/artist/3FmPzdYKLHjE6gHIdghfhL) | [Bruton BRH6: Voices in Harmony](https://open.spotify.com/album/3UsjRBVhsLR097B4cNbAwn) | 1:35 | 2021-12-16 | 2023-05-09 |
 | [Play It On My Radio](https://open.spotify.com/track/5TIwTmk9MukdTu9mOpraCy) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 4:33 | 2022-03-30 | 2022-06-22 |
 | [Play Pretend](https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Play Pretend](https://open.spotify.com/album/4gk7cTFVAi1cvhsGJSP6IT) | 3:24 | 2025-06-04 | 2025-12-06 |
+| [pocketwatch](https://open.spotify.com/track/12Ph5zyBdJZ50EDGAJyzZZ) | [Kinji](https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh) | [Thunderhead](https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed) | 2:46 | 2026-01-17 |  |
 | [Postmodern Girl](https://open.spotify.com/track/6KDKqDAi5e9pmb68tfOe7E) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Late Stage Capitalism](https://open.spotify.com/album/6dSVqMNOXBRgW3Jy8DtHVS) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2023-06-26 |  |
 | [Pressure](https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Lo Artiz](https://open.spotify.com/artist/471krICBnmucQIpNOf7az7), [Julia Zivic](https://open.spotify.com/artist/14ICub3ucTYRmPTfvyCsh6) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 1:44 | 2024-05-01 |  |

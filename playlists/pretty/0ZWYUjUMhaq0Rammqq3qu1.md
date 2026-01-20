@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain](/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ZWYUjUMhaq0Rammqq3qu1)
 
-### [Thanksgiving Dinner Party Essentials ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
+### [Thanksgiving Dinner Party Essentials  \(Moments\)](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
 > Cozy up with timeless hits for your family and friends to enjoy\.                         Friendsgiving \|Give Thanks \| Thanksgiving 2026.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,745 likes - 54 songs - 3 hr 0 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,740 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 53 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 54 | [Rest](https://open.spotify.com/track/46ueNei78zAk47R2OOLInn) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:52 |
 
-Snapshot ID: `AAAXDwk/WDw08OcIR3Eke51IYBC1ghg6`
+Snapshot ID: `AAAXEBBGTXChWdsYz5o7xjEHmiUxoLQ5`

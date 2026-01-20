@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,781 likes - 18 songs - 1 hr 0 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,779 likes - 23 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,10 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 16 | [RELIC](https://open.spotify.com/track/4IxYVV46tSKMPiLT4w76F8) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [RELIC](https://open.spotify.com/album/78TemQFA5d8qKy6MCCAp5p) | 2:48 |
 | 17 | [A Million Dreams](https://open.spotify.com/track/4MopFjNXRDbtyrnpw0GD5X) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 3:57 |
 | 18 | [Can't Make It](https://open.spotify.com/track/6oveH8wC8DzT5Z6dGZewQm) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 6:12 |
+| 19 | [Tell A Man Come See](https://open.spotify.com/track/09pvA2aGiw8sc3c9mUXYVn) | [Jolliffe](https://open.spotify.com/artist/0LnYKY8xLUWxNkxwmrJS4H), [Macabre Unit](https://open.spotify.com/artist/0pE4hlI5zBEQPB2tCGGpFd), [Limmz](https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf) | [Tell A Man Come See](https://open.spotify.com/album/1NVcFdp6jf41cmqlFYHEoC) | 3:46 |
+| 20 | [B2B2B](https://open.spotify.com/track/3GxJzJeXgjR2v4Ck3qpXtO) | [Kill Safari](https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [B2B2B](https://open.spotify.com/album/4mgCFqTuQgvGjNudy86J9L) | 1:51 |
+| 21 | [Lightsplinter](https://open.spotify.com/track/6voYRDM3MGPat0kXsIscD3) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Lightsplinter](https://open.spotify.com/album/30tr7cMl8XO2p4yoZAqFfy) | 3:13 |
+| 22 | [Bear Trap](https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Bear Trap](https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI) | 2:45 |
+| 23 | [WOBBLE LiKE](https://open.spotify.com/track/0VespYnMZjbI4loy9VS56B) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [All Gas, No Leaks!](https://open.spotify.com/album/0S9HKdPotd6DiJjz66sXCE) | 3:29 |
 
-Snapshot ID: `AAAXa4xmkt1dQw7bllRr5a3EKUKL46iD`
+Snapshot ID: `AAAXbDbixMsZAdelmLo2jUdqJ8yqLAKl`

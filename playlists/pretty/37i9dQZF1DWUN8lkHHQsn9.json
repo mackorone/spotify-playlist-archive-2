@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0aEvxy0vmxXQixOiE9qyhJ\">Mi\u0142osz Skierski</a>",
-  "num_followers": 42368,
+  "num_followers": 42364,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Noc",
-        "url": "https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 211281,
-      "name": "Brokat",
-      "url": "https://open.spotify.com/track/3Rvhei9cM23epgbIi5TScc"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Zapomniana Twarz",
         "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 183000,
       "name": "Zapomniana Twarz",
       "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Noc",
+        "url": "https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 211281,
+      "name": "Brokat",
+      "url": "https://open.spotify.com/track/3Rvhei9cM23epgbIi5TScc"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
+        "name": "Destroy Me, Today",
+        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 184966,
+      "name": "Nie ton\u0119",
+      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
         "name": "Uwaga (Id\u0119 do ciebie)",
         "url": "https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 187445,
       "name": "Uwaga (Id\u0119 do ciebie)",
       "url": "https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
-        "name": "Destroy Me, Today",
-        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 184966,
-      "name": "Nie ton\u0119",
-      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/377Q1shRDshpOaNvGil6dp"
-      },
-      "artists": [
-        {
-          "name": "MANOID",
-          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
-        },
-        {
-          "name": "Milkbaby",
-          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
-        }
-      ],
-      "duration_ms": 339382,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0ux3SDqL9eeyD5EBdWHjax"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Krasnoludki",
         "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 147391,
       "name": "Krasnoludki",
       "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/377Q1shRDshpOaNvGil6dp"
+      },
+      "artists": [
+        {
+          "name": "MANOID",
+          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
+        },
+        {
+          "name": "Milkbaby",
+          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
+        }
+      ],
+      "duration_ms": 339382,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0ux3SDqL9eeyD5EBdWHjax"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "ParaBellum",
-        "url": "https://open.spotify.com/album/2SqkDexsELrjHsWO4T8vVV"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "Aleksandra Zaw\u0142ocka",
-          "url": "https://open.spotify.com/artist/2I7mFrUtlJgCi6sSC4unfn"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "ParaBellum",
-      "url": "https://open.spotify.com/track/1KDVkxcEs0vXugw2z1he1O"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Harakiri",
         "url": "https://open.spotify.com/album/0BYaFYCDcQ6KwikEbJw5ga"
       },
@@ -1095,18 +1075,22 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "jestem bli\u017cej ni\u017c my\u015blisz",
-        "url": "https://open.spotify.com/album/7qhTp4foqajWjD5yG4zPpY"
+        "name": "ParaBellum",
+        "url": "https://open.spotify.com/album/2SqkDexsELrjHsWO4T8vVV"
       },
       "artists": [
         {
-          "name": "NATE",
-          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Aleksandra Zaw\u0142ocka",
+          "url": "https://open.spotify.com/artist/2I7mFrUtlJgCi6sSC4unfn"
         }
       ],
-      "duration_ms": 193381,
-      "name": "jestem bli\u017cej ni\u017c my\u015blisz",
-      "url": "https://open.spotify.com/track/7MtQQkTi7oh0pdyZNfQSz1"
+      "duration_ms": 169130,
+      "name": "ParaBellum",
+      "url": "https://open.spotify.com/track/1KDVkxcEs0vXugw2z1he1O"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1123,6 +1107,22 @@
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "jestem bli\u017cej ni\u017c my\u015blisz",
+        "url": "https://open.spotify.com/album/7qhTp4foqajWjD5yG4zPpY"
+      },
+      "artists": [
+        {
+          "name": "NATE",
+          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "jestem bli\u017cej ni\u017c my\u015blisz",
+      "url": "https://open.spotify.com/track/7MtQQkTi7oh0pdyZNfQSz1"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "IV!II",
-        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
       },
       "artists": [
         {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
         }
       ],
-      "duration_ms": 194418,
-      "name": "Mosty",
-      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
         "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
         "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Nie",
         "url": "https://open.spotify.com/album/199hvcH6xuvllSrgTu3wYE"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 184615,
       "name": "Nie",
       "url": "https://open.spotify.com/track/2QffcGEpWlwtZXcZ1zPtGW"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Nie m\u00f3j typ",
+        "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 145370,
+      "name": "Nie m\u00f3j typ",
+      "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Nie m\u00f3j typ",
-        "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 145370,
-      "name": "Nie m\u00f3j typ",
-      "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Jaskrawe historie",
         "url": "https://open.spotify.com/album/6cgBvG0403ClRCNnJoJU66"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 217021,
       "name": "Jaskrawe historie",
       "url": "https://open.spotify.com/track/7nvyxWLQStZp4rGVV9duGD"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 255060,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+        "name": "Pies na dw\u00f3ch \u0142apach",
+        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
       },
       "artists": [
         {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
         }
       ],
-      "duration_ms": 255060,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
+      "duration_ms": 219347,
+      "name": "Pies na dw\u00f3ch \u0142apach",
+      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1463,42 +1479,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Pies na dw\u00f3ch \u0142apach",
-        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
-      },
-      "artists": [
-        {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
-        }
-      ],
-      "duration_ms": 219347,
-      "name": "Pies na dw\u00f3ch \u0142apach",
-      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
-        "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
-        "url": "https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O"
-      },
-      "artists": [
-        {
-          "name": "Zagorski",
-          "url": "https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac"
-        },
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
-      "url": "https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Pani Baudelaire (Maryolkah Remix)",
         "url": "https://open.spotify.com/album/6aFikjxl82uRazcDv6jJHr"
       },
@@ -1531,22 +1511,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "Born Like That",
-        "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
@@ -1563,6 +1527,42 @@
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
+        "url": "https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O"
+      },
+      "artists": [
+        {
+          "name": "Zagorski",
+          "url": "https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac"
+        },
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
+      "url": "https://open.spotify.com/track/35lGRGuvZ4tSZNreJO6s75"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "Born Like That",
+        "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "amitua\u017c",
-        "url": "https://open.spotify.com/album/5W5PfSAvO4sNUcYjRf7BFf"
-      },
-      "artists": [
-        {
-          "name": "Jakub Zaron",
-          "url": "https://open.spotify.com/artist/0a2IhoVzXyoQp6LPI9o2yw"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "amitua\u017c",
-      "url": "https://open.spotify.com/track/1tBZOGtM1igr5txj7Bjw7I"
-    },
-    {
-      "added_at": "2026-01-12 23:00:18",
-      "album": {
         "name": "Nawzajem",
         "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2026-01-12 23:00:18",
       "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+        "name": "amitua\u017c",
+        "url": "https://open.spotify.com/album/5W5PfSAvO4sNUcYjRf7BFf"
       },
       "artists": [
         {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+          "name": "Jakub Zaron",
+          "url": "https://open.spotify.com/artist/0a2IhoVzXyoQp6LPI9o2yw"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
+      "duration_ms": 163360,
+      "name": "amitua\u017c",
+      "url": "https://open.spotify.com/track/1tBZOGtM1igr5txj7Bjw7I"
     },
     {
       "added_at": "2026-01-12 23:00:18",
@@ -1739,6 +1723,22 @@
       "duration_ms": 230080,
       "name": "Antropocen",
       "url": "https://open.spotify.com/track/3wEcEctIcwWduZCCxYXBF8"
+    },
+    {
+      "added_at": "2026-01-12 23:00:18",
+      "album": {
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2026-01-12 23:00:18",

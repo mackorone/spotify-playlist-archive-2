@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 437 likes - 70 songs - 4 hr 14 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 445 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,10 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 68 | [Distance](https://open.spotify.com/track/1PlyiUyljQJmnopGshRJSU) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:35 |
 | 69 | [Aggravated Cultivation](https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Pale Ontology](https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6) | 3:45 |
 | 70 | [Lost My Head](https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0) | [leetham](https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u) | [A Night in Hollywood](https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM) | 2:51 |
+| 71 | [Universes](https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:55 |
+| 72 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 |
+| 73 | [Bleeding Rage](https://open.spotify.com/track/5OOTUzZhTPjYfFlp97yxIU) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Bleeding Rage](https://open.spotify.com/album/3Tih67eYTaq5xzKDMT0sAc) | 3:28 |
+| 74 | [Навстречу вам](https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Навстречу вам](https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob) | 3:18 |
+| 75 | [No One Speaks](https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Off to the Happy Place](https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR) | 2:29 |
 
-Snapshot ID: `AAACYM5hfqjci1Yaus8VaMXFJ7+7C3hq`
+Snapshot ID: `AAACZYC7PhLfFRshWgFBYlDz2+tTxBWG`

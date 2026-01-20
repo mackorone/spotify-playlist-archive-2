@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 775463,
+  "num_followers": 775932,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-01-16 22:13:13",
       "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
-    },
-    {
-      "added_at": "2026-01-16 22:13:13",
-      "album": {
         "name": "blackout \ud83e\uddca",
         "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
+    },
+    {
+      "added_at": "2026-01-16 22:13:13",
+      "album": {
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2026-01-16 22:13:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-01-16 22:13:13",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
-    },
-    {
-      "added_at": "2026-01-16 22:13:13",
-      "album": {
         "name": "Coraz\u00f3n Puro",
         "url": "https://open.spotify.com/album/65iRoPfxzGd1gNJo8bHIPc"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 226285,
       "name": "Coraz\u00f3n Puro",
       "url": "https://open.spotify.com/track/072uRZ2a6okV4m0fyjY4sb"
+    },
+    {
+      "added_at": "2026-01-16 22:13:13",
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-01-16 22:13:13",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-01-16 22:13:13",
       "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 203463,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
-    },
-    {
-      "added_at": "2026-01-16 22:13:13",
-      "album": {
         "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
         "url": "https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
+    },
+    {
+      "added_at": "2026-01-16 22:13:13",
+      "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 203463,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
     },
     {
       "added_at": "2026-01-16 22:13:13",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-01-16 22:13:13",
       "album": {
-        "name": "Buenos T\u00e9rminos",
-        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 150823,
-      "name": "Buenos T\u00e9rminos",
-      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
-    },
-    {
-      "added_at": "2026-01-16 22:13:13",
-      "album": {
         "name": "PERDIDO",
         "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 156470,
       "name": "PERDIDO",
       "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
+    },
+    {
+      "added_at": "2026-01-16 22:13:13",
+      "album": {
+        "name": "Buenos T\u00e9rminos",
+        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 150823,
+      "name": "Buenos T\u00e9rminos",
+      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
     },
     {
       "added_at": "2026-01-16 22:13:13",

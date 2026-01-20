@@ -4,7 +4,7 @@
 
 > All of it
 
-1,097 songs - 2 day 19 hr 15 min
+1,098 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2025-06-02 |  |
 | [Heavy Metal](https://open.spotify.com/track/621W0YFtYurfPC6hwvmWgc) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Woman](https://open.spotify.com/album/23EaoI8dXfDGfxF54sd1DP) | 4:30 | 2025-06-02 |  |
 | [Heavy Metal x DVNO \(WWW\)](https://open.spotify.com/track/1qXBcPpscF2eynmVkITml7) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Woman Worldwide](https://open.spotify.com/album/7E3c9dmZ1KnZOQLZTgRqWx) | 4:43 | 2025-06-02 |  |
+| [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 | 2026-01-19 |  |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2025-06-02 |  |
 | [Her and I \(Slow Jam 2\)](https://open.spotify.com/track/7cbfx6Aavq0XK1vCOFgx7K) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [I'm In Your Mind Fuzz](https://open.spotify.com/album/1rb4cp4F59Tk1UOPHuP3H0) | 8:15 | 2025-06-02 |  |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2025-06-02 | 2025-09-18 |

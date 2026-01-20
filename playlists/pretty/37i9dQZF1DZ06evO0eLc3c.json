@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53550,
+  "num_followers": 53556,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAA0HA0AZCMmnd1GqiYhVtw5",
+  "snapshot_id": "aWwigAAAAADZlZXJyBYEwbri/APq9rda",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 253330,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
+      "duration_ms": 312440,
+      "name": "Citizen Ship",
+      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 312440,
-      "name": "Citizen Ship",
-      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
+      "duration_ms": 253330,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,

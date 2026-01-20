@@ -2,9 +2,9 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México\.  La Obsesión Factory en portada.
+> Los hits de ahora en la playlist más grande de México\.  BTS en portada.
 
-975 songs - 2 day 4 hr 24 min
+976 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-09 | 2025-05-16 |
 | [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 | 2024-07-12 | 2024-08-02 |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 | 2022-12-06 |
+| [Dynamite](https://open.spotify.com/track/1hIuSG6xV4RDgD8bDVKP7N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:19 | 2026-01-20 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-09 | 2022-02-11 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-07-08 | 2023-01-20 |
 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 | 2024-12-06 | 2025-01-31 |
@@ -532,7 +533,7 @@
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs) | [Tito Silva Music](https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1) | 3:39 | 2022-07-04 | 2022-07-07 |
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-07-07 | 2024-04-26 |
 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 | 2023-08-22 | 2024-04-19 |
-| [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 | 2025-10-30 |  |
+| [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 | 2025-10-30 | 2026-01-20 |
 | [Mi Decisión](https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Mi Decisión](https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM) | 3:03 | 2025-10-10 | 2025-12-20 |
 | [Mi Entorno](https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Entorno](https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj) | 2:52 | 2025-11-07 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-08-11 | 2023-11-10 |

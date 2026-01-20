@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 210226,
       "name": "Shaking the Blues Away (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/4r6xwq5p4Zv6qjJdmnvCZg"
@@ -6394,6 +6394,28 @@
       "duration_ms": 210520,
       "name": "Shaking the Blues Away (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/5UQB8BMAvG8kFhFY3znlxf"
+    },
+    {
+      "album": {
+        "name": "Love Me Or Leave Me",
+        "url": "https://open.spotify.com/album/6Xo15ds7aEWnmg8XThiRS1"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Shaking the Blues Away (with Percy Faith & His Orchestra)",
+      "url": "https://open.spotify.com/track/7faFutRbOTNG42HX0rRY74"
     },
     {
       "album": {

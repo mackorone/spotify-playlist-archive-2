@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,094 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,097 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 26 | [Say Something](https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:33 |
 | 27 | [On a Night Like This](https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:33 |
 | 28 | [Better the Devil You Know](https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI) | 3:53 |
-| 29 | [Chocolate](https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 5:00 |
-| 30 | [A Second to Midnight](https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:27 |
+| 29 | [A Second to Midnight](https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:27 |
+| 30 | [Chocolate](https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 5:00 |
 | 31 | [Chiggy Wiggy](https://open.spotify.com/track/4nt1pLbjBHtpHFarYXRHHN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Suzanne](https://open.spotify.com/artist/0uWl5BUPnXzE2RWQEprHyF), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Abbas Tyrewala](https://open.spotify.com/artist/5eaK14k9NKZ4L6M8ROLntF) | [Blue](https://open.spotify.com/album/45HaaeQWPzIHJDpvVdYXm8) | 5:10 |
 | 32 | [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
 | 33 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 49 | [What Do I Have to Do? \- Live From The Tension Tour](https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 2:51 |
 | 50 | [Hand on Your Heart](https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Enjoy Yourself](https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx) | 3:51 |
 
-Snapshot ID: `aWrRAAAAAAA2HGYTeHrUKt7VTuxgcOrg`
+Snapshot ID: `aWwigAAAAABe7D/QYLQQqj8AxDk/m+tY`

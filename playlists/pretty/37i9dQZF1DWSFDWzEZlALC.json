@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS, Karina Rose",
-  "num_followers": 462623,
+  "num_followers": 462634,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJiRs+MSBj1Zb0h7IDamfI3d3tXE",
+  "snapshot_id": "AAAAAO9r5+/FL+8ub30K/2+VIubSMy/d",
   "tracks": [
     {
       "added_at": "2026-01-15 23:00:38",
@@ -47,18 +47,34 @@
     {
       "added_at": "2026-01-15 23:00:38",
       "album": {
-        "name": "skinny jeans",
-        "url": "https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC"
+        "name": "Halb So Sch\u00f6n Wie Du",
+        "url": "https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS"
       },
       "artists": [
         {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
         }
       ],
-      "duration_ms": 142200,
-      "name": "skinny jeans",
-      "url": "https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U"
+      "duration_ms": 205647,
+      "name": "Halb So Sch\u00f6n Wie Du",
+      "url": "https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ"
+    },
+    {
+      "added_at": "2026-01-15 23:00:38",
+      "album": {
+        "name": "Atmen",
+        "url": "https://open.spotify.com/album/4kMMhDsEiHK040n0ezN6qi"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Atmen",
+      "url": "https://open.spotify.com/track/4dvvUH98XgjXSMuJYqQnDU"
     },
     {
       "added_at": "2026-01-15 23:00:38",
@@ -79,22 +95,6 @@
     {
       "added_at": "2026-01-15 23:00:38",
       "album": {
-        "name": "Halb So Sch\u00f6n Wie Du",
-        "url": "https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS"
-      },
-      "artists": [
-        {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "Halb So Sch\u00f6n Wie Du",
-      "url": "https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:38",
-      "album": {
         "name": "Dienstag",
         "url": "https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH"
       },
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-01-15 23:00:38",
       "album": {
+        "name": "skinny jeans",
+        "url": "https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "skinny jeans",
+      "url": "https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U"
+    },
+    {
+      "added_at": "2026-01-15 23:00:38",
+      "album": {
         "name": "people pleaser",
         "url": "https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 189110,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
-    },
-    {
-      "added_at": "2026-01-15 23:00:38",
-      "album": {
-        "name": "Atmen",
-        "url": "https://open.spotify.com/album/4kMMhDsEiHK040n0ezN6qi"
-      },
-      "artists": [
-        {
-          "name": "ALLESS.",
-          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Atmen",
-      "url": "https://open.spotify.com/track/4dvvUH98XgjXSMuJYqQnDU"
     },
     {
       "added_at": "2026-01-15 23:00:38",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-01-15 23:00:38",
       "album": {
-        "name": "DER KOPIERER",
-        "url": "https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 179467,
-      "name": "DER KOPIERER",
-      "url": "https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31"
-    },
-    {
-      "added_at": "2026-01-15 23:00:38",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/3Mg5toj2GeadBVAjvRbiOR"
       },
@@ -207,22 +191,6 @@
       "duration_ms": 155482,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5HmeC9Mv4IFmxeIX135sVE"
-    },
-    {
-      "added_at": "2026-01-15 23:00:38",
-      "album": {
-        "name": "halb mensch halb tv",
-        "url": "https://open.spotify.com/album/2D1CzrBdHpQY5tWbD1Wr3S"
-      },
-      "artists": [
-        {
-          "name": "Tiavo",
-          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
-        }
-      ],
-      "duration_ms": 147882,
-      "name": "halb mensch halb tv",
-      "url": "https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L"
     },
     {
       "added_at": "2026-01-15 23:00:38",
@@ -243,6 +211,38 @@
       "duration_ms": 177396,
       "name": "Wiener Tauben",
       "url": "https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn"
+    },
+    {
+      "added_at": "2026-01-15 23:00:38",
+      "album": {
+        "name": "DER KOPIERER",
+        "url": "https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "DER KOPIERER",
+      "url": "https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31"
+    },
+    {
+      "added_at": "2026-01-15 23:00:38",
+      "album": {
+        "name": "halb mensch halb tv",
+        "url": "https://open.spotify.com/album/2D1CzrBdHpQY5tWbD1Wr3S"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "duration_ms": 147882,
+      "name": "halb mensch halb tv",
+      "url": "https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L"
     },
     {
       "added_at": "2026-01-15 23:00:38",

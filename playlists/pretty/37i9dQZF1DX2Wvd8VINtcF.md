@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨waterbaby✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,939 likes - 211 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,278 likes - 211 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 2 | [Sexistential](https://open.spotify.com/track/4OLgQczN5Watwb6QI0tXeS) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 2:20 |
 | 3 | [Long Way Down](https://open.spotify.com/track/0Pj9URDzlYnU5tGRQuGwCm) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Long Way Down](https://open.spotify.com/album/32MExZHjMtIVKpZHl2SXAA) | 3:16 |
 | 4 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
-| 5 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 |
-| 6 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
+| 5 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
+| 6 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 |
 | 7 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
-| 8 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
-| 9 | [Sucker Punch](https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Sucker Punch](https://open.spotify.com/album/04JKtveNe9qWZ2f9sUaA8w) | 2:44 |
-| 10 | [Like I Don't Exist](https://open.spotify.com/track/2zWLZBOtZKpXXZ5PscpCRX) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Like I Don't Exist](https://open.spotify.com/album/1TQK5F5kxceeAPf9mhacAg) | 4:03 |
-| 11 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
-| 12 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 |
+| 8 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
+| 9 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
+| 10 | [Sucker Punch](https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Sucker Punch](https://open.spotify.com/album/04JKtveNe9qWZ2f9sUaA8w) | 2:44 |
+| 11 | [Like I Don't Exist](https://open.spotify.com/track/2zWLZBOtZKpXXZ5PscpCRX) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Like I Don't Exist](https://open.spotify.com/album/1TQK5F5kxceeAPf9mhacAg) | 4:03 |
+| 12 | [100](https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [100](https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr) | 3:54 |
 | 13 | [Sail \(Lady In Waiting\)](https://open.spotify.com/track/1fVFR0Ymn4ajC7i1jf1uSs) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Sail \(Lady In Waiting\)](https://open.spotify.com/album/7sMwMMpo80UNb1mU6E8kfK) | 2:35 |
-| 14 | [100](https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [100](https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr) | 3:54 |
-| 15 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
-| 16 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 |
-| 17 | [THE THING](https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [THE THING](https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI) | 5:38 |
+| 14 | [THE THING](https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [THE THING](https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI) | 5:38 |
+| 15 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 |
+| 16 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 |
+| 17 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
 | 18 | [peach](https://open.spotify.com/track/1lBi4AcyxeJyoe8Qhx4Hye) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/6ea02No4KgESvZYXEp1RVH) | 2:19 |
 | 19 | [First To Know](https://open.spotify.com/track/6QBWnljtxE8vJuthDS8vNH) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [First To Know](https://open.spotify.com/album/4ta7caZ5JfIn5x5tCkR1ce) | 2:48 |
 | 20 | [Verloren \- Son of Son Edit](https://open.spotify.com/track/6aD2Vy2VfaA5nVdompLclv) | [De Ambassade](https://open.spotify.com/artist/0GZYFERImx0KoJ1tpN1iuT), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Feel Something EP](https://open.spotify.com/album/5FI5pBtq6ndflSzmcFoqya) | 4:30 |
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 210 | [where I've been](https://open.spotify.com/track/52vZKMsSxSi2ubk4TOy8bK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [where I've been](https://open.spotify.com/album/001b5pgV7pD9pFjglUHxtd) | 3:00 |
 | 211 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 |
 
-Snapshot ID: `AAAAAPxb9Zwv/M3WNzJq/o+RpBH00952`
+Snapshot ID: `AAAAAEh7VX9ye63YkPINGlHMQ6wsLCY9`

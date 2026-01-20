@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Los Aptos.",
-  "num_followers": 167902,
+  "num_followers": 167899,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
         "name": "Destrucci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 200842,
       "name": "Destrucci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
         }
       ],
-      "duration_ms": 208351,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
       },
       "artists": [
         {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "added_at": "2026-01-16 05:00:45",

@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Manuel Turizo.",
-  "num_followers": 1176299,
+  "num_followers": 1176197,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
         "name": "Liberarme",
         "url": "https://open.spotify.com/album/0dJKk73j5rN2tu7hK8HRMu"
       },
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -1059,38 +1059,6 @@
       "duration_ms": 258154,
       "name": "Caf\u00e9 Con Canela",
       "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "Emocionado",
-        "url": "https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Emocionado",
-      "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1119,6 +1087,38 @@
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
         "name": "Ra\u00edces Muy Fuertes",
         "url": "https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq"
       },
@@ -1183,26 +1199,6 @@
       "duration_ms": 256937,
       "name": "Se parece mas a ti",
       "url": "https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "Bonito y Cruel",
-        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Bonito y Cruel",
-      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+        "name": "Bonito y Cruel",
+        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
         }
       ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+      "duration_ms": 220606,
+      "name": "Bonito y Cruel",
+      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1363,8 +1363,8 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Mundo de Cristal",
-        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
       },
       "artists": [
         {
@@ -1372,13 +1372,13 @@
           "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
         },
         {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mundo de Cristal",
-      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+      "duration_ms": 199293,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1443,46 +1447,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
-      },
-      "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "Sho-Hai",
-          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "Gondwana En Vivo En Buenos Aires",
         "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
@@ -1495,6 +1459,42 @@
       "duration_ms": 254705,
       "name": "Antonia",
       "url": "https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Loco Por Volverla a Ver",
-        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 272189,
-      "name": "Loco Por Volverla a Ver",
-      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
       },
@@ -1651,26 +1631,6 @@
       "duration_ms": 138750,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
-        "name": "Pericos & Friends (Extended)",
-        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mucha Experiencia - Su Reggaeton Mix",
-      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1695,6 +1655,26 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
+        "name": "Pericos & Friends (Extended)",
+        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mucha Experiencia - Su Reggaeton Mix",
+      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 248780,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Loco Por Volverla a Ver",
+        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 272189,
+      "name": "Loco Por Volverla a Ver",
+      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
     },
     {
       "added_at": "2026-01-15 15:55:45",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-01-15 15:55:45",
       "album": {
-        "name": "Baile de Miradas",
-        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
-      },
-      "artists": [
-        {
-          "name": "Los Afro Brothers",
-          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
-        }
-      ],
-      "duration_ms": 217717,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
-    },
-    {
-      "added_at": "2026-01-15 15:55:45",
-      "album": {
         "name": "Como Un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 227265,
       "name": "Como Un Volc\u00e1n",
       "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
+    },
+    {
+      "added_at": "2026-01-15 15:55:45",
+      "album": {
+        "name": "Baile de Miradas",
+        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
+      },
+      "artists": [
+        {
+          "name": "Los Afro Brothers",
+          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
+        }
+      ],
+      "duration_ms": 217717,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
     },
     {
       "added_at": "2026-01-15 15:55:45",

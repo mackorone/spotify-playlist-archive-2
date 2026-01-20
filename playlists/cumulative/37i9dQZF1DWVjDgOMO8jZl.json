@@ -2175,6 +2175,32 @@
     },
     {
       "album": {
+        "name": "MONEY (feat. Artie 5ive, Gu\u00e8)",
+        "url": "https://open.spotify.com/album/79UlYn63NrMs1CEvyN1zQS"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209193,
+      "name": "MONEY (feat. Artie 5ive, Gu\u00e8)",
+      "url": "https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO"
+    },
+    {
+      "album": {
         "name": "Montpellier",
         "url": "https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza"
       },

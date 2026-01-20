@@ -1177,6 +1177,32 @@
     },
     {
       "album": {
+        "name": "SPAM",
+        "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "DougBeats",
+          "url": "https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169924,
+      "name": "BRENDA",
+      "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
+    },
+    {
+      "album": {
         "name": "Brisad\u00e3o Na Dela",
         "url": "https://open.spotify.com/album/4J7L0qoNu50abjycZIB9DC"
       },
@@ -2714,7 +2740,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 164571,
       "name": "Eu Sei Que Ele Vem",
       "url": "https://open.spotify.com/track/1f0ybIQ6R7S6TtCF1KBgmg"
@@ -3572,7 +3598,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 225882,
       "name": "Jogo de Sedu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"

@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 125592,
+  "num_followers": 125619,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "AyMami",
-        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "AyMami",
-      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 184510,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "AyMami",
+        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "AyMami",
+      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Viviendo Del Futuro",
-        "url": "https://open.spotify.com/album/61QXrezlQ97RAus6JvzCSk"
-      },
-      "artists": [
-        {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "\u00bfDonde Est\u00e1n?",
-      "url": "https://open.spotify.com/track/4svFtvFAitlF833rgaDW22"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 176897,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Viviendo Del Futuro",
+        "url": "https://open.spotify.com/album/61QXrezlQ97RAus6JvzCSk"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "\u00bfDonde Est\u00e1n?",
+      "url": "https://open.spotify.com/track/4svFtvFAitlF833rgaDW22"
     },
     {
       "added_at": "2025-10-31 06:00:15",

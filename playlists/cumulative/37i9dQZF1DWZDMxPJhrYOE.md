@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-912 songs - 1 day 23 hr 19 min
+913 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,7 +735,7 @@
 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 | 2025-09-11 | 2025-12-12 |
 | [Spiderman \(feat\. USSEL\)](https://open.spotify.com/track/1ZUQoHxFpneJtz515ixKAH) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Til Hyggen og Til Livet](https://open.spotify.com/album/0jDfy9ZrYUXz9ZE5nVqUgO) | 2:42 | 2025-03-20 | 2025-03-28 |
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-04 | 2025-10-22 |
-| [Spilder Min Tid](https://open.spotify.com/track/0HozuDiWIVqUwp9L89rEAo) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Spilder Min Tid](https://open.spotify.com/album/6joD8zTxaySjsQ4HsWL4Y2) | 2:26 | 2025-12-04 |  |
+| [Spilder Min Tid](https://open.spotify.com/track/0HozuDiWIVqUwp9L89rEAo) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Spilder Min Tid](https://open.spotify.com/album/6joD8zTxaySjsQ4HsWL4Y2) | 2:26 | 2025-12-04 | 2026-01-20 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-04-01 |
 | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/track/6xVtp04jMDg8mFtqGBLUT9) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [Spotlight \(feat\. Berg & Klamfyr\)](https://open.spotify.com/album/2G7eb2SCHvx0AqhiaET7lY) | 3:26 | 2025-07-24 | 2025-09-20 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2024-10-03 | 2025-01-25 |
@@ -873,6 +873,7 @@
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-15 |  |
 | [Waterfalls](https://open.spotify.com/track/2iKyCCz8V7tvk7OtBF2bpy) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Waterfalls](https://open.spotify.com/album/0EyYnQXxYdgNYKxjgUbglf) | 2:39 | 2025-10-09 | 2025-10-24 |
 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 | 2025-07-11 | 2025-09-06 |
+| [WAY YOU SMILE](https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [TO MAKE PEOPLE HAPPY](https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq) | 3:22 | 2026-01-15 |  |
 | [We Are One](https://open.spotify.com/track/6gEqjxhH442KteWsCOIQRM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [We Are One](https://open.spotify.com/album/2flPRBI1wJUZ9dZJ3hEL3v) | 3:14 | 2025-09-04 | 2025-09-20 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-07-01 | 2024-08-01 |
 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-19 | 2025-09-20 |

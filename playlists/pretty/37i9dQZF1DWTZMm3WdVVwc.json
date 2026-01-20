@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27289,
+  "num_followers": 27300,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -297,38 +297,6 @@
       "url": "https://open.spotify.com/track/4NnxwvoD3dboEG0MdYBEbB"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
-        "url": "https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda"
-      },
-      "artists": [
-        {
-          "name": "Noriyuki Makihara",
-          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
-      "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "HOME",
@@ -345,20 +313,20 @@
       "url": "https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+        "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
+        "url": "https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Noriyuki Makihara",
+          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
         }
       ],
-      "duration_ms": 295600,
-      "name": "Wherever you are",
-      "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
+      "duration_ms": 230600,
+      "name": "\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
+      "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -379,6 +347,38 @@
       "duration_ms": 302906,
       "name": "\u305d\u3070\u306b\u3044\u308b\u306d",
       "url": "https://open.spotify.com/track/1Rvh5RimhF3ndpclBmIdeJ"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Wherever you are",
+      "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
-        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
-      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "\u5439\u304d\u96f6\u308c\u308b\u7a0b\u306eI\u3001\u54c0\u3001\u611b",
         "url": "https://open.spotify.com/album/52VpmFJsozdaIAepSTn1Sg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 250911,
       "name": "\u6182\u3001\u71e6\u3005",
       "url": "https://open.spotify.com/track/3yJBEaVWZ5HmUp8nGtHbWt"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "\u5e78\u305b\u306a\u7d50\u672b",
         "url": "https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf"
       },
@@ -621,20 +605,20 @@
       "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
+      "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "NO SIDE",
-        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 273661,
-      "name": "BLIZZARD",
-      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -653,20 +637,20 @@
       "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
+        "name": "NO SIDE",
+        "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
       },
       "artists": [
         {
-          "name": "Aooo",
-          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
         }
       ],
-      "duration_ms": 266954,
-      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
+      "duration_ms": 273661,
+      "name": "BLIZZARD",
+      "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -683,6 +667,22 @@
       "duration_ms": 255603,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
+      },
+      "artists": [
+        {
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+        }
+      ],
+      "duration_ms": 266954,
+      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "First Love (2022 Mix)",
-        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 261122,
-      "name": "First Love - 2022 Mix",
-      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
         "url": "https://open.spotify.com/album/2STaKfaWGXhw3Y9Om6HWGn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 269426,
       "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
       "url": "https://open.spotify.com/track/4wOgBRh7btZbfiERDDYweM"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "First Love (2022 Mix)",
+        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 261122,
+      "name": "First Love - 2022 Mix",
+      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "WINTER SONG",
-        "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
-      },
-      "artists": [
-        {
-          "name": "DREAMS COME TRUE",
-          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
-      "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Gen",
@@ -947,6 +931,22 @@
       "duration_ms": 361080,
       "name": "LOVER SOUL",
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "WINTER SONG",
+        "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
+      },
+      "artists": [
+        {
+          "name": "DREAMS COME TRUE",
+          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
+      "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
-        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
-      },
-      "artists": [
-        {
-          "name": "Shogo Hamada",
-          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
-        }
-      ],
-      "duration_ms": 311946,
-      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
-      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
@@ -1267,6 +1251,22 @@
       "duration_ms": 261865,
       "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
       "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
+        "url": "https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq"
+      },
+      "artists": [
+        {
+          "name": "Shogo Hamada",
+          "url": "https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy"
+        }
+      ],
+      "duration_ms": 311946,
+      "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
+      "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1299,22 +1299,6 @@
       "duration_ms": 264546,
       "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
       "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Happy X-mas (War Is Over)",
-        "url": "https://open.spotify.com/album/4eP51T6TYR1cOFYwZNc6XE"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Happy X-mas (War Is Over)",
-      "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1351,6 +1335,22 @@
       "duration_ms": 274733,
       "name": "Winterboy",
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Happy X-mas (War Is Over)",
+        "url": "https://open.spotify.com/album/4eP51T6TYR1cOFYwZNc6XE"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Happy X-mas (War Is Over)",
+      "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u51ac\u306e\u4e88\u611f",
-        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 201462,
-      "name": "\u51ac\u306e\u4e88\u611f",
-      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
@@ -1511,6 +1495,22 @@
       "duration_ms": 219426,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u51ac\u306e\u4e88\u611f",
+        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 201462,
+      "name": "\u51ac\u306e\u4e88\u611f",
+      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
     },
     {
       "added_at": "2025-12-05 00:27:18",
@@ -1545,20 +1545,20 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
-      "added_at": "2025-12-05 00:27:18",
+      "added_at": "2025-12-19 02:48:54",
       "album": {
-        "name": "Underneath the Lights",
-        "url": "https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5"
+        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU"
       },
       "artists": [
         {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
         }
       ],
-      "duration_ms": 236551,
-      "name": "Underneath the Lights",
-      "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
+      "duration_ms": 218622,
+      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1577,20 +1577,20 @@
       "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
     },
     {
-      "added_at": "2025-12-19 02:48:54",
+      "added_at": "2025-12-05 00:27:18",
       "album": {
-        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
-        "url": "https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU"
+        "name": "Underneath the Lights",
+        "url": "https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5"
       },
       "artists": [
         {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
         }
       ],
-      "duration_ms": 218622,
-      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
-      "url": "https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q"
+      "duration_ms": 236551,
+      "name": "Underneath the Lights",
+      "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
     },
     {
       "added_at": "2025-10-24 07:45:46",

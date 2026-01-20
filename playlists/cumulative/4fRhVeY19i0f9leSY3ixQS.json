@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(in)dependent",
+        "url": "https://open.spotify.com/album/315VPRQNwWtoN1ZI6HWzO2"
+      },
+      "artists": [
+        {
+          "name": "Lueur",
+          "url": "https://open.spotify.com/artist/00GCuU5IZe64y3r4taYrQO"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167090,
+      "name": "(in)dependent",
+      "url": "https://open.spotify.com/track/3lszlSSaiTs8L8eXP6DgqJ"
+    },
+    {
+      "album": {
         "name": "Dyads",
         "url": "https://open.spotify.com/album/3ZnsbkR1KQvQArM6RCBVCW"
       },
@@ -1735,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "But. All. Jokes. Aside. (I'm Not Having A Blast)",
+        "url": "https://open.spotify.com/album/08f5BV6OG5iwwivZmyd0Vn"
+      },
+      "artists": [
+        {
+          "name": "Bury Mia",
+          "url": "https://open.spotify.com/artist/0xBuqsZVUL6QguZDmKjMJT"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256812,
+      "name": "But. All. Jokes. Aside. (I'm Not Having A Blast)",
+      "url": "https://open.spotify.com/track/2RCuMKH2usKvfTppleDDvI"
+    },
+    {
+      "album": {
         "name": "Morw\u00ebna",
         "url": "https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm"
       },
@@ -1848,6 +1884,24 @@
       "duration_ms": 198453,
       "name": "Carbonic Acid",
       "url": "https://open.spotify.com/track/0MBnIaokH39NLwo8vtcClZ"
+    },
+    {
+      "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD"
     },
     {
       "album": {
@@ -2532,7 +2586,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 167637,
       "name": "Death Anxiety",
       "url": "https://open.spotify.com/track/67hQrK3Do41ih932B4zWSc"
@@ -2824,7 +2878,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 139249,
       "name": "Devil's Plaything",
       "url": "https://open.spotify.com/track/6O32obRKSm5MXsCdD6HRxr"
@@ -5205,6 +5259,24 @@
     },
     {
       "album": {
+        "name": "Unstoppable - EP",
+        "url": "https://open.spotify.com/album/7nAOtI6YJF7Uz2FylIgsoI"
+      },
+      "artists": [
+        {
+          "name": "Loaded Guns",
+          "url": "https://open.spotify.com/artist/4jnGl1yl8sDF5Sldug7p3M"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238219,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/0Ew2KMZRVLR6aV7sAdiaR3"
+    },
+    {
+      "album": {
         "name": "I'M DONE I'M GONE",
         "url": "https://open.spotify.com/album/2gc3YvOH91AxG34135hh8z"
       },
@@ -5609,6 +5681,24 @@
     },
     {
       "album": {
+        "name": "Itching Through the Permafrost",
+        "url": "https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY"
+      },
+      "artists": [
+        {
+          "name": "South August",
+          "url": "https://open.spotify.com/artist/0xIi0tD6QNXv9Oq0lEw2Bl"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/1vAACesNNPk8WAv26SmVUf"
+    },
+    {
+      "album": {
         "name": "Random Acts of Cynicism",
         "url": "https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF"
       },
@@ -5800,7 +5890,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 162000,
       "name": "Just Wondering",
       "url": "https://open.spotify.com/track/0zRT9Lx8R0jmJKqLK5xKIy"
@@ -7391,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "Nightcode",
+        "url": "https://open.spotify.com/album/6pZrBXilaoscwsW3EMVVPW"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Nightcode",
+      "url": "https://open.spotify.com/track/2Bylb0sKZWB2UcjKB2QKHL"
+    },
+    {
+      "album": {
         "name": "Nine Circles Deep",
         "url": "https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq"
       },
@@ -8416,6 +8524,24 @@
       "duration_ms": 163350,
       "name": "PTSD Radio",
       "url": "https://open.spotify.com/track/2lJOJKrfxBKt0bvxuHBFLd"
+    },
+    {
+      "album": {
+        "name": "Pulaski",
+        "url": "https://open.spotify.com/album/3Hjvx0llaqSstlmgpMLwZC"
+      },
+      "artists": [
+        {
+          "name": "Autopsy Night",
+          "url": "https://open.spotify.com/artist/42ujI6E2xSDHO3NdQ66s6a"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205411,
+      "name": "Pulaski",
+      "url": "https://open.spotify.com/track/7FQaCR1Frd8ovKIKq1IJtX"
     },
     {
       "album": {
@@ -10769,6 +10895,24 @@
     },
     {
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/2PkrTomVNWeRryDy7eLa9w"
+      },
+      "artists": [
+        {
+          "name": "Overpower",
+          "url": "https://open.spotify.com/artist/1JXEWwmUx8cvcUfRCV6i0W"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Terra Firma",
+      "url": "https://open.spotify.com/track/0msuAwC5xHYfjlJsHLPSD2"
+    },
+    {
+      "album": {
         "name": "This Is What We Call Home",
         "url": "https://open.spotify.com/album/1qXyGvQqzMK8aQcrN72oT3"
       },
@@ -11743,6 +11887,24 @@
     },
     {
       "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/6WMbMHvvLjLFvRMxM6KxSn"
+      },
+      "artists": [
+        {
+          "name": "REFORMIST",
+          "url": "https://open.spotify.com/artist/6xFMODZuwYPuLeILtpuOqI"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267531,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1tvo8JlXBQh7cD6Nf96lmV"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/3F5Oy8DHLFQxqnfvwkOnS7"
       },
@@ -12311,6 +12473,24 @@
     },
     {
       "album": {
+        "name": "With My Dogs",
+        "url": "https://open.spotify.com/album/01g0drUahL3YBX80LuglY3"
+      },
+      "artists": [
+        {
+          "name": "MOOSE KNUCKLE",
+          "url": "https://open.spotify.com/artist/7ry1VY96gyfyMSKEFHcB2n"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188711,
+      "name": "With My Dogs",
+      "url": "https://open.spotify.com/track/7v50sJLJ6iddU2oN4Zgkch"
+    },
+    {
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV"
       },
@@ -12506,6 +12686,24 @@
       "duration_ms": 192402,
       "name": "You And Me Song",
       "url": "https://open.spotify.com/track/4jT7uxzmA7TmT99TOdgg0J"
+    },
+    {
+      "album": {
+        "name": "Brst 62",
+        "url": "https://open.spotify.com/album/0CNmgv2VnSC3R3BisvIENj"
+      },
+      "artists": [
+        {
+          "name": "Bed Riders",
+          "url": "https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184242,
+      "name": "You Are Freak",
+      "url": "https://open.spotify.com/track/0VTgOZ03OJ0fN8LKQ513I1"
     },
     {
       "album": {

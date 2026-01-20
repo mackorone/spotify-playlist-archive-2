@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Transfer",
+        "url": "https://open.spotify.com/album/4nIxSsKwtI6vKzIy4M18MY"
+      },
+      "artists": [
+        {
+          "name": "Surface Access",
+          "url": "https://open.spotify.com/artist/5Ev2mHd9pK6LXAg1rDqjOG"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459000,
+      "name": "Exposition Zero",
+      "url": "https://open.spotify.com/track/5vn885OXc2gvVrJF8r40RD"
+    },
+    {
+      "album": {
         "name": "Fade To Black EP",
         "url": "https://open.spotify.com/album/1CuBDDWPdzNolcPtYGAT8N"
       },
@@ -5182,6 +5200,24 @@
       "duration_ms": 362125,
       "name": "Pulse XIV",
       "url": "https://open.spotify.com/track/5un1LT8gEj9YiFo0SS3hLv"
+    },
+    {
+      "album": {
+        "name": "NEOCLASH",
+        "url": "https://open.spotify.com/album/3AxYDQIJAioVgNDXBF36GG"
+      },
+      "artists": [
+        {
+          "name": "DJ Hell",
+          "url": "https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563383,
+      "name": "Purple People",
+      "url": "https://open.spotify.com/track/6L4Xniw1SnUqdn13AJNw4i"
     },
     {
       "album": {

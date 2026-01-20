@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Laci Kaye Booth
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,488 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,485 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |
 | 27 | [You Can't Take My Song](https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [You Can't Take My Song](https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA) | 2:59 |
 | 28 | [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 |
-| 29 | [Good Ol' Days](https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:23 |
-| 30 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
-| 31 | [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 |
+| 29 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
+| 30 | [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 |
+| 31 | [Good Ol' Days](https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:23 |
 | 32 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
 | 33 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 |
-| 34 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 |
-| 35 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
+| 34 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
+| 35 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 |
 | 36 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
 | 37 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
 | 38 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
 | 39 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |
 | 40 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 |
-| 41 | [Misery Loves Company](https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:16 |
-| 42 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
+| 41 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
+| 42 | [Misery Loves Company](https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:16 |
 | 43 | [to each their dot](https://open.spotify.com/track/11eKa0oyt1z0UxKCHm7X5k) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [to each their dot & This Morning I Am Born Again](https://open.spotify.com/album/6rK6Jcl92woyPMyECfN24L) | 3:06 |
 | 44 | [Break Up With Me](https://open.spotify.com/track/0ualOeipm7OUuUDHe7UUUC) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Break Up With Me](https://open.spotify.com/album/3c31zFKjajk8rpg9No0iuW) | 2:39 |
 | 45 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |

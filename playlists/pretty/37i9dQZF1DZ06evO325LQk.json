@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37930,
+  "num_followers": 37928,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAANTv2jlyMa/M9m35AWzHJb",
+  "snapshot_id": "aWwigAAAAABEXXoCwEzHudO3Aq5k/yIe",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
+      "duration_ms": 117010,
+      "name": "Gallop (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 117010,
-      "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Eliza Maturan",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: LEYO",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 241500,
       "name": "A Series of Unfortunate Events",
       "url": "https://open.spotify.com/track/2HNjm4tIEuvBenfsqlfXVG"
@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "The Bloomfields",
+        "url": "https://open.spotify.com/album/17675v1WFduEKG9WV1iolH"
+      },
+      "artists": [
+        {
+          "name": "The Bloomfields",
+          "url": "https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Ale",
+      "url": "https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd"
+    },
+    {
+      "album": {
         "name": "BANDROOM SESSIONS EPISODE 1",
         "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 177500,
       "name": "Alphamart",
       "url": "https://open.spotify.com/track/31lMscTTCcX8AJF6uLYxUy"
@@ -662,10 +680,46 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 236253,
       "name": "Ang Ilaw Mo",
       "url": "https://open.spotify.com/track/41nU0pp66IAP19b7dwLQ7V"
+    },
+    {
+      "album": {
+        "name": "Ang Pag-Ibig Kong Ito",
+        "url": "https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Ang Pag-Ibig Kong Ito",
+      "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
+    },
+    {
+      "album": {
+        "name": "Troubadour Tales Chapter 1",
+        "url": "https://open.spotify.com/album/5OrVhuBBYtfbLZUGctzvme"
+      },
+      "artists": [
+        {
+          "name": "Johnoy Danao",
+          "url": "https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Ang Panata",
+      "url": "https://open.spotify.com/track/17TmaYfxGQWg6VPZCk9s5x"
     },
     {
       "album": {
@@ -979,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Ayaw Mo Na",
+        "url": "https://open.spotify.com/album/4LbpIb8PsbtsYjZgvE03tg"
+      },
+      "artists": [
+        {
+          "name": "Mark Carpio",
+          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ayaw Mo Na",
+      "url": "https://open.spotify.com/track/1hZsKR2qyml8tb9qF1ZGyw"
+    },
+    {
+      "album": {
         "name": "Ayoko Magmadali",
         "url": "https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW"
       },
@@ -1120,7 +1192,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 288705,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/5qXeovL9nd59JoVcnhbf1L"
@@ -4458,7 +4530,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 234511,
       "name": "IKAW LAGI",
       "url": "https://open.spotify.com/track/3USJfZzJ3TwIQyXqbkFOmd"
@@ -4600,6 +4672,24 @@
       "duration_ms": 193000,
       "name": "Ina",
       "url": "https://open.spotify.com/track/6ul1GTDdV3hEyCg4NBFP3X"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5cfsic3zailYtWo7J7xfKP"
+      },
+      "artists": [
+        {
+          "name": "Harana Sessions",
+          "url": "https://open.spotify.com/artist/2WxvqNkysK74Z4HCXsvtMb"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253695,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/09JLlQH8ZeqalIPmjP3BcX"
     },
     {
       "album": {
@@ -5455,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "kung para sa 'yo",
+        "url": "https://open.spotify.com/album/1wHubkZiZKfoBqKEgB3nOM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Raphael",
+          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279248,
+      "name": "kung para sa 'yo",
+      "url": "https://open.spotify.com/track/78n4nnldHAH1GawfHlvy2m"
+    },
+    {
+      "album": {
         "name": "Kuntento",
         "url": "https://open.spotify.com/album/3LMSihxIrTWjjhrS4yv9bR"
       },
@@ -5520,7 +5628,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 212125,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3"
@@ -5682,7 +5790,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 228684,
       "name": "Laro",
       "url": "https://open.spotify.com/track/06pA8vxowvqlRCe2hteMsB"
@@ -6210,6 +6318,28 @@
       "duration_ms": 205623,
       "name": "Lumulutang Nahuhulog",
       "url": "https://open.spotify.com/track/0ckRcwREiS7up4mSiGxug1"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        },
+        {
+          "name": "Sol",
+          "url": "https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241684,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY"
     },
     {
       "album": {
@@ -7226,6 +7356,24 @@
       "duration_ms": 222469,
       "name": "Nabighani",
       "url": "https://open.spotify.com/track/1eCbOWZgBUy2TTGP4PyNLB"
+    },
+    {
+      "album": {
+        "name": "Nagpalinlang",
+        "url": "https://open.spotify.com/album/79LWQ1kyyvKeHRqZgd4pxd"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Aziz",
+          "url": "https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Nagpalinlang",
+      "url": "https://open.spotify.com/track/4lUKOt3hFKC2xBT7UCNrB8"
     },
     {
       "album": {
@@ -10579,6 +10727,24 @@
     },
     {
       "album": {
+        "name": "Sikulo (2)",
+        "url": "https://open.spotify.com/album/1p1thBUamaQckelciIk9vD"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264512,
+      "name": "Sikulo (2)",
+      "url": "https://open.spotify.com/track/2rxQZN0LewHscJf1gSwSue"
+    },
+    {
+      "album": {
         "name": "Silent Cries",
         "url": "https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU"
       },
@@ -10724,6 +10890,24 @@
       "duration_ms": 220714,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/2t956sQxFUWupGyN4hvKu6"
+    },
+    {
+      "album": {
+        "name": "so right",
+        "url": "https://open.spotify.com/album/2PIJJpQa1suxXmEFhHpQ9W"
+      },
+      "artists": [
+        {
+          "name": "Mark Andre",
+          "url": "https://open.spotify.com/artist/0RNyEwdrFJsyXzfCcVOYAZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215249,
+      "name": "so right",
+      "url": "https://open.spotify.com/track/56rGGuag0aKuLAw7aj7VXW"
     },
     {
       "album": {
@@ -11270,7 +11454,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 213250,
       "name": "Talulot",
       "url": "https://open.spotify.com/track/1ZsLM9dWw9EsBRTpkTa9Op"
@@ -12326,7 +12510,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 154399,
       "name": "Wag Ka Munang Umuwi",
       "url": "https://open.spotify.com/track/4fod6UOecSaa15XKHSJjtI"

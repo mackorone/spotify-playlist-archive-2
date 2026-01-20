@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 280425,
+  "num_followers": 280383,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+      "duration_ms": 204172,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U"
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 204172,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z"
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Recalentado navide\u00f1o",
-        "url": "https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 206814,
-      "name": "Ven a cantar - Pau Laggies Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "triste navidad",
         "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 195882,
       "name": "triste navidad",
       "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Recalentado navide\u00f1o",
+        "url": "https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 206814,
+      "name": "Ven a cantar - Pau Laggies Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK"
     },
     {
       "added_at": "2025-12-12 05:00:40",

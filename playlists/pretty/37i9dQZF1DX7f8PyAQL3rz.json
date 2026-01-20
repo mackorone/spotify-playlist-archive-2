@@ -1,6 +1,6 @@
 {
   "description": "desce baby, o tz fez pra \ud83e\udef5\ud83c\udffe",
-  "num_followers": 1414316,
+  "num_followers": 1414237,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "Rap da Lealdade",
+        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Rap da Lealdade",
+      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "QUASE QUE FALEI TE AMO",
         "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 107906,
       "name": "Belieber",
       "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Rap da Lealdade",
-        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Rap da Lealdade",
-      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -835,6 +835,34 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "A Favela N\u00e3o Venceu",
+        "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "Neguin Desaforado",
+      "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "Flexiona / Poder da Gest\u00e3o",
         "url": "https://open.spotify.com/album/3W0FANh8OHZbvqn4OynCIh"
       },
@@ -875,34 +903,6 @@
       "duration_ms": 162461,
       "name": "Flexiona",
       "url": "https://open.spotify.com/track/65Ww9xVjO9Dww9RUxqHgKQ"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "A Favela N\u00e3o Venceu",
-        "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "Neguin Desaforado",
-      "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
     },
     {
       "added_at": "2026-01-16 03:01:04",

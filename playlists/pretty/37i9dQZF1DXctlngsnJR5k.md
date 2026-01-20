@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 
 > Los mejores éxitos de hoy en Ecuador\. Foto: El Bogueto
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,338 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,348 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

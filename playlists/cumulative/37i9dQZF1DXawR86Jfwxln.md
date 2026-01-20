@@ -2,7 +2,7 @@
 
 ### [Roots Rising Presents: Best Folk & Americana Songs of 2025](https://open.spotify.com/playlist/37i9dQZF1DXawR86Jfwxln)
 
-> Our editors' picks for the best Folk & Americana songs this year\. Cover: Jesse Welles
+> Our editors' picks for the best Folk & Americana songs this year\. Cover: Tyler Childers
 
 476 songs - 1 day 5 hr 41 min
 

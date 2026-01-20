@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 260780,
+  "num_followers": 260802,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-09-12 18:56:37",
       "album": {
+        "name": "Primera Fila Flans",
+        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
+      },
+      "artists": [
+        {
+          "name": "Ilse, Ivonne y Mimi",
+          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
+      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
+    },
+    {
+      "added_at": "2025-09-12 18:56:37",
+      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 241680,
       "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
-    },
-    {
-      "added_at": "2025-09-12 18:56:37",
-      "album": {
-        "name": "Primera Fila Flans",
-        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
-      },
-      "artists": [
-        {
-          "name": "Ilse, Ivonne y Mimi",
-          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
-      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
     },
     {
       "added_at": "2025-09-12 18:56:37",

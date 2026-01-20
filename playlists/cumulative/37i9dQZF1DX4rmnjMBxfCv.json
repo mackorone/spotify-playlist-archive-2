@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 487804,
       "name": "Amathole",
       "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
@@ -2864,6 +2864,28 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "album": {
+        "name": "Jealousy - Egyptian Remix",
+        "url": "https://open.spotify.com/album/2e8sVYNAhMRPgeF8qnxAAw"
+      },
+      "artists": [
+        {
+          "name": "Jaadu",
+          "url": "https://open.spotify.com/artist/0l04okbBD1BcUIPFj4s2D0"
+        },
+        {
+          "name": "Moamen Moaa",
+          "url": "https://open.spotify.com/artist/0fQpYRivAHwDvpQDE1Cs7O"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236068,
+      "name": "Jealousy - Egyptian Remix",
+      "url": "https://open.spotify.com/track/5BlT97LlWcwnJr6SAD6xhm"
     },
     {
       "album": {

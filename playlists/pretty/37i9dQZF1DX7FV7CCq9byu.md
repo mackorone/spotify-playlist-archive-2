@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,777 likes - 178 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,772 likes - 178 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,28 +13,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 3 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 4 | [inte tillsammans \(find you\) \- isby sessions](https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [isby sessions](https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx) | 2:42 |
 | 5 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
-| 6 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
+| 6 | [Sy dig på mig](https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sy dig på mig](https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA) | 3:42 |
 | 7 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
 | 8 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |
-| 9 | [Sy dig på mig](https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sy dig på mig](https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA) | 3:42 |
+| 9 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
 | 10 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
-| 11 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
-| 12 | [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 |
-| 13 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
-| 14 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 |
-| 15 | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/track/32NTHTbLx4HDwMHyixu8jd) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Äldsta Barnet \(Deluxe\)](https://open.spotify.com/album/67CKq9Y8yeFXZ0yWQGj7Ga) | 2:41 |
-| 16 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
-| 17 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
+| 11 | [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 |
+| 12 | [Time Machine](https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Time Machine](https://open.spotify.com/album/1kCx0AeVglLalUMl16ad97) | 2:53 |
+| 13 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
+| 14 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
+| 15 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
+| 16 | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/track/32NTHTbLx4HDwMHyixu8jd) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Äldsta Barnet \(Deluxe\)](https://open.spotify.com/album/67CKq9Y8yeFXZ0yWQGj7Ga) | 2:41 |
+| 17 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 |
 | 18 | [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 |
-| 19 | [MOLN](https://open.spotify.com/track/0jULDsvU18cKLMZyeLj8N7) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [MOLN](https://open.spotify.com/album/10gmypflQGCCLKLs1rYewj) | 2:16 |
-| 20 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
-| 21 | [Katedral Syndrom](https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Katedral Syndrom](https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD) | 3:19 |
-| 22 | [HARD](https://open.spotify.com/track/3gqn3c9X4EIl0A3OLrbJ41) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HARD](https://open.spotify.com/album/3kkhYZGL2alAIfIvTlA2j4) | 2:19 |
-| 23 | [Time Machine](https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Time Machine](https://open.spotify.com/album/1kCx0AeVglLalUMl16ad97) | 2:53 |
-| 24 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
-| 25 | [Catch & Release](https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Catch & Release](https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg) | 2:57 |
-| 26 | [Ska vi slå vad?](https://open.spotify.com/track/1zQA104diCSa571nejByao) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Ska vi slå vad?](https://open.spotify.com/album/2RCrqfXhOzWWl8raskK1m9) | 3:00 |
-| 27 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 |
+| 19 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
+| 20 | [MOLN](https://open.spotify.com/track/0jULDsvU18cKLMZyeLj8N7) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [MOLN](https://open.spotify.com/album/10gmypflQGCCLKLs1rYewj) | 2:16 |
+| 21 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
+| 22 | [Ska vi slå vad?](https://open.spotify.com/track/1zQA104diCSa571nejByao) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Ska vi slå vad?](https://open.spotify.com/album/2RCrqfXhOzWWl8raskK1m9) | 3:00 |
+| 23 | [HARD](https://open.spotify.com/track/3gqn3c9X4EIl0A3OLrbJ41) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HARD](https://open.spotify.com/album/3kkhYZGL2alAIfIvTlA2j4) | 2:19 |
+| 24 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 |
+| 25 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 26 | [Catch & Release](https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Catch & Release](https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg) | 2:57 |
+| 27 | [Katedral Syndrom](https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Katedral Syndrom](https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD) | 3:19 |
 | 28 | [Stuck In November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
 | 29 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 30 | [Famous](https://open.spotify.com/track/2fSEylOfMOFn36OD83rZEK) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Heals Me](https://open.spotify.com/album/1ZM65kDMxSngciroWInJMh) | 3:23 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 177 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 |
 | 178 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 |
 
-Snapshot ID: `AAAAAGJLEp4rXHu1HDUvvVC6HvZHEGUf`
+Snapshot ID: `AAAAAMJAdpb86A5OTk2m7Kix2sggWOlb`

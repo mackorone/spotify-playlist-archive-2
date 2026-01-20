@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,294 likes - 49 songs - 3 hr 5 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,295 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 47 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 |
 | 48 | [Life Your Way](https://open.spotify.com/track/5Pw8oPIkppU49EQbeiucod) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [Life Your Way](https://open.spotify.com/album/0cVUXU3L0dMwDwNnsSUUU7) | 3:20 |
 | 49 | [Już](https://open.spotify.com/track/7sqz4ZUtia39yBHwhKSUCK) | [Lina Pozar](https://open.spotify.com/artist/5KRKDDVgrT0djvP9Fu9tqT) | [Już](https://open.spotify.com/album/73fjgrSMpL4uvl6CtvLmwi) | 1:57 |
+| 50 | [A Blast From The Past](https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.1](https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY) | 3:17 |
 
-Snapshot ID: `AAAj0favh3EpFDDVdoxJ33PdDCaxGOGT`
+Snapshot ID: `AAAj0lH98tleesks4bWxBE4AKBaHu2Pe`

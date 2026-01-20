@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 119946,
+  "num_followers": 120007,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "MY WOMAN",
+        "url": "https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Shut Up Kiss Me",
+      "url": "https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
@@ -1615,34 +1631,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
     }
   ],
   "unique_name": "Best of Indie 2016",

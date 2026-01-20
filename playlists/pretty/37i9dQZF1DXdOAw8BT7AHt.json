@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Sn\u00f5\u00f5per",
-  "num_followers": 471626,
+  "num_followers": 471620,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Afraid To Die",
         "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 182216,
       "name": "Afraid To Die",
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
-      "added_at": "2025-10-03 13:40:04",
-      "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
-      },
-      "artists": [
-        {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
-        }
-      ],
-      "duration_ms": 148663,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
-    },
-    {
       "added_at": "2025-09-11 23:00:08",
       "album": {
         "name": "Keep Planting Flowers",
@@ -879,6 +863,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2025-10-03 13:40:04",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 148663,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+      },
+      "artists": [
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "SCREWDRIVA",
+      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
-      },
-      "artists": [
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "HARDSTYLE",
-      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Wrong Side of Heaven",
-        "url": "https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2"
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
       },
       "artists": [
         {
-          "name": "End It",
-          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
         }
       ],
-      "duration_ms": 95789,
-      "name": "Billion Dollar Question",
-      "url": "https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6"
+      "duration_ms": 208866,
+      "name": "HARDSTYLE",
+      "url": "https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+        "name": "Wrong Side of Heaven",
+        "url": "https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2"
       },
       "artists": [
         {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
         }
       ],
-      "duration_ms": 182666,
-      "name": "SCREWDRIVA",
-      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
+      "duration_ms": 95789,
+      "name": "Billion Dollar Question",
+      "url": "https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Tomorrow We Escape",
-        "url": "https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R"
-      },
-      "artists": [
-        {
-          "name": "Ho99o9",
-          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
-        }
-      ],
-      "duration_ms": 131079,
-      "name": "Target Practice",
-      "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Hypocrite",
         "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 108650,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Tomorrow We Escape",
+        "url": "https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        }
+      ],
+      "duration_ms": 131079,
+      "name": "Target Practice",
+      "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"
     }
   ],
   "unique_name": "Today's Punk",

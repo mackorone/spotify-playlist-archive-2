@@ -4,7 +4,7 @@
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-109 songs - 8 hr 12 min
+110 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Silver](https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 6:33 | 2022-01-15 |  |
 | [Sleepy Seven](https://open.spotify.com/track/7uwz2iMeMq19rM75zZLW0B) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:22 | 2022-01-15 | 2022-10-13 |
 | [Something for Windy](https://open.spotify.com/track/48ppHBSOoD5Iz1gV3pjfOC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 1:11 | 2022-09-09 | 2025-03-21 |
+| [Something In The Air \- Bonobo Remix](https://open.spotify.com/track/0Mjmk68bSDCuE9bNM0G0DO) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Don't Put Me In Your Box EP \(The Remixes\)](https://open.spotify.com/album/6aN5uLsZDjyO3LF5hPraN2) | 6:06 | 2026-01-20 |  |
 | [Stay The Same](https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:44 | 2022-01-15 |  |
 | [Stay The Same \- Radio Edit](https://open.spotify.com/track/1a2utV5yxcl9UQrZnYC5DJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Stay The Same](https://open.spotify.com/album/3kh6B7Mxp9Od8QWDLsq8Ap) | 3:30 | 2023-03-06 | 2025-03-08 |
 | [Sugar Rhyme](https://open.spotify.com/track/3exminmsbdqZKm1mdFrLOp) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:47 | 2025-11-09 |  |
@@ -111,7 +112,7 @@
 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 | 2022-01-15 |  |
 | [The Keeper](https://open.spotify.com/track/5hmf3hRQMaDIWuZT1zX3ue) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:48 | 2022-04-10 |  |
 | [The Plug](https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:18 | 2022-01-15 |  |
-| [The Shark](https://open.spotify.com/track/0GgHrDkSornl31hRNgBpCq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [One Offs \(Remixes & B Sides\)](https://open.spotify.com/album/5O1rjyyCotasRfDbYx4xhL) | 4:56 | 2024-06-06 |  |
+| [The Shark](https://open.spotify.com/track/0GgHrDkSornl31hRNgBpCq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [One Offs \(Remixes & B Sides\)](https://open.spotify.com/album/5O1rjyyCotasRfDbYx4xhL) | 4:56 | 2024-06-06 | 2026-01-20 |
 | [Tides](https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:46 | 2022-08-13 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-01-15 | 2022-08-10 |
 | [Towers](https://open.spotify.com/track/7iE9oBkH73M1K74gyjjx7c) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:36 | 2024-02-06 | 2024-03-16 |

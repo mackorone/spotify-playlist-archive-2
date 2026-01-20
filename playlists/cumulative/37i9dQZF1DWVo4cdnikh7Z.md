@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Parasakthi
 
-2,212 songs - 5 day 13 hr 34 min
+2,213 songs - 5 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,6 +788,7 @@
 | [Kakkan Endra Mamanidhan \(From "Kakkan"\)](https://open.spotify.com/track/5OSbUNw663t1hGVMF1cYbt) | [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Kakkan Endra Mamanidhan \(From "Kakkan"\)](https://open.spotify.com/album/3OCSmlmZLMSLU9AEOIRjmO) | 4:20 | 2023-07-26 | 2023-08-03 |
 | [Kalaaba \(From "WAR 2"\) \- Tamil Version](https://open.spotify.com/track/3FqidVJr8mjIZqeV4I4dr2) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Kalaaba \(From "WAR 2"\) \- Tamil Version](https://open.spotify.com/album/3fcZMcM2EQAQQNRFsLwBhx) | 3:35 | 2025-08-14 | 2025-10-24 |
 | [Kalaattaakaaran \(From "King of Kotha \(Tamil\)"\)](https://open.spotify.com/track/32utgUIiT8GbtwsUTqUzFy) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Haritha Balakrishnan](https://open.spotify.com/artist/7raoZtXGaOtVbltcbcNEgU) | [Kalaattaakaaran \[From "King of Kotha \(Tamil\)"\]](https://open.spotify.com/album/6rp9To9DojnZYPVk33Sd4T) | 4:11 | 2023-07-28 | 2023-12-24 |
+| [Kalakalappa \(From "Thalaivar Thambi Thalaimaiyil"\)](https://open.spotify.com/track/5FHITVyMyMY6moQysUiBUU) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Kalakalappa \(From "Thalaivar Thambi Thalaimaiyil"\)](https://open.spotify.com/album/0K2R5lDzL0rHcfiFovF0i3) | 3:34 | 2026-01-19 |  |
 | [Kalavaani Pasanga](https://open.spotify.com/track/2Yq3NFbDvp7TZKUPXkxH9r) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Kalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G91uQmyzwXGJ7555VJtct) | 3:43 | 2024-03-26 | 2024-06-01 |
 | [Kalavadum Kalvane](https://open.spotify.com/track/2V6tGaQE9E2Zazaw4hVMXl) | [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kaalangalil Aval Vasantham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29foXrcPoTRSXisAxLUBKz) | 3:14 | 2022-10-17 | 2022-11-03 |
 | [Kalavi Paadal \(From "Devil"\)](https://open.spotify.com/track/15qKvMi51eQD6BheCnf3hr) | [Mysskin](https://open.spotify.com/artist/0KZtQr4Jlhym13H0AHOCmB), [Devu Treesa Mathew](https://open.spotify.com/artist/2KHdX9l7Y1lzaoSydLo83m) | [Kalavi Paadal \(From "Devil"\)](https://open.spotify.com/album/2nrdOvdQrKn1I7zmRo2jxV) | 5:09 | 2023-06-29 | 2023-07-21 |

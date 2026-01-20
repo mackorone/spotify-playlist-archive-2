@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Gathering Of Gods",
+        "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128914,
+      "name": "Gathering Of Gods",
+      "url": "https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA"
+    },
+    {
+      "album": {
         "name": "Generavers",
         "url": "https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 137333,
       "name": "Internet Hooligan",
       "url": "https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH"
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 298666,
       "name": "Lead By Example (Official Dominator 2025 Anthem)",
       "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 180694,
       "name": "Path Of The Wisemen",
       "url": "https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h"
@@ -7599,6 +7617,28 @@
     },
     {
       "album": {
+        "name": "Trip to Old England",
+        "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Captain Core",
+          "url": "https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Trip to Old England",
+      "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
+    },
+    {
+      "album": {
         "name": "Trip to Portugal",
         "url": "https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY"
       },
@@ -7758,6 +7798,32 @@
       "duration_ms": 202800,
       "name": "Uit M'n Naad!",
       "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
+    },
+    {
+      "album": {
+        "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
+        "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        },
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
+      "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
     },
     {
       "album": {

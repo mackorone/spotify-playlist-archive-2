@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 161220,
+  "num_followers": 161282,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
         "name": "2 Veces",
         "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 189066,
       "name": "2 Veces",
       "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Bendecida",
-        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "Bendecida",
-      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "En Este Amor",
-        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "En Este Amor",
-      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 181693,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Los Chismes",
-        "url": "https://open.spotify.com/album/5474RKvrAG8YQjN4B98ul4"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 184988,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "10 PM (Popular)",
         "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213180,
       "name": "10 PM - Popular",
       "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Los Chismes",
+        "url": "https://open.spotify.com/album/5474RKvrAG8YQjN4B98ul4"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 184988,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Desarmada - Spotify Singles",
-        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Desarmada - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Me Pase de Tragos",
         "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 178800,
       "name": "Me Pase de Tragos",
       "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+        "name": "Adicta al Dolor",
+        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
       },
       "artists": [
         {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+          "name": "Marbelle",
+          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
         }
       ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+      "duration_ms": 173670,
+      "name": "Adicta al Dolor",
+      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Adicta al Dolor",
-        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
       },
       "artists": [
         {
-          "name": "Marbelle",
-          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
         }
       ],
-      "duration_ms": 173670,
-      "name": "Adicta al Dolor",
-      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
     },
     {
       "added_at": "2025-12-05 04:59:34",

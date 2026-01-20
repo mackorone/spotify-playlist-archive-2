@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,178 likes - 164 songs - 9 hr 31 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,182 likes - 168 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,5 +172,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 162 | [Main Hi Gunehgaar](https://open.spotify.com/track/0ttt1lFFT3kofohNousB5a) | [Yash Singh](https://open.spotify.com/artist/4ZWtaGozXetsojQDui1a9R) | [Main Hi Gunehgaar](https://open.spotify.com/album/7uqFf7WbbXPNi7kxqSpGTc) | 5:39 |
 | 163 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 |
 | 164 | [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Paiton Brooke](https://open.spotify.com/artist/60i0J12QjuqPG8EI4kqW4z) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 |
+| 165 | [Ithaca](https://open.spotify.com/track/1vAACesNNPk8WAv26SmVUf) | [South August](https://open.spotify.com/artist/0xIi0tD6QNXv9Oq0lEw2Bl) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 3:07 |
+| 166 | [Atardece](https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Atardece / Beben Sangre](https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq) | 4:05 |
+| 167 | [Three woman in jail](https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh) | [Aton O'Cat](https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm), [Goran Vedriš](https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd) | [Three woman in jail](https://open.spotify.com/album/35tCEptF8FdvmYdza8vIWx) | 2:55 |
+| 168 | [Les livres de Marion](https://open.spotify.com/track/5Bjf4hqznBHRPJDAFMhddF) | [Jagas](https://open.spotify.com/artist/4nAbDrow4N3vQoqUrSrCIk) | [Les livres de Marion](https://open.spotify.com/album/4ifJdAEsCDjmBpw8h6SNo7) | 3:56 |
 
-Snapshot ID: `AAAPWXbri4yPfInjNOK2Y7BrnwjuLBwZ`
+Snapshot ID: `AAAPXSnoZ4aLFY2Cddvzrz8mzBRziNKs`

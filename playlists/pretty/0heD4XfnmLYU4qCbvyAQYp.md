@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,752 likes - 82 songs - 5 hr 22 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,753 likes - 89 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,12 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 80 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 |
 | 81 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 |
 | 82 | [Innit ?](https://open.spotify.com/track/1IkHgUGP0jiXoqyZJJzFgr) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 2:24 |
+| 83 | [Count the Silence](https://open.spotify.com/track/4tRtA0Rt8C2uehZ9YwiAP3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Count the Silence](https://open.spotify.com/album/4uKoOlN6EAWD0igCdXmT0T) | 4:53 |
+| 84 | [Hold On](https://open.spotify.com/track/7wkcfdfG847di04Osh9GM8) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Hold On](https://open.spotify.com/album/2iavwGaGxWpePayenFpKRG) | 3:07 |
+| 85 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 |
+| 86 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 |
+| 87 | [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 |
+| 88 | [Black Dress](https://open.spotify.com/track/2XMyZaqCCSgrl2p98fib2N) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 6:10 |
+| 89 | [Red Suitcase \- Single Version](https://open.spotify.com/track/5tgpVpdkGL7IgayCLRTTra) | [Amos Ender](https://open.spotify.com/artist/2Nt0gG43vrYBQiPAZMUUuw) | [Into The World Of Man](https://open.spotify.com/album/1yj0CWxvKoB4c02hrtIb3Y) | 3:37 |
 
-Snapshot ID: `AAAOQeOwwgFdcobQbBZmz4/KTpgg8Vnb`
+Snapshot ID: `AAAOSFhoFBHDB1vQ6sFuW2s9HW9zuemG`

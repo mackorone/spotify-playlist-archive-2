@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc49 Free Pitch : audiartist.com | Insta : stardust_from_sun | Email : musiqueslibre2droit@gmail.com | \ud83c\udfb8 Rock &#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul. Soulful rhythms, timeless riffs, and electrifying energy. Follow now and vibe with the best of rock and blues!",
-  "num_followers": 1674,
+  "num_followers": 1677,
   "original_name": "\ud83c\udfb8 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), Soul",
   "owner": {
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAKdVDQ4yQHT3pFxcIBAslKzIxFUS+R",
+  "snapshot_id": "AAAKehZsWj9c6xst8mSo+yQdrCeW0uOT",
   "tracks": [
     {
       "added_at": "2026-01-11 05:05:30",
@@ -1635,6 +1635,90 @@
       "duration_ms": 216001,
       "name": "Bes\u00e1ndonos",
       "url": "https://open.spotify.com/track/4OKsfv1MEH1PqIDt81w6Sa"
+    },
+    {
+      "added_at": "2026-01-19 09:53:29",
+      "album": {
+        "name": "Twelve Rays",
+        "url": "https://open.spotify.com/album/7FSxxUop7f29sNP8qfCSzg"
+      },
+      "artists": [
+        {
+          "name": "Gut-Scrapers",
+          "url": "https://open.spotify.com/artist/1aelV1MURttvVkO7W4SSDa"
+        }
+      ],
+      "duration_ms": 261038,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/309LwauvrDOeNJRMuE0Imu"
+    },
+    {
+      "added_at": "2026-01-19 13:25:05",
+      "album": {
+        "name": "I Been Gone",
+        "url": "https://open.spotify.com/album/0LJuoEfEWvakYgZ6OAOWwi"
+      },
+      "artists": [
+        {
+          "name": "TJ Rosenthal",
+          "url": "https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "I Been Gone",
+      "url": "https://open.spotify.com/track/4FJ4AHtBaQngZ45BqdYI56"
+    },
+    {
+      "added_at": "2026-01-19 19:40:02",
+      "album": {
+        "name": "My Soul's on Fire",
+        "url": "https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae"
+      },
+      "artists": [
+        {
+          "name": "K W Hoffman",
+          "url": "https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD"
+        }
+      ],
+      "duration_ms": 152011,
+      "name": "My Soul's on Fire",
+      "url": "https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc"
+    },
+    {
+      "added_at": "2026-01-19 19:50:12",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7jrWuQolOpkVOKikDFc6oS"
+      },
+      "artists": [
+        {
+          "name": "Echoes & Wine",
+          "url": "https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5x4ka2kVGFhnWEfTLM2RFL"
+    },
+    {
+      "added_at": "2026-01-19 19:51:24",
+      "album": {
+        "name": "La Viuda Negra",
+        "url": "https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv"
+      },
+      "artists": [
+        {
+          "name": "Jacohard",
+          "url": "https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq"
+        },
+        {
+          "name": "AQUILES LAGP",
+          "url": "https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB"
+        }
+      ],
+      "duration_ms": 160142,
+      "name": "La Viuda Negra",
+      "url": "https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), Soul",

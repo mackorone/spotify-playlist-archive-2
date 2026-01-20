@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,588 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,586 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 46 | [Thanks A Million \- Single Version](https://open.spotify.com/track/5YC4L8ovbwq4iwzk3Ng0hm) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Volume 1: Rhythm Saved The World \(1935\-1936\)](https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4) | 2:44 |
 | 47 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
 | 48 | [Solitude](https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:57 |
-| 49 | [Shanghai Shuffle](https://open.spotify.com/track/5tvWcq6s6U8Sx4IeMEX9y3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Fletcher Henderson & His Orchestra](https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 2:51 |
-| 50 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
+| 49 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
+| 50 | [Shanghai Shuffle](https://open.spotify.com/track/5tvWcq6s6U8Sx4IeMEX9y3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Fletcher Henderson & His Orchestra](https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 2:51 |
 
-Snapshot ID: `aWrRAAAAAAAj+kbG4lKd5mZys7O9Fp64`
+Snapshot ID: `aWwigAAAAACJl2rS2UhP2XnTXPHeYiK6`

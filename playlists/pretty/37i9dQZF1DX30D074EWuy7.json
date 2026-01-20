@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33759,
+  "num_followers": 33764,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -119,18 +119,18 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "Editto Dal Sottoscoglio",
-        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
+        "name": "D'Improvviso",
+        "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
       },
       "artists": [
         {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+          "name": "Rosalia De Souza",
+          "url": "https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1"
         }
       ],
-      "duration_ms": 206204,
-      "name": "Editto Dal Sottoscoglio",
-      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
+      "duration_ms": 188133,
+      "name": "D'Improvviso",
+      "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "D'Improvviso",
-        "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
+        "name": "Editto Dal Sottoscoglio",
+        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
       },
       "artists": [
         {
-          "name": "Rosalia De Souza",
-          "url": "https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1"
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
         }
       ],
-      "duration_ms": 188133,
-      "name": "D'Improvviso",
-      "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
+      "duration_ms": 206204,
+      "name": "Editto Dal Sottoscoglio",
+      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 233160,
       "name": "Ziza",
       "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 221660,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 221660,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
         "name": "Taish\u014dgoto",
         "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 304173,
       "name": "Taish\u014dgoto",
       "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
-      },
-      "artists": [
-        {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
         "name": "Ora beat!",
         "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 125572,
       "name": "Bighellonando",
       "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -1431,6 +1415,22 @@
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
-      },
-      "artists": [
-        {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
-        }
-      ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
         "name": "Nidi di Note",
         "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 194638,
       "name": "Inizi\u00f2",
       "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
-        "name": "Contenta tu",
-        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 275093,
-      "name": "Av\u00f2",
-      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
+        "name": "Contenta tu",
+        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 275093,
+      "name": "Av\u00f2",
+      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
     },
     {
       "added_at": "2026-01-15 13:17:29",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-01-15 13:17:29",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2026-01-15 13:17:29",
+      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2026-01-15 13:17:29",
-      "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-01-15 13:17:29",

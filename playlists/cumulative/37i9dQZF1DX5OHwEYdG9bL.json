@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-15",
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: idntt) (Enjoy a playlist of songs that support music video features!) ",
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: EXO) (Enjoy a playlist of songs that support music video features!) ",
   "name": "K-Pop Music Video Hits",
   "tracks": [
     {
@@ -724,6 +724,24 @@
       "duration_ms": 169962,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/5BT66JSYMSXbytWr7Tvq06"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/2xgWak2XDGZyBnGtVIkUJp"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211178,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0frJ0IhhIOSWodge5fwKb5"
     },
     {
       "album": {
@@ -1648,6 +1666,24 @@
       "duration_ms": 159210,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/50NbGuFRMwWg9QGhqgDxXO"
+    },
+    {
+      "album": {
+        "name": "Knife",
+        "url": "https://open.spotify.com/album/0MigcLlph2OBc1TkpFVqWy"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163711,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/4ZzEPHnmea0paHAAsdzRgc"
     },
     {
       "album": {

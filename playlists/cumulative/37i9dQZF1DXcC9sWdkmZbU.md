@@ -4,7 +4,7 @@
 
 > Christian & Gospel songs for the whole family.
 
-132 songs - 7 hr 10 min
+133 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Even When](https://open.spotify.com/track/3UbecA1E2TzGHRGsEoK89U) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Even When](https://open.spotify.com/album/3EdWMarhtXqqaoZSso2TTn) | 3:27 | 2022-04-12 | 2024-07-18 |
 | [Every Move I Make](https://open.spotify.com/track/4WG8pqpoKbhT3av6DFEhWK) | [I Could Sing Kids Performers](https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02) | [I Could Sing Of Your Love Forever Kids](https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj) | 3:05 | 2022-04-12 | 2024-03-14 |
 | [Every Move I Make](https://open.spotify.com/track/6hv4MN2Knt4Zk2EyeCJ1pb) | [KidStuf Singers](https://open.spotify.com/artist/5JuIVBnUSqlAIXIO4xxXnM), [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Shout to the Lord Kids](https://open.spotify.com/album/3srxJtNh6S5SCHgxoMomWV) | 3:10 | 2024-03-13 |  |
+| [Everyone Should Know](https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Everyone Should Know](https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh) | 2:24 | 2025-12-14 |  |
 | [Everything](https://open.spotify.com/track/61nfJmJlwatT1hCs8wbEpf) | [The Getty Girls](https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Everything \- Hymns for Little Hearts](https://open.spotify.com/album/08yNkH69ff1XXIRrQlykgS) | 2:14 | 2024-07-17 |  |
 | [Father Abraham](https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Father Abraham](https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW) | 2:06 | 2025-12-14 |  |
 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 | 2024-03-13 |  |
@@ -96,7 +97,7 @@
 | [Power \(Acts 1:8 ESV\)](https://open.spotify.com/track/0zUuGomdXdwtYynSEtyIXd) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power](https://open.spotify.com/album/3hs9EQ2LPzoJydKy9bXN2m) | 3:13 | 2023-02-10 | 2024-04-19 |
 | [Power \(Acts 1:8 Esv\)](https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power, Vol.15](https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk) | 3:13 | 2022-04-12 | 2025-09-15 |
 | [Prayed for This Day](https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 3:18 | 2023-02-10 |  |
-| [Psalms 150](https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Psalms 150](https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2) | 2:29 | 2025-09-14 |  |
+| [Psalms 150](https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF) | [3 Little Words](https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H) | [Psalms 150](https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2) | 2:29 | 2025-09-14 | 2026-01-20 |
 | [Remember Jesus](https://open.spotify.com/track/5lz1U2fW0ACCZYZwMDMcZk) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Remember Jesus](https://open.spotify.com/album/1bWISFisYx7KhH65dvJRGn) | 3:29 | 2025-12-14 |  |
 | [Rise and Shine Give God the Glory](https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp) | [Sunday School Songs](https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R), [Give God the Glory](https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1), [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Rise and Shine Give God the Glory](https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x) | 2:18 | 2022-04-12 |  |
 | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS) | [The Corner Room](https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg) | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F) | 2:40 | 2024-07-17 |  |

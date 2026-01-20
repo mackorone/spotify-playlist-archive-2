@@ -4,7 +4,7 @@
 
 > 来日公演『NCT WISH 1st CONCERT TOUR INTO THE WISH : Our WISH in JAPAN』のセットリストを公開！
 
-415 songs - 20 hr 0 min
+416 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [Odyssey](https://open.spotify.com/track/3wZHktgqSxoMlvX2dvDajs) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 2:32 | 2025-09-15 | 2025-12-08 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2024-06-27 | 2024-07-16 |
 | [On & On](https://open.spotify.com/track/5RJK0rH8I8I5BeBRLlTvPy) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 3:03 | 2026-01-18 |  |
-| [On Tour Japan: NCT WISH](https://open.spotify.com/track/1WOs34WXDmIHeFKZE85Ud7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [On Tour Japan: NCT WISH](https://open.spotify.com/album/6WUmUEEaMvdcRf8ua8pH5o) | 0:00 | 2026-01-18 |  |
+| [On Tour Japan NCT WISH](https://open.spotify.com/track/2FFHcdF7FjtlnBGBZRFwfC) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [On Tour Japan NCT WISH](https://open.spotify.com/album/6k6OvHg22hdQBabE0uPQR3) | 0:32 | 2026-01-19 |  |
+| [On Tour Japan: NCT WISH](https://open.spotify.com/track/1WOs34WXDmIHeFKZE85Ud7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [On Tour Japan: NCT WISH](https://open.spotify.com/album/6WUmUEEaMvdcRf8ua8pH5o) | 0:00 | 2026-01-18 | 2026-01-20 |
 | [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 | 2025-02-28 | 2025-04-22 |
 | [One and Only](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One and Only](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) | 2:46 | 2024-09-02 | 2024-12-06 |
 | [One and Only \- Japanese Ver.](https://open.spotify.com/track/0AhLcPgB49e98EbLQVYUA3) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:48 | 2025-06-30 | 2025-08-04 |

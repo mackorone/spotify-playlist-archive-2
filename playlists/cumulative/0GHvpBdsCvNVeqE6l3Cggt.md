@@ -4,10 +4,11 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-76 songs - 4 hr 34 min
+77 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Blast From The Past](https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.1](https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY) | 3:17 | 2026-01-19 |  |
 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 | 2021-03-29 |  |
 | [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 | 2025-12-10 | 2026-01-15 |
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-09 |  |

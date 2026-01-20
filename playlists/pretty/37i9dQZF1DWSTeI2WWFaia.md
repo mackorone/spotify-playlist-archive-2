@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,572,711 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572,632 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 21 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 |
 | 22 | [Writers](https://open.spotify.com/track/6Ed2tQssajTrylEPfUBOgi) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Light\-Years](https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B) | 4:53 |
 | 23 | [Gold Feet \(feat\. J.I.D.\)](https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:41 |
-| 24 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |
-| 25 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
+| 24 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
+| 25 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |
 | 26 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
 | 27 | [My Story Your Story](https://open.spotify.com/track/4f9iEXTJnyHVwScTmbF2J7) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg) | [Light\-Years](https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B) | 3:48 |
 | 28 | [Feeling \(feat\. Larry June\)](https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:55 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAB6GYJ1gwdyZSqAOTYxH7da",
+  "snapshot_id": "aWwigAAAAAB0rYAfHkuml0OApcZy6/25",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of League of Legends, Vol. 1",
+        "url": "https://open.spotify.com/album/0NVBGM7uhvICqzMzU800Vg"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Get Jinxed",
+      "url": "https://open.spotify.com/track/3fiMMAD2d7t0g2MVGf6NE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/3qo3MiVHiorkDRbuhjKK5d"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/6y3EPT8iw6HmuMpX05gyvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of League of Legends, Vol. 1",
-        "url": "https://open.spotify.com/album/0NVBGM7uhvICqzMzU800Vg"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Djerv",
-          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Get Jinxed",
-      "url": "https://open.spotify.com/track/3fiMMAD2d7t0g2MVGf6NE1"
     },
     {
       "added_at": null,

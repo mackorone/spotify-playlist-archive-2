@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,121 likes - 48 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,125 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 24 | [Lullabye](https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:59 |
 | 25 | [Settle Down \(with Cory Henry, Ravyn Lenae\)](https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:03 |
 | 26 | [The Night Song](https://open.spotify.com/track/0xQT5kbfnrU9Dv7x4MtMbi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:39 |
-| 27 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
-| 28 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 |
+| 27 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 |
+| 28 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
 | 29 | [Spice \- EP Version](https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:39 |
 | 30 | [Glo\-Fi \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 2:43 |
 | 31 | [M.I.A.](https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:27 |
@@ -51,10 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 41 | [Baby](https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Soulection White Label \- Monte Booker](https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE) | 3:06 |
 | 42 | [Unknown \- EP Version](https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:18 |
 | 43 | [Venezuela Trains](https://open.spotify.com/track/7K6iiGbqmOhWFqjj0bvTKL) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 4:09 |
-| 44 | [Rewind \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Rewind \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G) | 2:33 |
-| 45 | [Genesis \- EP Version](https://open.spotify.com/track/1z8VQNzZ8mETuKjW1szX1A) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:04 |
-| 46 | [Moon Shoes](https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:47 |
-| 47 | [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 |
-| 48 | [Right of Spring](https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:43 |
+| 44 | [Genesis \- EP Version](https://open.spotify.com/track/1z8VQNzZ8mETuKjW1szX1A) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:04 |
+| 45 | [Moon Shoes](https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:47 |
+| 46 | [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 |
+| 47 | [Right of Spring](https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:43 |
 
-Snapshot ID: `aWrRAAAAAADLBns+LULEoMxULjvCWxXQ`
+Snapshot ID: `aWwigAAAAAAwq6GRP8G73Orn8AL/Y5iQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,228 likes - 41 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,983 likes - 41 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cqAA5zTU7Z.md) - [plain]
 | 40 | [Hungry Like a Tiger](https://open.spotify.com/track/09ndgOSqpMUVxTrw2IvawN) | [Jared Mees & The Grown Children](https://open.spotify.com/artist/2NFK5IzrMlp9jB8z5CEQMh) | [Only Good Thoughts Can Stay](https://open.spotify.com/album/55p883Q08Cw1aiMa7SbGFF) | 4:28 |
 | 41 | [Never in a Million Years](https://open.spotify.com/track/04zarnGsuDBxfzCEB82eFB) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [Rock With Alvin](https://open.spotify.com/album/3zodV9957N1tL09XXbL7xy) | 3:24 |
 
-Snapshot ID: `AAAAAIMZmHednyX9VdZ7BdaUddQyDUnc`
+Snapshot ID: `AAAAACG2impFMQ9KpXpyL++HYUA5Gov+`

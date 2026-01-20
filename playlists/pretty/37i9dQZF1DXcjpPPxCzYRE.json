@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 436376,
+  "num_followers": 436422,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 238666,
       "name": "Song For You",
       "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Quelqu'un m'a dit",
+      "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 168626,
-      "name": "Quelqu'un m'a dit",
-      "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
+      "duration_ms": 219960,
+      "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "The Bakman Tapes",
-        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
-      },
-      "artists": [
-        {
-          "name": "Susie Suh",
-          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
-        }
-      ],
-      "duration_ms": 212017,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 204706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "The Bakman Tapes",
+        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
+      },
+      "artists": [
+        {
+          "name": "Susie Suh",
+          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
+        }
+      ],
+      "duration_ms": 212017,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "EL CORAZ\u00d3N MANDA",
-        "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
-      },
-      "artists": [
-        {
-          "name": "Nico Miseria",
-          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
-        },
-        {
-          "name": "alba calva",
-          "url": "https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9"
-        }
-      ],
-      "duration_ms": 123874,
-      "name": "EL CORAZ\u00d3N MANDA",
-      "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1223,18 +1203,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "EL LABERINTO",
-        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
+        "name": "EL CORAZ\u00d3N MANDA",
+        "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
       },
       "artists": [
         {
-          "name": "LEIDAN",
-          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
+          "name": "Nico Miseria",
+          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
+        },
+        {
+          "name": "alba calva",
+          "url": "https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9"
         }
       ],
-      "duration_ms": 221774,
-      "name": "TE DOY MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
+      "duration_ms": 123874,
+      "name": "EL CORAZ\u00d3N MANDA",
+      "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1251,6 +1235,22 @@
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "EL LABERINTO",
+        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
+      },
+      "artists": [
+        {
+          "name": "LEIDAN",
+          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
+        }
+      ],
+      "duration_ms": 221774,
+      "name": "TE DOY MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
         }
       ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1491,22 +1507,6 @@
       "duration_ms": 195700,
       "name": "Una Versi\u00f3n Mejor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7cQGVXDULnR2m9QEYYxEFu"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 165806,
+      "name": "Bang bang",
+      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
         "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 144744,
       "name": "Holy",
       "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 165806,
-      "name": "Bang bang",
-      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
     },
     {
       "added_at": "2026-01-16 05:55:21",

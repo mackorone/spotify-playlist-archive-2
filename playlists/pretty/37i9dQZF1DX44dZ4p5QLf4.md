@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New stunning releases in modern soul\. Cover: Steven Charlot
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,376 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,356 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Beneath Your Surface](https://open.spotify.com/track/5g4zXjdQeeGYqi101xw6hD) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Beneath Your Surface / If You Exist](https://open.spotify.com/album/2lfxmUGNqeFrsJZXQ2XTZH) | 2:51 |
 | 80 | [Never Change](https://open.spotify.com/track/1TLfO5QFvaKhvOovKD8ayn) | [Olivia Fay](https://open.spotify.com/artist/7hY4dgbAHtGCphIIGRQExJ) | [Never Change](https://open.spotify.com/album/5frOF7NmHqgme43N8zr9De) | 4:17 |
 
-Snapshot ID: `AAAAAIhvWgyBVnZJorSrpyk5n4XnkVeE`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

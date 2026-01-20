@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-123 songs - 6 hr 36 min
+125 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [I LUV IT](https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 8th 4X2=8](https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi) | 3:08 | 2023-11-09 | 2025-04-09 |
 | [I want to get off work as soon as I get to work](https://open.spotify.com/track/3cbqxbjlqh3o4yzXbKK0Tw) | [김재의](https://open.spotify.com/artist/4YNVJwy4cKtdbWsCsNPVsA) | [KIMJAE2](https://open.spotify.com/album/3ohElujOI9emKE8mSIMI03) | 2:39 | 2025-06-11 |  |
 | [i'm a machine](https://open.spotify.com/track/2aK5mnbEy79vILutso18YA) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 4:20 | 2023-11-09 |  |
+| [i'm bored](https://open.spotify.com/track/4l0evpTGo2SGQ4KPZoPikF) | [Wain](https://open.spotify.com/artist/6QGPxNYGuiFkOxW1EZFt7l) | [Paper](https://open.spotify.com/album/1hAV7Mj2ecbS5kls027GaY) | 2:49 | 2026-01-19 |  |
 | [I'm not a hero](https://open.spotify.com/track/6obtEFIrdBl7W2keVl6oXv) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 2:58 | 2023-11-09 | 2024-04-19 |
 | [I'm not a hero](https://open.spotify.com/track/6SI9wSxkc9mBoTUWileqsq) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:58 | 2024-04-17 |  |
 | [Idle Idle](https://open.spotify.com/track/1UQwsPOADoGFZJG4niN2dt) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/7qXsLvOkV8q01jNSINeGrb) | 3:38 | 2025-04-08 |  |
@@ -77,7 +78,7 @@
 | [Myself](https://open.spotify.com/track/08GrGvZfn5yHsfSjyP5Jal) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Myself](https://open.spotify.com/album/29izPD2H1NDTySqBFuLBzH) | 3:18 | 2025-04-08 |  |
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 | 2025-04-09 |
 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-04-08 |  |
-| [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 | 2024-11-26 |  |
+| [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 | 2024-11-26 | 2026-01-20 |
 | [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 | 2025-11-06 |
 | [No worries, I'm good](https://open.spotify.com/track/0m4QIgom2N3cN0sQflx9aS) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/7zvJRzVY3xALSzV4NOENp9) | 2:49 | 2025-04-08 |  |
 | [Nobody Knows It](https://open.spotify.com/track/0vuoatM8LzFAacNflEPb98) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:51 | 2025-07-09 |  |
@@ -91,6 +92,7 @@
 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 | 2023-11-09 |  |
 | [Rainy n Bed](https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1) | [sumgoyange](https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff) | [Rainy n Bed](https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr) | 2:36 | 2023-11-09 |  |
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2023-11-09 | 2025-05-08 |
+| [Relax Holic](https://open.spotify.com/track/1UW32RzePHgU2cvAq7C8YU) | [Jueun](https://open.spotify.com/artist/5ozAVjACutjHz3lBDxxtn4) | [NONOL VOL 74\. Jueun ‘ Relax Holic ’](https://open.spotify.com/album/0xtA8EBnUPXdIhdwL6eFtD) | 2:38 | 2026-01-19 |  |
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 |  |
 | [Silky](https://open.spotify.com/track/0vq0jeNuAKYryydXzZUoYw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:34 | 2025-07-17 |  |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 | 2025-11-06 |
@@ -129,7 +131,7 @@
 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 | 2025-04-08 |  |
 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |
 | [집콕](https://open.spotify.com/track/13Uc2oj4Tbzo3WT4ESAZ1b) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [Stage](https://open.spotify.com/album/0CwkRRIj7uV2cVaXufndNN) | 2:39 | 2025-06-04 |  |
-| [퇴근송](https://open.spotify.com/track/3ng50xRbD3N6DQ4spEV95u) | [Mozzi Melody](https://open.spotify.com/artist/3lS7ikkk4ZZPpq2K2gbTCv), [서다람](https://open.spotify.com/artist/4LilDDUso3RAK8xYxOoDWB) | [퇴근송](https://open.spotify.com/album/2xxlleJJyP8gWA2wHhZ7tp) | 3:12 | 2025-04-30 |  |
+| [퇴근송](https://open.spotify.com/track/3ng50xRbD3N6DQ4spEV95u) | [Mozzi Melody](https://open.spotify.com/artist/3lS7ikkk4ZZPpq2K2gbTCv), [서다람](https://open.spotify.com/artist/4LilDDUso3RAK8xYxOoDWB) | [퇴근송](https://open.spotify.com/album/2xxlleJJyP8gWA2wHhZ7tp) | 3:12 | 2025-04-30 | 2026-01-20 |
 | [홈캉스 \(Homecance\)](https://open.spotify.com/track/6ihXZWFoIiysmZcCaVpTAm) | [Jang Wooyoung](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [I'm into](https://open.spotify.com/album/4dqPFaOROskhuDh56ZFCRY) | 3:20 | 2025-10-02 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

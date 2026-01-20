@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,760 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,757 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 74 | [今宵の月のように](https://open.spotify.com/track/2uNtAVjQCow6urms1E73C0) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [今宵の月のように](https://open.spotify.com/album/7Ku3AojtFvc6VZQwleK2Lv) | 4:11 |
 | 75 | [Relapse](https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [Relapse](https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS) | 3:36 |
 | 76 | [泡沫](https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU) | 3:51 |
-| 77 | [Quest](https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Quest](https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5) | 4:29 |
+| 77 | [Fly You to the Moon](https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [Fly You to the Moon](https://open.spotify.com/album/7gW16al5pBDDotYTidON1P) | 2:44 |
 | 78 | [Hello](https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Hello](https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd) | 3:52 |
-| 79 | [Fly You to the Moon](https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [Fly You to the Moon](https://open.spotify.com/album/7gW16al5pBDDotYTidON1P) | 2:44 |
+| 79 | [Quest](https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Quest](https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5) | 4:29 |
 | 80 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:43 |
 | 81 | [GRAY](https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [GRAY](https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw) | 5:00 |
 | 82 | [Watakushigoto](https://open.spotify.com/track/3EX40XuNQ57R1CIQU7kgec) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Watakushigoto](https://open.spotify.com/album/0yluVTD3TFRTJugt6gNt87) | 3:35 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 88 | [3%と私。](https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [3%と私。](https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi) | 4:50 |
 | 89 | [2人のドラマ](https://open.spotify.com/track/6BMZmxMoaysa5BVFlFWQGa) | [北谷 琉喜](https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P) | [2人のドラマ](https://open.spotify.com/album/4DvueRc4WXWvWWCx60bH47) | 4:11 |
 | 90 | [飛行船](https://open.spotify.com/track/5ZQjLxRk8jNdkRtqyb3HaJ) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:55 |
-| 91 | [I see you](https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR) | [Fukase](https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA) | [I see you](https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL) | 3:47 |
-| 92 | [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 |
-| 93 | [水中のメトロ](https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [水中のメトロ](https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM) | 4:21 |
-| 94 | [夕日](https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [夕日](https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik) | 3:29 |
+| 91 | [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 |
+| 92 | [I see you](https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR) | [Fukase](https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA) | [I see you](https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL) | 3:47 |
+| 93 | [夕日](https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [夕日](https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik) | 3:29 |
+| 94 | [水中のメトロ](https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [水中のメトロ](https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM) | 4:21 |
 | 95 | [ブランコ](https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Quest](https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW) | 3:05 |
 | 96 | [月のカーニバル](https://open.spotify.com/track/2bOvnmvvgY1TEuqEznldQs) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [文明開化 \(East West\)](https://open.spotify.com/album/7lAe4jZ69BXoVe6vBaKVMX) | 2:35 |
 | 97 | [Eureka](https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL) | 3:31 |

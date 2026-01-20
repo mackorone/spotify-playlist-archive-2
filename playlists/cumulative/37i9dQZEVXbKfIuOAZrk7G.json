@@ -8446,7 +8446,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -8468,7 +8468,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -10314,7 +10314,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 100746,
       "name": "Bless the Telephone",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
@@ -52890,7 +52890,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 130384,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA"
@@ -60254,6 +60254,24 @@
       "duration_ms": 146078,
       "name": "OUTLAW",
       "url": "https://open.spotify.com/track/7H9k2qlhg95k02ovBQnhf9"
+    },
+    {
+      "album": {
+        "name": "Gachiakuta (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/41l3KGLex0bMehOuTjAyiA"
+      },
+      "artists": [
+        {
+          "name": "Taku Iwasaki",
+          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144627,
+      "name": "Outlaws Get No Entry",
+      "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
     },
     {
       "album": {
@@ -68532,6 +68550,24 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
     },
     {
       "album": {

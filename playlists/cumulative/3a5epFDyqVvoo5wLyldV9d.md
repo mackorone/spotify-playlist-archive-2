@@ -4,7 +4,7 @@
 
 > 
 
-891 songs - 2 day 21 hr 51 min
+892 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Bir Sigara İç Oğlan](https://open.spotify.com/track/67NxBj77Rbm4PN6n4snKic) | [Grup Turbo](https://open.spotify.com/artist/0agXNZlTPQIPMdf8KzQbZB) | [Mavi Mavi](https://open.spotify.com/album/2er0A1hN4sJP6prI41s1un) | 3:02 | 2024-01-21 |  |
 | [BLACK MOON](https://open.spotify.com/track/6w3Fy8LzO4cPaZVMbn86bT) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 4:41 | 2021-05-17 |  |
 | [Bloody Shadows from Afar](https://open.spotify.com/track/2WcZFJxKQSe8mkLB0KhSmK) | [Lena Platonos](https://open.spotify.com/artist/0sCJq0aWIAWwGsNujLLnYV) | [Galop](https://open.spotify.com/album/42it34L2DK7k362IsqAi4e) | 3:04 | 2021-08-26 |  |
+| [Blu Terra](https://open.spotify.com/track/1QoKnVHsM4tIqE648q8RB1) | [Carlos Maria Trindade](https://open.spotify.com/artist/2VPM4BnWrRFThgDLuwZR3Q), [Nuno Canavarro](https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b) | [Mr\. Wollogallu](https://open.spotify.com/album/1qPQqjttjO9TbixGDQKNHK) | 7:05 | 2026-01-19 |  |
 | [Bob \- Edu K Remix](https://open.spotify.com/track/3tHEtiZzwgftuUoRb795Ey) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK), [Edu K](https://open.spotify.com/artist/6YDxAD56zCgRGZh0RCq7fp) | [Changez Tout: Samba pra Burro Dissecado](https://open.spotify.com/album/4bUUnAx2SrO2cKeC5Uohmr) | 4:57 | 2021-03-08 |  |
 | [Bobeira](https://open.spotify.com/track/7ED2864nexnRieEPm5nnjI) | [Edson Frederico](https://open.spotify.com/artist/1UJ8FzXQBzeiDFmOod5zwv) | [Brazilian Beats 5 \(Mr\. Bongo presents\)](https://open.spotify.com/album/1gcFtUi6c9HS6owW3HCDYN) | 3:09 | 2023-02-07 |  |
 | [Bocca di rosa](https://open.spotify.com/track/3eAjS25afRXGFSyjPQo7l2) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 3:05 | 2023-08-22 |  |

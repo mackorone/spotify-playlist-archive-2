@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143970,
+  "num_followers": 143973,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAD1dLiUfs/d/glr5MdXcIpl",
+  "snapshot_id": "aWwigAAAAABYu7ajQkskN4fNTSBx/WLp",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "El rey",
+      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Va el Amor",
         "url": "https://open.spotify.com/album/1W74hskTjh4mNfT6SfPxTL"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "El rey",
-      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoyos en la bolsa",
         "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 210906,
-      "name": "Agua, mi ni\u00f1o - La curva",
-      "url": "https://open.spotify.com/track/4rhclwrL9MlQVrdu9JgAs5"
+      "duration_ms": 221493,
+      "name": "Ya estamos hartos",
+      "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
     }
   ],
   "unique_name": "This Is El Tri",

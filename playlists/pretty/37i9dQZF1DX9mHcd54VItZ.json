@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Barto & Zaan Sonnekus",
-  "num_followers": 26514,
+  "num_followers": 26531,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Pink Hell (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 185913,
-      "name": "Fire Sign",
-      "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "Lego",
         "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 151329,
       "name": "Lego",
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Pink Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 185913,
+      "name": "Fire Sign",
+      "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "SKREE",
-        "url": "https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 178737,
-      "name": "SKREE",
-      "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "Victor Ludorum",
         "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 189895,
       "name": "Victor Ludorum",
       "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "SKREE",
+        "url": "https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 178737,
+      "name": "SKREE",
+      "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
     }
   ],
   "unique_name": "SA Rock ",

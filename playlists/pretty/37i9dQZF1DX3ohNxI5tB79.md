@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,326 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,477 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 79 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
 | 80 | [Lights Out](https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:01 |
 
-Snapshot ID: `AAAAABA/1vqnS7hDhwRb0jOCWXd5UxW1`
+Snapshot ID: `AAAAAPvGljoPIFb3YEUhs2BbyT3Uua8s`

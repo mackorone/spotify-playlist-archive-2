@@ -4,7 +4,7 @@
 
 > 
 
-302 songs - 11 hr 50 min
+303 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [GANGY](https://open.spotify.com/track/0j3Xssa57CUUOxYwlxLBHk) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [reaptokyo](https://open.spotify.com/artist/62ghDL8bmpEuoBLrxMKwUH) | [GANGY](https://open.spotify.com/album/0Av2zKZh1Usr1ekhROB5BU) | 1:02 | 2025-04-11 |  |
 | [Gdzie Jest Biały Węgorz \(Zejście\)](https://open.spotify.com/track/40rPqOehcndc4xODWUCfYo) | [Cypis](https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt) | [Gdzie Jest Biały Węgorz \(Zejście\)](https://open.spotify.com/album/4M5Gxzc8TJ3zT52ue8gPpN) | 3:50 | 2025-03-01 |  |
 | [georgia](https://open.spotify.com/track/0cod2eFz9JtAEQS7kps3CA) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [georgia](https://open.spotify.com/album/1CeieFoEg443Upj8Jun9mr) | 2:04 | 2025-05-29 |  |
+| [GET ME RIGHT!](https://open.spotify.com/track/6bltVRVfVJIdQJCxSp8APq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:17 | 2026-01-19 |  |
 | [ghost!](https://open.spotify.com/track/0sB9wdHqFrKgFVF5SqmqDb) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [ghost!](https://open.spotify.com/album/58Pwlfu6uT8TyUgvHVgDHd) | 1:33 | 2025-04-11 | 2025-04-17 |
 | [GLOCKIES](https://open.spotify.com/track/0UvyBiIU6E761Ozhpsf7i5) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [GLOCKIES](https://open.spotify.com/album/1KoRjUJ7IPy9irh9voezHb) | 1:07 | 2025-04-10 |  |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2024-12-31 |  |

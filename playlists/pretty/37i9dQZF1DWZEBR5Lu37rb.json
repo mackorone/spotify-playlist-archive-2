@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 118720,
+  "num_followers": 118798,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Buyelekhaya",
-        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
-      },
-      "artists": [
-        {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "Nomvula",
-      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Oscillations",
-        "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
+        "name": "Buyelekhaya",
+        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
       },
       "artists": [
         {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
         }
       ],
-      "duration_ms": 306040,
-      "name": "Fairytale",
-      "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
+      "duration_ms": 277760,
+      "name": "Nomvula",
+      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -527,6 +511,22 @@
       "duration_ms": 328226,
       "name": "Ngiyaz'fela Ngawe (feat. Thabsie)",
       "url": "https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Oscillations",
+        "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 306040,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Love & Light",
         "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 158052,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -779,18 +779,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
       },
       "artists": [
         {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
         }
       ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -811,6 +815,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Imizwa",
         "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 260488,
       "name": "Eyami",
       "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 198905,
+      "name": "Ubuhle Bakho",
+      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 484285,
       "name": "uThando",
       "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Imali",
-        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
-      },
-      "artists": [
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 198905,
-      "name": "Ubuhle Bakho",
-      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Live and Die in Afrika",
-        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 244615,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Live and Die in Afrika",
+        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
+      },
+      "artists": [
+        {
+          "name": "Internet Athi",
+          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
+        }
+      ],
+      "duration_ms": 270652,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Sweet Sensation",
         "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 210651,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
-      },
-      "artists": [
-        {
-          "name": "Internet Athi",
-          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
-        }
-      ],
-      "duration_ms": 270652,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "In The Building",
-        "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
-      },
-      "artists": [
-        {
-          "name": "Hillzy",
-          "url": "https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "Chargie",
-      "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Zabalaza",
         "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 352093,
       "name": "Ndilinde",
       "url": "https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "In The Building",
+        "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
+      },
+      "artists": [
+        {
+          "name": "Hillzy",
+          "url": "https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "Chargie",
+      "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
     },
     {
       "added_at": "2025-07-11 08:09:25",

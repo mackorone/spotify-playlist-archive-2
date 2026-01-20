@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,919 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,958 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Filter](https://open.spotify.com/track/4p3oOaC3Fo38tEXp3SR5DN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:31 |
+| 1 | [whydoyouloveme](https://open.spotify.com/track/2AXjZcgqWzBa5SMTnGJ6u0) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Why do you love me?](https://open.spotify.com/album/1bhfozfv70iqgcX3m8WBdQ) | 3:08 |
 | 2 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 3 | [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 |
 | 4 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 49 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
 | 50 | [k bye](https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 2:09 |
 
-Snapshot ID: `AAAAAISJenYanmtJh5kxTPQktSVtzUxF`
+Snapshot ID: `AAAAABIU/7/iLaeObeVtVqv1o8LxHGJ6`

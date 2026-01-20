@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Carolina Ross 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,681 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,676 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 43 | [Nunca Había Amado Así](https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Nunca Había Amado Así](https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK) | 3:42 |
 | 44 | [Un Millón de Primaveras \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/3gLpE07HHc5pMToWnHnR4I) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Millón de Primaveras \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/52n0QZM9FyHHUUr8fCfGD9) | 3:09 |
 | 45 | [Emilia](https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Emilia](https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz) | 3:41 |
-| 46 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
-| 47 | [Tequila Mariachi](https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Tequila Mariachi](https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw) | 3:36 |
+| 46 | [Tequila Mariachi](https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Tequila Mariachi](https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw) | 3:36 |
+| 47 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
 | 48 | [Retumbando En El Cora](https://open.spotify.com/track/59IbXNL246o9YZC3EM4app) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Retumbando En El Cora](https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP) | 2:10 |
 | 49 | [El Rey \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Rey A Rey \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib) | 2:51 |
 | 50 | [Solo por Hoy](https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Solo por Hoy](https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH) | 2:46 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 69 | [Traigan Las Otras](https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Traigan Las Otras](https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv) | 3:50 |
 | 70 | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV) | 3:45 |
 | 71 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
-| 72 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
-| 73 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
+| 72 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
+| 73 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
 | 74 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 75 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
 | 76 | [Le Voy a Pedir a Dios](https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Le Voy a Pedir a Dios](https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic) | 2:54 |

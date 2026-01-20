@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182454,
+      "name": "91",
+      "url": "https://open.spotify.com/track/0DzZM9jFvFn0SyoeFLsrPC"
+    },
+    {
+      "album": {
         "name": "99 Problemas",
         "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
       },
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 137769,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 266346,
       "name": "Siempre Activo",
       "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
@@ -1702,6 +1720,24 @@
       "duration_ms": 198461,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
+        "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Soy Del 559",
+      "url": "https://open.spotify.com/track/1nlQFFyguZ4pGN5tMvciQu"
     },
     {
       "album": {

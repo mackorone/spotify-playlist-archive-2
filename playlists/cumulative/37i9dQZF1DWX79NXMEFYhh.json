@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
@@ -486,6 +486,24 @@
       "duration_ms": 190245,
       "name": "DKL",
       "url": "https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha"
+    },
+    {
+      "album": {
+        "name": "Do What She Wanna",
+        "url": "https://open.spotify.com/album/4XiMf2WIQXKfVXE7De60Gl"
+      },
+      "artists": [
+        {
+          "name": "primo.io",
+          "url": "https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Do What She Wanna",
+      "url": "https://open.spotify.com/track/5F5eberTTCphTF0PxkvBRL"
     },
     {
       "album": {
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 152165,
       "name": "Mabisang Pinay",
       "url": "https://open.spotify.com/track/5A1pJBomlHhK7WAP6vo9N8"
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 279399,
       "name": "Piliin",
       "url": "https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp"
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 186000,
       "name": "rupok",
       "url": "https://open.spotify.com/track/5v5Jhp7OZAejrWbqPQ2y2D"
@@ -1943,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "so right",
+        "url": "https://open.spotify.com/album/2PIJJpQa1suxXmEFhHpQ9W"
+      },
+      "artists": [
+        {
+          "name": "Mark Andre",
+          "url": "https://open.spotify.com/artist/0RNyEwdrFJsyXzfCcVOYAZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215249,
+      "name": "so right",
+      "url": "https://open.spotify.com/track/56rGGuag0aKuLAw7aj7VXW"
+    },
+    {
+      "album": {
         "name": "soft light",
         "url": "https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x"
       },
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
@@ -2186,7 +2222,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 121142,
       "name": "TAPAT",
       "url": "https://open.spotify.com/track/6o54Q9Ueqp6tXraenVdpO8"

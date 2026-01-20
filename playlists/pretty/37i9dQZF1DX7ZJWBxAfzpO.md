@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 10 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 10 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,6 +17,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 | 7 | [Ep\. 27: Depressed ka ba? Ayaw mo nang mabuhay? May lunas ba dito? Pag usapan natin ang mental health with Doc Joanna Herrera.](https://open.spotify.com/episode/3e1iAY3hHmUyB5YPIhqerW) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 44:12 |
 | 8 | [K's Drama S4E9: Confessions of a Theatre\-Holic! with Sheila Francisco and Mikkie Bradshaw\-Volante ](https://open.spotify.com/episode/71JovoKf8OA9YBUPyLLXwY) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 1:12:18 |
 | 9 | [DAGOK TIME \- ISTURII EPISODE 42](https://open.spotify.com/episode/1VxmvcJG0l9p5zHvKY9Hnt) | [DAGOK TIME!](https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo) | [DAGOK TIME!](https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo) | 21:21 |
-| 10 | [EP 48: In Aid of Money Problems \- Nakakasira o Nakakatibay ng Relasyon? \(with Lovely Abella and Benj Manalo\)](https://open.spotify.com/episode/6wZfBRVTgxMyDxmaiaJ7ZM) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 52:33 |
+| 10 | [EP 48: In Aid of Money Problems \- Nakakasira o Nakakatibay ng Relasyon? \(with Lovely Abella and Benj Manalo\)](https://open.spotify.com/episode/6wZfBRVTgxMyDxmaiaJ7ZM) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 51:02 |
 
 Snapshot ID: `AAAAAEgOOVax+bclH4B0NEDabMNkU+2H`

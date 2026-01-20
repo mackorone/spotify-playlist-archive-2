@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,283 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,297 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 59 | [How Long?](https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [How Long?](https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq) | 2:06 |
 | 60 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 |
 | 61 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
-| 62 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |
-| 63 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 |
+| 62 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 |
+| 63 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |
 | 64 | [Nothing Is Impossible \- Live In Manila](https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Nothing Is Impossible \(Live In Manila\)](https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd) | 4:23 |
 | 65 | [Fear No More](https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:12 |
 | 66 | [You Again](https://open.spotify.com/track/1dANigzX1rq3u78OlLkwHV) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [You Again](https://open.spotify.com/album/4UQOnF0cbNqo7a747J7K8p) | 3:12 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 71 | [A Hope and a Future](https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [A Hope and a Future](https://open.spotify.com/album/0tvFPaesu6b9Tqa5IYqBn8) | 4:14 |
 | 72 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz) | [Sarah Sadler](https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 3:34 |
 | 73 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
-| 74 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
-| 75 | [Heaven Fall](https://open.spotify.com/track/2uYxKsOu0Jd4TfnkHqVdQc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Heaven Fall](https://open.spotify.com/album/494FAzAd3jByuqPKkfEoBe) | 5:04 |
+| 74 | [Heaven Fall](https://open.spotify.com/track/2uYxKsOu0Jd4TfnkHqVdQc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Heaven Fall](https://open.spotify.com/album/494FAzAd3jByuqPKkfEoBe) | 5:04 |
+| 75 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
 | 76 | [Biggest, Greatest Thing](https://open.spotify.com/track/3OcPyu9YnmsqM6Aq1vWrV8) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Dontae Winslow](https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:12 |
 | 77 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
 | 78 | [The Fire \- Acoustic](https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [The Fire \(Acoustic\)](https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp) | 4:19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 897793,
+  "num_followers": 897942,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACBGkZ2kfJEDDxaPBeu8tZP",
+  "snapshot_id": "aWwigAAAAACy5kmE1BqYZH+xxUBZuXpi",
   "tracks": [
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Diablo Ni Santo",
-        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
+        "name": "Una Raya M\u00e1s al Tigre",
+        "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
       },
       "artists": [
+        {
+          "name": "Banda Elemental de Mazatl\u00e1n Sinaloa",
+          "url": "https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz"
+        },
         {
           "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 210640,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/0uzmqJiynxBYYZ1Eo6iPkm"
+      "duration_ms": 139658,
+      "name": "Una Raya M\u00e1s al Tigre",
+      "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Raya M\u00e1s al Tigre",
-        "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
+        "name": "Ni Diablo Ni Santo",
+        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
       "artists": [
-        {
-          "name": "Banda Elemental de Mazatl\u00e1n Sinaloa",
-          "url": "https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz"
-        },
         {
           "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 139658,
-      "name": "Una Raya M\u00e1s al Tigre",
-      "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
+      "duration_ms": 210640,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/0uzmqJiynxBYYZ1Eo6iPkm"
     },
     {
       "added_at": null,

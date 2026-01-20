@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140518,
+  "num_followers": 140513,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "LIES",
-        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "LIES",
-      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Butta My Bread",
         "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 148672,
       "name": "Butta My Bread",
       "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Loro Piana",
-        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
-      },
-      "artists": [
-        {
-          "name": "Glades",
-          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Loro Piana",
-      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Bon Mij",
         "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
@@ -1723,6 +1699,30 @@
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Loro Piana",
+        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Loro Piana",
+      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
     },
     {
       "added_at": "2025-12-10 23:00:04",

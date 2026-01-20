@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 63310,
+  "num_followers": 63318,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAA/OxPigFPqCn6XyP6EmnJB",
+  "snapshot_id": "aWwigAAAAACekNCCe8Qcf61DmBzhCXuu",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 301531,
-      "name": "Un Camino Lejano",
-      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 292333,
       "name": "Dejate Atrapar",
       "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 301531,
+      "name": "Un Camino Lejano",
+      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De La Mano Con El Pueblo",
-        "url": "https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 319826,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026Que viva el vallenato!",
         "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 296013,
       "name": "Cuando Vuelvas",
       "url": "https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De La Mano Con El Pueblo",
+        "url": "https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 319826,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5"
     },
     {
       "added_at": null,

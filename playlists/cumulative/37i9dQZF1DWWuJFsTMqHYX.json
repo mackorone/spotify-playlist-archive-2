@@ -1006,24 +1006,6 @@
     {
       "album": {
         "name": "Mbalimaou",
-        "url": "https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG"
-      },
-      "artists": [
-        {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
-        }
-      ],
-      "date_added": "2024-02-26",
-      "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
-      "duration_ms": 337506,
-      "name": "Hona",
-      "url": "https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V"
-    },
-    {
-      "album": {
-        "name": "Mbalimaou",
         "url": "https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO"
       },
       "artists": [
@@ -1038,6 +1020,24 @@
       "duration_ms": 338746,
       "name": "Hona",
       "url": "https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht"
+    },
+    {
+      "album": {
+        "name": "Mbalimaou",
+        "url": "https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338746,
+      "name": "Hona",
+      "url": "https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V"
     },
     {
       "album": {
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 338933,
       "name": "Mariama Kaba",
       "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"

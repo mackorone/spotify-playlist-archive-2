@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252433,
+  "num_followers": 252420,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,18 @@
     {
       "added_at": "2026-01-15 23:01:18",
       "album": {
-        "name": "Baxter (these are my friends)",
-        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
+        "name": "Ordinary Drugs",
+        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baxter Dury",
-          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 244034,
-      "name": "Baxter (these are my friends)",
-      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+      "duration_ms": 421700,
+      "name": "These Are Just Places To Me Now",
+      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
     },
     {
       "added_at": "2026-01-15 23:01:18",
@@ -843,18 +839,22 @@
     {
       "added_at": "2026-01-15 23:01:18",
       "album": {
-        "name": "Ordinary Drugs",
-        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
+        "name": "Baxter (these are my friends)",
+        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
         }
       ],
-      "duration_ms": 421700,
-      "name": "These Are Just Places To Me Now",
-      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+      "duration_ms": 244034,
+      "name": "Baxter (these are my friends)",
+      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
     },
     {
       "added_at": "2026-01-15 23:01:18",

@@ -15707,6 +15707,24 @@
     },
     {
       "album": {
+        "name": "La calle de la alegr\u00eda",
+        "url": "https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom"
+      },
+      "artists": [
+        {
+          "name": "Javi Cobo",
+          "url": "https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "La calle de la alegr\u00eda",
+      "url": "https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt"
+    },
+    {
+      "album": {
         "name": "La Divisione Del Piacere",
         "url": "https://open.spotify.com/album/6b8msGD271vEFaO0FuOgNk"
       },

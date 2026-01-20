@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269377,
+  "num_followers": 269387,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAArXAEDsi7ruMciElStWoLe",
+  "snapshot_id": "aWwigAAAAAAP12V7eoNjU4ti2Hl/WC3O",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 195011,
-      "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
-      "url": "https://open.spotify.com/track/76gauQSrQHjwYZ4cJugPY9"
+      "duration_ms": 282081,
+      "name": "Bondade de Deus",
+      "url": "https://open.spotify.com/track/5qNpWIV6uues1TTgo0aIph"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 282081,
-      "name": "Bondade de Deus",
-      "url": "https://open.spotify.com/track/5qNpWIV6uues1TTgo0aIph"
+      "duration_ms": 195011,
+      "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
+      "url": "https://open.spotify.com/track/76gauQSrQHjwYZ4cJugPY9"
     },
     {
       "added_at": null,
@@ -607,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+        "name": "Fernandinho Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
       },
       "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+      "duration_ms": 367380,
+      "name": "Me Leva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernandinho Em Casa (ao Vivo)",
-        "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
       "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 367380,
-      "name": "Me Leva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c1guas Purificadoras",
+        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 342667,
+      "name": "\u00c1guas Purificadoras",
+      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c1guas Purificadoras",
-        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 342667,
-      "name": "\u00c1guas Purificadoras",
-      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
     },
     {
       "added_at": null,

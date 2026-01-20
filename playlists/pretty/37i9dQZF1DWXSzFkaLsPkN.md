@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Saahel
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,804 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,814 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 39 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 |
 | 40 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
 | 41 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 |
-| 42 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
-| 43 | [Raintalk](https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Raintalk](https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi) | 3:17 |
+| 42 | [Raintalk](https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Raintalk](https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi) | 3:17 |
+| 43 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
 | 44 | [Ji Huzoor](https://open.spotify.com/track/39ggRcAkMFo9V1dFDVFBNr) | [Sparsh Shrivastava](https://open.spotify.com/artist/1y8VAILCAHObUlajKTm2mv) | [Ji Huzoor](https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah) | 2:46 |
 | 45 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 |
 | 46 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
 | 47 | [Raaz](https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Raaz](https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm) | 2:44 |
 | 48 | [Sitaara](https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sitaara](https://open.spotify.com/album/0ruofnDBPQXZvx2Ypzoodh) | 3:02 |
 | 49 | [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 |
-| 50 | [Aaye Re](https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aaye Re](https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp) | 4:00 |
+| 50 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 |
 
 Snapshot ID: `AAAAAB4ibhMZeUkhTtLfCwvBvfxW9Ysg`

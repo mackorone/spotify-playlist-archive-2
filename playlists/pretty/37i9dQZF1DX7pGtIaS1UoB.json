@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 100678,
+  "num_followers": 100680,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "\u653e\u5927",
-        "url": "https://open.spotify.com/album/50JvPIC2Wrgwg49gfw2w9t"
-      },
-      "artists": [
-        {
-          "name": "\u5f90\u5b50\u672a",
-          "url": "https://open.spotify.com/artist/12beNlVYvMrAp05h8CBV6A"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "\u653e\u5927",
-      "url": "https://open.spotify.com/track/1GEupW64CTCUaZ5AsvVEgO"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
         "name": "SHERO",
         "url": "https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 248629,
       "name": "\u4e00\u5929 - \u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
+        "name": "\u653e\u5927",
+        "url": "https://open.spotify.com/album/50JvPIC2Wrgwg49gfw2w9t"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u5b50\u672a",
+          "url": "https://open.spotify.com/artist/12beNlVYvMrAp05h8CBV6A"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "\u653e\u5927",
+      "url": "https://open.spotify.com/track/1GEupW64CTCUaZ5AsvVEgO"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "\u9019\u6a23\u5c31\u5f88\u597d",
-        "url": "https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Lee",
-          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "\u9019\u6a23\u5c31\u5f88\u597d",
-      "url": "https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
         "name": "\u8ffd\u5149\u8005",
         "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 213333,
       "name": "\u8ffd\u5149\u8005",
       "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
+        "name": "\u9019\u6a23\u5c31\u5f88\u597d",
+        "url": "https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "\u9019\u6a23\u5c31\u5f88\u597d",
+      "url": "https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
-        "url": "https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5"
-      },
-      "artists": [
-        {
-          "name": "E1and",
-          "url": "https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
-      "url": "https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
         "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
         "url": "https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 182150,
       "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
+        "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
+        "url": "https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5"
+      },
+      "artists": [
+        {
+          "name": "E1and",
+          "url": "https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
+      "url": "https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
+        "name": "Take Off - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Let me love u",
+      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
         "name": "\u72c2\u611b",
         "url": "https://open.spotify.com/album/33dS3v5pgBdFFdWa19ItzC"
       },
@@ -907,38 +923,6 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "Take Off - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Let me love u",
-      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
-        "name": "\u6211\u6703\u5f88\u611b\u4f60",
-        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
-      },
-      "artists": [
-        {
-          "name": "\u67cf\u9716PoLin",
-          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "\u6211\u6703\u5f88\u611b\u4f60",
-      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
         "name": "\u7f8e\u4e3d\u7684\u59b3",
         "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 185008,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
+        "name": "\u6211\u6703\u5f88\u611b\u4f60",
+        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "\u6211\u6703\u5f88\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
+        "name": "\u60f3\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
+      },
+      "artists": [
+        {
+          "name": "bertandlulu",
+          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "\u60f3\u548c\u4f60",
+      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
         "name": "\u591a\u60f3\u8981\u7d66\u4f60\u6211\u7684\u611b",
         "url": "https://open.spotify.com/album/7sptJfmA71o8mztzZEz419"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "\u60f3\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
-      },
-      "artists": [
-        {
-          "name": "bertandlulu",
-          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "\u60f3\u548c\u4f60",
-      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
         "name": "\u591a\u51fa\u4f86\u7684\u81ea\u7531",
         "url": "https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 213680,
       "name": "\u6211\u6703\u5f88\u611b\u59b3",
       "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
-    },
-    {
-      "added_at": "2026-01-15 16:00:34",
-      "album": {
-        "name": "Like U",
-        "url": "https://open.spotify.com/album/0zc2e0cITiBkJaLKec8Ox8"
-      },
-      "artists": [
-        {
-          "name": "CIIU",
-          "url": "https://open.spotify.com/artist/2CwFC7mvNOoz9exAqCtlJ6"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Like U",
-      "url": "https://open.spotify.com/track/09gQEPvHLBnYwHoUbPR6XD"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+        "name": "Like U",
+        "url": "https://open.spotify.com/album/0zc2e0cITiBkJaLKec8Ox8"
       },
       "artists": [
         {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          "name": "CIIU",
+          "url": "https://open.spotify.com/artist/2CwFC7mvNOoz9exAqCtlJ6"
         }
       ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
+      "duration_ms": 190000,
+      "name": "Like U",
+      "url": "https://open.spotify.com/track/09gQEPvHLBnYwHoUbPR6XD"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
+    },
+    {
+      "added_at": "2026-01-15 16:00:34",
+      "album": {
         "name": "\u6162\u52d5\u4f5c\u544a\u767d",
         "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "\u60f3\u8aaa",
-        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
+        "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
+        "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
       },
       "artists": [
         {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          "name": "\u6d0b\u8525",
+          "url": "https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw"
         }
       ],
-      "duration_ms": 200689,
-      "name": "\u60f3\u8aaa",
-      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
+      "duration_ms": 228169,
+      "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
+      "url": "https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ"
     },
     {
       "added_at": "2026-01-15 16:00:34",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-01-15 16:00:34",
       "album": {
-        "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
-        "url": "https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i"
+        "name": "\u60f3\u8aaa",
+        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
       },
       "artists": [
         {
-          "name": "\u6d0b\u8525",
-          "url": "https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw"
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
         }
       ],
-      "duration_ms": 228169,
-      "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
-      "url": "https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ"
+      "duration_ms": 200689,
+      "name": "\u60f3\u8aaa",
+      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

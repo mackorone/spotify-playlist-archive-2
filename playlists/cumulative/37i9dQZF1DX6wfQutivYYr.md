@@ -4,7 +4,7 @@
 
 > Ultimo sulla cover della playlist più grande in Italia 🔥
 
-278 songs - 14 hr 22 min
+279 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-03 |  |
 | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/album/5OSF6lRPctmMUhtpWSyJbd) | 2:40 | 2024-07-25 | 2024-10-25 |
 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-12 |  |
-| [Bam Bam](https://open.spotify.com/track/4KVniEaketaWkpVFVrIEgw) | [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy) | [Bam Bam](https://open.spotify.com/album/00tWjalfGuKzjfkIj9f1WE) | 3:00 | 2025-08-28 |  |
+| [Bam Bam](https://open.spotify.com/track/4KVniEaketaWkpVFVrIEgw) | [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy) | [Bam Bam](https://open.spotify.com/album/00tWjalfGuKzjfkIj9f1WE) | 3:00 | 2025-08-28 | 2026-01-20 |
 | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 | 2024-12-19 | 2025-03-28 |
 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 | 2025-02-12 | 2025-05-23 |
 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 | 2024-06-28 | 2024-08-23 |
@@ -81,6 +81,7 @@
 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-13 | 2025-05-23 |
 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 | 2025-12-04 |  |
 | [DAMME 'NA MANO](https://open.spotify.com/track/54dKn6kdf2fFpSYwgCcQOV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DAMME 'NA MANO](https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7) | 2:58 | 2025-02-12 | 2025-03-28 |
+| [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2026-01-19 |  |
 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 | 2024-11-21 | 2025-02-25 |
 | [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 | 2025-05-26 | 2025-09-27 |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-06-28 | 2024-11-08 |

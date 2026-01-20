@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 46779,
+  "num_followers": 46778,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIJcqNoIkeL3MLJgvd1lAYUwGTPpd6",
+  "snapshot_id": "AAAIJv7VCyvxF/iV2ZL2DPkL+mODfoNZ",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -985,26 +985,6 @@
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
     },
     {
-      "added_at": "2025-07-11 00:41:07",
-      "album": {
-        "name": "On The Line",
-        "url": "https://open.spotify.com/album/5RQUgWERLK70zsb7j3lfAo"
-      },
-      "artists": [
-        {
-          "name": "Pierse",
-          "url": "https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        }
-      ],
-      "duration_ms": 135572,
-      "name": "On The Line",
-      "url": "https://open.spotify.com/track/7fZQtGPRPK3b0LZiGpgGV7"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Momma Always Told Me (feat. Stanaj & Yung Bae) [Matoma Remixes]",
@@ -1069,26 +1049,6 @@
       "url": "https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW"
     },
     {
-      "added_at": "2025-03-29 00:41:04",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/14WWn8qxwHM5scN8nyMOy2"
-      },
-      "artists": [
-        {
-          "name": "Walle",
-          "url": "https://open.spotify.com/artist/0Zs5L8z6cWzmlcMjHNSij0"
-        },
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0RrLkemIhB64yI2yOMxixG"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "By My Side (feat. Anthony Valadez)",
@@ -1109,20 +1069,24 @@
       "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
     },
     {
-      "added_at": "2025-08-22 00:41:14",
+      "added_at": "2025-03-29 00:41:04",
       "album": {
-        "name": "Falling Slow",
-        "url": "https://open.spotify.com/album/03b2XFZkvWrr4QHzqhTBAl"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/14WWn8qxwHM5scN8nyMOy2"
       },
       "artists": [
         {
-          "name": "MNT",
-          "url": "https://open.spotify.com/artist/6bMj5nDzBr0mlQtM1U9A98"
+          "name": "Walle",
+          "url": "https://open.spotify.com/artist/0Zs5L8z6cWzmlcMjHNSij0"
+        },
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
         }
       ],
-      "duration_ms": 135687,
-      "name": "Falling Slow",
-      "url": "https://open.spotify.com/track/4UOHF8lYzxip4o14O3SPFc"
+      "duration_ms": 213750,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0RrLkemIhB64yI2yOMxixG"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1139,6 +1103,22 @@
       "duration_ms": 165773,
       "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
+    },
+    {
+      "added_at": "2025-08-22 00:41:14",
+      "album": {
+        "name": "Falling Slow",
+        "url": "https://open.spotify.com/album/03b2XFZkvWrr4QHzqhTBAl"
+      },
+      "artists": [
+        {
+          "name": "MNT",
+          "url": "https://open.spotify.com/artist/6bMj5nDzBr0mlQtM1U9A98"
+        }
+      ],
+      "duration_ms": 135687,
+      "name": "Falling Slow",
+      "url": "https://open.spotify.com/track/4UOHF8lYzxip4o14O3SPFc"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1161,26 +1141,6 @@
       "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
     },
     {
-      "added_at": "2025-07-18 00:41:07",
-      "album": {
-        "name": "Forever In Your Eyes",
-        "url": "https://open.spotify.com/album/41DO95rft6ZXHMVChvjAxE"
-      },
-      "artists": [
-        {
-          "name": "Avondzy",
-          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
-        },
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "Forever In Your Eyes",
-      "url": "https://open.spotify.com/track/3pSFpWBLiggh3sHz8rEFaS"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Congratulations (Don Diablo VIP Mix)",
@@ -1199,6 +1159,26 @@
       "duration_ms": 195483,
       "name": "Congratulations - Don Diablo VIP Mix",
       "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
+    },
+    {
+      "added_at": "2025-07-18 00:41:07",
+      "album": {
+        "name": "Forever In Your Eyes",
+        "url": "https://open.spotify.com/album/41DO95rft6ZXHMVChvjAxE"
+      },
+      "artists": [
+        {
+          "name": "Avondzy",
+          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
+        },
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "Forever In Your Eyes",
+      "url": "https://open.spotify.com/track/3pSFpWBLiggh3sHz8rEFaS"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1221,6 +1201,26 @@
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Year Zero",
+        "url": "https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 249836,
+      "name": "All On Me",
+      "url": "https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk"
+    },
+    {
       "added_at": "2025-07-11 00:41:07",
       "album": {
         "name": "Take It Easy",
@@ -1241,24 +1241,28 @@
       "url": "https://open.spotify.com/track/7BT8GUh4abNGdHuMgIIBBO"
     },
     {
-      "added_at": "2023-06-12 09:23:03",
+      "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Year Zero",
-        "url": "https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP"
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
       },
       "artists": [
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         }
       ],
-      "duration_ms": 249836,
-      "name": "All On Me",
-      "url": "https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk"
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
     },
     {
       "added_at": "2024-02-02 11:28:03",
@@ -1287,46 +1291,6 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
-    },
-    {
-      "added_at": "2024-10-18 00:45:03",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1kqG8g2h14hB7ibLDdEb10"
-      },
-      "artists": [
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1M32IUGzkYJO6KykeldJGG"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
         "name": "Invisible Dress (Maro Music x Skytech Remix)",
         "url": "https://open.spotify.com/album/6MO2u14IJEljE1X5mYYtou"
       },
@@ -1347,6 +1311,22 @@
       "duration_ms": 147000,
       "name": "Invisible Dress - Maro Music x Skytech Remix - Short Edit",
       "url": "https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX"
+    },
+    {
+      "added_at": "2024-10-18 00:45:03",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1kqG8g2h14hB7ibLDdEb10"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1M32IUGzkYJO6KykeldJGG"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1413,22 +1393,6 @@
       "url": "https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx"
     },
     {
-      "added_at": "2025-02-21 00:41:05",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/4jQ1JiwWfA3LPQoTj4C6LG"
-      },
-      "artists": [
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/6e5u5ZJSloCPSqEbTaJU9G"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Erase You",
@@ -1447,6 +1411,38 @@
       "duration_ms": 209076,
       "name": "Erase You",
       "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
+    },
+    {
+      "added_at": "2025-02-21 00:41:05",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4jQ1JiwWfA3LPQoTj4C6LG"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/6e5u5ZJSloCPSqEbTaJU9G"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "added_at": "2024-03-22 11:28:03",
@@ -1471,22 +1467,6 @@
       "duration_ms": 157938,
       "name": "The Riddle",
       "url": "https://open.spotify.com/track/2ZOUfWO1AeHk7f9ocyUvmR"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1549,6 +1529,26 @@
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
       "added_at": "2025-07-04 00:41:07",
       "album": {
         "name": "Promise",
@@ -1571,26 +1571,6 @@
       "duration_ms": 165123,
       "name": "Promise",
       "url": "https://open.spotify.com/track/5EO8rrnIPika2w7kIGORft"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -2051,6 +2031,26 @@
       "duration_ms": 225813,
       "name": "Roses (feat. ROZES)",
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
+    },
+    {
+      "added_at": "2026-01-19 09:05:06",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     }
   ],
   "unique_name": "EDM Top 100",

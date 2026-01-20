@@ -4,7 +4,7 @@
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-30 songs - 23 hr 52 min
+30 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [EP 42: In Aid of Alien: Ang Dating Doon Reunion \(with guests Caesar Cosme, Isko Salvador, & Chito Francisco\)](https://open.spotify.com/episode/2CWsnRRmVsifOTIU3Gnkno) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 47:16 | 2025-11-19 | 2025-12-18 |
 | [EP 43: In Aid of Main Character: Mga Kontrabidang Bida\-bida \(with guest Baus Rufo\)](https://open.spotify.com/episode/55vVpvfQEFcaixOTkYC2Dc) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 49:31 | 2025-11-19 | 2025-12-18 |
 | [EP 46: In Aid of Sex Appeal: Basta Dancer, Sexy Lover \(with guest Sexbomb Jopay and Aira\)](https://open.spotify.com/episode/5qFstTnKpkPMilGGqTiaNN) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 51:47 | 2025-12-17 |  |
-| [EP 48: In Aid of Money Problems \- Nakakasira o Nakakatibay ng Relasyon? \(with Lovely Abella and Benj Manalo\)](https://open.spotify.com/episode/6wZfBRVTgxMyDxmaiaJ7ZM) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 52:33 | 2025-12-17 |  |
+| [EP 48: In Aid of Money Problems \- Nakakasira o Nakakatibay ng Relasyon? \(with Lovely Abella and Benj Manalo\)](https://open.spotify.com/episode/6wZfBRVTgxMyDxmaiaJ7ZM) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 51:02 | 2025-12-17 |  |
 | [Ep\. 19: Si Abi Marquez AKA Lumpia Queen is the Lea Salonga of Pinoy cooking content\. Paano niya na collab si Gordon Ramsey, Nigel Ng, ATBP?](https://open.spotify.com/episode/2ohVYaO19QU3KjxUAT2yk0) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 49:29 | 2025-11-19 | 2025-12-18 |
 | [Ep\. 24: These Chicks 2 Go are here 2 stay! ](https://open.spotify.com/episode/4sv3FgrGGLJWpivX8XHZDV) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 1:01:31 | 2025-11-19 | 2025-12-18 |
 | [Ep\. 27: Depressed ka ba? Ayaw mo nang mabuhay? May lunas ba dito? Pag usapan natin ang mental health with Doc Joanna Herrera.](https://open.spotify.com/episode/3e1iAY3hHmUyB5YPIhqerW) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 44:12 | 2025-12-17 |  |

@@ -59223,6 +59223,24 @@
     },
     {
       "album": {
+        "name": "Para 2",
+        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Para 2",
+      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
+    },
+    {
+      "album": {
         "name": "Para Dos",
         "url": "https://open.spotify.com/album/4ozt7jSOX2L8lp7yH1M4Uo"
       },
@@ -59242,24 +59260,6 @@
       "duration_ms": 176845,
       "name": "Para Dos",
       "url": "https://open.spotify.com/track/2e3MtRI15mTOqByB2DYrFb"
-    },
-    {
-      "album": {
-        "name": "Para Dos",
-        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
-      },
-      "artists": [
-        {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "date_added": "2026-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166000,
-      "name": "Para Dos",
-      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
     },
     {
       "album": {

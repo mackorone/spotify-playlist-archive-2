@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,096 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,121 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 72 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Jam Fam \(Chanel Show Version\)](https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy) | 3:29 |
 | 73 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
 | 74 | [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K) | [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Delicate Limbs \(feat\. serpentwithfeet\)](https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr) | 3:18 |
-| 75 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 |
-| 76 | [Avoid](https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU) | [mra](https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA) | [Avoid](https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU) | 3:22 |
+| 75 | [Avoid](https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU) | [mra](https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA) | [Avoid](https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU) | 3:22 |
+| 76 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 |
 | 77 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
 | 78 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 79 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |
 | 80 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
-| 81 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
-| 82 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
+| 81 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
+| 82 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
 | 83 | [Rock To The Beat](https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:23 |
 | 84 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
 | 85 | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv) | [Frédéric Sanchez](https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9) | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2) | 1:22 |

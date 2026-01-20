@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-460 songs - 22 hr 20 min
+461 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [jenny jenkins tribute](https://open.spotify.com/track/0KkPB2vwiHsadUZREbP82S) | [LILBADDIETYRONE](https://open.spotify.com/artist/3Q9gITSqraeLAotKbn8Wsp) | [jenny jenkins tribute](https://open.spotify.com/album/19AOOVCHpr2XNY6amT024Y) | 1:06 | 2024-06-04 |  |
 | [JETTLAG](https://open.spotify.com/track/65KimIiZBYdeJxsM7G4KjY) | [Sleepin Blades](https://open.spotify.com/artist/4STGo30u63l1G6NbNDngKh) | [JETTLAG](https://open.spotify.com/album/67A3yJLJKy8y6ZEZHaSy8i) | 1:58 | 2025-10-10 |  |
 | [Jinn](https://open.spotify.com/track/5xRKz6Lld0tVeRUbiBAs8w) | [KyMari](https://open.spotify.com/artist/0MvWSGsWfVesdQLS5StVKJ) | [Jinn](https://open.spotify.com/album/6mYBeYSMHJT7JoDwutDut6) | 2:24 | 2024-06-26 |  |
+| [Junior Partner](https://open.spotify.com/track/4pttWCJ0GJruYWBneXDLLI) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Junior Partner](https://open.spotify.com/album/0yN6hmxRlPBnFHZMItQaLt) | 4:02 | 2026-01-19 |  |
 | [Just To Get By \(Freestyle\)](https://open.spotify.com/track/0I5nT3HMZQu0lMJF2KBgNl) | [Kasstactics](https://open.spotify.com/artist/3g8Te0AL73aNrF4QzodEPb) | [Just To Get By \(Freestyle\)](https://open.spotify.com/album/3zifEk9djxnbiYCdbLC0KS) | 3:00 | 2024-05-22 |  |
 | [Kawasaki](https://open.spotify.com/track/2NwCb3t75gkK0xzVL47rmF) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:51 | 2023-07-26 |  |
 | [Khuzeka](https://open.spotify.com/track/2seJczljFqoMisuncOHl6N) | [Teeprisy](https://open.spotify.com/artist/3LHzeJeBqDW3GxivGAGyQt) | [Thermo endurance enormity philharmonic recite imp sensational yen](https://open.spotify.com/album/43mILfI5s1MDm7jAceTcNi) | 3:12 | 2024-07-16 |  |

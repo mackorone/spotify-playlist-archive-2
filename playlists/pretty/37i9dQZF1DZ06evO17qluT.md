@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,679 likes - 44 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,757 likes - 44 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 43 | [Quadros](https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 5:09 |
 | 44 | [Castelos & Ruínas](https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 4:09 |
 
-Snapshot ID: `aWrRAAAAAAAhGas3WSZUnfIm38pUdxZm`
+Snapshot ID: `aWwigAAAAABFBc6FB78+I2VkkdPz/hd/`

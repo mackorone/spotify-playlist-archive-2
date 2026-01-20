@@ -1,6 +1,6 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2288428,
+  "num_followers": 2288373,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 142737,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
         "name": "The Delicate Nature",
         "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 182407,
       "name": "The Delicate Nature",
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 142737,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
     },
     {
       "added_at": "2024-04-18 19:20:27",

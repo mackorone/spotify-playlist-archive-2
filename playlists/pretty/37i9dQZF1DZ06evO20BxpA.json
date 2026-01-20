@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1578,
+  "num_followers": 1579,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACuu36OCXj+CkbsTBRiWiL7",
+  "snapshot_id": "aWwigAAAAABmtSnGcLNO3yGDyQRIQbUQ",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
         "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 55920,
       "name": "The Seasonal Seas",
       "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103466,
-      "name": "Remember This Moment",
-      "url": "https://open.spotify.com/track/5HAc4BOCh0qOMsKNUS017I"
+      "duration_ms": 170253,
+      "name": "Echo Fires Up Another",
+      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 170253,
-      "name": "Echo Fires Up Another",
-      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+      "duration_ms": 103466,
+      "name": "Remember This Moment",
+      "url": "https://open.spotify.com/track/5HAc4BOCh0qOMsKNUS017I"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Help Us Please",
-      "url": "https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw"
+      "duration_ms": 141400,
+      "name": "A Different Set of Rules",
+      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 141400,
-      "name": "A Different Set of Rules",
-      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+      "duration_ms": 173226,
+      "name": "Help Us Please",
+      "url": "https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Baby Girl Brown",
-      "url": "https://open.spotify.com/track/0CDImTcLCRycAwl6Iu2K4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Eternal Sky",
-        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Magdelana Bay",
-      "url": "https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN"
+      "duration_ms": 174186,
+      "name": "You Are Like a Dream I Had",
+      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Baby Girl Brown",
+      "url": "https://open.spotify.com/track/0CDImTcLCRycAwl6Iu2K4G"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 103546,
-      "name": "A Good Choice",
-      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "Our Eternal Sky",
+        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
       },
       "artists": [
         {
@@ -772,9 +756,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 174186,
-      "name": "You Are Like a Dream I Had",
-      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+      "duration_ms": 197933,
+      "name": "Magdelana Bay",
+      "url": "https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 103546,
+      "name": "A Good Choice",
+      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
     },
     {
       "added_at": null,

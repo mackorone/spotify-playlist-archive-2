@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-356 songs - 1 day 1 hr 59 min
+358 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [514](https://open.spotify.com/track/2vECXvQoLABMxEPMogaERm) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Sleep Box vol.51](https://open.spotify.com/album/24sSd5811YMvEOXmfjYs9s) | 3:02 | 2022-01-07 | 2023-09-23 |
 | [727](https://open.spotify.com/track/0suUEHQAFjinEWzHCmOnf5) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [727](https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja) | 3:29 | 2025-05-02 |  |
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-12-30 |  |
-| [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 |  |
+| [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 | 2026-01-20 |
 | [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 |  |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-02-21 |  |
@@ -88,7 +88,7 @@
 | [ease](https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [ease](https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL) | 2:50 | 2024-03-07 |  |
 | [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 | 2022-10-01 |
 | [Ecliptic Drift](https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Mono Spectrum](https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL) | 2:26 | 2023-10-02 | 2025-05-03 |
-| [Elegance of Nature](https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Elegance of Nature](https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv) | 5:44 | 2025-01-13 |  |
+| [Elegance of Nature](https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Elegance of Nature](https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv) | 5:44 | 2025-01-13 | 2026-01-20 |
 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 | 2022-01-07 | 2022-07-29 |
 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 | 2022-12-30 | 2025-02-08 |
 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 | 2023-04-28 | 2024-04-19 |
@@ -119,6 +119,7 @@
 | [Grass Harp](https://open.spotify.com/track/5oy0BoXi4o83XaAkZ9lMrG) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3VlSsznQDQhW1hIi8FrZXn) | 5:57 | 2022-01-07 |  |
 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 | 2022-12-30 | 2024-04-19 |
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2024-03-07 | 2025-01-25 |
+| [Hallucination](https://open.spotify.com/track/6DtKj57NhI4fsRjisPsHN8) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Hallucination](https://open.spotify.com/album/7uC2fIb54TkrcnXIWm0b3y) | 2:08 | 2026-01-09 |  |
 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 |  |
 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 | 2024-09-06 |
 | [Hebisan](https://open.spotify.com/track/0Uj5EwGUbETVxa2c6RXMq7) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Hanazono](https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy) | 2:10 | 2025-05-02 | 2025-05-17 |
@@ -350,6 +351,7 @@
 | [ソファで夢を見る](https://open.spotify.com/track/3sY2TmsgA8e1dx5ZyCyJt0) | [STILLZ](https://open.spotify.com/artist/5U2OgD5Qd1SgfCP7swmDnI), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [separated at birth](https://open.spotify.com/album/5N1rxL68D9q48lPfiseq0Q) | 4:36 | 2025-06-27 |  |
 | [ホタル](https://open.spotify.com/track/02JgKm14vFP4VZHnCmybm3) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [フィルハーモニー](https://open.spotify.com/album/3WFwWemOagEeB7XdtveFLe) | 4:26 | 2025-03-21 | 2025-06-04 |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 | 2025-01-14 |
+| [井戸\(well\)](https://open.spotify.com/track/0H8xAysWqLKS2BGJ36jVtz) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [井戸\(well\)](https://open.spotify.com/album/7F3WWTU0p7O4OyCzXmi02C) | 2:44 | 2026-01-09 |  |
 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 | 2025-03-06 |  |
 | [光の塵](https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 5:03 | 2023-10-13 |  |
 | [内観](https://open.spotify.com/track/04uCBal0XPvgFWMMAcQEUI) | [GOMA](https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg) | [ひかりの世界](https://open.spotify.com/album/7FZWjBCdsqHsvG7oazvHmN) | 20:12 | 2025-02-21 |  |

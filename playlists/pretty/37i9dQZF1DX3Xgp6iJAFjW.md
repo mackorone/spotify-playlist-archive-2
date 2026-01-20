@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,267 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,261 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 45 | [Arbolito](https://open.spotify.com/track/0tCZl9jBqwfqo2n9s1qbAI) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Navidad en Borínquen](https://open.spotify.com/album/4aepF49pb9dljNnzXgisO0) | 4:43 |
 | 46 | [El Rondon](https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:34 |
 | 47 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 |
-| 48 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 |
-| 49 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
+| 48 | [Desenfunda](https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 3:55 |
+| 49 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 |
 | 50 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 |
 | 51 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 |
 | 52 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 96 | [Diciembre \(feat\. Ismael Miranda & Oscar Serrano\)](https://open.spotify.com/track/62tBftJvdBsJWnF7FRJYts) | [Julio César Sanabria](https://open.spotify.com/artist/7mSNsfodgXzpuYNl7qucXN), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Oscar Serrano](https://open.spotify.com/artist/3JVWQ7QMUhs9WZW6dC3Fqc) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 3:09 |
 | 97 | [Aguinaldo Antillano](https://open.spotify.com/track/4cSb2YhIADVMTrJPjxIPBp) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:56 |
 | 98 | [Porque Me Gusta la Rumba](https://open.spotify.com/track/1QwC66ulIsyJhHg1kTw1ms) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 3:54 |
-| 99 | [Joy to the World](https://open.spotify.com/track/31NXIjQatVVF4J94tj6PAS) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Salsa Christmas](https://open.spotify.com/album/3UCpUhi8mg7mXSyaLtMbSG) | 5:16 |
-| 100 | [El Aguinaldo de Doña Elena](https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Navidad a Mi Estilo](https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H) | 4:14 |
+| 99 | [El Aguinaldo de Doña Elena](https://open.spotify.com/track/3rQIGx2oxTI9DUFHTjRGTG) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Navidad a Mi Estilo](https://open.spotify.com/album/1VUH7FLhnfscPhy36p8m8H) | 4:14 |
+| 100 | [Joy to the World](https://open.spotify.com/track/31NXIjQatVVF4J94tj6PAS) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Salsa Christmas](https://open.spotify.com/album/3UCpUhi8mg7mXSyaLtMbSG) | 5:16 |
 
 Snapshot ID: `AAAAALJPltAq0tELvohcQr9s/hHLW73j`

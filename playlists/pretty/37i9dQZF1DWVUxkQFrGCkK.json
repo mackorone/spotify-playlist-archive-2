@@ -1,12 +1,12 @@
 {
   "description": "Tulum szn",
-  "num_followers": 407746,
+  "num_followers": 407750,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGjuQkdkueJTnLp/y6FgXVSdXaP",
+  "snapshot_id": "AAAAAKZ+bXZDpE+BKa6toreDkQTUf3+r",
   "tracks": [
     {
       "added_at": "2026-01-08 23:00:08",
@@ -183,6 +183,30 @@
       "duration_ms": 135365,
       "name": "Can't Touch This",
       "url": "https://open.spotify.com/track/6oQ1yfN4SQx2ygLD0wPH2s"
+    },
+    {
+      "added_at": "2026-01-19 08:43:11",
+      "album": {
+        "name": "Burning Bright, pt. II",
+        "url": "https://open.spotify.com/album/2BExcohtZcLb984JR4C9XQ"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Art",
+          "url": "https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M"
+        },
+        {
+          "name": "ISIKO",
+          "url": "https://open.spotify.com/artist/5oAxiIrZ5glZIg3RkQEixN"
+        },
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        }
+      ],
+      "duration_ms": 198689,
+      "name": "Burning Bright, pt. II",
+      "url": "https://open.spotify.com/track/3x1EDL2tBIjgTzfFUFHab2"
     },
     {
       "added_at": "2026-01-08 23:00:08",

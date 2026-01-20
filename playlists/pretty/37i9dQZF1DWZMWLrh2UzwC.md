@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Madison Beer, Charlie Puth, Charli xcx, DxS, Hafiz Suip, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,168 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,167 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 5 | [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 |
 | 6 | [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 |
 | 7 | [Yang Engkau Mahukan](https://open.spotify.com/track/2ggVMWtE8vvmECNgRHyCp3) | [Hafiz Suip](https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW) | [Yang Engkau Mahukan](https://open.spotify.com/album/4b0hNFxFkxLzInInzDd5Nn) | 3:59 |
-| 8 | [Gong Xi Kemeriahan](https://open.spotify.com/track/53lBOwVTyLfhVGPEjhqx87) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Gong Xi Kemeriahan](https://open.spotify.com/album/38IPLlYeWQL02sqXlt5e21) | 2:25 |
+| 8 | [心意相拌 ｜ Gongxi Kemeriahan by NESCAFÉ GOLD](https://open.spotify.com/track/53lBOwVTyLfhVGPEjhqx87) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [心意相拌 ｜ Gongxi Kemeriahan by NESCAFÉ GOLD](https://open.spotify.com/album/38IPLlYeWQL02sqXlt5e21) | 2:25 |
 | 9 | [Arguments](https://open.spotify.com/track/5OYaC9RWaMMmcedHDTJRqT) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Arguments](https://open.spotify.com/album/7x3MVms5HfbrZbboPeU74F) | 3:38 |
 | 10 | [Hello Mellow](https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHLIST](https://open.spotify.com/album/0AbenVXd5ypXotWe1z0ytw) | 3:02 |
 | 11 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 89 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/1uSxWX6zhhqwoopRS0wWaa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [When It's Cold I'd Like to Die](https://open.spotify.com/album/0D7jPdOOrPARdIYCmY8d4X) | 4:16 |
 | 90 | [Go Mode](https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Go Mode](https://open.spotify.com/album/7Fph1Fv8ybagzOa8If8oVg) | 3:08 |
 | 91 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
-| 92 | [かすかなはな \- Kasuka na Hana \- \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [かすかなはな \- Kasuka na Hana \- \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq) | 3:07 |
+| 92 | [かすかなはな \- Kasuka na Hana \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [かすかなはな \- Kasuka na Hana \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq) | 3:07 |
 | 93 | [MAGICAL](https://open.spotify.com/track/0OGFStrrrceuXwutbAGQro) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [MAGICAL](https://open.spotify.com/album/1cw8om3npdHWJsywjEiXQM) | 3:25 |
 | 94 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 95 | [favorite song](https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [favorite song](https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH) | 3:21 |

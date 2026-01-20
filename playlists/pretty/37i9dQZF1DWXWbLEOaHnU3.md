@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,046 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,107 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 61 | [Dont Blame Me](https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dont Blame Me](https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS) | 5:10 |
 | 62 | [Sun & Moon \- Blastoyz Remix](https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Sun & Moon \(Blastoyz Remix\)](https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG) | 3:31 |
 | 63 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
-| 64 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
-| 65 | [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 |
+| 64 | [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 |
+| 65 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
 | 66 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
 | 67 | [Extra\-Terra](https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Extra\-Terra](https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4) | 3:51 |
 | 68 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 |

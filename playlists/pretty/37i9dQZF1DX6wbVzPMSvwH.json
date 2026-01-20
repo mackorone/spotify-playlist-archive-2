@@ -1,13 +1,29 @@
 {
   "description": "Lagu-lagu positif untuk mengawali harimu.",
-  "num_followers": 253669,
+  "num_followers": 253675,
   "original_name": "Semangat Pagi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdHu1Lp2X3cGDzjKLN+22Fj/cCe",
+  "snapshot_id": "AAAAADJie9hoaBeQnydAIY7bEc+pRg+b",
   "tracks": [
+    {
+      "added_at": "2026-01-19 07:43:01",
+      "album": {
+        "name": "Belia",
+        "url": "https://open.spotify.com/album/1eu5CqoUQqQvYm3TDDRINa"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "duration_ms": 305614,
+      "name": "Belia",
+      "url": "https://open.spotify.com/track/7zIx12pGZl51rAxO03Fxi1"
+    },
     {
       "added_at": "2025-09-25 10:34:58",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2"
     },
     {
+      "added_at": "2026-01-19 07:43:01",
+      "album": {
+        "name": "Ya Sudahlah",
+        "url": "https://open.spotify.com/album/13YkBL0dwHpBgGAWNFI1mA"
+      },
+      "artists": [
+        {
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
+        }
+      ],
+      "duration_ms": 243214,
+      "name": "Ya Sudahlah",
+      "url": "https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA"
+    },
+    {
       "added_at": "2025-07-17 17:00:12",
       "album": {
         "name": "TEATER NESTAPA",
@@ -55,6 +87,34 @@
       "duration_ms": 208500,
       "name": "Masih Takut Mencinta",
       "url": "https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1"
+    },
+    {
+      "added_at": "2026-01-19 07:43:01",
+      "album": {
+        "name": "TAGULING-GULING",
+        "url": "https://open.spotify.com/album/2PEL4HwjE2RMwLCnqZvjna"
+      },
+      "artists": [
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        },
+        {
+          "name": "Jacson Zeran",
+          "url": "https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp"
+        },
+        {
+          "name": "Ecko Show",
+          "url": "https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp"
+        },
+        {
+          "name": "Diva Aurel",
+          "url": "https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u"
+        }
+      ],
+      "duration_ms": 281856,
+      "name": "TAGULING-GULING",
+      "url": "https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm"
     },
     {
       "added_at": "2025-05-09 07:33:16",
@@ -87,6 +147,34 @@
       "duration_ms": 225153,
       "name": "Lesung Pipi",
       "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
+    },
+    {
+      "added_at": "2026-01-19 07:43:01",
+      "album": {
+        "name": "Original Cast Recording Musikal Perahu Kertas",
+        "url": "https://open.spotify.com/album/0N7Gcu2OCc9n4suzDNSRO7"
+      },
+      "artists": [
+        {
+          "name": "Original Cast Musikal Perahu Kertas",
+          "url": "https://open.spotify.com/artist/2AW9GTVvrGp0tx1E6RLaNk"
+        },
+        {
+          "name": "Dewara Zaqqi",
+          "url": "https://open.spotify.com/artist/4WG4L2FpRNNabX0jjpERk5"
+        },
+        {
+          "name": "Alia Syahrani",
+          "url": "https://open.spotify.com/artist/0KN6bxfLV3tzkS1FojlOmr"
+        },
+        {
+          "name": "Trust Collective",
+          "url": "https://open.spotify.com/artist/5Cc1Cd0MgxNIcfSeGcXbzn"
+        }
+      ],
+      "duration_ms": 209310,
+      "name": "Miliaran Manusia",
+      "url": "https://open.spotify.com/track/0DzNESLoRyoSA481GAh08B"
     },
     {
       "added_at": "2025-09-29 06:20:31",

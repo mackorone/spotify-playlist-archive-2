@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33655,
+  "num_followers": 33659,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 402265,
+      "name": "Primavera Porte\u00f1a",
+      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "L\u00fadico",
         "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 306999,
       "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
       "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 402265,
-      "name": "Primavera Porte\u00f1a",
-      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 395117,
       "name": "Chacafrik",
       "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 251376,
-      "name": "Arenales Blues",
-      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -511,22 +495,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
       },
       "artists": [
         {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
         }
       ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
+      "duration_ms": 251376,
+      "name": "Arenales Blues",
+      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -543,6 +523,26 @@
       "duration_ms": 374748,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+        }
+      ],
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -595,6 +595,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
+        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
+      },
+      "artists": [
+        {
+          "name": "Nestor Astarita",
+          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
+        },
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 413595,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
         "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
-        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
-      },
-      "artists": [
-        {
-          "name": "Nestor Astarita",
-          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
-        },
-        {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
-        }
-      ],
-      "duration_ms": 413595,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Umbral de M\u00ed",
-        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 349454,
       "name": "Blue in Green (Sky and Sea)",
       "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Umbral de M\u00ed",
+        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Ed\u00e9n",
+        "url": "https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR"
+      },
+      "artists": [
+        {
+          "name": "Sergio Wagner",
+          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "Masche",
+      "url": "https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 237240,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Ed\u00e9n",
-        "url": "https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR"
-      },
-      "artists": [
-        {
-          "name": "Sergio Wagner",
-          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
-        }
-      ],
-      "duration_ms": 397240,
-      "name": "Masche",
-      "url": "https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Fragmentos del mundo",
         "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 329264,
       "name": "El cristal de los otros",
       "url": "https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1203,6 +1203,22 @@
       "duration_ms": 356723,
       "name": "De Pie",
       "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
+      },
+      "artists": [
+        {
+          "name": "Pepi Taveira",
+          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
+        }
+      ],
+      "duration_ms": 389440,
+      "name": "Reuni\u00f3n",
+      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1247,22 +1263,6 @@
       "duration_ms": 347200,
       "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
       "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
-      },
-      "artists": [
-        {
-          "name": "Pepi Taveira",
-          "url": "https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2"
-        }
-      ],
-      "duration_ms": 389440,
-      "name": "Reuni\u00f3n",
-      "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
     },
     {
       "added_at": "2025-04-14 14:58:34",

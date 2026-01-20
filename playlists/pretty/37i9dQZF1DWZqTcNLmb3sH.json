@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Mark",
-  "num_followers": 66916,
+  "num_followers": 66941,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIC4df2IYIv72s/PrhdlivHttndn",
+  "snapshot_id": "AAAAAFz3EF+HiMad/CY4/oOktHw4U2zT",
   "tracks": [
     {
       "added_at": "2026-01-14 10:57:55",
@@ -59,6 +59,62 @@
       "duration_ms": 265716,
       "name": "Ellinda Bande Neenu (From \"Katle\")",
       "url": "https://open.spotify.com/track/1PgXIN7REIlNzO32ZNlNrC"
+    },
+    {
+      "added_at": "2026-01-19 08:21:17",
+      "album": {
+        "name": "Dhandoraa (Kannada)",
+        "url": "https://open.spotify.com/album/145FpojZKyqlpmq97W6pqf"
+      },
+      "artists": [
+        {
+          "name": "Mark K Robin",
+          "url": "https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I"
+        },
+        {
+          "name": "Reshma Balu",
+          "url": "https://open.spotify.com/artist/3nqSosr1vyqF37PbOU7IWQ"
+        },
+        {
+          "name": "Sharath",
+          "url": "https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup"
+        },
+        {
+          "name": "Santosh",
+          "url": "https://open.spotify.com/artist/5HcHG1CZKl62j3qUETww0W"
+        }
+      ],
+      "duration_ms": 198027,
+      "name": "Hee Dangoora Hodithaytho",
+      "url": "https://open.spotify.com/track/6RuOoLRgdczInQHbjR3aKe"
+    },
+    {
+      "added_at": "2026-01-19 08:24:42",
+      "album": {
+        "name": "Benki Song (From \"Graamaayana\")",
+        "url": "https://open.spotify.com/album/55p43L7AszcB1gbWbO2TZE"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Poornachandra Tejaswi SV",
+          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
+        },
+        {
+          "name": "Chi. Udayashankar",
+          "url": "https://open.spotify.com/artist/2pj2M5Ev8R8MfO3I6Em9WL"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Benki Song (From \"Graamaayana\")",
+      "url": "https://open.spotify.com/track/0DiJstTJ5dqsOEqm8vmQin"
     },
     {
       "added_at": "2026-01-16 10:25:54",
@@ -1461,22 +1517,6 @@
       "url": "https://open.spotify.com/track/5bb0ZYVXHqc2KMRMoGlXka"
     },
     {
-      "added_at": "2025-12-13 14:52:54",
-      "album": {
-        "name": "The Ruler Teaser Theme Music (From \"LANDLORD\")",
-        "url": "https://open.spotify.com/album/58hhF6rql1NwHTlG1Dgtkn"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 72458,
-      "name": "The Ruler Teaser Theme Music (From \"LANDLORD\")",
-      "url": "https://open.spotify.com/track/0eacPqDM8bepLWltS3VKKs"
-    },
-    {
       "added_at": "2025-12-12 09:01:30",
       "album": {
         "name": "Aleva Moda (Original Motion Picture Soundtrack)",
@@ -1819,30 +1859,6 @@
       "duration_ms": 193709,
       "name": "Alohomora - The True Emperor (From \"The Devil\")",
       "url": "https://open.spotify.com/track/4FNVECfp3tA1TwqmE6ImRJ"
-    },
-    {
-      "added_at": "2025-11-16 14:45:01",
-      "album": {
-        "name": "Jalala Dhaareye (From \"Paatashaala\")",
-        "url": "https://open.spotify.com/album/2dZWgGFudwAbcmcmjoKN7l"
-      },
-      "artists": [
-        {
-          "name": "Vikas Vasishta",
-          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
-        },
-        {
-          "name": "Heddur Manjunath Shetty",
-          "url": "https://open.spotify.com/artist/0uSrGEfHp6EZgF0zkVLHQV"
-        },
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        }
-      ],
-      "duration_ms": 241868,
-      "name": "Jalala Dhaareye (From \"Paatashaala\")",
-      "url": "https://open.spotify.com/track/4iHKQgZPkKnrlPS5WWvzQT"
     },
     {
       "added_at": "2025-10-10 16:18:54",

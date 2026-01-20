@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-465 songs - 1 day 0 hr 38 min
+467 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [broke.exe](https://open.spotify.com/track/6UwZDT9FztV3QdwlSd5Pdf) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [INTERNET PROTOGEN](https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw) | 2:00 | 2025-07-03 |  |
 | [broken bottles](https://open.spotify.com/track/3BSoT0FpJcehfxxGZIdxxM) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [broken bottles](https://open.spotify.com/album/5ol4vdyNW2TTu299hJZ1xL) | 4:44 | 2025-01-08 |  |
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 | 2025-10-05 |
+| [But Here I Am](https://open.spotify.com/track/368hTXXzUrlW3uqxBrSbjA) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 2:37 | 2026-01-19 |  |
 | [By The Pier](https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [By The Pier](https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ) | 2:05 | 2025-10-19 | 2025-10-21 |
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2024-05-28 |  |
 | [can't let go](https://open.spotify.com/track/2frSr3yYR4kavDgpntENvx) | [elliestation](https://open.spotify.com/artist/5bjBGNzmL0Ro8u0xYTnWdH) | [can't let go](https://open.spotify.com/album/0awaO9su8qwaYdGmoYMZss) | 2:34 | 2026-01-02 |  |
@@ -325,6 +326,7 @@
 | [POLLY POCKET](https://open.spotify.com/track/4GE1D72H9NvtQrrovIINeF) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [POM\-POM GUILLOTINE](https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ) | 2:24 | 2025-08-12 |  |
 | [pop out](https://open.spotify.com/track/3tSI0wuDInKwve6q4LwV2B) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:16 | 2024-07-25 |  |
 | [Pop Rocks](https://open.spotify.com/track/2s7CHkCAkTKVPhRWiPcOa6) | [Cherry Hencefox](https://open.spotify.com/artist/75vbeFCGdoCdbK6M8aBVta) | [Pop Rocks](https://open.spotify.com/album/2FEABvDtGdO5nhUVFQGbiE) | 3:12 | 2024-10-11 |  |
+| [POP! THAT! POOLTOY! \- WONDER MIX](https://open.spotify.com/track/4x4tUMqjPl8UHS13pMybbm) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [camelCase](https://open.spotify.com/album/7FVvGt3r2POOmQDdNbBv3n) | 1:33 | 2026-01-19 |  |
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
 | [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 |  |
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |

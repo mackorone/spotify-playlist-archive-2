@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1761125,
+  "num_followers": 1761291,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1695,6 +1695,46 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "The Sound of Goodbye (Part 2)",
+        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Perpetuous Dreamer",
+          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
+      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
       },
@@ -1799,26 +1839,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Sound of Goodbye (Part 2)",
-        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Perpetuous Dreamer",
-          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
-      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 281516,
       "name": "Day 'N' Night - Club Mix",
       "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
     },
     {
       "added_at": "2024-07-12 15:40:20",

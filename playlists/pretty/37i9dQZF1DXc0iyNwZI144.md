@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,590 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,627 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 65 | [Glamour Girl](https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC) | [Louie Austen](https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X) | [Iguana](https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O) | 5:01 |
 | 66 | [Cry Dancing](https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing](https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl) | 2:59 |
 | 67 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
-| 68 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
-| 69 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
+| 68 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
+| 69 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
 | 70 | [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 |
 
 Snapshot ID: `AAAAAKNf7ZRoI50JR2YDDxuT6kV7PfYt`

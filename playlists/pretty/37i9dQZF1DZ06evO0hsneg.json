@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABs7KDMzi8je2LzLo6o/gcd",
+  "snapshot_id": "aWwigAAAAAB69UnQBgNUAYtcD572m5di",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be My Baby",
-        "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Egnever",
-          "url": "https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I"
-        }
-      ],
-      "duration_ms": 151020,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEKADE",
         "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 214109,
       "name": "Onto The Next",
       "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be My Baby",
+        "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Egnever",
+          "url": "https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I"
+        }
+      ],
+      "duration_ms": 151020,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        }
+      ],
+      "duration_ms": 174767,
+      "name": "i make time (feat. Matter Mos)",
+      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Touch Me",
         "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
       },
@@ -519,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        }
-      ],
-      "duration_ms": 174767,
-      "name": "i make time (feat. Matter Mos)",
-      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't No MF (feat. pH-1)",
         "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO DIS?",
-        "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 124987,
-      "name": "WHO DIS?",
-      "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOOD GIRL",
         "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 173871,
       "name": "GOOD GIRL",
       "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO DIS?",
+        "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 124987,
+      "name": "WHO DIS?",
+      "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 154583,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FASHION",
         "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 193853,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 154583,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
       "duration_ms": 169796,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
     },
     {
       "added_at": null,
@@ -1027,6 +1011,22 @@
       "duration_ms": 186450,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/65UyGdjVnl51XYtTtn8Fw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
     },
     {
       "added_at": null,

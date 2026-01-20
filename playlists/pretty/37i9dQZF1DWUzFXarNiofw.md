@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Girlfriend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,390 likes - 184 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,429 likes - 184 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

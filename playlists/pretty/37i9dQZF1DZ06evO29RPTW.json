@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 134303,
+  "num_followers": 134323,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACRbhLEeqxakg52Bc2hmh57",
+  "snapshot_id": "aWwigAAAAABiGKH4xZnJBZjokuWq77nx",
   "tracks": [
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Lords Of Salem",
-      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
+      "duration_ms": 218000,
+      "name": "The Scorpion Sleeps",
+      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 218000,
-      "name": "The Scorpion Sleeps",
-      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
+      "duration_ms": 253746,
+      "name": "Lords Of Salem",
+      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
     },
     {
       "added_at": null,

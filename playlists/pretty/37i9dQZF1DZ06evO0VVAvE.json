@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8620,
+  "num_followers": 8658,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACj6xOortzhfjhEVlpBnWQv",
+  "snapshot_id": "aWwigAAAAACbGFapwKKlw51+IYPPgobO",
   "tracks": [
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "Pay Me",
+        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
       },
       "artists": [
+        {
+          "name": "Panaache",
+          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 173871,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
+      "duration_ms": 127529,
+      "name": "Pay Me",
+      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
     },
     {
       "added_at": null,
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pay Me",
-        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
       "artists": [
-        {
-          "name": "Panaache",
-          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 127529,
-      "name": "Pay Me",
-      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
+      "duration_ms": 173871,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 169195,
       "name": "Jogo (Smoke Up)",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

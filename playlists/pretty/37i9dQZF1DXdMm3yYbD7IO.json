@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 566136,
+  "num_followers": 566405,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "The Greatest Hits",
         "url": "https://open.spotify.com/album/3bRdFxQZdU5g6VjLq8KaU7"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 250626,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/0CtkjgZpkgnW7U6WmHsakD"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Poison (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Poison (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
-      },
-      "artists": [
-        {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Mr. Vain Recall",
         "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Love Is Not Sex",
-        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
-      },
-      "artists": [
-        {
-          "name": "Captain Hollywood Project",
-          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "More And More - Single Version",
-      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Fiesta Macarena",
         "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Love Is Not Sex",
+        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "More And More - Single Version",
+      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/09KqsXmFtmMiRi885CPxOq"
+      },
+      "artists": [
+        {
+          "name": "The Outhere Brothers",
+          "url": "https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Boom Boom Boom (Radio Version)",
+      "url": "https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 178880,
       "name": "Feel It - Radio Version",
       "url": "https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/09KqsXmFtmMiRi885CPxOq"
-      },
-      "artists": [
-        {
-          "name": "The Outhere Brothers",
-          "url": "https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Boom Boom Boom (Radio Version)",
-      "url": "https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Hear My Cry",
-        "url": "https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff"
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU"
       },
       "artists": [
         {
-          "name": "Sonique",
-          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
         }
       ],
-      "duration_ms": 240866,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi"
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM"
     }
   ],
   "unique_name": "90's Workout",

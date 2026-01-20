@@ -27,18 +27,18 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/4BmzK2rkU0mJJzfkugX0NG"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2oADPwknKEfMtwpMnr7xfg"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/4BmzK2rkU0mJJzfkugX0NG"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2oADPwknKEfMtwpMnr7xfg"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e9\u05e7\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ"
-      },
-      "artists": [
-        {
-          "name": "\u05d3\u05d5\u05d3\u05d0",
-          "url": "https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do"
-        }
-      ],
-      "duration_ms": 227205,
-      "name": "\u05dc\u05d0 \u05dc\u05d4\u05de\u05e6\u05d9\u05d0",
-      "url": "https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d0\u05d5\u05e9\u05e8 \u05db\u05d4\u05df",
         "url": "https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 184188,
       "name": "\u05d2\u05e9\u05dd",
       "url": "https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e9\u05e7\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ"
+      },
+      "artists": [
+        {
+          "name": "\u05d3\u05d5\u05d3\u05d0",
+          "url": "https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do"
+        }
+      ],
+      "duration_ms": 227205,
+      "name": "\u05dc\u05d0 \u05dc\u05d4\u05de\u05e6\u05d9\u05d0",
+      "url": "https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "\u05d1\u05d0\u05de\u05e4\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 147000,
       "name": "\u05d1\u05d0\u05de\u05e4\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "THE LAST EPISODE",
         "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 201080,
       "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
       "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
-      },
-      "artists": [
-        {
-          "name": "Full Trunk",
-          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
-        }
-      ],
-      "duration_ms": 297983,
-      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05dc\u05d5\u05e4",
         "url": "https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 163213,
       "name": "\u05dc\u05d5\u05e4",
       "url": "https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
+      },
+      "artists": [
+        {
+          "name": "Full Trunk",
+          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
+        }
+      ],
+      "duration_ms": 297983,
+      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 251881,
-      "name": "\u05d0\u05dc \u05ea\u05e4\u05d7\u05d3",
-      "url": "https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d2\u05d9\u05d8\u05e8\u05d4 \u05d5\u05dc\u05e0\u05e9\u05d5\u05dd",
         "url": "https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 178339,
       "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 251881,
+      "name": "\u05d0\u05dc \u05ea\u05e4\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 238000,
       "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 163522,
-      "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 217000,
       "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 163522,
+      "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh"
     },
     {
       "added_at": "2026-01-16 15:38:53",

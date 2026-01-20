@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,751 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,778 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 6 | [Summertime](https://open.spotify.com/track/3eYCJXTViFwl5mdtcTsF4G) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:01 |
 | 7 | [Kozmic Blues](https://open.spotify.com/track/7eYYxblNEZKKeTT0HBQbXO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 4:20 |
 | 8 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 |
-| 9 | [Mercedes Benz](https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 1:47 |
+| 9 | [Move Over](https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:43 |
 | 10 | [I Need a Man to Love](https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:55 |
 | 11 | [Little Girl Blue](https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:47 |
 | 12 | [Down On Me](https://open.spotify.com/track/42TKLlMFDXauhLzj7zOPUx) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:07 |
-| 13 | [Move Over](https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:43 |
+| 13 | [Mercedes Benz](https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 1:47 |
 | 14 | [One Night Stand](https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Farewell Song](https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00) | 3:04 |
 | 15 | [Try \(Just a Little Bit Harder\)](https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:57 |
 | 16 | [Ball and Chain](https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 9:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
 | 50 | [Long Black Train](https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:54 |
 
-Snapshot ID: `aWrRAAAAAAB70eBq0OL+o+jOH6lrNXYQ`
+Snapshot ID: `aWwigAAAAABk2jPU4Rd23yAOmH+rpKT0`

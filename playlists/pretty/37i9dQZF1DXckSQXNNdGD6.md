@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Luna Ki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,234 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,235 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 10 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 11 | [muy buena suerte!](https://open.spotify.com/track/3svm7a4nFjzomdx3LPdUpI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [muy buena suerte!](https://open.spotify.com/album/57CGytyS2RkWvv18uxlLnI) | 3:16 |
 | 12 | [Un Mundo Feliz](https://open.spotify.com/track/1UwbvBUt2EZYpP5pM6dzfH) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Un Mundo Feliz](https://open.spotify.com/album/7qbBtYrC3VJMH2T5S1cwqC) | 4:31 |
-| 13 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 |
+| 13 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
 | 14 | [Bailando en diciembre](https://open.spotify.com/track/1PU6Hs8kWNHPQSBg34bMWy) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Bailando en diciembre](https://open.spotify.com/album/3GmfAgaMxbWItWwdBGQfzB) | 3:00 |
-| 15 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
+| 15 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 |
 | 16 | [Los que me salvaron](https://open.spotify.com/track/4xY1WAvXeGrsB3dA20kxJr) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Los que me salvaron](https://open.spotify.com/album/3p2TdjupbCBuWbqatEmBpL) | 3:20 |
 | 17 | [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 |
 | 18 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |

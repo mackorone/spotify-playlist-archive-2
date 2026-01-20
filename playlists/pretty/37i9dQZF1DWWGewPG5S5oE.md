@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小曽根 真
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,187 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,200 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 36 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
 | 37 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |
 | 38 | [Samsara](https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [火の鳥](https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm) | 4:39 |
-| 39 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
-| 40 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
+| 39 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
+| 40 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
 | 41 | [All Will Be Fine](https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [All Will Be Fine](https://open.spotify.com/album/5xNbQPNTdNhtZ7Kmon2IgB) | 4:51 |
 | 42 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
 | 43 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 |
-| 44 | [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 |
-| 45 | [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 |
+| 44 | [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 |
+| 45 | [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 |
 | 46 | [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 |
 | 47 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 |
 | 48 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 |

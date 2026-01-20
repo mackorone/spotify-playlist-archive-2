@@ -1,6 +1,6 @@
 {
   "description": "\u2615 \ud83d\udcaa\ud83c\udf73\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udfc3\u2600\ufe0f",
-  "num_followers": 400463,
+  "num_followers": 400426,
   "original_name": "Morning Routine",
   "owner": {
     "name": "Spotify",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-01-15 23:01:18",
       "album": {
+        "name": "ACQUARIO",
+        "url": "https://open.spotify.com/album/4Kb07sqP1OQ9xkfazOi7C3"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 193614,
+      "name": "ACQUARIO",
+      "url": "https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf"
+    },
+    {
+      "added_at": "2026-01-15 23:01:18",
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 220779,
       "name": "La La La",
       "url": "https://open.spotify.com/track/52gvlDnre9craz9dKGObp8"
-    },
-    {
-      "added_at": "2026-01-15 23:01:18",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     }
   ],
   "unique_name": "Morning Routine",

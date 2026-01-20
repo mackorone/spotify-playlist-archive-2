@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAAWpA4uopCKv2uQLDzfe3ke",
+  "snapshot_id": "aWwigAAAAAA/fZVOSezvJT+vNQiXjcyi",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+        "name": "Jackies Are On The March",
+        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176518,
-      "name": "Get Sad, See Mates",
-      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+      "duration_ms": 135630,
+      "name": "Jackies Are On The March",
+      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackies Are On The March",
-        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 135630,
-      "name": "Jackies Are On The March",
-      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+      "duration_ms": 199144,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6VUcZGP4WHMArWaTwCqeRG"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yossarian",
         "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191395,
       "name": "Yossarian",
       "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 220850,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 220850,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loose Threads",
         "url": "https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR"
       },
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 143658,
-      "name": "41 Degrees",
-      "url": "https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0"
+      "duration_ms": 180229,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/1z8Cfz8TBBZHDeiDwZs2Xd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 143658,
+      "name": "41 Degrees",
+      "url": "https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 183662,
       "name": "Benthos",
       "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loose Threads",
-        "url": "https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 180229,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/1z8Cfz8TBBZHDeiDwZs2Xd"
     },
     {
       "added_at": null,

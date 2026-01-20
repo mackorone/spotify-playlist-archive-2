@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,753 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,755 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 12 | [Mad World](https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:57 |
 | 13 | [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 |
 | 14 | [In the Middle of the Night](https://open.spotify.com/track/35zwdnMhebt8gLF4WaCUMz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:11 |
-| 15 | [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [OPVS NOIR Vol\. 1](https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6) | 3:36 |
-| 16 | [Whole World Is Watching \(feat\. Dave Pirner\)](https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Dave Pirner](https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:03 |
+| 15 | [Whole World Is Watching \(feat\. Dave Pirner\)](https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Dave Pirner](https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:03 |
+| 16 | [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [OPVS NOIR Vol\. 1](https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6) | 3:36 |
 | 17 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
 | 18 | [Sinéad](https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 | 19 | [Endless War](https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 49 | [Don't Pray For Me](https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:41 |
 | 50 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
 
-Snapshot ID: `aWrRAAAAAABiVMRiTj8HGxPgYvVzGJ5A`
+Snapshot ID: `aWwigAAAAAA570ZwBqDSsgL2HhvVEzUP`

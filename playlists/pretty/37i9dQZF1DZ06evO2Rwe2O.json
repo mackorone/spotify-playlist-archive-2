@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12854,
+  "num_followers": 12864,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABF+XAJiE48Ldfe02Eec9VD",
+  "snapshot_id": "aWwigAAAAABgGMnKN6nROgWpsIiD50B2",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 283952,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "Trust And Obey",
+      "url": "https://open.spotify.com/track/1pB0uLHifv66pukzMZ94fj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -435,58 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "Trust And Obey",
-      "url": "https://open.spotify.com/track/1pB0uLHifv66pukzMZ94fj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Utmost For His Highest",
-        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 283952,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4vC1IhhSleQa81nbvE5Z8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The Light Comes",
         "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
@@ -499,22 +483,6 @@
       "duration_ms": 268018,
       "name": "Your Love Changes Everything",
       "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Let It Rise",
-      "url": "https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr"
     },
     {
       "added_at": null,
@@ -535,6 +503,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4vC1IhhSleQa81nbvE5Z8L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 232453,
-      "name": "If You Died Tonight",
-      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
+      "duration_ms": 180997,
+      "name": "Lions And Eagles",
+      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Begin",
-        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 180997,
-      "name": "Lions And Eagles",
-      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
+      "duration_ms": 232453,
+      "name": "If You Died Tonight",
+      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 215706,
       "name": "Friend Like You",
       "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
     },
     {
       "added_at": null,

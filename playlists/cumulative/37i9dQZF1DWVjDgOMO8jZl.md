@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Emma Nolde in cover.
 
-208 songs - 9 hr 52 min
+209 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Millemila](https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Millemila](https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC) | 2:48 | 2022-08-31 | 2023-04-12 |
 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 | 2022-08-31 | 2023-04-12 |
 | [Moncherie \(feat\. Epoque\)](https://open.spotify.com/track/3WEIhQXeExw6gRwxvOa1Ny) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 2:43 | 2022-08-31 | 2023-04-12 |
+| [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/album/79UlYn63NrMs1CEvyN1zQS) | 3:29 | 2026-01-19 |  |
 | [Montpellier](https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Montpellier](https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza) | 2:10 | 2022-08-31 | 2022-12-15 |
 | [Moovitè](https://open.spotify.com/track/2ya6KqFdBgwy3So1Qis3qQ) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Gipsy chic // ɔıɥɔ ʎsdıƃ](https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi) | 2:44 | 2023-05-25 | 2024-04-24 |
 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 | 2023-04-11 | 2024-04-24 |

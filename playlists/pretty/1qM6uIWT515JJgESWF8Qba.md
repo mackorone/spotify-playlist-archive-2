@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 308 likes - 81 songs - 5 hr 3 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 308 likes - 82 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 79 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 |
 | 80 | [Dead Man](https://open.spotify.com/track/4CRM17oR3bxMt5ofST1e9B) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 3:17 |
 | 81 | [Como planeta vagabundo](https://open.spotify.com/track/5UmGIbYw7AxvmJtPNDu3Hi) | [SATVRNO](https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn) | [Como planeta vagabundo](https://open.spotify.com/album/0NmxHLhbmrA8oHthzAv5GH) | 4:38 |
+| 82 | [Telarañas](https://open.spotify.com/track/5spl7FjpG0W0btjh3OwLXg) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Telarañas](https://open.spotify.com/album/4ZD0iW02NXZgmpBzd6vC6G) | 4:00 |
 
-Snapshot ID: `AAABFz7VGeN4CxsBXwcyaw/PnY0tOC52`
+Snapshot ID: `AAABGFEaaZwGWje9hczTzCO/3g1bJvpH`

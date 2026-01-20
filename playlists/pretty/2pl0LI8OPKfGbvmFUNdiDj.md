@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 524 likes - 48 songs - 2 hr 43 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 524 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,9 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 46 | [RUIN MY NIGHT](https://open.spotify.com/track/1K26NnEUacXVssx2VyN6Fw) | [KING TUT PROJECT](https://open.spotify.com/artist/49ZU77EBsUGTKXM7dLt9S6), [LIL GHETTI](https://open.spotify.com/artist/69n8TMKQqkLJo6JdppWe5r) | [RUIN MY NIGHT](https://open.spotify.com/album/2MIhhCkCjd7mbne3FHg0AI) | 3:32 |
 | 47 | [That's Crazy](https://open.spotify.com/track/6MUBkK6vyUfEIkzn7cuawW) | [LingoLive](https://open.spotify.com/artist/7lcc5XvNqm84iaWPyLqZji) | [That's Crazy](https://open.spotify.com/album/4o4xmW92QSyghsbmrORDdX) | 2:59 |
 | 48 | [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 |
+| 49 | [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 |
+| 50 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 |
+| 51 | [Ashes](https://open.spotify.com/track/5Ft6nMdweaJkJAJX57SHza) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:57 |
+| 52 | [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 |
 
-Snapshot ID: `AAAC4/CHF2ZIy9HFU9JAzQkvChiYkmkr`
+Snapshot ID: `AAAC58Q2UUdh3W1wwUfF2Va3kD6wseED`

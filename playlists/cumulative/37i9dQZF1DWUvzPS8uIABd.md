@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-872 songs - 1 day 19 hr 33 min
+873 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 | 2025-02-20 | 2025-05-30 |
 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 | 2025-03-20 | 2025-09-19 |
 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 | 2024-12-19 | 2025-03-21 |
+| [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 | 2026-01-19 |  |
 | [Liekki palaa!](https://open.spotify.com/track/56S56MXwKORuVdb0wVy9ZU) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Liekki palaa!](https://open.spotify.com/album/5aA86D8YDUITuuhvlC3uqH) | 3:19 | 2025-04-03 | 2025-04-18 |
 | [Liian lähel aurinkoo](https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Liian lähel aurinkoo](https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m) | 2:39 | 2024-07-11 | 2024-08-23 |
 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 | 2025-04-03 | 2025-04-25 |
@@ -736,7 +737,7 @@
 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 | 2026-01-08 |  |
 | [Toinen elämä](https://open.spotify.com/track/1xjMgO7IMiuvekfNwreG1d) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Toinen elämä](https://open.spotify.com/album/0IFurHEXIkIdwKJND4lChq) | 2:56 | 2025-12-11 | 2026-01-18 |
 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 | 2025-04-10 | 2025-05-30 |
-| [Toisillemme parhaat](https://open.spotify.com/track/5B3Meo3iNYMrfl8C328Ue1) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Toisillemme parhaat](https://open.spotify.com/album/4ij7IXe5wYI18zemE35eBJ) | 4:04 | 2026-01-08 |  |
+| [Toisillemme parhaat](https://open.spotify.com/track/5B3Meo3iNYMrfl8C328Ue1) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Toisillemme parhaat](https://open.spotify.com/album/4ij7IXe5wYI18zemE35eBJ) | 4:04 | 2026-01-08 | 2026-01-20 |
 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 | 2024-10-10 | 2025-01-24 |
 | [Toivon et sä löydät jonkun](https://open.spotify.com/track/0UTkhHNzrafXfnM0O2O6bN) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Toivon et sä löydät jonkun](https://open.spotify.com/album/0lolYxbegIsFencl2tWHQE) | 2:54 | 2025-09-18 | 2025-12-19 |
 | [Tommi \(seksipommi\)](https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Tommi \(seksipommi\)](https://open.spotify.com/album/5I6OiKKrslEEJiEewYBN9G) | 2:24 | 2025-03-06 | 2025-06-13 |

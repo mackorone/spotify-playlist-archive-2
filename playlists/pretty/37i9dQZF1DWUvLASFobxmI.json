@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Calibre 50 en portada.",
-  "num_followers": 524865,
+  "num_followers": 524916,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Sin Foto de Perfil",
-        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 171833,
-      "name": "Sin Foto de Perfil",
-      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184750,
       "name": "Por Que Te Vas De Mi",
       "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Sin Foto de Perfil",
+        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "Sin Foto de Perfil",
+      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "LOKO",
-        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 131754,
-      "name": "LOKO",
-      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Live Session",
         "url": "https://open.spotify.com/album/42xqZPK9rZgoxc8iMYN4eA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 186040,
       "name": "Despu\u00e9s De Ti \u00bfQui\u00e9n? (En Vivo)",
       "url": "https://open.spotify.com/track/0Zr07cfRLH5vJwUgYOIJPV"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "LOKO",
+        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 131754,
+      "name": "LOKO",
+      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "#TB...Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "Estoy Enamorado De Ti",
-      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Prision De Amor",
         "url": "https://open.spotify.com/album/74JcszRMjbUxbMxjG90MPe"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 179840,
       "name": "Prision De Amor",
       "url": "https://open.spotify.com/track/1dn9QUFZYRdBJG4wVQs1rG"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "#TB...Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "Estoy Enamorado De Ti",
+      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "COPILOTO",
-        "url": "https://open.spotify.com/album/3CpatKEcR5zN4wVjCs1nkp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 137663,
-      "name": "COPILOTO",
-      "url": "https://open.spotify.com/track/5I5K8CM4ypCpSQnfof0yra"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Un Mill\u00f3n De Primaveras",
         "url": "https://open.spotify.com/album/2HSpiTwy6jsiHkZPNr2Otw"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 183114,
       "name": "Un Mill\u00f3n De Primaveras",
       "url": "https://open.spotify.com/track/5ovxPSFmeI3ZadzyySBz1B"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "COPILOTO",
+        "url": "https://open.spotify.com/album/3CpatKEcR5zN4wVjCs1nkp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 137663,
+      "name": "COPILOTO",
+      "url": "https://open.spotify.com/track/5I5K8CM4ypCpSQnfof0yra"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Hecha Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "CHE CHE",
         "url": "https://open.spotify.com/album/3i1uH1OCtUBdgX05Y637Ad"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 112518,
       "name": "Resguardando El Estado",
       "url": "https://open.spotify.com/track/725bqAGnFr9L8jxUR2IPck"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
       },
@@ -1647,18 +1627,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Algo Para Siempre",
-        "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
       },
       "artists": [
         {
-          "name": "Destino",
-          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 152088,
-      "name": "Algo Para Siempre",
-      "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
+        "name": "Algo Para Siempre",
+        "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
+      },
+      "artists": [
+        {
+          "name": "Destino",
+          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+        }
+      ],
+      "duration_ms": 152088,
+      "name": "Algo Para Siempre",
+      "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
         "name": "De Ma\u00f1ana en 8 D\u00edas",
         "url": "https://open.spotify.com/album/2HDQE114T4dR6LCae6NxjQ"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "VI : Venimos X M\u00e1s",
-        "url": "https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB"
-      },
-      "artists": [
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
-        }
-      ],
-      "duration_ms": 156789,
-      "name": "Ahora Estoy De M\u00e1s",
-      "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Una Explicaci\u00f3n",
         "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 144791,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "VI : Venimos X M\u00e1s",
+        "url": "https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "duration_ms": 156789,
+      "name": "Ahora Estoy De M\u00e1s",
+      "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "El Corrido De Lamberto",
-        "url": "https://open.spotify.com/album/19Eo4ECWtEZRRfODtSPcHp"
+        "name": "Cajeta",
+        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 149750,
-      "name": "El Corrido De Lamberto",
-      "url": "https://open.spotify.com/track/0k6VZw4MiQYGfkoNSZlAqW"
+      "duration_ms": 176557,
+      "name": "Cajeta",
+      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1819,18 +1815,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Cajeta",
-        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
+        "name": "El Corrido De Lamberto",
+        "url": "https://open.spotify.com/album/19Eo4ECWtEZRRfODtSPcHp"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 176557,
-      "name": "Cajeta",
-      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
+      "duration_ms": 149750,
+      "name": "El Corrido De Lamberto",
+      "url": "https://open.spotify.com/track/0k6VZw4MiQYGfkoNSZlAqW"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Tan Il\u00f3gico",
-        "url": "https://open.spotify.com/album/4bCIsqj4PNtpvWNSSHRRvb"
-      },
-      "artists": [
-        {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
-        }
-      ],
-      "duration_ms": 184223,
-      "name": "Tan Il\u00f3gico",
-      "url": "https://open.spotify.com/track/5bhLbPkQbypM6gXMBit71a"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 186133,
       "name": "Las Calles Enlodadas (En Vivo)",
       "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Tan Il\u00f3gico",
+        "url": "https://open.spotify.com/album/4bCIsqj4PNtpvWNSSHRRvb"
+      },
+      "artists": [
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        }
+      ],
+      "duration_ms": 184223,
+      "name": "Tan Il\u00f3gico",
+      "url": "https://open.spotify.com/track/5bhLbPkQbypM6gXMBit71a"
     },
     {
       "added_at": "2026-01-09 06:00:20",

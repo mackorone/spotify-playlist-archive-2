@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Telara\u00f1as",
+        "url": "https://open.spotify.com/album/4ZD0iW02NXZgmpBzd6vC6G"
+      },
+      "artists": [
+        {
+          "name": "Demonios Del Cielo",
+          "url": "https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Telara\u00f1as",
+      "url": "https://open.spotify.com/track/5spl7FjpG0W0btjh3OwLXg"
+    },
+    {
+      "album": {
         "name": "Television War",
         "url": "https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm"
       },

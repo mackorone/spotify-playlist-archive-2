@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59621,
+  "num_followers": 59620,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAsdVHtby6iRAByXqQ9sOsBqAVWv4uj",
+  "snapshot_id": "AAAsdp+BVjM0Xw9udwuiHx1hCeOOVnso",
   "tracks": [
     {
       "added_at": "2026-01-11 10:12:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
-        "name": "swallow",
-        "url": "https://open.spotify.com/album/606jcVIpm3Mro3V0jkUl18"
-      },
-      "artists": [
-        {
-          "name": "Joey Cash",
-          "url": "https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "swallow",
-      "url": "https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
         "name": "38 inch loveseat",
         "url": "https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 232000,
       "name": "38 inch loveseat",
       "url": "https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "swallow",
+        "url": "https://open.spotify.com/album/606jcVIpm3Mro3V0jkUl18"
+      },
+      "artists": [
+        {
+          "name": "Joey Cash",
+          "url": "https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "swallow",
+      "url": "https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK"
     },
     {
       "added_at": "2026-01-11 10:12:14",

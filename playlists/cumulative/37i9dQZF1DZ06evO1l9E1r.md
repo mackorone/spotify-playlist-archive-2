@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 19 min
+136 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Arthur Comes to Sophie](https://open.spotify.com/track/0dvAO2KbsqDZGv8g03JFRy) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 1:39 | 2023-05-17 | 2023-12-14 |
 | [Ascent](https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 4:42 | 2025-01-24 |  |
 | [Back on TV](https://open.spotify.com/track/71tcJ10SKm3hHLwh5rhDo7) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:23 | 2024-09-30 | 2025-04-12 |
+| [Bare Bones](https://open.spotify.com/track/2SeE2w8x2f0KpQNsQpIOpg) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [28 Years Later: The Bone Temple \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy) | 1:27 | 2026-01-20 |  |
 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 | 2023-02-01 |  |
-| [Battlefield 2042](https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io) | [Battlefield 2042 \(Official Soundtrack\)](https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1) | 2:32 | 2023-02-01 |  |
+| [Battlefield 2042](https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io) | [Battlefield 2042 \(Official Soundtrack\)](https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1) | 2:32 | 2023-02-01 | 2026-01-20 |
 | [Boys](https://open.spotify.com/track/5DKdRHCZpJb93JZzQYurzE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 2:26 | 2023-02-01 | 2023-05-06 |
 | [Bridge of Death](https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 4:44 | 2023-02-01 |  |
 | [Buy Me a Drink First?](https://open.spotify.com/track/7FE7y4u9KWi8BHHBeISTcI) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:13 | 2024-09-30 | 2024-10-07 |

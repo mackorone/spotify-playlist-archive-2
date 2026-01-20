@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 97657,
+  "num_followers": 97679,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Sound Revival",
-        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
-      },
-      "artists": [
-        {
-          "name": "DJ Sbu",
-          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
-        }
-      ],
-      "duration_ms": 436960,
-      "name": "Lengoma",
-      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -359,18 +339,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Uit Die Diepte Van My Hart",
-        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
+        "name": "Sound Revival",
+        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "DJ Sbu",
+          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
         }
       ],
-      "duration_ms": 229586,
-      "name": "Kaptein",
-      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+      "duration_ms": 436960,
+      "name": "Lengoma",
+      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -387,6 +371,22 @@
       "duration_ms": 296080,
       "name": "Umqombothi",
       "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Uit Die Diepte Van My Hart",
+        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Kaptein",
+      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -635,22 +635,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
       },
       "artists": [
         {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        },
-        {
-          "name": "ZANO",
-          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Sondela (feat. Zano)",
-      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -675,18 +671,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Y U 4 Me",
-        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 451466,
-      "name": "Y U 4 Me",
-      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Zabalaza",
         "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 404600,
       "name": "Nizalwa Ngobani?",
       "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Y U 4 Me",
+        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 451466,
+      "name": "Y U 4 Me",
+      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Tsholofelo (Platinum Edition)",
-        "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 231839,
-      "name": "Doc Shebeleza",
-      "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Grand Masters",
         "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 296911,
       "name": "Ndiredi",
       "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Tsholofelo (Platinum Edition)",
+        "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 231839,
+      "name": "Doc Shebeleza",
+      "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
     }
   ],
   "unique_name": "SA Gold",

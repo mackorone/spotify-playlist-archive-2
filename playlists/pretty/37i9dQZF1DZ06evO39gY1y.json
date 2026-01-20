@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 252324,
+  "num_followers": 252364,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADAZfiXfCOYbqrfWyIB+ygo",
+  "snapshot_id": "aWwigAAAAAAkvtOInKk5Y0LFGUA8J32N",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que la Muerte Nos Separe",
-        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
+        "name": "Ynlpa",
+        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Hasta Que la Muerte Nos Separe",
-      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+      "duration_ms": 183472,
+      "name": "Ynlpa",
+      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ynlpa",
-        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
+        "name": "Hasta Que la Muerte Nos Separe",
+        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 183472,
-      "name": "Ynlpa",
-      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+      "duration_ms": 232500,
+      "name": "Hasta Que la Muerte Nos Separe",
+      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
     },
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 209737,
+      "name": "Ma\u00f1ana Vas a Estar Ausente",
+      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No estes triste",
         "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 166499,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 209737,
-      "name": "Ma\u00f1ana Vas a Estar Ausente",
-      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
     },
     {
       "added_at": null,

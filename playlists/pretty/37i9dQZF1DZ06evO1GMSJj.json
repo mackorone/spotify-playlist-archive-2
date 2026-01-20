@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 27139,
+  "num_followers": 27142,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADkgKS+VQeO5IZtM/hkZ4mJ",
+  "snapshot_id": "aWwigAAAAAAx4qF+638S/8qzJOfQ6KKF",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 243546,
-      "name": "Tears From The Compound Eye",
-      "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
+      "duration_ms": 102053,
+      "name": "Constants Are Changing",
+      "url": "https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 102053,
-      "name": "Constants Are Changing",
-      "url": "https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD"
+      "duration_ms": 243546,
+      "name": "Tears From The Compound Eye",
+      "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
       "duration_ms": 92801,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corymb",
-        "url": "https://open.spotify.com/album/2W1DcMSpmpTt8KF3zjKyqd"
-      },
-      "artists": [
-        {
-          "name": "Boom Bip",
-          "url": "https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx"
-        },
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 270746,
-      "name": "Last Walk Around Mirror Lake - Boards of Canada Remix",
-      "url": "https://open.spotify.com/track/4agMFZlZVMPvXcpLewP2tS"
     },
     {
       "added_at": null,

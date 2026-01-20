@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 107251,
+  "num_followers": 107291,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
+        "name": "Ta Sendo",
+        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Ta Sendo",
+      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
         "name": "Delante",
         "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
       },
@@ -1475,30 +1499,6 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
-        "name": "Ta Sendo",
-        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        },
-        {
-          "name": "MC K9",
-          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Ta Sendo",
-      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "BaBaBa (Hangover)",
-        "url": "https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        },
-        {
-          "name": "Buraka Som Sistema",
-          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "BaBaBa (Hangover)",
-      "url": "https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1731,6 +1707,30 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
+        "name": "BaBaBa (Hangover)",
+        "url": "https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        },
+        {
+          "name": "Buraka Som Sistema",
+          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
+        }
+      ],
+      "duration_ms": 172384,
+      "name": "BaBaBa (Hangover)",
+      "url": "https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
         "name": "Coco Loco",
         "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 156768,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-01-14 01:53:36",

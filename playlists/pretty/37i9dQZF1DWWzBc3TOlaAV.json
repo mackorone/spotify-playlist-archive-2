@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 991308,
+  "num_followers": 991395,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
         "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Lodi",
+      "url": "https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 254133,
       "name": "Heartbreaker - 1990 Remaster",
       "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Lodi",
-      "url": "https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Sweet Caroline - Single Version",
+      "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 172746,
       "name": "Itchycoo Park",
       "url": "https://open.spotify.com/track/0fYgtNCNCjFDeJWTIMukNU"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "In My Lifetime",
-        "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Sweet Caroline - Single Version",
-      "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
     },
     {
       "added_at": "2024-07-05 23:26:53",

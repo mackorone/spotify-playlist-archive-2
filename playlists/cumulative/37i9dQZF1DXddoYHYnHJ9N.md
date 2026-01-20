@@ -4,7 +4,7 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Bruno X Spacc
 
-177 songs - 8 hr 44 min
+178 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-08-27 |  |
 | [Purgatórium](https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Purgatórium](https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7) | 3:11 | 2025-11-10 |  |
 | [pörkölt](https://open.spotify.com/track/0M1CutPz25funLH08wHAL1) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [pörkölt](https://open.spotify.com/album/16DsEA2Cj7Sxon11Wfxhq3) | 2:51 | 2025-09-29 | 2025-10-19 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-19 |  |
 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 | 2025-05-05 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 | 2025-04-01 |
 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 | 2025-09-15 |  |
@@ -160,7 +161,7 @@
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-25 |
 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 |  |
 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 | 2025-05-12 | 2025-12-16 |
-| [TARR BÉLA](https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [TARR BÉLA](https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu) | 2:52 | 2025-11-20 |  |
+| [TARR BÉLA](https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [TARR BÉLA](https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu) | 2:52 | 2025-11-20 | 2026-01-20 |
 | [Taxi](https://open.spotify.com/track/49ZZaqFCTTmSnOQGBzKZp9) | [Wellhello](https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m), [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Taxi](https://open.spotify.com/album/3lkXm481QaqMSRr85oxokl) | 2:25 | 2025-05-19 | 2025-06-25 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-16 | 2025-05-20 |
 | [THC](https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Europa](https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P) | 2:12 | 2025-11-03 | 2025-12-02 |

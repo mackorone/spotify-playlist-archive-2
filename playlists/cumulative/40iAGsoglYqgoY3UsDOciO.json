@@ -3871,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Junior Partner",
+        "url": "https://open.spotify.com/album/0yN6hmxRlPBnFHZMItQaLt"
+      },
+      "artists": [
+        {
+          "name": "The Disciple",
+          "url": "https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Junior Partner",
+      "url": "https://open.spotify.com/track/4pttWCJ0GJruYWBneXDLLI"
+    },
+    {
+      "album": {
         "name": "Just To Get By (Freestyle)",
         "url": "https://open.spotify.com/album/3zifEk9djxnbiYCdbLC0KS"
       },

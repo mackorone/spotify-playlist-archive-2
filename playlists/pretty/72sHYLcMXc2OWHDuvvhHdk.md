@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,203 songs - 5 day 9 hr 0 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,213 songs - 5 day 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2211,5 +2211,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2201 | [Blowing in the waves](https://open.spotify.com/track/2da8OZtalIiCX15QOoKkXZ) | [David Aznar Mathonneau](https://open.spotify.com/artist/55aJFxW0hS5JeoJwnXkeNg) | [Blowing in the waves](https://open.spotify.com/album/2eAzFBLjEaKaDv7u7elZon) | 2:17 |
 | 2202 | [Heads Carolina, Tails California](https://open.spotify.com/track/71I7kVOofp3kBk5D2G9wvJ) | [Ian Humphreys\-graham](https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6) | [Heads Carolina, Tails California](https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2) | 4:02 |
 | 2203 | [Стихи усыпаны золой](https://open.spotify.com/track/15seLkH8hclkpoZeaqSqdU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:37 |
+| 2204 | [The Times We Had](https://open.spotify.com/track/21RyqMjoUh61Af8b7Lw5Q6) | [Sillen](https://open.spotify.com/artist/5oa5r5NlMFHCD4FeJAdEJv) | [The Times We Had](https://open.spotify.com/album/6QsyvvrZfKGlGl3QYwgZxp) | 4:06 |
+| 2205 | [Drugs Don't Lie](https://open.spotify.com/track/2tI5pdLnYDjKp21ukpqtkq) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Drugs Don't Lie](https://open.spotify.com/album/44qy1HWJne1NqmhrKY9Ulo) | 2:29 |
+| 2206 | [Sin Amor](https://open.spotify.com/track/5xiUZ9boSMpE6gCMqmqBl8) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB), [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Sin Amor](https://open.spotify.com/album/4HkVr8W8Nw6Z0v1SCTXjNU) | 3:18 |
+| 2207 | [Guess This](https://open.spotify.com/track/06eFuKeiYlnmVn6NDP7PSP) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 4:05 |
+| 2208 | [I Am Who You Say I Am](https://open.spotify.com/track/3aUW5yTFP8RWN15wxlYW0I) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [I Am Who You Say I Am](https://open.spotify.com/album/0c5GmMEQuce9qHm0G2ebVD) | 4:02 |
+| 2209 | [A Little Left of Right](https://open.spotify.com/track/6bWEciHlpmhMGTACCbHnfu) | [Timberline Travelers](https://open.spotify.com/artist/3HMEdzrn0v16NlLm7aNfjY) | [The Light Stays On](https://open.spotify.com/album/4EP73ZGS1TIeT0MGkgbRyc) | 3:26 |
+| 2210 | [The One](https://open.spotify.com/track/1vvp7I7snd9vP3jdEgrUh2) | [Pat Rees](https://open.spotify.com/artist/1xNmH9qoECTK3W0dgXXlgS) | [The One](https://open.spotify.com/album/35OXljwVUkc60lFQ4l3r8k) | 3:17 |
+| 2211 | [Past, Present and Future](https://open.spotify.com/track/45WERxx7yju1Uw1M6hLcZP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/7287Xttv3A5IdTikDJZZG0) | 3:53 |
+| 2212 | [Yeti](https://open.spotify.com/track/1QkzEOEWdjDPEzHO4dCD7M) | [NAHO](https://open.spotify.com/artist/41uWslIMyRwwThLcprJvNb) | [Yeti](https://open.spotify.com/album/7rtEUrBcxU8Nq4vagIh3YG) | 3:04 |
+| 2213 | [Volverte A Ver](https://open.spotify.com/track/6wJ7Y3zs6zW1dirjIq0nMn) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Volverte A Ver](https://open.spotify.com/album/3uigmjEJPtau8rlzhMa3Bv) | 2:51 |
 
-Snapshot ID: `AAAJMDJYsXkxr0ff8Ohz9xl7HviWaQfT`
+Snapshot ID: `AAAJOpKI2XFXypYU7MezcezjY4/hD25b`

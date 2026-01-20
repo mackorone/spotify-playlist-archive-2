@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,639 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,649 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 31 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
 | 32 | [¿Qué Quiere la Niña?](https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV) | [Kako y Totico](https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w) | [Siguen Pa' Lante y Pa' Lante](https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm) | 3:53 |
 | 33 | [El Yerbero Del Barrio](https://open.spotify.com/track/0u8lmRThcVenfXivdewmFM) | [Roberto y Su Nuevo Montuno](https://open.spotify.com/artist/3IQ3oRmLQtb71i2TcO5Sxv) | [The Best](https://open.spotify.com/album/7sHJqlDvN5uK8WgcKlkw3e) | 4:54 |
-| 34 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
-| 35 | [Candela](https://open.spotify.com/track/4BxlXBQAOeS7Ibt3mjaz0q) | [La Conquistadora](https://open.spotify.com/artist/4vZku8ZYAWFXuHgWoYxxp2) | [Salsa de Barrio, Vol\. 1](https://open.spotify.com/album/0DvKoiscNjaxAyDURcVzOD) | 5:07 |
+| 34 | [Candela](https://open.spotify.com/track/4BxlXBQAOeS7Ibt3mjaz0q) | [La Conquistadora](https://open.spotify.com/artist/4vZku8ZYAWFXuHgWoYxxp2) | [Salsa de Barrio, Vol\. 1](https://open.spotify.com/album/0DvKoiscNjaxAyDURcVzOD) | 5:07 |
+| 35 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
 | 36 | [Calle Luna Calle Sol](https://open.spotify.com/track/1R8FUoJjGt0YUzHFvrQ46E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The Original Gangster](https://open.spotify.com/album/3JeCqt5x6vtDbGPYhGDmW6) | 3:48 |
 | 37 | [No No No](https://open.spotify.com/track/7o7IBUZOUdmvd7rOhHuFiM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3TMmBldOjrRCwxJd2czJ1B) | 5:27 |
 | 38 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |

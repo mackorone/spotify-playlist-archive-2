@@ -1,12 +1,12 @@
 {
   "description": "This is Adriana R\u00edos. The essential tracks, all in one playlist.",
-  "num_followers": 544,
+  "num_followers": 543,
   "original_name": "This Is Adriana R\u00edos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADqdQk2Hy5iMpllg3m5/wSH",
+  "snapshot_id": "aWwigAAAAAAg0MLm5Ynz58Z+qrG0tjDq",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belik Bellak",
+        "url": "https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Belik Bellak",
+      "url": "https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -111,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belik Bellak",
-        "url": "https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX"
-      },
-      "artists": [
-        {
-          "name": "Domenica",
-          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Belik Bellak",
-      "url": "https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Qu\u00e9 No Me Esperaste?",
         "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
       },
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "La Que Sigue de Mi",
-      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Este Coraz\u00f3n",
         "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "La Que Sigue de Mi",
+      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
     },
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ya Sabemos",
-        "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
       "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 216132,
-      "name": "Si Ya Sabemos",
-      "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
+      "duration_ms": 193223,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
+        "name": "Si Ya Sabemos",
+        "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
       "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 193223,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
+      "duration_ms": 216132,
+      "name": "Si Ya Sabemos",
+      "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "Sentimientos de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Suena con Tequila",
         "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 164272,
       "name": "El que Quiero que Me Quiera",
       "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentimientos de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Sentimientos de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 203684,
-      "name": "Ah\u00ed Va la Loca",
-      "url": "https://open.spotify.com/track/79wJdZSySLA3OGgDbwyKsw"
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 230230,
-      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
-      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+      "duration_ms": 186986,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 186986,
-      "name": "Le\u00f1a De Pirul",
-      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
+      "duration_ms": 230230,
+      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
+      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
     },
     {
       "added_at": null,
@@ -712,17 +712,17 @@
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        },
-        {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
         }
       ],
-      "duration_ms": 214801,
-      "name": "Le\u00f1a de Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
+      "duration_ms": 247737,
+      "name": "Fuiste T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bohemia (En Vivo)",
-        "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
+        "name": "En Donde Esta Tu Amor",
+        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
       },
       "artists": [
         {
@@ -768,9 +768,29 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 242177,
-      "name": "Cielo Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe"
+      "duration_ms": 169429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 214801,
+      "name": "Le\u00f1a de Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
     },
     {
       "added_at": null,
@@ -798,15 +818,11 @@
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
-        {
-          "name": "Jr Salazar",
-          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
         }
       ],
-      "duration_ms": 247737,
-      "name": "Fuiste T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+      "duration_ms": 242177,
+      "name": "Cielo Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

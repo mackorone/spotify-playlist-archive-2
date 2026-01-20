@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1530007,
+  "num_followers": 1530149,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,54 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1551,38 +1599,6 @@
       "duration_ms": 282013,
       "name": "The Temple Of The King",
       "url": "https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1619,22 +1635,6 @@
       "duration_ms": 237920,
       "name": "I Don't Care (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Vol. 4 (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
     },
     {
       "added_at": "2026-01-09 05:00:22",

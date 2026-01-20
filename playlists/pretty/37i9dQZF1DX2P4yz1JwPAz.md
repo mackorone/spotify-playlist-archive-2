@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 36 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 |
 | 37 | [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 |
 | 38 | [Make It Out](https://open.spotify.com/track/4rs6ragYtEcQKKymPvTjW3) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Make It Out](https://open.spotify.com/album/6t85lyv6xJR1K7jRIItTXP) | 2:52 |
-| 39 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 |
-| 40 | [darjeeling \(feat\. jorja smith & unknown t\)](https://open.spotify.com/track/2roZnl5Sh8PAiLgqAgAyaS) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [CAPRISONGS](https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ) | 3:03 |
+| 39 | [darjeeling \(feat\. jorja smith & unknown t\)](https://open.spotify.com/track/2roZnl5Sh8PAiLgqAgAyaS) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [CAPRISONGS](https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ) | 3:03 |
+| 40 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 |
 | 41 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 |
 | 42 | [Page 45](https://open.spotify.com/track/2qNaS67u1sAlUyogdFA59Y) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Page 45](https://open.spotify.com/album/4OaT9hJPepJYkrDkWTly9p) | 4:00 |
 | 43 | [Talk Quiet](https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:20 |

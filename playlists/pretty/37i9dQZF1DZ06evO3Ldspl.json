@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 10703,
+  "num_followers": 10705,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADjOJLfKzIon9HjCaqIl6VP",
+  "snapshot_id": "aWwigAAAAACu4Oly2H+IjJ6Yf4X6WUYP",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "No Pasar\u00e1 Lo Mismo",
-      "url": "https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Am\u00e9rica",
         "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 316760,
       "name": "El Llanto de un Rey",
       "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "No Pasar\u00e1 Lo Mismo",
+      "url": "https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 288040,
-      "name": "Voz de Acordeones",
-      "url": "https://open.spotify.com/track/1ynlh10fcaVkkHg27N0X1w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 311573,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
+      "duration_ms": 288040,
+      "name": "Voz de Acordeones",
+      "url": "https://open.spotify.com/track/1ynlh10fcaVkkHg27N0X1w"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 311573,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enamorado Como Siempre",
         "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
       },
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Ac\u00e9ptame Como Soy",
-      "url": "https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT"
+      "duration_ms": 265000,
+      "name": "Azuquita, Azuquita",
+      "url": "https://open.spotify.com/track/2OpvPXJvZZjTOeA784yhLs"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

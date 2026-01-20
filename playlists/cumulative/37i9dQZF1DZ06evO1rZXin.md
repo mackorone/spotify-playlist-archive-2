@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 50 min
+121 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Candela Verde](https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:04 | 2025-04-04 |  |
 | [Candela Verde](https://open.spotify.com/track/4DCsgTNqInQ1EdHwHATiMr) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:04 | 2022-06-01 | 2023-06-09 |
 | [Celoso](https://open.spotify.com/track/4EfuFU0nB3wVWFQjWg1CoA) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:43 | 2022-10-06 | 2024-06-18 |
-| [Celoso](https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 3:43 | 2024-06-18 |  |
+| [Celoso](https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 3:43 | 2024-06-18 | 2026-01-20 |
 | [Celoso \(Jealous Heart\)](https://open.spotify.com/track/2CXxdIDxuzxJniHU9aq9Zo) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT) | 3:43 | 2023-07-19 | 2024-05-27 |
 | [Celoso \- En Vivo](https://open.spotify.com/track/3hKZdVQm4E5N5Ds1nqSm23) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [En Vivo Con La Vallarta Show y Marco Flores](https://open.spotify.com/album/3KQst1V31AZN80Ff5jlKu7) | 4:01 | 2024-09-30 | 2025-05-31 |
 | [Charanga Costeña](https://open.spotify.com/track/3TQxsPoOgAzOQonz5tbxL5) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:13 | 2022-06-01 | 2024-02-09 |
@@ -52,6 +52,7 @@
 | [El Huerfnito](https://open.spotify.com/track/7lK6scXajux18QPlPvAYrG) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 2:44 | 2024-06-06 |  |
 | [El Huerfnito](https://open.spotify.com/track/4pOFtfV3QirO4aSdnrmtXh) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:44 | 2022-06-01 | 2023-03-10 |
 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 | 2022-06-01 | 2025-07-02 |
+| [El Mariachi Loco](https://open.spotify.com/track/0OZiV77VC1CiPmb6QoDIpS) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 3:22 | 2026-01-20 |  |
 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 | 2022-06-01 |  |
 | [El Noah, Noah](https://open.spotify.com/track/4yRDlfMcaAnS10mvjGoxek) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:55 | 2022-08-04 | 2022-08-06 |
 | [El Pobre Caminante](https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:37 | 2024-06-09 | 2025-12-26 |

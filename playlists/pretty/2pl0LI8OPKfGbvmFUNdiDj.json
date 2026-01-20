@@ -6,7 +6,7 @@
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAC4/CHF2ZIy9HFU9JAzQkvChiYkmkr",
+  "snapshot_id": "AAAC58Q2UUdh3W1wwUfF2Va3kD6wseED",
   "tracks": [
     {
       "added_at": "2025-12-22 18:55:13",
@@ -803,6 +803,70 @@
       "duration_ms": 170500,
       "name": "Corvette",
       "url": "https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj"
+    },
+    {
+      "added_at": "2026-01-19 15:39:29",
+      "album": {
+        "name": "WER ZAHLT?",
+        "url": "https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju"
+      },
+      "artists": [
+        {
+          "name": "du zahlst",
+          "url": "https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "WER ZAHLT?",
+      "url": "https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG"
+    },
+    {
+      "added_at": "2026-01-19 15:39:36",
+      "album": {
+        "name": "If I Was God",
+        "url": "https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 222273,
+      "name": "If I Was God",
+      "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
+    },
+    {
+      "added_at": "2026-01-19 15:40:12",
+      "album": {
+        "name": "Lifelike Figures",
+        "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 237422,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/5Ft6nMdweaJkJAJX57SHza"
+    },
+    {
+      "added_at": "2026-01-19 15:48:39",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE"
+      },
+      "artists": [
+        {
+          "name": "Fiebre de las Monta\u00f1as Rocosas",
+          "url": "https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

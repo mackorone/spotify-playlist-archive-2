@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "REVERXE - The 8th Album",
+        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
+    },
+    {
+      "album": {
         "name": "CRUISIN'",
         "url": "https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8"
       },
@@ -6386,6 +6404,24 @@
       "duration_ms": 211794,
       "name": "JUBiiLEE",
       "url": "https://open.spotify.com/track/2v6qeqt2HDCtneIJvdtWiB"
+    },
+    {
+      "album": {
+        "name": "BREAK IT DOWN",
+        "url": "https://open.spotify.com/album/34hOOApuwynjgIHu3OPTIT"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176966,
+      "name": "JUST ALIVE",
+      "url": "https://open.spotify.com/track/7wMK9LcBUVYB73Zpz5lhrG"
     },
     {
       "album": {
@@ -10376,7 +10412,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 208766,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/3ruczO0lHDACpJMdLQyYF9"
@@ -10812,7 +10848,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 192920,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/1lI76Tz7WvjaXdcINJP1Um"
@@ -11442,6 +11478,24 @@
       "duration_ms": 213429,
       "name": "Stage of the Universe",
       "url": "https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq"
+    },
+    {
+      "album": {
+        "name": "Star Wish",
+        "url": "https://open.spotify.com/album/5ODIAdS7VHHBbMLHyyFsEw"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Star Wish",
+      "url": "https://open.spotify.com/track/7932DENhO9bz8Hf7RQDqln"
     },
     {
       "album": {
@@ -12978,7 +13032,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 175826,
       "name": "TWO THRONE",
       "url": "https://open.spotify.com/track/4LZ6zUAtiUhuA7Ua77rolk"

@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "VIAGGIO",
+        "url": "https://open.spotify.com/album/46Y3161mhU5hIwMBUxxIGJ"
+      },
+      "artists": [
+        {
+          "name": "Essemm",
+          "url": "https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171368,
+      "name": "Eur\u00f3pa",
+      "url": "https://open.spotify.com/track/0CEYA0nBjOfObFnTyGLyw0"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -3695,6 +3713,28 @@
     },
     {
       "album": {
+        "name": "KLASSZIK",
+        "url": "https://open.spotify.com/album/0V97RxuS0u80HxcDNkuMrY"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Aza",
+          "url": "https://open.spotify.com/artist/2WLKFllDVAhtb60gNHJGUH"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "HOL A P\u00c9NZEM - Refreshed",
+      "url": "https://open.spotify.com/track/0j0WwR1sDRxvnfDJFfjAk1"
+    },
+    {
+      "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
       },
@@ -4663,6 +4703,36 @@
     },
     {
       "album": {
+        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k",
+        "url": "https://open.spotify.com/album/6gkKqaV7xx606MJbzt4rDG"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Napoli Terremoto",
+          "url": "https://open.spotify.com/artist/5RoUv7QG9YdH39VQ0ncn3x"
+        },
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "kir\u00e1ly a t\u00e1rc\u00e1mban",
+      "url": "https://open.spotify.com/track/6qAf9vKHyWrtan7Gooy3Dw"
+    },
+    {
+      "album": {
         "name": "Kontakthiba",
         "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
       },
@@ -5412,7 +5482,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 248000,
       "name": "Meztelen",
       "url": "https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv"
@@ -6928,7 +6998,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 167244,
       "name": "ponyvareg\u00e9ny",
       "url": "https://open.spotify.com/track/6DrfQHh6q7ugiGeE6DSN5E"
@@ -7348,7 +7418,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 238105,
       "name": "Reneg\u00e1t",
       "url": "https://open.spotify.com/track/0wUyAVmdEqR0pMqyP5AtV9"
@@ -7614,7 +7684,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 182215,
       "name": "R\u00f6ppenj\u00fcnk (feat. Co Lee)",
       "url": "https://open.spotify.com/track/2cJtLNxyY7kugwM4Zfq412"
@@ -9092,6 +9162,28 @@
       "duration_ms": 183000,
       "name": "Tudod, Hmmm",
       "url": "https://open.spotify.com/track/0UXm4C89srJgv7nCE4aXA3"
+    },
+    {
+      "album": {
+        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k",
+        "url": "https://open.spotify.com/album/6gkKqaV7xx606MJbzt4rDG"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Dom Beats",
+          "url": "https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151636,
+      "name": "tulip\u00e1n tetk\u00f3",
+      "url": "https://open.spotify.com/track/4ZIyiu3vckFHjAHbXgSvNP"
     },
     {
       "album": {

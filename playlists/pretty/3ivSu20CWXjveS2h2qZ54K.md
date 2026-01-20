@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,864 likes - 74 songs - 4 hr 9 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,865 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 19 | [Bruises on the Peach](https://open.spotify.com/track/6HYs3TipAbX6eR6YrQHCVS) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Bruises on the Peach](https://open.spotify.com/album/5pj3C1wq8xvBMygTiOgHx1) | 2:58 |
 | 20 | [Podría Ser Peor](https://open.spotify.com/track/4QX91oATP2YYAkxbGACFQi) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Podría Ser Peor](https://open.spotify.com/album/7B6o3HwzV3FmQaQudLCF2A) | 2:43 |
 | 21 | [Raft In The Sea](https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Raft In The Sea](https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE) | 3:35 |
-| 22 | [Para Dos](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para Dos](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 |
+| 22 | [Para 2](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para 2](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 |
 | 23 | [ROTO](https://open.spotify.com/track/6DNuLqacKHpVJUBNfGGVNa) | [javicrespo](https://open.spotify.com/artist/7E7nZ0jJEFOkZhEyz4RPMN) | [ROTO](https://open.spotify.com/album/28Zj7qLVm1PVPGRIE4zOk1) | 2:15 |
 | 24 | [PANTY PAL LAO](https://open.spotify.com/track/4rDZqeUbOegC0OC9iCRy7S) | [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [PANTY PAL LAO](https://open.spotify.com/album/2laNt2IieFZgQg8j9Aeuop) | 2:36 |
 | 25 | [100](https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [100](https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr) | 3:54 |

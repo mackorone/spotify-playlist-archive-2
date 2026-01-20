@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-892 songs - 1 day 20 hr 51 min
+893 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [CHAOS](https://open.spotify.com/track/7ezwHpu1HmybWtQUH3XNJt) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun) | [CHAOS](https://open.spotify.com/album/5kswo1Np0gWNPQuRQyclzS) | 4:32 | 2026-01-09 |  |
 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 | 2024-10-10 | 2024-11-08 |
 | [Chasing Love](https://open.spotify.com/track/3u8tIYpLZPSni3qaEaaRLU) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3) | [Chasing Love](https://open.spotify.com/album/3P7HOhmha71b9DBzlKcYU8) | 3:18 | 2026-01-05 |  |
+| [Chemicals](https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz) | [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [B00ST](https://open.spotify.com/artist/4LbUyZ8D2tXu1kuSFzYZdx) | [Chemicals](https://open.spotify.com/album/5TlymhW0U0a6SjovrF8tEr) | 2:01 | 2026-01-19 |  |
 | [Chica Culo Mami](https://open.spotify.com/track/6mWfk6Gz8JiPDKtoozSp3S) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Chica Culo Mami](https://open.spotify.com/album/6SF2AdqdJxjgR3nm2hfe6r) | 2:35 | 2024-05-02 | 2024-05-11 |
 | [Church](https://open.spotify.com/track/13omEuVGVe0b1JN867nBkl) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Church](https://open.spotify.com/album/3w8xzrogRGShyK4PzW3LgH) | 2:58 | 2024-08-05 | 2024-08-09 |
 | [Clarity](https://open.spotify.com/track/41QJLRaeyn7HzCTWv9ST1R) | [Kabillo](https://open.spotify.com/artist/1GbXOfnB3HZleW0pcEXSgf) | [Clarity](https://open.spotify.com/album/1iWi2KqIXcBVUGni4mYzpZ) | 3:09 | 2025-09-05 |  |

@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-134 songs - 8 hr 14 min
+135 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 | 2025-12-28 |
 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 | 2025-12-06 |  |
 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2025-10-30 | 2025-11-21 |
+| [Telarañas](https://open.spotify.com/track/5spl7FjpG0W0btjh3OwLXg) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Telarañas](https://open.spotify.com/album/4ZD0iW02NXZgmpBzd6vC6G) | 4:00 | 2026-01-19 |  |
 | [Television War](https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Television War](https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm) | 2:09 | 2025-11-26 | 2025-12-28 |
 | [The Bee](https://open.spotify.com/track/6tT2Oh2O2pAgnlbu02DpOv) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy) | [Daisyland](https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2) | 4:21 | 2026-01-07 |  |
 | [The Last On the List](https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:49 | 2025-10-13 |  |

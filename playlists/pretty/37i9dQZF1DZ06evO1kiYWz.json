@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAABo7VA6HIDVlV7+AMQDeYk5",
+  "snapshot_id": "aWwigAAAAACdUORcN35hd2ds6HmPxjlI",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viaje En Espiral",
-        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 227597,
-      "name": "Corrientes Subterraneas",
-      "url": "https://open.spotify.com/track/0GklidlwoggiJ9XDoYjcO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Olvido",
         "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 290573,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3Ssagp8xrmFMnKogrLGtNn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viaje En Espiral",
+        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 227597,
+      "name": "Corrientes Subterraneas",
+      "url": "https://open.spotify.com/track/0GklidlwoggiJ9XDoYjcO5"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Todo Me Aleja De Ti",
-      "url": "https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Olvido",
         "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 204000,
       "name": "La Historia Entre Los Dos",
       "url": "https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Todo Me Aleja De Ti",
+      "url": "https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 237918,
-      "name": "Boulevard",
-      "url": "https://open.spotify.com/track/3pIT9QlEnEyZ7OOlH6Snez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Olvido",
         "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 260480,
       "name": "Plat\u00f3nica",
       "url": "https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 237918,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/3pIT9QlEnEyZ7OOlH6Snez"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viaje En Espiral",
-        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 223594,
-      "name": "Sin Acci\u00f3n",
-      "url": "https://open.spotify.com/track/6gsa8v1oJE9GYFKA5EKq3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Olvido",
         "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 278480,
       "name": "El Olvido",
       "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viaje En Espiral",
+        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 223594,
+      "name": "Sin Acci\u00f3n",
+      "url": "https://open.spotify.com/track/6gsa8v1oJE9GYFKA5EKq3Q"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirios M\u00edsticos",
-        "url": "https://open.spotify.com/album/2rY8Ao8BHIwoaq1eUQTMwi"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 390116,
-      "name": "Delirios M\u00edsticos",
-      "url": "https://open.spotify.com/track/3PYTRs8tzospUhQpSLNAPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antolog\u00eda (1994-2007)",
         "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 209000,
       "name": "Sombra De Un Adi\u00f3s",
       "url": "https://open.spotify.com/track/42rSEvWPF6GMvsNY5oqMjU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delirios M\u00edsticos",
+        "url": "https://open.spotify.com/album/2rY8Ao8BHIwoaq1eUQTMwi"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 390116,
+      "name": "Delirios M\u00edsticos",
+      "url": "https://open.spotify.com/track/3PYTRs8tzospUhQpSLNAPK"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 257012,
-      "name": "Un Lugar en Tu Mente",
-      "url": "https://open.spotify.com/track/1wEBoL596AlzF1h2E6lkTr"
+      "duration_ms": 229000,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup"
     },
     {
       "added_at": null,

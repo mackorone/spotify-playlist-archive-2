@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 438288,
+  "num_followers": 438297,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAA+aMHGiS6vA1AM1xt/c1ta",
+  "snapshot_id": "aWwigAAAAAAOU6oHp3/V/Fq61YZsxL2X",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versace (feat. Drake) [Remix] - Single",
+        "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 246047,
+      "name": "Versace (Remix)",
+      "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 274207,
       "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
       "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Versace (feat. Drake) [Remix] - Single",
-        "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 246047,
-      "name": "Versace (Remix)",
-      "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
     },
     {
       "added_at": null,

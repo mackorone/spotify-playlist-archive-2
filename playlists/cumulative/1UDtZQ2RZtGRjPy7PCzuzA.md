@@ -4,7 +4,7 @@
 
 > 
 
-1,228 songs - 2 day 21 hr 46 min
+1,229 songs - 2 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Never Getting Laid](https://open.spotify.com/track/1PdUyYYw9sGU0yhLrpeHKt) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:28 | 2025-08-29 |  |
 | [Never Grow Up](https://open.spotify.com/track/3JilapcaOXzjR9gtvCY8FO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/6Ar2o9KCqcyYF9J0aQP3au) | 4:50 | 2025-05-31 |  |
 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 | 2024-03-15 | 2026-01-05 |
+| [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 | 2026-01-19 |  |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2025-04-26 |  |
 | [New Romantics](https://open.spotify.com/track/0qAIiGFKLdV1xpNlEhjpq8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:50 | 2025-05-31 |  |
 | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/track/6iBF0sQ6jAXaMYTpwNpnfA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 3:20 | 2025-08-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,223 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,251 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 46 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 |
 | 47 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 |
 | 48 | [Vem](https://open.spotify.com/track/2Ga6DGCB9Lt5b8ls5UCSNp) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Vem](https://open.spotify.com/album/4DOhTRGHx7Y3xoIRgbFyAR) | 2:55 |
-| 49 | [Gardens III](https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 5:14 |
-| 50 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
+| 49 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
+| 50 | [Gardens III](https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 5:14 |
 | 51 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 |
 | 52 | [Tainted](https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr) | [Dpart](https://open.spotify.com/artist/0k9fRHTbRsLI6w0qYbGzO9), [Niall T](https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X) | [Tainted](https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h) | 3:01 |
-| 53 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 |
-| 54 | [Nightmares](https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9) | [Alex Spencer](https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y) | [Nightmares](https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG) | 2:16 |
+| 53 | [Nightmares](https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9) | [Alex Spencer](https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y) | [Nightmares](https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG) | 2:16 |
+| 54 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 |
 | 55 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
 | 56 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
 | 57 | [MIKOTO \~SUN NO KUNI\~ \(feat\. Tsubaki & Awich\)](https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:58 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 87 | [Fighter](https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Fighter](https://open.spotify.com/album/7JkXyHCZGVaCrogkuS1j6K) | 3:22 |
 | 88 | [Billete](https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Hombres También Lloran](https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2) | 2:11 |
 | 89 | [BABE](https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BABE](https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn) | 2:27 |
-| 90 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
-| 91 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 |
+| 90 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 |
+| 91 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
 | 92 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
 | 93 | [Tha Rhythm](https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Tha Rhythm](https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0) | 3:15 |
 | 94 | [samba de rua](https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [samba de rua](https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr) | 2:34 |

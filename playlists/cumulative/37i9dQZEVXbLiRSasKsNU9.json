@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189102,
       "name": "7-3",
       "url": "https://open.spotify.com/track/4lzo6zPM2paqyP8oBp3DOs"
@@ -6896,7 +6896,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 190961,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
@@ -7292,7 +7292,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0GbxtTOP0qTlL2M12yJqJg"
@@ -7310,7 +7310,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
@@ -16878,7 +16878,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -55772,7 +55772,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 228346,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
@@ -55808,7 +55808,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -73760,6 +73760,28 @@
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "album": {
+        "name": "Sheesha",
+        "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
+      },
+      "artists": [
+        {
+          "name": "Mitta Ror",
+          "url": "https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV"
+        },
+        {
+          "name": "Swara Verma",
+          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "Sheesha",
+      "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
     },
     {
       "album": {

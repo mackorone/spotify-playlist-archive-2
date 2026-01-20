@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54842,
+  "num_followers": 54848,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADHn6Z2m3hj6KHr6zyq91lJ",
+  "snapshot_id": "aWwigAAAAAADt7lEcdX6bolaHMR2a2Ea",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WOO! GO!",
-        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "WOO! GO!",
-      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAINAINAI",
         "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 193877,
       "name": "NAINAINAI",
       "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WOO! GO!",
+        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "WOO! GO!",
+      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
     },
     {
       "added_at": null,

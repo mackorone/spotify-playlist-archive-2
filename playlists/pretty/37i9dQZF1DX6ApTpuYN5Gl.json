@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243117,
+  "num_followers": 243114,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
-      },
-      "artists": [
-        {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
-        },
-        {
-          "name": "Ava June",
-          "url": "https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/6PkMBdWyPN8jeNtyHcB3N2"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1SpPYZXLuUJ7BxiK16PNeb"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "Ava June",
+          "url": "https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
     },
     {
       "added_at": "2024-08-01 10:59:15",

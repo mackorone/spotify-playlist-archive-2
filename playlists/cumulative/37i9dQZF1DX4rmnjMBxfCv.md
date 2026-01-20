@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-286 songs - 18 hr 49 min
+287 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Allo Allo](https://open.spotify.com/track/6rCxFxvSwrUSy5QYMVA2sy) | [Mossel](https://open.spotify.com/artist/3x0UnX2VaSIKz6iOdF526o) | [Allo Allo](https://open.spotify.com/album/4sburaTq1o99krSVbsgrFZ) | 5:22 | 2025-02-10 | 2025-03-21 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-21 | 2025-09-26 |
 | [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 | 2024-04-01 | 2024-04-19 |
-| [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2024-03-03 |  |
+| [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2024-03-03 | 2026-01-20 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 | 2023-08-05 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-06-23 | 2023-08-17 |
 | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 | 2024-01-19 | 2025-07-08 |
@@ -139,6 +139,7 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-08-29 | 2024-07-19 |
 | [IRAQ FOREVER](https://open.spotify.com/track/0lRzw2qxLfIgLmuJJeeYPA) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [IRAQ FOREVER](https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l) | 2:15 | 2023-06-29 | 2023-11-24 |
 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2026-01-13 |  |
+| [Jealousy \- Egyptian Remix](https://open.spotify.com/track/5BlT97LlWcwnJr6SAD6xhm) | [Jaadu](https://open.spotify.com/artist/0l04okbBD1BcUIPFj4s2D0), [Moamen Moaa](https://open.spotify.com/artist/0fQpYRivAHwDvpQDE1Cs7O) | [Jealousy \- Egyptian Remix](https://open.spotify.com/album/2e8sVYNAhMRPgeF8qnxAAw) | 3:56 | 2026-01-19 |  |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2024-01-26 | 2025-03-01 |
 | [Khabar Abyad](https://open.spotify.com/track/6vxEDjzH2OU938m3muhQ1p) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:51 | 2025-07-03 |  |
 | [Khalawto](https://open.spotify.com/track/0jVFS5HEOtonqqSkm5MGjr) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Houssain Haidar](https://open.spotify.com/artist/4Js1SrrLDWhA5DlXtlcn22) | [Khalawto](https://open.spotify.com/album/7Br2U54Rk7jGJx41KwOPQU) | 3:36 | 2025-02-28 | 2026-01-06 |

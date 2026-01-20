@@ -5241,6 +5241,28 @@
     },
     {
       "album": {
+        "name": "Os 100",
+        "url": "https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248209,
+      "name": "Os 100",
+      "url": "https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV"
+    },
+    {
+      "album": {
         "name": "Ostentando",
         "url": "https://open.spotify.com/album/6k6zqReaQII7QjkJvh6YRq"
       },
@@ -5574,7 +5596,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 144000,
       "name": "PERIGOSA",
       "url": "https://open.spotify.com/track/5abNpk1wgO3jPl2NNYuDJD"

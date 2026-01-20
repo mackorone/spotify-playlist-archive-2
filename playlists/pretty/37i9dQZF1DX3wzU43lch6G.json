@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114447,
+  "num_followers": 114440,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
-        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
-      },
-      "artists": [
-        {
-          "name": "MF\u00d6",
-          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
-        }
-      ],
-      "duration_ms": 237514,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Kuzu Kuzu",
         "url": "https://open.spotify.com/album/32fmr8WaoHl7XJXnlzyVyX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218933,
       "name": "Kuzu Kuzu (Akustik Version)",
       "url": "https://open.spotify.com/track/6dcCXXpoqvumthffl42A4t"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
+        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
+      },
+      "artists": [
+        {
+          "name": "MF\u00d6",
+          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
+        }
+      ],
+      "duration_ms": 237514,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
     },
     {
       "added_at": "2025-07-10 21:06:57",

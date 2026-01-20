@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Ronnie Flex & Acda en De Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,133 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,123 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
-| 2 | [Van God Los](https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 3:01 |
-| 3 | [Zij is voor mij](https://open.spotify.com/track/1TvSpaz6QZnepK4J0k9C5i) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Zij is voor mij](https://open.spotify.com/album/6d7QP92PjS3Y3Z4bVhlBgm) | 3:28 |
+| 2 | [Zij is voor mij](https://open.spotify.com/track/1TvSpaz6QZnepK4J0k9C5i) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Zij is voor mij](https://open.spotify.com/album/6d7QP92PjS3Y3Z4bVhlBgm) | 3:28 |
+| 3 | [Van God Los](https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 3:01 |
 | 4 | [Eb & Vloed](https://open.spotify.com/track/2HaOEZq3sSUHGdZZQg6xzy) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Eb & Vloed](https://open.spotify.com/album/4LIDLSPVvf7TBRIYlazQh7) | 2:41 |
 | 5 | [Zoals Ik Doe](https://open.spotify.com/track/1XmXqzm6UCtFirlJTGRPDm) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Zoals Ik Doe](https://open.spotify.com/album/38h7yhTY0Mn1jrVXqsyIbA) | 3:08 |
 | 6 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 74 | [Illusionist](https://open.spotify.com/track/0nyuMI9Gz3bdPu69fiVhpN) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Illusionist](https://open.spotify.com/album/1xUXLVxq8k2xF7Zekii9E6) | 3:39 |
 | 75 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
 
-Snapshot ID: `AAAAAMvIWMKx+iArsvI7Kctv6IIyOBHm`
+Snapshot ID: `AAAAAKi+//iW1/xuoiCUvjLtIspqE1Un`

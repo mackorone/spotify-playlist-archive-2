@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,077 songs - 2 day 5 hr 39 min
+1,078 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Lentoi](https://open.spotify.com/track/7CogTl76ZQ1amD04YAxF45) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Lentoi](https://open.spotify.com/album/4mg96xe915Svxv7f1h3pB9) | 2:14 | 2024-11-07 | 2024-11-29 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-13 | 2025-03-28 |
 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 | 2024-12-19 | 2025-03-21 |
+| [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 | 2026-01-19 |  |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-07-02 | 2024-07-12 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-09 | 2024-09-13 |
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2024-12-12 | 2025-01-10 |
@@ -1080,7 +1081,7 @@
 | [Zeros \(feat\. Headie One\)](https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Zeros \(feat\. Headie One\)](https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub) | 2:13 | 2024-07-02 | 2024-08-02 |
 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 | 2025-05-29 | 2025-10-31 |
 | [Äiti Älä Huoli](https://open.spotify.com/track/25mu4aiASODLDGYi7comEJ) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Äiti Älä Huoli](https://open.spotify.com/album/5JEN1rcriU1XRuzFwJdqdI) | 3:12 | 2025-08-28 | 2025-09-05 |
-| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-07 |  |
+| [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-07 | 2026-01-20 |
 | [Älä rakasta mun rakasta](https://open.spotify.com/track/287Vj7UcE3KgsWr0XS8MPE) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Älä rakasta mun rakasta](https://open.spotify.com/album/4BCl5kzEDehO0upTIFdKjz) | 2:45 | 2025-06-12 | 2025-06-27 |
 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 | 2024-09-05 | 2024-10-04 |
 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 | 2025-04-17 | 2025-06-06 |

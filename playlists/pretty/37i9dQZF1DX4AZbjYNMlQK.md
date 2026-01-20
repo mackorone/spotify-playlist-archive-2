@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,425 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,383 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 13 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 |
 | 14 | [Llegó la Navidad](https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Generacion Escogida](https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim), [Christian Nieves](https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ) | [Llegó la Navidad](https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt) | 3:43 |
 | 15 | [Feliz Navidad \(feat\. Mon Laferte\)](https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:42 |
-| 16 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
+| 16 | [Gracias](https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Gracias](https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U) | 3:24 |
 | 17 | [Santa](https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Santa](https://open.spotify.com/album/3wYfjSTIqSbV5bRw3nhu81) | 3:21 |
 | 18 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
-| 19 | [Gracias](https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Gracias](https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U) | 3:24 |
+| 19 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 |
 | 20 | [SANTA \- Tengo Un Crush Contigo](https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [SANTA](https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA) | 3:30 |
 | 21 | [Llegó la Navidad](https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Llegó la Navidad](https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI) | 4:05 |
 | 22 | [Navidad Sin Ti](https://open.spotify.com/track/0UJe4H1dCiTk51ux3tW6jU) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad \(Edición Especial\)](https://open.spotify.com/album/4QWP3XZIkvXSp5s5VgOy6q) | 4:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 61 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 |
 | 62 | [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 |
 | 63 | [Una Navidad Sin Nieve](https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Una Navidad Sin Nieve](https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G) | 2:42 |
-| 64 | [Ven a cantar \- Pau Laggies Versión](https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Recalentado navideño](https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej) | 3:26 |
-| 65 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
+| 64 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
+| 65 | [Ven a cantar \- Pau Laggies Versión](https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Recalentado navideño](https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej) | 3:26 |
 | 66 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/3FesP92gFJkKP3PMp2sYck) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/0EKT0DImKgqVlj93q9QfzX) | 3:10 |
 | 67 | [mi único deseo](https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [mi único deseo](https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92) | 3:06 |
 | 68 | [La Navidad Comenzó](https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [La Navidad Comenzó](https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2) | 3:19 |

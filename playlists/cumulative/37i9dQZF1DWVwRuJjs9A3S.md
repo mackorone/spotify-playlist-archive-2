@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Amanda Bergman.
 
-1,084 songs - 2 day 14 hr 37 min
+1,085 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Medicin](https://open.spotify.com/track/67GvcYcFauHiTEsLRxGtgl) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Medicin](https://open.spotify.com/album/5cka2ltHcvjCM5loz8snRl) | 3:38 | 2025-05-15 | 2025-10-10 |
 | [Melody Rules](https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd) | [Nicolai Dunger](https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18) | [Melody Rules](https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz) | 4:49 | 2024-06-27 | 2024-08-09 |
 | [Memory](https://open.spotify.com/track/4XFcSXp7zSppR9VXmjlwhO) | [Innocent](https://open.spotify.com/artist/597DNXGUXfrxjYbCzYkndW) | [Memory](https://open.spotify.com/album/3Vdt2qXTXG8S66bRe7oSx8) | 3:02 | 2025-02-20 | 2025-04-04 |
+| [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-19 |  |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-27 | 2024-08-16 |
 | [Mercy](https://open.spotify.com/track/6cxcxpqocKkT1e4mOWkKhC) | [Occrasy](https://open.spotify.com/artist/2aXHsRS2aWr0PhWJI2HYSD) | [Hold It On](https://open.spotify.com/album/0eBt85cRckW8bQdVYV9yqC) | 3:47 | 2025-08-21 | 2026-01-16 |
 | [Merida](https://open.spotify.com/track/6rsdvabOWtm7ZnqiTpqo2W) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Merida](https://open.spotify.com/album/4cI86sAuUiQeVCGomCJHI9) | 3:43 | 2025-06-26 | 2025-10-17 |

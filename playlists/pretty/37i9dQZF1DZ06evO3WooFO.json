@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 617106,
+  "num_followers": 617143,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADfSGATj0zIvHUHeRt9Pdkg",
+  "snapshot_id": "aWwigAAAAAAFMinYDmKmMrEs6EC0OQI+",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
+      "duration_ms": 257519,
+      "name": "Ghost On The Dance Floor",
+      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
+      "duration_ms": 222866,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+        "name": "Buddha",
+        "url": "https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 179880,
-      "name": "Even If She Falls",
-      "url": "https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo"
+      "duration_ms": 64560,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL"
     }
   ],
   "unique_name": "This Is blink-182",

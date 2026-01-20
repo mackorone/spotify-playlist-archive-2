@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,302 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,392 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 31 | [That's The Thing About Praise](https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Benjamin William Hastings](https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk) | 3:57 |
 | 32 | [God Is For Me](https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [God Is For Me](https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU) | 2:44 |
 | 33 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
-| 34 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
-| 35 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 34 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 35 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
 | 36 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
 | 37 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 |
 | 38 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 70 | [grand prix!](https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [grand prix!](https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe) | 1:47 |
 | 71 | [We Could Run Away](https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Heat](https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU) | 4:08 |
 | 72 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
-| 73 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
-| 74 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
-| 75 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
+| 73 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
+| 74 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
+| 75 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
 | 76 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
 | 77 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 |
 | 78 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |

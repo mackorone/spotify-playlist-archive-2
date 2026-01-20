@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 373421,
+  "num_followers": 373424,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 245471,
-      "name": "Feed The Fire (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 245471,
+      "name": "Feed The Fire (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "THE BPM",
-        "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "SHE'S GOT PAIN",
-      "url": "https://open.spotify.com/track/5LObg9zxmkh4pIY1SKKBAG"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "THE BPM",
+        "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "SHE'S GOT PAIN",
+      "url": "https://open.spotify.com/track/5LObg9zxmkh4pIY1SKKBAG"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "Secular Music Vol. 1",
-        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Melodies",
-      "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "Secular Music Vol. 1",
+        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Melodies",
+      "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
-      },
-      "artists": [
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        },
-        {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Dancing While Falling",
         "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 211590,
       "name": "Morning Light (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "UP DOWN BOUNCE",
-        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "daste.",
-          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "UP DOWN BOUNCE",
-      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
     },
     {
       "added_at": "2025-12-12 00:00:12",

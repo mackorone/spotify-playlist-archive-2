@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 106060,
+  "num_followers": 106076,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -1651,18 +1667,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
       },
       "artists": [
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+      "duration_ms": 180462,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1683,26 +1703,6 @@
       "duration_ms": 144570,
       "name": "Never Fall Down",
       "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "PEGASUS",
-        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 180462,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
     },
     {
       "added_at": "2025-10-30 23:00:21",

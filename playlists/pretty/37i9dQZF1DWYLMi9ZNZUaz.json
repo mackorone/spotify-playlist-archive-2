@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
-  "num_followers": 117386,
+  "num_followers": 117430,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
-        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 206111,
-      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
-    },
-    {
-      "added_at": "2025-12-11 17:00:23",
-      "album": {
         "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
         "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
       },
@@ -239,22 +223,18 @@
     {
       "added_at": "2025-12-11 17:00:23",
       "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
       },
       "artists": [
         {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+      "duration_ms": 206111,
+      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
     },
     {
       "added_at": "2025-12-11 17:00:23",
@@ -279,6 +259,26 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2025-12-11 17:00:23",
+      "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2025-12-11 17:00:23",

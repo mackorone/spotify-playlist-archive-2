@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Jan 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Jan 23:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -19380,7 +19380,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 156172,
       "name": "Chronic",
       "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
@@ -48281,6 +48281,24 @@
     },
     {
       "album": {
+        "name": "I Ran (So Far Away)",
+        "url": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211031,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
+    },
+    {
+      "album": {
         "name": "I remember how your hands felt on mine",
         "url": "https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO"
       },
@@ -49676,7 +49694,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 206944,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
@@ -57131,6 +57149,24 @@
     },
     {
       "album": {
+        "name": "LET EM KNOW",
+        "url": "https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179924,
+      "name": "LET EM KNOW",
+      "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV"
       },
@@ -59230,7 +59266,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 201813,
       "name": "Lonely Touch",
       "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
@@ -79062,6 +79098,24 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "album": {

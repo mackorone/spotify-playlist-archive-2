@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Styrke, Asme och waterbaby med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,409 likes - 103 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,397 likes - 103 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

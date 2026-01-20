@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22815,
+  "num_followers": 22820,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADVhyvL3fgsGMcFQlNRqwt/",
+  "snapshot_id": "aWwigAAAAADOTt5yxgFtD0wUkAP/VROT",
   "tracks": [
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novidade de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 239820,
-      "name": "Novidade de Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk"
+      "duration_ms": 286023,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 286023,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 260342,
       "name": "Mem\u00f3rias (Ao Vivo)",
       "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novidade de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 239820,
+      "name": "Novidade de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk"
     },
     {
       "added_at": null,

@@ -7880,7 +7880,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -7902,7 +7902,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -19998,7 +19998,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -28682,7 +28682,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 209898,
       "name": "HARAKIRI",
       "url": "https://open.spotify.com/track/37BeIN0wIoHZEsssCG734G"
@@ -68301,6 +68301,24 @@
     },
     {
       "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/4nqAhQrMWoDk762Ux4gZUI"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Trambo",
+      "url": "https://open.spotify.com/track/02UWipGM8L8pAVFW7DnvbI"
+    },
+    {
+      "album": {
         "name": "TRANKY FUNKY",
         "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
       },
@@ -68488,7 +68506,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 150802,
       "name": "Treme o Bumbum",
       "url": "https://open.spotify.com/track/4FhcXIwLE370GCMWe0FL0g"
@@ -72790,7 +72808,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS"
@@ -72808,7 +72826,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w"

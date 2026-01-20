@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,138 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,133 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [don't ya](https://open.spotify.com/track/0xF7Poiz6FVYVLdU8j4mU3) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [don't ya](https://open.spotify.com/album/55rPgmkVQ3wxy3h85O8Cwi) | 2:15 |
 | 21 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 |
 | 22 | [f0dseunsere](https://open.spotify.com/track/09YySos6qoKAEwVuYMgamR) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [f0dseunsere](https://open.spotify.com/album/4mi4LKanmSIVmqyqX4U5PR) | 2:40 |
-| 23 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 |
-| 24 | [Ciao Bella](https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Ciao Bella](https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT) | 2:43 |
+| 23 | [Ciao Bella](https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Ciao Bella](https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT) | 2:43 |
+| 24 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 |
 | 25 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
 | 26 | [One Kiss in Space](https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [One Kiss in Space](https://open.spotify.com/album/2kia7MpDdIf89Oh9mqtK3n) | 4:48 |
 | 27 | [Brich mich](https://open.spotify.com/track/6Dvm3ZzyF7fXeHg4KBNJUB) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:45 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [Mega peinlich](https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Süß sauer EP](https://open.spotify.com/album/7vDRWDLsWTjnOV0YJJR5v6) | 2:50 |
 | 39 | [Ode an die Periode](https://open.spotify.com/track/0lT1vQgPFJADFbXBdD3Ccx) | [REMOTE BONDAGE](https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z) | [Ode an die Periode](https://open.spotify.com/album/0toOljgBlJQJi7pNEzja1r) | 2:21 |
 | 40 | [Easy Peeler](https://open.spotify.com/track/1HTpc61ViNtrmEsjzRYbOt) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/7A0PyN0K1CPMb5FbeuSGvX) | 3:41 |
-| 41 | [Bittere Pillen](https://open.spotify.com/track/7fzrZkC4Uo9agpFmNhBZzw) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0), [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [Bittere Pillen](https://open.spotify.com/album/0RV8jbDGyDKL7qGox5FkKy) | 2:55 |
-| 42 | [Toure](https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Toure](https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z) | 2:32 |
+| 41 | [Toure](https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Toure](https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z) | 2:32 |
+| 42 | [Bittere Pillen](https://open.spotify.com/track/7fzrZkC4Uo9agpFmNhBZzw) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0), [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [Bittere Pillen](https://open.spotify.com/album/0RV8jbDGyDKL7qGox5FkKy) | 2:55 |
 | 43 | [sorry not sorry](https://open.spotify.com/track/4mzdN0mg2FOSqFHGqYi40L) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [sorry not sorry](https://open.spotify.com/album/66IC5tugBzguwdGqckUH5s) | 2:17 |
 | 44 | [WHat](https://open.spotify.com/track/0OH6YPMAw4i2f2pHgYBs89) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [WHat](https://open.spotify.com/album/4joM1TS8tJxE1J9kQwKgSN) | 2:38 |
 | 45 | [KONTROLLE](https://open.spotify.com/track/57JYAG3xVlDe2vbedUy5JQ) | [KIKI](https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo) | [KONTROLLE](https://open.spotify.com/album/55BKb4Szma7ddW7x1f7NzO) | 2:54 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  EMJAY en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,824 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,826 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [lento \- Live performance](https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [veme así \(Live performance\)](https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj) | 4:06 |
-| 2 | [Desiluciones](https://open.spotify.com/track/45kXwNZSjHB0Q1K5ZYDsIL) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [Desiluciones](https://open.spotify.com/album/1ZbhNZGl4Z0OFxRQUMxExW) | 4:40 |
+| 2 | [Desilusiones](https://open.spotify.com/track/45kXwNZSjHB0Q1K5ZYDsIL) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [Desilusiones](https://open.spotify.com/album/1ZbhNZGl4Z0OFxRQUMxExW) | 4:40 |
 | 3 | [nos keremos tanto](https://open.spotify.com/track/51OIgUzAwtxOMhNUEifwMn) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [nos keremos tanto](https://open.spotify.com/album/5LlYHGpfPOK8WN2TWUmXi1) | 3:33 |
 | 4 | [Mercy](https://open.spotify.com/track/0GxSmOPT9gml7M2n5SSUk9) | [Electrify](https://open.spotify.com/artist/4Hf6DxoplRHxpz1Mh2DRDi) | [Mercy](https://open.spotify.com/album/5XUaQt6L1MW8eogTEUQgyF) | 2:49 |
 | 5 | [Mujer Mexicana](https://open.spotify.com/track/2aoaQbWGcfePI9WL85leY0) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Mujer Mexicana](https://open.spotify.com/album/1ql6HMWjXzf5tOwvO16bOB) | 3:22 |

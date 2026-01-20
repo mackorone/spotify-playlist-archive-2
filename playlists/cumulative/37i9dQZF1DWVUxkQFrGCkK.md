@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-1,163 songs - 3 day 9 hr 2 min
+1,164 songs - 3 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Brown Eyes](https://open.spotify.com/track/3xml6i6LH5X83htaBFM3Zr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 2:31 | 2023-08-01 | 2023-08-25 |
 | [Budáh](https://open.spotify.com/track/2DefQzrbY1B68iTZbYy949) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Budáh](https://open.spotify.com/album/5iVzRsEAceyEeDWNimfHlw) | 4:09 | 2023-09-21 | 2024-06-21 |
 | [Budáh \- Djeff Remix](https://open.spotify.com/track/0gd08o62FMppy9OvMDockm) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4) | [Budáh \(Djeff Remix\)](https://open.spotify.com/album/0IFjiTGyvptzfo96hhvFua) | 4:32 | 2025-06-06 | 2025-06-13 |
+| [Burning Bright, pt\. II](https://open.spotify.com/track/3x1EDL2tBIjgTzfFUFHab2) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [ISIKO](https://open.spotify.com/artist/5oAxiIrZ5glZIg3RkQEixN), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Burning Bright, pt\. II](https://open.spotify.com/album/2BExcohtZcLb984JR4C9XQ) | 3:18 | 2026-01-19 |  |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2023-04-13 | 2024-01-05 |
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-01 | 2025-08-01 |
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-29 | 2024-04-19 |

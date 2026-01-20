@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,332 likes - 101 songs - 5 hr 31 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,330 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [よあけのうた \- Yoake no uta](https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [よあけのうた \- Yoake no uta \- JUJUTSU KAISEN The Culling Game part1 Ending Theme Song](https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ) | 3:19 |
 | 2 | [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 |
 | 3 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
-| 4 | [かすかなはな \- Kasuka na Hana \- \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [かすかなはな \- Kasuka na Hana \- \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq) | 3:07 |
+| 4 | [かすかなはな \- Kasuka na Hana \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [かすかなはな \- Kasuka na Hana \(OP Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/album/0FHpLaGsQPsr31VcXEx9Yq) | 3:07 |
 | 5 | [Kani Umainen \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/5TsQBiQjdeRCNeE8n7wcfl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Keisuke Nakashima](https://open.spotify.com/artist/3c98pX9O3Tf7DWYTARVv5W) | [Kani Umainen \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/0mQ0bclVrKbab5alo9ENIq) | 1:04 |
 | 6 | [PERSONAL \(ED Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/2EopAWJR4qdSHbpAspdQ5P) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [PERSONAL](https://open.spotify.com/album/5CsVRUgb6wdd38OjA2YlzB) | 4:35 |
 | 7 | [relentless dread](https://open.spotify.com/track/5zNIPCWEiaqLzWhJXvLjqh) | [Yasuhiro Maeda](https://open.spotify.com/artist/0WBuyVG4lwRAKRMIhhIOic) | [All You Need Is Kill \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DWofd0w7V7W10Q2jx62LZ) | 2:07 |

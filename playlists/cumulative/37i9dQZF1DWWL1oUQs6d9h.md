@@ -4,7 +4,7 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-128 songs - 6 hr 41 min
+129 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Escapade](https://open.spotify.com/track/1u1nd8ZoRPtiukdZkWKyFb) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:59 | 2025-08-19 | 2025-10-04 |
 | [Ex Machina](https://open.spotify.com/track/3ki3pmiZo3n24DFKdhHIqE) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Soft Error : X](https://open.spotify.com/album/25CRdWLjtFFZAGl2HI0RkU) | 3:02 | 2025-10-17 | 2025-11-20 |
 | [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 | 2026-01-13 |  |
-| [Filter](https://open.spotify.com/track/4p3oOaC3Fo38tEXp3SR5DN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:31 | 2026-01-13 |  |
+| [Filter](https://open.spotify.com/track/4p3oOaC3Fo38tEXp3SR5DN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:31 | 2026-01-13 | 2026-01-20 |
 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 | 2025-05-16 | 2025-08-20 |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2025-05-16 |  |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2025-06-26 | 2025-07-10 |
@@ -133,6 +133,7 @@
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2025-05-16 |  |
 | [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 | 2025-05-16 |  |
 | [Where′s my soul](https://open.spotify.com/track/4Xk6MCUuYXcKnbCDuB5LQT) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Where′s my soul](https://open.spotify.com/album/6xEyOe28RIZJgmpfhOiV8m) | 2:40 | 2025-06-26 | 2025-07-03 |
+| [whydoyouloveme](https://open.spotify.com/track/2AXjZcgqWzBa5SMTnGJ6u0) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Why do you love me?](https://open.spotify.com/album/1bhfozfv70iqgcX3m8WBdQ) | 3:08 | 2026-01-19 |  |
 | [Work In The Morning \(feat\. Sonny Zero\)](https://open.spotify.com/track/5li5fqHZ1N6lgkhfhPkzml) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Work In The Morning \(feat\. Sonny Zero\)](https://open.spotify.com/album/5kV21Xec2z2B53SQlvpbYo) | 2:43 | 2025-06-05 | 2025-06-13 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/0oJUk2PO3UVd9dZwPn0SRI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:09 | 2025-05-16 | 2025-08-16 |
 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 | 2025-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,076 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,072 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 37 | [Planos Pra Nós](https://open.spotify.com/track/0NhGVKzZikTQGbuQR5996s) | [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Planos Pra Nós](https://open.spotify.com/album/5oGkjDXvk1QGMFORSBdN0B) | 4:05 |
 | 38 | [Segura Seu BO](https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 3:33 |
 | 39 | [Um Tom de Azul](https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Portal](https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx) | 4:21 |
-| 40 | [Ainda Tem](https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 4:03 |
-| 41 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 |
+| 40 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 |
+| 41 | [Ainda Tem](https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 4:03 |
 | 42 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
 | 43 | [Ruaterapia \(feat\. Mano Brown & Max De Castro\)](https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Max de Castro](https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:31 |
 | 44 | [Gratidão](https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Gratidão](https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Confundindo Sábios](https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [DJ Mr Brown](https://open.spotify.com/artist/17dJnYNrUDbyUIqXnoF0hu) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:58 |
 | 50 | [Eu Te Avisei](https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:00 |
 
-Snapshot ID: `aWrRAAAAAACI71VQWPitVPveJF12uppl`
+Snapshot ID: `aWwigAAAAADDDc7DwKZqFhd3+hOtF7Kj`

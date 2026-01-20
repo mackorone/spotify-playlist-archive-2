@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 699653,
+  "num_followers": 699667,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
+        "name": "Satingarona Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Laurene P Magnani",
+          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+        }
+      ],
+      "duration_ms": 294499,
+      "name": "Agua fr\u00eda",
+      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Satingarona Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
-        },
-        {
-          "name": "Laurene P Magnani",
-          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
-        }
-      ],
-      "duration_ms": 294499,
-      "name": "Agua fr\u00eda",
-      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "El Sabor del Viejo Mar",
-        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+        "name": "Amor Entre Mujer",
+        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
       "artists": [
         {
@@ -1116,17 +1116,17 @@
           "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
         },
         {
           "name": "Eva de Marce",
           "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 263265,
-      "name": "El Sabor del Viejo Mar",
-      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+      "duration_ms": 272799,
+      "name": "Amor Entre Mujer",
+      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "French Samba",
         "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 163181,
       "name": "French Samba",
       "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Pupilas Lejanas",
         "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1431,6 +1431,22 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Miocarditis",
+        "url": "https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "\u00bfA D\u00f3nde Vas?",
+      "url": "https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1463,22 +1479,6 @@
       "duration_ms": 222787,
       "name": "P\u00e1jaro",
       "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Miocarditis",
-        "url": "https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "\u00bfA D\u00f3nde Vas?",
-      "url": "https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Post Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Post Qu\u00edmica",
-      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Clandestino (feat. Calypso Rose)",
         "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 158714,
       "name": "Clandestino (feat. Calypso Rose)",
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Post Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Post Qu\u00edmica",
+      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Amor Arrayano",
         "url": "https://open.spotify.com/album/4EgEBNMsIhWTR2J9HdFfMK"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 220413,
       "name": "Amor Arrayano",
       "url": "https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 174882,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/6yXfAPWCd2Vx9S09JPZviq"
-      },
-      "artists": [
-        {
-          "name": "Pi\u00e9lago",
-          "url": "https://open.spotify.com/artist/74fUwxg1ht9308R6WNVv1O"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/6PigN4VPqTNmmc3obsHnZ6"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Paradiso",
         "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 181723,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/6yXfAPWCd2Vx9S09JPZviq"
+      },
+      "artists": [
+        {
+          "name": "Pi\u00e9lago",
+          "url": "https://open.spotify.com/artist/74fUwxg1ht9308R6WNVv1O"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/6PigN4VPqTNmmc3obsHnZ6"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Muerte En Hawaii",
-        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
-      },
-      "artists": [
-        {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
-        }
-      ],
-      "duration_ms": 186689,
-      "name": "Muerte En Hawaii",
-      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "V\u00e1mono",
         "url": "https://open.spotify.com/album/0DAtzeZ09MxUORBOwGWxF5"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 208329,
       "name": "V\u00e1mono",
       "url": "https://open.spotify.com/track/623mI2F1iCO4cqGbv6WUVn"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Muerte En Hawaii",
+        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
+      },
+      "artists": [
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Muerte En Hawaii",
+      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
     }
   ],
   "unique_name": "Tropical Vibe",

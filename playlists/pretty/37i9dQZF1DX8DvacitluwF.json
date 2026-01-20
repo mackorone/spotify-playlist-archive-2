@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: Dave, Tems",
-  "num_followers": 29386,
+  "num_followers": 29397,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-01-08 22:00:06",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 219053,
-      "name": "NEED IT",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL"
+      "duration_ms": 184822,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
     },
     {
       "added_at": "2026-01-08 22:00:06",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-01-08 22:00:06",
       "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 184822,
-      "name": "Acres",
-      "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
+      "duration_ms": 219053,
+      "name": "NEED IT",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL"
     },
     {
       "added_at": "2026-01-08 22:00:06",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-01-08 22:00:06",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 172081,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
-    },
-    {
-      "added_at": "2026-01-08 22:00:06",
-      "album": {
         "name": "CONCUBANIA",
         "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 256084,
       "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
       "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
+    },
+    {
+      "added_at": "2026-01-08 22:00:06",
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
     },
     {
       "added_at": "2026-01-08 22:00:06",

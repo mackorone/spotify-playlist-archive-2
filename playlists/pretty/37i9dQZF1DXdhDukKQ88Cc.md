@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,561 likes - 54 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,550 likes - 54 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

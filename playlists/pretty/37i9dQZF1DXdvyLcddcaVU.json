@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 842921,
+  "num_followers": 842998,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPjfXTkChSNwEfvSQKh+w9+78ZGB",
+  "snapshot_id": "AAAAAEM+zTz5JjqCIfFj9D2IhsQ1x8g3",
   "tracks": [
     {
       "added_at": "2025-12-23 13:46:48",
@@ -27,6 +27,22 @@
       "duration_ms": 164986,
       "name": "OG",
       "url": "https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87"
+    },
+    {
+      "added_at": "2026-01-07 09:43:15",
+      "album": {
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
     },
     {
       "added_at": "2025-10-22 14:54:39",
@@ -141,22 +157,6 @@
       "url": "https://open.spotify.com/track/1k2MSLuxyPxJbM47VrVVIq"
     },
     {
-      "added_at": "2026-01-07 09:43:15",
-      "album": {
-        "name": "B.M.S (by my side)",
-        "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
-      },
-      "artists": [
-        {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "B.M.S (by my side)",
-      "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
-    },
-    {
       "added_at": "2026-01-16 14:44:38",
       "album": {
         "name": "Capote",
@@ -191,18 +191,18 @@
     {
       "added_at": "2026-01-16 14:44:38",
       "album": {
-        "name": "PUANT",
-        "url": "https://open.spotify.com/album/0LUDIWm8k9UUUu9g5uxZOt"
+        "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
+        "url": "https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz"
       },
       "artists": [
         {
-          "name": "Diez",
-          "url": "https://open.spotify.com/artist/082ELiDlIVdC1ovHXpWZHK"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 192000,
-      "name": "PUANT",
-      "url": "https://open.spotify.com/track/2v83vqnKuCmPr3G6vykIpF"
+      "duration_ms": 150733,
+      "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
+      "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
     },
     {
       "added_at": "2025-11-21 13:31:18",
@@ -225,24 +225,20 @@
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
     },
     {
-      "added_at": "2026-01-16 14:44:38",
+      "added_at": "2025-06-27 12:12:12",
       "album": {
-        "name": "Premiere Offense",
-        "url": "https://open.spotify.com/album/2Y1YgTwgrB1KnZ9higRBE0"
+        "name": "BTRD",
+        "url": "https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB"
       },
       "artists": [
         {
-          "name": "BAGITO",
-          "url": "https://open.spotify.com/artist/0guxhzoPYZ1HLnj0fdg0ga"
-        },
-        {
-          "name": "Scott",
-          "url": "https://open.spotify.com/artist/0ufEUSNUPIOULZSMS2otl1"
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
         }
       ],
-      "duration_ms": 171090,
-      "name": "Allez retour",
-      "url": "https://open.spotify.com/track/0s98n6udKCwZCvP2onZnI1"
+      "duration_ms": 140487,
+      "name": "BTRD",
+      "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
     },
     {
       "added_at": "2025-08-01 20:50:24",
@@ -281,36 +277,20 @@
       "url": "https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk"
     },
     {
-      "added_at": "2026-01-16 14:44:38",
+      "added_at": "2026-01-19 19:06:30",
       "album": {
-        "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
-        "url": "https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz"
+        "name": "GMK",
+        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
         }
       ],
-      "duration_ms": 150733,
-      "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
-      "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
-    },
-    {
-      "added_at": "2025-06-27 12:12:12",
-      "album": {
-        "name": "BTRD",
-        "url": "https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "BTRD",
-      "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
+      "duration_ms": 125179,
+      "name": "GMK",
+      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
     },
     {
       "added_at": "2025-07-25 14:58:57",
@@ -349,6 +329,22 @@
       "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
+      "added_at": "2025-12-18 10:00:10",
+      "album": {
+        "name": "14 KARA",
+        "url": "https://open.spotify.com/album/6gj8kuC8BbDoEhzPPP7AyC"
+      },
+      "artists": [
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "Tch\u00e9b\u00e9 2x",
+      "url": "https://open.spotify.com/track/7l3b0X95GdYfRuW8Kq5ixC"
+    },
+    {
       "added_at": "2025-10-08 09:50:28",
       "album": {
         "name": "Toute la nuit",
@@ -367,6 +363,26 @@
       "duration_ms": 198693,
       "name": "Toute la nuit",
       "url": "https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV"
+    },
+    {
+      "added_at": "2026-01-16 14:44:38",
+      "album": {
+        "name": "Premiere Offense",
+        "url": "https://open.spotify.com/album/2Y1YgTwgrB1KnZ9higRBE0"
+      },
+      "artists": [
+        {
+          "name": "BAGITO",
+          "url": "https://open.spotify.com/artist/0guxhzoPYZ1HLnj0fdg0ga"
+        },
+        {
+          "name": "Scott",
+          "url": "https://open.spotify.com/artist/0ufEUSNUPIOULZSMS2otl1"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Allez retour",
+      "url": "https://open.spotify.com/track/0s98n6udKCwZCvP2onZnI1"
     },
     {
       "added_at": "2025-09-11 22:00:20",
@@ -479,6 +495,22 @@
       "duration_ms": 158667,
       "name": "Connect\u00e9s",
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
+    },
+    {
+      "added_at": "2026-01-16 14:44:38",
+      "album": {
+        "name": "PUANT",
+        "url": "https://open.spotify.com/album/0LUDIWm8k9UUUu9g5uxZOt"
+      },
+      "artists": [
+        {
+          "name": "Diez",
+          "url": "https://open.spotify.com/artist/082ELiDlIVdC1ovHXpWZHK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "PUANT",
+      "url": "https://open.spotify.com/track/2v83vqnKuCmPr3G6vykIpF"
     },
     {
       "added_at": "2025-07-25 14:58:57",
@@ -619,22 +651,6 @@
       "duration_ms": 216284,
       "name": "Hasta la vista",
       "url": "https://open.spotify.com/track/6YHnhfw8yMCx4vZvsgem3D"
-    },
-    {
-      "added_at": "2025-12-18 10:00:10",
-      "album": {
-        "name": "14 KARA",
-        "url": "https://open.spotify.com/album/6gj8kuC8BbDoEhzPPP7AyC"
-      },
-      "artists": [
-        {
-          "name": "Bilouki",
-          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "Tch\u00e9b\u00e9 2x",
-      "url": "https://open.spotify.com/track/7l3b0X95GdYfRuW8Kq5ixC"
     },
     {
       "added_at": "2025-11-21 13:31:18",
@@ -1047,22 +1063,6 @@
       "duration_ms": 157520,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/3F64F36D17vZ1KgI8vkHQf"
-    },
-    {
-      "added_at": "2025-11-07 15:41:41",
-      "album": {
-        "name": "Follasse",
-        "url": "https://open.spotify.com/album/3QFReuHQy2eXvOW78Ghr91"
-      },
-      "artists": [
-        {
-          "name": "KENZY DONA",
-          "url": "https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl"
-        }
-      ],
-      "duration_ms": 127146,
-      "name": "Follasse",
-      "url": "https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH"
     },
     {
       "added_at": "2025-11-27 23:00:22",

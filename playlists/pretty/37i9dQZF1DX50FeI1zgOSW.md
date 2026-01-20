@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : NV Vigneshwer Karthik
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,005 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,008 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 3 | [AI Sundari](https://open.spotify.com/track/2Eycs9II5o2z0fSlvS9rQd) | [Keys & Verses Collective](https://open.spotify.com/artist/4kLDQZLXOZ2NivYU2StQtp), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO), [Kaushik Ganesan](https://open.spotify.com/artist/6Qhn393jjgP25dHKmVQLF3), [Vijay Ragavan](https://open.spotify.com/artist/6bLzvewq2j12kTavLE7ejB) | [AI Sundari](https://open.spotify.com/album/63C0t6D3Kgv5nfn2EOK8J6) | 3:02 |
 | 4 | [yeno](https://open.spotify.com/track/62Ga2w2umiuR97MUKVQKWm) | [cavya sound](https://open.spotify.com/artist/1bHLrn1seutyUjIUCJnMyj), [dilushselva](https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ) | [yeno](https://open.spotify.com/album/4dzJYuPlq9ghNQ49trpLFc) | 2:56 |
 | 5 | [Bengali Sweete](https://open.spotify.com/track/6LRWTEd7Szk6W9ZSLQsMEh) | [Ajay Krishnaa](https://open.spotify.com/artist/7FatQU5xHO9JpAyqOVWP9k), [Nigaran](https://open.spotify.com/artist/6K760C2afrQgI3MxFcBFiK), [JS Raja Sha](https://open.spotify.com/artist/3wQt6celardaexcU1aTHr4) | [Bengali Sweete](https://open.spotify.com/album/0I4gHg1H3K2fdB6OREjxky) | 3:26 |
-| 6 | [Radhiye \- Reprise](https://open.spotify.com/track/4DCZY1F5CuYZTQN7MTQN03) | [Aditya Ramkumar](https://open.spotify.com/artist/7geUhmzRoB8LJUGtrnyacf), [Devzart](https://open.spotify.com/artist/3U2Zk0AvD6DpRj7HtsKUiA), [Tom Karthi](https://open.spotify.com/artist/2UvAJKDnRGhRaUsjlGAVbo), [Sanket Joshi](https://open.spotify.com/artist/7pkNbla9m5q1xeSltTNNsX) | [Radhiye \(Reprise\)](https://open.spotify.com/album/7k9gOd00b7GUYR7O0lTzJT) | 3:54 |
+| 6 | [Radhiye \- Reprise](https://open.spotify.com/track/4DCZY1F5CuYZTQN7MTQN03) | [Aditya Ramkumar](https://open.spotify.com/artist/7geUhmzRoB8LJUGtrnyacf), [Devzart](https://open.spotify.com/artist/3U2Zk0AvD6DpRj7HtsKUiA), [Tom Karthi](https://open.spotify.com/artist/5rf6qdyKd6WeUUmnO2YU32), [Sanket Joshi](https://open.spotify.com/artist/7pkNbla9m5q1xeSltTNNsX) | [Radhiye \(Reprise\)](https://open.spotify.com/album/7k9gOd00b7GUYR7O0lTzJT) | 3:54 |
 | 7 | [Undhan Mugam Kaana](https://open.spotify.com/track/1quyCIz5SauoZn6PV16YxN) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [Kumudhavalli](https://open.spotify.com/artist/1cLCzBWRM5xAK7BGrrZIF4) | [Undhan Mugam Kaana](https://open.spotify.com/album/73wEq0nKzBdM8EIQxYw5IK) | 2:54 |
 | 8 | [Midnight Wifi](https://open.spotify.com/track/3NQfPyQPGL4jQ9LMmPgbB3) | [RHEA](https://open.spotify.com/artist/7eRr4Xdskj6mti7C5QyW5H), [Christil Ash](https://open.spotify.com/artist/72EXgZMzdCOrt5t5NjMmuS) | [Midnight Wifi](https://open.spotify.com/album/3RPuUQ33sTqpQxIfio3Z9c) | 2:16 |
 | 9 | [Pongal Thara Local](https://open.spotify.com/track/2b5ZoeSKA971sRjWZU0gP5) | [Navneeth Sundar](https://open.spotify.com/artist/5a90LDKvSIgq8c3e8IjZRe) | [Pongal Thara Local](https://open.spotify.com/album/6ovlJbF1ad3CpcFJBqtTKf) | 2:51 |

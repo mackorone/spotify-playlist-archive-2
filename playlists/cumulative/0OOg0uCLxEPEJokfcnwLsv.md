@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-235 songs - 14 hr 26 min
+239 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 | 2025-12-12 |
 | [Count On Me](https://open.spotify.com/track/4sFKSeU0gZQGF0vc0eKZLN) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Sex, Drugs & A Breakfast Burrito](https://open.spotify.com/album/5xhpifoklmF0iZJqdNvvbF) | 3:42 | 2025-09-05 | 2026-01-05 |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-11-11 | 2025-12-12 |
+| [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2026-01-19 |  |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-10-30 |  |
 | [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 | 2025-12-22 |  |
 | [DANNATAMENTE IO](https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh) | [Occulta Sententia](https://open.spotify.com/artist/7FXDan2bxS8Bym5nYX59Jo) | [DANNATAMENTE IO](https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn) | 4:59 | 2025-11-09 | 2025-12-12 |
@@ -99,6 +100,7 @@
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 | 2025-11-27 |  |
+| [Goodbye](https://open.spotify.com/track/0gsnHqolhDY9SndsectfOQ) | [Salinas](https://open.spotify.com/artist/1KLH3dNRex8pHKfVoC6m1k) | [Goodbye](https://open.spotify.com/album/63KlkBF2ADrOh9WVU9I7rZ) | 3:56 | 2026-01-19 |  |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2025-12-22 |  |
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 |  |
@@ -113,6 +115,7 @@
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
 | [Impostor](https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Impostor](https://open.spotify.com/album/310tBlOOWUERHbf0xTbRBR) | 3:01 | 2025-12-29 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
+| [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 | 2026-01-19 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-27 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 | 2025-11-22 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-11 | 2025-12-12 |
@@ -124,6 +127,7 @@
 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 |  |
 | [Lobotomy](https://open.spotify.com/track/19aXEmTM5YghumBM5d0HWu) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:03 | 2025-12-13 | 2026-01-05 |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
+| [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2026-01-19 |  |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-10-27 | 2025-11-22 |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 |  |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 | 2026-01-05 |

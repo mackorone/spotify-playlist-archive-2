@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 749512,
+  "num_followers": 749619,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-01-16 05:00:42",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
-    },
-    {
-      "added_at": "2026-01-16 05:00:42",
-      "album": {
         "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 263716,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:42",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
     },
     {
       "added_at": "2026-01-16 05:00:42",
@@ -1648,22 +1648,6 @@
       "added_at": "2026-01-16 05:00:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sleep Now In The Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
-    },
-    {
-      "added_at": "2026-01-16 05:00:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
       "artists": [
@@ -1675,6 +1659,22 @@
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
     },
     {
       "added_at": "2026-01-16 05:00:42",

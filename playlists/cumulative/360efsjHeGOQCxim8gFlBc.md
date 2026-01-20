@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-855 songs - 1 day 11 hr 35 min
+858 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Minor Scale](https://open.spotify.com/track/3TQiLjMgm4tlCtV0j89r9F) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [A Minor Scale](https://open.spotify.com/album/471VrZ3m7l6iCo04Lhw7M2) | 2:00 | 2024-10-23 |  |
 | [A Moment To Think](https://open.spotify.com/track/1oTteVId0nmIbtypBnVAVP) | [Eskricke](https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt) | [A Moment To Think](https://open.spotify.com/album/2BazQUCHO2HMBhvpYRcojv) | 2:01 | 2024-12-27 |  |
 | [A New Chapter](https://open.spotify.com/track/2HKRm71ioSf15zdxfWhaRS) | [Soheil Bostani](https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9) | [The End of a Dream](https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY) | 1:27 | 2023-10-29 | 2024-02-15 |
+| [A New Day](https://open.spotify.com/track/5eUJaZiXSKuaJ2P5aSg8KK) | [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [A New Day](https://open.spotify.com/album/4VFaQd5CbpQkypmRKvtJLo) | 1:54 | 2026-01-19 |  |
 | [A New Start](https://open.spotify.com/track/3DV3yuKCQzwyi4RbeteINp) | [Eskricke](https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt) | [A New Start](https://open.spotify.com/album/4GsihGLmiEm1xL9k0xoUyv) | 1:46 | 2024-01-25 | 2024-12-28 |
 | [A Practical Matter](https://open.spotify.com/track/6diJq4Hz5Z8SMP87VhQR82) | [Tanner Christian Gesek](https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC) | [Charisma](https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9) | 2:15 | 2024-07-12 | 2025-03-02 |
 | [A Rainy Afternoon](https://open.spotify.com/track/1zsw9cEwbCMWccSNls48fZ) | [NelGlez](https://open.spotify.com/artist/010fP1r9bqKsBWabMKoHJK) | [A Rainy Afternoon](https://open.spotify.com/album/3B5YVMnNd79n1G227Z8TFe) | 1:19 | 2024-04-13 | 2025-03-02 |
@@ -247,7 +248,7 @@
 | [First Appearance](https://open.spotify.com/track/0lWRLG4RfTQWEcEHWgr4To) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [A Love Story](https://open.spotify.com/album/6HGofEIWCqleYhDYF4bW60) | 0:49 | 2025-01-31 |  |
 | [first dream](https://open.spotify.com/track/6mUNhXpUrl2HBqtZy4l70s) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [my dreams](https://open.spotify.com/album/5Yf71XMJKDiuasIjOmTTm7) | 2:06 | 2024-04-13 | 2025-02-15 |
 | [first flight](https://open.spotify.com/track/02fMzeCBT4nuLS9VEu12bs) | [Hajime Hattori](https://open.spotify.com/artist/7aEnE4vW1p9LM0hSUB4UNx), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [first flight](https://open.spotify.com/album/0sp7g28si4mWjHRehNkaMh) | 2:43 | 2025-09-15 | 2026-01-15 |
-| [first flight](https://open.spotify.com/track/4XxL7wdQbNRdJZnMTPOTbd) | [Hajime Hattori](https://open.spotify.com/artist/7aEnE4vW1p9LM0hSUB4UNx), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [first flight](https://open.spotify.com/album/7CB7gbnzNuMIt3rDV4oeKj) | 2:43 | 2025-12-22 |  |
+| [first flight](https://open.spotify.com/track/4XxL7wdQbNRdJZnMTPOTbd) | [Hajime Hattori](https://open.spotify.com/artist/7aEnE4vW1p9LM0hSUB4UNx), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [first flight](https://open.spotify.com/album/7CB7gbnzNuMIt3rDV4oeKj) | 2:43 | 2025-12-22 | 2026-01-20 |
 | [First Spring](https://open.spotify.com/track/5U3ry1bhFKUClOHm0W730g) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Lullabies Of The Seasons](https://open.spotify.com/album/7vSbeXespWmp9FMgqDaBwX) | 3:22 | 2025-04-14 |  |
 | [First Winter](https://open.spotify.com/track/1NXRPOXL3K97W358UUrPeB) | [Valentino Mancini](https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2) | [First Winter](https://open.spotify.com/album/2wOS52H0jEU2gvCG2LY8yW) | 2:15 | 2025-12-15 |  |
 | [Flieg Mit Mir](https://open.spotify.com/track/3s4YVO6r1midVIgKIheI0Y) | [Nikolas Belalis](https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M) | [Flieg Mit Mir](https://open.spotify.com/album/5QWisGyN0UipCZN6quVkq2) | 1:47 | 2024-12-06 |  |
@@ -391,6 +392,7 @@
 | [Je te laisserai des mots \(Piano Cover\)](https://open.spotify.com/track/24WOoQMfbeUe0AAqPKiiq6) | [IRSNa](https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR) | [Je te laisserai des mots \(Piano Cover\)](https://open.spotify.com/album/7D4SmxkKkjHsBJ16gFkPLI) | 2:32 | 2023-10-29 | 2024-11-16 |
 | [journeys](https://open.spotify.com/track/2L2h70wu17gYivj6aK4tkU) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [journeys](https://open.spotify.com/album/5czOiehtV066HzlLpPgiMb) | 2:08 | 2023-10-29 | 2025-02-15 |
 | [june](https://open.spotify.com/track/1li0g1Old7Ej6wuBgi6eXZ) | [Anna S.](https://open.spotify.com/artist/79Jt8tyCeCDFfM5ASqpOom) | [june](https://open.spotify.com/album/6wMv0w981j8TdSqPQGkjha) | 2:52 | 2024-08-04 | 2025-06-17 |
+| [Kaleidoscope](https://open.spotify.com/track/02FVcZUi4B3Gb8uhZsz5rt) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Kaleidoscope](https://open.spotify.com/album/1E8matkBwd6sxIPSdVV8Mh) | 3:58 | 2026-01-19 |  |
 | [Kazuha Moonlit Breeze \(Piano\)](https://open.spotify.com/track/3uVb8OWiRgmETfxJRIdw0O) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:07 | 2023-10-29 | 2024-01-25 |
 | [Kazuha's Sorrow \(Piano Version\)](https://open.spotify.com/track/137O2HFPwNv9qwlwHoV1qQ) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact \- Kazuha Story](https://open.spotify.com/album/03PXiJXgeqPiayWPTT8wWs) | 1:12 | 2023-10-29 | 2024-10-24 |
 | [Kotana](https://open.spotify.com/track/1gEtU3eBHifTx1qJ2iwciw) | [Eliza Ukko](https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn) | [Kotana](https://open.spotify.com/album/644hlQiCQ140ivB33GxXFx) | 2:33 | 2023-10-29 | 2024-05-03 |
@@ -455,6 +457,7 @@
 | [Many Moons](https://open.spotify.com/track/1OI9CWyAl40xrdjRvDb6lK) | [Luca Verdant](https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7) | [Many Moons](https://open.spotify.com/album/77MRluVK3TNgRNhCJGsdW2) | 2:04 | 2025-04-28 |  |
 | [Mariposa](https://open.spotify.com/track/65WIpfdc8d90P4805p1Nbe) | [Alise Ashby](https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF) | [Stardust](https://open.spotify.com/album/43W2pgQ86AUFuCEadncthi) | 4:21 | 2024-07-12 | 2025-03-02 |
 | [Mars](https://open.spotify.com/track/4eqKn9O4xVatIYglmKu5pD) | [terra](https://open.spotify.com/artist/078iD7GQSd9C7r4RxWVlmh) | [Mars](https://open.spotify.com/album/4eHKr8qngWuXSVc7vwOkrC) | 2:45 | 2025-11-10 |  |
+| [Mary, Did You Know?](https://open.spotify.com/track/3IuN2zX66ID6eJ5aR71lmP) | [Charles Szczepanek](https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX) | [Mary, Did You Know?](https://open.spotify.com/album/0MxIzupXPXslh9LA42wp5F) | 3:27 | 2026-01-19 |  |
 | [MASC \- Piano Instrumental](https://open.spotify.com/track/5XpJ3b88MBGymRJu4IXlNI) | [Re:Imagine](https://open.spotify.com/artist/4VwpVXEXhfbmpwJKIBFrFi) | [MASC \(Piano Instrumental\)](https://open.spotify.com/album/4J8ozGBPIfJqVaNdwimvq4) | 2:10 | 2024-05-02 | 2024-10-24 |
 | [Mashama](https://open.spotify.com/track/5AGJtGhI61lHjGvXyNld2Z) | [Eliza Ukko](https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn) | [Mashama](https://open.spotify.com/album/5PXtgu3ZxP9d9WWRzDRNAv) | 2:47 | 2023-10-29 | 2024-11-16 |
 | [Maybe Someday](https://open.spotify.com/track/24hYI8nalNVmN47IbI1qYW) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [Maybe Someday](https://open.spotify.com/album/1BCTpdlGVecCAS3BwaK77I) | 2:22 | 2024-06-17 | 2025-03-02 |

@@ -6412,7 +6412,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 127146,
       "name": "Follasse",
       "url": "https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH"
@@ -6950,6 +6950,24 @@
       "duration_ms": 98441,
       "name": "Glish Vs Glish",
       "url": "https://open.spotify.com/track/1GTEtRVqif7e8TXQLzwXXZ"
+    },
+    {
+      "album": {
+        "name": "GMK",
+        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125179,
+      "name": "GMK",
+      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-79 songs - 4 hr 15 min
+80 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Run Run Rudolph](https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR), [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Run Run Rudolph](https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU) | 2:54 | 2025-10-24 |  |
 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 | 2024-09-02 |  |
 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 | 2024-12-20 |  |
+| [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 | 2025-12-12 |  |
 | [Silver Bells](https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silver Bells](https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou) | 1:55 | 2024-09-02 | 2025-10-25 |
 | [Silver Bells](https://open.spotify.com/track/7GUIo9zlJ6pIm5bNwls9EH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silent Night](https://open.spotify.com/album/6rKpq3TVg2RtNCaMsfHscq) | 1:55 | 2024-12-20 | 2025-11-28 |
 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 | 2025-11-28 | 2025-11-30 |
@@ -82,7 +83,7 @@
 | [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 | 2024-09-02 | 2026-01-03 |
 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 | 2024-09-02 |  |
 | [When It Snows In Texas](https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [When It Snows In Texas](https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe) | 2:46 | 2025-11-28 |  |
-| [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 | 2024-09-02 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 | 2024-09-02 | 2026-01-20 |
 | [Winter Wonderland](https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Winter Wonderland](https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy) | 3:38 | 2024-09-02 | 2025-11-13 |
 | [Wonderful Christmas Time](https://open.spotify.com/track/3ojZyttDj9BPo3IJfYYeeB) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vol\. 5](https://open.spotify.com/album/1oFbCfHaZmS713CJfmcnll) | 2:25 | 2024-12-20 | 2025-06-24 |
 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 | 2024-09-02 | 2025-11-17 |

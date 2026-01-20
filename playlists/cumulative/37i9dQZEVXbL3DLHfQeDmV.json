@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "Gachiakuta (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/41l3KGLex0bMehOuTjAyiA"
+      },
+      "artists": [
+        {
+          "name": "Taku Iwasaki",
+          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144627,
+      "name": "Outlaws Get No Entry",
+      "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
+    },
+    {
+      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr"
@@ -7342,7 +7360,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 193469,
       "name": "Your Nonsense Makes Sense",
       "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"

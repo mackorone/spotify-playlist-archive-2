@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 444689,
+  "num_followers": 444652,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe"
-      },
-      "artists": [
-        {
-          "name": "The Paradox",
-          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
-        }
-      ],
-      "duration_ms": 148567,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Constant Headache",
         "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 181430,
       "name": "Constant Headache",
       "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "duration_ms": 148567,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        }
+      ],
+      "duration_ms": 143581,
+      "name": "Leave My Room",
+      "url": "https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Where I Lay",
         "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 173239,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc"
-      },
-      "artists": [
-        {
-          "name": "The Paradox",
-          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
-        }
-      ],
-      "duration_ms": 143581,
-      "name": "Leave My Room",
-      "url": "https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "SOULSUCKER",
-        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 146620,
-      "name": "SOULSUCKER",
-      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "PIN-EYE",
         "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 272668,
       "name": "PIN-EYE",
       "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "SOULSUCKER",
+        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 146620,
+      "name": "SOULSUCKER",
+      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
     }
   ],
   "unique_name": "The Scene",

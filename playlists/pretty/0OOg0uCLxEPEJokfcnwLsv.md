@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 632 likes - 96 songs - 5 hr 51 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 634 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 94 | [WHATS NEXT](https://open.spotify.com/track/3V7NCUrWKzHAvGQKSThf12) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [WHATS NEXT](https://open.spotify.com/album/12O9cLYMwQlPlFOmrxfE8o) | 2:15 |
 | 95 | [Broken Mirrors](https://open.spotify.com/track/7EutEoJcHg6Rapoc9BIPde) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Broken Mirrors](https://open.spotify.com/album/3MgB1ndfRsXWlBtLt3j3Rs) | 4:25 |
 | 96 | [Wish Me Luck](https://open.spotify.com/track/1H1y2fumUdS2YiKPxHJ4jl) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Twenty\-Four Seven](https://open.spotify.com/album/6kGDbKew5FJ0AUErB6gyty) | 3:06 |
+| 97 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 |
+| 98 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 |
+| 99 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 |
+| 100 | [Goodbye](https://open.spotify.com/track/0gsnHqolhDY9SndsectfOQ) | [Salinas](https://open.spotify.com/artist/1KLH3dNRex8pHKfVoC6m1k) | [Goodbye](https://open.spotify.com/album/63KlkBF2ADrOh9WVU9I7rZ) | 3:56 |
 
-Snapshot ID: `AAAEgstUPXl2b+6BEDpPDL1xlEvm3OCw`
+Snapshot ID: `AAAEhmVDClX3AjWG5JzyJRo58KRXf1ha`

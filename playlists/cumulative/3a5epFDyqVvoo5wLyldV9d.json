@@ -1835,6 +1835,28 @@
     },
     {
       "album": {
+        "name": "Mr. Wollogallu",
+        "url": "https://open.spotify.com/album/1qPQqjttjO9TbixGDQKNHK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Maria Trindade",
+          "url": "https://open.spotify.com/artist/2VPM4BnWrRFThgDLuwZR3Q"
+        },
+        {
+          "name": "Nuno Canavarro",
+          "url": "https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425160,
+      "name": "Blu Terra",
+      "url": "https://open.spotify.com/track/1QoKnVHsM4tIqE648q8RB1"
+    },
+    {
+      "album": {
         "name": "Changez Tout: Samba pra Burro Dissecado",
         "url": "https://open.spotify.com/album/4bUUnAx2SrO2cKeC5Uohmr"
       },

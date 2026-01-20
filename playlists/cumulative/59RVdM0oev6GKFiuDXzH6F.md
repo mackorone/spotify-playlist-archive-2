@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,067 songs - 2 day 6 hr 59 min
+1,068 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Heartbeat Bass](https://open.spotify.com/track/1J6GxhLR65ZEZRSS98xrQO) | [MATT HATTER \(DJ\)](https://open.spotify.com/artist/2KA0uN2ftl2OSepTNxoofg) | [Heartbeat Bass](https://open.spotify.com/album/2uBhNi9h8fTwK2f2Wd7P5l) | 4:30 | 2024-11-15 | 2025-01-09 |
 | [Heartbeats](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Heartbeats](https://open.spotify.com/album/3X1eYb650jexhiVxkNepW7) | 3:12 | 2024-12-05 | 2025-05-09 |
 | [Hearts Grow Cold \(Saint Noël\) \[feat\. Olivia Cadenza\]](https://open.spotify.com/track/05RK4klU7S2Jm50ONIjyM4) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [Olivia Cadenza](https://open.spotify.com/artist/0nTRHbJvSNbEpTijHyAFEN) | [Hearts Grow Cold \(Saint Noêl\) \[feat\. Olivia Cadenza\]](https://open.spotify.com/album/0Kil1i9WrmbacxToZg8qk9) | 2:39 | 2025-10-17 |  |
+| [Hecho Esta](https://open.spotify.com/track/2bGCcfmG1lZjvgZe8t054U) | [Christian Corsi](https://open.spotify.com/artist/3JlSc5y4TTi8H0mszwjKPk) | [Hecho Esta](https://open.spotify.com/album/2x0o6On1HaK9zkTIRCnGHt) | 3:33 | 2026-01-19 |  |
 | [Hepti](https://open.spotify.com/track/4rnSjRpcKzYogDQwMkkgMM) | [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [NIKK](https://open.spotify.com/artist/0WpOkyZny3FSpdF95rJBJP) | [Hepti](https://open.spotify.com/album/44wy3RSMsOO5XtRCd9kKhI) | 2:32 | 2023-08-04 | 2023-12-14 |
 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2023-10-06 | 2023-12-23 |
 | [Hey DJ \- Joel Corry VIP Mix](https://open.spotify.com/track/20Z0uJ0fP8ENJ3bpMUzgOu) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ \(The Remixes\)](https://open.spotify.com/album/7GKY1CExwlxN9Cn8HMPyd7) | 2:34 | 2023-11-24 | 2024-11-16 |

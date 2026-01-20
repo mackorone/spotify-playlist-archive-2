@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 151138,
+  "num_followers": 151160,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAA5O7hKl4y5ph3auMQATrAl",
+  "snapshot_id": "aWwigAAAAAAFsArmkYG1RpeivAggy/PT",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+      "duration_ms": 260760,
+      "name": "The Joy of Life",
+      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 260760,
-      "name": "The Joy of Life",
-      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
     },
     {
       "added_at": null,

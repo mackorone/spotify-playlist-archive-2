@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167290,
+  "num_followers": 167284,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Powder Day",
-        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Powder Day",
-      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Smoky Mountain DNA: Family, Faith and Fables",
         "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 179389,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Powder Day",
+        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Powder Day",
+      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1223,42 +1223,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Into the Wild",
-        "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 254316,
-      "name": "Into the Wild",
-      "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1279,18 +1243,38 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
       },
       "artists": [
         {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Into the Wild",
+        "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 254316,
+      "name": "Into the Wild",
+      "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 236666,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
-      },
-      "artists": [
-        {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Ain't No Sin",
         "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 172000,
       "name": "Ain't No Sin",
       "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1395,22 +1411,6 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Keepers of the Flame",
-        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
-      },
-      "artists": [
-        {
-          "name": "Lorraine Jordan & Carolina Road",
-          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
-        }
-      ],
-      "duration_ms": 175835,
-      "name": "Keepers of the Flame",
-      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 172533,
       "name": "Dovetail Cabin",
       "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
+      },
+      "artists": [
+        {
+          "name": "Lorraine Jordan & Carolina Road",
+          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
+        }
+      ],
+      "duration_ms": 175835,
+      "name": "Keepers of the Flame",
+      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Lifetime To Go",
+        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 259534,
+      "name": "Lifetime to Go",
+      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Let It Fall",
         "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Lifetime To Go",
-        "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 259534,
-      "name": "Lifetime to Go",
-      "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
     },
     {
       "added_at": "2025-11-21 05:00:31",

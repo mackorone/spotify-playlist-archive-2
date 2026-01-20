@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,044 songs - 1 day 17 hr 12 min
+2,045 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1682,6 +1682,7 @@
 | [Starlight \- Cello Version](https://open.spotify.com/track/2Ehn3ffEFWFjMnZ0tRx1kW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Starlight \(Cello Version\)](https://open.spotify.com/album/3R23khyyllqyiq6Icw4zV4) | 1:01 | 2023-01-06 |  |
 | [Starlight \- Strings Version](https://open.spotify.com/track/4W8jgtKSmnrY06iN4u5udj) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Starlight \(Strings Version\)](https://open.spotify.com/album/7yADM221ORuVmTUXqj585l) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Starry Night](https://open.spotify.com/track/1mlwBOEGtzJzmaPWalhqSy) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:01 | 2022-05-25 |  |
+| [Stars](https://open.spotify.com/track/4llSKphzPXCGWBlLsX9Imt) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Stars](https://open.spotify.com/album/2GHBl3B43umSl0mshlPNwL) | 1:00 | 2026-01-19 |  |
 | [Stars \- Cello Version](https://open.spotify.com/track/6PyKETcMKPQyPOS9nTcemw) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dreaming Of Spring Revisited \(Cello Version\)](https://open.spotify.com/album/7fv92xtC8fBziyWGy6U92Z) | 1:00 | 2024-02-16 |  |
 | [Stars in My Dreams](https://open.spotify.com/track/4IUlrZ3gBk49DmrBohg5AW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 1:45 | 2022-01-12 | 2024-01-30 |
 | [Stars In Summer](https://open.spotify.com/track/78FKl2KVvdT5qSQuYchlov) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Stars In Summer](https://open.spotify.com/album/2EuSHQOKAcyr0tin65V3lg) | 1:00 | 2025-03-11 |  |

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-999 songs - 2 day 3 hr 55 min
+1,000 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Fire Meet Gasoline](https://open.spotify.com/track/2akkzRZ5HADuMZ03TlyxSR) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 | 2025-08-22 | 2025-09-27 |
 | [Fly](https://open.spotify.com/track/5lK9Z8Olm5QKXt29LWDG6M) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 3:37 | 2024-04-12 | 2024-06-22 |
 | [FOCUS](https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0) | [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [FOCUS](https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z) | 2:18 | 2025-12-19 |  |
-| [Follasse](https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH) | [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Follasse](https://open.spotify.com/album/3QFReuHQy2eXvOW78Ghr91) | 2:07 | 2025-11-07 |  |
+| [Follasse](https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH) | [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Follasse](https://open.spotify.com/album/3QFReuHQy2eXvOW78Ghr91) | 2:07 | 2025-11-07 | 2026-01-20 |
 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2025-01-03 | 2025-03-22 |
 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-10-04 | 2025-01-11 |
 | [Formidable](https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:33 | 2023-12-14 | 2024-01-29 |
@@ -360,6 +360,7 @@
 | [Girl I'm Gonna Miss You \- US Single Version](https://open.spotify.com/track/122vb6LtwACmfBIWpwmN1w) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [The Best of Milli Vanilli \(35th Anniversary\)](https://open.spotify.com/album/0OMqAiDoE5TnIOWW4ktkE1) | 4:24 | 2024-10-04 | 2024-10-19 |
 | [GIRL LIKE ME](https://open.spotify.com/track/2vBET2pmrQqafaS6zIaYta) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Translation](https://open.spotify.com/album/2eORe6u9TPXYisYshyXVeH) | 3:40 | 2025-03-21 | 2025-05-23 |
 | [Glish Vs Glish](https://open.spotify.com/track/1GTEtRVqif7e8TXQLzwXXZ) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Glish Vs Glish](https://open.spotify.com/album/1Rqam2t3oQQ05z0wYorr0U) | 1:38 | 2023-09-15 | 2023-11-11 |
+| [GMK](https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [GMK](https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V) | 2:05 | 2026-01-19 |  |
 | [GOD BLESS \- Ah la vie qu'on mène](https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N) | [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q) | [GOD BLESS \(Ah la vie qu'on mène\)](https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17) | 2:44 | 2024-08-30 | 2024-12-11 |
 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 | 2023-12-14 | 2024-03-02 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-29 | 2024-01-13 |

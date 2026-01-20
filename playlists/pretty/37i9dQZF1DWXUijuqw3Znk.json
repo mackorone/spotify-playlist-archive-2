@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 244,
+  "num_followers": 246,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
-      },
-      "artists": [
-        {
-          "name": "Mckdaddy",
-          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
-        }
-      ],
-      "duration_ms": 176130,
-      "name": "Nobody is perfect (Prod. Song Yoodam)",
-      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 270500,
       "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
+      },
+      "artists": [
+        {
+          "name": "Mckdaddy",
+          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
+        }
+      ],
+      "duration_ms": 176130,
+      "name": "Nobody is perfect (Prod. Song Yoodam)",
+      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
+      },
+      "artists": [
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "MultrillVerse",
         "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 167571,
       "name": "Retirement (feat. The Quiett)",
       "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
-      },
-      "artists": [
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1571,22 +1571,6 @@
       "duration_ms": 177220,
       "name": "Ride it like",
       "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 205857,
-      "name": "OWL",
-      "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1627,6 +1611,22 @@
       "duration_ms": 250195,
       "name": "Story On Sale (Feat. DAMYE)",
       "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 205857,
+      "name": "OWL",
+      "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "FAKE RAPPERS KILLER",
+        "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "WINNING MIND (Feat. Chin, LIL GIMCHI)",
+      "url": "https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1747,26 +1771,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "FAKE RAPPERS KILLER",
-        "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
       },
       "artists": [
         {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
         }
       ],
-      "duration_ms": 203549,
-      "name": "WINNING MIND (Feat. Chin, LIL GIMCHI)",
-      "url": "https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie"
+      "duration_ms": 224613,
+      "name": "DEAR MOM",
+      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "END OF PUBERTY",
-        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "DEAR MOM",
-      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MANTA BIPOLAR, Pt. 2",
         "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
@@ -1855,18 +1855,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+        "name": "First Rollie",
+        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
       },
       "artists": [
         {
           "name": "Dok2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
+      "duration_ms": 199786,
+      "name": "First Rollie (feat. Seori)",
+      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1963,18 +1967,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Polodared",
-        "url": "https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR"
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
       },
       "artists": [
         {
-          "name": "Polodared",
-          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+          "name": "Pinodyne",
+          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
+        },
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
         }
       ],
-      "duration_ms": 136689,
-      "name": "Foul",
-      "url": "https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X"
+      "duration_ms": 227941,
+      "name": "Universe (feat. Lee Juck)",
+      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1995,22 +2003,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
+        "name": "Polodared",
+        "url": "https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR"
       },
       "artists": [
         {
-          "name": "Pinodyne",
-          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
-        },
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
         }
       ],
-      "duration_ms": 227941,
-      "name": "Universe (feat. Lee Juck)",
-      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
+      "duration_ms": 136689,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X"
     },
     {
       "added_at": "2025-11-10 09:53:18",

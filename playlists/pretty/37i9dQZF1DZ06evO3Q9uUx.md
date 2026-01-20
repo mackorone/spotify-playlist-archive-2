@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,880 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,885 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 2 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 |
 | 3 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
 | 4 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
-| 5 | [ICEY..](https://open.spotify.com/track/6CI1NtFfoijWJZBkVoUrwN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:52 |
-| 6 | [BEST ON EARTH \(feat\. BIA\) \- Bonus](https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:40 |
+| 5 | [BEST ON EARTH \(feat\. BIA\) \- Bonus](https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:40 |
+| 6 | [ICEY..](https://open.spotify.com/track/6CI1NtFfoijWJZBkVoUrwN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:52 |
 | 7 | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 3:23 |
 | 8 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/4CvTytBa0rfmQKii8JHCXa) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEZYWORLD 2](https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV) | 2:08 |
 | 9 | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/track/4M0jSlN1MOaVRbA3Shr0FV) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [GUAVA](https://open.spotify.com/track/45IRDfRHvD08QTUhgUFsHz) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:48 |
 | 50 | [GBAD \(feat\. MILLI & YOUHA\) \[Remix\]](https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [GBAD \(feat\. MILLI & YOUHA\) \[Remix\]](https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC) | 3:51 |
 
-Snapshot ID: `aWrRAAAAAAA+hWSF42qwSJbF6wl/Mn4T`
+Snapshot ID: `aWwigAAAAABDjuprFjbIEyPsLgzZ1Iq5`

@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 190961,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
@@ -14904,7 +14904,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -20074,7 +20074,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 210386,
       "name": "El Mejor - Remix",
       "url": "https://open.spotify.com/track/1xRRW5ZrL7I9EG8CGZrXHE"
@@ -26466,7 +26466,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 113513,
       "name": "GOZALO",
       "url": "https://open.spotify.com/track/7hl1REazG2eMQwYLEsMhhz"
@@ -29668,7 +29668,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
@@ -42955,6 +42955,28 @@
     },
     {
       "album": {
+        "name": "MUSA",
+        "url": "https://open.spotify.com/album/6SC8IjAaG1Pg9QAh6Oar59"
+      },
+      "artists": [
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "SVNTI",
+          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134814,
+      "name": "MUSA",
+      "url": "https://open.spotify.com/track/0QuHK1VvIZ1Kt2GfqRrdVo"
+    },
+    {
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -53436,7 +53458,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 147719,
       "name": "Quiero paz nada m\u00e1s",
       "url": "https://open.spotify.com/track/5ioSXhqg7ViPekWDnQuga7"
@@ -56202,6 +56224,24 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
     },
     {
       "album": {

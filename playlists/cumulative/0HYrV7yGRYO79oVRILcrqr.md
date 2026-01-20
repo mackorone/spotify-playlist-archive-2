@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-277 songs - 17 hr 2 min
+282 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 | 2025-12-02 | 2025-12-17 |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2025-11-14 | 2025-12-17 |
 | [Hilang](https://open.spotify.com/track/566IzROY1CbEswbjNpuuoD) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:26 | 2025-10-30 | 2025-12-17 |
+| [I Been Gone](https://open.spotify.com/track/4FJ4AHtBaQngZ45BqdYI56) | [TJ Rosenthal](https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s) | [I Been Gone](https://open.spotify.com/album/0LJuoEfEWvakYgZ6OAOWwi) | 3:11 | 2026-01-19 |  |
 | [I byens katakomber](https://open.spotify.com/track/5OiFsAf4d72GxHwDiu4Z01) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Noen er der ute](https://open.spotify.com/album/3JmUt3Cg7D6zyYgWSdLSK5) | 4:58 | 2026-01-02 |  |
 | [I Can't Find a Way](https://open.spotify.com/track/47XI0FoVyWu5SQsTaKBjSF) | [Raised by Clowns](https://open.spotify.com/artist/4VT6GVYiJ0EiXL3QY8vReC) | [I Can't Find a Way](https://open.spotify.com/album/0TUynZPzeAZq2s2nnpDQ7y) | 3:38 | 2025-10-14 | 2025-11-28 |
 | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/track/333h9FN6V5Gjsy0uWWTP9r) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/album/0lVlutlRZzSF8c1dQBK017) | 3:22 | 2025-09-30 | 2025-12-17 |
@@ -137,6 +138,7 @@
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
+| [La Viuda Negra](https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [AQUILES LAGP](https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:40 | 2026-01-19 |  |
 | [Lady Mazikeen](https://open.spotify.com/track/7bmkoBCsL2IE4cr1PL8ill) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Lady Mazikeen](https://open.spotify.com/album/502ix0vLyJcnVHoBRr1jkc) | 3:40 | 2026-01-03 |  |
 | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 | 2026-01-03 |  |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
@@ -166,6 +168,7 @@
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 | 2025-12-17 |
 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
+| [My Soul's on Fire](https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [My Soul's on Fire](https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae) | 2:32 | 2026-01-19 |  |
 | [Nada Es Tan Importante](https://open.spotify.com/track/15CNEcr8bCzloi2OMfrkAa) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 4:36 | 2025-10-26 |  |
 | [National Tragedy](https://open.spotify.com/track/18oKkrtqJwTlRBmm982sNR) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [National Tragedy](https://open.spotify.com/album/0hsLjeJXsYPUxv4JsRmuNV) | 4:00 | 2025-11-30 |  |
 | [Nelson's Massive Lions](https://open.spotify.com/track/3aFRnt8iSEhkH5tv7eVamp) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Bonus Extra Et Cetera](https://open.spotify.com/album/1e7udVqoW8SvqajknsrJ03) | 2:50 | 2025-10-18 | 2025-11-28 |
@@ -203,7 +206,9 @@
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 |  |
 | [REWRITE](https://open.spotify.com/track/3WgVwBwxuuto5tvvZzDQrX) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [REWRITE](https://open.spotify.com/album/2dvdOLo8CMFtu7bbiAJemI) | 5:44 | 2025-12-16 |  |
+| [Ride](https://open.spotify.com/track/5x4ka2kVGFhnWEfTLM2RFL) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Ride](https://open.spotify.com/album/7jrWuQolOpkVOKikDFc6oS) | 4:03 | 2026-01-19 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |
+| [Rise Above](https://open.spotify.com/track/309LwauvrDOeNJRMuE0Imu) | [Gut\-Scrapers](https://open.spotify.com/artist/1aelV1MURttvVkO7W4SSDa) | [Twelve Rays](https://open.spotify.com/album/7FSxxUop7f29sNP8qfCSzg) | 4:21 | 2026-01-19 |  |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 |  |

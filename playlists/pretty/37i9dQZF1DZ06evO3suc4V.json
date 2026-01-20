@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10121,
+  "num_followers": 10125,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADLBns+LULEoMxULjvCWxXQ",
+  "snapshot_id": "aWwigAAAAAAwq6GRP8G73Orn8AL/Y5iQ",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "noise ( meaning )",
-        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
-      },
-      "artists": [
-        {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 127297,
-      "name": "awake",
-      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "noise ( meaning )",
+        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
+      },
+      "artists": [
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 127297,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
       "duration_ms": 249826,
       "name": "Venezuela Trains",
       "url": "https://open.spotify.com/track/7K6iiGbqmOhWFqjj0bvTKL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-        "url": "https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Rewind (from Insecure: Music From The HBO Original Series, Season 4)",
-      "url": "https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY"
     },
     {
       "added_at": null,

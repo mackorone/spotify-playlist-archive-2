@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296722,
+  "num_followers": 296692,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -167,42 +167,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "Cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
-        "name": "Algo Me Dice",
-        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 257008,
-      "name": "Algo Me Dice",
-      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -227,6 +191,42 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Algo Me Dice",
+        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 257008,
+      "name": "Algo Me Dice",
+      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "WIPLASH",
-        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "\u00bfQui\u00e9n Te Hizo Tanto Da\u00f1o?",
-      "url": "https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 176160,
       "name": "MALAVIDA (feat. Evlay)",
       "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "WIPLASH",
+        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "\u00bfQui\u00e9n Te Hizo Tanto Da\u00f1o?",
+      "url": "https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
+        "name": "Vidas Felices",
+        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Vidas Felices",
+      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
         "name": "Un Minuto Con Vos",
         "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
@@ -799,38 +815,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Escombros",
-        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Todo Se Detiene Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
-        "name": "Vidas Felices",
-        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Vidas Felices",
-      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Qu\u00e9date Con \u00c9l",
-      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Por Si Ma\u00f1ana No Estoy",
         "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
       },
@@ -899,22 +883,18 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Brujer\u00eda",
-        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 173747,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
+      "duration_ms": 163720,
+      "name": "Qu\u00e9date Con \u00c9l",
+      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -935,6 +915,26 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Brujer\u00eda",
+        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 173747,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
+        "name": "Adictos",
+        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Adictos",
+      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Adictos",
-        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Adictos",
-      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 214168,
       "name": "Mirando al techo",
       "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1135,22 +1151,6 @@
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
     },
     {
       "added_at": "2026-01-16 05:27:49",

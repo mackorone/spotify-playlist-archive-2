@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 50 min
+94 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Days Like This](https://open.spotify.com/track/7wfifk5pjAb4xVVUNVWJvL) | [Grayson Repp](https://open.spotify.com/artist/3lz53qg2Rd3GGOyE2cbwXV), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Days Like This](https://open.spotify.com/album/2pXhlF11yVLjt2Awu20Ub3) | 3:03 | 2025-07-13 | 2025-11-03 |
 | [Days Like This \- Matt Pridgyn Remix](https://open.spotify.com/track/0fF9t7wGVnISUf7giY7Zdo) | [Grayson Repp](https://open.spotify.com/artist/3lz53qg2Rd3GGOyE2cbwXV), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Days Like This \(Matt Pridgyn Remix\)](https://open.spotify.com/album/2CTlUvUTYLtJnfY1uwxkVr) | 3:35 | 2025-11-03 |  |
 | [Deeper \- DJ Q Remix](https://open.spotify.com/track/2iP1vQb6yRgNNnQzXRwwuw) | [Tyla](https://open.spotify.com/artist/6fImdHSEwZ8JuD1VFGEc28), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Pure Bassline \- Mixed by DJ Q & Jamie Duggan](https://open.spotify.com/album/6HqhEXFbvzjH8m8DUtwTXp) | 4:13 | 2024-05-14 | 2025-12-30 |
-| [Do It Well \(Mix Cut\)](https://open.spotify.com/track/1WhZANn0700IqW0hRbs46r) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Mike Vale](https://open.spotify.com/artist/7lBH4OmyQmpmrbp0Tl95pk), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [We Love House \(Mini Mix 001\) \- Armada Music](https://open.spotify.com/album/0aIvFh7SFff0TbP5JpbF6U) | 1:17 | 2024-05-14 |  |
+| [Do It Well](https://open.spotify.com/track/175poGBwYwPIskib3tE2vx) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Mike Vale](https://open.spotify.com/artist/7lBH4OmyQmpmrbp0Tl95pk), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Do It Well](https://open.spotify.com/album/1tkxGYohcjOWCuEhb2bu93) | 2:56 | 2026-01-20 |  |
+| [Do It Well \(Mix Cut\)](https://open.spotify.com/track/1WhZANn0700IqW0hRbs46r) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Mike Vale](https://open.spotify.com/artist/7lBH4OmyQmpmrbp0Tl95pk), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [We Love House \(Mini Mix 001\) \- Armada Music](https://open.spotify.com/album/0aIvFh7SFff0TbP5JpbF6U) | 1:17 | 2024-05-14 | 2026-01-20 |
 | [Do You Wanna Be Loved Like This?](https://open.spotify.com/track/4KZl63jx8jkPNqfKcqkk5L) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Do You Wanna Be Loved Like This?](https://open.spotify.com/album/1zqTFiY23qkgPkDJDhw1on) | 2:42 | 2024-08-24 | 2025-07-29 |
 | [Do You Wanna Be Loved Like This?](https://open.spotify.com/track/4hgldGd2RGsSRV6w2ixAy3) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 2:42 | 2025-09-26 | 2025-10-31 |
 | [Do You Wanna Be Loved Like This? \- Initial Talk Remix](https://open.spotify.com/track/6uSMp0R1RAOnXLgV9HvU7B) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Do You Wanna Be Loved Like This? \(Initial Talk Remix\)](https://open.spotify.com/album/22Na21M5B3yx0BNsJFFJgM) | 3:20 | 2024-05-14 | 2024-08-24 |

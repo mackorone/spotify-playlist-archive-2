@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『NCT WISH 1st CONCERT TOUR INTO THE WISH : Our WISH in JAPAN』のセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,452 likes - 28 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,670 likes - 28 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [On Tour Japan: NCT WISH](https://open.spotify.com/track/1WOs34WXDmIHeFKZE85Ud7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [On Tour Japan: NCT WISH](https://open.spotify.com/album/6WUmUEEaMvdcRf8ua8pH5o) | 0:00 |
+| 1 | [On Tour Japan NCT WISH](https://open.spotify.com/track/2FFHcdF7FjtlnBGBZRFwfC) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [On Tour Japan NCT WISH](https://open.spotify.com/album/6k6OvHg22hdQBabE0uPQR3) | 0:32 |
 | 2 | [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 |
 | 3 | [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 |
 | 4 | [Skate](https://open.spotify.com/track/3QSejT9vB9LWJQ64rbur3E) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 3:19 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 27 | [P.O.V](https://open.spotify.com/track/735o24zZtDtVXfETHmcii5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:01 |
 | 28 | [Our Adventures](https://open.spotify.com/track/5Y93XMH6dJ4Yy8ImAdMewa) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 2:52 |
 
-Snapshot ID: `AAAAAEiYgkTVL/ccTc3ZzPf+0kn9LvZN`
+Snapshot ID: `AAAAAGmyzHWcKOVLaRdvwhrfhGhPvyFr`

@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13219,
+  "num_followers": 13220,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAAlAvbYj0JqRKANzAlRDVMI",
+  "snapshot_id": "aWwigAAAAAAJp2hamhTJ7L51q5bAJ9ev",
   "tracks": [
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "YOU HEAR ME THO",
+        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
       },
       "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 149807,
-      "name": "Make It Even",
-      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
+      "duration_ms": 141818,
+      "name": "YOU HEAR ME THO",
+      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
     },
     {
       "added_at": null,
@@ -523,6 +527,22 @@
       "duration_ms": 155413,
       "name": "Young Shiners",
       "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 149807,
+      "name": "Make It Even",
+      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
     },
     {
       "added_at": null,
@@ -571,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "I Still Dont Feel Nun",
+      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -587,22 +623,6 @@
       "duration_ms": 132501,
       "name": "All I Know (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "I Still Dont Feel Nun",
-      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
     },
     {
       "added_at": null,
@@ -647,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "30 Boppa",
+      "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
@@ -663,22 +699,6 @@
       "duration_ms": 160033,
       "name": "Burglars & Murderers (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "30 Boppa",
-      "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
     },
     {
       "added_at": null,
@@ -719,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU HEAR ME THO",
-        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "YOU HEAR ME THO",
-      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Get Down V2 ext aug8",
-      "url": "https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 165878,
       "name": "Break Check",
       "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Get Down V2 ext aug8",
+      "url": "https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 139903,
-      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti)",
-      "url": "https://open.spotify.com/track/1FD9lN6jrnQ5Rp8yuft8fU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -875,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
       },
       "artists": [
         {
@@ -884,13 +864,13 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Flash (feat. Bloodhound Q50)",
-      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
+      "duration_ms": 139903,
+      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti)",
+      "url": "https://open.spotify.com/track/1FD9lN6jrnQ5Rp8yuft8fU"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Flash (feat. Bloodhound Q50)",
+      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 164495,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Plug Motivation",
+      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
     },
     {
       "added_at": null,
@@ -951,22 +967,6 @@
       "duration_ms": 204791,
       "name": "Scarface (feat. EST Gee)",
       "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Plug Motivation",
-      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
     }
   ],
   "unique_name": "This Is EST Gee",

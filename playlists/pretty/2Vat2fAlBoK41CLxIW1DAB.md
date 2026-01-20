@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 846 songs - 2 day 5 hr 10 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 846 songs - 2 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,7 +284,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 274 | [Save a Prayer \(Cover\)](https://open.spotify.com/track/2CVN6xuvfqWv49YjiCOwJD) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:59 |
 | 275 | [Squabbles](https://open.spotify.com/track/1CvBST7guxLi0Y5jmxzfQs) | [JD](https://open.spotify.com/artist/5Lg7RoJ44wClpSQRlekSOB) | [Squabbles](https://open.spotify.com/album/1sq4QouZGEz9u1q0AZDT5s) | 4:58 |
 | 276 | [Lola](https://open.spotify.com/track/78Gfg717SWZJfydnpAuS9b) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Lola](https://open.spotify.com/album/6VVFZOVldldwYJrNeUKOiH) | 4:22 |
-| 277 | [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 |
+| 277 | [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/6XVWCCuEAczUys2GEksw6C), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 |
 | 278 | [Shit Out of Luck](https://open.spotify.com/track/2AOpqgxo9hmvQi4oGXDPJq) | [Avenue Army](https://open.spotify.com/artist/4ihI2lJ3wolcFhlVmWAKWv) | [Shit Out of Luck](https://open.spotify.com/album/2KZSVIzUcGLB7pZH0eHY0V) | 3:08 |
 | 279 | [Honor](https://open.spotify.com/track/1G8IHis0cjJsD0wiEwUjoZ) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V), [Illusion Maker](https://open.spotify.com/artist/6vFSS4a1U6Xd5PppowfNcv) | [Honor](https://open.spotify.com/album/7xukSKpt8eABewk1cK3wzu) | 3:17 |
 | 280 | [Water, Whiskey & Blood](https://open.spotify.com/track/3Ltv7PJ9QKOJvY5FI8ukwS) | [Jason Crowe](https://open.spotify.com/artist/0sLGB6Q7Zlr75d7lwVkDH3) | [Water, Whiskey & Blood](https://open.spotify.com/album/470YgndgnC6im6gsrbL8c8) | 3:40 |

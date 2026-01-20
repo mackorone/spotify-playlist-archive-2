@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,433 likes - 340 songs - 21 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,436 likes - 340 songs - 21 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 59 | [My Heart Is Open](https://open.spotify.com/track/5AnZXEB5IVhU57cJdOtJeX) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:56 |
 | 60 | [Titans \(feat\. Sia & Labrinth\)](https://open.spotify.com/track/2nYPVp7BJuoaJ4rQmg5FM5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ) | 3:19 |
 | 61 | [The City's Yours](https://open.spotify.com/track/3aLbDGVIbZHUDjQXjfrvBP) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:12 |
-| 62 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 |
-| 63 | [Destiny \- Extended Mix](https://open.spotify.com/track/4ECvY5smtvyK1HkipYICAI) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/291IqGpnrkekWf8hn0xB3x) | 5:37 |
+| 62 | [Destiny \- Extended Mix](https://open.spotify.com/track/4ECvY5smtvyK1HkipYICAI) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/291IqGpnrkekWf8hn0xB3x) | 5:37 |
+| 63 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 |
 | 64 | [Golden \(feat\. Sia\)](https://open.spotify.com/track/0HZWWaKieQ9ZETkTEUVTH2) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Golden \(feat\. Sia\)](https://open.spotify.com/album/2KorcISo9JBqG6Siszd2AO) | 3:35 |
 | 65 | [Underneath the Mistletoe](https://open.spotify.com/track/6HFKeEGEJGI0rIyg2r0iLo) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:50 |
 | 66 | [Devil In Me](https://open.spotify.com/track/5PJujqvYgwsNn31pVTtebG) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 4:09 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 150 | [Bring Night](https://open.spotify.com/track/1gni0TfcnJB5Wn3VZnTuet) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:57 |
 | 151 | [Waving Goodbye](https://open.spotify.com/track/06hqgWTJ7pFeCMxCe0gAIA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Neon Demon \(Original Soundtrack Album\)](https://open.spotify.com/album/5LbUg7mPxUtjZO9zopDxrc) | 3:57 |
 | 152 | [Buttons](https://open.spotify.com/track/37dnmQMEQ8ceZr9tKzaY3K) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:14 |
-| 153 | [Free Me](https://open.spotify.com/track/07tsxA3VTCCs35M17sBs88) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Free Me](https://open.spotify.com/album/4FFE30tFDFOFeSCHeR49C0) | 4:46 |
-| 154 | [Light Headed](https://open.spotify.com/track/1od4qobuLFJFBijdUcEsvt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 2:58 |
+| 153 | [Light Headed](https://open.spotify.com/track/1od4qobuLFJFBijdUcEsvt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 2:58 |
+| 154 | [Free Me](https://open.spotify.com/track/07tsxA3VTCCs35M17sBs88) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Free Me](https://open.spotify.com/album/4FFE30tFDFOFeSCHeR49C0) | 4:46 |
 | 155 | [Jesus Wept](https://open.spotify.com/track/5DET60fn3RK36r6qc934tb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 5:29 |
 | 156 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 |
 | 157 | [Little Man \- Exemen Works](https://open.spotify.com/track/0PxXQz4Im41YdDi0J3kPCv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Exemen](https://open.spotify.com/artist/3pCHYkU91rpHix5L78plcF) | [Healing is Difficult \(10th Anniversary Edition\) \(Deluxe\)](https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG) | 5:03 |
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 339 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 340 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcHTqgAAAAACImkJIu8T532PN4zkAVgK`
+Snapshot ID: `AcHZSgAAAACvKENlNJnnFvLxVxCYbfeC`

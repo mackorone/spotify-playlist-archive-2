@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Check out our Substack here!!!!!!!</a> Cover: Arlo Parks
 
-3,671 songs - 8 day 8 hr 52 min
+3,672 songs - 8 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 | 2020-01-17 | 2020-02-20 |
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-04 | 2021-04-02 |
 | [Don't Be Afraid](https://open.spotify.com/track/0jkaODlyaMJHj0wu4nUL7f) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Don't Be Afraid](https://open.spotify.com/album/2JW7OQd2ZQThQs9Or6eGlS) | 3:33 | 2020-05-14 | 2021-03-06 |
+| [DON'T BE DUMB / TRIP BABY](https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 4:45 | 2026-01-19 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 | 2024-02-10 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-08-16 | 2025-01-18 |

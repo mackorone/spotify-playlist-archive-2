@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAAD9o14I1vptXyEMfozJSCuKXURf4W2",
+  "snapshot_id": "AAAD93KbEOZV8GCFcEHOuGzXkp8XCh7m",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -14799,6 +14799,26 @@
       "duration_ms": 255533,
       "name": "Marleen",
       "url": "https://open.spotify.com/track/0cLi9XkIH31vuceYaLV20E"
+    },
+    {
+      "added_at": "2026-01-19 13:46:00",
+      "album": {
+        "name": "Mr. Wollogallu",
+        "url": "https://open.spotify.com/album/1qPQqjttjO9TbixGDQKNHK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Maria Trindade",
+          "url": "https://open.spotify.com/artist/2VPM4BnWrRFThgDLuwZR3Q"
+        },
+        {
+          "name": "Nuno Canavarro",
+          "url": "https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b"
+        }
+      ],
+      "duration_ms": 425160,
+      "name": "Blu Terra",
+      "url": "https://open.spotify.com/track/1QoKnVHsM4tIqE648q8RB1"
     }
   ],
   "unique_name": "Worldly",

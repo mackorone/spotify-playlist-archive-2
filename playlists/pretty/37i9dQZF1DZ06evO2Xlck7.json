@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADC3fR8B636eDw+C3VZZ7mu",
+  "snapshot_id": "aWwigAAAAADS96iaWyqyLJXSCqn18l0D",
   "tracks": [
     {
       "added_at": null,
@@ -188,7 +188,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/1FS3D8JxrnCSkn20AvvleK"
     },
     {
       "added_at": null,
@@ -252,7 +252,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 191213,
-      "name": "Murder Me",
-      "url": "https://open.spotify.com/track/1FS3D8JxrnCSkn20AvvleK"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
     },
     {
       "added_at": null,

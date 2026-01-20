@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28190,
+  "num_followers": 28192,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
-      },
-      "artists": [
-        {
-          "name": "Vipisita",
-          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
-        }
-      ],
-      "duration_ms": 160696,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Recuerdos de Ypacara\u00ed",
-        "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
       },
       "artists": [
         {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        },
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+          "name": "Vipisita",
+          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
         }
       ],
-      "duration_ms": 267523,
-      "name": "Recuerdos de Ypacara\u00ed",
-      "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
+      "duration_ms": 160696,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -807,6 +787,26 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Recuerdos de Ypacara\u00ed",
+        "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
+      },
+      "artists": [
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        },
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 267523,
+      "name": "Recuerdos de Ypacara\u00ed",
+      "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Otras Bocas, Otras Lenguas",
-        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
-      },
-      "artists": [
-        {
-          "name": "Alejo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "Otras Bocas, Otras Lenguas",
-      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
         "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 367388,
       "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
       "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Otras Bocas, Otras Lenguas",
+        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
+      },
+      "artists": [
+        {
+          "name": "Alejo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Otras Bocas, Otras Lenguas",
+      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1151,26 +1151,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "MALAMADOS",
-        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
+        "name": "Puntos Cardinales",
+        "url": "https://open.spotify.com/album/22l1ECW02p1pcXyBCFOh6f"
       },
       "artists": [
         {
-          "name": "MALAMADOS",
-          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
+          "name": "Laura Canoura",
+          "url": "https://open.spotify.com/artist/0ATxyDnFvftkIT21OZu80N"
         },
         {
-          "name": "Joaquinx Merino",
-          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 141011,
-      "name": "MALAMADOS",
-      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
+      "duration_ms": 301664,
+      "name": "Puntos Cardinales",
+      "url": "https://open.spotify.com/track/5GKSuqq399v74JageW2C9L"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1195,82 +1191,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Puntos Cardinales",
-        "url": "https://open.spotify.com/album/22l1ECW02p1pcXyBCFOh6f"
+        "name": "MALAMADOS",
+        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
       },
       "artists": [
         {
-          "name": "Laura Canoura",
-          "url": "https://open.spotify.com/artist/0ATxyDnFvftkIT21OZu80N"
+          "name": "MALAMADOS",
+          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
         },
         {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 301664,
-      "name": "Puntos Cardinales",
-      "url": "https://open.spotify.com/track/5GKSuqq399v74JageW2C9L"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Pecho Jard\u00edn",
-        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
+          "name": "Joaquinx Merino",
+          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
         },
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
         }
       ],
-      "duration_ms": 282990,
-      "name": "Pecho Jard\u00edn",
-      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "BOLERo LIBRA",
-        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 172687,
-      "name": "BOLERo LIBRA",
-      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "no te lo tomes personal",
-        "url": "https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL"
-      },
-      "artists": [
-        {
-          "name": "cata teuber",
-          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
-        },
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 220435,
-      "name": "excusa barata",
-      "url": "https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf"
+      "duration_ms": 141011,
+      "name": "MALAMADOS",
+      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1295,22 +1235,62 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Que siga el baile",
-        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
+        "name": "Pecho Jard\u00edn",
+        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
       "artists": [
         {
-          "name": "Seba Ulivi",
-          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
+          "name": "Alejandro Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
         },
         {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 165059,
-      "name": "Que siga el baile",
-      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
+      "duration_ms": 282990,
+      "name": "Pecho Jard\u00edn",
+      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "no te lo tomes personal",
+        "url": "https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL"
+      },
+      "artists": [
+        {
+          "name": "cata teuber",
+          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
+        },
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 220435,
+      "name": "excusa barata",
+      "url": "https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "BOLERo LIBRA",
+        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "BOLERo LIBRA",
+      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1335,22 +1315,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
+        "name": "Que siga el baile",
+        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Seba Ulivi",
+          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
         },
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
         }
       ],
-      "duration_ms": 215931,
-      "name": "Dos Hemisferios",
-      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+      "duration_ms": 165059,
+      "name": "Que siga el baile",
+      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1371,6 +1351,42 @@
       "duration_ms": 252496,
       "name": "Desde Ac\u00e1",
       "url": "https://open.spotify.com/track/5bJvfOO8J3ay2XTXa5FUUP"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 215931,
+      "name": "Dos Hemisferios",
+      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1407,22 +1423,6 @@
       "duration_ms": 139944,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "S\u00e1banas Azules",
         "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
       },
@@ -1519,22 +1503,18 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/1Oc0lUo0QXktqa2fsrwmoq"
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
       },
       "artists": [
         {
-          "name": "Ine G\u00fcemes",
-          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
-        },
-        {
-          "name": "Juan Nazar",
-          "url": "https://open.spotify.com/artist/7EE6NuuhgRafPDPZFWDtLW"
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
         }
       ],
-      "duration_ms": 233102,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/7p0a6IhFoYWYzZVgfQgD0E"
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1559,18 +1539,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
-        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/1Oc0lUo0QXktqa2fsrwmoq"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        },
+        {
+          "name": "Juan Nazar",
+          "url": "https://open.spotify.com/artist/7EE6NuuhgRafPDPZFWDtLW"
         }
       ],
-      "duration_ms": 277351,
-      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
-      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
+      "duration_ms": 233102,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/7p0a6IhFoYWYzZVgfQgD0E"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1591,6 +1575,22 @@
       "duration_ms": 280106,
       "name": "REGALAMOS ROSAS EN LA LUNA",
       "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
+        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 277351,
+      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
+      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "La Mariposa",
+        "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 109962,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "AHORA QUE ME VOY",
         "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
       },
@@ -1671,22 +1691,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "La Mariposa",
-        "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
+        "name": "Color De Flor",
+        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+          "name": "Eduardo Castro",
+          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
         },
         {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
         }
       ],
-      "duration_ms": 109962,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
+      "duration_ms": 273219,
+      "name": "Color De Flor",
+      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1711,22 +1731,18 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Color De Flor",
-        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
       "artists": [
         {
-          "name": "Eduardo Castro",
-          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
-        },
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 273219,
-      "name": "Color De Flor",
-      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1755,38 +1771,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+        "name": "Cortina",
+        "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "21 DE ENERo",
-        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
         },
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 174954,
-      "name": "21 DE ENERo",
-      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
+      "duration_ms": 191118,
+      "name": "Cortina",
+      "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Cortina",
-        "url": "https://open.spotify.com/album/7kO0eI677tAy6q64d9cefP"
+        "name": "21 DE ENERo",
+        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
       },
       "artists": [
         {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         },
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 191118,
-      "name": "Cortina",
-      "url": "https://open.spotify.com/track/7uOIEmbLbDBYP041Ipi2qO"
+      "duration_ms": 174954,
+      "name": "21 DE ENERo",
+      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Inflexion (En Vivo)",
+        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Inflexion - En Vivo",
+      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Ba\u00f1era",
         "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
       },
@@ -1899,26 +1915,6 @@
       "duration_ms": 152381,
       "name": "Ba\u00f1era",
       "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Madre",
-        "url": "https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 187088,
-      "name": "Madre",
-      "url": "https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq"
     }
   ],
   "unique_name": "Voces del Sur",

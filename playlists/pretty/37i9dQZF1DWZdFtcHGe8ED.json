@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Metallica",
-  "num_followers": 581188,
+  "num_followers": 581252,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Speed Between the Lines",
-        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "666Teen",
-      "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Outer Isolation",
         "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 321880,
       "name": "Tetrastructural Minds",
       "url": "https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "666Teen",
+      "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Untouchable Glory",
-        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "Ninja Untouchables/Untouchable Glory",
-      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Vicious Cycle",
         "url": "https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 370000,
       "name": "Vicious Cycle",
       "url": "https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Empire of the Blind",
+        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+      },
+      "artists": [
+        {
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "Empire of the Blind",
+      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Empire of the Blind",
-        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
-      },
-      "artists": [
-        {
-          "name": "Heathen",
-          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
-        }
-      ],
-      "duration_ms": 351613,
-      "name": "Empire of the Blind",
-      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Moments Elsewhere",
         "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 174333,
       "name": "Collapse in the Key of Fireworks",
       "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Untouchable Glory",
+        "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "Ninja Untouchables/Untouchable Glory",
+      "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 242660,
-      "name": "Interface with the Infinite",
-      "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Banner of Supremacy",
         "url": "https://open.spotify.com/album/6LCmFoATePvuSjLi4q0xw3"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 236410,
       "name": "Banner of Supremacy",
       "url": "https://open.spotify.com/track/4uJ4ZdRzrVuRbf8rhWmzIN"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 242660,
+      "name": "Interface with the Infinite",
+      "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Blood in the Water",
-        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Reaggression",
-      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 341804,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Blood in the Water",
+        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Reaggression",
+      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "Extinction",
+        "url": "https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp"
+      },
+      "artists": [
+        {
+          "name": "Harlott",
+          "url": "https://open.spotify.com/artist/55P952flfiJs68ellyqFHU"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "First World Solutions",
+      "url": "https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "Shredator",
         "url": "https://open.spotify.com/album/02cQ6psSDX3wnqtlWo1EMZ"
       },
@@ -2395,18 +2411,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Extinction",
-        "url": "https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp"
+        "name": "Index Case",
+        "url": "https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH"
       },
       "artists": [
         {
-          "name": "Harlott",
-          "url": "https://open.spotify.com/artist/55P952flfiJs68ellyqFHU"
+          "name": "Wraith",
+          "url": "https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS"
         }
       ],
-      "duration_ms": 235066,
-      "name": "First World Solutions",
-      "url": "https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs"
+      "duration_ms": 115083,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2427,22 +2443,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM"
-      },
-      "artists": [
-        {
-          "name": "Rage",
-          "url": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
-        }
-      ],
-      "duration_ms": 190952,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Curtain Fire",
         "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
       },
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Index Case",
-        "url": "https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM"
       },
       "artists": [
         {
-          "name": "Wraith",
-          "url": "https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS"
+          "name": "Rage",
+          "url": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
         }
       ],
-      "duration_ms": 115083,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6"
+      "duration_ms": 190952,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Fear Campaign",
-        "url": "https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 237424,
-      "name": "Fear Campaign",
-      "url": "https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "The Great Circus Train Disaster",
         "url": "https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 223287,
       "name": "The Great Circus Train Disaster",
       "url": "https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Fear Campaign",
+        "url": "https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 237424,
+      "name": "Fear Campaign",
+      "url": "https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Let the World Burn",
-        "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 310181,
-      "name": "Let the World Burn",
-      "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Reapers Fool",
         "url": "https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 202019,
       "name": "Reapers Fool",
       "url": "https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Let the World Burn",
+        "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
+      },
+      "artists": [
+        {
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+        }
+      ],
+      "duration_ms": 310181,
+      "name": "Let the World Burn",
+      "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Reap What You Sow",
-        "url": "https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Pyh\u00e4 Vitutus",
         "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 201223,
       "name": "Pyh\u00e4 Vitutus",
       "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Reap What You Sow",
+        "url": "https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Bow Down To the Clowns",
-        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Bow Down To the Clowns",
-      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Mochado",
         "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 175333,
       "name": "Mochado",
       "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Bow Down To the Clowns",
+        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Bow Down To the Clowns",
+      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -2991,18 +2991,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Leave Nothing Behind",
-        "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
+        "name": "Taphephobia",
+        "url": "https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH"
       },
       "artists": [
         {
-          "name": "Dust Bolt",
-          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
         }
       ],
-      "duration_ms": 251239,
-      "name": "Leave Nothing Behind",
-      "url": "https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa"
+      "duration_ms": 222355,
+      "name": "Taphephobia",
+      "url": "https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -3023,18 +3023,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Taphephobia",
-        "url": "https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH"
+        "name": "Leave Nothing Behind",
+        "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Dust Bolt",
+          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
         }
       ],
-      "duration_ms": 222355,
-      "name": "Taphephobia",
-      "url": "https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX"
+      "duration_ms": 251239,
+      "name": "Leave Nothing Behind",
+      "url": "https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Genesis XIX",
-        "url": "https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 302266,
-      "name": "Glock 'n' Roll",
-      "url": "https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "In Thrash We Trust",
         "url": "https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU"
       },
@@ -3151,6 +3135,22 @@
       "duration_ms": 273186,
       "name": "Snob (feat. Jasta)",
       "url": "https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Genesis XIX",
+        "url": "https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 302266,
+      "name": "Glock 'n' Roll",
+      "url": "https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Ethereal Nightmare",
-        "url": "https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4"
-      },
-      "artists": [
-        {
-          "name": "Hatriot",
-          "url": "https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "Ethereal Nightmare",
-      "url": "https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Lockdown Forever",
         "url": "https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 246552,
       "name": "Lockdown Forever",
       "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Ethereal Nightmare",
+        "url": "https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4"
+      },
+      "artists": [
+        {
+          "name": "Hatriot",
+          "url": "https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh"
+        }
+      ],
+      "duration_ms": 365706,
+      "name": "Ethereal Nightmare",
+      "url": "https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ"
     }
   ],
   "unique_name": "Thrashers",

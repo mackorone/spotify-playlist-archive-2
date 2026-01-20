@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 110220,
+  "num_followers": 110270,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,30 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
+        "name": "HOW FAR / SHIMA II",
+        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        }
+      ],
+      "duration_ms": 163327,
+      "name": "HOW FAR",
+      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
+    },
+    {
+      "added_at": "2026-01-14 12:37:51",
+      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
@@ -503,6 +527,22 @@
       "duration_ms": 165642,
       "name": "you",
       "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-01-14 12:37:51",
+      "album": {
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -535,22 +575,6 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
-    },
-    {
-      "added_at": "2026-01-14 12:37:51",
-      "album": {
         "name": "CELINE DION",
         "url": "https://open.spotify.com/album/1hj1CYfh0mOLzUxkxwl7n8"
       },
@@ -563,30 +587,6 @@
       "duration_ms": 169500,
       "name": "CELINE DION",
       "url": "https://open.spotify.com/track/0D1vNTcDR3SuZtPFUoTGej"
-    },
-    {
-      "added_at": "2026-01-14 12:37:51",
-      "album": {
-        "name": "HOW FAR / SHIMA II",
-        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "Monochrome",
-          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "HOW FAR",
-      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -659,18 +659,22 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "AYOMIPO",
+          "url": "https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
+      "duration_ms": 207378,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -695,22 +699,18 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq"
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "AYOMIPO",
-          "url": "https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 207378,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD"
+      "duration_ms": 161538,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
+        "name": "Love Egbugomo",
+        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
+      },
+      "artists": [
+        {
+          "name": "SYEMCA",
+          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Love Egbugomo",
+      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
+    },
+    {
+      "added_at": "2026-01-14 12:37:51",
+      "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
-    },
-    {
-      "added_at": "2026-01-14 12:37:51",
-      "album": {
-        "name": "Love Egbugomo",
-        "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
-      },
-      "artists": [
-        {
-          "name": "SYEMCA",
-          "url": "https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "Love Egbugomo",
-      "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-01-14 12:37:51",
+      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
         }
       ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+      "duration_ms": 154200,
+      "name": "GOLIATH",
+      "url": "https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -1407,22 +1423,6 @@
       "duration_ms": 161454,
       "name": "Gaddem",
       "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2026-01-14 12:37:51",
-      "album": {
-        "name": "GOLIATH",
-        "url": "https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "GOLIATH",
-      "url": "https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV"
     },
     {
       "added_at": "2026-01-14 12:37:51",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-01-14 12:37:51",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2026-01-14 12:37:51",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2026-01-14 12:37:51",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-01-14 12:37:51",

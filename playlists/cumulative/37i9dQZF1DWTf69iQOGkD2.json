@@ -5998,7 +5998,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 146379,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/1PzgZt2gNjRXh2ea5KCPuD"
@@ -6660,6 +6660,28 @@
       "duration_ms": 191600,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/0JbnM6rnFObzTrwKl7BPMb"
+    },
+    {
+      "album": {
+        "name": "Tenta Vir (\u00c2ngulos, Vol.2)",
+        "url": "https://open.spotify.com/album/6C4XxYL08n7ACewQKLyDDd"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Tenta Vir (\u00c2ngulos, Vol.2)",
+      "url": "https://open.spotify.com/track/0bUwYMSbxx6wmtF0s2ZqUS"
     },
     {
       "album": {

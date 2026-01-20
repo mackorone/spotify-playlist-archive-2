@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,386 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,430 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 8 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
 | 9 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 |
 | 10 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 |
-| 11 | [Nước Mắt Cá Sấu](https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nước Mắt Cá Sấu](https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i) | 3:26 |
-| 12 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
-| 13 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
-| 14 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
+| 11 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
+| 12 | [Nước Mắt Cá Sấu](https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nước Mắt Cá Sấu](https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i) | 3:26 |
+| 13 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
+| 14 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
 | 15 | [Công Ty 4](https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Công Ty 4](https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO) | 4:14 |
 | 16 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 17 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |

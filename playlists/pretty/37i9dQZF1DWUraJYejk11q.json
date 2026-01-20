@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 467632,
+  "num_followers": 467639,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
     },
     {
-      "added_at": "2024-06-27 18:24:15",
-      "album": {
-        "name": "Dostrotime",
-        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 379006,
-      "name": "Wendorlan - Original Mix",
-      "url": "https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF"
-    },
-    {
       "added_at": "2024-01-28 13:35:19",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -335,6 +319,70 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "added_at": "2024-06-27 18:24:15",
+      "album": {
+        "name": "Dostrotime",
+        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 379006,
+      "name": "Wendorlan - Original Mix",
+      "url": "https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF"
+    },
+    {
+      "added_at": "2023-04-12 14:46:36",
+      "album": {
+        "name": "As Fallen Leaves",
+        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+      },
+      "artists": [
+        {
+          "name": "Serge Geyzel",
+          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+        }
+      ],
+      "duration_ms": 299558,
+      "name": "Don't Know What You Are Thinking",
+      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
+    },
+    {
+      "added_at": "2022-02-16 00:41:13",
+      "album": {
+        "name": "drames rurals",
+        "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
+      },
+      "artists": [
+        {
+          "name": "drames rurals",
+          "url": "https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG"
+        },
+        {
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        },
+        {
+          "name": "juns",
+          "url": "https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF"
+        },
+        {
+          "name": "oma totem",
+          "url": "https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb"
+        },
+        {
+          "name": "Meritxell Bonastre",
+          "url": "https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "l'empelt",
+      "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
       "added_at": "2022-12-07 00:43:07",
@@ -373,54 +421,6 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
-      "added_at": "2022-02-16 00:41:13",
-      "album": {
-        "name": "drames rurals",
-        "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
-      },
-      "artists": [
-        {
-          "name": "drames rurals",
-          "url": "https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG"
-        },
-        {
-          "name": "John Talabot",
-          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
-        },
-        {
-          "name": "juns",
-          "url": "https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF"
-        },
-        {
-          "name": "oma totem",
-          "url": "https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb"
-        },
-        {
-          "name": "Meritxell Bonastre",
-          "url": "https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "l'empelt",
-      "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2023-04-12 14:46:36",
-      "album": {
-        "name": "As Fallen Leaves",
-        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
-      },
-      "artists": [
-        {
-          "name": "Serge Geyzel",
-          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
-        }
-      ],
-      "duration_ms": 299558,
-      "name": "Don't Know What You Are Thinking",
-      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
-    },
-    {
       "added_at": "2022-03-18 05:02:00",
       "album": {
         "name": "Trusted EP",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
       "added_at": "2022-03-30 05:10:26",
       "album": {
         "name": "tracing Rays [reality glo]",
@@ -485,20 +469,20 @@
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
-      "added_at": "2023-01-04 00:21:35",
+      "added_at": "2022-02-25 03:39:39",
       "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
       },
       "artists": [
         {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         }
       ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2023-11-15 16:34:12",
@@ -533,20 +517,20 @@
       "url": "https://open.spotify.com/track/6gI3gXSgxvzObOjRn0urjM"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
+      "added_at": "2023-01-04 00:21:35",
       "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
       },
       "artists": [
         {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
     },
     {
       "added_at": "2022-01-19 22:44:25",
@@ -563,6 +547,22 @@
       "duration_ms": 361386,
       "name": "Fwd: Re: late (Ref.: karoshi)",
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
-      "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
       "added_at": "2022-08-03 03:56:04",
       "album": {
         "name": "Planta Dance",
@@ -621,20 +605,20 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
+      "added_at": "2022-03-30 05:37:06",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
       "added_at": "2022-04-12 02:09:40",
@@ -651,6 +635,38 @@
       "duration_ms": 275574,
       "name": "Minena",
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
+    },
+    {
+      "added_at": "2023-11-08 01:35:05",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Zan",
+      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -677,38 +693,6 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2023-11-08 01:35:05",
-      "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
-      },
-      "artists": [
-        {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Zan",
-      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
-    },
-    {
-      "added_at": "2024-07-02 21:24:59",
-      "album": {
-        "name": "Bakteria",
-        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 224258,
-      "name": "Bakteria",
-      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
-    },
-    {
       "added_at": "2024-01-05 03:32:15",
       "album": {
         "name": "Promises",
@@ -727,6 +711,22 @@
       "duration_ms": 226118,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
+    },
+    {
+      "added_at": "2024-07-02 21:24:59",
+      "album": {
+        "name": "Bakteria",
+        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 224258,
+      "name": "Bakteria",
+      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
     },
     {
       "added_at": "2022-03-11 06:33:02",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx"
     },
     {
-      "added_at": "2023-03-31 19:28:59",
+      "added_at": "2023-03-03 04:17:23",
       "album": {
-        "name": "Verve EP",
-        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
+        "name": "Flooding Meadow",
+        "url": "https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Doc Sleep",
+          "url": "https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI"
         }
       ],
-      "duration_ms": 337194,
-      "name": "Opak",
-      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
+      "duration_ms": 290526,
+      "name": "Flooding Meadow",
+      "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
     }
   ],
   "unique_name": "Genre Glitch",

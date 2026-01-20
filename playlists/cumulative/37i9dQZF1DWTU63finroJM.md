@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Danyl
+> Meet the future of music around the world\. Cover: Haku.
 
 2,275 songs - 5 day 2 hr 52 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1001546,
+  "num_followers": 1001689,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAA+Pmee6qWUkbe316IybPy1",
+  "snapshot_id": "aWwigAAAAAAheV4u226nBbKGNxP6mUPK",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 177516,
-      "name": "Amorcito M\u00edo",
-      "url": "https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn"
+      "duration_ms": 173786,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 173786,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
+      "duration_ms": 177516,
+      "name": "Amorcito M\u00edo",
+      "url": "https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 226906,
       "name": "El Primer Tonto - En Vivo",
       "url": "https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
     },
     {
       "added_at": null,

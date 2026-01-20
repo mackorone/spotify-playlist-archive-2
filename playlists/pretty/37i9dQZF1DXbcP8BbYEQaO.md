@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,694 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,689 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 68 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 | 69 | [Make It Up \(feat\. Sampha\)](https://open.spotify.com/track/6746jCT3i9N8ICzu8DSBmJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:30 |
 | 70 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
-| 71 | [hi lo](https://open.spotify.com/track/7Ms7XQN4mDV3qWdkEHrFEN) | [NOA LONE](https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq) | [hi lo](https://open.spotify.com/album/09WWLiA9AZWMpywKn0ksTS) | 2:16 |
+| 71 | [hi lo](https://open.spotify.com/track/7Ms7XQN4mDV3qWdkEHrFEN) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [hi lo](https://open.spotify.com/album/09WWLiA9AZWMpywKn0ksTS) | 2:16 |
 | 72 | [Algorithm](https://open.spotify.com/track/4P9s672KFfDlbjhQAVeoT5) | [Cult Of Venus](https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W) | [Algorithm](https://open.spotify.com/album/6ZQJmalbz7FsGBgEfPxqUP) | 3:03 |
 | 73 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 |
 | 74 | [Three Hail Marys](https://open.spotify.com/track/1rU8C0FoUSQBVQLX1gwFH9) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Three Hail Marys](https://open.spotify.com/album/3lkgZzXuQ9FUGU72hNcC7y) | 2:23 |

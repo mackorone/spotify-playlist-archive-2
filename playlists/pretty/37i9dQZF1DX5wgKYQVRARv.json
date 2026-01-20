@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Opeth",
-  "num_followers": 565727,
+  "num_followers": 565763,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -547,8 +547,8 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Aozora",
-        "url": "https://open.spotify.com/album/7KlIqRDBwYnGWG3qTATybW"
+        "name": "Drone",
+        "url": "https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
         }
       ],
-      "duration_ms": 386169,
-      "name": "Aozora",
-      "url": "https://open.spotify.com/track/74yIS4Qvm1DsjF2A5cWGeJ"
+      "duration_ms": 299096,
+      "name": "Drone",
+      "url": "https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -731,8 +731,8 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Drone",
-        "url": "https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID"
+        "name": "Aozora",
+        "url": "https://open.spotify.com/album/7KlIqRDBwYnGWG3qTATybW"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
         }
       ],
-      "duration_ms": 299096,
-      "name": "Drone",
-      "url": "https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7"
+      "duration_ms": 386169,
+      "name": "Aozora",
+      "url": "https://open.spotify.com/track/74yIS4Qvm1DsjF2A5cWGeJ"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Suffer in Silence",
-        "url": "https://open.spotify.com/album/5iXE5eNja6cC8c3dK2KH7E"
-      },
-      "artists": [
-        {
-          "name": "Gemini Syndrome",
-          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Suffer in Silence",
-      "url": "https://open.spotify.com/track/35ID1xiBF9LkSqzECxF9cc"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Paradise Lost",
         "url": "https://open.spotify.com/album/0Kntofu4jRJmvBban1BWsO"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 406000,
       "name": "Paradise Lost",
       "url": "https://open.spotify.com/track/2cXaW4pdpDmtAqkAyWKcLx"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Suffer in Silence",
+        "url": "https://open.spotify.com/album/5iXE5eNja6cC8c3dK2KH7E"
+      },
+      "artists": [
+        {
+          "name": "Gemini Syndrome",
+          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Suffer in Silence",
+      "url": "https://open.spotify.com/track/35ID1xiBF9LkSqzECxF9cc"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Mirrorman",
-        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
-      },
-      "artists": [
-        {
-          "name": "Black Orchid Empire",
-          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "Mirrorman",
-      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Ecdysis",
         "url": "https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 314333,
       "name": "Longing",
       "url": "https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Mirrorman",
+        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
+      },
+      "artists": [
+        {
+          "name": "Black Orchid Empire",
+          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "Mirrorman",
+      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Apple of Discord",
         "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
       },
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
-      },
-      "artists": [
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Pixelate",
         "url": "https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
-      },
-      "artists": [
-        {
-          "name": "InVisions",
-          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
-        }
-      ],
-      "duration_ms": 272757,
-      "name": "The 6 6 9",
-      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Psychotic Banana",
         "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 229442,
       "name": "Hug My Death",
       "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
+      },
+      "artists": [
+        {
+          "name": "InVisions",
+          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
+        }
+      ],
+      "duration_ms": 272757,
+      "name": "The 6 6 9",
+      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
-      },
-      "artists": [
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 257894,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "M\u00far",
         "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 577506,
       "name": "Vitrun",
       "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 257894,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2319,38 +2319,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Terror Management Theory",
-        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
-      },
-      "artists": [
-        {
-          "name": "TEMIC",
-          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
-        }
-      ],
-      "duration_ms": 421601,
-      "name": "Through the Sands of Time",
-      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Mute Talk",
-        "url": "https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi"
-      },
-      "artists": [
-        {
-          "name": "Walking Across Jupiter",
-          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Mute Love",
-      "url": "https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG"
       },
@@ -2367,6 +2335,38 @@
       "duration_ms": 382420,
       "name": "Splitting the Soul (feat. Ihsahn)",
       "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Terror Management Theory",
+        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
+      },
+      "artists": [
+        {
+          "name": "TEMIC",
+          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
+        }
+      ],
+      "duration_ms": 421601,
+      "name": "Through the Sands of Time",
+      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
+      },
+      "artists": [
+        {
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Neil",
+      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
+      },
+      "artists": [
+        {
+          "name": "Rendezvous Point",
+          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+        }
+      ],
+      "duration_ms": 280207,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "The Deceivers (Instrumental)",
         "url": "https://open.spotify.com/album/2xs01qTwDQ0BkreOq75GQT"
       },
@@ -2431,22 +2447,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
-      },
-      "artists": [
-        {
-          "name": "Rendezvous Point",
-          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
-        }
-      ],
-      "duration_ms": 280207,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -2463,6 +2463,22 @@
       "duration_ms": 239975,
       "name": "What Is War",
       "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Mute Talk",
+        "url": "https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi"
+      },
+      "artists": [
+        {
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Mute Love",
+      "url": "https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2495,22 +2511,6 @@
       "duration_ms": 246000,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
-      },
-      "artists": [
-        {
-          "name": "Walking Across Jupiter",
-          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Neil",
-      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
     }
   ],
   "unique_name": "Progressive Metal",

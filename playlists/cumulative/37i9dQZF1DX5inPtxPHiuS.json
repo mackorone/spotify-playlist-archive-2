@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Stallone",
+        "url": "https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ"
+      },
+      "artists": [
+        {
+          "name": "Stallone",
+          "url": "https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340856,
+      "name": "Drowned",
+      "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+    },
+    {
+      "album": {
         "name": "La Gran Oscilaci\u00f3n",
         "url": "https://open.spotify.com/album/0fjCvWsfPef7WSrCMiwOmx"
       },
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 210078,
       "name": "Ver Tus Ojos Mir\u00e1ndome",
       "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"

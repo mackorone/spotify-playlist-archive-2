@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,121 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,189 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 54 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 55 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 |
 | 56 | [Cumbia Morena](https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Mas Control](https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A) | 3:14 |
-| 57 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
-| 58 | [El wiri wiri](https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [El wiri wiri](https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc) | 2:38 |
+| 57 | [El wiri wiri](https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [El wiri wiri](https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc) | 2:38 |
+| 58 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
 | 59 | [Las mujeres quieren bailar](https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [A Mover el Guayin](https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct) | 3:16 |
 | 60 | [Chiquilla Cariñosa](https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG) | [Los Rancheritos del Topo Chico](https://open.spotify.com/artist/1sH0kDK1Vozsvl1dTjWM0v) | [15 Exitos](https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08) | 2:26 |
 | 61 | [La Vecinita](https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Los Súper Éxitos](https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG) | 2:36 |

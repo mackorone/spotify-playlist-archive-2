@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,200 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,204 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 79 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
 | 80 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
 | 81 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 |
-| 82 | [Lost Star](https://open.spotify.com/track/65oAffhyWVBIJgPix4L5XF) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Troublesome Star, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6NhCj3OihiU593wtp0xZ7j) | 3:23 |
-| 83 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
+| 82 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
+| 83 | [Lost Star](https://open.spotify.com/track/65oAffhyWVBIJgPix4L5XF) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Troublesome Star, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6NhCj3OihiU593wtp0xZ7j) | 3:23 |
 | 84 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 |
 | 85 | [What′re you doing tonight?](https://open.spotify.com/track/7yNjqinAMvuduSc5q99ePd) | [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [What're you doing tonight? \(Minyoung X Blooming project\)](https://open.spotify.com/album/4mcCilXiRvmf5z78w06NyU) | 3:11 |
 | 86 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 92 | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 |
 | 93 | [EOY \(feat\. Jay Park\)](https://open.spotify.com/track/6aLCAV1PYK1ONbmXnLeu7L) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EOY \(Eyes On You\)](https://open.spotify.com/album/2zdE9YhMYxBUdUujScCtIt) | 4:13 |
 | 94 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 |
-| 95 | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/track/3TuC6O1f6Ivb9UMnzlNmpn) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/album/4K8Otb0E6r4xA9ju6iaL0C) | 3:28 |
-| 96 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 |
+| 95 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 |
+| 96 | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/track/3TuC6O1f6Ivb9UMnzlNmpn) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/album/4K8Otb0E6r4xA9ju6iaL0C) | 3:28 |
 | 97 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 |
 | 98 | [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 |
 | 99 | [Drive Thru](https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Drive Thru](https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 794606,
+  "num_followers": 794807,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Singled Out",
-        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
-      },
-      "artists": [
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        },
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 151983,
-      "name": "Let Me Think About It",
-      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Singled Out",
+        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
+      },
+      "artists": [
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 151983,
+      "name": "Let Me Think About It",
+      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
     },
     {
       "added_at": "2024-08-03 15:31:45",

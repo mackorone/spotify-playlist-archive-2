@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,500 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,533 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 44 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
 | 45 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |
 | 46 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
-| 47 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 |
-| 48 | [Me Llamas](https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Llamas](https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI) | 5:27 |
+| 47 | [Me Llamas](https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Llamas](https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI) | 5:27 |
+| 48 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 |
 | 49 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |
 | 50 | [Ninguno Se Monta](https://open.spotify.com/track/2YCU2jQ1laKqs4PuXbhGyT) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [La Verdadera Vuelta](https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop) | 10:16 |
 | 51 | [Subimos de Rango](https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Subimos de Rango](https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626) | 4:26 |

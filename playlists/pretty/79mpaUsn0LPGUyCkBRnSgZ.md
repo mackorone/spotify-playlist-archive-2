@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 658 songs - 1 day 19 hr 10 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 660 songs - 1 day 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -661,10 +661,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 651 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
 | 652 | [Famous](https://open.spotify.com/track/5QbSxX3tmc24xZxTwgnVkl) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Get Lost](https://open.spotify.com/album/4ZfeweV9NuqF0YXe3OMmwB) | 3:11 |
 | 653 | [BBC Radiophonic Workshop](https://open.spotify.com/track/5eqrwcF6uJiDaSDQ3o1WAv) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Holiday](https://open.spotify.com/album/43gU5fFjKslAS9hXXDvkdz) | 0:22 |
-| 654 | [Haenim](https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb) | [Kim Jung Mi](https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca) | [Now](https://open.spotify.com/album/2lzfXDmAAnFTwAHNc759Rz) | 6:53 |
-| 655 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 |
-| 656 | [Landline](https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H) | [Landline](https://open.spotify.com/artist/0bRSQWTnCzkRKctyXYrhs4) | [Landline](https://open.spotify.com/album/2171VebZnlhHswDZtosl4r) | 2:41 |
-| 657 | [Dog](https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [The Rubber Teeth Talk](https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1) | 4:03 |
-| 658 | [Somewhere In America There's A Street](https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu) | [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [What Up, Dog?](https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ) | 3:41 |
+| 654 | [Hey Mr\. Dogman!](https://open.spotify.com/track/1poEehfJMN4lQqSsXcBxNQ) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [People in the Sun](https://open.spotify.com/album/28Oa0IXZyGHw0GpSLdkyk1) | 2:42 |
+| 655 | [Landline](https://open.spotify.com/track/2LvG6CvAngdkkbPw5EjG5H) | [Landline](https://open.spotify.com/artist/0bRSQWTnCzkRKctyXYrhs4) | [Landline](https://open.spotify.com/album/2171VebZnlhHswDZtosl4r) | 2:41 |
+| 656 | [Dog](https://open.spotify.com/track/1b9sUqUIX9ya2piu29HJNu) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [The Rubber Teeth Talk](https://open.spotify.com/album/4lloxY9u7ukMRVBlI9JGh1) | 4:03 |
+| 657 | [Somewhere In America There's A Street](https://open.spotify.com/track/03wgi2tpRy0pdUVZSsBomu) | [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [What Up, Dog?](https://open.spotify.com/album/4IY2WJvEcXzaHfQQoVi2sZ) | 3:41 |
+| 658 | [From The Gods](https://open.spotify.com/track/3y0DIcBw075qzj3dOwJ5aL) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Food From the Gods](https://open.spotify.com/album/1M4p6UNirW9jsDnnNzPyqR) | 1:28 |
+| 659 | [Say No More](https://open.spotify.com/track/1ZtQs6a3iYM74lWc28FcQv) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:21 |
+| 660 | [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 |
 
-Snapshot ID: `AAAId3FhSBcJLb7t3E/PDxcnC1Audc+6`
+Snapshot ID: `AAAIe6pavhJdSZdDY8S4OnQ9fKSVtoPV`

@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Smita
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : AsurA
 
 456 songs - 1 day 3 hr 19 min
 
@@ -169,7 +169,7 @@
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 | 2024-01-05 |
 | [Karuna](https://open.spotify.com/track/5nzBrLJixlLLmTMFQnYscF) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/1IbXWKQyr5fx7VjTrHZll6) | 3:14 | 2023-05-31 | 2024-02-15 |
 | [Kashmir](https://open.spotify.com/track/2oXo8C2elci0xz1eDRGeIM) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Kashmir](https://open.spotify.com/album/2PDtBFPJANXt9YROF2As1g) | 6:33 | 2023-12-18 | 2025-07-02 |
-| [Kashmir Diaries](https://open.spotify.com/track/3eUoCOpwv7gYDBIOA0R8RE) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sowmiya](https://open.spotify.com/artist/5XhjNUreUgIAs7nrLDVZYB) | [Kashmir Diaries](https://open.spotify.com/album/0xFCRfurBOG9cu17TeecrA) | 4:30 | 2025-04-09 |  |
+| [Kashmir Diaries](https://open.spotify.com/track/3eUoCOpwv7gYDBIOA0R8RE) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sowmiya](https://open.spotify.com/artist/5XhjNUreUgIAs7nrLDVZYB) | [Kashmir Diaries](https://open.spotify.com/album/0xFCRfurBOG9cu17TeecrA) | 4:30 | 2025-04-09 |  |
 | [Kattuko Nannu Kattuko](https://open.spotify.com/track/2nbmLhdpUCqGB4MIaRgGwG) | [Praveen Kumar Banavathu](https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV), [Jayasri Pallem](https://open.spotify.com/artist/7nPYZrwjgkmgPCqEGxSdsY) | [Kattuko Nannu Kattuko](https://open.spotify.com/album/5g5wNsBKPqKKq6QfGthcCr) | 5:35 | 2025-10-10 | 2025-11-21 |
 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 | 2022-08-10 | 2023-08-06 |
 | [Kilikki \- Tribute to Team Baahubali](https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve), [Noel Sean](https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ) | [Kilikki \(Tribute to Team Baahubali\)](https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5) | 3:20 | 2022-07-18 | 2023-05-23 |

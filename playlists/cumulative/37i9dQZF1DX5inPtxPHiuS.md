@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-229 songs - 14 hr 7 min
+230 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Destapabocas](https://open.spotify.com/track/2aVKlAZFeYmVyclUgjwZ2w) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Destapabocas](https://open.spotify.com/album/0RnD4xRRZKJLjc0BBjaCw6) | 3:49 | 2022-03-11 | 2022-07-28 |
 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 | 2022-03-11 |  |
 | [Diciembre](https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [Diciembre](https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt) | 4:38 | 2022-03-11 |  |
+| [Drowned](https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi) | [Stallone](https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68) | [Stallone](https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ) | 5:40 | 2024-09-20 |  |
 | [Déjala Rodar](https://open.spotify.com/track/0OXUyak3y5ME4abcQik3J8) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [La Gran Oscilación](https://open.spotify.com/album/0fjCvWsfPef7WSrCMiwOmx) | 3:24 | 2022-03-11 | 2022-07-28 |
 | [Déjala Rodar](https://open.spotify.com/track/560cSoD6PzX6Rot8peH1RG) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [La Gran Oscilación](https://open.spotify.com/album/4MXOy6mUrmXj4SXlTCSVC4) | 3:24 | 2022-10-13 | 2023-03-03 |
 | [Déjame Entrar](https://open.spotify.com/track/0oTcViTLu2nPJvrlspoem5) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX) | [Atardeceres Tardíos](https://open.spotify.com/album/30qr3LfRYK26OGau1PyRXH) | 3:48 | 2022-06-24 | 2022-07-29 |
@@ -228,7 +229,7 @@
 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 | 2022-03-11 |  |
 | [Vamos A Perder](https://open.spotify.com/track/01sLLUKQgK1VImolP1hFMd) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Vamos A Perder](https://open.spotify.com/album/7npPa2D42SLHCVpsINRBzJ) | 3:24 | 2022-03-11 | 2022-07-29 |
 | [Vamos a Perder](https://open.spotify.com/track/3o4giwIgVuN4fxckDQhz02) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Vamos a Perder](https://open.spotify.com/album/7DwxRF00M4AGQTW4gIWjdp) | 3:24 | 2022-06-24 | 2022-10-01 |
-| [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 | 2024-07-12 |  |
+| [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 | 2024-07-12 | 2026-01-20 |
 | [Vestido de Cristal](https://open.spotify.com/track/2XDCMTzaTgbn1uP9iW7fCF) | [Kraken](https://open.spotify.com/artist/02OR1V0L1ODy7dDlBLTOvx) | [Kraken 2](https://open.spotify.com/album/1Db4bN1gPlBpDKR4mdSa48) | 4:58 | 2022-03-11 | 2022-07-29 |
 | [Vestido de Cristal](https://open.spotify.com/track/5jpJjsuq52T2MYpmd6uxhK) | [Kraken](https://open.spotify.com/artist/02OR1V0L1ODy7dDlBLTOvx) | [Kraken 2](https://open.spotify.com/album/0KjjCwpJjH4y4U1GGmBLx0) | 4:58 | 2022-06-24 | 2022-12-09 |
 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 | 2022-06-24 | 2024-04-19 |

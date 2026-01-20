@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,621 likes - 555 songs - 1 day 7 hr 13 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,620 likes - 555 songs - 1 day 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 35 | [Cynical](https://open.spotify.com/track/3snubcCS9AsQWRX3yCUweX) | [COOL HEAT](https://open.spotify.com/artist/3HZXI7lDa69dWCj8jbBpjG), [Nothing But Silence](https://open.spotify.com/artist/4nvGHiQk3OPBuDFdCa8Xm6) | [Cynical](https://open.spotify.com/album/31PabkzzwUSG9ew7j1wZsS) | 2:46 |
 | 36 | [All Of Our Friends](https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2) | [Emily Hines](https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX) | [These Days](https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc) | 4:56 |
 | 37 | [Black Sand](https://open.spotify.com/track/16ysidiJTnN31NVTYToaXE) | [Ganser](https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE) | [Animal Hospital](https://open.spotify.com/album/2PuvBLMJmFLZsgmH7OviQm) | 3:00 |
-| 38 | [swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [swallow](https://open.spotify.com/album/606jcVIpm3Mro3V0jkUl18) | 2:10 |
-| 39 | [38 inch loveseat](https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [38 inch loveseat](https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr) | 3:52 |
+| 38 | [38 inch loveseat](https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [38 inch loveseat](https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr) | 3:52 |
+| 39 | [swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [swallow](https://open.spotify.com/album/606jcVIpm3Mro3V0jkUl18) | 2:10 |
 | 40 | [Tainted Glow](https://open.spotify.com/track/1q9MKzw7JdrYOHJaJopi66) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Tainted Glow](https://open.spotify.com/album/6Y60YrZ6YBbOT8dcimQFOt) | 2:52 |
 | 41 | [Blue Lagoon](https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy) | [PAWWS](https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT) | [Blue Lagoon](https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf) | 2:57 |
 | 42 | [Heaven Is No Feeling](https://open.spotify.com/track/6QyDopDgclGYNXf3UeuDZv) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Michelangelo Dying](https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho) | 3:48 |
@@ -564,4 +564,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 554 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 555 | [end times](https://open.spotify.com/track/5bMvNs6meJT1PdSh0RvqzA) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/079zqQhPZszlwoSCW4uRKj) | 4:50 |
 
-Snapshot ID: `AAAsdVHtby6iRAByXqQ9sOsBqAVWv4uj`
+Snapshot ID: `AAAsdp+BVjM0Xw9udwuiHx1hCeOOVnso`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,085 likes - 195 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,094 likes - 195 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AFTERSKI \(Drick Upp\)](https://open.spotify.com/track/6sZOQiyaLgPAuDznPGhxzc) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [AFTERSKI \(Drick Upp\)](https://open.spotify.com/album/2fF6yExLStk0kwW4waUyQ4) | 2:33 |
-| 2 | [KUNGAR \(aldrig gamla\)](https://open.spotify.com/track/2VGr0aQXozpnj3yUmGtVIW) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [KUNGAR \(aldrig gamla\)](https://open.spotify.com/album/4W8FH9yOCerJSaJGwg07dp) | 2:34 |
-| 3 | [ALKOHOLIST](https://open.spotify.com/track/06yI3fi0iMjOCCHhYYJ50m) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [ALKOHOLIST](https://open.spotify.com/album/0G7v1QM6RgoBkh5joLxncS) | 2:13 |
+| 1 | [ALKOHOLIST](https://open.spotify.com/track/06yI3fi0iMjOCCHhYYJ50m) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [ALKOHOLIST](https://open.spotify.com/album/0G7v1QM6RgoBkh5joLxncS) | 2:13 |
+| 2 | [AFTERSKI \(Drick Upp\)](https://open.spotify.com/track/6sZOQiyaLgPAuDznPGhxzc) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [AFTERSKI \(Drick Upp\)](https://open.spotify.com/album/2fF6yExLStk0kwW4waUyQ4) | 2:33 |
+| 3 | [KUNGAR \(aldrig gamla\)](https://open.spotify.com/track/2VGr0aQXozpnj3yUmGtVIW) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [KUNGAR \(aldrig gamla\)](https://open.spotify.com/album/4W8FH9yOCerJSaJGwg07dp) | 2:34 |
 | 4 | [FLYGPLAN](https://open.spotify.com/track/56hHCESKiK3vkjEI1Bl7zG) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [FLYGPLAN](https://open.spotify.com/album/0Ewd7P2H50TqvafPL6sJOf) | 1:56 |
 | 5 | [Saknar inte dig](https://open.spotify.com/track/5qkV6nAkuHJMoRWgrKYRyq) | [SNØ](https://open.spotify.com/artist/121fhWsV0cLJ8VXvUZ1zU7), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h) | [Saknar inte dig](https://open.spotify.com/album/41ayJRq60gfUmzXiixarjB) | 2:57 |
 | 6 | [POPO](https://open.spotify.com/track/27V56aOJJL8ms1gFfu9Mhz) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [POPO](https://open.spotify.com/album/3K0Gug5ONCBqPPu7l6q7Oj) | 2:12 |
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 12 | [INGA UNDANTAG](https://open.spotify.com/track/0UvH5bOPsjl9j5P3sht6FA) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [INGA UNDANTAG](https://open.spotify.com/album/1uSHLNZcOEAXznJktYGsRR) | 2:07 |
 | 13 | [Förklara allt](https://open.spotify.com/track/4rQ3lr7vKKbm0LIEe6OXUL) | [SNØ](https://open.spotify.com/artist/121fhWsV0cLJ8VXvUZ1zU7) | [Förklara allt](https://open.spotify.com/album/63bm4lhdCP4Mhm0JmawTi5) | 2:27 |
 | 14 | [Snyggaste](https://open.spotify.com/track/16NsjDB2F9eP4c0upomZBm) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [Snyggaste](https://open.spotify.com/album/5sIJTqMKzLx7Hchvu0cB3O) | 2:03 |
-| 15 | [Se på mig](https://open.spotify.com/track/7EMeNcHq0jCfWUCaRBG4ie) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [Se på mig](https://open.spotify.com/album/5T5X1U70SmAfbzv26IFsOg) | 1:57 |
-| 16 | [RONJA REJVARDOTTER](https://open.spotify.com/track/6h7x4dqUD1QmVmLImdGPk6) | [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [RONJA REJVARDOTTER](https://open.spotify.com/album/4ETfdus0XwgF1uGDSJA5Mr) | 1:45 |
-| 17 | [VIAGRA](https://open.spotify.com/track/4vaznKSJW2aBhGsaviHlqx) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [VIAGRA](https://open.spotify.com/album/3TW6SCY7g7Ke1wbfU8gujr) | 2:07 |
-| 18 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 |
-| 19 | [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 |
-| 20 | [SOS](https://open.spotify.com/track/4rPzC5pYU0MYzNys1VCQ2U) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SOS](https://open.spotify.com/album/6HCFm5uTyOQVENK6Fizxyi) | 2:09 |
+| 15 | [SOS](https://open.spotify.com/track/4rPzC5pYU0MYzNys1VCQ2U) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SOS](https://open.spotify.com/album/6HCFm5uTyOQVENK6Fizxyi) | 2:09 |
+| 16 | [Se på mig](https://open.spotify.com/track/7EMeNcHq0jCfWUCaRBG4ie) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [Se på mig](https://open.spotify.com/album/5T5X1U70SmAfbzv26IFsOg) | 1:57 |
+| 17 | [RONJA REJVARDOTTER](https://open.spotify.com/track/6h7x4dqUD1QmVmLImdGPk6) | [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [RONJA REJVARDOTTER](https://open.spotify.com/album/4ETfdus0XwgF1uGDSJA5Mr) | 1:45 |
+| 18 | [VIAGRA](https://open.spotify.com/track/4vaznKSJW2aBhGsaviHlqx) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [VIAGRA](https://open.spotify.com/album/3TW6SCY7g7Ke1wbfU8gujr) | 2:07 |
+| 19 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 |
+| 20 | [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 |
 | 21 | [MER JUL](https://open.spotify.com/track/6tcKK7eoOISx1sIKVlAdDP) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [MER JUL](https://open.spotify.com/album/2tH3N1StaBtdBmfKTNKcgg) | 1:57 |
 | 22 | [SHOT ROULETTE](https://open.spotify.com/track/1rKowH3O4Axyz2DLDxVUed) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [SHOT ROULETTE](https://open.spotify.com/album/5TzAL6jSNxYyIuRpCtCFko) | 2:04 |
 | 23 | [DRAGEN](https://open.spotify.com/track/015GhizGVjGzSeHm7CNsn9) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [DRAGEN](https://open.spotify.com/album/6fPK2KJWEViTWKb7lwEmvb) | 2:03 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 194 | [113](https://open.spotify.com/track/0Vec54m9ABwhKGVHG5rkQF) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt) | [113](https://open.spotify.com/album/4O6efjOGwx7nhYQ5KPJKfK) | 2:01 |
 | 195 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAAFuFSRJWcbYSSQf3u/mdxjhfLkv8`
+Snapshot ID: `AAAAAK7yMNMx6Z0WfK5ukzR/gm0AdzsF`

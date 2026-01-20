@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 203728,
       "name": "Frozen In Time",
       "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 167914,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3MzxKAvFXnnhg5G5hDjalU"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 192585,
       "name": "Lotus Blume",
       "url": "https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE"
@@ -6654,6 +6654,28 @@
       "duration_ms": 182726,
       "name": "Unfolding Horizon",
       "url": "https://open.spotify.com/track/3cEDGwJVY7YcVLNOSP3UEu"
+    },
+    {
+      "album": {
+        "name": "unholy",
+        "url": "https://open.spotify.com/album/3AgTcXKPNxRM1cNT8svKdN"
+      },
+      "artists": [
+        {
+          "name": "eidra",
+          "url": "https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM"
+        },
+        {
+          "name": "Blocktane",
+          "url": "https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117551,
+      "name": "unholy",
+      "url": "https://open.spotify.com/track/1gE5n8mAhWVStO2f8rvPrG"
     },
     {
       "album": {

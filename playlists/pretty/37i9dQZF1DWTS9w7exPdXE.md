@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,098 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,140 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 36 | [Zwevend naar 't geluk](https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 3:38 |
 | 37 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
 | 38 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 |
-| 39 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
-| 40 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
+| 39 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
+| 40 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
 | 41 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 42 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 |
 | 43 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 64 | [Hoe Zou Je Doen](https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Hoe Zou Je Doen](https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj) | 3:04 |
 | 65 | [Mijn Loterij](https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Mijn Loterij](https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb) | 3:09 |
 | 66 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
-| 67 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 |
-| 68 | [Haal Alles Uit Het Leven](https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Haal Alles Uit Het Leven](https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a) | 2:58 |
+| 67 | [Haal Alles Uit Het Leven](https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Haal Alles Uit Het Leven](https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a) | 2:58 |
+| 68 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 |
 | 69 | [Sexy Lady](https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Sexy Lady](https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu) | 3:16 |
 | 70 | [Smoorverliefd](https://open.spotify.com/track/6bXaoRO085rjafV7Qfkgcm) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:15 |
 | 71 | [Doe mij 'n rondje](https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Doe mij 'n rondje](https://open.spotify.com/album/2ZUSyVIh6uJPzfXkw25fLq) | 3:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 75 | [Zin In Jou](https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zin In Jou](https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37) | 3:58 |
 | 76 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 |
 | 77 | [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 |
-| 78 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Zo Ben Ik Mezelf](https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q) | 3:39 |
-| 79 | [Muziek Is Ons Leven](https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS) | [Echte Vrienden](https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb) | [Muziek Is Ons Leven](https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ) | 3:31 |
+| 78 | [Muziek Is Ons Leven](https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS) | [Echte Vrienden](https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb) | [Muziek Is Ons Leven](https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ) | 3:31 |
+| 79 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Zo Ben Ik Mezelf](https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q) | 3:39 |
 | 80 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 |
 | 81 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
 | 82 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 97 | [Ik Laat Je Nooit Meer Gaan](https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [10 Jaar \(Mijn Grootste Hits Tot Nu Toe\)](https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH) | 3:50 |
 | 98 | [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 |
 | 99 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
-| 100 | [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 |
+| 100 | [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 |
 
 Snapshot ID: `AAAAAJAKpZMgvs6/zMkQ/ndVUvslBKud`

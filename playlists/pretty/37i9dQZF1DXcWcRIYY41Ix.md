@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,123 likes - 105 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,127 likes - 105 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 28 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 |
 | 29 | [Bruja](https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2) | [Nito Serrano y Lapurasangre](https://open.spotify.com/artist/1QWIh3nENBZ0Pz0WtjcEny), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Bruja](https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D) | 4:33 |
 | 30 | [La Churrasquita](https://open.spotify.com/track/5LOZKsjWugzePuIczwAswl) | [Nico Roig](https://open.spotify.com/artist/792TNSvdXNdzOuGRcRP2EN), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [La Churrasquita](https://open.spotify.com/album/5lsTbAuvxdWGsOHVIZZiUU) | 3:22 |
-| 31 | [Pan de Pueblo](https://open.spotify.com/track/2eIkfwAz8dpCBpqeqXrjaP) | [MAPA](https://open.spotify.com/artist/7Bv4NCknVMFKk6lvvS7UXN) | [Pan de Pueblo](https://open.spotify.com/album/56FIiauUxYrfch1swWeeLN) | 3:07 |
+| 31 | [Pan de Pueblo](https://open.spotify.com/track/2eIkfwAz8dpCBpqeqXrjaP) | [MAPA](https://open.spotify.com/artist/7Bv4NCknVMFKk6lvvS7UXN), [Jorge Arribas](https://open.spotify.com/artist/2kcib7gX6qzEVyklDgRBNP), [Diego Galaz](https://open.spotify.com/artist/48hirtt3ZnCSbubNcf3pns) | [Pan de Pueblo](https://open.spotify.com/album/56FIiauUxYrfch1swWeeLN) | 3:07 |
 | 32 | [Dulce Picante](https://open.spotify.com/track/0hqd6HkeWkQWou5uvOF4Zx) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [2](https://open.spotify.com/album/2XUQA2rv1IKp7Gtky0XIft) | 2:11 |
 | 33 | [Curación](https://open.spotify.com/track/4zzgwdyfZD95YpKNZx5jhe) | [Pablo Cano](https://open.spotify.com/artist/7hmvc1ilzORAuEKEYEJ30o), [Martinez Ares](https://open.spotify.com/artist/0mz78YodaKaPuoSPBfnR5a), [Lynn Milanés](https://open.spotify.com/artist/0tMjmCeezS6pOZEzhdfVXR) | [Curación](https://open.spotify.com/album/1dcJ81RvkkCyxon7hLLTRv) | 4:32 |
 | 34 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |

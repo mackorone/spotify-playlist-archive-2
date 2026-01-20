@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2194,
+  "num_followers": 2196,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAAb09JDg4A0fneY4EB8n6dj",
+  "snapshot_id": "aWwigAAAAADruD+fO1SvSyf25mcW+1AB",
   "tracks": [
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 179000,
       "name": "Adiamantado",
       "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cargo del Terreno",
+        "url": "https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 142474,
+      "name": "A Cargo del Terreno",
+      "url": "https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
       "url": "https://open.spotify.com/track/5DpXwDeOTcMyGE5GZBW9SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Cargo del Terreno",
-        "url": "https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 142474,
-      "name": "A Cargo del Terreno",
-      "url": "https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L"
     },
     {
       "added_at": null,

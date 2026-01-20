@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,726 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,725 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 3 | [Night, Snow](https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Night, Snow](https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk) | 3:49 |
 | 4 | [Late Night Calls](https://open.spotify.com/track/6Dl3R2ZTaM9XjqU1Jzt714) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:13 |
 | 5 | [While You're Sleeping, I Am](https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:41 |
-| 6 | [Rest](https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 3:28 |
+| 6 | [Koko](https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [In other words it’s all made by Kyeongsuk](https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs) | 3:48 |
 | 7 | [Jellyfish](https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Jellyfish](https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu) | 3:43 |
-| 8 | [Koko](https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [In other words it’s all made by Kyeongsuk](https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs) | 3:48 |
+| 8 | [Rest](https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 3:28 |
 | 9 | [Night air](https://open.spotify.com/track/2QExkZJmZYblotcvmoCYy4) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Night air](https://open.spotify.com/album/0jDPb6oQCU49du0dedRGMG) | 4:10 |
 | 10 | [Orange Splash \(feat\. 진동욱\)](https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [진동욱](https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n) | [Orange Splash](https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C) | 2:23 |
 | 11 | [Mariposa](https://open.spotify.com/track/0ssJ1aWcx4cfe7PVbQ29fz) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Mariposa](https://open.spotify.com/album/2QB19HyUC6dU3uoaA7TMzT) | 2:50 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 43 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
 | 44 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
 | 45 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
-| 46 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
-| 47 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
+| 46 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
+| 47 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
 | 48 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 49 | [Dear My Childhood](https://open.spotify.com/track/6Vy7FsMTd1jc4Xk8o2GBps) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:16 |
 | 50 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |

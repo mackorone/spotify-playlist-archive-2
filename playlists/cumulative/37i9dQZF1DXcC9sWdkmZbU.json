@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Everyone Should Know",
+        "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Everyone Should Know",
+      "url": "https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1"
+    },
+    {
+      "album": {
         "name": "Everything - Hymns for Little Hearts",
         "url": "https://open.spotify.com/album/08yNkH69ff1XXIRrQlykgS"
       },
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 149538,
       "name": "Psalms 150",
       "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"

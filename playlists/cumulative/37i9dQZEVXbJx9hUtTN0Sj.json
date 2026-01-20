@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 198000,
       "name": "alibi",
       "url": "https://open.spotify.com/track/6CWslpH2W2osBsPDza6Syk"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 136653,
       "name": "Aventador\u00e9",
       "url": "https://open.spotify.com/track/0jMh5CUDXCHhUoLJntKyHW"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0GbxtTOP0qTlL2M12yJqJg"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
@@ -5196,7 +5196,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 187762,
       "name": "Belle \u00e2me",
       "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
@@ -7562,7 +7562,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 126466,
       "name": "C'est nous dans le top (Brainrot)",
       "url": "https://open.spotify.com/track/3YFzwd0VC5famK2eJjqTOh"
@@ -7810,6 +7810,24 @@
       "duration_ms": 172245,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s"
+    },
+    {
+      "album": {
+        "name": "Capote",
+        "url": "https://open.spotify.com/album/72puMfgx0IZ4Uuyr1H5ydL"
+      },
+      "artists": [
+        {
+          "name": "Dayarga",
+          "url": "https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173137,
+      "name": "Capote",
+      "url": "https://open.spotify.com/track/26C2jOT5IaZePVSqnWueGz"
     },
     {
       "album": {
@@ -11977,6 +11995,28 @@
     },
     {
       "album": {
+        "name": "Dima Maghreb",
+        "url": "https://open.spotify.com/album/6WepWFIfg32q34AURiFF76"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        },
+        {
+          "name": "Humood AlKhudher",
+          "url": "https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112131,
+      "name": "Dima Maghreb",
+      "url": "https://open.spotify.com/track/16hYITYJCwasNFOSLjGyJe"
+    },
+    {
+      "album": {
         "name": "EXTASIA",
         "url": "https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX"
       },
@@ -12202,7 +12242,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 262353,
       "name": "Dit is wat je weten moet uit Live Live Live",
       "url": "https://open.spotify.com/track/7MpcauoAtPfwbNahHR0WR4"
@@ -20804,7 +20844,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -38625,6 +38665,24 @@
     },
     {
       "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
+    },
+    {
+      "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
@@ -42080,6 +42138,32 @@
       "duration_ms": 178064,
       "name": "Strobe Lights",
       "url": "https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV"
+    },
+    {
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL"
+      },
+      "artists": [
+        {
+          "name": "Ayanna Ife",
+          "url": "https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc"
     },
     {
       "album": {

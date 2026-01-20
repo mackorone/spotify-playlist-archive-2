@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 130441,
+  "num_followers": 130447,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAAwUQGpbtlajyBtkUZBA3mj",
+  "snapshot_id": "aWwigAAAAACFPm3nyrrtBgeWsXuJDsXk",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 111716,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
+      "duration_ms": 122026,
+      "name": "Redford (for Yia-Yia and Pappou)",
+      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 122026,
-      "name": "Redford (for Yia-Yia and Pappou)",
-      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
+      "duration_ms": 111716,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,773 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,778 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 17 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 |
 | 18 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
 | 19 | [Only You](https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l) | [1\-800\-HIT\-EAZY](https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi) | 2:29 |
-| 20 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
-| 21 | [Period](https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Period](https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS) | 3:20 |
+| 20 | [Period](https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Period](https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS) | 3:20 |
+| 21 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
 | 22 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 23 | [Hands Down](https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [B.H.D\. \(Black Hearted Demon\)](https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT) | 2:37 |
 | 24 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |

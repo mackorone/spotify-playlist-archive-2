@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "EPIPHANY at Tokyo Dome 2025.06.15",
+        "url": "https://open.spotify.com/album/1f018h8BBE9PAXJoWBqlRR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272701,
+      "name": "PHOENIX AX EPIPHANY at Tokyo Dome 2025.06.15 - Live Version",
+      "url": "https://open.spotify.com/track/6Q0IK5FFf8jA2qUBXJjcc2"
+    },
+    {
+      "album": {
         "name": "ODD FUTURE",
         "url": "https://open.spotify.com/album/1sKDBoYMLDPx74Ktp5tnJ1"
       },
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 206760,
       "name": "WINGS ever",
       "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"

@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 224718,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3Ljx6tvFUYYj275OmlAIDg"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Do What She Wanna",
+        "url": "https://open.spotify.com/album/4XiMf2WIQXKfVXE7De60Gl"
+      },
+      "artists": [
+        {
+          "name": "primo.io",
+          "url": "https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Do What She Wanna",
+      "url": "https://open.spotify.com/track/5F5eberTTCphTF0PxkvBRL"
+    },
+    {
+      "album": {
         "name": "Don't Know What To Do (Don't Know What To Say)",
         "url": "https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc"
       },
@@ -866,7 +884,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 172983,
       "name": "Habang Buhay",
       "url": "https://open.spotify.com/track/3s21z37MM3tbVmRA9c1tuL"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 152165,
       "name": "Mabisang Pinay",
       "url": "https://open.spotify.com/track/5A1pJBomlHhK7WAP6vo9N8"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 210782,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
@@ -1795,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Nagpalinlang",
+        "url": "https://open.spotify.com/album/79LWQ1kyyvKeHRqZgd4pxd"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Aziz",
+          "url": "https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Nagpalinlang",
+      "url": "https://open.spotify.com/track/4lUKOt3hFKC2xBT7UCNrB8"
+    },
+    {
+      "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
@@ -1824,7 +1860,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 190089,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a"
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
@@ -2174,7 +2210,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 301611,
       "name": "Paraiso",
       "url": "https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH"
@@ -2250,6 +2286,24 @@
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "album": {
+        "name": "Paulit-Ulit",
+        "url": "https://open.spotify.com/album/7yXlTArosfiPAL3RFdumAd"
+      },
+      "artists": [
+        {
+          "name": "Fly Mama!",
+          "url": "https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189237,
+      "name": "Paulit-Ulit",
+      "url": "https://open.spotify.com/track/25IMmvByFqTt4Y6J5v887Z"
     },
     {
       "album": {
@@ -2426,7 +2480,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 163448,
       "name": "Reyna Ng Quezon City",
       "url": "https://open.spotify.com/track/6x5iYjQE42FToFSUmcOvdw"
@@ -2528,7 +2582,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
@@ -2736,6 +2790,24 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "album": {
+        "name": "so right",
+        "url": "https://open.spotify.com/album/2PIJJpQa1suxXmEFhHpQ9W"
+      },
+      "artists": [
+        {
+          "name": "Mark Andre",
+          "url": "https://open.spotify.com/artist/0RNyEwdrFJsyXzfCcVOYAZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215249,
+      "name": "so right",
+      "url": "https://open.spotify.com/track/56rGGuag0aKuLAw7aj7VXW"
     },
     {
       "album": {
@@ -2960,7 +3032,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 241411,
       "name": "TAKOT",
       "url": "https://open.spotify.com/track/4advJOoc5XugSHZNFzv8Td"
@@ -2996,7 +3068,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 121142,
       "name": "TAPAT",
       "url": "https://open.spotify.com/track/6o54Q9Ueqp6tXraenVdpO8"
@@ -3068,7 +3140,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 224640,
       "name": "The Only Gift I Need",
       "url": "https://open.spotify.com/track/7CKPm29yh8BPs7OqPwx0s7"

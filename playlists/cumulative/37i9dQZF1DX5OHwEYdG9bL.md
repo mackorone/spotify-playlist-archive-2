@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: idntt\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: EXO\) \(Enjoy a playlist of songs that support music video features!\)
 
-182 songs - 10 hr 4 min
+184 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Countdown!](https://open.spotify.com/track/3zzSkxx2JhVthLIo4aaM3p) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Countdown!](https://open.spotify.com/album/2U6jC4iYqqFC9OfwMZ4cK1) | 3:35 | 2025-07-15 |  |
 | [Crazier](https://open.spotify.com/track/5bgpAtvOFcNP0N3jjIDXpV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier](https://open.spotify.com/album/6k2vpQgr7NOAnvPzuzcHCN) | 3:08 | 2025-08-13 |  |
 | [CRAZY](https://open.spotify.com/track/5BT66JSYMSXbytWr7Tvq06) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/2J1Jcp6bzHDWf1wd4mOBEA) | 2:49 | 2025-07-15 | 2025-08-20 |
+| [Crown](https://open.spotify.com/track/0frJ0IhhIOSWodge5fwKb5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Crown](https://open.spotify.com/album/2xgWak2XDGZyBnGtVIkUJp) | 3:31 | 2026-01-19 |  |
 | [Dash](https://open.spotify.com/track/2eUExqqFOpckGJG7faJMeW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dash](https://open.spotify.com/album/3f1MBI3Z9BTZ8N1kaX46sV) | 3:58 | 2025-07-15 | 2025-08-20 |
 | [Dirty Work](https://open.spotify.com/track/26sWZviugh9BjAe5X61dzY) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/72ORvl4lM3vVPzT94dY2cD) | 3:09 | 2025-07-15 |  |
 | [Dirty Work](https://open.spotify.com/track/2LK8E55VY0DNq7X6XV93lE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3OJd8RS97G1BnlXQQ4MBFl) | 3:09 | 2025-07-15 |  |
@@ -97,6 +98,7 @@
 | [JUMP](https://open.spotify.com/track/3XaN4U1mgxoT77CGX0KMHy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/0KXjWDuZPu0ZmhSCPeWuGS) | 3:13 | 2025-07-15 |  |
 | [Killin' It Girl](https://open.spotify.com/track/39nUpuomDRXzA9e3YmfbT7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl](https://open.spotify.com/album/3J9QimaVevxQ03LRdc87u4) | 2:43 | 2025-07-15 |  |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/50NbGuFRMwWg9QGhqgDxXO) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/6i2IO2wISsGuD46e5SbLBw) | 2:39 | 2025-07-15 |  |
+| [Knife](https://open.spotify.com/track/4ZzEPHnmea0paHAAsdzRgc) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Knife](https://open.spotify.com/album/0MigcLlph2OBc1TkpFVqWy) | 2:43 | 2026-01-19 |  |
 | [KNOW ABOUT ME](https://open.spotify.com/track/4yyV25B51NJRkaxqqqIoxY) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [KNOW ABOUT ME](https://open.spotify.com/album/45MqZrq0eLKq3Nm6NDqUaK) | 2:53 | 2025-07-15 |  |
 | [La La Love Me](https://open.spotify.com/track/67HEeCRSWYzGfZEqgwl51b) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [La La Love Me](https://open.spotify.com/album/6RaOlm1b2E4KbcfSHfP6LI) | 3:10 | 2025-07-15 |  |
 | [Lemon Drop](https://open.spotify.com/track/09d3tp7hN0NrXMUdzJg8pB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Lemon Drop](https://open.spotify.com/album/09IydXd1KOgReAONummjt5) | 3:43 | 2025-07-15 |  |

@@ -4,7 +4,7 @@
 
 > Discover the best hits of Lebanon.
 
-133 songs - 7 hr 51 min
+134 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2021-09-10 | 2025-10-11 |
 | [Baddi Hada Hebbou](https://open.spotify.com/track/5x6ABIAk3xrwFSAkZeppTP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:14 | 2023-02-26 | 2025-10-11 |
 | [Badi Ghayer Fiki El Aalam](https://open.spotify.com/track/6eMhigZ4x6KfVKDyJVMPIW) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Badi Ghayer Fiki El Aalam](https://open.spotify.com/album/1CeDtZTFFa8RumRTycPge1) | 3:51 | 2025-10-10 |  |
+| [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 | 2026-01-19 |  |
 | [Bahebek Ya Lebnan](https://open.spotify.com/track/5zzPDh8xmEtifNqeuv79zR) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 6:02 | 2021-09-10 | 2025-10-11 |
 | [Bardo Betewhashni](https://open.spotify.com/track/6o25gM7QU4WmiZxCea7yNt) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg), [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Bardo Betewhashni](https://open.spotify.com/album/29mrsnZ7Pbq3OjHqX5qHBC) | 4:01 | 2025-10-10 |  |
 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 | 2024-10-22 |  |
@@ -116,7 +117,7 @@
 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 | 2025-10-10 |  |
 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 | 2021-09-10 | 2025-10-11 |
 | [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 | 2025-10-11 | 2025-11-05 |
-| [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 | 2025-10-10 |  |
+| [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 | 2025-10-10 | 2026-01-20 |
 | [Tetsharrat](https://open.spotify.com/track/6PL3VX8CYX0U3wv1FaEjjg) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v), [الوليد الحلاني](https://open.spotify.com/artist/4U9LzmkjHgY6UFJHRcbDix) | [Tetsharrat](https://open.spotify.com/album/3o5Zl9oCbsU3Yyrkx2zoxM) | 2:53 | 2025-02-02 | 2025-10-11 |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2021-09-10 |  |
 | [Wala Ghalta](https://open.spotify.com/track/3WWl6rIoWcDU5btMQgSfPk) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Wala Ghalta](https://open.spotify.com/album/2qyHTiNEvzM40oWZK5NG7C) | 2:11 | 2025-10-10 |  |

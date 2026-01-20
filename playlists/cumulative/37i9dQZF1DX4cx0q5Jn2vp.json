@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -136,6 +136,42 @@
       "duration_ms": 287647,
       "name": "Ang Pag-ibig",
       "url": "https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz"
+    },
+    {
+      "album": {
+        "name": "Ang Pag-Ibig Kong Ito",
+        "url": "https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Ang Pag-Ibig Kong Ito",
+      "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
+    },
+    {
+      "album": {
+        "name": "Troubadour Tales Chapter 1",
+        "url": "https://open.spotify.com/album/5OrVhuBBYtfbLZUGctzvme"
+      },
+      "artists": [
+        {
+          "name": "Johnoy Danao",
+          "url": "https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Ang Panata",
+      "url": "https://open.spotify.com/track/17TmaYfxGQWg6VPZCk9s5x"
     },
     {
       "album": {
@@ -2080,7 +2116,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
@@ -2434,6 +2470,24 @@
       "duration_ms": 210755,
       "name": "Kulimlim",
       "url": "https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af"
+    },
+    {
+      "album": {
+        "name": "Kung Magugunaw ang Mundo",
+        "url": "https://open.spotify.com/album/1geXyQplbxyXhpCcbRyjzs"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231391,
+      "name": "Kung Magugunaw ang Mundo",
+      "url": "https://open.spotify.com/track/0lDhTznSyQ4QwDdAM4LFHN"
     },
     {
       "album": {
@@ -2825,6 +2879,28 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        },
+        {
+          "name": "Sol",
+          "url": "https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241684,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY"
+    },
+    {
+      "album": {
         "name": "M.K.S.",
         "url": "https://open.spotify.com/album/68Jq8iPPpSOZE4LC3nOUt9"
       },
@@ -3162,7 +3238,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
@@ -3198,7 +3274,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"

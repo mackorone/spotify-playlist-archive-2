@@ -9036,7 +9036,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -10734,7 +10734,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 137272,
       "name": "ESCADA DO PR\u00c9DIO",
       "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
@@ -11298,7 +11298,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
@@ -18718,7 +18718,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 191168,
       "name": "Leva Tudo",
       "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
@@ -24940,7 +24940,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -30460,6 +30460,56 @@
       "duration_ms": 179014,
       "name": "Sessenta e Nove",
       "url": "https://open.spotify.com/track/2Gu2068uXkND6e08anKmwd"
+    },
+    {
+      "album": {
+        "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
+        "url": "https://open.spotify.com/album/1sLXpSh9ol5lle83QZyJTI"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC GDL",
+          "url": "https://open.spotify.com/artist/65uZqk8hbCuVjZa3l9WWt1"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487384,
+      "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
+      "url": "https://open.spotify.com/track/65O1EyYSg0Leyf0li6Vzah"
     },
     {
       "album": {

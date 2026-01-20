@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234796,
+  "num_followers": 234794,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Zeca Pagodinho",
-        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Spc",
-      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Luiz Melodia Especial MTV (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 185706,
       "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Spc",
+      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
     },
     {
       "added_at": "2025-09-19 22:07:37",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Mais Feliz",
-        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 224376,
-      "name": "Dependente Do Amor",
-      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Mais Feliz",
+        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 224376,
+      "name": "Dependente Do Amor",
+      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
     },
     {
       "added_at": "2025-09-19 22:07:37",

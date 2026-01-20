@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBabylon, Drake)",
-  "num_followers": 1092607,
+  "num_followers": 1092532,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,38 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
@@ -571,22 +603,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
       },
@@ -603,42 +619,18 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
-        "name": "Bittersweet (feat. LeeHi)",
-        "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
-      },
-      "artists": [
-        {
-          "name": "WONWOO",
-          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
-        },
-        {
-          "name": "MINGYU",
-          "url": "https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Bittersweet (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -679,34 +671,26 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+        "name": "Bittersweet (feat. LeeHi)",
+        "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
-        "name": "TASTE - The 1st Album",
-        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
-      },
-      "artists": [
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        },
         {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+          "name": "MINGYU",
+          "url": "https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 206480,
-      "name": "CRZY",
-      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
+      "duration_ms": 174773,
+      "name": "Bittersweet (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -723,6 +707,22 @@
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "TASTE - The 1st Album",
+        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "CRZY",
+      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Doctor! Doctor!",
-        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Doctor! Doctor!",
-      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 210893,
       "name": "Cry For Love",
       "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "Doctor! Doctor!",
+        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Doctor! Doctor!",
+      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Essence of Reverie",
-        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 215760,
       "name": "All My Poetry",
       "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "JxW 1st Single Album 'THIS MAN'",
-        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
-      },
-      "artists": [
-        {
-          "name": "JxW",
-          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Last night (Guitar by Park Juwon)",
-      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
+        "name": "JxW 1st Single Album 'THIS MAN'",
+        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
+      },
+      "artists": [
+        {
+          "name": "JxW",
+          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Last night (Guitar by Park Juwon)",
+      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
         "name": "Forever Only - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
       },
@@ -1087,26 +1087,6 @@
       "duration_ms": 196120,
       "name": "Forever Only",
       "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1131,18 +1111,38 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Mars",
-      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "jellyfish",
+        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "jellyfish",
+      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1163,18 +1163,34 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "jellyfish",
-        "url": "https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC"
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
       "artists": [
         {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 157168,
-      "name": "jellyfish",
-      "url": "https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne"
+      "duration_ms": 187266,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Pineapple Slice",
+      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
     },
     {
       "added_at": "2025-12-18 10:23:17",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Pineapple Slice",
-      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2025-12-18 10:23:17",

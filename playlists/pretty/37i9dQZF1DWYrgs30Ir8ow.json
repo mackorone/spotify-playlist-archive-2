@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/r89IrKqIXez1jW8TGz6MmfvGq",
+  "snapshot_id": "AAAAAIv0w8GjmFVcUdSjdK7ULHnRXqfY",
   "tracks": [
     {
       "added_at": "2026-01-15 23:00:32",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-01-15 23:00:32",
       "album": {
+        "name": "Tot Het Eind Van Mij",
+        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Van God Los",
+      "url": "https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC"
+    },
+    {
+      "added_at": "2026-01-15 23:00:32",
+      "album": {
         "name": "Harder Dan Ik Spenden Kan",
         "url": "https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-01-15 23:00:32",
-      "album": {
-        "name": "Tot Het Eind Van Mij",
-        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Van God Los",
-      "url": "https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC"
     },
     {
       "added_at": "2026-01-15 23:00:32",

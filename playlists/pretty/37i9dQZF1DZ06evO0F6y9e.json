@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1094372,
+  "num_followers": 1094555,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAA3LGCMv8Gx8AJAy45F+0Vw",
+  "snapshot_id": "aWwigAAAAADKKybDmGsQsa2wmHtBcD+z",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Anaheim, CA",
-        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 264832,
-      "name": "Pideme (En Vivo)",
-      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Cuesta",
-        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+        "name": "En Vivo Desde Anaheim, CA",
+        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
       },
       "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 174075,
-      "name": "Cu\u00e1nto Cuesta",
-      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
+      "duration_ms": 264832,
+      "name": "Pideme (En Vivo)",
+      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
       "duration_ms": 214067,
       "name": "Deja (En Vivo)",
       "url": "https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1nto Cuesta",
+        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 174075,
+      "name": "Cu\u00e1nto Cuesta",
+      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Borrachito",
-        "url": "https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 175798,
-      "name": "Amor Borrachito",
-      "url": "https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 235437,
       "name": "T\u00edpico Cl\u00e1sico (En Vivo)",
       "url": "https://open.spotify.com/track/02CTjVRG3hFk1A27tEodrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Borrachito",
+        "url": "https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 175798,
+      "name": "Amor Borrachito",
+      "url": "https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m"
     }
   ],
   "unique_name": "This Is Grupo Firme",

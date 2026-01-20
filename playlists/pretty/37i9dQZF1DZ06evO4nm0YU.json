@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 184309,
+  "num_followers": 184338,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAACYgy3JHX7AL3dGFqvOI6g+",
+  "snapshot_id": "aWwigAAAAAAAZCPD0Sb8SUxA8+xSLqKo",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Studio Albums, Vol. 1",
-        "url": "https://open.spotify.com/album/2834vfmvqq8UutYQ9f1XyD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 402120,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/2Qq1i7TeLJZzkrz2DuAZjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OG: Original Gangster",
         "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+        "name": "The Complete Studio Albums, Vol. 1",
+        "url": "https://open.spotify.com/album/2834vfmvqq8UutYQ9f1XyD"
       },
       "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 351333,
-      "name": "Ublabad\u00fa",
-      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+      "duration_ms": 402120,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/2Qq1i7TeLJZzkrz2DuAZjG"
     },
     {
       "added_at": null,
@@ -879,6 +859,26 @@
       "duration_ms": 401693,
       "name": "Periodico De Ayer",
       "url": "https://open.spotify.com/track/1RQwHnFHsLVlJmgEk9kmmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 351333,
+      "name": "Ublabad\u00fa",
+      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
     },
     {
       "added_at": null,

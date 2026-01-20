@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS, Karina Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,623 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,634 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manchmal](https://open.spotify.com/track/5br8BWCW8il8CKtysx9qLH) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [Karina Rose](https://open.spotify.com/artist/3ucTACZuBlt5HPmpH6QOmI) | [Manchmal](https://open.spotify.com/album/3dLpsXrqZHIzNgPA2IVPMs) | 2:51 |
 | 2 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
-| 3 | [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 |
-| 4 | [Teneriffa](https://open.spotify.com/track/7ysK1mhW5lARHZzH2A8wp8) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [Teneriffa](https://open.spotify.com/album/3d0CeuIZJ53NsPDeTzB1fZ) | 2:57 |
-| 5 | [Halb So Schön Wie Du](https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Halb So Schön Wie Du](https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS) | 3:25 |
+| 3 | [Halb So Schön Wie Du](https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Halb So Schön Wie Du](https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS) | 3:25 |
+| 4 | [Atmen](https://open.spotify.com/track/4dvvUH98XgjXSMuJYqQnDU) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl) | [Atmen](https://open.spotify.com/album/4kMMhDsEiHK040n0ezN6qi) | 3:46 |
+| 5 | [Teneriffa](https://open.spotify.com/track/7ysK1mhW5lARHZzH2A8wp8) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [Teneriffa](https://open.spotify.com/album/3d0CeuIZJ53NsPDeTzB1fZ) | 2:57 |
 | 6 | [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 |
-| 7 | [people pleaser](https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [people pleaser](https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua) | 3:09 |
-| 8 | [Atmen](https://open.spotify.com/track/4dvvUH98XgjXSMuJYqQnDU) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl) | [Atmen](https://open.spotify.com/album/4kMMhDsEiHK040n0ezN6qi) | 3:46 |
+| 7 | [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 |
+| 8 | [people pleaser](https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [people pleaser](https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua) | 3:09 |
 | 9 | [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 |
 | 10 | [Großstadtkinder](https://open.spotify.com/track/1ZBpgyrzhn8jD3iXC65D5t) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Großstadtkinder](https://open.spotify.com/album/6j51gtdQrQDM0TggpH5TcJ) | 1:53 |
-| 11 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
-| 12 | [Magnolia](https://open.spotify.com/track/5HmeC9Mv4IFmxeIX135sVE) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Magnolia](https://open.spotify.com/album/3Mg5toj2GeadBVAjvRbiOR) | 2:35 |
-| 13 | [halb mensch halb tv](https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [halb mensch halb tv](https://open.spotify.com/album/2D1CzrBdHpQY5tWbD1Wr3S) | 2:27 |
-| 14 | [Wiener Tauben](https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn) | [CHURRO64](https://open.spotify.com/artist/6klhPZOfMdj8KF0FK4ZAjy), [luisa schweig](https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I) | [Wiener Tauben](https://open.spotify.com/album/3PYtGy75BSze40TPy0KJyM) | 2:57 |
+| 11 | [Magnolia](https://open.spotify.com/track/5HmeC9Mv4IFmxeIX135sVE) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Magnolia](https://open.spotify.com/album/3Mg5toj2GeadBVAjvRbiOR) | 2:35 |
+| 12 | [Wiener Tauben](https://open.spotify.com/track/24zXIkVezsfxchAQwkT7Dn) | [CHURRO64](https://open.spotify.com/artist/6klhPZOfMdj8KF0FK4ZAjy), [luisa schweig](https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I) | [Wiener Tauben](https://open.spotify.com/album/3PYtGy75BSze40TPy0KJyM) | 2:57 |
+| 13 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
+| 14 | [halb mensch halb tv](https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [halb mensch halb tv](https://open.spotify.com/album/2D1CzrBdHpQY5tWbD1Wr3S) | 2:27 |
 | 15 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
 | 16 | [Legohaus](https://open.spotify.com/track/2oMSQCO1xRtxXDMkG70C5C) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [Legohaus](https://open.spotify.com/album/5YSG12H4A0o4rfb324khzj) | 3:06 |
 | 17 | [Es könnte alles ganz anders sein](https://open.spotify.com/track/1Y3ZEUTGwmL5vhdXb1jngU) | [Kapa Tult](https://open.spotify.com/artist/2wto2E5zWPkws9yYwk81XM) | [Es könnte alles ganz anders sein](https://open.spotify.com/album/2zS8zR8pGV2NLBZQYIUWvD) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wenn du dich entfernst](https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7) | [Jaq](https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV) | [Wenn du dich entfernst](https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M) | 2:43 |
 | 75 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
 
-Snapshot ID: `AAAAAJiRs+MSBj1Zb0h7IDamfI3d3tXE`
+Snapshot ID: `AAAAAO9r5+/FL+8ub30K/2+VIubSMy/d`

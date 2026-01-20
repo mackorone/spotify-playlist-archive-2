@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23773,
+  "num_followers": 23778,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
-      "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 200013,
       "name": "Period",
       "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
+      "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
     },
     {
       "added_at": "2022-10-01 20:31:11",

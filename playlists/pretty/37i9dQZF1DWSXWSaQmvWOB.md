@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,142 likes - 105 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,287 likes - 105 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 104 | [Colors](https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [Colors](https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o) | 3:24 |
 | 105 | [If I Go](https://open.spotify.com/track/714cmvN51nNzhgNbuUagIh) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [If I Go](https://open.spotify.com/album/3OjaVtDPuXV05JoBYGdffT) | 3:20 |
 
-Snapshot ID: `AAAAAOLGTFujaWLKQPTJgL0N/DZy+8CL`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

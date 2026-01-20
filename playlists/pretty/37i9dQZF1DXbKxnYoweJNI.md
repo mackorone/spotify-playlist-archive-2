@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 李拾壹 \(Subyub Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,061 likes - 126 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,051 likes - 126 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

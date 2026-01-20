@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: The Kid LAROI",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Bruno Mars",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224279,
+      "name": "AIR FORCE (BLACK DEMARCO)",
+      "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
+    },
+    {
+      "album": {
         "name": "Akon's Beautiful Day",
         "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
       },
@@ -942,6 +960,24 @@
       "duration_ms": 135570,
       "name": "ALL I WANT IS YOU",
       "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
     },
     {
       "album": {
@@ -1637,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222512,
+      "name": "bad enough",
+      "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
+    },
+    {
+      "album": {
         "name": "Bad Girls Like You (English Version)",
         "url": "https://open.spotify.com/album/4YutPe6yvcZk8u1a6zZ4ao"
       },
@@ -1928,6 +1982,24 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
+        "name": "Beat Yourself Up",
+        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Beat Yourself Up",
+      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
     },
     {
       "album": {
@@ -2736,7 +2808,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 180459,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
@@ -3990,7 +4062,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 170106,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
@@ -4642,6 +4714,24 @@
       "duration_ms": 162888,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"
+    },
+    {
+      "album": {
+        "name": "J.Lo (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5hAy2eMkeCVt128x6Ypqd6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255270,
+      "name": "Crazy (Nobody Else)",
+      "url": "https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb"
     },
     {
       "album": {
@@ -5374,6 +5464,24 @@
       "duration_ms": 229650,
       "name": "Die Happy",
       "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
+    },
+    {
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "album": {
@@ -10672,7 +10780,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 232000,
       "name": "I'LL NEVER KNOW WHY",
       "url": "https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx"
@@ -12546,7 +12654,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 160806,
       "name": "Loitering (ft. Kodak Black)",
       "url": "https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9"
@@ -12582,7 +12690,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 201813,
       "name": "Lonely Touch",
       "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
@@ -15287,6 +15395,28 @@
     },
     {
       "album": {
+        "name": "Not Home",
+        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120624,
+      "name": "Not Home",
+      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -15585,6 +15715,24 @@
     },
     {
       "album": {
+        "name": "Everything I've Wanted To Say (and more)",
+        "url": "https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183115,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3"
+    },
+    {
+      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -15746,6 +15894,36 @@
       "duration_ms": 153684,
       "name": "Optimist",
       "url": "https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO"
+    },
+    {
+      "album": {
+        "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+        "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
     },
     {
       "album": {
@@ -16192,7 +16370,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
@@ -16398,7 +16576,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 184666,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
@@ -16554,7 +16732,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 141203,
       "name": "POWER",
       "url": "https://open.spotify.com/track/3czXRC1ZSS4aYlLAMoxg2y"
@@ -17295,6 +17473,24 @@
     },
     {
       "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172749,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5"
+    },
+    {
+      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
       },
@@ -17346,6 +17542,24 @@
       "duration_ms": 150000,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3lyZM3L5tQdO5UG89C2QFN"
+    },
+    {
+      "album": {
+        "name": "HEAD FIRST",
+        "url": "https://open.spotify.com/album/2bT9Nt5029is0ONsrs2rr2"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151016,
+      "name": "Ruin Me",
+      "url": "https://open.spotify.com/track/06aYveh0EiqRRfewlpdPh5"
     },
     {
       "album": {
@@ -18897,6 +19111,24 @@
     },
     {
       "album": {
+        "name": "Stay Awake",
+        "url": "https://open.spotify.com/album/2N8xjA84dmuw4NZz6BADbB"
+      },
+      "artists": [
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260318,
+      "name": "So Many Days",
+      "url": "https://open.spotify.com/track/3thr1gl0sDyirwmjHU8vuO"
+    },
+    {
+      "album": {
         "name": "So Valentina",
         "url": "https://open.spotify.com/album/4MpNBUEIRyW0jlsBGPgEDE"
       },
@@ -19884,7 +20116,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 232378,
       "name": "Such A Funny Way",
       "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
@@ -20170,7 +20402,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 145758,
       "name": "SWEET LOVE",
       "url": "https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn"
@@ -20188,7 +20420,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
@@ -20450,7 +20682,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 199561,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
@@ -20606,7 +20838,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -20882,7 +21114,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
@@ -22768,6 +23000,24 @@
       "duration_ms": 244013,
       "name": "WALKING AWAY",
       "url": "https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo"
+    },
+    {
+      "album": {
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
       "album": {

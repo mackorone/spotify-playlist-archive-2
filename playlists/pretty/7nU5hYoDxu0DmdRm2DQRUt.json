@@ -1,12 +1,12 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7847,
+  "num_followers": 7849,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOmXWd1D1ilkgNtM9P/yncSvBtIpMZ",
+  "snapshot_id": "AAAOnMuWKJg379a71cTT/3MZbKHtQUvH",
   "tracks": [
     {
       "added_at": "2026-01-16 08:30:48",
@@ -23,6 +23,38 @@
       "duration_ms": 265846,
       "name": "Don't Sync With My Tag - Radio Edit",
       "url": "https://open.spotify.com/track/5KqpaAg2yktK26s6nQzvJJ"
+    },
+    {
+      "added_at": "2026-01-19 11:53:52",
+      "album": {
+        "name": "NEOCLASH",
+        "url": "https://open.spotify.com/album/3AxYDQIJAioVgNDXBF36GG"
+      },
+      "artists": [
+        {
+          "name": "DJ Hell",
+          "url": "https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C"
+        }
+      ],
+      "duration_ms": 563383,
+      "name": "Purple People",
+      "url": "https://open.spotify.com/track/6L4Xniw1SnUqdn13AJNw4i"
+    },
+    {
+      "added_at": "2026-01-19 11:54:13",
+      "album": {
+        "name": "Transfer",
+        "url": "https://open.spotify.com/album/4nIxSsKwtI6vKzIy4M18MY"
+      },
+      "artists": [
+        {
+          "name": "Surface Access",
+          "url": "https://open.spotify.com/artist/5Ev2mHd9pK6LXAg1rDqjOG"
+        }
+      ],
+      "duration_ms": 459000,
+      "name": "Exposition Zero",
+      "url": "https://open.spotify.com/track/5vn885OXc2gvVrJF8r40RD"
     },
     {
       "added_at": "2026-01-16 08:31:38",

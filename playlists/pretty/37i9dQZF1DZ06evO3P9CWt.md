@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,256 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,247 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 18 | [Derretida \- Brunoso Remix](https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:53 |
 | 19 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 |
 | 20 | [SEREIA](https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx) | 2:35 |
-| 21 | [Infinito](https://open.spotify.com/track/36doM5PaSlg0PmCCXgzTJO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 2:45 |
-| 22 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
-| 23 | [KILLA \(feat\. Pabllo Vittar & Isabella Lovestory\)](https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [KILLA \(feat\. Pabllo Vittar & Isabella Lovestory\)](https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1) | 2:05 |
+| 21 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
+| 22 | [KILLA \(feat\. Pabllo Vittar & Isabella Lovestory\)](https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [KILLA \(feat\. Pabllo Vittar & Isabella Lovestory\)](https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1) | 2:05 |
+| 23 | [Infinito](https://open.spotify.com/track/36doM5PaSlg0PmCCXgzTJO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 2:45 |
 | 24 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
 | 25 | [Rubi](https://open.spotify.com/track/6dIkrUW18wrp0402u2It44) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:13 |
 | 26 | [Amor de Que](https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Priscila](https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
 | 50 | [Paraíso](https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Paraíso](https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt) | 2:43 |
 
-Snapshot ID: `aWrRAAAAAAAfWwmtExgVq23ldpEOypvi`
+Snapshot ID: `aWwigAAAAADR5CYaXC4NbWUjOz9BKHzd`

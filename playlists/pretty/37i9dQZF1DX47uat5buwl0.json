@@ -1,13 +1,29 @@
 {
   "description": "\ud83d\udd25\ud83c\udf89",
-  "num_followers": 313203,
+  "num_followers": 313180,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQqHTVr2yZ7toWXJNngnRpSMKg3",
+  "snapshot_id": "AAAAAM/eV1tkuspfTUlD4A0DrAZX+K27",
   "tracks": [
+    {
+      "added_at": "2026-01-15 23:00:32",
+      "album": {
+        "name": "Tot Het Eind Van Mij",
+        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 138671,
+      "name": "Vonken",
+      "url": "https://open.spotify.com/track/1pPegMRuTHfVgdgXtfnFxz"
+    },
     {
       "added_at": "2026-01-15 23:00:32",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 147042,
       "name": "Ode To The Bouncer",
       "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
-    },
-    {
-      "added_at": "2026-01-15 23:00:32",
-      "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj"
-      },
-      "artists": [
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        }
-      ],
-      "duration_ms": 134619,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS"
     },
     {
       "added_at": "2026-01-15 23:00:32",
@@ -67,6 +67,22 @@
       "duration_ms": 129807,
       "name": "Lichten Gaan Aan",
       "url": "https://open.spotify.com/track/5en449sQuxUQh3PBH2O4Iq"
+    },
+    {
+      "added_at": "2026-01-15 23:00:32",
+      "album": {
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "duration_ms": 134619,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS"
     },
     {
       "added_at": "2026-01-15 23:00:32",
@@ -103,18 +119,18 @@
     {
       "added_at": "2026-01-15 23:00:32",
       "album": {
-        "name": "Tot Het Eind Van Mij",
-        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
+        "name": "Stiekem Dansen",
+        "url": "https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci"
       },
       "artists": [
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
         }
       ],
-      "duration_ms": 138671,
-      "name": "Vonken",
-      "url": "https://open.spotify.com/track/1pPegMRuTHfVgdgXtfnFxz"
+      "duration_ms": 214975,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy"
     },
     {
       "added_at": "2026-01-15 23:00:32",
@@ -259,18 +275,38 @@
     {
       "added_at": "2026-01-15 23:00:32",
       "album": {
-        "name": "Stiekem Dansen",
-        "url": "https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci"
+        "name": "Harder Dan De Rest",
+        "url": "https://open.spotify.com/album/3FykLG8XoLtIC3clm73IQD"
       },
       "artists": [
         {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+          "name": "Lustrum Triton",
+          "url": "https://open.spotify.com/artist/4YJ3fLFKp9nTmz2rCt9Fq9"
+        },
+        {
+          "name": "MOMENTUM",
+          "url": "https://open.spotify.com/artist/4hXjXth6uVMW3wugrbmFlM"
+        },
+        {
+          "name": "Youp van Zonneveld",
+          "url": "https://open.spotify.com/artist/0sK7iMSS8fDFQ1l792FENk"
+        },
+        {
+          "name": "Flint Lenaers",
+          "url": "https://open.spotify.com/artist/3SFuljDSfizwCQ5fxRTCN5"
+        },
+        {
+          "name": "Ivo Zoer",
+          "url": "https://open.spotify.com/artist/3DpD5gULV55U6mC9lrUcdq"
+        },
+        {
+          "name": "MAATWERK",
+          "url": "https://open.spotify.com/artist/5VbiuzSW4jBsg5nURcB0lH"
         }
       ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy"
+      "duration_ms": 201642,
+      "name": "Harder Dan De Rest",
+      "url": "https://open.spotify.com/track/0cgDnxrsgFic9NpHdhe6nH"
     },
     {
       "added_at": "2026-01-15 23:00:32",
@@ -415,42 +451,6 @@
       "duration_ms": 187727,
       "name": "Boccaccio",
       "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
-    },
-    {
-      "added_at": "2026-01-15 23:00:32",
-      "album": {
-        "name": "Harder Dan De Rest",
-        "url": "https://open.spotify.com/album/3FykLG8XoLtIC3clm73IQD"
-      },
-      "artists": [
-        {
-          "name": "Lustrum Triton",
-          "url": "https://open.spotify.com/artist/4YJ3fLFKp9nTmz2rCt9Fq9"
-        },
-        {
-          "name": "MOMENTUM",
-          "url": "https://open.spotify.com/artist/4hXjXth6uVMW3wugrbmFlM"
-        },
-        {
-          "name": "Youp van Zonneveld",
-          "url": "https://open.spotify.com/artist/0sK7iMSS8fDFQ1l792FENk"
-        },
-        {
-          "name": "Flint Lenaers",
-          "url": "https://open.spotify.com/artist/3SFuljDSfizwCQ5fxRTCN5"
-        },
-        {
-          "name": "Ivo Zoer",
-          "url": "https://open.spotify.com/artist/3DpD5gULV55U6mC9lrUcdq"
-        },
-        {
-          "name": "MAATWERK",
-          "url": "https://open.spotify.com/artist/5VbiuzSW4jBsg5nURcB0lH"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Harder Dan De Rest",
-      "url": "https://open.spotify.com/track/0cgDnxrsgFic9NpHdhe6nH"
     },
     {
       "added_at": "2026-01-15 23:00:32",

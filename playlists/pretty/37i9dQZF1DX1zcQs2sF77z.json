@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 281732,
+  "num_followers": 281767,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "We Love House - The Anthems",
-        "url": "https://open.spotify.com/album/4wPX46p1gxaXvDYLyWSGTn"
-      },
-      "artists": [
-        {
-          "name": "Gadjo",
-          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
-        },
-        {
-          "name": "Alexandra Prince",
-          "url": "https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "So Many Times",
-      "url": "https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/2eEnzl61veDi3zQylslIap"
       },
@@ -727,22 +707,22 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+        "name": "We Love House - The Anthems",
+        "url": "https://open.spotify.com/album/4wPX46p1gxaXvDYLyWSGTn"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Gadjo",
+          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Alexandra Prince",
+          "url": "https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg"
         }
       ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+      "duration_ms": 241860,
+      "name": "So Many Times",
+      "url": "https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -763,6 +743,26 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2025-12-19 16:17:24",

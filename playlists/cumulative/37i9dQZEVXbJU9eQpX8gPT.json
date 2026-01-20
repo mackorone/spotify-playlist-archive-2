@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 289541,
       "name": "Achkid, Achkid",
       "url": "https://open.spotify.com/track/18pfc1UccNUDBzyydylWVE"
@@ -1636,6 +1636,32 @@
       "duration_ms": 224720,
       "name": "Africain",
       "url": "https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg"
+    },
+    {
+      "album": {
+        "name": "Africallez",
+        "url": "https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "Africallez",
+      "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
     },
     {
       "album": {
@@ -3430,7 +3456,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/0GbxtTOP0qTlL2M12yJqJg"
@@ -4270,7 +4296,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 197466,
       "name": "BGHAWNI",
       "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
@@ -9464,7 +9490,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 177725,
       "name": "Dirou Niyya - Official Moroccan Fan Chant",
       "url": "https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW"
@@ -27842,7 +27868,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 191723,
       "name": "Quand elle danse",
       "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
@@ -28396,7 +28422,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
@@ -37204,7 +37230,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"

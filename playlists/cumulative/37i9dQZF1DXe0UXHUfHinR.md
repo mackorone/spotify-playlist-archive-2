@@ -4,13 +4,13 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-845 songs - 2 day 19 hr 56 min
+846 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 | 2022-10-27 |  |
 | ['Long As You Know You're Living Yours](https://open.spotify.com/track/5z7deaTe21B7QVPhSDouL1) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Belonging](https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv) | 6:10 | 2022-10-27 | 2025-05-13 |
-| ['Round About Midnight \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Street \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q) | 7:03 | 2025-12-04 |  |
+| ['Round About Midnight \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Street \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q) | 7:03 | 2025-12-04 | 2026-01-20 |
 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 | 2022-10-27 |  |
 | ['Round Midnight](https://open.spotify.com/track/5M3K9hIHwyHYWxR2GTpXEd) | [Wes Montgomery Trio](https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp) | [The Wes Montgomery Trio \(Expanded Edition\)](https://open.spotify.com/album/1lzXKC7YtD8taNdv84K54L) | 4:53 | 2022-10-27 |  |
 | ['Round Midnight \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 5:55 | 2022-10-27 | 2026-01-15 |
@@ -782,6 +782,7 @@
 | [Vendome](https://open.spotify.com/track/1L7l5qJeQpqWDigBjxUcQw) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Pyramid](https://open.spotify.com/album/53JQWUSeq9LeRsSLMrXVKZ) | 2:30 | 2022-10-27 | 2025-10-10 |
 | [Vid Frösö kyrka \- From Frösöblomster](https://open.spotify.com/track/6bqNdzv1KHd5C7ae0YbV7r) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Träumerei](https://open.spotify.com/album/0xvKY28Z5isacgZ1CoEn8r) | 4:57 | 2023-10-05 | 2025-08-07 |
 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 | 2023-03-15 |  |
+| [Visa från Rättvik](https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:22 | 2025-12-04 |  |
 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 | 2022-10-27 |  |
 | [Volare](https://open.spotify.com/track/5dIvbV5t3zSKYp1W1kr77v) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:46 | 2023-03-23 | 2024-04-29 |
 | [Volga Boatman](https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Count 'Em 88](https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3) | 3:52 | 2022-10-27 |  |

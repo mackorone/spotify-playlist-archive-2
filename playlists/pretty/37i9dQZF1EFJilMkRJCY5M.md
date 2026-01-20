@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 127 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 127 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 58 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
 | 59 | [Home We Choose](https://open.spotify.com/track/0XxwxPxS2oK6Iv0Ge6DwkB) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Hello California](https://open.spotify.com/album/2PnbNBgtDA7VPdIJaHOYV3) | 4:10 |
 | 60 | [Mustang](https://open.spotify.com/track/2De0YSP8u3FhJDFyOpzdmB) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Mustang](https://open.spotify.com/album/1fgR6If4iS7yOoaHs8uoLD) | 2:44 |
-| 61 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
-| 62 | [Sawed Off Shotgun](https://open.spotify.com/track/4bvNpj3dwfzIxPFJCvsLeh) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [No Hard Feelings](https://open.spotify.com/album/1yTrHdi3czn3taZM9KsCLX) | 2:13 |
+| 61 | [Sawed Off Shotgun](https://open.spotify.com/track/4bvNpj3dwfzIxPFJCvsLeh) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [No Hard Feelings](https://open.spotify.com/album/1yTrHdi3czn3taZM9KsCLX) | 2:13 |
+| 62 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
 | 63 | [Hennessy in Tennessee](https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 2:45 |
 | 64 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
 | 65 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 67 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
 | 68 | [naked](https://open.spotify.com/track/342V5RVC9DFrYfAA6OOJkJ) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:53 |
 | 69 | [Boots to the Club](https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Commitment Issues](https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w) | 2:49 |
-| 70 | [Happy](https://open.spotify.com/track/4juczSsaf3zwU0OZLFgp0a) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Feeling Petty](https://open.spotify.com/album/4zx5HhEbBW4lg0sgVP24Tg) | 2:51 |
-| 71 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 |
+| 70 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 |
+| 71 | [Happy](https://open.spotify.com/track/4juczSsaf3zwU0OZLFgp0a) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Feeling Petty](https://open.spotify.com/album/4zx5HhEbBW4lg0sgVP24Tg) | 2:51 |
 | 72 | [Nobody](https://open.spotify.com/track/5s554C9LZqIWLmC1zqUaJg) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Second Wind](https://open.spotify.com/album/6rjNkK9EEOIHUoqGeaxEhY) | 2:46 |
 | 73 | [h8 u right now](https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/1CYXIOyMtlGPR5a1JcwcTm) | 2:57 |
 | 74 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 126 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 127 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcHTggAAAABff628LFD/KBwVCUIg0PWr`
+Snapshot ID: `AcHZIgAAAAAWtppiaZijkcA98vyQsb/I`

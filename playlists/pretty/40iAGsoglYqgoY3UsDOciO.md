@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 566 likes - 460 songs - 22 hr 20 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 567 likes - 461 songs - 22 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -468,5 +468,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 458 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 |
 | 459 | [Empire](https://open.spotify.com/track/6mjUMGvDzZKmowEHEab8v2) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Empire](https://open.spotify.com/album/37GecuXJd0Q9FDpl2KZjUa) | 2:55 |
 | 460 | [Life crazy](https://open.spotify.com/track/5B03BthFX6Zw0931RWRixA) | [Tymar2k](https://open.spotify.com/artist/2CanSgzsvRDktr0MCZeQY7) | [Life crazy](https://open.spotify.com/album/09m1pEt1RF8D0UP1tKwbMx) | 1:28 |
+| 461 | [Junior Partner](https://open.spotify.com/track/4pttWCJ0GJruYWBneXDLLI) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Junior Partner](https://open.spotify.com/album/0yN6hmxRlPBnFHZMItQaLt) | 4:02 |
 
-Snapshot ID: `AAABbCKp6pjkv8yzDOpFyMSxbWrWy6RO`
+Snapshot ID: `AAABbazmTw0hMOHgIo90EjotcJrmkfdN`

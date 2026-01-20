@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Colombia.",
-  "num_followers": 874617,
+  "num_followers": 874749,
   "original_name": "Top 50 - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQBDQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MQGSaAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Destino Final",
         "url": "https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 177528,
+      "name": "Por Qu\u00e9 la Envidia",
+      "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "HOPI SEND\u00c9",
         "url": "https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM"
@@ -49,43 +65,7 @@
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Con el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 177528,
-      "name": "Por Qu\u00e9 la Envidia",
-      "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Mi Venganza",
-        "url": "https://open.spotify.com/album/5fscxZeKDYQY4JmjS5gBxH"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 191518,
-      "name": "Mi Venganza",
-      "url": "https://open.spotify.com/track/3f4AsGGYt94t7g1lHcsa8D"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -109,7 +89,27 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Mi Venganza",
+        "url": "https://open.spotify.com/album/5fscxZeKDYQY4JmjS5gBxH"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 191518,
+      "name": "Mi Venganza",
+      "url": "https://open.spotify.com/track/3f4AsGGYt94t7g1lHcsa8D"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "El Mejor (Remix)",
         "url": "https://open.spotify.com/album/24jc1fs4ZW1bQdj8cnYREv"
@@ -129,39 +129,7 @@
       "url": "https://open.spotify.com/track/1xRRW5ZrL7I9EG8CGZrXHE"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0Py5k3RPR4YGEPzH3Rq2I4"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 189025,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "MLP",
-        "url": "https://open.spotify.com/album/3iYLojQkMaQHojjIiOTlqM"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 148975,
-      "name": "MLP",
-      "url": "https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
@@ -177,23 +145,23 @@
       "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0Py5k3RPR4YGEPzH3Rq2I4"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+      "duration_ms": 189025,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq"
@@ -249,7 +217,39 @@
       "url": "https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "MLP",
+        "url": "https://open.spotify.com/album/3iYLojQkMaQHojjIiOTlqM"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 148975,
+      "name": "MLP",
+      "url": "https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Todo de Mi (Vol. 4)",
         "url": "https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk"
@@ -265,39 +265,7 @@
       "url": "https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 176481,
-      "name": "qu\u00e9date",
-      "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Con el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 161401,
-      "name": "El Mejor Caballo",
-      "url": "https://open.spotify.com/track/4Udf3NPZZVggwmVXHcjuqA"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Todo de Mi (Vol. 4)",
         "url": "https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk"
@@ -313,7 +281,7 @@
       "url": "https://open.spotify.com/track/3kcr3teEgyTOVIAxMPOPeO"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Con el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
@@ -329,7 +297,39 @@
       "url": "https://open.spotify.com/track/5PB1ITleNasy7UMYEaBWkL"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "qu\u00e9date",
+      "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 161401,
+      "name": "El Mejor Caballo",
+      "url": "https://open.spotify.com/track/4Udf3NPZZVggwmVXHcjuqA"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Aventurero",
         "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -365,23 +365,7 @@
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Se Acab\u00f3",
-        "url": "https://open.spotify.com/album/51DJQhb22aSZFsz6tTBY23"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 166571,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/2T6BBNQW4t81x2ddqWrGzs"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "Quinto Elemento (Deluxe)",
         "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
@@ -397,27 +381,23 @@
       "url": "https://open.spotify.com/track/6829KtrgNt2ZwrsE19nTEd"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "Hasta La Madre",
-        "url": "https://open.spotify.com/album/0eLaG1dlbjNnPX5nKDM1wR"
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/51DJQhb22aSZFsz6tTBY23"
       },
       "artists": [
         {
           "name": "Yeison Jimenez",
           "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        },
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
         }
       ],
-      "duration_ms": 158160,
-      "name": "Hasta La Madre",
-      "url": "https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E"
+      "duration_ms": 166571,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/2T6BBNQW4t81x2ddqWrGzs"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "TRINIDAD BENDITA",
         "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
@@ -441,43 +421,59 @@
       "url": "https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "De Par En Par Pal Mundo",
-        "url": "https://open.spotify.com/album/4DFRG8tIL7XROl5wIqti2l"
+        "name": "Hasta La Madre",
+        "url": "https://open.spotify.com/album/0eLaG1dlbjNnPX5nKDM1wR"
       },
       "artists": [
         {
-          "name": "Luis Silva",
-          "url": "https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         },
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
         }
       ],
-      "duration_ms": 215127,
-      "name": "Como No Voy a Decirlo",
-      "url": "https://open.spotify.com/track/0ToktqlTchGYvCRHUCWnG5"
+      "duration_ms": 158160,
+      "name": "Hasta La Madre",
+      "url": "https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "Mi Promesa (Con el Corazon)",
-        "url": "https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp"
+        "name": "Mal Amor",
+        "url": "https://open.spotify.com/album/6ImNw6NsqZ93Wxj2fGoNhV"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
         }
       ],
-      "duration_ms": 181522,
-      "name": "Maldita Traga",
-      "url": "https://open.spotify.com/track/4ysgNOWbc02RUnCxQMzpeL"
+      "duration_ms": 161935,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "GANAS",
+        "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "TRINIDAD BENDITA",
         "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
@@ -497,27 +493,7 @@
       "url": "https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Stendhal",
-        "url": "https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 204099,
-      "name": "Pikito",
-      "url": "https://open.spotify.com/track/61AeiFmmwjlCC4P5To6cCi"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -553,7 +529,23 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Mi Promesa (Con el Corazon)",
+        "url": "https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 181522,
+      "name": "Maldita Traga",
+      "url": "https://open.spotify.com/track/4ysgNOWbc02RUnCxQMzpeL"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "El Embustero RMX",
         "url": "https://open.spotify.com/album/4kh6zY4pspQVF3KKHzjQXn"
@@ -581,7 +573,7 @@
       "url": "https://open.spotify.com/track/72q1JMsCJbKNbWgzipGi6x"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "BlessDeluxury",
         "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
@@ -597,51 +589,27 @@
       "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "Stendhal",
-        "url": "https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq"
+        "name": "De Par En Par Pal Mundo",
+        "url": "https://open.spotify.com/album/4DFRG8tIL7XROl5wIqti2l"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Luis Silva",
+          "url": "https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 201254,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/21cPb84RhAWCzp0wIUGPlk"
+      "duration_ms": 215127,
+      "name": "Como No Voy a Decirlo",
+      "url": "https://open.spotify.com/track/0ToktqlTchGYvCRHUCWnG5"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "D\u00d3NDE",
-      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "COMO OREO",
         "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
@@ -665,7 +633,43 @@
       "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "D\u00d3NDE",
+      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 195535,
+      "name": "Vuelve y Me Pasa",
+      "url": "https://open.spotify.com/track/44H1DiJAOMSAMZWv0M8ceq"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
@@ -685,71 +689,43 @@
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "GANAS",
-        "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 190843,
-      "name": "GANAS",
-      "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "Con el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 195535,
-      "name": "Vuelve y Me Pasa",
-      "url": "https://open.spotify.com/track/44H1DiJAOMSAMZWv0M8ceq"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Mal Amor",
-        "url": "https://open.spotify.com/album/6ImNw6NsqZ93Wxj2fGoNhV"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Posada",
-          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
-        }
-      ],
-      "duration_ms": 161935,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
         {
           "name": "Be\u00e9le",
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 189456,
-      "name": "top diesel",
-      "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "How You Bad Suh",
         "url": "https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U"
@@ -777,59 +753,23 @@
       "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
       },
       "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
         {
           "name": "Be\u00e9le",
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
+      "duration_ms": 189456,
+      "name": "top diesel",
+      "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "Mi Promesa (Con el Corazon)",
-        "url": "https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Tenias Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0HUTsCrOJIiwFBudMsnALY"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
@@ -849,27 +789,39 @@
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "The Bad Boy",
-        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+        "name": "Mi Promesa (Con el Corazon)",
+        "url": "https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 235626,
-      "name": "El Tel\u00e9fono",
-      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+      "duration_ms": 216315,
+      "name": "Tenias Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0HUTsCrOJIiwFBudMsnALY"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "MUSA",
         "url": "https://open.spotify.com/album/6SC8IjAaG1Pg9QAh6Oar59"
@@ -889,7 +841,47 @@
       "url": "https://open.spotify.com/track/0QuHK1VvIZ1Kt2GfqRrdVo"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "YO y T\u00da",
         "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
@@ -913,26 +905,10 @@
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172426,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
-    },
-    {
-      "added_at": "2026-01-18 14:23:40",
-      "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC"
       },
       "artists": [
         {
@@ -940,12 +916,32 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 163560,
+      "duration_ms": 163693,
       "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+      "url": "https://open.spotify.com/track/3m98lKb7jsNlcOgDYSvYvp"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
+      "album": {
+        "name": "Machete Music Chronicles: Vol. I",
+        "url": "https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
+    },
+    {
+      "added_at": "2026-01-19 14:22:54",
       "album": {
         "name": "afroLOVA 25'",
         "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
@@ -961,48 +957,44 @@
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "MUSA REMIX",
-        "url": "https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes"
+        "name": "Stendhal",
+        "url": "https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "CARABIN3",
-          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         },
         {
-          "name": "svnti",
-          "url": "https://open.spotify.com/artist/3FtKKNslTacsC8L0GymuMR"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 210370,
-      "name": "MUSA REMIX",
-      "url": "https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR"
+      "duration_ms": 201254,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/21cPb84RhAWCzp0wIUGPlk"
     },
     {
-      "added_at": "2026-01-18 14:23:40",
+      "added_at": "2026-01-19 14:22:54",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+      "duration_ms": 212520,
+      "name": "Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/6jbDhMUR3Hc3yVPT2tEVxY"
     }
   ],
   "unique_name": "Top 50 - Colombia",

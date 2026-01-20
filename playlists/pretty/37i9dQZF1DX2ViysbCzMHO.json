@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175671,
+  "num_followers": 175679,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "Gone Too Soon (Acoustic)",
         "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "All I Know About Girls",
         "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 164333,
       "name": "All I Know About Girls",
       "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "You, Me, And Whiskey (Acoustic)",
         "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
     },
     {
       "added_at": "2026-01-16 05:00:43",

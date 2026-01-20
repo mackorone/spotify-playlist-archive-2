@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 280655,
+  "num_followers": 280950,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
     },
     {
+      "added_at": "2025-05-30 00:01:31",
+      "album": {
+        "name": "Eze Abata",
+        "url": "https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a"
+      },
+      "artists": [
+        {
+          "name": "Amb. Sis. Chinyere Udoma",
+          "url": "https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6"
+        }
+      ],
+      "duration_ms": 496886,
+      "name": "Eze Abata",
+      "url": "https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "You Are Great",
@@ -795,22 +811,6 @@
       "duration_ms": 183050,
       "name": "You Are Great",
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
-    },
-    {
-      "added_at": "2025-05-30 00:01:31",
-      "album": {
-        "name": "Eze Abata",
-        "url": "https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a"
-      },
-      "artists": [
-        {
-          "name": "Amb. Sis. Chinyere Udoma",
-          "url": "https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6"
-        }
-      ],
-      "duration_ms": 496886,
-      "name": "Eze Abata",
-      "url": "https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M"
     },
     {
       "added_at": "2025-10-24 00:01:23",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
-      "added_at": "2025-08-22 00:01:27",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -907,22 +891,38 @@
     {
       "added_at": "2025-08-22 00:01:27",
       "album": {
-        "name": "King Of Hearts",
-        "url": "https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw"
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 339267,
-      "name": "I Know A Name (with Cece Winans)",
-      "url": "https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW"
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
+    },
+    {
+      "added_at": "2025-11-14 00:01:35",
+      "album": {
+        "name": "Anchor of My Strength",
+        "url": "https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz"
+      },
+      "artists": [
+        {
+          "name": "Paul CleverLee",
+          "url": "https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY"
+        },
+        {
+          "name": "Gerald Bishung",
+          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "Anchor of My Strength",
+      "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -965,24 +965,24 @@
       "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
-      "added_at": "2025-11-14 00:01:35",
+      "added_at": "2025-08-22 00:01:27",
       "album": {
-        "name": "Anchor of My Strength",
-        "url": "https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz"
+        "name": "King Of Hearts",
+        "url": "https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw"
       },
       "artists": [
         {
-          "name": "Paul CleverLee",
-          "url": "https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         },
         {
-          "name": "Gerald Bishung",
-          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 190293,
-      "name": "Anchor of My Strength",
-      "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
+      "duration_ms": 339267,
+      "name": "I Know A Name (with Cece Winans)",
+      "url": "https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -999,22 +999,6 @@
       "duration_ms": 583624,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/2jStgsgQWFNIKdloTLJd6F"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 168000,
       "name": "Jireh (My Provider)",
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2025-02-28 00:01:32",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
-    },
-    {
       "added_at": "2025-01-10 12:57:52",
       "album": {
         "name": "Let It Show (Live)",
@@ -1111,6 +1095,22 @@
       "duration_ms": 479824,
       "name": "Let It Show (Live)",
       "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2025-08-22 00:01:27",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
     },
     {
+      "added_at": "2025-03-28 00:01:10",
+      "album": {
+        "name": "Tare (Live)",
+        "url": "https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 477280,
+      "name": "Tare (Live)",
+      "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
@@ -1181,20 +1197,24 @@
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
-      "added_at": "2025-03-28 00:01:10",
+      "added_at": "2026-01-09 00:01:27",
       "album": {
-        "name": "Tare (Live)",
-        "url": "https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v"
+        "name": "Amioluwa",
+        "url": "https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
         }
       ],
-      "duration_ms": 477280,
-      "name": "Tare (Live)",
-      "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
+      "duration_ms": 607129,
+      "name": "Amioluwa",
+      "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
     },
     {
       "added_at": "2025-08-01 00:01:33",
@@ -1235,26 +1255,6 @@
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
-    },
-    {
-      "added_at": "2026-01-09 00:01:27",
-      "album": {
-        "name": "Amioluwa",
-        "url": "https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Yinka Okeleye",
-          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
-        }
-      ],
-      "duration_ms": 607129,
-      "name": "Amioluwa",
-      "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
     },
     {
       "added_at": "2025-08-22 00:01:27",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Holy Spirit",
-        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Truth in Sounds",
@@ -1423,6 +1407,22 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
     },
     {
       "added_at": "2024-02-16 00:01:00",

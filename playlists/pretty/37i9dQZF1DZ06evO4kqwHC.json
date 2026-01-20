@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1098764,
+  "num_followers": 1098792,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAAaKaydjVJ/s5Eo0BUNdx2R",
+  "snapshot_id": "aWwigAAAAABOoskGpH/gjEyjwVJF5FX7",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+      "duration_ms": 132840,
+      "name": "Big Me",
+      "url": "https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 132840,
-      "name": "Big Me",
-      "url": "https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE"
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 245269,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Hey, Johnny Park!",
-      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 320937,
       "name": "Stranger Things Have Happened",
       "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Hey, Johnny Park!",
+      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 208696,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+      "duration_ms": 83800,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 83800,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+      "duration_ms": 208696,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 283469,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 257433,
-      "name": "Shame Shame",
-      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 245666,
       "name": "Alone + Easy Target",
       "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 257433,
+      "name": "Shame Shame",
+      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
     }
   ],
   "unique_name": "This Is Foo Fighters",

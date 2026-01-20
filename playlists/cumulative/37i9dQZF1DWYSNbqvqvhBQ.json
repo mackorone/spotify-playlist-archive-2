@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Douwe Bob",
+  "description": "Nieuwe tijdloze muziek. Cover: Robbie Williams",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -460,6 +460,24 @@
       "duration_ms": 183000,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/72Fj6ojPQ2FQMhBunQzVQo"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
     },
     {
       "album": {
@@ -12591,6 +12609,24 @@
     },
     {
       "album": {
+        "name": "This Is All I'll Be",
+        "url": "https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190117,
+      "name": "This Is All I'll Be",
+      "url": "https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF"
+    },
+    {
+      "album": {
         "name": "Music For M\u00e1xima",
         "url": "https://open.spotify.com/album/4vMDbU5x6H7xl2oEWkPqlN"
       },
@@ -14038,6 +14074,24 @@
       "duration_ms": 181346,
       "name": "WHEN IT HURTS",
       "url": "https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk"
+    },
+    {
+      "album": {
+        "name": "When The Cool Kids Ruled",
+        "url": "https://open.spotify.com/album/157KHW4i0TBGCz3gHkzBxM"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179389,
+      "name": "When The Cool Kids Ruled",
+      "url": "https://open.spotify.com/track/3Hu4BWIaB52Ewje9HnFPDZ"
     },
     {
       "album": {

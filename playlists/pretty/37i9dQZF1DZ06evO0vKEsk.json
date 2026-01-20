@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132890,
+  "num_followers": 132891,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAARzp/7e5TZdFkSbTatF7fg",
+  "snapshot_id": "aWwigAAAAACjtwDi0RAzS2yqHLwcy6jk",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278593,
+      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
+      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rendido Estou (Arms Open Wide)",
         "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278593,
-      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
-      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marca da Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 333002,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 467647,
       "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marca da Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 333002,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,317 likes - 45 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,323 likes - 45 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/4ZDJgi4ggmO9A7utskAbwk) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 5:00 |
-| 2 | [Volver](https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores Vol\. 2](https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS) | 4:54 |
+| 1 | [Volver](https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores Vol\. 2](https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS) | 4:54 |
+| 2 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/4ZDJgi4ggmO9A7utskAbwk) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 5:00 |
 | 3 | [Quiero Saber de Ti](https://open.spotify.com/track/0e3lJIEqUMNMf0S1WLjdkL) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:57 |
 | 4 | [Recuérdame](https://open.spotify.com/track/340jJsTcuT8ZgBX2caldg3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 3:27 |
 | 5 | [Buscare Otro Amor](https://open.spotify.com/track/1b1fgYQgiR1Ynmy8pwx9Yy) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:05 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 44 | [Si La Ves](https://open.spotify.com/track/5YQFXXgC97Hh82y4sTB3gI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:39 |
 | 45 | [Vete](https://open.spotify.com/track/1Ir71MW29zzalqJyjE4xXm) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 4:45 |
 
-Snapshot ID: `aWrRAAAAAAC9Fdg/wfNQARMZNJqj7ly8`
+Snapshot ID: `aWwigAAAAAC2UvYjLFHeu9z7FvWcPI5A`

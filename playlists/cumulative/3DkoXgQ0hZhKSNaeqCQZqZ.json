@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Forgive Me Please",
+        "url": "https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "But Here I Am",
+      "url": "https://open.spotify.com/track/368hTXXzUrlW3uqxBrSbjA"
+    },
+    {
+      "album": {
         "name": "By The Pier",
         "url": "https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ"
       },
@@ -6224,6 +6242,28 @@
       "duration_ms": 192496,
       "name": "Pop Rocks",
       "url": "https://open.spotify.com/track/2s7CHkCAkTKVPhRWiPcOa6"
+    },
+    {
+      "album": {
+        "name": "camelCase",
+        "url": "https://open.spotify.com/album/7FVvGt3r2POOmQDdNbBv3n"
+      },
+      "artists": [
+        {
+          "name": "theSpackster",
+          "url": "https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg"
+        },
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93454,
+      "name": "POP! THAT! POOLTOY! - WONDER MIX",
+      "url": "https://open.spotify.com/track/4x4tUMqjPl8UHS13pMybbm"
     },
     {
       "album": {

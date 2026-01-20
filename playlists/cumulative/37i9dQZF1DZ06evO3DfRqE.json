@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Live In Japan",
+        "url": "https://open.spotify.com/album/4XUBoESFpIV1iVqgjoDi37"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319480,
+      "name": "Ichigo Ichie",
+      "url": "https://open.spotify.com/track/13aNNVGlBoy8amVwVvnIgB"
+    },
+    {
+      "album": {
         "name": "Nature Spirit",
         "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 276386,
       "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
       "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"

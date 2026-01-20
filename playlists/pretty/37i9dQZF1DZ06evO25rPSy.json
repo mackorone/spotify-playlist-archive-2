@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25092,
+  "num_followers": 25091,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAAANvXe6I8aly503wGLBFcAK",
+  "snapshot_id": "aWwigAAAAACPT6c+Cixo7GpuQ5n7V7e4",
   "tracks": [
     {
       "added_at": null,
@@ -308,41 +308,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Sentimiento Increible",
-      "url": "https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Tema del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(No Existen) T\u00e9cnicas para Olvidar",
-        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Globo de Gas",
-      "url": "https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r"
+      "duration_ms": 238360,
+      "name": "Mi Auto Era Una Rana",
+      "url": "https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv"
     },
     {
       "added_at": null,
@@ -363,6 +331,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "(No Existen) T\u00e9cnicas para Olvidar",
+        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Globo de Gas",
+      "url": "https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Tema del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00f3ntelo en la Lengua",
         "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
       },
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Mi Auto Era Una Rana",
-      "url": "https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv"
+      "duration_ms": 209133,
+      "name": "Sentimiento Increible",
+      "url": "https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB"
     },
     {
       "added_at": null,

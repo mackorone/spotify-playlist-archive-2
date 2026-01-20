@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1178,
+  "num_followers": 1182,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAPWXbri4yPfInjNOK2Y7BrnwjuLBwZ",
+  "snapshot_id": "AAAPXSnoZ4aLFY2Cddvzrz8mzBRziNKs",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -2751,6 +2751,74 @@
       "duration_ms": 238932,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu"
+    },
+    {
+      "added_at": "2026-01-19 16:57:38",
+      "album": {
+        "name": "Itching Through the Permafrost",
+        "url": "https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY"
+      },
+      "artists": [
+        {
+          "name": "South August",
+          "url": "https://open.spotify.com/artist/0xIi0tD6QNXv9Oq0lEw2Bl"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/1vAACesNNPk8WAv26SmVUf"
+    },
+    {
+      "added_at": "2026-01-19 16:57:44",
+      "album": {
+        "name": "Atardece / Beben Sangre",
+        "url": "https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq"
+      },
+      "artists": [
+        {
+          "name": "SONORAMiCOS",
+          "url": "https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE"
+        }
+      ],
+      "duration_ms": 245356,
+      "name": "Atardece",
+      "url": "https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai"
+    },
+    {
+      "added_at": "2026-01-19 16:58:02",
+      "album": {
+        "name": "Three woman in jail",
+        "url": "https://open.spotify.com/album/35tCEptF8FdvmYdza8vIWx"
+      },
+      "artists": [
+        {
+          "name": "Aton O'Cat",
+          "url": "https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm"
+        },
+        {
+          "name": "Goran Vedri\u0161",
+          "url": "https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Three woman in jail",
+      "url": "https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh"
+    },
+    {
+      "added_at": "2026-01-19 16:58:45",
+      "album": {
+        "name": "Les livres de Marion",
+        "url": "https://open.spotify.com/album/4ifJdAEsCDjmBpw8h6SNo7"
+      },
+      "artists": [
+        {
+          "name": "Jagas",
+          "url": "https://open.spotify.com/artist/4nAbDrow4N3vQoqUrSrCIk"
+        }
+      ],
+      "duration_ms": 236616,
+      "name": "Les livres de Marion",
+      "url": "https://open.spotify.com/track/5Bjf4hqznBHRPJDAFMhddF"
     }
   ],
   "unique_name": "New Indie Music",

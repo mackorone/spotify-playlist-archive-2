@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc7a5\uc218\ube48 (Jang Soo Bin)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: can\u2019t be blue (\uce94\ud2b8\ube44\ube14\ub8e8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -16291,6 +16291,24 @@
     },
     {
       "album": {
+        "name": "Prussian Blue",
+        "url": "https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Should be you",
+      "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
+    },
+    {
+      "album": {
         "name": "showtime",
         "url": "https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl"
       },
@@ -19428,7 +19446,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 228000,
       "name": "To The One",
       "url": "https://open.spotify.com/track/00babQKpTcxbh8kKsATc0R"
@@ -19580,6 +19598,24 @@
       "duration_ms": 204923,
       "name": "Too slow",
       "url": "https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x"
+    },
+    {
+      "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261462,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt"
     },
     {
       "album": {
@@ -20703,6 +20739,24 @@
     },
     {
       "album": {
+        "name": "OVER//DRIVE",
+        "url": "https://open.spotify.com/album/0eddSmD2hjsYT7cHsYcQOd"
+      },
+      "artists": [
+        {
+          "name": "FRankly",
+          "url": "https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "We\u2032re Never Going Back",
+      "url": "https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3"
+    },
+    {
+      "album": {
         "name": "What can I do",
         "url": "https://open.spotify.com/album/4eV349LplmfXn5COoDAriG"
       },
@@ -21192,7 +21246,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 207987,
       "name": "Winter Coming Home",
       "url": "https://open.spotify.com/track/2Tzec1QsW7c9FWw45LyM7l"
@@ -21958,7 +22012,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 168428,
       "name": "Your love is mine",
       "url": "https://open.spotify.com/track/0OKuPzCoU3Mw6pmMWxef2h"

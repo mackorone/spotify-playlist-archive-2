@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 90 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 |
 | 91 | [Internet Junkie](https://open.spotify.com/track/2a0fitf8tonP7KbQ9KrSDs) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Wallow in It](https://open.spotify.com/album/4X5cguwixSn1TppGbxdGRG) | 3:04 |
 | 92 | [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 |
-| 93 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 |
-| 94 | [rhythm of love](https://open.spotify.com/track/2Wbbwo15KF1eGPQKgCwDL6) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:58 |
+| 93 | [rhythm of love](https://open.spotify.com/track/2Wbbwo15KF1eGPQKgCwDL6) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:58 |
+| 94 | [New Eyes](https://open.spotify.com/track/7iMfuQDXKZW27BzTbqcoP5) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [New Eyes](https://open.spotify.com/album/6Ts3DkmshODnrh3AuDlvHC) | 3:29 |
 | 95 | [Joy of Missing Out](https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Sugarcoat](https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL) | 3:11 |
 | 96 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 |
 | 97 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 107 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 108 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AcHTggAAAABUDVRDAfkp0OklM6I5+Wbw`
+Snapshot ID: `AcHZIgAAAADCLnDcF/q1N3lDFJppH4+x`

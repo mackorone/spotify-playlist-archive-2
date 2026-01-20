@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,959 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,989 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 32 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
 | 33 | [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 |
 | 34 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
-| 35 | [Nammavemo](https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF) | [Saketh Naidu](https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v) | [Parugu](https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C) | 4:46 |
-| 36 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 |
+| 35 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 |
+| 36 | [Nammavemo](https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF) | [Saketh Naidu](https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v) | [Parugu](https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C) | 4:46 |
 | 37 | [Poovullo Daagunna](https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Jeans](https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt) | 6:55 |
 | 38 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
 | 39 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |

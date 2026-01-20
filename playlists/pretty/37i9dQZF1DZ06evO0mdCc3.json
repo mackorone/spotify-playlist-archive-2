@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 15861,
+  "num_followers": 15865,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWrRAAAAAADQrRzPCr0kkog5c5mq9LEl",
+  "snapshot_id": "aWwigAAAAAA1fjJq2cS46jQF2q8hwnBX",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+        "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Into The Darkness",
-      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
+      "duration_ms": 186457,
+      "name": "Do You Think I'm a Whore? XXV",
+      "url": "https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 186457,
-      "name": "Do You Think I'm a Whore? XXV",
-      "url": "https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI"
+      "duration_ms": 218386,
+      "name": "Into The Darkness",
+      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
     },
     {
       "added_at": null,

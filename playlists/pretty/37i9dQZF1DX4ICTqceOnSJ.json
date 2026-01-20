@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 413223,
+  "num_followers": 413234,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 244979,
+      "name": "Otra Era",
+      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "El Fin del Mundo",
         "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 244979,
-      "name": "Otra Era",
-      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 229842,
-      "name": "A 1200 Km",
-      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 223027,
       "name": "Yo No Te Pido la Luna",
       "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 229842,
+      "name": "A 1200 Km",
+      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rey Pila",
         "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
         }
       ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+      "duration_ms": 216566,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 230346,
       "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
       "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2024-06-14 04:59:00",

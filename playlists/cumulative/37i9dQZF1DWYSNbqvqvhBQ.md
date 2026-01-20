@@ -2,9 +2,9 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek\. Cover: Douwe Bob
+> Nieuwe tijdloze muziek\. Cover: Robbie Williams
 
-788 songs - 1 day 22 hr 0 min
+791 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/6vcuJ0lxMSbIZDToFEfyFI) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [All I Ever Wanted](https://open.spotify.com/album/4rQWKrHV9WQL9igdrcpwDT) | 4:18 | 2023-02-23 | 2023-03-25 |
 | [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 | 2023-10-27 | 2024-03-15 |
 | [All My Life](https://open.spotify.com/track/72Fj6ojPQ2FQMhBunQzVQo) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [All My Life](https://open.spotify.com/album/18L4eOWRTuUuJnTcvIbz6q) | 3:03 | 2024-06-20 | 2024-10-04 |
+| [All My Life](https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [All My Life](https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO) | 3:53 | 2026-01-19 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-21 | 2025-03-28 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 | 2023-08-25 |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2023-12-05 | 2024-05-14 |
@@ -687,6 +688,7 @@
 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 | 2023-09-28 | 2023-10-13 |
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-11 | 2023-09-29 |
 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2024-06-27 | 2024-11-15 |
+| [This Is All I'll Be](https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [This Is All I'll Be](https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC) | 3:10 | 2026-01-19 |  |
 | [This Is My Time](https://open.spotify.com/track/6pIGY3LzqTlx7qAveBuDnj) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Music For Máxima](https://open.spotify.com/album/4vMDbU5x6H7xl2oEWkPqlN) | 2:35 | 2024-05-16 | 2024-08-02 |
 | [This Is The Moment](https://open.spotify.com/track/6XKqVWF9BPvY2mscmS7R5u) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [This Is The Moment](https://open.spotify.com/album/7Hr7LXwraM9Hd6FuQ36LHe) | 3:20 | 2023-02-23 | 2023-04-14 |
 | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp) | 3:28 | 2024-06-27 | 2024-09-13 |
@@ -764,6 +766,7 @@
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2023-05-09 | 2023-11-03 |
 | [WHEN IT HURTS](https://open.spotify.com/track/3AOHXWSY2iFEXPpIwLfYcP) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:01 | 2023-04-13 | 2023-09-12 |
 | [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 | 2023-04-17 |
+| [When The Cool Kids Ruled](https://open.spotify.com/track/3Hu4BWIaB52Ewje9HnFPDZ) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [When The Cool Kids Ruled](https://open.spotify.com/album/157KHW4i0TBGCz3gHkzBxM) | 2:59 | 2026-01-19 |  |
 | [Where Do You Go](https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Where Do You Go](https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm) | 3:09 | 2024-11-21 | 2025-05-23 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 | 2025-11-08 |
 | [Where The Mind Goes](https://open.spotify.com/track/0RxgPLc1JxOEK9t62MwpGX) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Where The Mind Goes](https://open.spotify.com/album/1jKk1OAj9vnphzcpKHxlVI) | 2:40 | 2025-03-28 | 2025-04-12 |

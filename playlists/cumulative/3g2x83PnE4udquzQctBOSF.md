@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-462 songs - 1 day 3 hr 44 min
+465 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 | 2025-02-01 |
 | [Mind Off](https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Off](https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK) | 3:10 | 2024-01-14 | 2024-03-11 |
 | [Minimal Paradise](https://open.spotify.com/track/5UgRr3D6jRH3TizqHETLk5) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B) | [Lifetime Groove](https://open.spotify.com/album/776BiweNwMpXfsJxt1hb9B) | 5:50 | 2025-12-31 | 2026-01-03 |
+| [Miralo](https://open.spotify.com/track/15dmQtKObOYkdL8jeGXrS2) | [Daniele Polge](https://open.spotify.com/artist/5VW0vABbPzjpG5B81MfyiZ) | [Miralo](https://open.spotify.com/album/1cayVZYSIEsCaR073LvZyN) | 3:57 | 2026-01-19 |  |
 | [Moanin'](https://open.spotify.com/track/0G0d4LMmKhESVwj2KFvZc7) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Moanin'](https://open.spotify.com/album/1udtPFA6pYNDvUedNQwv2m) | 3:34 | 2024-05-19 | 2024-07-08 |
 | [Money Dance \- Original Mix](https://open.spotify.com/track/1YvdIDmn2QkL38kGDEb8Os) | [Brugio](https://open.spotify.com/artist/5vz838WN1qjvf2KTRngw8i) | [Manawa Sound \- 02](https://open.spotify.com/album/7DfkLGTcZfCxSDkRcPrH9j) | 4:31 | 2024-10-13 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-09-17 | 2023-12-14 |
@@ -315,6 +316,7 @@
 | [no quiero hablar mas con mi mente](https://open.spotify.com/track/4erwWa7FDbpXfB6iOX5pDa) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [ultimo verano](https://open.spotify.com/album/6WK5IArf4z1QP9UXYHom4I) | 3:31 | 2026-01-12 |  |
 | [No Stoppin'](https://open.spotify.com/track/4MqZA9u2BDdFheypDOjAxU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [No Stoppin'](https://open.spotify.com/album/5n5T2dugUpP3orPV6aWYRh) | 3:02 | 2023-07-16 | 2023-08-20 |
 | [NVRBE](https://open.spotify.com/track/5VhcagXIZLl89yVBMKXcdX) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Again](https://open.spotify.com/album/3UfZC0DQt2irfvnUWQ8yhW) | 5:25 | 2023-08-06 | 2023-09-26 |
+| [Off Your Bracket](https://open.spotify.com/track/492WSHQhv8dgMkj59ofKgG) | [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Off Your Bracket](https://open.spotify.com/album/2McCPdam3WOCIYPnXHr4M0) | 6:03 | 2026-01-19 |  |
 | [ON YA MARK](https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [ON YA MARK](https://open.spotify.com/album/2LTSKqCad4wS9IAWkswsFe) | 6:31 | 2024-04-14 | 2024-07-08 |
 | [Only Love Matters \- Part 1 \- London](https://open.spotify.com/track/6P45k6uEzsbuXlL6t1qEha) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only Love Matters \(Part 1 \- London\)](https://open.spotify.com/album/0nlGjAwuEminR5Nd1i6Cij) | 2:17 | 2025-12-12 | 2026-01-03 |
 | [Only love matters \- Part 2 \- Tokyo](https://open.spotify.com/track/4TTtutuSdhUSp1VAs60k3U) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters \(Part 2 \- Tokyo\)](https://open.spotify.com/album/7cVCgIn6MPBDIZoOoNKMVy) | 2:16 | 2025-12-16 | 2026-01-03 |
@@ -434,6 +436,7 @@
 | [Trees](https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Trees](https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg) | 3:02 | 2023-05-12 | 2024-07-02 |
 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |
 | [Twentyk](https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv) | [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Break The Roof EP](https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ) | 3:35 | 2023-12-10 | 2024-02-19 |
+| [Un vacío en el ser me dejaste](https://open.spotify.com/track/2v3K6Y1Z9SMhsapgvae9IU) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [House latino por un mundo mejor](https://open.spotify.com/album/5gsQQyh19aGYDGvNzfdY2K) | 3:48 | 2026-01-19 |  |
 | [Unplug](https://open.spotify.com/track/1lMfEjN2aKjpGtapViabUo) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Unplug EP](https://open.spotify.com/album/0hPx4gWeqLaZv3FouezDUK) | 3:27 | 2024-10-13 |  |
 | [Ur Soul](https://open.spotify.com/track/6Wo1JXT5HBSDwbuMwXboh1) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Ur Soul](https://open.spotify.com/album/2neMSzeB6NODYQ65h6jrx9) | 3:29 | 2024-03-24 | 2024-05-20 |
 | [Vankara](https://open.spotify.com/track/6RtjeiSNc8aS1t7jB7A60k) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Vankara](https://open.spotify.com/album/0iEDRaHlD05PL0CgXQQb86) | 2:36 | 2023-01-15 | 2023-02-13 |

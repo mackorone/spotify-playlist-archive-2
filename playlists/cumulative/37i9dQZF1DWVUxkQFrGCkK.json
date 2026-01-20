@@ -3467,6 +3467,32 @@
     },
     {
       "album": {
+        "name": "Burning Bright, pt. II",
+        "url": "https://open.spotify.com/album/2BExcohtZcLb984JR4C9XQ"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Art",
+          "url": "https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M"
+        },
+        {
+          "name": "ISIKO",
+          "url": "https://open.spotify.com/artist/5oAxiIrZ5glZIg3RkQEixN"
+        },
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198689,
+      "name": "Burning Bright, pt. II",
+      "url": "https://open.spotify.com/track/3x1EDL2tBIjgTzfFUFHab2"
+    },
+    {
+      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },

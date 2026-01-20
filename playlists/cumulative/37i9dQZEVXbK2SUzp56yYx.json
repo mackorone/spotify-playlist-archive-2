@@ -964,7 +964,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -7076,7 +7076,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -7494,7 +7494,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 313638,
       "name": "Fire In My Heart",
       "url": "https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z"
@@ -23450,7 +23450,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 177386,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
@@ -29886,7 +29886,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "\u0414\u0430\u0432\u0430\u0439 \u0441\u043e \u043c\u043d\u043e\u0439 \u0437\u0430 \u0437\u0432\u0451\u0437\u0434\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/0FNdvLOlLpi6YMqjpCD2Yv"
@@ -30454,7 +30454,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 168595,
       "name": "\u0434\u0443\u043c\u0430\u044e \u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/2rG0vMueQK6ocCn05MM1hw"
@@ -30698,7 +30698,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 181330,
       "name": "\u0415\u0449\u0451 \u0436\u0438\u0432",
       "url": "https://open.spotify.com/track/1Y4nzw1nvTX2srrizgo0Vv"
@@ -31552,6 +31552,24 @@
       "duration_ms": 136363,
       "name": "\u0438\u0441\u043a\u0440\u044b \u0445\u0440\u043e\u043c\u0430",
       "url": "https://open.spotify.com/track/1cAKLuUkmd8XmbVjfc1EZN"
+    },
+    {
+      "album": {
+        "name": "\u041a \u0442\u0435\u0431\u0435 \u0433\u043e\u0442\u043e\u0432 \u0438\u0434\u0442\u0438 \u0431\u043e\u0441\u0438\u043a\u043e\u043c",
+        "url": "https://open.spotify.com/album/0SqhcJW85JQoL7aaZlugoa"
+      },
+      "artists": [
+        {
+          "name": "ARYA MUSIC",
+          "url": "https://open.spotify.com/artist/2LtP54MTPVUjGMcI75J7yA"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295105,
+      "name": "\u041a \u0442\u0435\u0431\u0435 \u0433\u043e\u0442\u043e\u0432 \u0438\u0434\u0442\u0438 \u0431\u043e\u0441\u0438\u043a\u043e\u043c",
+      "url": "https://open.spotify.com/track/43Z3PFZY1K1XND6erVE5VU"
     },
     {
       "album": {
@@ -33000,7 +33018,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 111716,
       "name": "\u041b\u0438\u0448\u044c \u043e \u043d\u0451\u043c \u0438 \u0433\u043e\u0432\u043e\u0440\u044f\u0442",
       "url": "https://open.spotify.com/track/7caNarMsp82xK9OWQcljtp"
@@ -40730,7 +40748,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 97044,
       "name": "\u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/226f8Xp57S5smoh4UbdSgQ"
@@ -41834,6 +41852,24 @@
       "duration_ms": 105200,
       "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/5sGKghKnKrufLzx3fwTr0i"
+    },
+    {
+      "album": {
+        "name": "\u0423 \u043c\u0435\u043d\u044f \u0441\u0432\u043e\u044f \u043f\u043e\u0433\u043e\u0434\u0430!",
+        "url": "https://open.spotify.com/album/7Bw1FxvPh1zYy2GqXSyidi"
+      },
+      "artists": [
+        {
+          "name": "\u0418\u0440\u0438\u043d\u0430 \u0417\u0430\u0432\u0430\u0434\u0441\u043a\u0430\u044f",
+          "url": "https://open.spotify.com/artist/6NaxKMPkD2rFlWhijbTFJj"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139799,
+      "name": "\u0423 \u043c\u0435\u043d\u044f \u0441\u0432\u043e\u044f \u043f\u043e\u0433\u043e\u0434\u0430!",
+      "url": "https://open.spotify.com/track/10jpq2wRJ5WrDL995eHLzw"
     },
     {
       "album": {

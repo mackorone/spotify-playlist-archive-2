@@ -4,7 +4,7 @@
 
 > ang lalim
 
-301 songs - 18 hr 37 min
+303 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ang Ilaw Mo](https://open.spotify.com/track/41nU0pp66IAP19b7dwLQ7V) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Ang Ilaw Mo](https://open.spotify.com/album/67Ri7UIqsLVWmOBVlYG05H) | 3:56 | 2025-11-17 | 2025-11-25 |
 | [Ang Pag\-ibig](https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Pag\-ibig](https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP) | 4:47 | 2023-10-18 | 2024-11-18 |
 | [ashes & rust](https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent iii](https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3) | 4:02 | 2024-11-04 | 2024-12-04 |
+| [Ayaw Mo Na](https://open.spotify.com/track/1hZsKR2qyml8tb9qF1ZGyw) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Ayaw Mo Na](https://open.spotify.com/album/4LbpIb8PsbtsYjZgvE03tg) | 4:00 | 2026-01-19 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-02-17 |  |
 | [Backburner](https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0TMmGHybMKtsjBBEmwXHkF) | 3:56 | 2025-03-03 |  |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-10-18 | 2023-11-11 |
@@ -44,7 +45,7 @@
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-10 | 2024-06-06 |
 | [Bubog](https://open.spotify.com/track/7n1BbFCtHq4cRA5rXaWOaD) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:16 | 2025-10-10 | 2025-10-21 |
 | [Bugambilya](https://open.spotify.com/track/5V1UJ03fQBUIdmFUy9CKVR) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Somber](https://open.spotify.com/album/3NnuuyP11cyqfqH4nOXuEH) | 4:35 | 2023-10-18 | 2024-11-06 |
-| [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 | 2025-06-02 |  |
+| [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 | 2025-06-02 | 2026-01-20 |
 | [Bye 3x](https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx) | [Bye 3x](https://open.spotify.com/album/17UjsMHzFxuETWRC7mkpon) | 2:56 | 2025-11-10 | 2025-12-02 |
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-10-18 | 2024-11-05 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-10-18 |  |
@@ -190,7 +191,7 @@
 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2024-11-11 |  |
 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 | 2025-07-07 |  |
 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2024-02-19 | 2024-06-06 |
-| [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-10-18 |  |
+| [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-10-18 | 2026-01-20 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-12-03 | 2025-06-20 |
 | [O Luna](https://open.spotify.com/track/788LOVoDxwsB0OkdbQvTHd) | [JMKO](https://open.spotify.com/artist/1onz2fxn4zwyarm9FPVuyp) | [O Luna](https://open.spotify.com/album/0gkuV2JkdAnUUeipnd4BkC) | 3:42 | 2023-10-18 | 2024-11-05 |
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-10-18 | 2024-11-05 |
@@ -211,6 +212,7 @@
 | [Panaginip](https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI) | 5:17 | 2025-12-03 |  |
 | [pano tayo \(?\)](https://open.spotify.com/track/1qMLxOAzVNEqA6ibD4BHXW) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [pano tayo \(?\)](https://open.spotify.com/album/5M9rV3VTkXYt1ErBFpHMZ2) | 4:09 | 2025-12-08 | 2026-01-15 |
 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-09-17 | 2025-11-06 |
+| [Paulit\-Ulit](https://open.spotify.com/track/25IMmvByFqTt4Y6J5v887Z) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Paulit\-Ulit](https://open.spotify.com/album/7yXlTArosfiPAL3RFdumAd) | 3:09 | 2026-01-19 |  |
 | [Pelikula](https://open.spotify.com/track/5CHxZuUwZqeK7WU4fAQ0ub) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4NkcWiR6GiARbl7ANX9m4u) | 3:24 | 2024-06-05 | 2024-06-12 |
 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 | 2023-10-18 | 2023-11-11 |
 | [perfect blues](https://open.spotify.com/track/0b5EKv77RtqF8JU64u1Q1Y) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [perfect blues](https://open.spotify.com/album/09JlCYQ9z7cCoFoBQMqUN7) | 2:40 | 2023-10-18 | 2024-11-05 |

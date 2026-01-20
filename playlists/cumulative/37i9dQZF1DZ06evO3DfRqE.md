@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-107 songs - 7 hr 1 min
+108 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hula Girl\(LIVE\)](https://open.spotify.com/track/19nr74Chrn65xHbdmDfInV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:27 | 2024-01-29 | 2025-01-06 |
 | [I Wanna Get Funky](https://open.spotify.com/track/1xK95CjHv5jCcNBEdLrVEP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:33 | 2024-10-31 | 2024-12-13 |
 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 | 2024-01-29 |  |
+| [Ichigo Ichie](https://open.spotify.com/track/13aNNVGlBoy8amVwVvnIgB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live In Japan](https://open.spotify.com/album/4XUBoESFpIV1iVqgjoDi37) | 5:19 | 2026-01-20 |  |
 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 | 2024-12-17 |  |
 | [Interlude 2](https://open.spotify.com/track/5a2FWAjpOeBMdholsOEFmK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 1:19 | 2024-01-29 | 2024-04-22 |
 | [Journey](https://open.spotify.com/track/5ikcfDMIpQjZkZ0ibshGJD) | [MiChi](https://open.spotify.com/artist/2PwbdO4IYOHuofSb9Ruay8), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [EYES WIDE OPEN](https://open.spotify.com/album/7yUc9MINjGoby2HsyFg2tx) | 4:21 | 2025-01-30 | 2025-02-13 |
@@ -92,7 +93,7 @@
 | [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2024-01-29 |  |
 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 | 2024-01-29 | 2026-01-15 |
 | [ゴーイング・トゥ・カリフォルニア](https://open.spotify.com/track/0emHVNucvPkBSiFLyEaCHk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:07 | 2025-04-14 | 2025-04-15 |
-| [サムシング](https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [アクロス・ザ・ユニバース](https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3) | 4:36 | 2026-01-19 |  |
+| [サムシング](https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [アクロス・ザ・ユニバース](https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3) | 4:36 | 2026-01-19 | 2026-01-20 |
 | [ザ・ダンス](https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:33 | 2024-01-29 | 2025-05-19 |
 | [シックス・イン・ザ・モーニング](https://open.spotify.com/track/1FTCnDfJCbDiDXiYop4VQD) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ウォーキング・ダウン・レインヒル](https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6) | 3:48 | 2025-08-04 | 2025-12-27 |
 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 | 2024-10-11 |  |

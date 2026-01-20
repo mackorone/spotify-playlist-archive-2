@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 69758,
+  "num_followers": 69779,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK"
+        "name": "Flores de Abril",
+        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "DIAN",
+          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
         }
       ],
-      "duration_ms": 242024,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/71nlFhAB2VhGZ1Vd7OdbHi"
+      "duration_ms": 257653,
+      "name": "Flores de Abril",
+      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -431,22 +431,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Flores de Abril",
-        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
         },
         {
-          "name": "DIAN",
-          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 257653,
-      "name": "Flores de Abril",
-      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
+      "duration_ms": 242024,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/71nlFhAB2VhGZ1Vd7OdbHi"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "La Herida",
-        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 121845,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Tutankamon House Mix",
-        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+        "name": "La Herida",
+        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
       },
       "artists": [
         {
-          "name": "Sundraks",
-          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         }
       ],
-      "duration_ms": 211588,
-      "name": "Tutankamon House Mix",
-      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+      "duration_ms": 121845,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -735,6 +719,22 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "CONTIGO",
-        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 148005,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
+      "duration_ms": 156428,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -983,6 +967,22 @@
       "duration_ms": 163250,
       "name": "Prende y Pasa",
       "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148005,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -1175,26 +1159,34 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Corazon de Melon",
-        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Corazon de Melon",
-      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1223,38 +1215,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "EXTAPHORIC!",
-        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+        "name": "Corazon de Melon",
+        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
       },
       "artists": [
         {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 85520,
-      "name": "THIRST FOR ME!",
-      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
         }
       ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+      "duration_ms": 175161,
+      "name": "Corazon de Melon",
+      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1275,6 +1255,26 @@
       "duration_ms": 165750,
       "name": "LABUBU",
       "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "HOUSE & REGGAETON",
         "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 190153,
       "name": "HOUSE & REGGAETON",
       "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/2uRZYoFo5UrI7d8AlUHLLK"
       },
@@ -1615,26 +1615,6 @@
       "duration_ms": 147540,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/0CTaBZCRrQVsxdEFTYUByb"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
-        "name": "HOUSE PA LAS BANDIS",
-        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
-      },
-      "artists": [
-        {
-          "name": "REYPA",
-          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
-        },
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 182989,
-      "name": "HOUSE PA LAS BANDIS",
-      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1655,6 +1635,26 @@
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "added_at": "2026-01-16 06:00:21",

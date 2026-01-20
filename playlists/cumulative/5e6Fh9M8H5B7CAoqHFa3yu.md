@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,738 songs - 4 day 9 hr 7 min
+1,739 songs - 4 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,6 +825,7 @@
 | [L'odore Dei Perdenti](https://open.spotify.com/track/7gUBZkKmRJaz6g2HUcy8v7) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Gianluca Di Liberto](https://open.spotify.com/artist/1E2mnomYzAUhjDsShhKO30) | [L'odore Dei Perdenti](https://open.spotify.com/album/7livorKfwNz4zVX8okr9wS) | 4:35 | 2025-01-21 |  |
 | [L'unica cosa che hai](https://open.spotify.com/track/0HMqDH4izWE7AXBiqZUKCK) | [Lucrezia Arcifa](https://open.spotify.com/artist/1x5hFkZWr1fO5bNVXilaNy) | [L'unica cosa che hai](https://open.spotify.com/album/5Qj3UJkalltFa574HiExKM) | 3:09 | 2024-06-13 |  |
 | [L'unica cosa che hai \(Piano Version\)](https://open.spotify.com/track/0qWpVwkDpRjBR4pDvdxBp8) | [Lucrezia Arcifa](https://open.spotify.com/artist/1x5hFkZWr1fO5bNVXilaNy) | [L'unica cosa che hai \(Piano Version\)](https://open.spotify.com/album/1a20fETULIZnHRL7kzEI25) | 3:22 | 2024-06-21 |  |
+| [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 | 2026-01-20 |  |
 | [La Divisione Del Piacere](https://open.spotify.com/track/7lXQVtnuYlRQa1UTbPn2xF) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [La Divisione Del Piacere](https://open.spotify.com/album/6b8msGD271vEFaO0FuOgNk) | 4:41 | 2025-01-10 |  |
 | [La esclavitud remunerada](https://open.spotify.com/track/7kyVEfDvVgiYGdZsWxnRY7) | [La GueRRa DeL FLeTaN](https://open.spotify.com/artist/1AY0PqR58XigQxyYGtXabA) | [I](https://open.spotify.com/album/1PXIHiV2QqnJsVaN9MnonA) | 3:20 | 2025-03-21 |  |
 | [La Forma Del Vicio](https://open.spotify.com/track/6j6TPAgaN0kRYInKFB58ay) | [CUNA DE BRUJAS](https://open.spotify.com/artist/2mgsDkhfDsPbk3FFBUdm7i) | [La Forma Del Vicio](https://open.spotify.com/album/2ltXslhYwjk7osK1h45Bzm) | 5:34 | 2025-06-04 |  |

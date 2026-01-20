@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Hogwarts Legacy (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi"
+      },
+      "artists": [
+        {
+          "name": "J Scott Rakozy",
+          "url": "https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "url": "https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "A Fitting New Home",
+      "url": "https://open.spotify.com/track/3Vqby7zsTfASilgzUzzFLG"
+    },
+    {
+      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -1433,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/6ib7pmGq21YbPS1Uy0RgdV"
+      },
+      "artists": [
+        {
+          "name": "TwoSet Violin",
+          "url": "https://open.spotify.com/artist/1eQDEViTn7Tb9EI0SHTvYs"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230002,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/3tbQX2QIm4wUvHUK907WDW"
+    },
+    {
+      "album": {
         "name": "Beyond Nature",
         "url": "https://open.spotify.com/album/5UzLxaS5496CEOrODjk5ui"
       },
@@ -1812,7 +1852,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 243783,
       "name": "Age Of Men",
       "url": "https://open.spotify.com/track/7cavb70Sf15PnwE3JmRl2N"
@@ -1830,7 +1870,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 211986,
       "name": "Agnea, the Dancer",
       "url": "https://open.spotify.com/track/4sbilLxcyH2KxdfxDj3S1I"
@@ -4480,7 +4520,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 150124,
       "name": "Azalea Town",
       "url": "https://open.spotify.com/track/485QOmIBbYYnaQ3EH25mc0"
@@ -7004,7 +7044,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 195789,
       "name": "Brawl (From \"Super Smash Bros Brawl\")",
       "url": "https://open.spotify.com/track/5jSQ6b49p503qiQFcfIES1"
@@ -7564,6 +7604,24 @@
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
+    },
+    {
+      "album": {
+        "name": "Bursting with Life",
+        "url": "https://open.spotify.com/album/6AnSHo3XmUup0y2vTkIeTo"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111387,
+      "name": "Bursting with Life",
+      "url": "https://open.spotify.com/track/1c1lsXOn9apL5lgOfSkHxJ"
     },
     {
       "album": {
@@ -11575,6 +11633,24 @@
     },
     {
       "album": {
+        "name": "Daelyn",
+        "url": "https://open.spotify.com/album/1yHjamKajnFPy5MpiEpZsT"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124553,
+      "name": "Daelyn",
+      "url": "https://open.spotify.com/track/38vjhHus6lppjEY7WaIfze"
+    },
+    {
+      "album": {
         "name": "The Act of Forgiveness",
         "url": "https://open.spotify.com/album/4eXtyuPhKBy2YKVDGD7lh7"
       },
@@ -11710,7 +11786,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 240923,
       "name": "Dance - No Heroes",
       "url": "https://open.spotify.com/track/5xCWduf7m7UxZqe2qK8kUq"
@@ -11736,7 +11812,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 153600,
       "name": "Dance of the Moonlight Jellies",
       "url": "https://open.spotify.com/track/1KfZosiDFlmHhfyyynDcic"
@@ -13247,6 +13323,24 @@
     },
     {
       "album": {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "url": "https://open.spotify.com/album/5OJtauIfmumaSNShPdR5r0"
+      },
+      "artists": [
+        {
+          "name": "The Versions",
+          "url": "https://open.spotify.com/artist/21Tp0aROiJGTa0BgFGsC6v"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198329,
+      "name": "Divine Beast Vah Ruta (Inside)",
+      "url": "https://open.spotify.com/track/3xCez33cwGYhkBBonwqEGK"
+    },
+    {
+      "album": {
         "name": "DJ COD X POTONG BEBEK JOMBLO",
         "url": "https://open.spotify.com/album/0aJXJEZKfDZWuwBWQEagWb"
       },
@@ -13356,6 +13450,28 @@
       "duration_ms": 243374,
       "name": "Does He Make You Happy? - Demo",
       "url": "https://open.spotify.com/track/0IM9MLjcfbVpXmoi2A2pug"
+    },
+    {
+      "album": {
+        "name": "Flow (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7q9YwO9ldgxUXi1H9M9cuY"
+      },
+      "artists": [
+        {
+          "name": "Gints Zilbalodis",
+          "url": "https://open.spotify.com/artist/4q9ORXtwSESmnqDUdBUqMi"
+        },
+        {
+          "name": "Rihards Zalupe",
+          "url": "https://open.spotify.com/artist/4nI8qjYW0A1QO0ycB4OHFu"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93770,
+      "name": "Dog Chase",
+      "url": "https://open.spotify.com/track/0MN5oOA4wqlIZhPDGvh32p"
     },
     {
       "album": {
@@ -13964,7 +14080,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 154686,
       "name": "Dragon Roost Island - From \"The Legend of Zelda: The Wind Waker\"",
       "url": "https://open.spotify.com/track/5nzOJCv4lCTZduamL8QvEV"
@@ -14317,6 +14433,24 @@
     },
     {
       "album": {
+        "name": "Pillars of Eternity (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/3QBQCycojhOJLYlHhaCgVm"
+      },
+      "artists": [
+        {
+          "name": "Justin Bell",
+          "url": "https://open.spotify.com/artist/0UQ0RWEEfYZYDzbACuhIhM"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266488,
+      "name": "Dyrwood",
+      "url": "https://open.spotify.com/track/7kdxpDNBjU0WWjPufL29hy"
+    },
+    {
+      "album": {
         "name": "Ease",
         "url": "https://open.spotify.com/album/4GEg0u0Fz0VOFbjeDHhDRQ"
       },
@@ -14542,7 +14676,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 173482,
       "name": "Ecruteak City",
       "url": "https://open.spotify.com/track/1PWaQlb10i9CEBNs1zKQou"
@@ -15380,7 +15514,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 175306,
       "name": "Escape Velocity",
       "url": "https://open.spotify.com/track/4i3877NjqgIZlzyMcxh8TZ"
@@ -16036,6 +16170,24 @@
       "duration_ms": 202507,
       "name": "Explore",
       "url": "https://open.spotify.com/track/5XI5DMJSo42YkgYxOj7sat"
+    },
+    {
+      "album": {
+        "name": "Exposition",
+        "url": "https://open.spotify.com/album/3u34rjVRuP5M6UqKxPJnHH"
+      },
+      "artists": [
+        {
+          "name": "Tak\u00e9nobu",
+          "url": "https://open.spotify.com/artist/0gnKKarIUyBnDcORsbOdeY"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276053,
+      "name": "Exposition",
+      "url": "https://open.spotify.com/track/1UaVnPuAOwgmlIIDJbRE1k"
     },
     {
       "album": {
@@ -17548,6 +17700,32 @@
       "duration_ms": 137348,
       "name": "First Kiss",
       "url": "https://open.spotify.com/track/1Ajm5429YYGd0kaCOKV3V8"
+    },
+    {
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3awdPcJHK5gIb2mXr3vUwS"
+      },
+      "artists": [
+        {
+          "name": "Hitomi Sato",
+          "url": "https://open.spotify.com/artist/6ogSS7KK79OuXaPIOcT2qW"
+        },
+        {
+          "name": "Braxton Burks",
+          "url": "https://open.spotify.com/artist/1U2GH2NLt30RW9bnJEvcgM"
+        },
+        {
+          "name": "Kristin Naigus",
+          "url": "https://open.spotify.com/artist/5DW07aMZfSt6HcDlCPhx4a"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228506,
+      "name": "First Steps (Route 201)",
+      "url": "https://open.spotify.com/track/1q2win6b5byYbsM2TsgNCo"
     },
     {
       "album": {
@@ -19897,6 +20075,24 @@
     },
     {
       "album": {
+        "name": "Celeste B-Sides (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3lRqLudF94UtGUmTM2bjfd"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293821,
+      "name": "Golden Ridge - Golden Feather Mix",
+      "url": "https://open.spotify.com/track/2XiVI1ZMabQc0VIChp9KoV"
+    },
+    {
+      "album": {
         "name": "Three. Two. One.",
         "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
       },
@@ -20267,6 +20463,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3DKxNi9KprUoQ6rzcS3Qod"
+      },
+      "artists": [
+        {
+          "name": "Justin Song",
+          "url": "https://open.spotify.com/artist/0ynlDV5qa6bA4gyPJ8yVfP"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151280,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/5krJUjkcZ1HUgnqN1iFFjB"
+    },
+    {
+      "album": {
         "name": "Apocalypse Whenever",
         "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
       },
@@ -20408,6 +20622,24 @@
       "duration_ms": 311586,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/7qCmM0kn27d0NYmfA9vUge"
+    },
+    {
+      "album": {
+        "name": "The Wandering",
+        "url": "https://open.spotify.com/album/6BU1pD2CDepwaoitle0LbZ"
+      },
+      "artists": [
+        {
+          "name": "Kiernan Tollefson",
+          "url": "https://open.spotify.com/artist/7xUAXohTtb2o2saEb2OE3n"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165359,
+      "name": "Greet the Dawn",
+      "url": "https://open.spotify.com/track/1udq7TcrKcogKbRZbfcihl"
     },
     {
       "album": {
@@ -26265,6 +26497,24 @@
     },
     {
       "album": {
+        "name": "Imaginations",
+        "url": "https://open.spotify.com/album/1RrreGb8ZGgFlKsL8uO7Z7"
+      },
+      "artists": [
+        {
+          "name": "Aprelstein",
+          "url": "https://open.spotify.com/artist/0EbH7lRoSgAZyKGWsT0ufY"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Imaginations No. I",
+      "url": "https://open.spotify.com/track/2dldiRBFyjwR0fou17TDVd"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR"
       },
@@ -26280,6 +26530,24 @@
       "duration_ms": 164202,
       "name": "imagine",
       "url": "https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7"
+    },
+    {
+      "album": {
+        "name": "Monument Valley 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0BRkQHI4BLdepnzr9QLRu1"
+      },
+      "artists": [
+        {
+          "name": "Todd Baker",
+          "url": "https://open.spotify.com/artist/2RfwvVMJyYSZNtzYu67LL4"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174882,
+      "name": "Impossible Worlds",
+      "url": "https://open.spotify.com/track/2pjxenZVHSGc9htsssy1tX"
     },
     {
       "album": {
@@ -28414,7 +28682,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 156093,
       "name": "Keep What You Steal",
       "url": "https://open.spotify.com/track/32GtTaW0q9GMhaEFc2crke"
@@ -28844,7 +29112,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 164612,
       "name": "Ku's First Flight",
       "url": "https://open.spotify.com/track/6QZf9ZiKtvyvg7TdNeW4k1"
@@ -32787,6 +33055,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0AAMLaPicbomCqb3NisXT5"
+      },
+      "artists": [
+        {
+          "name": "Claudio Constantini",
+          "url": "https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122583,
+      "name": "Lumiere II",
+      "url": "https://open.spotify.com/track/5CYdwS9gTNbWv7KTQ9BgqW"
+    },
+    {
+      "album": {
         "name": "Luminary",
         "url": "https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9"
       },
@@ -33058,7 +33344,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 403493,
       "name": "Main Theme of Final Fantasy VII (Final Fantasy VII)",
       "url": "https://open.spotify.com/track/1Op47dMLD73On4rNNNU3AW"
@@ -34608,7 +34894,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 181346,
       "name": "Mishima / Closing",
       "url": "https://open.spotify.com/track/0YQ5cU2ywH2rfhSL5z0AgZ"
@@ -35950,7 +36236,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 173100,
       "name": "National Park (From \"Pok\u00e9mon Gold and Silver\")",
       "url": "https://open.spotify.com/track/7GrmJTb2zkOvC9MOpp5EbW"
@@ -36230,6 +36516,24 @@
       "duration_ms": 210503,
       "name": "New Age Meds",
       "url": "https://open.spotify.com/track/66puTOgzIMFPthti6N9aGi"
+    },
+    {
+      "album": {
+        "name": "Pok\u00e9mon Reorchestrated: Time Capsule",
+        "url": "https://open.spotify.com/album/67zsSTz5Z03JfB44MLKgb0"
+      },
+      "artists": [
+        {
+          "name": "Braxton Burks",
+          "url": "https://open.spotify.com/artist/1U2GH2NLt30RW9bnJEvcgM"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94453,
+      "name": "New Bark Town (From \"Pok\u00e9mon Gold and Silver\")",
+      "url": "https://open.spotify.com/track/0gcJAjFwEWeTTnBG65lqIp"
     },
     {
       "album": {
@@ -37325,6 +37629,24 @@
     },
     {
       "album": {
+        "name": "Hollow Knight: Silksong (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2mvEK1s3lpArLiUVRkqoD5"
+      },
+      "artists": [
+        {
+          "name": "Christopher Larkin",
+          "url": "https://open.spotify.com/artist/13kMpt8IdcHcdxPLcJrgU2"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163268,
+      "name": "Nyleth",
+      "url": "https://open.spotify.com/track/7uJ4QQ0wzivSumAmHl0Xju"
+    },
+    {
+      "album": {
         "name": "Ethiopian Orthodox Tewahedo Mezmur, Vol. 5",
         "url": "https://open.spotify.com/album/6KylAi1cL6hjlxKeaLBVBo"
       },
@@ -37514,6 +37836,28 @@
       "duration_ms": 157055,
       "name": "Ocean - Stripped Acoustic Version",
       "url": "https://open.spotify.com/track/2JKUucHX6iKiY8phj8U5zg"
+    },
+    {
+      "album": {
+        "name": "Tunic (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5I7kCzmigmNvCVrqFjZo1q"
+      },
+      "artists": [
+        {
+          "name": "Lifeformed",
+          "url": "https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV"
+        },
+        {
+          "name": "Janice Kwan",
+          "url": "https://open.spotify.com/artist/30CBAlGQT59ru58ZKtWtsC"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181595,
+      "name": "Ocean Glaze",
+      "url": "https://open.spotify.com/track/1LlOMv8ZDrTGgpBkv9x7Q2"
     },
     {
       "album": {
@@ -39182,7 +39526,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 232920,
       "name": "Pale Court",
       "url": "https://open.spotify.com/track/28AC8LLnTiLbFeDDYrgUAr"
@@ -39514,7 +39858,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 356880,
       "name": "Past/Present/Future",
       "url": "https://open.spotify.com/track/6Y64Hvb6IrD9QgM2mTjVxi"
@@ -40257,6 +40601,24 @@
     },
     {
       "album": {
+        "name": "Dimmed Whispers",
+        "url": "https://open.spotify.com/album/2DMl5BgS4Vlxm2ARNm9YkR"
+      },
+      "artists": [
+        {
+          "name": "April Chung",
+          "url": "https://open.spotify.com/artist/0iH7r1ORUkkjaacFlKbxDF"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212049,
+      "name": "Picturesque",
+      "url": "https://open.spotify.com/track/1mVgmqzdcAdEnLAJTvhTl9"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
       },
@@ -40546,7 +40908,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 278083,
       "name": "Pok\u00e9mon League Lo-Fi Remix (From \"Pok\u00e9mon Diamond and Pearl\")",
       "url": "https://open.spotify.com/track/3Sksq7o6HcImr02h7DcJRO"
@@ -43559,6 +43921,24 @@
     },
     {
       "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298980,
+      "name": "Sea Of Voices",
+      "url": "https://open.spotify.com/track/2lNFWUrxuNaQsf5I1pDTPr"
+    },
+    {
+      "album": {
         "name": "Seaside",
         "url": "https://open.spotify.com/album/2qEXXD8UAoBUxK1bOTQ0Qg"
       },
@@ -44028,6 +44408,24 @@
       "duration_ms": 193875,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/2Jxx1RVCjAtJPzfd5u5sbT"
+    },
+    {
+      "album": {
+        "name": "Ballads of Hyrule",
+        "url": "https://open.spotify.com/album/16dxG0De9JJ837Ejy9MlFu"
+      },
+      "artists": [
+        {
+          "name": "ROZEN",
+          "url": "https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252466,
+      "name": "Serenade of Water",
+      "url": "https://open.spotify.com/track/5Kpa4UwnB5qpVx2wmQ3WKA"
     },
     {
       "album": {
@@ -44774,7 +45172,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 311306,
       "name": "Silver Leaves - From \"Treasure Planet\"/Score",
       "url": "https://open.spotify.com/track/2djdKPx2iriJ4Ey4QvS0JF"
@@ -48390,7 +48788,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Sunbreak",
       "url": "https://open.spotify.com/track/5L16CfWUL3r3wLRKbj81a1"
@@ -49815,6 +50213,24 @@
     },
     {
       "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111307,
+      "name": "Task Complete",
+      "url": "https://open.spotify.com/track/5gLMwQmmcoRKvT8YTBeuNZ"
+    },
+    {
+      "album": {
         "name": "Teach Me to Dance",
         "url": "https://open.spotify.com/album/0KlPQLzdOhZLu8XjPX3cl3"
       },
@@ -50123,6 +50539,24 @@
     },
     {
       "album": {
+        "name": "Dispatch, Vol. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5wrmdcLuPNgigLP8O4hCsl"
+      },
+      "artists": [
+        {
+          "name": "Andrew Arcadi",
+          "url": "https://open.spotify.com/artist/1sG8ivvYFOwZPx21EzNPiK"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "That Night",
+      "url": "https://open.spotify.com/track/2vBAzFj9qdTzQKrCs1W8Ap"
+    },
+    {
+      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y"
       },
@@ -50174,7 +50608,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 189000,
       "name": "The Adventure Begins...",
       "url": "https://open.spotify.com/track/1wVHyIGI7ypJ2jIPwkXfgF"
@@ -50369,6 +50803,28 @@
     },
     {
       "album": {
+        "name": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+        "url": "https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225453,
+      "name": "The Bird Man - from 'Nausica\u00e4 of the Valley of the Wind'",
+      "url": "https://open.spotify.com/track/1TkYQUGk4loMMKplXQuMyF"
+    },
+    {
+      "album": {
         "name": "Violet Evergarden: Automemories",
         "url": "https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2"
       },
@@ -50380,7 +50836,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 133093,
       "name": "The Birth of a Legend",
       "url": "https://open.spotify.com/track/3QdvUqggXskPIcZV7o1OMe"
@@ -50882,10 +51338,28 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 94814,
       "name": "The First Seekers",
       "url": "https://open.spotify.com/track/3wRVBuTQvhC218YFETnTPO"
+    },
+    {
+      "album": {
+        "name": "OCTOPATH TRAVELER Original Soundtrack",
+        "url": "https://open.spotify.com/album/7CY5mNBTBbHs1a4apdKCq6"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Nishiki",
+          "url": "https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "The Flatlands",
+      "url": "https://open.spotify.com/track/0CWzdiAyIHX28XChLALFyr"
     },
     {
       "album": {
@@ -50922,7 +51396,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 248546,
       "name": "The Four Houses",
       "url": "https://open.spotify.com/track/2RLpq3exi2NwesuGtlMrhw"
@@ -50998,6 +51472,28 @@
       "duration_ms": 273066,
       "name": "The Gold",
       "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
+    },
+    {
+      "album": {
+        "name": "TV SERIES \u201dMADE IN ABYSS: THE GOLDEN CITY OF THE SCORCHING SUN\u201d",
+        "url": "https://open.spotify.com/album/2CHpanCncDbCg4bYfAMrvk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        },
+        {
+          "name": "Arn\u00f3r Dan",
+          "url": "https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231850,
+      "name": "THE GOLDEN CITY",
+      "url": "https://open.spotify.com/track/0C6zo7rePbcsZBZHSw8tUq"
     },
     {
       "album": {
@@ -51603,6 +52099,28 @@
     },
     {
       "album": {
+        "name": "Star Wars Lofi: May the Force Be With You Collection",
+        "url": "https://open.spotify.com/album/2dPTCUsSXUkHCbi0sLG7DW"
+      },
+      "artists": [
+        {
+          "name": "Mik",
+          "url": "https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi"
+        },
+        {
+          "name": "Kijugo",
+          "url": "https://open.spotify.com/artist/7HjVvgY9p57LOIrGyulrVU"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "The Mandalorian (Star Wars Lofi)",
+      "url": "https://open.spotify.com/track/4KE7g1x0cmD2cRpVyc1g07"
+    },
+    {
+      "album": {
         "name": "Song Of A Dead Man",
         "url": "https://open.spotify.com/album/79E1ohW1OkkMXp8pQ1Qrzc"
       },
@@ -51708,7 +52226,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 220902,
       "name": "The Moonlighter",
       "url": "https://open.spotify.com/track/0uywJuCmIHL8V8MVXRNL8O"
@@ -52108,7 +52626,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 172277,
       "name": "The Parrot / The Evil Emissary",
       "url": "https://open.spotify.com/track/4cIlH6jvLBx2puXEwoHYjA"
@@ -52557,6 +53075,32 @@
     },
     {
       "album": {
+        "name": "Stardew & Chill",
+        "url": "https://open.spotify.com/album/25QMvYJB064UrmDqzdyHJk"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Dj Cutman",
+          "url": "https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151855,
+      "name": "The Smell of Mushroom",
+      "url": "https://open.spotify.com/track/1tT1V2i7HwYA0bNgAIpSR6"
+    },
+    {
+      "album": {
         "name": "Gregory Alan Isakov with the Colorado Symphony",
         "url": "https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W"
       },
@@ -52724,6 +53268,28 @@
       "duration_ms": 182948,
       "name": "The Two Sisters",
       "url": "https://open.spotify.com/track/7CBvm9ct8iD6viKa3L1fdJ"
+    },
+    {
+      "album": {
+        "name": "Evan Call Orchestra Concert \uff5e \u97f3\u697d\u3068\u65c5\u306e\u73fe\u5728\u5730",
+        "url": "https://open.spotify.com/album/5i3L6dwcP0tpOtGe4ce5e4"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u5c3b\u771f\u9ad8",
+          "url": "https://open.spotify.com/artist/1uhDzz0BIO2gsMYeDOoDJe"
+        },
+        {
+          "name": "\u6771\u4eac\u30b7\u30c6\u30a3\u30fb\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30c3\u30af\u7ba1\u5f26\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/5qyZYk521P9rFAj7YF4wAr"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "The Ultimate Price - 2025 Live Version",
+      "url": "https://open.spotify.com/track/0s7lsWnQmtc89HkYvm8XTe"
     },
     {
       "album": {
@@ -53150,7 +53716,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 178405,
       "name": "There Beneath",
       "url": "https://open.spotify.com/track/77xQIv2s8VpLAK7vCcnDsA"
@@ -53602,7 +54168,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 130440,
       "name": "This Spark in You",
       "url": "https://open.spotify.com/track/5WUPhrLv23lMtTuWtmh2z5"
@@ -55082,7 +55648,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 146532,
       "name": "Truce",
       "url": "https://open.spotify.com/track/0Mx0YgNmzc0pOJ9rQVExn2"
@@ -55408,7 +55974,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 163764,
       "name": "Twinleaf Town",
       "url": "https://open.spotify.com/track/0rpc1PNIKst2IcuTFfu5MH"
@@ -59252,7 +59818,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 130469,
       "name": "Windmill Island",
       "url": "https://open.spotify.com/track/1TvHqdZBZgNM3BL1csl8BQ"
@@ -61356,7 +61922,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 164906,
       "name": "Zora's Domain",
       "url": "https://open.spotify.com/track/5IplSe2Xj4iXz9eGvr3yPF"

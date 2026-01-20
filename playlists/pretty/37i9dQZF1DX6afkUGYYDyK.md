@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,794 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,823 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 19 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
 | 20 | [One More Day](https://open.spotify.com/track/4WBlyFT7SIsAwkKSpmFeAB) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 7:15 |
 | 21 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
-| 22 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
-| 23 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
-| 24 | [Still Say Thank You](https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 5:31 |
+| 22 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
+| 23 | [Still Say Thank You](https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 5:31 |
+| 24 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 25 | [THANK YOU JESUS](https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [THANK YOU JESUS](https://open.spotify.com/album/0AHsfQAqgpOVQs4dJkgkMO) | 2:48 |
 | 26 | [Grateful](https://open.spotify.com/track/2yoYqPHby8XM6U4VebeoWK) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Grateful](https://open.spotify.com/album/2l5xqSAVtEUj0U26vjL0SQ) | 2:48 |
 | 27 | [If The Lord \- Live](https://open.spotify.com/track/4PPXXVetUvta9rgTWixeS2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [If The Lord \(Live\)](https://open.spotify.com/album/1ICXz0CX8T7HpU5jtH9QkY) | 6:50 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 32 | [Thankful](https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:23 |
 | 33 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |
 | 34 | [Things I'm Thankful For](https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Things I'm Thankful For](https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn) | 3:10 |
-| 35 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
-| 36 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
+| 35 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
+| 36 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
 | 37 | [Thank You, Lord](https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Ordinary Ways](https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I) | 3:25 |
 | 38 | [Fire & Ice](https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Fire & Ice](https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77) | 2:31 |
 | 39 | [Thank You Jesus](https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r) | [Thank You Jesus](https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x) | 2:51 |

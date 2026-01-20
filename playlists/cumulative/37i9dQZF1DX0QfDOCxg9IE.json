@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 171323,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn"
@@ -3539,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -5658,7 +5694,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 137896,
       "name": "Ithopoios",
       "url": "https://open.spotify.com/track/7reX1GQGNZbFBM9JzVWR8S"
@@ -6034,6 +6070,32 @@
       "duration_ms": 181200,
       "name": "Kita Mi Mou Figis",
       "url": "https://open.spotify.com/track/5V1E8NEzmKTgWTI0q8CMoP"
+    },
+    {
+      "album": {
+        "name": "Echo Ena Schedio",
+        "url": "https://open.spotify.com/album/22sHbgNkLDyTslAGKoGL85"
+      },
+      "artists": [
+        {
+          "name": "Themis Karamouratidis",
+          "url": "https://open.spotify.com/artist/0EIcylomMbDZeLPBCy1z3b"
+        },
+        {
+          "name": "Natassa Bofiliou",
+          "url": "https://open.spotify.com/artist/3ujPrFnLXVgRRelOhW1E2t"
+        },
+        {
+          "name": "Giannis Charoulis",
+          "url": "https://open.spotify.com/artist/6g0wMDkLDg8UZLiSi08wxI"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Koita Ego",
+      "url": "https://open.spotify.com/track/7xPIYU7uy5fpl2jEhCx65A"
     },
     {
       "album": {
@@ -7847,6 +7909,24 @@
     },
     {
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+    },
+    {
+      "album": {
         "name": "Caroling at Christmas",
         "url": "https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1"
       },
@@ -7982,7 +8062,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -8352,7 +8432,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -8987,6 +9067,24 @@
     },
     {
       "album": {
+        "name": "Paralia",
+        "url": "https://open.spotify.com/album/51SOtvQt90GosCVC80FyKh"
+      },
+      "artists": [
+        {
+          "name": "Manos",
+          "url": "https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138070,
+      "name": "Paralia",
+      "url": "https://open.spotify.com/track/54hqiJnShbAYKaX5HRQwSA"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6e2lLFF8WN5gjiRJUku0Kf"
       },
@@ -9478,6 +9576,24 @@
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
+    },
+    {
+      "album": {
+        "name": "BRITPOP",
+        "url": "https://open.spotify.com/album/7IDBud1rBMe8dK6qyoq2VR"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227183,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7dFxQHTxwxo6vdHDyTnPwF"
     },
     {
       "album": {
@@ -10659,6 +10775,24 @@
     },
     {
       "album": {
+        "name": "Akykloforita (Fly Lo)",
+        "url": "https://open.spotify.com/album/1zQpgpBwqsGezNdDV1aeqD"
+      },
+      "artists": [
+        {
+          "name": "Yung Kozak",
+          "url": "https://open.spotify.com/artist/0j3aYjZGRbG7NDtbHXtDmf"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93831,
+      "name": "Strippers",
+      "url": "https://open.spotify.com/track/45Cmwt5ZdqaLSWcG7ukADj"
+    },
+    {
+      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -10764,7 +10898,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 214973,
       "name": "Sweet Jane",
       "url": "https://open.spotify.com/track/4xDh3M3vz55WXyv30Lc6r5"
@@ -11020,7 +11154,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 140906,
       "name": "TAKEOVER",
       "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
@@ -12713,6 +12847,24 @@
     },
     {
       "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -12972,7 +13124,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 136615,
       "name": "Xodepsta",
       "url": "https://open.spotify.com/track/2c6Mx7YzxZkPYoLRqNIZzv"
@@ -13510,7 +13662,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 183480,
       "name": "\u03a4\u03ad\u03c1\u03bc\u03b1 \u03c3' \u03b1\u03b3\u03b1\u03c0\u03ac\u03c9",
       "url": "https://open.spotify.com/track/1VBXhMnwrzcozvfDekE3zP"

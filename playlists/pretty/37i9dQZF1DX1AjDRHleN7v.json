@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 411494,
+  "num_followers": 411634,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "Maneva 20 Anos, Origem - Ao Vivo",
+        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 152166,
+      "name": "Incenso - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Meu Jeito de Ser",
         "url": "https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 176470,
       "name": "Meu Jeito de Ser",
       "url": "https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Maneva 20 Anos, Origem - Ao Vivo",
-        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 152166,
-      "name": "Incenso - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
     },
     {
       "added_at": "2026-01-09 03:01:26",

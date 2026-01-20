@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 122106,
+  "num_followers": 122124,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "41 Longfield Street Late \u201880s",
-        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
-      },
-      "artists": [
-        {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 474353,
-      "name": "Secret City",
-      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Old Joy",
         "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 132472,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "41 Longfield Street Late \u201880s",
+        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 474353,
+      "name": "Secret City",
+      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Leaving Home",
+        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 332704,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 173705,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Leaving Home",
-        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 332704,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 209115,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "sleepmakeswaves",
         "url": "https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 290453,
       "name": "It's Dark, It's Cold, It's Winter",
       "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 209115,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "These Small Spaces",
-        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
-      },
-      "artists": [
-        {
-          "name": "This Patch of Sky",
-          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
-        }
-      ],
-      "duration_ms": 419333,
-      "name": "Her Beating Wings",
-      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Drifting Ever Shifting",
         "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 308666,
       "name": "Stairwell",
       "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "These Small Spaces",
+        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
+      },
+      "artists": [
+        {
+          "name": "This Patch of Sky",
+          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
+        }
+      ],
+      "duration_ms": 419333,
+      "name": "Her Beating Wings",
+      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Dusk/Dawn",
-        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Tear Trails",
-      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "(not) alone",
         "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Dusk/Dawn",
+        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Tear Trails",
+      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Pearldiving",
+        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 152260,
+      "name": "Les Amourettes",
+      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Dark Awakening",
         "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 420330,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Pearldiving",
-        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 152260,
-      "name": "Les Amourettes",
-      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "The Skyline EP",
+        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
+      },
+      "artists": [
+        {
+          "name": "Stubbleman",
+          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
+        }
+      ],
+      "duration_ms": 270962,
+      "name": "Skyline Drive",
+      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Songs to Disappear to",
         "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "The Skyline EP",
-        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
-      },
-      "artists": [
-        {
-          "name": "Stubbleman",
-          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
-        }
-      ],
-      "duration_ms": 270962,
-      "name": "Skyline Drive",
-      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Lakeshore",
         "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 214000,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
       "artists": [
         {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1391,22 +1407,6 @@
       "duration_ms": 234160,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
       },
       "artists": [
         {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
         }
       ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1511,6 +1495,22 @@
       "duration_ms": 216000,
       "name": "endless, somewhere",
       "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/0jMoYHIN3bfKQ6CruDzTAt"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Ineffable",
-      "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Sound Study Four",
         "url": "https://open.spotify.com/album/7k68DOmu9jG4RJvG0VveGu"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 438539,
       "name": "Sound Study Four",
       "url": "https://open.spotify.com/track/0d3XErjZJDoJr7XgjncNXr"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/0jMoYHIN3bfKQ6CruDzTAt"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Ineffable",
+      "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
     },
     {
       "added_at": "2025-09-25 12:08:17",

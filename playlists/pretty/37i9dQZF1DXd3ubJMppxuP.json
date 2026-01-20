@@ -1,15 +1,15 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 85630,
+  "num_followers": 85650,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI",
+  "snapshot_id": "AAAAANY7m3Ti479C13tasaAqrhgxPoYa",
   "tracks": [
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Baila de Gasolina (Remix)",
         "url": "https://open.spotify.com/album/3JHvRZxGFMron9RLauackt"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/1EHUaXrI4iKIPz2RvGyWX7"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Verliefd Zijn",
         "url": "https://open.spotify.com/album/78l6rFb1czRaVZ6cnJunGn"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/7ppFwmjCXEE7PCdlskpMnM"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Schudden (Dr. Rude & The Darkraver Remix)",
         "url": "https://open.spotify.com/album/5Siwhlqi1FAf89xcV02q1k"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0YhrnoIJpcjH8npYRKI8r7"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Vannacht Slaap Jij Bij Mij (FEESTNATION Remix)",
         "url": "https://open.spotify.com/album/1f9GGkP3GlC9EEH94Oazuf"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/58yWtAuvWcHQHUWI7E0Gv1"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Stekker",
         "url": "https://open.spotify.com/album/4mH2sHg1r5B7puLTOTIjkO"
@@ -137,91 +137,7 @@
       "url": "https://open.spotify.com/track/6nscTeH7uVeUgKEMTlu8sh"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Zomer Op Het Platteland",
-        "url": "https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m"
-      },
-      "artists": [
-        {
-          "name": "Beatcrooks",
-          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Zomer Op Het Platteland",
-      "url": "https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Blikkendag (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/3JCX0E8XYbRGAjds0ftuSe"
-      },
-      "artists": [
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        },
-        {
-          "name": "LARSTIG & GASDROP",
-          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
-        },
-        {
-          "name": "Likke P\u00eahp",
-          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
-        }
-      ],
-      "duration_ms": 170294,
-      "name": "Blikkendag - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/60Oca5ABSEakkBn40TYU7A"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Dromendans (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Vinzzent",
-          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
-        }
-      ],
-      "duration_ms": 214124,
-      "name": "Dromendans (Outsiders Remix)",
-      "url": "https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Lam Zullen We Raven (Official Anthem)",
-        "url": "https://open.spotify.com/album/5FLHD0ikZWfbh0Y9FDtvkS"
-      },
-      "artists": [
-        {
-          "name": "Hans Glock",
-          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
-        },
-        {
-          "name": "LARSTIG & GASDROP",
-          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
-        },
-        {
-          "name": "Theresia Serena",
-          "url": "https://open.spotify.com/artist/7C9CFrbBSANJZz3LYLFvOF"
-        }
-      ],
-      "duration_ms": 168363,
-      "name": "Lam Zullen We Raven - Official Anthem",
-      "url": "https://open.spotify.com/track/7IYAgcHw0zyMWCCRTLVEth"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Lotje (Outsiders' Oldschool Remix)",
         "url": "https://open.spotify.com/album/2qirHPOcr53Tkq3qbZ29Dd"
@@ -249,7 +165,91 @@
       "url": "https://open.spotify.com/track/3KCRqj9rrJzer7FdU6BieU"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Blikkendag (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/3JCX0E8XYbRGAjds0ftuSe"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "LARSTIG & GASDROP",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "duration_ms": 170294,
+      "name": "Blikkendag - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/60Oca5ABSEakkBn40TYU7A"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Dromendans (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Vinzzent",
+          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
+        }
+      ],
+      "duration_ms": 214124,
+      "name": "Dromendans (Outsiders Remix)",
+      "url": "https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Zomer Op Het Platteland",
+        "url": "https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m"
+      },
+      "artists": [
+        {
+          "name": "Beatcrooks",
+          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Zomer Op Het Platteland",
+      "url": "https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv"
+      },
+      "artists": [
+        {
+          "name": "Dansado & De Feestmeester",
+          "url": "https://open.spotify.com/artist/1Mkig7lvNqKA8Z6QAKy8vG"
+        },
+        {
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
         "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Epic Sax Song",
         "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
@@ -289,7 +289,27 @@
       "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Huichelaar (Original Mix)",
+        "url": "https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        }
+      ],
+      "duration_ms": 180708,
+      "name": "Huichelaar - Original Mix",
+      "url": "https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Hartslag (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/3l1cFHb9k9skyeFklUHz38"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Gas Geven (Official Karnaval Festival 2025 Anthem)",
         "url": "https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970"
@@ -333,27 +353,7 @@
       "url": "https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Huichelaar (Original Mix)",
-        "url": "https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "De Kraaien",
-          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
-        }
-      ],
-      "duration_ms": 180708,
-      "name": "Huichelaar - Original Mix",
-      "url": "https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "De Langste Nacht (Remix)",
         "url": "https://open.spotify.com/album/4rPfk4MepyG28NcXhxNRDJ"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/6F28sHG5QXkmZJloKTonxo"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Jouw Liefste Wens (Happy H\u00f8ken)",
         "url": "https://open.spotify.com/album/4JcYhcdRcHYBFWJwvN0RaW"
@@ -389,43 +389,7 @@
       "url": "https://open.spotify.com/track/2IujWWMdXhPYB2WLGtr4XN"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Ik Ben Kachel (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U"
-      },
-      "artists": [
-        {
-          "name": "OBZ",
-          "url": "https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA"
-        }
-      ],
-      "duration_ms": 151775,
-      "name": "Ik Ben Kachel - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "In De Hemel Is Geen Bier",
-        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
-      },
-      "artists": [
-        {
-          "name": "Boer Harm",
-          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "In De Hemel Is Geen Bier",
-      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3"
@@ -445,7 +409,43 @@
       "url": "https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Ik Ben Kachel (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U"
+      },
+      "artists": [
+        {
+          "name": "OBZ",
+          "url": "https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA"
+        }
+      ],
+      "duration_ms": 151775,
+      "name": "Ik Ben Kachel - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "In De Hemel Is Geen Bier",
+        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "In De Hemel Is Geen Bier",
+      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Weet Je Wel Wie Wij Zijn",
         "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Banger Hart",
         "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Outsiders Remix EP",
         "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Dat Heb Jij Gedaan (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Maak Me Gek - Sound Rush Remix",
         "url": "https://open.spotify.com/album/5VkCQPJswoQv0F16hpEEp9"
@@ -541,27 +541,7 @@
       "url": "https://open.spotify.com/track/3ZaTuTaAVm6aphMTL99cNm"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Links, Rechts",
-        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
-      },
-      "artists": [
-        {
-          "name": "Arimann",
-          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
-        },
-        {
-          "name": "C-strike",
-          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Links, Rechts",
-      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
         "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
@@ -589,7 +569,27 @@
       "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Links, Rechts",
+        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+      },
+      "artists": [
+        {
+          "name": "Arimann",
+          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+        },
+        {
+          "name": "C-strike",
+          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Links, Rechts",
+      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Naar de Klote",
         "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Amalia (Remix)",
         "url": "https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Bietje Bas",
         "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "City Streets",
         "url": "https://open.spotify.com/album/0sXs88sWqgcucXTKC5bV6R"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Vette Boeren (Radio Edit - Daani Remix)",
         "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
@@ -765,7 +765,31 @@
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
+      "album": {
+        "name": "Lam Zullen We Raven (Official Anthem)",
+        "url": "https://open.spotify.com/album/5FLHD0ikZWfbh0Y9FDtvkS"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "LARSTIG & GASDROP",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+        },
+        {
+          "name": "Theresia Serena",
+          "url": "https://open.spotify.com/artist/7C9CFrbBSANJZz3LYLFvOF"
+        }
+      ],
+      "duration_ms": 168363,
+      "name": "Lam Zullen We Raven - Official Anthem",
+      "url": "https://open.spotify.com/track/7IYAgcHw0zyMWCCRTLVEth"
+    },
+    {
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
         "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Gas Erop",
         "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "De Hut Verbouwen (Dr. Rude Remix)",
         "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
@@ -829,7 +853,7 @@
       "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Ons Moeder Zeej Nog (Special Krew Total Loss Remix)",
         "url": "https://open.spotify.com/album/4VaDQ9MRyqYgIvbpdHX3lB"
@@ -853,7 +877,7 @@
       "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Het Is Een Nacht (Total Loss Remix)",
         "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
@@ -873,7 +897,7 @@
       "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Als De Morgen Is Gekomen (Remix)",
         "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Hey Meid (Total Loss Remix)",
         "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Het Allerlaatste Rondje",
         "url": "https://open.spotify.com/album/0kXKzl1x7YIJ2qHCauPuIV"
@@ -925,7 +949,7 @@
       "url": "https://open.spotify.com/track/1tNFA1UmvXzGDfmXrbdOQH"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Allez Allez Allez (Original Mix)",
         "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
@@ -945,7 +969,7 @@
       "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Party All Night (Facking Feestje)",
         "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
@@ -965,7 +989,7 @@
       "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Van God Los (Official 2025 Kamping Kitsch Club Anthem)",
         "url": "https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL"
@@ -997,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Ik Kom Eraan",
         "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
@@ -1017,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Kabouterpost",
         "url": "https://open.spotify.com/album/4XkGdLlZw5zZ7RlR7EwdG4"
@@ -1033,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4vHIS7O1OTNKZeb0rzuRG5"
     },
     {
-      "added_at": "2026-01-10 23:30:03",
+      "added_at": "2026-01-19 12:46:10",
       "album": {
         "name": "Ik Kan Niet Meer Praten",
         "url": "https://open.spotify.com/album/6nAs2gHf1ARRvHt25y5Z4v"
@@ -1047,26 +1071,6 @@
       "duration_ms": 155000,
       "name": "Ik Kan Niet Meer Praten",
       "url": "https://open.spotify.com/track/323AXi99MfhxMmAlsrH3ni"
-    },
-    {
-      "added_at": "2026-01-10 23:30:03",
-      "album": {
-        "name": "Meissie Meissie",
-        "url": "https://open.spotify.com/album/6kL1DOv6uEgd3RqmiWQRNK"
-      },
-      "artists": [
-        {
-          "name": "De Doelleazen",
-          "url": "https://open.spotify.com/artist/29eApvaIcT7cT6n4uEhwiN"
-        },
-        {
-          "name": "Henk Wijngaard",
-          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
-        }
-      ],
-      "duration_ms": 161858,
-      "name": "Meissie Meissie",
-      "url": "https://open.spotify.com/track/4bEy8RQV0A08JPHXH6caE6"
     }
   ],
   "unique_name": "Nederlandse Hardstyle",

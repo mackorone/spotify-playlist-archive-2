@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "MWAH! (B SIDE)",
+        "url": "https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "GET ME RIGHT!",
+      "url": "https://open.spotify.com/track/6bltVRVfVJIdQJCxSp8APq"
+    },
+    {
+      "album": {
         "name": "ghost!",
         "url": "https://open.spotify.com/album/58Pwlfu6uT8TyUgvHVgDHd"
       },

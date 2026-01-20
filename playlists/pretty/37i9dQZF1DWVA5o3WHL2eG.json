@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Magda",
-  "num_followers": 43138,
+  "num_followers": 43133,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
-        "name": "Spielchen",
-        "url": "https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz"
-      },
-      "artists": [
-        {
-          "name": "ma\u00efa",
-          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Spielchen",
-      "url": "https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
         "name": "Ciao Bella",
         "url": "https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 163064,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
+        "name": "Spielchen",
+        "url": "https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz"
+      },
+      "artists": [
+        {
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Spielchen",
+      "url": "https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh"
     },
     {
       "added_at": "2026-01-06 23:00:08",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-01-06 23:00:08",
       "album": {
+        "name": "Toure",
+        "url": "https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z"
+      },
+      "artists": [
+        {
+          "name": "Steff la Cheffe",
+          "url": "https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "Toure",
+      "url": "https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa"
+    },
+    {
+      "added_at": "2026-01-06 23:00:08",
+      "album": {
         "name": "Bittere Pillen",
         "url": "https://open.spotify.com/album/0RV8jbDGyDKL7qGox5FkKy"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 175028,
       "name": "Bittere Pillen",
       "url": "https://open.spotify.com/track/7fzrZkC4Uo9agpFmNhBZzw"
-    },
-    {
-      "added_at": "2026-01-06 23:00:08",
-      "album": {
-        "name": "Toure",
-        "url": "https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z"
-      },
-      "artists": [
-        {
-          "name": "Steff la Cheffe",
-          "url": "https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "Toure",
-      "url": "https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa"
     },
     {
       "added_at": "2026-01-06 23:00:08",

@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26379,
+  "num_followers": 26374,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Scarlet Paintings",
+      "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Scarlet Paintings",
-      "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
     },
     {
       "added_at": "2024-07-03 14:32:39",

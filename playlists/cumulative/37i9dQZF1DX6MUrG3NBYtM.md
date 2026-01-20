@@ -4,7 +4,7 @@
 
 > De beste Indie & Alternative\. Cover: Dove Ellis
 
-269 songs - 16 hr 23 min
+271 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 | 2025-08-29 |  |
 | [Digitaline](https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Digitaline](https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN) | 4:32 | 2024-10-03 | 2025-03-07 |
 | [Do My Thing](https://open.spotify.com/track/1YKcZG9wSH5XCnKCvrXOO9) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Do My Thing](https://open.spotify.com/album/3gzle32G3FvcaoNI957vYP) | 2:57 | 2025-04-25 | 2025-12-09 |
-| [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 | 2026-01-13 |  |
+| [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 | 2026-01-13 | 2026-01-20 |
 | [Don’t Say It’s Over](https://open.spotify.com/track/6PrOPwz8YdN4idSUwPffRh) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Don't Say It's Over](https://open.spotify.com/album/72yH1PXnzGt8Gs1OPPUVqx) | 3:46 | 2024-06-26 | 2024-07-12 |
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-06-26 | 2025-01-07 |
 | [Down The Rabbit Hole](https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Down The Rabbit Hole](https://open.spotify.com/album/2cXmUukaT3vR1INZOajMTd) | 3:15 | 2024-06-26 | 2024-11-15 |
@@ -64,7 +64,7 @@
 | [Emo Song](https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Emo Song](https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj) | 6:38 | 2025-06-05 |  |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-08-08 | 2025-12-09 |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-25 | 2025-09-27 |
-| [Evergreen \(l\-o\-v\-e\-d\)](https://open.spotify.com/track/2kM0IjYQAdtkoLoeWMDZWV) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [Evergreen \(l\-o\-v\-e\-d\)](https://open.spotify.com/album/4F2icB8V0R2CPwmY0bhYhC) | 4:23 | 2025-08-29 |  |
+| [Evergreen \(l\-o\-v\-e\-d\)](https://open.spotify.com/track/2kM0IjYQAdtkoLoeWMDZWV) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [Evergreen \(l\-o\-v\-e\-d\)](https://open.spotify.com/album/4F2icB8V0R2CPwmY0bhYhC) | 4:23 | 2025-08-29 | 2026-01-20 |
 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 | 2026-01-13 |  |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-03-06 | 2025-10-22 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-26 | 2024-11-07 |
@@ -83,6 +83,7 @@
 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 | 2026-01-13 |  |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-08-29 |  |
 | [Hey](https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [The Hard Quartet](https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR) | 4:29 | 2025-01-06 | 2025-02-28 |
+| [Hippie Sunshine](https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Hippie Sunshine](https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje) | 3:06 | 2026-01-19 |  |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-18 | 2024-10-25 |
 | [Hollywood\_](https://open.spotify.com/track/3xF3eS7bjL0nXDrvgOYidS) | [Magazines](https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz) | [Hollywood\_](https://open.spotify.com/album/0uKlCzA7W6bGr3xZN6ZEIp) | 3:31 | 2025-12-08 | 2026-01-15 |
 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-09-26 |  |
@@ -208,6 +209,7 @@
 | [sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 | 2025-01-23 | 2025-03-22 |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 | 2025-01-24 |
 | [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 | 2025-08-29 |  |
+| [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 | 2026-01-19 |  |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 | 2025-02-07 | 2025-10-22 |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-02-06 | 2025-06-06 |
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-08 |  |

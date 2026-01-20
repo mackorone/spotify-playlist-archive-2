@@ -4,14 +4,15 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-134 songs - 9 hr 26 min
+135 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ACROSS](https://open.spotify.com/track/3eiSAx0hftzyT1cEC3e9Ff) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [TESTAMENT](https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K) | 3:54 | 2022-06-11 | 2022-10-08 |
 | [ADRENALIZED](https://open.spotify.com/track/1iEjEx0pK73SuL27zIw9nK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:40 | 2025-04-07 | 2025-04-12 |
 | [ADRENALIZED](https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp) | 3:41 | 2024-04-08 | 2025-03-23 |
-| [Blueprint](https://open.spotify.com/track/3P3dmJxsLEEB3Gy8vNCelw) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:44 | 2025-03-22 |  |
+| [Awesome!](https://open.spotify.com/track/2oYEXMb6VzjCY6bY6WPCRw) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:48 | 2026-01-20 |  |
+| [Blueprint](https://open.spotify.com/track/3P3dmJxsLEEB3Gy8vNCelw) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:44 | 2025-03-22 | 2026-01-20 |
 | [BRAVE PHOENIX](https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 5:24 | 2022-06-09 |  |
 | [BRIGHT STREAM](https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:11 | 2022-07-02 |  |
 | [Bring it on!](https://open.spotify.com/track/6h28YawAmYSLCWEBAU1ez7) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [GREAT ACTIVITY](https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW) | 4:12 | 2023-07-23 | 2023-12-14 |

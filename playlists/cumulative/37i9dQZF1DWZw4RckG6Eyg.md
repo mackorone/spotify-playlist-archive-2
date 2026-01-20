@@ -2,7 +2,7 @@
 
 ### [Indie Editors' Hyperfixations of 2025 ](https://open.spotify.com/playlist/37i9dQZF1DWZw4RckG6Eyg)
 
-> All the indie gems from 2025 that we can't get enough of\. Cover: Dan English
+> All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
 444 songs - 1 day 1 hr 12 min
 

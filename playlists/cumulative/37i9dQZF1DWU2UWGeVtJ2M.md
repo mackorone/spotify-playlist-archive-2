@@ -2,9 +2,9 @@
 
 ### [我的微醺夜](https://open.spotify.com/playlist/37i9dQZF1DWU2UWGeVtJ2M)
 
-> 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
+> 半清醒的時刻最迷人，讓最迷人的音樂和你一起隨興...
 
-383 songs - 21 hr 38 min
+384 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [One Conversation](https://open.spotify.com/track/0SGZVoQsEuOeEeKaeQpoZt) | [Yung Bright](https://open.spotify.com/artist/0YnURC4kKD8ivGRxGKN5Hz) | [One Conversation](https://open.spotify.com/album/4zxn58VwU6cymtbP3zdGw7) | 2:56 | 2022-06-13 | 2022-07-26 |
 | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn) | 2:10 | 2022-08-15 | 2022-10-30 |
 | [Only You](https://open.spotify.com/track/7Fo4FSLIXIQ71RSzzrQEPq) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Only You](https://open.spotify.com/album/27bRSjzXQUyYBFNstOtWHv) | 3:41 | 2022-06-06 | 2022-07-26 |
-| [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 |  |
+| [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 | 2026-01-20 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-07-11 |  |
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-29 | 2025-07-25 |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2022-07-25 |  |
@@ -380,6 +380,7 @@
 | [Whatever This Is](https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Whatever This Is](https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h) | 3:07 | 2022-06-06 | 2025-01-02 |
 | [Where Were You In The Morning?](https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:20 | 2022-07-25 | 2024-04-19 |
 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 | 2024-04-08 |  |
+| [Wicked Game](https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [Dva \(Bonus Track Version\)](https://open.spotify.com/album/2njhI39km75PtiP4JNIOza) | 3:56 | 2026-01-19 |  |
 | [Wildflower](https://open.spotify.com/track/4jIa3kabSPNY0oOy3Hs9P6) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [TWENTY FIVE](https://open.spotify.com/album/1mDaY48ESUPxGNBleBlTKg) | 3:27 | 2022-06-06 | 2022-07-28 |
 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 | 2022-07-18 | 2025-04-08 |
 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 | 2022-07-25 |  |

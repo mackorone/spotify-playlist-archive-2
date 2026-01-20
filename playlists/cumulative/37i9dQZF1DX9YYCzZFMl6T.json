@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Send Me Out Like Autumn",
+        "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
+      },
+      "artists": [
+        {
+          "name": "King Margo",
+          "url": "https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233706,
+      "name": "Send Me Out Like Autumn",
+      "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
+    },
+    {
+      "album": {
         "name": "Silver Bells",
         "url": "https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou"
       },
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-20",
       "duration_ms": 150563,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"

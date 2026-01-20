@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,615 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,637 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 88 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
 | 89 | [Legendarios](https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc) | 2:44 |
 | 90 | [Fe de Errata](https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1) | 3:06 |
-| 91 | [Jamming Sin Fronteras](https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [César López](https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV), [Solo Soul](https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI) | [Jamming Sin Fronteras](https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ) | 4:10 |
-| 92 | [La Brujula](https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP) | [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8), [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf), [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX) | [La Brujula](https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6) | 2:42 |
-| 93 | [Autonomo](https://open.spotify.com/track/2fLiWIH8nhWH9BBdF0WnRH) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El manual de la otredad](https://open.spotify.com/album/7z3yIRNWjZGM5cdNVGXSkB) | 3:41 |
+| 91 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
+| 92 | [Jamming Sin Fronteras](https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [César López](https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV), [Solo Soul](https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI) | [Jamming Sin Fronteras](https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ) | 4:10 |
+| 93 | [La Brujula](https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP) | [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8), [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf), [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX) | [La Brujula](https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6) | 2:42 |
 | 94 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
-| 95 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
-| 96 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
-| 97 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |
-| 98 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
-| 99 | [Gangstas](https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye) | [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI) | [Gangstas](https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN) | 3:05 |
-| 100 | [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 |
+| 95 | [Autonomo](https://open.spotify.com/track/2fLiWIH8nhWH9BBdF0WnRH) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El manual de la otredad](https://open.spotify.com/album/7z3yIRNWjZGM5cdNVGXSkB) | 3:41 |
+| 96 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
+| 97 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
+| 98 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |
+| 99 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
+| 100 | [Gangstas](https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye) | [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI) | [Gangstas](https://open.spotify.com/album/0HDinWuDHwChmZP0p8c0dN) | 3:05 |
 
 Snapshot ID: `AAAAACgN1GoiBQD/MhgSq2+lBoN5+WFv`

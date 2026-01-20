@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,512 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,493 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 55 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
 | 56 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 | 57 | [De Manhã](https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG) | [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [CASULO](https://open.spotify.com/artist/1NHLTrZk6hOi5H6InEbztY) | [De Manhã](https://open.spotify.com/album/6WVfY0VWusgX3TqeNeVKhr) | 2:35 |
-| 58 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
-| 59 | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih) | 4:33 |
+| 58 | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih) | 4:33 |
+| 59 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
 | 60 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 |
 
 Snapshot ID: `AAAAAGYd7AduND2ss4bj/A3bhL1WjBn3`

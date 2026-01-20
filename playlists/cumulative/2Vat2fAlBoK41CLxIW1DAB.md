@@ -853,6 +853,6 @@
 | [Хрипят моторы](https://open.spotify.com/track/2V9Vb562pyNLwQJiyGny55) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:00 | 2025-04-29 |  |
 | [Чужое небо](https://open.spotify.com/track/4ftQumfko9XMZhprCRJtn5) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Чужое небо](https://open.spotify.com/album/44HgtTqczj9PqkIH5DfBm1) | 2:54 | 2025-02-17 |  |
 | [Я попрошу](https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Я попрошу](https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO) | 4:09 | 2025-02-17 |  |
-| [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 | 2025-03-18 |  |
+| [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/6XVWCCuEAczUys2GEksw6C), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 | 2025-03-18 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

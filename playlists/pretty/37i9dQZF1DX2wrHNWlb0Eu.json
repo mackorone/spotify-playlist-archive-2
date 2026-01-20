@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 123545,
+  "num_followers": 123553,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
+        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
+      },
+      "artists": [
+        {
+          "name": "The 38 Years Ago",
+          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
+        }
+      ],
+      "duration_ms": 210598,
+      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-        "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
-      },
-      "artists": [
-        {
-          "name": "The 38 Years Ago",
-          "url": "https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8"
-        }
-      ],
-      "duration_ms": 210598,
-      "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
-      "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
         "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 182666,
       "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
       "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "nerd eye view",
+        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -707,18 +723,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "nerd eye view",
-        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
       },
       "artists": [
         {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
         }
       ],
-      "duration_ms": 207480,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
-      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
+      "duration_ms": 243346,
+      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
+      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -743,22 +759,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "The White Room",
-        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
-      },
-      "artists": [
-        {
-          "name": "Singular",
-          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
-      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
         "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
         "url": "https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 176808,
       "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
       "url": "https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "Melbourne",
-        "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
-      },
-      "artists": [
-        {
-          "name": "Morvasu",
-          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
-        },
-        {
-          "name": "TangBadVoice",
-          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Melbourne",
-      "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "Yours Ever",
         "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 259380,
       "name": "Yours Ever",
       "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "Melbourne",
+        "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
+      },
+      "artists": [
+        {
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        },
+        {
+          "name": "TangBadVoice",
+          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Melbourne",
+      "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
+        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
         "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
-        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e40\u0e23\u0e32 - Single",
         "url": "https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 306103,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
-        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
-      },
-      "artists": [
-        {
-          "name": "Palmy",
-          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
-        }
-      ],
-      "duration_ms": 207705,
-      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
         "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 277674,
       "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
+        "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "duration_ms": 207705,
+      "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "The First Album",
+        "url": "https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 220793,
+      "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
+      "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
         "url": "https://open.spotify.com/album/01eKsPypv6vDuDznnhMWfe"
       },
@@ -1643,6 +1659,26 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
+        "url": "https://open.spotify.com/album/4LzRiXhlrvnKR2WcRoeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        },
+        {
+          "name": "Oat Pramote",
+          "url": "https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv"
+        }
+      ],
+      "duration_ms": 197338,
+      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a (feat. \u0e42\u0e2d\u0e4a\u0e15 \u0e1b\u0e23\u0e32\u0e42\u0e21\u0e17\u0e22\u0e4c)",
+      "url": "https://open.spotify.com/track/48hZrIt6isIvgbWfvvGgjI"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
         "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e23\u0e31\u0e01\u0e40\u0e23\u0e32 - Single",
         "url": "https://open.spotify.com/album/7rZXyGJlUbCdQIlwMaQmnq"
       },
@@ -1655,42 +1691,6 @@
       "duration_ms": 226250,
       "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e23\u0e31\u0e01\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/6IitkM7xiuKhDXzshXUnRa"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "Best of MR.TEAM",
-        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Team",
-          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
-      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-        "url": "https://open.spotify.com/album/4iMIsP1KSb7HYUyXbmTnV3"
-      },
-      "artists": [
-        {
-          "name": "JAYLERR",
-          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
-        },
-        {
-          "name": "Ice Paris",
-          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
-        }
-      ],
-      "duration_ms": 193894,
-      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
-      "url": "https://open.spotify.com/track/4KP9dagbB3Da9jnpfIEG7P"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
