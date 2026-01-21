@@ -2,7 +2,7 @@
 
 ### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0thgoTntV114tkxYkGwI1t">Só Pod Ser História</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0thgoTntV114tkxYkGwI1t">Só pod ser história</a>
 
 203 songs - 5 day 19 hr 48 min
 

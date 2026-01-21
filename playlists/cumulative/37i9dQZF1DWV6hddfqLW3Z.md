@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-217 songs - 13 hr 7 min
+218 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Apesar de Querer](https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb) | 4:04 | 2023-11-24 | 2024-04-19 |
 | [Ata\-me](https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Ata\-me](https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog) | 3:36 | 2023-10-06 | 2023-10-21 |
 | [Até o fim](https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mariana e Mestrinho](https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8) | 4:09 | 2024-04-05 | 2024-05-10 |
-| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-19 |  |
+| [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-19 | 2026-01-21 |
 | [Baianidade Nagô](https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Baianidade Nagô](https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj) | 3:42 | 2024-07-19 | 2024-07-27 |
 | [Bananeira](https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bananeira](https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL) | 3:33 | 2025-01-10 | 2025-03-21 |
 | [Beija Eu](https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 3:14 | 2022-08-19 | 2024-04-19 |
@@ -92,6 +92,7 @@
 | [Hello](https://open.spotify.com/track/3pla8YL6bz8rURpyZhyEKD) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Marquês, 256.](https://open.spotify.com/album/1qJlWTgyyZhrF0jxWnDE9I) | 1:47 | 2023-06-02 | 2023-06-17 |
 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 | 2022-08-19 |  |
 | [Improviso](https://open.spotify.com/track/02zAXDfFsHV6awd5DgiUrY) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 4:46 | 2025-11-25 |  |
+| [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 | 2025-11-25 |  |
 | [Insensatez](https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Insensatez](https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2) | 3:12 | 2024-10-25 | 2024-11-09 |
 | [Iroko](https://open.spotify.com/track/59ntX56WnGYW24wXanrsMC) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:24 | 2025-05-23 | 2025-05-30 |
 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-22 | 2024-10-26 |

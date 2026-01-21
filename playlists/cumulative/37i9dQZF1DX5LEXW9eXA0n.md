@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 하성운 \(HA SUNG WOON\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,649 songs - 4 day 11 hr 6 min
+1,650 songs - 4 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Always with you](https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Always with you](https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu) | 4:22 | 2023-02-27 | 2023-06-23 |
 | [Always With You](https://open.spotify.com/track/33P8OwNvoR8HduNAJkrAFs) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Jirisan \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5LHSj2l8CyQ5x3zRlIXUkF) | 3:26 | 2022-03-31 | 2022-06-07 |
 | [Amazing You](https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Amazing You](https://open.spotify.com/album/2dTSzrGO5IhAXCfxDKP6s8) | 5:00 | 2025-10-20 |  |
-| [an old school uniform](https://open.spotify.com/track/27QV3fXeVtjffZbeJQaGeJ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [an old school uniform](https://open.spotify.com/album/1jNhj04U38EacwYNlb2QGw) | 4:35 | 2025-10-13 |  |
+| [an old school uniform](https://open.spotify.com/track/27QV3fXeVtjffZbeJQaGeJ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [an old school uniform](https://open.spotify.com/album/1jNhj04U38EacwYNlb2QGw) | 4:35 | 2025-10-13 | 2026-01-21 |
 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 | 2022-07-07 | 2022-09-06 |
 | [And I Love You Only](https://open.spotify.com/track/7cGQyTGmrIi9oEc4zkUnEb) | [roku](https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl) | [And I Love You Only](https://open.spotify.com/album/42XGFru197WUSutLUC4f1t) | 2:41 | 2022-03-31 | 2022-04-20 |
 | [And we go](https://open.spotify.com/track/4Z7DIzXHsoJceD9fDVwnWz) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [And we go](https://open.spotify.com/album/1yxgREDY36DYLdeuSvHITY) | 3:20 | 2021-12-20 | 2022-07-08 |
@@ -673,6 +673,7 @@
 | [In Star](https://open.spotify.com/track/2Zd0bxXrdGKjNMbGlkTGOM) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [In Star](https://open.spotify.com/album/0r9zh2sHXZk9OZy0ofc8SF) | 4:00 | 2022-01-27 | 2022-04-23 |
 | [In The End](https://open.spotify.com/track/6CBPmkWVL7uM2foOpObxrl) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [In The End](https://open.spotify.com/album/5yETRDAvNVyFDPsG1ETjJV) | 3:42 | 2022-08-12 | 2022-12-27 |
 | [In The Night](https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/7MDwMSMEZLXv7qcpMIshpe) | 4:19 | 2021-12-20 | 2022-07-03 |
+| [In this City Without You](https://open.spotify.com/track/6kFFrGbrhXHtyEw4vlYFwc) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [In this City Without You](https://open.spotify.com/album/7dbD93q8iuUBn9xCSzJ0Dq) | 4:59 | 2026-01-20 |  |
 | [In this world](https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [In this world \(Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG\) \(Original Soundtrack\)](https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA) | 3:57 | 2022-08-12 | 2022-11-17 |
 | [In time](https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI) | [정오월](https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8) | [In time](https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q) | 4:53 | 2024-04-30 | 2024-09-14 |
 | [INCOMPLETE](https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [\[Vol.51\] You Hee yul's Sketchbook : 28th Voice 'Sketchbook X YOUNHA'](https://open.spotify.com/album/4opF5I4YD6RE1qzSFAMK4D) | 4:32 | 2022-03-29 | 2022-04-15 |

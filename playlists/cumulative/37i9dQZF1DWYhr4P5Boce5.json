@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs of faith, hope, and the greatest of these, love.",
+  "description": "Songs of faith, hope, and the greatest of these, LOVE.",
   "name": "Higher Love",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 225890,
       "name": "2nd Happy",
       "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
@@ -1236,6 +1236,24 @@
       "duration_ms": 148633,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/3UVuCyBiSajWBUGlME1sZL"
+    },
+    {
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
     },
     {
       "album": {

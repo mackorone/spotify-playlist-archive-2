@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: \ub3c4\uacb8X\uc2b9\uad00 (SEVENTEEN)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: KickFlip(\ud0a5\ud50c\ub9bd)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "REVERXE - The 8th Album",
+        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
+    },
+    {
+      "album": {
         "name": "The Dream Chapter: STAR",
         "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
       },
@@ -5381,6 +5399,24 @@
     },
     {
       "album": {
+        "name": "\u539f",
+        "url": "https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
+    },
+    {
+      "album": {
         "name": "MASTER : PIECE",
         "url": "https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC"
       },
@@ -6109,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "From KickFlip, To WeFlip",
+        "url": "https://open.spotify.com/album/4r8i0J0WZXhzbmy9wwTAxp"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hyper Slide (Sung by KYEHOON, DONGHWA, MINJE, KEIJU)",
+      "url": "https://open.spotify.com/track/064sWTOPij4bxEHfdhejwU"
+    },
+    {
+      "album": {
         "name": "AxMxP",
         "url": "https://open.spotify.com/album/7CddXgLBio0ruzFJ31xmjj"
       },
@@ -6138,7 +6192,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
@@ -12004,7 +12058,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 223000,
       "name": "Still, a Flower",
       "url": "https://open.spotify.com/track/3ZWkJYkX2MOpe1ptsGH6wo"
@@ -12022,7 +12076,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 149000,
       "name": "STING (Feat. Muhammad Ali)",
       "url": "https://open.spotify.com/track/63rw2Koed4oOhVvC93iOcF"

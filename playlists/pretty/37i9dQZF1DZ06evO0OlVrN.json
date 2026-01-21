@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8061,
+  "num_followers": 8064,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAABV3bA+Me6NsMIwFO+1ezII",
+  "snapshot_id": "aW10AAAAAAA6HYSmgDR4GzpKDaCeIieg",
   "tracks": [
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estamos en Algo",
-        "url": "https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3"
+        "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
+        "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 173781,
-      "name": "Estamos en Algo",
-      "url": "https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU"
+      "duration_ms": 125176,
+      "name": "Ya No Llores",
+      "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
-        "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 125176,
-      "name": "Ya No Llores",
-      "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
         "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169666,
       "name": "Cruel Dolor",
       "url": "https://open.spotify.com/track/2Jtbo4ClBvVEPuRFzG9SIu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estamos en Algo",
+        "url": "https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 173781,
+      "name": "Estamos en Algo",
+      "url": "https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU"
     },
     {
       "added_at": null,

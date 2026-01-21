@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Juan Freer & El Rabanito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,543 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,565 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 4 | [PLANETA](https://open.spotify.com/track/2OUOsr0nL8AlpkTybFu6RB) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | ["Estoy Bien"](https://open.spotify.com/album/1dE7V9UJxX6jpK1hNAyLyT) | 3:29 |
 | 5 | [ODISSEA](https://open.spotify.com/track/6JIq7GjrtZijTjjP8lP7Je) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [ODISSEA](https://open.spotify.com/album/3otqbadkPnaH1cAYlEZq7t) | 2:41 |
 | 6 | [3 Doritos Después](https://open.spotify.com/track/6tqgBtpij8t3pTpbrxFXbl) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [3 Doritos Después](https://open.spotify.com/album/4IWa6UUmfpsaSap5BUDNmC) | 2:25 |
-| 7 | [19 Dias Y 500 Noches](https://open.spotify.com/track/6L3MWcIig800B6Nasgaln5) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [19 Dias Y 500 Noches](https://open.spotify.com/album/5OxmcHaGe3SSLNblg8kKhd) | 4:46 |
+| 7 | [19 DIAS Y 500 NOCHES](https://open.spotify.com/track/6L3MWcIig800B6Nasgaln5) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [19 DIAS Y 500 NOCHES](https://open.spotify.com/album/5OxmcHaGe3SSLNblg8kKhd) | 4:46 |
 | 8 | [OTRO DESMADRE](https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [OTRO DESMADRE](https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO) | 3:02 |
 | 9 | [Risk Takers](https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 2:35 |
 | 10 | [Colgando En Tus Manos](https://open.spotify.com/track/3Ml0PcFYW79GV3X0GqRqup) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Colgando En Tus Manos](https://open.spotify.com/album/1iEr0YDJQx813gCSAcyDTp) | 3:26 |

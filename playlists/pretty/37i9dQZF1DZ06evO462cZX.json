@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44864,
+  "num_followers": 44863,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAD/yRPb38MwZWyIZy9Qo6Ve",
+  "snapshot_id": "aW10AAAAAAAmlOET5vEh9YI9uLxuuDcH",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Can Be Somebody (feat. Erin McCarley)",
+        "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Erin McCarley",
+          "url": "https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "I Can Be Somebody (feat. Erin McCarley)",
+      "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pica",
         "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 199912,
       "name": "Pica",
       "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Can Be Somebody (feat. Erin McCarley)",
-        "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Erin McCarley",
-          "url": "https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "I Can Be Somebody (feat. Erin McCarley)",
-      "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep It Goin'",
         "url": "https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 175000,
       "name": "Keep It Goin'",
       "url": "https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Front To Back",
         "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 147323,
       "name": "Front To Back",
       "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
+        "name": "Ushua\u00efa",
+        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
       },
       "artists": [
         {
@@ -904,17 +904,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 143359,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
+      "duration_ms": 178666,
+      "name": "Ushua\u00efa",
+      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
     },
     {
       "added_at": null,
@@ -939,22 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ushua\u00efa",
-        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Ushua\u00efa",
-      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -983,18 +975,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
+      "duration_ms": 143359,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
     },
     {
       "added_at": null,
@@ -1043,22 +1043,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mucha Honra",
-        "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
+        "name": "Shakalaka (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 194010,
-      "name": "Te Va a Doler - Deorro Remix",
-      "url": "https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP"
+      "duration_ms": 176571,
+      "name": "Shakalaka (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
     }
   ],
   "unique_name": "This Is Deorro",

@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 36098,
+  "num_followers": 36107,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVt6cyQQvKtCrVuPO+9mJqTPjsS",
+  "snapshot_id": "AAAAAIgjeAUKvaoWFDA9fsLr6qg3a0za",
   "tracks": [
     {
       "added_at": "2026-01-12 14:45:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-12 14:45:10",
       "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2026-01-12 14:45:10",
-      "album": {
         "name": "Fetty Wap (Deluxe)",
         "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 312240,
       "name": "Again",
       "url": "https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB"
+    },
+    {
+      "added_at": "2026-01-12 14:45:10",
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "added_at": "2026-01-12 14:45:10",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-01-12 14:45:10",
       "album": {
-        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
-        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
-      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
-    },
-    {
-      "added_at": "2026-01-12 14:45:10",
-      "album": {
         "name": "Doar La Ea, Ba La Ea",
         "url": "https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
+    },
+    {
+      "added_at": "2026-01-12 14:45:10",
+      "album": {
+        "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+        "url": "https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
+      "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
     },
     {
       "added_at": "2026-01-12 14:45:10",

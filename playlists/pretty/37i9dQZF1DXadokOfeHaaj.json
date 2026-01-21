@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: TEED",
-  "num_followers": 39809,
+  "num_followers": 39822,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "CURIOUS (feat. Toro y Moi)",
-        "url": "https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 230538,
-      "name": "CURIOUS (feat. Toro y Moi)",
-      "url": "https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB"
-    },
-    {
-      "added_at": "2025-12-17 21:11:41",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2025-12-17 21:11:41",
+      "album": {
+        "name": "CURIOUS (feat. Toro y Moi)",
+        "url": "https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 230538,
+      "name": "CURIOUS (feat. Toro y Moi)",
+      "url": "https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB"
     },
     {
       "added_at": "2025-12-17 21:11:41",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+        "name": "Handle With Care/Be The 1",
+        "url": "https://open.spotify.com/album/0FD8zFZVnXiOrmocyO5v21"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
         }
       ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
+      "duration_ms": 173731,
+      "name": "Be The 1",
+      "url": "https://open.spotify.com/track/0hMDlGjmDGLjZTH3s4Sutp"
     },
     {
       "added_at": "2025-12-17 21:11:41",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "Handle With Care/Be The 1",
-        "url": "https://open.spotify.com/album/0FD8zFZVnXiOrmocyO5v21"
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
       },
       "artists": [
         {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 173731,
-      "name": "Be The 1",
-      "url": "https://open.spotify.com/track/0hMDlGjmDGLjZTH3s4Sutp"
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2025-12-17 21:11:41",

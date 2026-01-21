@@ -1,6 +1,6 @@
 {
   "description": "Fold time and space through sound to reach imaginary universes.",
-  "num_followers": 271947,
+  "num_followers": 272000,
   "original_name": "Sci-Fi Scapes",
   "owner": {
     "name": "Spotify",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-11-06 10:57:13",
       "album": {
-        "name": "The Electronic Magic of Tangerine Dream - the Anthology",
-        "url": "https://open.spotify.com/album/7JKzFpsGCnTDYJCzZDxA6o"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 477746,
-      "name": "Landing On 51",
-      "url": "https://open.spotify.com/track/7CI5MHtF2gY6gYml0jqrXe"
-    },
-    {
-      "added_at": "2025-11-06 10:57:13",
-      "album": {
         "name": "Grosses Wasser",
         "url": "https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2025-11-06 10:57:13",
       "album": {
-        "name": "Marmo",
-        "url": "https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx"
+        "name": "The Electronic Magic of Tangerine Dream - the Anthology",
+        "url": "https://open.spotify.com/album/7JKzFpsGCnTDYJCzZDxA6o"
       },
       "artists": [
         {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
         }
       ],
-      "duration_ms": 192300,
-      "name": "Marmo",
-      "url": "https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV"
+      "duration_ms": 477746,
+      "name": "Landing On 51",
+      "url": "https://open.spotify.com/track/7CI5MHtF2gY6gYml0jqrXe"
     },
     {
       "added_at": "2025-11-06 10:57:13",
@@ -1267,26 +1251,34 @@
     {
       "added_at": "2025-11-06 10:57:13",
       "album": {
-        "name": "Space Oddities: Studio Ganaro (1972-1982)",
-        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
+        "name": "Marmo",
+        "url": "https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx"
       },
       "artists": [
         {
-          "name": "Nino Nardini",
-          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
-        },
-        {
-          "name": "Eddie Warner",
-          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
-        },
-        {
-          "name": "Roger Roger",
-          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 123973,
-      "name": "Beyond the Clouds",
-      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
+      "duration_ms": 192300,
+      "name": "Marmo",
+      "url": "https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV"
+    },
+    {
+      "added_at": "2025-11-06 10:57:13",
+      "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Lueena Coast",
+      "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
     }
   ],
   "unique_name": "Sci-Fi Scapes",

@@ -6827,6 +6827,32 @@
     },
     {
       "album": {
+        "name": "Manamey",
+        "url": "https://open.spotify.com/album/1T7a5zkfHILS70fcaaUxBr"
+      },
+      "artists": [
+        {
+          "name": "Sudesh Saravanan",
+          "url": "https://open.spotify.com/artist/51TeUOFJqvxuqPOUg1bRsX"
+        },
+        {
+          "name": "MG Musix",
+          "url": "https://open.spotify.com/artist/5ZlzlqX13MsoNfFmbYTFCW"
+        },
+        {
+          "name": "Yasheswini",
+          "url": "https://open.spotify.com/artist/3eWd6mC0wAEk6wf1Ivmb0a"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Manamey",
+      "url": "https://open.spotify.com/track/5UtNMZNmAkFAhVsZrjecwp"
+    },
+    {
+      "album": {
         "name": "Manase",
         "url": "https://open.spotify.com/album/4OQ26nnhwmautoZOlNkyH4"
       },
@@ -8850,7 +8876,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 242105,
       "name": "Nizhal (From \"Loopd\")",
       "url": "https://open.spotify.com/track/3Czuh1mPJ6vHJBiBdMkvzO"
@@ -11325,6 +11351,24 @@
     },
     {
       "album": {
+        "name": "Simco Gili Gili",
+        "url": "https://open.spotify.com/album/0kNMosp3KQ9fvRHijsgMlE"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Simco Gili Gili",
+      "url": "https://open.spotify.com/track/2K1VopotAsjOFfeuUUSanV"
+    },
+    {
+      "album": {
         "name": "Singa Paadhai",
         "url": "https://open.spotify.com/album/5j5dvTjic8X09GVxNDRk4y"
       },
@@ -13400,7 +13444,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 210261,
       "name": "Uyire Kanave",
       "url": "https://open.spotify.com/track/5tgiuroKKlTNXFmvv52Ukb"

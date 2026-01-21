@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Idaly, Lil Kleine & Boef, Charli XCX, Antoon, Ronnie Flex & Acda en De Munnik en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,038 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,018 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

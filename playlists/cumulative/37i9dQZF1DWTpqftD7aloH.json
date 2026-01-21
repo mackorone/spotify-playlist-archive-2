@@ -2025,6 +2025,28 @@
     },
     {
       "album": {
+        "name": "Deus de Abra\u00e3o (Live In S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/63qOxZOU9MEZJACXYH0LSf"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Cavalcante",
+          "url": "https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG"
+        },
+        {
+          "name": "Ramon e Rafael",
+          "url": "https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV"
+        }
+      ],
+      "date_added": "2026-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277305,
+      "name": "Deus de Abra\u00e3o (Live In S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/7fHCcoBowjPyUdTotvWV04"
+    },
+    {
+      "album": {
         "name": "Esconderijo",
         "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
       },
@@ -6540,7 +6562,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 261453,
       "name": "O Todo Poderoso (Ao Vivo)",
       "url": "https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683"

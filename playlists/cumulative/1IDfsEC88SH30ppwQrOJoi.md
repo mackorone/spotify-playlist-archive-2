@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world.
 
-458 songs - 23 hr 34 min
+459 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [My Mind](https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House 4](https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl) | 2:56 | 2023-08-28 | 2024-03-14 |
 | [My Sweet Lord](https://open.spotify.com/track/6Nx5hN5hAVLiz4es7RZh0C) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Bryan Chambers](https://open.spotify.com/artist/4tBgSJGmUWLMpd5vUFHoUg), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Dance To The Music](https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V) | 3:06 | 2025-07-07 |  |
 | [Mysterious Ways \- Radio Edit](https://open.spotify.com/track/3Nz4UMvy28zhtdpcBeAATx) | [P.WE](https://open.spotify.com/artist/1FlhIRWxDzIPkpLJnOQmr9), [Hey Dan](https://open.spotify.com/artist/4zxGvqUNL38AxF1N0ctzNR) | [Mysterious Ways](https://open.spotify.com/album/6Fxujpbnm3SsUd3LQ9SL7W) | 3:41 | 2023-03-22 | 2024-03-14 |
+| [Ménage À Trois](https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Ménage À Trois](https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl) | 2:55 | 2026-01-20 |  |
 | [NaNa Djon](https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [NaNa Djon](https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA) | 2:41 | 2023-08-02 | 2024-03-14 |
 | [Naughty Girl](https://open.spotify.com/track/2BSgGFDMsopz6bHPww0UR4) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Naughty Girl](https://open.spotify.com/album/28CvZoubvt5xdr5wyx3ZbW) | 3:04 | 2024-08-01 | 2025-10-15 |
 | [Need Your Love](https://open.spotify.com/track/2BHvTbPBEaojVBM7nNrhVl) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Need Your Love](https://open.spotify.com/album/3UxMb30QWQEcQLatgnxCyb) | 3:52 | 2023-09-30 | 2024-05-01 |

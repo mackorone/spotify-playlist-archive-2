@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,863 songs - 8 day 13 hr 8 min
+3,870 songs - 8 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Alexa!](https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Alexa!](https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9) | 3:54 | 2025-11-05 |  |
 | [Algoritma](https://open.spotify.com/track/5a3a7HXFNV3H0gVBtBJhSC) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Algoritma](https://open.spotify.com/album/3M07kQYS3Lq7ToFz1x0kp7) | 2:54 | 2025-07-04 |  |
 | [Alive](https://open.spotify.com/track/6ykX62ypcBTDZQYFqmfU7A) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Alive](https://open.spotify.com/album/2R3sQJdRmFFviu2VEwxWck) | 2:54 | 2025-02-01 |  |
+| [Alive](https://open.spotify.com/track/0JaiiwvEuMTV5RBW0qsL3U) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Alive](https://open.spotify.com/album/4W94ReICml5STRqCHV3x3Z) | 3:37 | 2026-01-20 |  |
 | [Alive \- Radio Edit](https://open.spotify.com/track/2dnFHAC3jcZF3znkqdol9I) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 4:15 | 2025-06-05 |  |
 | [Alkarab](https://open.spotify.com/track/3utdGhBgQSjuCQEdq0Jzyx) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Alkarab](https://open.spotify.com/album/2j3X8PrU7sAbyTt0ipINWY) | 2:18 | 2025-06-04 |  |
 | [All Alone](https://open.spotify.com/track/08VrMBKUlXoFiWVhLBIp9P) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [With You \(Days In Nines\)](https://open.spotify.com/album/0mT6aPu2ePb3lvjrqQM1Xz) | 4:13 | 2025-03-03 |  |
@@ -674,6 +675,7 @@
 | [Crisalide](https://open.spotify.com/track/7haXcLi7dwzfql2RzUvvsd) | [Zephiro](https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ) | [Baikonur](https://open.spotify.com/album/00L7KNS2LWUiSMTM54Irhr) | 3:32 | 2025-06-06 |  |
 | [Cristo moderno](https://open.spotify.com/track/7dvGx2vz27QrDeJUJ1E1Bp) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn), [I Paradisi](https://open.spotify.com/artist/7F98U5g3UfhjAd6rhefY1A) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:26 | 2025-06-06 |  |
 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 | 2025-05-23 |  |
+| [CROCEVIA](https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [CROCEVIA](https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv) | 2:24 | 2026-01-20 |  |
 | [Cross](https://open.spotify.com/track/4dNxRlFdR7Zev6JuIjuhpX) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [Cross](https://open.spotify.com/album/1uUnqmcPIxByy7uFJIdRdX) | 3:13 | 2025-12-04 |  |
 | [Crowd all Night](https://open.spotify.com/track/0dlnrqBXCtLgtt6RmI13QR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 3:08 | 2025-09-19 |  |
 | [Crowd all Night \(another\)](https://open.spotify.com/track/4mIqAlaRbkrbkThEk2XoNE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 2:54 | 2025-09-19 |  |
@@ -966,6 +968,7 @@
 | [E' quasi l'alba](https://open.spotify.com/track/05RJeYH7ueLm32Z4YNefRu) | [Marco Tobia](https://open.spotify.com/artist/03GV1BPNJYaXeo748CRhn8) | [11 novembre](https://open.spotify.com/album/1WJtkZgT9lAIGoF4MVX243) | 3:11 | 2025-06-05 |  |
 | [E' quasi l'alba](https://open.spotify.com/track/7iK0ee9QUGz4nAnXhJMKXM) | [Marco Tobia](https://open.spotify.com/artist/03GV1BPNJYaXeo748CRhn8) | [E' quasi l'alba](https://open.spotify.com/album/5Ud8sBN3SeMS7tTXphm7Ug) | 3:11 | 2025-07-26 |  |
 | [E2 Interlude](https://open.spotify.com/track/4LTwcZXcQ6tVYNB561v5a2) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Enjoymenting 2](https://open.spotify.com/album/0v0whlimp895NskZy3CPuv) | 2:05 | 2025-05-16 |  |
+| [Early Late Night](https://open.spotify.com/track/1Qxa2kN473Lo0xw7uWcMLR) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn) | [Early Late Night](https://open.spotify.com/album/0wAU31m7rHGrYv7AUECEvr) | 1:55 | 2026-01-21 |  |
 | [Earth Forgets To Cry](https://open.spotify.com/track/2QXo5MYIdGus3rFYF9v93y) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Earth Forgets To Cry](https://open.spotify.com/album/2sSOUEVEqByngC2mi4e7Nn) | 3:38 | 2025-08-31 |  |
 | [Easter Pink](https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Easter Pink](https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5) | 1:24 | 2025-07-28 |  |
 | [Easy For You To Say](https://open.spotify.com/track/0317DN1M7DZAmqqtZHm60y) | [bigfatbig](https://open.spotify.com/artist/7yjYPgZPGlJVlYf2EJAUcf) | [Rockin' and Rollin' and Whatnot](https://open.spotify.com/album/4PBaDAryXcqql6lt0FGi05) | 3:43 | 2025-11-05 |  |
@@ -1307,6 +1310,7 @@
 | [Fly](https://open.spotify.com/track/7vwY4dMxdUSRPvzbxEDImv) | [Sosino](https://open.spotify.com/artist/3N3Fm0hNW4lWeYysGAzFhL) | [Fly](https://open.spotify.com/album/3i0qCu6c4wVxkOse6Ddkmu) | 3:43 | 2025-06-04 |  |
 | [Follow the Trend](https://open.spotify.com/track/4RQWtDnEPxcoPPKV38VgdH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Trend Cool Fashion Pop Music](https://open.spotify.com/album/57wTkuygWZQS3p82tqeciv) | 2:39 | 2025-09-18 |  |
 | [Follow the Trend \(another\)](https://open.spotify.com/track/6VXfeTRPAZ3YBKSby8xl20) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Trend Cool Fashion Pop Music](https://open.spotify.com/album/57wTkuygWZQS3p82tqeciv) | 2:04 | 2025-09-18 |  |
+| [Follow You](https://open.spotify.com/track/4ElvUEDrfa5O2fMIOafDdI) | [J.C\. Maru](https://open.spotify.com/artist/0P9mdqeeWfIG1jyBSsLUC7) | [Follow You](https://open.spotify.com/album/4U8GAhOShNYQE6YuhdmK2D) | 3:21 | 2026-01-21 |  |
 | [Fools Gold](https://open.spotify.com/track/59dVgYhcQtBFoV7M5j0fJC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [What Would You Do?](https://open.spotify.com/album/6JTXppyr3qBniCWC05hns7) | 1:15 | 2025-05-16 |  |
 | [For Love \- iBhima](https://open.spotify.com/track/5r3H8CSXdsb9XzDBoQQjWv) | [Sosino](https://open.spotify.com/artist/3N3Fm0hNW4lWeYysGAzFhL) | [For Love \(iBhima\)](https://open.spotify.com/album/2frvwUIlD1qTQHG0lmKTNd) | 3:14 | 2025-06-04 |  |
 | [for the first time](https://open.spotify.com/track/70geTf1srgTyIyvkE7aARZ) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [florence fields](https://open.spotify.com/album/7CaY1L6DsyGzWdA2az11a4) | 3:16 | 2025-05-16 |  |
@@ -2382,6 +2386,7 @@
 | [NPC](https://open.spotify.com/track/0j2wewfj453noTk4pz7Tlk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 3:28 | 2025-09-17 |  |
 | [Number ONE](https://open.spotify.com/track/0Bq3D2X6hR1HaOpaRmtB0i) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [Number ONE](https://open.spotify.com/album/3zwn1iOfzQFMMv9Q7ewOQn) | 2:37 | 2025-06-04 |  |
 | [NuovaEra](https://open.spotify.com/track/3zjTVmTv7YbXWj1sv1yYGk) | [Aleph Viola](https://open.spotify.com/artist/4PU84mKkib4cTMPGUMYMXr) | [NuovaEra](https://open.spotify.com/album/0UNz5jqlnttpwFDgsjuV06) | 3:29 | 2025-07-30 |  |
+| [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 | 2026-01-20 |  |
 | [Nura](https://open.spotify.com/track/1r0tSRtG85WzU8BXY9w3WP) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Nura](https://open.spotify.com/album/3Qw5OcvnTYtXjU78OmDDwQ) | 2:00 | 2025-03-18 |  |
 | [O Aqui e Agora Conta](https://open.spotify.com/track/6MWBDYKB2z2fFYI7bHOIAk) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:34 | 2025-05-05 |  |
 | [O Superman](https://open.spotify.com/track/421Gp1eSmOIcD6alTWowFR) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 8:25 | 2025-12-04 |  |
@@ -2937,6 +2942,7 @@
 | [Siempre Tú](https://open.spotify.com/track/7fLw5K3VyOCVbGybBvEMtM) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ DODY](https://open.spotify.com/artist/0y1hN8B09taNHRu4nQnW6g), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [Siempre Tú](https://open.spotify.com/album/7dxPaACWSsPxhQVL7x7t45) | 2:52 | 2025-12-10 |  |
 | [Siempre Yendo](https://open.spotify.com/track/51YXm6NspBzpDVQ5Tnlst2) | [Sampras](https://open.spotify.com/artist/2t9OExVf9Tch7aiEKKF2Me) | [Notas de Viaje](https://open.spotify.com/album/55yh5ECbFozPrVagbDrf9S) | 3:11 | 2025-05-20 |  |
 | [Sigma](https://open.spotify.com/track/2Oov6lssSbiIED3nwcV5ip) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:06 | 2025-09-17 |  |
+| [Signal Lost](https://open.spotify.com/track/4VptXFAq9u0CYJ5enpKBGW) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 3:00 | 2026-01-21 |  |
 | [Signoramia](https://open.spotify.com/track/5j7ml8ZPPaPOJblhgBPiET) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 4:32 | 2025-05-29 |  |
 | [Silent Crave](https://open.spotify.com/track/63m0kqlznLBT6ftG76Uglk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 3:14 | 2025-09-20 |  |
 | [Silent Enigma](https://open.spotify.com/track/1Jn8cVpM5motKKpKimecDO) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Silent Enigma](https://open.spotify.com/album/5a7OFjz804VcD4mI2j9hOt) | 9:19 | 2025-06-04 |  |
@@ -3155,6 +3161,7 @@
 | [Still](https://open.spotify.com/track/7jaJmDGkrPIlAA6IlyiYa3) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:30 | 2025-09-11 |  |
 | [Still Came Running](https://open.spotify.com/track/0ZVL2bd7J8raZaWJkD1US5) | [Late\-Night Hologram](https://open.spotify.com/artist/4rMqkcplVUUrXXu6fbmGAE) | [Still Came Running](https://open.spotify.com/album/0sP9peQMRm1qNF5VuBW6Yt) | 3:21 | 2025-09-18 |  |
 | [Still High](https://open.spotify.com/track/3fYYpo0z2KCpVd4YUtfHiC) | [Billionaire](https://open.spotify.com/artist/4Z2lKTXxd7UmdBkzMlsriX) | [Brown Cigarettes & Sunsets](https://open.spotify.com/album/2STjtjHeuKXzwWbms43eNy) | 2:36 | 2025-06-16 |  |
+| [Still Human](https://open.spotify.com/track/0oiFmhtY6O8VlQ5PCtmjY2) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 2:35 | 2026-01-21 |  |
 | [Still Streets](https://open.spotify.com/track/5LoIhSmzdEyBik5b7BKTxi) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:34 | 2025-07-03 |  |
 | [Sto bene](https://open.spotify.com/track/19E8ChjGPz0ndKJMKIC4G2) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Sto bene](https://open.spotify.com/album/3N7sL4sTcMEnoSfTvNrIot) | 3:44 | 2025-06-06 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-21 |  |

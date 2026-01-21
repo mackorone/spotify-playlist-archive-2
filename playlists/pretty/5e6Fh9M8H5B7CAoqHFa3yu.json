@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAH4NPD+RSyADznA8b4YD86ehgsdjDf",
+  "snapshot_id": "AAAH4T5s5qBmxm4TSjpotp7L/fB3aoW0",
   "tracks": [
+    {
+      "added_at": "2026-01-21 01:10:56",
+      "album": {
+        "name": "State My Name",
+        "url": "https://open.spotify.com/album/6SPoJhtu9tB9b1jVMKdUmU"
+      },
+      "artists": [
+        {
+          "name": "Cypha da Moonchild",
+          "url": "https://open.spotify.com/artist/0LISOGYNKwYzXPlciYJKve"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "State My Name",
+      "url": "https://open.spotify.com/track/2FgzfxogYyqwfularL52LE"
+    },
     {
       "added_at": "2026-01-15 10:14:41",
       "album": {

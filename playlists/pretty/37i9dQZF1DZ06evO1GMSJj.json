@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 27142,
+  "num_followers": 27148,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAAx4qF+638S/8qzJOfQ6KKF",
+  "snapshot_id": "aW10AAAAAABnuRJmDGQd+vQMiCZytCd6",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,26 @@
       "duration_ms": 92801,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corymb",
+        "url": "https://open.spotify.com/album/4xqSQIJoitX1MxaBl1nwYG"
+      },
+      "artists": [
+        {
+          "name": "Boom Bip",
+          "url": "https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 270746,
+      "name": "Last Walk Around Mirror Lake - Boards of Canada Remix",
+      "url": "https://open.spotify.com/track/2iDoKVqyiCdu327FaqJCNH"
     },
     {
       "added_at": null,

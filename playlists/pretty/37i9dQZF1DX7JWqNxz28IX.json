@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47316,
+  "num_followers": 47311,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 252705,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 216389,
       "name": "NON MI RICONOSCO \u2260 (con centomilacarie, Salmo)",
       "url": "https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "L'unica",
-        "url": "https://open.spotify.com/album/7GztH92sea7XhAY894aycj"
-      },
-      "artists": [
-        {
-          "name": "tellynonpiangere",
-          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "L'unica",
-      "url": "https://open.spotify.com/track/3HFuWPn66BiUM4bMkYpw7j"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "\u00c8 Andata Cos\u00ec",
         "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 232800,
       "name": "\u00c8 Andata Cos\u00ec",
       "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "L'unica",
+        "url": "https://open.spotify.com/album/7GztH92sea7XhAY894aycj"
+      },
+      "artists": [
+        {
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+        }
+      ],
+      "duration_ms": 184163,
+      "name": "L'unica",
+      "url": "https://open.spotify.com/track/3HFuWPn66BiUM4bMkYpw7j"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "QUARTA DIMENSIONE",
-        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
-      },
-      "artists": [
-        {
-          "name": "Carla Hero",
-          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "CAMBIARE VITA",
-      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "PROLOGO",
         "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 193067,
       "name": "solo polvere.",
       "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "TauroTape3",
         "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 177777,
       "name": "Xelisa2 (feat. ARIETE)",
       "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "la cosa pi\u00f9 vicina al cielo",
-        "url": "https://open.spotify.com/album/7cGuc4jzxmV6SFlQ1uGosE"
-      },
-      "artists": [
-        {
-          "name": "3win$",
-          "url": "https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY"
-        }
-      ],
-      "duration_ms": 181612,
-      "name": "la cosa pi\u00f9 vicina al cielo",
-      "url": "https://open.spotify.com/track/5O9KVG1qj77hZllFbDGmfz"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "ERA L\u2019INIZIO",
         "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "la cosa pi\u00f9 vicina al cielo",
+        "url": "https://open.spotify.com/album/7cGuc4jzxmV6SFlQ1uGosE"
+      },
+      "artists": [
+        {
+          "name": "3win$",
+          "url": "https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY"
+        }
+      ],
+      "duration_ms": 181612,
+      "name": "la cosa pi\u00f9 vicina al cielo",
+      "url": "https://open.spotify.com/track/5O9KVG1qj77hZllFbDGmfz"
     },
     {
       "added_at": "2025-12-22 14:49:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-12-22 14:49:48",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2025-12-22 14:49:48",
-      "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 200571,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+    },
+    {
+      "added_at": "2025-12-22 14:49:48",
+      "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2025-12-22 14:49:48",

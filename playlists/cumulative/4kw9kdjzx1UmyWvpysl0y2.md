@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,155 songs - 2 day 16 hr 34 min
+1,156 songs - 2 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [CASHMERE](https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [CASHMERE](https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V) | 2:59 | 2022-09-12 | 2022-11-11 |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-02-03 | 2022-04-14 |
 | [Caught Between](https://open.spotify.com/track/36oJ6fOZHn0dEjGY9EPb9y) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Caught Between](https://open.spotify.com/album/1eJ9aC4RMU10ZtBBTbw4on) | 3:33 | 2025-12-10 |  |
+| [Cautious Love](https://open.spotify.com/track/7dkFMhhah6uSpaoOjg5jIG) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Cautious Love](https://open.spotify.com/album/7zSpyFV7k3KNbtS1yiU1sl) | 3:34 | 2026-01-20 |  |
 | [Changing](https://open.spotify.com/track/1kQpog4exXjcld0wSfB8Yq) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Changing](https://open.spotify.com/album/3YQ1hVACVI6ZQmkLvDj0O9) | 3:59 | 2021-11-19 | 2022-02-05 |
 | [CHAOS WILL BRING PEACE](https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [CHAOS WILL BRING PEACE](https://open.spotify.com/album/4cBCMwA1k3oOwFd1RSGs7r) | 2:40 | 2025-01-24 | 2025-05-01 |
 | [Charmer](https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Charmer](https://open.spotify.com/album/24LzfYkJVldWDPJWfilfoM) | 3:36 | 2023-04-20 | 2023-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: FloyyMenor
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,890 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,920 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 51 | [6AM \- TAN MOLESTOS?](https://open.spotify.com/track/64jUp2Co5VHvcsUZKjCwg0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [ESA NOCHE TERMINÓ DE DÍA](https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv) | 2:20 |
 | 52 | [tu nama](https://open.spotify.com/track/0qxoRhNPVJAZhqH9olE86G) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [tu nama](https://open.spotify.com/album/6TPPV25rcptoYJrFnnEigH) | 3:20 |
 | 53 | [D1UNA](https://open.spotify.com/track/5u2TYpeirVSW3hl7osdYqN) | [VEI HABACHE](https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z), [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Tommy Blanco](https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch) | [D1UNA](https://open.spotify.com/album/3R1gRCAhTk0ttkGkIMBA5N) | 3:15 |
-| 54 | [ENTREGADA](https://open.spotify.com/track/4cD80YeQL45w9HyWtQ0A2W) | [Wallance](https://open.spotify.com/artist/0VV4w7YPOUcNuW0UCVyUiq), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [VERIDICO](https://open.spotify.com/album/7lb4pdehU4jCoHJkwlr9A8) | 2:12 |
+| 54 | [ENTREGADA](https://open.spotify.com/track/4cD80YeQL45w9HyWtQ0A2W) | [Wallance](https://open.spotify.com/artist/0VV4w7YPOUcNuW0UCVyUiq), [Fharid On The Beat](https://open.spotify.com/artist/6MU8So0Itna1DqElU4t9vC) | [VERIDICO](https://open.spotify.com/album/7lb4pdehU4jCoHJkwlr9A8) | 2:12 |
 | 55 | [Sin Amarte](https://open.spotify.com/track/2vyzcUJy0RAdN7RedjtXCb) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [L\-O\-N](https://open.spotify.com/artist/3nzfJeScfLaqasTrNn2QGj) | [Las Del Stream \(Vol\. 1\)](https://open.spotify.com/album/1j6siNYKYtCfBODm1G0dd9) | 2:56 |
 | 56 | [VEN](https://open.spotify.com/track/3N204Yld2YUDtjvOf4SO4O) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [FRÍO](https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu) | 2:36 |
 | 57 | [UNFOLLOW](https://open.spotify.com/track/2twJWqZgYxS9FYEm52HrCE) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [UNFOLLOW](https://open.spotify.com/album/60Ar6Q5TcD5007BxnYvE3K) | 3:48 |

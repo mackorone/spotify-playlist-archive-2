@@ -2,7 +2,7 @@
 
 ### [Pop en Inglés](https://open.spotify.com/playlist/37i9dQZF1DX2oVzuo0LbVg)
 
-> Pop Anglo para acompañar tus mejores momentos\. Foto: Harry Styles
+> Pop Anglo para acompañar tus mejores momentos\. Foto: Dua Lipa
 
 289 songs - 15 hr 58 min
 

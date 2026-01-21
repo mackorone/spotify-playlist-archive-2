@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Januar kurren er landet: ❤️‍🩹 Nyhavn ❤️‍🩹 Thor Farlov og Ella Augusta
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,917 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,913 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 59 | [Big Shot](https://open.spotify.com/track/7FWeP4D0vfu0PXktx23IKC) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [Instr](https://open.spotify.com/artist/1HC72NomBqdUUEcrRD6CsE) | [Big Shot](https://open.spotify.com/album/0DsSoMJFmBKPbZFV0O7GpN) | 2:14 |
 | 60 | [Sugar On My Lips](https://open.spotify.com/track/3HmNPB5ipFFUMElstrWfN2) | [Iris Gold](https://open.spotify.com/artist/6DyxyAiluuZ008t0ITLwOI) | [Sugar On My Lips](https://open.spotify.com/album/10lRNIDlz7lweaiBxGs4as) | 3:19 |
 | 61 | [Haircut](https://open.spotify.com/track/6S77CN5CCgyPM4DLDlVJOR) | [Polly](https://open.spotify.com/artist/6bgHaCCE9UiIf2leOgjdtW) | [Ice Skater](https://open.spotify.com/album/0lNPRqgHAsPkfPlpzKh9gD) | 3:50 |
-| 62 | [Papi](https://open.spotify.com/track/2XD1Lpb9ofKXBAvGwe0qSe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Papi](https://open.spotify.com/album/3cTuhiDC85RUjhmysytPcw) | 2:30 |
+| 62 | [Papi](https://open.spotify.com/track/2XD1Lpb9ofKXBAvGwe0qSe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Papi](https://open.spotify.com/album/3cTuhiDC85RUjhmysytPcw) | 2:17 |
 | 63 | [Gucci Umbrella / Terapi](https://open.spotify.com/track/6QEtRUaekpEJmn1Arsr7yu) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF) | [Gucci Umbrella / Terapi](https://open.spotify.com/album/4hIxiImgniulyHVKmzNy71) | 3:35 |
 | 64 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 |
 | 65 | [I Can Tell](https://open.spotify.com/track/252tNXhI3Zhelg0Tpnn5K0) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [I Can Tell](https://open.spotify.com/album/5ur2mp5p20STnhmulkP2B2) | 3:12 |

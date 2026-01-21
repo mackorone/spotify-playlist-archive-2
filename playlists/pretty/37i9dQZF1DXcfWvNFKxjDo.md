@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,385 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,371 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 57 | [Lucid Dreams \(Shadows In My Room\)](https://open.spotify.com/track/0NUScbbLFIwS3a2RCi1i5w) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Lucid Dreams \(Shadows In My Room\)](https://open.spotify.com/album/6AcO0MTgl9ETs43ZhRuh4G) | 3:21 |
 | 58 | [Eisbär](https://open.spotify.com/track/5KGCgOX4ZywGZlNe0XQCMV) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk), [Buffalo&Wallace](https://open.spotify.com/artist/0lPzOv2msNA0Ium1aWkNi8), [Schalldicht](https://open.spotify.com/artist/1eVvlV77JAf5puSZPg1aQ2) | [Eisbär](https://open.spotify.com/album/2Fp3YLVybzCvbXuGBKDJwz) | 2:28 |
 | 59 | [No Limit](https://open.spotify.com/track/2y6MYgzqlLyho5wU0aaQO3) | [ROBIN WHITE](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [HAEHNCHENTEIlE](https://open.spotify.com/artist/1BEpUJOYj36hCG876sst3I) | [No Limit](https://open.spotify.com/album/0M0rD4hGJvUdOdxPSD7WjZ) | 2:41 |
-| 60 | [Papi](https://open.spotify.com/track/2XD1Lpb9ofKXBAvGwe0qSe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Papi](https://open.spotify.com/album/3cTuhiDC85RUjhmysytPcw) | 2:30 |
+| 60 | [Papi](https://open.spotify.com/track/2XD1Lpb9ofKXBAvGwe0qSe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Papi](https://open.spotify.com/album/3cTuhiDC85RUjhmysytPcw) | 2:17 |
 | 61 | [I Don't Like To Drink](https://open.spotify.com/track/24S33jPyGnuvLOLPR6LUnt) | [Good Knights](https://open.spotify.com/artist/1ctBhsLQsuQKcbRgFHPI67), [LUCØ](https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w) | [I Don't Like To Drink](https://open.spotify.com/album/2ywqlz1bemseRqIfqma6tE) | 2:52 |
 | 62 | [Stay Awake](https://open.spotify.com/track/3BKeoPEwnGbEnOPLiZWLoi) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Stay Awake](https://open.spotify.com/album/2XfUz0zjGmmq0vrD1fAOdq) | 2:58 |
 | 63 | [SPIRAL](https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [SPIRAL](https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17) | 2:58 |

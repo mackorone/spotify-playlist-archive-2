@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : LYNN
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,777 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,774 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 46 | [Bora Bora \- Live](https://open.spotify.com/track/0PCHGATqzgupul3FMMQR6u) | [Haïlé Dästa](https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG) | [Médecine](https://open.spotify.com/album/4o5V3Q9xJqwYtUIILCfsFf) | 3:49 |
 | 47 | [MÂLE](https://open.spotify.com/track/5hcDdEW0Do38tgoYQMjTLT) | [Tamisha](https://open.spotify.com/artist/6h9iktwYq6f5sZ6vysvL1O) | [MÂLE](https://open.spotify.com/album/0AlDMomSvm7FF7T8RGzpon) | 3:09 |
 | 48 | [pas si bien](https://open.spotify.com/track/1k8E3rowxVRmLjHXWdQLbI) | [Kïerra](https://open.spotify.com/artist/4UYfoEvsfMWhMVb6vl1rXZ) | [pas si bien](https://open.spotify.com/album/4pWDELdeqvvSMU2YuZA9KN) | 3:30 |
-| 49 | [attention](https://open.spotify.com/track/56qWdInzVg3YP6GvVvj5Vp) | [Yend](https://open.spotify.com/artist/1ETAICxy3MJuIEmS8YWL4s) | [attention](https://open.spotify.com/album/6zAcXtD1C9LrWDZamPaSFS) | 2:34 |
+| 49 | [attention](https://open.spotify.com/track/56qWdInzVg3YP6GvVvj5Vp) | [ŸEND](https://open.spotify.com/artist/1ETAICxy3MJuIEmS8YWL4s) | [attention](https://open.spotify.com/album/6zAcXtD1C9LrWDZamPaSFS) | 2:34 |
 | 50 | [Jaloux](https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Jaloux](https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8) | 2:48 |
 
 Snapshot ID: `AAAAAOS100wh4Djr7OqviwTERNZTwBTw`

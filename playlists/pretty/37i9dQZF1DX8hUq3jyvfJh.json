@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a Julia Mestre e mais mulheres incr\u00edveis no volume m\u00e1ximo! ",
-  "num_followers": 190684,
+  "num_followers": 190678,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOwdlQlh5dbDGqJdF03yXOS9LnS",
+  "snapshot_id": "AAAAALlRGq/tFrNdFEC3idPd3BJttMqo",
   "tracks": [
     {
       "added_at": "2026-01-12 14:01:02",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-01-12 14:01:02",
       "album": {
+        "name": "Doce, Dengosa, Polida",
+        "url": "https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 204096,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal"
+    },
+    {
+      "added_at": "2026-01-12 14:01:02",
+      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/6lhd9FDNmM9ba9sqOAk6Ka"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 168225,
       "name": "Ain\u2019t Got No",
       "url": "https://open.spotify.com/track/4MUOuZNzV7OEv1dcCxbGn5"
-    },
-    {
-      "added_at": "2026-01-12 14:01:02",
-      "album": {
-        "name": "Doce, Dengosa, Polida",
-        "url": "https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 204096,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal"
     },
     {
       "added_at": "2026-01-12 14:01:02",

@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 646359,
+  "num_followers": 646600,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2026-01-16 08:49:28",
       "album": {
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 196780,
+      "name": "C'est si bon - 2012",
+      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
+    },
+    {
+      "added_at": "2026-01-16 08:49:28",
+      "album": {
         "name": "Sympathique",
         "url": "https://open.spotify.com/album/29MX9p2H3rBVdQAuSCQ8rc"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 170880,
       "name": "Sympathique",
       "url": "https://open.spotify.com/track/4YgSlaIvdQfu8JU78x7MaZ"
-    },
-    {
-      "added_at": "2026-01-16 08:49:28",
-      "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 196780,
-      "name": "C'est si bon - 2012",
-      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
     },
     {
       "added_at": "2026-01-16 08:49:28",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-01-16 08:49:28",
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+    },
+    {
+      "added_at": "2026-01-16 08:49:28",
+      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 252653,
       "name": "O\u00f9 est ma t\u00eate?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
-    },
-    {
-      "added_at": "2026-01-16 08:49:28",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
     },
     {
       "added_at": "2026-01-16 08:49:28",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-01-16 08:49:28",
       "album": {
-        "name": "Frenchy (Deluxe Version)",
-        "url": "https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Un homme et une femme",
-      "url": "https://open.spotify.com/track/64aUYyD7RXmseLmB6WX56k"
-    },
-    {
-      "added_at": "2026-01-16 08:49:28",
-      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2026-01-16 08:49:28",
+      "album": {
+        "name": "Frenchy (Deluxe Version)",
+        "url": "https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Un homme et une femme",
+      "url": "https://open.spotify.com/track/64aUYyD7RXmseLmB6WX56k"
     },
     {
       "added_at": "2026-01-16 08:49:28",

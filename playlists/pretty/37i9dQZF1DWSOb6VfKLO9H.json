@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 104406,
+  "num_followers": 104444,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "R\u00e9mi",
-        "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
       },
       "artists": [
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         },
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         }
       ],
-      "duration_ms": 165534,
-      "name": "Energie",
-      "url": "https://open.spotify.com/track/1riPE3NCV1OBmSXqpYiMJY"
+      "duration_ms": 225737,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -91,22 +91,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+        "name": "R\u00e9mi",
+        "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         },
         {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 225737,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz"
+      "duration_ms": 165534,
+      "name": "Energie",
+      "url": "https://open.spotify.com/track/1riPE3NCV1OBmSXqpYiMJY"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -212,6 +212,22 @@
           "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
         },
         {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
           "name": "Ronnie Flex",
           "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
@@ -219,26 +235,6 @@
       "duration_ms": 172610,
       "name": "Lovely Body",
       "url": "https://open.spotify.com/track/65ExBcuMthmxRVnPVvWCe3"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "R\u00e9mi",
-        "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Come Again",
-      "url": "https://open.spotify.com/track/0bWzmIbEKh0xFRb1pTSQAw"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -259,6 +255,26 @@
       "duration_ms": 226912,
       "name": "Ik Kom Bij Je",
       "url": "https://open.spotify.com/track/5CeKSGsjyGQ0ck2UeMDbBw"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "R\u00e9mi",
+        "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Come Again",
+      "url": "https://open.spotify.com/track/0bWzmIbEKh0xFRb1pTSQAw"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -578,6 +594,22 @@
         {
           "name": "SFB",
           "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
         }
       ],
       "duration_ms": 185487,
@@ -732,8 +764,24 @@
           "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
         },
         {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
           "name": "Murda",
           "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
         }
       ],
       "duration_ms": 216861,
@@ -979,6 +1027,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/6H55FrOOybLadaCeXnBGSn"
       },
@@ -1003,22 +1067,6 @@
       "duration_ms": 196637,
       "name": "Culo",
       "url": "https://open.spotify.com/track/442ctQ3OBBk8aMo3Ma3wRX"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1051,6 +1099,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Wat Is Je Naam",
+        "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "Wat Is Je Naam",
+      "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1075,26 +1143,6 @@
       "duration_ms": 225175,
       "name": "wine slow - remix",
       "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Wat Is Je Naam",
-        "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
-      },
-      "artists": [
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "Wat Is Je Naam",
-      "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
     },
     {
       "added_at": "2024-07-19 06:38:33",

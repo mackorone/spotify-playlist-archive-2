@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 37 songs - 2 hr 11 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 42 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 35 | [Clementine](https://open.spotify.com/track/21335sVPNGZtNLVp3uV7zc) | [Karibu Sana](https://open.spotify.com/artist/3tnXu74lhPhxXiOhDrWdHH) | [Clementine](https://open.spotify.com/album/6zwDrIUF7DCqQr1sFtCgkI) | 4:13 |
 | 36 | [California](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 |
 | 37 | [Me desviví](https://open.spotify.com/track/7Moz8l65RSvMyvWzwL0AcI) | [Sean Kyrk](https://open.spotify.com/artist/57fMXyE7NSg5tVHlE8Bgk2) | [Me desviví](https://open.spotify.com/album/3g6ovyU775phwb4L284jBi) | 3:12 |
+| 38 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 |
+| 39 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 |
+| 40 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 |
+| 41 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 |
+| 42 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
 
-Snapshot ID: `AAAM7WuUsIq0BB4841t2x5Uk8vsdJACi`
+Snapshot ID: `AAAM8p+N3TxDZw4FMxSZa0/Nr1zrW5Mt`

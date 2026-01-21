@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: sheidA\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: sh1t\n",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 311173,
       "name": "03- Glo Cypher 2025 (feat. MIKADO, 3Li\u00a5en, Hezron, lj & HARKA)",
       "url": "https://open.spotify.com/track/4qwZhPbYhhwfPTj4bMagyd"
@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 169012,
       "name": "Brand new",
       "url": "https://open.spotify.com/track/6HWxcHHF26U2D7vKWR3Aa3"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 212584,
       "name": "Bye Emotion (feat. 11)",
       "url": "https://open.spotify.com/track/18Guabmt8uB8DJ6EkQwKca"
@@ -8632,7 +8632,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 198095,
       "name": "Go Taxi (feat. Sad Kid Yaz)",
       "url": "https://open.spotify.com/track/4sNVvVBzcDViCGMgUO7wqA"
@@ -13563,6 +13563,24 @@
     },
     {
       "album": {
+        "name": "Mid Night Emotions",
+        "url": "https://open.spotify.com/album/1DoQzfry91oDPIpilYo27V"
+      },
+      "artists": [
+        {
+          "name": "jellyy",
+          "url": "https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170754,
+      "name": "Mid Night Emotions",
+      "url": "https://open.spotify.com/track/2TzpqaSmOQNr3Tjcqnm9Xg"
+    },
+    {
+      "album": {
         "name": "Mind",
         "url": "https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK"
       },
@@ -14198,6 +14216,24 @@
       "duration_ms": 198620,
       "name": "N side Nostalgia",
       "url": "https://open.spotify.com/track/2YX1I8Lfl1jhDh5IE5DG1M"
+    },
+    {
+      "album": {
+        "name": "Nagoya Rich Boy",
+        "url": "https://open.spotify.com/album/5l2z1xn9H6tCKeEpgbxryp"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156832,
+      "name": "Nagoya Rich Boy",
+      "url": "https://open.spotify.com/track/6Az9c6jDsW0UiGLhaJsgSF"
     },
     {
       "album": {
@@ -15352,6 +15388,24 @@
       "duration_ms": 95750,
       "name": "nova",
       "url": "https://open.spotify.com/track/0RYnLHPWOZvhOTUtCPRzyQ"
+    },
+    {
+      "album": {
+        "name": "Number_1",
+        "url": "https://open.spotify.com/album/1uB2JDlQyBxPSY4Whp450n"
+      },
+      "artists": [
+        {
+          "name": "BABYWOODROSE",
+          "url": "https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116470,
+      "name": "Number_1",
+      "url": "https://open.spotify.com/track/3O4cfn1uecXpxILi0qf2BX"
     },
     {
       "album": {
@@ -18944,6 +18998,28 @@
     {
       "album": {
         "name": "Shibuya",
+        "url": "https://open.spotify.com/album/5aARgJUvKBGbYtOrTG77AY"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        },
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/3bXhUkVq9kh7pWuh3prLPD"
+    },
+    {
+      "album": {
+        "name": "Shibuya",
         "url": "https://open.spotify.com/album/1NsL5PKYTDjobVKxuSeMvc"
       },
       "artists": [
@@ -22449,6 +22525,24 @@
     },
     {
       "album": {
+        "name": "Want It",
+        "url": "https://open.spotify.com/album/2wkBp2lrE1ZLh9LDEFzBWB"
+      },
+      "artists": [
+        {
+          "name": "COBE J",
+          "url": "https://open.spotify.com/artist/6v7wK7ttCju4Tz7ywFk5XI"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176841,
+      "name": "Want It",
+      "url": "https://open.spotify.com/track/1zxhONsj9rcSNdwro9Lue0"
+    },
+    {
+      "album": {
         "name": "Waruiko Remix (feat. 7)",
         "url": "https://open.spotify.com/album/0YDWP0UcwnYdWWjgqrAugs"
       },
@@ -23668,7 +23762,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 136263,
       "name": "YOYU (feat. N.i.L)",
       "url": "https://open.spotify.com/track/2Xz6e530NFdiWrgDgRAQNl"

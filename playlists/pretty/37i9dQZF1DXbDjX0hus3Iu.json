@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 532781,
+  "num_followers": 532784,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 227751,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/0a0a2Z9oZrxyDIbd8CSIYz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 318800,
       "name": "Uneasy Rider",
       "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 227751,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Bishop Black",
+        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
+      },
+      "artists": [
+        {
+          "name": "Bishop Black",
+          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "Southern Hospitality",
+      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 323268,
       "name": "Southern Comfort",
       "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Bishop Black",
-        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
-      },
-      "artists": [
-        {
-          "name": "Bishop Black",
-          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "Southern Hospitality",
-      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 279266,
       "name": "Castle Rock",
       "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
+      "duration_ms": 185840,
+      "name": "Searchin' for a Rainbow",
+      "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
     }
   ],
   "unique_name": "Southern Rock",

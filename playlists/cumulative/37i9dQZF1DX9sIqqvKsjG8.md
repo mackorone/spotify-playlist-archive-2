@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-967 songs - 1 day 17 hr 18 min
+973 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-12-07 | 2024-04-04 |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2021-12-07 | 2022-10-25 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2021-12-07 | 2022-07-20 |
+| [In The Clouds](https://open.spotify.com/track/1zkplKo7fw7LgYT1djtfGT) | [Elarune](https://open.spotify.com/artist/0AGFEF0rviLWBlKn1DBeUu) | [In The Clouds](https://open.spotify.com/album/5mtn90RONMzO07ES5u76ak) | 2:32 | 2026-01-20 |  |
 | [In the clouds](https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [In the clouds](https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD) | 2:03 | 2023-10-04 | 2025-05-17 |
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-12-07 | 2023-03-09 |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-02-20 | 2025-04-10 |
@@ -542,6 +543,7 @@
 | [Nature Shift](https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Nature Shift](https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl) | 2:13 | 2023-01-09 | 2024-12-12 |
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 | 2022-07-20 |
 | [New](https://open.spotify.com/track/04WArssiYLEtm8cjnc4Aiz) | [Adjoa Bekoe](https://open.spotify.com/artist/0cQsoeN9sMLe32WaCK5PhU) | [New](https://open.spotify.com/album/4bqRhhOBGLfM7wEbhN6JnA) | 2:09 | 2025-04-23 |  |
+| [New Light](https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [New Light](https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3) | 2:26 | 2026-01-20 |  |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 | 2022-11-25 |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-01 | 2023-09-26 |
 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 | 2021-12-07 | 2022-05-06 |
@@ -588,6 +590,7 @@
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-17 | 2023-10-26 |
 | [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 | 2023-10-23 | 2023-11-20 |
 | [Passage sombre](https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Obscur Chemin](https://open.spotify.com/album/055lgvZKUwKdN8LHpXBZJo) | 2:14 | 2023-11-13 | 2024-04-04 |
+| [Passing Clouds](https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Passing Clouds](https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz) | 3:15 | 2026-01-20 |  |
 | [Passing Time](https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Passing Time](https://open.spotify.com/album/0vHNtvr3HDKoi3lfPMiujH) | 2:17 | 2021-12-07 | 2022-04-21 |
 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 | 2023-10-09 |  |
 | [Past Reflections](https://open.spotify.com/track/4qcYE0RRcpEB8ISLnQdYoP) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Past Reflections](https://open.spotify.com/album/5PzTmgks8DrudDYqcXDy8y) | 2:19 | 2022-08-09 | 2023-09-26 |
@@ -737,6 +740,7 @@
 | [solitude](https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [solitude](https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl) | 2:31 | 2025-06-04 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-01-27 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-07 | 2022-01-05 |
+| [Something Starts Here](https://open.spotify.com/track/48tTElYJi5RhygOfmG6hfY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Something Starts Here](https://open.spotify.com/album/2cfDfUb7ara7igdp6DJ0FS) | 2:42 | 2026-01-20 |  |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-11 | 2025-05-17 |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 | 2022-08-26 |
 | [Song for a New Beginning](https://open.spotify.com/track/1J2CNuJZnkGyg1UHcwqkBx) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Song for a New Beginning](https://open.spotify.com/album/0580ABbp4nXizW4QtqNQAw) | 2:48 | 2022-11-11 | 2025-02-25 |
@@ -811,6 +815,7 @@
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2021-12-07 | 2023-06-28 |
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2021-12-07 | 2022-10-25 |
 | [The Fumes](https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D) | [Roger Swift](https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k) | [The Fumes](https://open.spotify.com/album/1VWjsaA5igX9DTdq1aevoI) | 4:00 | 2024-03-15 |  |
+| [The Heart Remembers](https://open.spotify.com/track/0yLqLsRqfODfUMYyUbOnqb) | [Kaspar Riedenthal](https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu) | [The Heart Remembers](https://open.spotify.com/album/328whVCkslvYFWvreH7BAJ) | 2:33 | 2026-01-20 |  |
 | [The Heartbeat of The Coral Reef](https://open.spotify.com/track/4JDDpSkJRWUOX59NPvGBWZ) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P), [Bernd Schreiber](https://open.spotify.com/artist/5i7bpSZSBxxIl6gVqF0sHa) | [The Heartbeat of the Coral Reef](https://open.spotify.com/album/1gYCz6gYXyhIpWze6p4VIv) | 2:40 | 2022-08-25 | 2023-02-14 |
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-24 | 2023-09-30 |
 | [The Hills At Home](https://open.spotify.com/track/0dHVSVhzz0d9MHJ8WxhEsw) | [Richard Noé](https://open.spotify.com/artist/6vqqdZR8jcxqX0wDi0xeji) | [The Hills At Home](https://open.spotify.com/album/2tO9XFDUdJKyZFrzDJLd9D) | 2:48 | 2025-03-25 |  |
@@ -874,6 +879,7 @@
 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2022-03-01 | 2023-09-26 |
 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 | 2021-12-07 | 2022-12-22 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-03-01 | 2023-09-23 |
+| [Under Branches](https://open.spotify.com/track/5VVWCrak60nyCnFq9m1u28) | [Lyraen](https://open.spotify.com/artist/0UWho9zZbWeCzDCPKaebro) | [Under Branches](https://open.spotify.com/album/4wtXDoqz7iYLluHjPt10ry) | 2:12 | 2026-01-20 |  |
 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 | 2021-12-07 | 2022-08-05 |
 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 | 2023-01-26 | 2025-04-10 |
 | [Une Minute De Plus](https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC) | [Aria Abriana](https://open.spotify.com/artist/3HZqJmldxpSFVn5nFMpStc) | [Une Minute De Plus](https://open.spotify.com/album/2vcRB8iRfo9Ri9uHEQdLkK) | 2:26 | 2021-12-07 | 2024-04-04 |

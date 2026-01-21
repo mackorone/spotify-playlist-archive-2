@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33829,
+  "num_followers": 33826,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "The Machine (Radio Edit)",
         "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 194741,
       "name": "The Machine - Radio Edit",
       "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
-      },
-      "artists": [
-        {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
-        }
-      ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "Time Jumper",
         "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 186680,
       "name": "She Needs Lovin' Too",
       "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Come Along",
-        "url": "https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA"
-      },
-      "artists": [
-        {
-          "name": "Shane Guerrette",
-          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Come Along as One",
-      "url": "https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "Let's Get This Over With",
         "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 167586,
       "name": "Let's Get This Over With",
       "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA"
+      },
+      "artists": [
+        {
+          "name": "Shane Guerrette",
+          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Come Along as One",
+      "url": "https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Scary Movie",
-        "url": "https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Ewbank",
-          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
-    },
-    {
-      "added_at": "2026-01-12 09:52:32",
-      "album": {
         "name": "Frozen (Live from Best of Pop)",
         "url": "https://open.spotify.com/album/3akNEfhr26BayeUYvZHhnk"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-01-12 09:52:32",
       "album": {
-        "name": "Human Mind",
-        "url": "https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc"
+        "name": "Scary Movie",
+        "url": "https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+          "name": "Jennifer Ewbank",
+          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
         }
       ],
-      "duration_ms": 192459,
-      "name": "Human Mind",
-      "url": "https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd"
+      "duration_ms": 183374,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
     },
     {
       "added_at": "2026-01-12 09:52:32",
@@ -835,6 +819,22 @@
       "duration_ms": 240381,
       "name": "In The Middle Of It",
       "url": "https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW"
+    },
+    {
+      "added_at": "2026-01-12 09:52:32",
+      "album": {
+        "name": "Human Mind",
+        "url": "https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 192459,
+      "name": "Human Mind",
+      "url": "https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd"
     },
     {
       "added_at": "2026-01-12 09:52:32",

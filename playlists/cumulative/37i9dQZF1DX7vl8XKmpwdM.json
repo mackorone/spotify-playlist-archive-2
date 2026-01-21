@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 192676,
       "name": "Chechi",
       "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
@@ -4664,6 +4664,32 @@
       "duration_ms": 295997,
       "name": "Rum Bum Bum - From \"Coffee With Kadhal\"",
       "url": "https://open.spotify.com/track/2cbiTkaQ6x1Di9x0EwKI6x"
+    },
+    {
+      "album": {
+        "name": "Rummy Rummy (From \"Gandhi Talks\") (Tamil)",
+        "url": "https://open.spotify.com/album/3rTRxUeVujp8mJcJoWaDRU"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Khatija Rahman",
+          "url": "https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210953,
+      "name": "Rummy Rummy (From \"Gandhi Talks\") (Tamil)",
+      "url": "https://open.spotify.com/track/33ojcrgn2TmyT3NhnXSvHj"
     },
     {
       "album": {

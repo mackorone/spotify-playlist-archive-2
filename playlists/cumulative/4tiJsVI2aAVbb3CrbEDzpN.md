@@ -4,7 +4,7 @@
 
 > De Jaren 80 playlist met de grootste hits uit de jaren 80 en 80s\. Met o.a\. Kate Bush, Prince, David Bowie, a\-ha, Phil Collins, Talking Heads en nog veel meer! Foto: Prince \| Jaren 80 hits \- Jaren 80
 
-106 songs - 7 hr 20 min
+107 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Owner of a Lonely Heart](https://open.spotify.com/track/7j5ZrrWavb7LIPopu0CPV6) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Jaren 80](https://open.spotify.com/album/0XDy99BWQMKgIstRvMe9Ix) | 4:28 | 2025-07-19 |  |
 | [People Are People \- 2006 Remaster](https://open.spotify.com/track/5u26GXPlKASV67BpnZ7n5Z) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:44 | 2025-07-19 |  |
 | [Private Dancer \- Single Edit](https://open.spotify.com/track/623ZeL2lWuz5v03TVkRBZa) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:02 | 2025-07-19 |  |
+| [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2026-01-20 |  |
 | [Relax \- 7" Mix](https://open.spotify.com/track/3MIVb9pn5cDSdK7yNDsMU1) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Relax](https://open.spotify.com/album/5e1nxutTDjyEWX98WlVgKZ) | 3:56 | 2025-07-19 |  |
 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 | 2025-07-19 |  |
 | [Roof Garden](https://open.spotify.com/track/1CpDrx0Q7f2Wv3tBXDMt6z) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 6:20 | 2025-07-19 |  |

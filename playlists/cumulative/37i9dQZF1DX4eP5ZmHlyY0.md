@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT WISH
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: STARGLOW
 
-862 songs - 1 day 23 hr 14 min
+863 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [KISS](https://open.spotify.com/track/0dsbzWM9vJvcBSdjMwVuDu) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [KISS](https://open.spotify.com/album/5y5pVpvu7sSGoRR2UlkGl5) | 2:55 | 2025-11-02 | 2025-12-16 |
 | [Kiss Plan](https://open.spotify.com/track/1ffIAKTVsc0BtpgozZlHaV) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Kiss Plan](https://open.spotify.com/album/1bBhXPKrQmAHv7eYdsfWv9) | 2:59 | 2024-01-23 | 2024-01-25 |
 | [Kiss Plan](https://open.spotify.com/track/51iXzcSoQmwss67XeDdyss) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Kiss Plan](https://open.spotify.com/album/4yvtxO4ZWuSfXIqudZDqol) | 2:59 | 2024-01-24 | 2024-02-14 |
-| [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 | 2026-01-16 |  |
+| [Knife](https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH](https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3) | 2:19 | 2026-01-16 | 2026-01-21 |
+| [Knife](https://open.spotify.com/track/7mVhLZSh2bXAFynFyELZ3v) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : VANISH \(Japanese Ver.\)](https://open.spotify.com/album/6BJr4QzuA7XIwbMPXVeYrz) | 2:19 | 2026-01-21 |  |
 | [Koijanai? \- Don't you love me? \-](https://open.spotify.com/track/6bT7YKm6I8yMZPasNSlAkf) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Koijanai? \- Don't you love me? \-](https://open.spotify.com/album/5jFgDZwTLLswYtwPzxplmP) | 3:04 | 2026-01-15 |  |
 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 | 2024-04-02 | 2024-04-19 |
 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 | 2025-03-06 | 2025-04-03 |

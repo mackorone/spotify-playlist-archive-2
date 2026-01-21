@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 161783,
+  "num_followers": 161830,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "penjaga hati",
-        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "penjaga hati",
-      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
         "name": "And the Story Continues...",
         "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 241763,
       "name": "Takkan Terganti",
       "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
+        "name": "penjaga hati",
+        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
       "added_at": "2025-07-28 01:06:11",

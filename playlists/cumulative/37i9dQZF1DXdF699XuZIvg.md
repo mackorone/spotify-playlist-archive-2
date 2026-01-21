@@ -4,7 +4,7 @@
 
 > Hit the road and scream your heart out!
 
-248 songs - 15 hr 58 min
+249 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Dimension](https://open.spotify.com/track/14Ji7WloVh381cYKGNtpJA) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 4:21 | 2023-01-26 | 2023-03-14 |
 | [Dirty Little Thing](https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 3:56 | 2021-12-07 |  |
 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2023-07-23 | 2023-08-03 |
-| [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 | 2021-12-07 |  |
+| [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 | 2021-12-07 | 2026-01-21 |
 | [Don't Tell Me How To Live](https://open.spotify.com/track/38km9hpN3FHdapBCLOQ1e4) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Sittin' Heavy](https://open.spotify.com/album/22qWqtxxDXwLfv33xzXxAX) | 4:26 | 2021-12-07 | 2022-07-29 |
 | [Driving In Style](https://open.spotify.com/track/4iTlGw3WqMzBpQslxNZo4D) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Driving In Style](https://open.spotify.com/album/2onZqcmaeQWRSEud5oabMl) | 3:43 | 2021-12-07 | 2022-07-29 |
 | [Driving Rain \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/5Zj7ovvDDhalqPBSoC2EHI) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Driving Rain](https://open.spotify.com/album/2JGp2Bv8Q5sMoaPQNtBRt0) | 4:10 | 2021-12-07 | 2022-07-28 |
@@ -201,6 +201,7 @@
 | [She Won't Let You Go](https://open.spotify.com/track/2VQu9SsyDcJg3UcyeGqiAQ) | [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7) | [She Won't Let You Go](https://open.spotify.com/album/5z6VODv8ibBcqM78ndTWg8) | 3:38 | 2021-12-07 | 2022-07-28 |
 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 | 2021-12-07 |  |
 | [Sin on Skin](https://open.spotify.com/track/4SzxBp2OeQ7DTlCPwVSnYk) | [Those Damn Crows](https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7) | [Sin on Skin](https://open.spotify.com/album/7m5D1cM9LQH1wHXBsDWe3O) | 3:55 | 2021-12-07 | 2022-07-29 |
+| [Sleepwalker](https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [As Blue as Indigo](https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG) | 3:28 | 2024-11-12 |  |
 | [Sound the Alarm](https://open.spotify.com/track/2aFsfzUuXuxDr4xo8ndfUt) | [Shallow Side](https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I) | [Sound the Alarm](https://open.spotify.com/album/7myHqhsaTgKoamdL7xJrAJ) | 3:42 | 2021-12-07 | 2022-07-06 |
 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 | 2021-12-07 |  |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-12-07 | 2023-07-23 |

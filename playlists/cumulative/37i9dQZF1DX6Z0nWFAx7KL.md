@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-350 songs - 17 hr 18 min
+351 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Feeling Lost Tonight](https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [Feeling Lost Tonight](https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6) | 1:46 | 2023-03-30 | 2025-04-25 |
 | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd) | 2:44 | 2022-09-15 | 2023-04-26 |
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-09-15 | 2022-09-30 |
+| [Fire](https://open.spotify.com/track/2rESC4IbBLXDgY5kUj4qga) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Fia De Luca](https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq) | [Fire](https://open.spotify.com/album/2i2wQgG2tAUkQ8HbIko185) | 2:54 | 2026-01-19 |  |
 | [Floating](https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Floating](https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM) | 3:04 | 2022-09-15 | 2024-08-31 |
 | [Forgot How to Love](https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Forgot How to Love](https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj) | 2:29 | 2022-10-07 | 2023-10-03 |
 | [Found It With You](https://open.spotify.com/track/1ShSONF1T74kfTEakluK40) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Found It With You](https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ) | 2:43 | 2022-09-15 | 2025-02-28 |
@@ -319,7 +320,7 @@
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-09-15 | 2022-11-09 |
 | [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-10-30 | 2022-11-17 |
 | [Thousand Lullabies](https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Thousand Lullabies](https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU) | 2:09 | 2023-02-15 | 2025-04-25 |
-| [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 | 2024-11-14 |  |
+| [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 | 2024-11-14 | 2026-01-21 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-09-15 | 2022-09-30 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tomorrow Never Comes](https://open.spotify.com/album/0c28IqwIVfV0gRpZOltI17) | 2:57 | 2023-03-02 | 2024-09-20 |
 | [Touch The Sun](https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ) | [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z) | [Touch The Sun](https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8) | 2:25 | 2024-09-19 | 2025-04-07 |

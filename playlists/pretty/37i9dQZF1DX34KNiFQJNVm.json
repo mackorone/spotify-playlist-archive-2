@@ -1,6 +1,6 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Lu\u00edsa Sonza com Roberto Menescal,  MC IG, NATTAN com Anitta, Charli xcx e muito mais!",
-  "num_followers": 2238772,
+  "num_followers": 2238667,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
+        "name": "O Que Sobrou Do Amor?",
+        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "O Que Sobrou Do Amor?",
+      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
         "name": "Sexy",
         "url": "https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 214054,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "O Que Sobrou Do Amor?",
-        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "O Que Sobrou Do Amor?",
-      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "Ao Vivo Nos Porta-Malas",
         "url": "https://open.spotify.com/album/4oKEQDjABbdf2LVnd0fLgF"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176992,
       "name": "Entrei De Gaiato - Ao Vivo",
       "url": "https://open.spotify.com/track/6VTTVe35DoNzhd2DEYJqpU"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "At We Feet (with Damian Marley)",
-        "url": "https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "At We Feet (with Damian Marley)",
-      "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "SEPAREI, VOLTEI PRAS VAGABUNDA",
         "url": "https://open.spotify.com/album/6XwRyf1o84l39lx1nmgZEG"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 173233,
       "name": "SEPAREI, VOLTEI PRAS VAGABUNDA",
       "url": "https://open.spotify.com/track/56joh1Daj33VAcitqtDRzC"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "At We Feet (with Damian Marley)",
+        "url": "https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "At We Feet (with Damian Marley)",
+      "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -667,6 +667,42 @@
       "duration_ms": 255270,
       "name": "Crazy (Nobody Else)",
       "url": "https://open.spotify.com/track/19plLA20jxjik8Kq94aRUb"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "Quadrilha do Vapo",
+        "url": "https://open.spotify.com/album/2Xp33Dd0NGFbps7SwykOuk"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Mc Felipe JC",
+          "url": "https://open.spotify.com/artist/1gQ8PWw7pF2nn0H48NYKe7"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        }
+      ],
+      "duration_ms": 334841,
+      "name": "Quadrilha do Vapo",
+      "url": "https://open.spotify.com/track/6fQRRYKb9BtZvvkMiWtKKR"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -723,38 +759,18 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "Quadrilha do Vapo",
-        "url": "https://open.spotify.com/album/2Xp33Dd0NGFbps7SwykOuk"
+        "name": "Sem A Roupa de Ir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qVS2FLIkHqnqP5TiLVXWt"
       },
       "artists": [
         {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Mc Felipe JC",
-          "url": "https://open.spotify.com/artist/1gQ8PWw7pF2nn0H48NYKe7"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
         }
       ],
-      "duration_ms": 334841,
-      "name": "Quadrilha do Vapo",
-      "url": "https://open.spotify.com/track/6fQRRYKb9BtZvvkMiWtKKR"
+      "duration_ms": 141258,
+      "name": "Sem A Roupa de Ir - Ao Vivo",
+      "url": "https://open.spotify.com/track/7dl5B8vv1q5Sl9b73L3Mrr"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -771,6 +787,26 @@
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "Al\u00f4 Paix\u00e3o",
+        "url": "https://open.spotify.com/album/3qHDzETACVyrjXwnEYyC7j"
+      },
+      "artists": [
+        {
+          "name": "Bonde do Brasil",
+          "url": "https://open.spotify.com/artist/2j1yuQ4WNWTbd9bXafU5ix"
+        },
+        {
+          "name": "Fernandinha",
+          "url": "https://open.spotify.com/artist/5Yyt6DFChd7Zn4bYvsERWN"
+        }
+      ],
+      "duration_ms": 156513,
+      "name": "Al\u00f4 Paix\u00e3o",
+      "url": "https://open.spotify.com/track/2yQUWxX9Ut4URxN7lC7BsR"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -807,58 +843,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "Al\u00f4 Paix\u00e3o",
-        "url": "https://open.spotify.com/album/3qHDzETACVyrjXwnEYyC7j"
-      },
-      "artists": [
-        {
-          "name": "Bonde do Brasil",
-          "url": "https://open.spotify.com/artist/2j1yuQ4WNWTbd9bXafU5ix"
-        },
-        {
-          "name": "Fernandinha",
-          "url": "https://open.spotify.com/artist/5Yyt6DFChd7Zn4bYvsERWN"
-        }
-      ],
-      "duration_ms": 156513,
-      "name": "Al\u00f4 Paix\u00e3o",
-      "url": "https://open.spotify.com/track/2yQUWxX9Ut4URxN7lC7BsR"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "Sem A Roupa de Ir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1qVS2FLIkHqnqP5TiLVXWt"
-      },
-      "artists": [
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        }
-      ],
-      "duration_ms": 141258,
-      "name": "Sem A Roupa de Ir - Ao Vivo",
-      "url": "https://open.spotify.com/track/7dl5B8vv1q5Sl9b73L3Mrr"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "Vera Cruz",
-        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Vera Cruz",
-      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/7vhqwXgTxhjET11ESnV5JN"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 253770,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/6AZISP6WdAN6PNgahISGrA"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "Vera Cruz",
+        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Vera Cruz",
+      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "Saudade de Tu",
-        "url": "https://open.spotify.com/album/2UmK5i4umQSIuoiGVGrH4B"
-      },
-      "artists": [
-        {
-          "name": "Simone Morena",
-          "url": "https://open.spotify.com/artist/6ZLrr7ThUgVtMaIZRAhK9R"
-        },
-        {
-          "name": "Netto Brito",
-          "url": "https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU"
-        }
-      ],
-      "duration_ms": 235359,
-      "name": "Saudade de Tu",
-      "url": "https://open.spotify.com/track/7g6iKcdQSmG6fI8otypBaQ"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "Perfil#131 - Desde Sempre",
         "url": "https://open.spotify.com/album/7whOgoccIbmnEX8dvDMsBE"
       },
@@ -1019,6 +999,26 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
+        "name": "Saudade de Tu",
+        "url": "https://open.spotify.com/album/2UmK5i4umQSIuoiGVGrH4B"
+      },
+      "artists": [
+        {
+          "name": "Simone Morena",
+          "url": "https://open.spotify.com/artist/6ZLrr7ThUgVtMaIZRAhK9R"
+        },
+        {
+          "name": "Netto Brito",
+          "url": "https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU"
+        }
+      ],
+      "duration_ms": 235359,
+      "name": "Saudade de Tu",
+      "url": "https://open.spotify.com/track/7g6iKcdQSmG6fI8otypBaQ"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
         "name": "CRIOLO, AMARO E DINO",
         "url": "https://open.spotify.com/album/0YYt1g6W0EdqWoUrB86yuc"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 259471,
       "name": "E Se Livros Fossem L\u00edquidos_ (Poeta Fora da Lei Pt II)",
       "url": "https://open.spotify.com/track/57TjhOsBp0xSPAGC8oLzDi"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "Balan\u00e7a a Lata",
+        "url": "https://open.spotify.com/album/02PaYLVZ4mwjujN8ECi0F6"
+      },
+      "artists": [
+        {
+          "name": "Jap\u00e3ozin",
+          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
+        }
+      ],
+      "duration_ms": 184846,
+      "name": "Balan\u00e7a a Lata",
+      "url": "https://open.spotify.com/track/1zsAAHNyo9wESRzQJmL5co"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "Balan\u00e7a a Lata",
-        "url": "https://open.spotify.com/album/02PaYLVZ4mwjujN8ECi0F6"
-      },
-      "artists": [
-        {
-          "name": "Jap\u00e3ozin",
-          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
-        }
-      ],
-      "duration_ms": 184846,
-      "name": "Balan\u00e7a a Lata",
-      "url": "https://open.spotify.com/track/1zsAAHNyo9wESRzQJmL5co"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "Acesso Vitalicio (Ao Vivo)",
         "url": "https://open.spotify.com/album/5czFX5vprU5LYEJSpbsUzS"
       },
@@ -1119,6 +1119,30 @@
       "duration_ms": 168448,
       "name": "Acesso Vitalicio - Ao Vivo",
       "url": "https://open.spotify.com/track/5ZUnKSRxkNMZBa1ZnDRczX"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "T\u00f4 Sensacional",
+        "url": "https://open.spotify.com/album/4DuyT7x6ELFxUihJWhIm3N"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Lekinho Rei do Naipe",
+          "url": "https://open.spotify.com/artist/5RJIe9fYxChtt2Xdk8lBy5"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "T\u00f4 Sensacional",
+      "url": "https://open.spotify.com/track/6vofuYpN9Rt0SlnzWD8MOx"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1155,26 +1179,22 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "T\u00f4 Sensacional",
-        "url": "https://open.spotify.com/album/4DuyT7x6ELFxUihJWhIm3N"
+        "name": "Tenta Vir (\u00c2ngulos, Vol.2)",
+        "url": "https://open.spotify.com/album/6C4XxYL08n7ACewQKLyDDd"
       },
       "artists": [
         {
-          "name": "Michele Andrade",
-          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
         },
         {
-          "name": "Lekinho Rei do Naipe",
-          "url": "https://open.spotify.com/artist/5RJIe9fYxChtt2Xdk8lBy5"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
         }
       ],
-      "duration_ms": 163846,
-      "name": "T\u00f4 Sensacional",
-      "url": "https://open.spotify.com/track/6vofuYpN9Rt0SlnzWD8MOx"
+      "duration_ms": 146086,
+      "name": "Tenta Vir (\u00c2ngulos, Vol.2)",
+      "url": "https://open.spotify.com/track/0bUwYMSbxx6wmtF0s2ZqUS"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1195,26 +1215,6 @@
       "duration_ms": 138000,
       "name": "Calma, Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "Tenta Vir (\u00c2ngulos, Vol.2)",
-        "url": "https://open.spotify.com/album/6C4XxYL08n7ACewQKLyDDd"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Tenta Vir (\u00c2ngulos, Vol.2)",
-      "url": "https://open.spotify.com/track/0bUwYMSbxx6wmtF0s2ZqUS"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1243,6 +1243,26 @@
       "duration_ms": 124444,
       "name": "MTG Sensa\u00e7\u00e3o De Poder",
       "url": "https://open.spotify.com/track/65TbHdVZx9HhDjydhmjp9g"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "Eu Nem Queria",
+        "url": "https://open.spotify.com/album/26mpSQ30XulVFlBPbdGJCk"
+      },
+      "artists": [
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Eu Nem Queria",
+      "url": "https://open.spotify.com/track/3kCR1psq3mKqtU9M6QP5kv"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1279,26 +1299,6 @@
       "duration_ms": 174042,
       "name": "Estou Indo Embora - Ao Vivo",
       "url": "https://open.spotify.com/track/0dxMkeN1LJGmfp5uM1e2Jo"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "Eu Nem Queria",
-        "url": "https://open.spotify.com/album/26mpSQ30XulVFlBPbdGJCk"
-      },
-      "artists": [
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "DJ Yago",
-          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Eu Nem Queria",
-      "url": "https://open.spotify.com/track/3kCR1psq3mKqtU9M6QP5kv"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1355,46 +1355,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "REQUEBRA NA CAMA",
-        "url": "https://open.spotify.com/album/4YW9I2fr185yj9rfq2mDqk"
-      },
-      "artists": [
-        {
-          "name": "DJ NATAN 22",
-          "url": "https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF"
-        },
-        {
-          "name": "MC Marlon PH",
-          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
-        }
-      ],
-      "duration_ms": 161076,
-      "name": "REQUEBRA NA CAMA",
-      "url": "https://open.spotify.com/track/4ZlTg3EmRdGmw1Zcd9PtJo"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "Os 100",
-        "url": "https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 248209,
-      "name": "Os 100",
-      "url": "https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "Tu Vai Me Ver (Ao Vivo)",
         "url": "https://open.spotify.com/album/5j6Ubqhb4vKvw5pnMPNG4q"
       },
@@ -1435,6 +1395,46 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
+        "name": "Os 100",
+        "url": "https://open.spotify.com/album/5pKR7QsvIbyVQig07l8MFO"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "duration_ms": 248209,
+      "name": "Os 100",
+      "url": "https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "REQUEBRA NA CAMA",
+        "url": "https://open.spotify.com/album/4YW9I2fr185yj9rfq2mDqk"
+      },
+      "artists": [
+        {
+          "name": "DJ NATAN 22",
+          "url": "https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF"
+        },
+        {
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        }
+      ],
+      "duration_ms": 161076,
+      "name": "REQUEBRA NA CAMA",
+      "url": "https://open.spotify.com/track/4ZlTg3EmRdGmw1Zcd9PtJo"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
         "name": "Bonequinha",
         "url": "https://open.spotify.com/album/2PTcEnVlnemqviTiCATMBR"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 136615,
       "name": "Bonequinha",
       "url": "https://open.spotify.com/track/6WqPgKWUgVIbR54oPU1DAn"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "BRega Amplificado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5RJB4cITJ74EnpmPcV8rnH"
+      },
+      "artists": [
+        {
+          "name": "John Amplificado",
+          "url": "https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy"
+        }
+      ],
+      "duration_ms": 157632,
+      "name": "Trair Sem Culpa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cQGA1KT80NroBJce4vuzb"
     },
     {
       "added_at": "2026-01-16 13:29:00",
@@ -1499,42 +1515,6 @@
     {
       "added_at": "2026-01-16 13:29:00",
       "album": {
-        "name": "BRega Amplificado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5RJB4cITJ74EnpmPcV8rnH"
-      },
-      "artists": [
-        {
-          "name": "John Amplificado",
-          "url": "https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy"
-        }
-      ],
-      "duration_ms": 157632,
-      "name": "Trair Sem Culpa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5cQGA1KT80NroBJce4vuzb"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
-        "name": "Gente (Eu Sou Assim, Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kPtyW5HMHLG4si9ChQRBf"
-      },
-      "artists": [
-        {
-          "name": "Juninho Thybau",
-          "url": "https://open.spotify.com/artist/1VrL8r5ehczDanP1j1xa7q"
-        },
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 246014,
-      "name": "Gente - Eu Sou Assim, Ao Vivo",
-      "url": "https://open.spotify.com/track/5vvJy4MChHFO5YSE82rBqW"
-    },
-    {
-      "added_at": "2026-01-16 13:29:00",
-      "album": {
         "name": "PLANTEI UM P\u00c9",
         "url": "https://open.spotify.com/album/09LNWpLxPyrKIKMD1eYDiI"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 139366,
       "name": "PLANTEI UM P\u00c9",
       "url": "https://open.spotify.com/track/3uf5oXQ0g4mK2FezDtPgKb"
+    },
+    {
+      "added_at": "2026-01-16 13:29:00",
+      "album": {
+        "name": "Gente (Eu Sou Assim, Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kPtyW5HMHLG4si9ChQRBf"
+      },
+      "artists": [
+        {
+          "name": "Juninho Thybau",
+          "url": "https://open.spotify.com/artist/1VrL8r5ehczDanP1j1xa7q"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 246014,
+      "name": "Gente - Eu Sou Assim, Ao Vivo",
+      "url": "https://open.spotify.com/track/5vvJy4MChHFO5YSE82rBqW"
     }
   ],
   "unique_name": "Novidades da Semana",

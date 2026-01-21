@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 277088,
+  "num_followers": 277021,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Rudolph",
+      "url": "https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
         "url": "https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 164457,
       "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
       "url": "https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Manning Fireworks",
-        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Rudolph",
-      "url": "https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 182788,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 190013,
       "name": "I'm Not My Season - Solstice Version",
       "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 182788,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Lullabies To Violaine - Volume 2",
         "url": "https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 175173,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/5lrziVtAiX5olTaTmmSNGq"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2025-12-17 22:42:18",

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 669361,
+  "num_followers": 669421,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAADRKPTgsfS+9qd2oOuRdZIj",
+  "snapshot_id": "aW10AAAAAABz0gmpk1rNf38VJy5mZ6xO",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 150942,
-      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want to Die In New Orleans",
-        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137772,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 122253,
       "name": "Memoirs of a Gorilla",
       "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 137772,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,

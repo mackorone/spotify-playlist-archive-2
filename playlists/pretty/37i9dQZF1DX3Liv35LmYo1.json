@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1979,
+  "num_followers": 1980,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Coasting",
         "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 243692,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "'I Wanted More' EP",
-        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+        "name": "Mercury Remixes",
+        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
       "artists": [
         {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 333694,
-      "name": "I Wanted More",
-      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
+      "duration_ms": 207304,
+      "name": "Violet - DJ Python Remix",
+      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -775,22 +779,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Mercury Remixes",
-        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
       },
       "artists": [
         {
-          "name": "The Range",
-          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
         }
       ],
-      "duration_ms": 207304,
-      "name": "Violet - DJ Python Remix",
-      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+      "duration_ms": 333694,
+      "name": "I Wanted More",
+      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "Polito",
+          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
         }
       ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+      "duration_ms": 220743,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
     }
   ],
   "unique_name": "Night Shift",

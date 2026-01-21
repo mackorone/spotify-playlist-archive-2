@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Ozuna, Beéle
+> Lo mejor del pop en español\. Foto: Kapo, Ryan Castro
 
-853 songs - 1 day 18 hr 51 min
+854 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [GRAN VÍA](https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:33 | 2024-11-21 | 2025-02-18 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-07 | 2023-09-26 |
 | [Guerrero.mp3](https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Guerrero.mp3](https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E) | 3:58 | 2023-06-20 | 2023-07-05 |
-| [Hablamos Mañana](https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Hablamos Mañana](https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3) | 2:51 | 2025-12-19 |  |
+| [Hablamos Mañana](https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Hablamos Mañana](https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3) | 2:51 | 2025-12-19 | 2026-01-21 |
 | [Hablando En Plata](https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Hablando En Plata](https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW) | 3:08 | 2023-10-09 | 2024-01-09 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-09-23 | 2024-12-10 |
 | [Hasta Por La Mañana](https://open.spotify.com/track/2XTcif4p4qS5oXWtcnBzhK) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Hasta Por La Mañana](https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ) | 2:51 | 2023-07-17 | 2023-08-15 |
@@ -625,6 +625,7 @@
 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 | 2024-09-17 | 2024-12-10 |
 | [Por si vuelves](https://open.spotify.com/track/3qxEHTh0gvgmnKOLUE3FZq) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Por si vuelves](https://open.spotify.com/album/5U3ktgfbytevPED96BwXdo) | 3:14 | 2023-09-18 | 2023-09-29 |
 | [Por Tu Calle](https://open.spotify.com/track/37drBlAs0CMPrDVLDxzYxa) | [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [Por Tu Calle](https://open.spotify.com/album/3XRmQinVSaE9C86BPfEGHT) | 3:44 | 2025-04-04 | 2025-06-18 |
+| [Por un Pendejo no se llora \- Salud mi Reina](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora \(Salud mi Reina\)](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 | 2026-01-20 |  |
 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 | 2023-03-13 | 2024-02-16 |
 | [Potra Salvaje](https://open.spotify.com/track/3YdO85gX8HaetzvHCaFIQM) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [Potra Salvaje](https://open.spotify.com/album/3D9wp2XCEWWoZMCS271WzI) | 3:19 | 2024-07-04 | 2024-08-27 |
 | [Primer Intento](https://open.spotify.com/track/7feZcyZsDLazNtKyqc1CZo) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Primer Intento](https://open.spotify.com/album/5XFuO96iprkyVTS9XY9XEG) | 2:33 | 2025-03-27 | 2025-05-20 |

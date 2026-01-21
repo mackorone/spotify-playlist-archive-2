@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,370 likes - 79 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,442 likes - 79 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 9 | [THE NAME ABOVE ALL NAMES](https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [IT NEEDS TO BE SAID](https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY) | 4:57 |
 | 10 | [THANK GOD I'M FREE](https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [THANK GOD I'M FREE](https://open.spotify.com/album/50w6pz7MRBPunUgo02zsxO) | 5:04 |
 | 11 | [O God Would You Move / Awake My Soul](https://open.spotify.com/track/2x8yzGlhIWnCQRcO8h8YKJ) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [Send The Fire: Live From London](https://open.spotify.com/album/6w4bFrC2X53TxpflpRI2SE) | 11:19 |
-| 12 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/3epL8FrGyUZCdczz2dU1Wh) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
+| 12 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
 | 13 | [Still The King \- Live](https://open.spotify.com/track/7iPhwbA9mqSMqsSuao3OJI) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Beautiful Life \(Live\)](https://open.spotify.com/album/25geT8tyKD7aiRAKJsQVGI) | 5:46 |
 | 14 | [Even Though I Walk \- Live At Church](https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [We Must Respond \(Deluxe\) \[Live\]](https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y) | 6:59 |
 | 15 | [Miracles](https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Kendrick Williams Jr](https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp) | [Miracles](https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm) | 5:02 |

@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "El Presente",
+        "url": "https://open.spotify.com/album/0eY5Lx2EXLgXCQWw3hPd2c"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2026-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221354,
+      "name": "El Presente",
+      "url": "https://open.spotify.com/track/5CbcEUQTqExXM4nSLzlcDr"
+    },
+    {
+      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },

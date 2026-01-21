@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-205 songs - 9 hr 9 min
+208 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Dumb](https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:14 | 2025-02-11 | 2025-09-30 |
 | [Empire](https://open.spotify.com/track/2Jdv6Suz2qXYLLmHosi8Dw) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Empire](https://open.spotify.com/album/2HiNrUvXg11AJgLHZgppJ9) | 2:42 | 2024-01-12 | 2025-02-01 |
 | [Fa Sure](https://open.spotify.com/track/3iltTfznFyCJr0laSm8uY3) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [30 Days](https://open.spotify.com/album/6hlq8hF5Li4rmAxBPtoRJW) | 2:02 | 2025-10-20 |  |
+| [Fake Jeezy](https://open.spotify.com/track/4fhgwk5dCgOZUh8LyxBk9r) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/4WWNtQiEHFykGzTLF9UOxE) | 2:40 | 2026-01-21 |  |
 | [Fashion Week](https://open.spotify.com/track/2LGQSF47PZN7m5tb7gEky6) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Fashion Week](https://open.spotify.com/album/676WObynRCMxzPXtKvJbSs) | 3:52 | 2023-09-08 | 2025-03-05 |
 | [First Day Out](https://open.spotify.com/track/2Ww2RUCfyAr6dwYgpcs6kd) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [First Day Out](https://open.spotify.com/album/1bomiimFzpDJ2RwbvZg3I2) | 2:48 | 2025-11-03 |  |
 | [Florida Water \(feat\. Luh Tyler\)](https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Florida Water \(feat\. Luh Tyler\)](https://open.spotify.com/album/4TWBAJq0lSGNDG9tKu2Bas) | 3:43 | 2023-04-10 |  |
@@ -115,6 +116,7 @@
 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 | 2025-07-15 | 2025-07-31 |
 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 | 2025-01-17 |  |
 | [It](https://open.spotify.com/track/1Nmy7xk7wcLtDj7k63ZRrR) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [Breath Of Fresh Air](https://open.spotify.com/album/4NLl6P5UZoN31UsnSikaPJ) | 3:15 | 2024-11-18 |  |
+| [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 | 2026-01-21 |  |
 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 | 2024-01-19 | 2025-03-05 |
 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 | 2024-10-15 |  |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2024-05-21 |
@@ -213,5 +215,6 @@
 | [Won't Be Lonely](https://open.spotify.com/track/1IV5X8CiOr1dfbQcmP2AWO) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [The Big Bang](https://open.spotify.com/album/20pOEJXUCejxsAp14Uuc2e) | 3:50 | 2025-05-28 |  |
 | [Ya Feel Me](https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Ya Feel Me](https://open.spotify.com/album/0qlOJtCUJ7rJKjbxjIzlLI) | 3:44 | 2025-07-07 |  |
 | [Yea Freestyle](https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:06 | 2023-09-29 | 2024-01-20 |
+| [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 | 2026-01-21 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

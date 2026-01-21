@@ -9391,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "HOW E DEY BE (HEDB)",
+        "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
+      },
+      "artists": [
+        {
+          "name": "SHON",
+          "url": "https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo"
+        }
+      ],
+      "date_added": "2026-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "HOW E DEY BE (HEDB)",
+      "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
+    },
+    {
+      "album": {
         "name": "HOW FAR / SHIMA II",
         "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
@@ -18396,7 +18414,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 185719,
       "name": "See What We've Done",
       "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "  Meet the future of music around the world. Cover: Haku.",
+  "description": "Meet the future of music around the world. Cover: Danyl",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -6152,6 +6152,24 @@
       "duration_ms": 200043,
       "name": "Catch The Rain",
       "url": "https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA"
+    },
+    {
+      "album": {
+        "name": "Catching Up 2 U",
+        "url": "https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202103,
+      "name": "Catching Up 2 U",
+      "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
     },
     {
       "album": {
@@ -40321,6 +40339,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u308c\u3057\u304b\u8a00\u3048\u306a\u3044",
+        "url": "https://open.spotify.com/album/479WTy9v0d0wWC960eTawU"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264152,
+      "name": "\u305d\u308c\u3057\u304b\u8a00\u3048\u306a\u3044",
+      "url": "https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV"
+    },
+    {
+      "album": {
         "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
         "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
       },
@@ -41152,7 +41188,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 156063,
       "name": "\u5922\u4e2d\u732b",
       "url": "https://open.spotify.com/track/1FhgrTEc1C96Pm7OeY62RA"

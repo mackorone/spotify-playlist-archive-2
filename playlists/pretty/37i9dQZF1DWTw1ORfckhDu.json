@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 91178,
+  "num_followers": 91176,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-01-19 15:47:11",
       "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
         "name": "Best For You",
         "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 150000,
       "name": "Best For You",
       "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
     },
     {
       "added_at": "2026-01-19 15:47:11",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-01-19 15:47:11",
       "album": {
-        "name": "No Haav No Love",
-        "url": "https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 197141,
-      "name": "No Haav No Love",
-      "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
         "name": "Million Dollar Smile",
         "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 174000,
       "name": "Million Dollar Smile",
       "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "No Haav No Love",
+        "url": "https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 197141,
+      "name": "No Haav No Love",
+      "url": "https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF"
     },
     {
       "added_at": "2026-01-19 15:47:11",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-01-19 15:47:11",
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "duration_ms": 176002,
+      "name": "Kill4Me",
+      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
         "name": "DENIM",
         "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 201037,
       "name": "MEININKI",
       "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
-        "name": "Crash Out",
-        "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
-      },
-      "artists": [
-        {
-          "name": "Senya",
-          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
-        }
-      ],
-      "duration_ms": 176002,
-      "name": "Kill4Me",
-      "url": "https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw"
     },
     {
       "added_at": "2026-01-19 15:47:11",
@@ -415,74 +415,6 @@
     {
       "added_at": "2026-01-19 15:47:11",
       "album": {
-        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
-        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
-      },
-      "artists": [
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
-        }
-      ],
-      "duration_ms": 183305,
-      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
-      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
-        "name": "Unitas Sigma",
-        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
-      },
-      "artists": [
-        {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
-        }
-      ],
-      "duration_ms": 172949,
-      "name": "Syyp\u00e4\u00e4 sun hymyyn - Unitas Sigma",
-      "url": "https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
-        "name": "Vituttaa",
-        "url": "https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d"
-      },
-      "artists": [
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        }
-      ],
-      "duration_ms": 197724,
-      "name": "Vituttaa",
-      "url": "https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
-        "name": "Make Trap Great Again",
-        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Tykk\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
         "name": "Kuolisin sun kaa (feat. pehmoaino)",
         "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
       },
@@ -519,6 +451,74 @@
       "duration_ms": 171280,
       "name": "20:30 (feat. Karim B)",
       "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "duration_ms": 183305,
+      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "Make Trap Great Again",
+        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Tykk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "Unitas Sigma",
+        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
+        }
+      ],
+      "duration_ms": 172949,
+      "name": "Syyp\u00e4\u00e4 sun hymyyn - Unitas Sigma",
+      "url": "https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "Vituttaa",
+        "url": "https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 197724,
+      "name": "Vituttaa",
+      "url": "https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W"
     },
     {
       "added_at": "2026-01-19 15:47:11",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-01-19 15:47:11",
       "album": {
-        "name": "Unitas Sigma",
-        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
-        }
-      ],
-      "duration_ms": 174768,
-      "name": "Mit\u00e4 t\u00e4nne j\u00e4\u00e4 - Unitas Sigma",
-      "url": "https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
         "name": "LADABOIS",
         "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 180534,
       "name": "Jos t\u00e4\u00e4 ei oo se",
       "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
+        "name": "Unitas Sigma",
+        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
+        }
+      ],
+      "duration_ms": 174768,
+      "name": "Mit\u00e4 t\u00e4nne j\u00e4\u00e4 - Unitas Sigma",
+      "url": "https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn"
     },
     {
       "added_at": "2026-01-19 15:47:11",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-01-19 15:47:11",
       "album": {
+        "name": "El\u00e4m\u00e4ni kunnossa",
+        "url": "https://open.spotify.com/album/1kkxk0ymhZwT1xNzwTDA64"
+      },
+      "artists": [
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "El\u00e4m\u00e4ni kunnossa",
+      "url": "https://open.spotify.com/track/78IQH2vGBL4u9DtUeqB2im"
+    },
+    {
+      "added_at": "2026-01-19 15:47:11",
+      "album": {
         "name": "Unitas Sigma",
         "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 203920,
       "name": "Sillat - Unitas Sigma",
       "url": "https://open.spotify.com/track/0Zlma6HSkzlQDGoGMmrtS9"
-    },
-    {
-      "added_at": "2026-01-19 15:47:11",
-      "album": {
-        "name": "El\u00e4m\u00e4ni kunnossa",
-        "url": "https://open.spotify.com/album/1kkxk0ymhZwT1xNzwTDA64"
-      },
-      "artists": [
-        {
-          "name": "Mikael Laurent",
-          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "El\u00e4m\u00e4ni kunnossa",
-      "url": "https://open.spotify.com/track/78IQH2vGBL4u9DtUeqB2im"
     },
     {
       "added_at": "2026-01-19 15:47:11",

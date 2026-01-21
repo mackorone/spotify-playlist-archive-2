@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 2042,
+  "num_followers": 2043,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+        "name": "That's How Rhythm Was Born",
+        "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
       },
       "artists": [
         {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+          "name": "The Boswell Sisters",
+          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
+        },
+        {
+          "name": "Jimmie Grier",
+          "url": "https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02"
         }
       ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+      "duration_ms": 201400,
+      "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
+      "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -363,22 +367,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "That's How Rhythm Was Born",
-        "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
       },
       "artists": [
         {
-          "name": "The Boswell Sisters",
-          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
-        },
-        {
-          "name": "Jimmie Grier",
-          "url": "https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02"
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
         }
       ],
-      "duration_ms": 201400,
-      "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
-      "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
-      },
-      "artists": [
-        {
-          "name": "The King Sisters",
-          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Early Autumn",
-      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 159666,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
+      },
+      "artists": [
+        {
+          "name": "The King Sisters",
+          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
     },
     {
       "added_at": "2020-08-17 22:49:59",

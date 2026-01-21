@@ -3811,6 +3811,28 @@
     },
     {
       "album": {
+        "name": "Cautious Love",
+        "url": "https://open.spotify.com/album/7zSpyFV7k3KNbtS1yiU1sl"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214812,
+      "name": "Cautious Love",
+      "url": "https://open.spotify.com/track/7dkFMhhah6uSpaoOjg5jIG"
+    },
+    {
+      "album": {
         "name": "Changing",
         "url": "https://open.spotify.com/album/3YQ1hVACVI6ZQmkLvDj0O9"
       },

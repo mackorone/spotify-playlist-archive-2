@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Parker Graye, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,082 likes - 24 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,091 likes - 24 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

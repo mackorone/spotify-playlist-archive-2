@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Lupambo",
-  "num_followers": 240549,
+  "num_followers": 240579,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Lobo da Labo",
-        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
-      },
-      "artists": [
-        {
-          "name": "Labo Music",
-          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
-        },
-        {
-          "name": "J Levy",
-          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
-        }
-      ],
-      "duration_ms": 204721,
-      "name": "Companhia",
-      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 268314,
       "name": "Com Quem Ser\u00e1",
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Lobo da Labo",
+        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
+      },
+      "artists": [
+        {
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
+        }
+      ],
+      "duration_ms": 204721,
+      "name": "Companhia",
+      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso Franco",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 285116,
+      "name": "O Jeito Dela - Original Mix",
+      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
         "name": "\u00daltima L\u00e1grima",
         "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 242608,
       "name": "\u00daltima L\u00e1grima",
       "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso Franco",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 285116,
-      "name": "O Jeito Dela - Original Mix",
-      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "\u00c9s S\u00f3 Tu",
         "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 174174,
       "name": "\u00c9s S\u00f3 Tu",
       "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
         "name": "BATOTA",
         "url": "https://open.spotify.com/album/3lvCADbf6qOq34TllBbG6L"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 232340,
       "name": "BATOTA",
       "url": "https://open.spotify.com/track/5JB2CNifWQV75f0RlWLmXI"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "T\u00e1 Na Moda",
-        "url": "https://open.spotify.com/album/5hyonNjyw1rM4AWPkOAsDX"
-      },
-      "artists": [
-        {
-          "name": "Twenty Fingers",
-          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
-        },
-        {
-          "name": "Hernani",
-          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
-        }
-      ],
-      "duration_ms": 151423,
-      "name": "T\u00e1 Na Moda",
-      "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "Kannot Compare",
         "url": "https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 171958,
       "name": "Kannot Compare",
       "url": "https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "T\u00e1 Na Moda",
+        "url": "https://open.spotify.com/album/5hyonNjyw1rM4AWPkOAsDX"
+      },
+      "artists": [
+        {
+          "name": "Twenty Fingers",
+          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
+        },
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+        }
+      ],
+      "duration_ms": 151423,
+      "name": "T\u00e1 Na Moda",
+      "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
     },
     {
       "added_at": "2026-01-16 00:00:19",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-01-16 00:00:19",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
-      },
-      "artists": [
-        {
-          "name": "Halison Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
-        }
-      ],
-      "duration_ms": 164636,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
-    },
-    {
-      "added_at": "2026-01-16 00:00:19",
-      "album": {
         "name": "Buqu\u00ea",
         "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 211584,
       "name": "Buqu\u00ea",
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
+    },
+    {
+      "added_at": "2026-01-16 00:00:19",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
+      },
+      "artists": [
+        {
+          "name": "Halison Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N"
+        }
+      ],
+      "duration_ms": 164636,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
     },
     {
       "added_at": "2026-01-16 00:00:19",

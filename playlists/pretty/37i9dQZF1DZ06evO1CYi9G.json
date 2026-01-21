@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 63352,
+  "num_followers": 63354,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAABR3ZDVWlafk+tC4yzodrf0",
+  "snapshot_id": "aW10AAAAAAASyL0xb7rEWomKFpoJUTuA",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 303066,
-      "name": "Beautiful And Strange",
-      "url": "https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK"
+      "duration_ms": 201200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
+      "duration_ms": 303066,
+      "name": "Beautiful And Strange",
+      "url": "https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,019 songs - 6 day 14 hr 35 min
+3,020 songs - 6 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1397,6 +1397,7 @@
 | [Lowkey](https://open.spotify.com/track/7cH03DxM2Qt520VrB5BH3S) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Lowkey](https://open.spotify.com/album/0C1duQ0KdtuznqwSDOFo4w) | 2:44 | 2022-10-29 | 2022-11-20 |
 | [Loyal](https://open.spotify.com/track/2qDhunsy5erCsyD7Kofo4w) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Loyal](https://open.spotify.com/album/4SiVnlfSXOWsFWCbtlXIEi) | 2:27 | 2024-02-24 | 2024-03-24 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-13 | 2024-05-17 |
+| [Lululai](https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1) | [Komiat](https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna) | [Lululai](https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp) | 2:46 | 2026-01-20 |  |
 | [Lumous](https://open.spotify.com/track/1W35gR1uXjTrrFn47NwEAP) | [Tuure Kilpeläinen ja Kaihon Karavaani](https://open.spotify.com/artist/5SXVpRtKIFOc2zU1az6RVG) | [Lumous](https://open.spotify.com/album/1sgGl0zR4aGruXPiVXfX7j) | 3:41 | 2021-04-18 | 2021-04-19 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-22 |
 | [Luodit](https://open.spotify.com/track/2I3d4RxgWghBjlhpbglyrd) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Luodit](https://open.spotify.com/album/4CVgkAsb0C7IUqz4EgaW29) | 2:53 | 2024-11-30 | 2024-12-06 |
@@ -1629,7 +1630,7 @@
 | [Mitä tänne jää](https://open.spotify.com/track/7JggREE5FDV96NUkGpyz8Y) | [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Jare Henrik Tiihonen](https://open.spotify.com/album/4URPDzspMOMYpX1Dc7ZQ3d) | 3:53 | 2025-12-11 | 2025-12-14 |
 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:54 | 2025-12-05 | 2025-12-07 |
 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/7oBoElL2dULKJF81Mz5rWq) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Mitä tänne jää \(Unitas Sigma\)](https://open.spotify.com/album/4NPViSMTewjVNbfXqfLQAb) | 2:54 | 2025-12-06 | 2025-12-21 |
-| [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 | 2025-09-20 |  |
+| [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 | 2025-09-20 | 2026-01-21 |
 | [MMM \(feat\. Fabe\)](https://open.spotify.com/track/0Hc5xVRukKIIAzjM5m3O1p) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [MMM \(feat\. Fabe\)](https://open.spotify.com/album/5jKLbI1oC5hVhwiqK0EhxZ) | 2:07 | 2023-09-30 | 2023-10-29 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-12 | 2023-04-16 |
 | [MODERN JAM](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-07-31 |

@@ -9036,7 +9036,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -10734,7 +10734,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 137272,
       "name": "ESCADA DO PR\u00c9DIO",
       "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
@@ -10950,7 +10950,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -22058,7 +22058,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 188839,
       "name": "Montanha",
       "url": "https://open.spotify.com/track/71Aj0joTSW4wv8olaHNBvK"
@@ -23094,7 +23094,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 144000,
       "name": "M\u00e3e Solteira",
       "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
@@ -25726,6 +25726,32 @@
       "duration_ms": 182190,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw"
+    },
+    {
+      "album": {
+        "name": "Papaoutai (Afro Soul)",
+        "url": "https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Chill77",
+          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279962,
+      "name": "Papaoutai - Afro Soul",
+      "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
     },
     {
       "album": {
@@ -29270,7 +29296,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -30506,7 +30532,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 487384,
       "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
       "url": "https://open.spotify.com/track/65O1EyYSg0Leyf0li6Vzah"

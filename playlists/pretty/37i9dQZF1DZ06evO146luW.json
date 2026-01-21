@@ -1,33 +1,13 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50069,
+  "num_followers": 50070,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAABF8G8LhLpHlJpDIhCZvz2v",
+  "snapshot_id": "aW10AAAAAABVqN2b7vBu3yTA0vU9vh9Y",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "That's Why We Fight (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "That's Why We Fight (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
     },
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 252341,
-      "name": "Ragweed",
-      "url": "https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/3dzRwqd1L3HqxmViUJt20A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 252341,
+      "name": "Ragweed",
+      "url": "https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 188885,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 233226,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
+      "duration_ms": 306057,
+      "name": "YellaBush Road",
+      "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 306057,
-      "name": "YellaBush Road",
-      "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
+      "duration_ms": 233226,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
     },
     {
       "added_at": null,

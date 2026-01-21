@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 567 likes - 461 songs - 22 hr 25 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 573 likes - 465 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -469,5 +469,9 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 459 | [Empire](https://open.spotify.com/track/6mjUMGvDzZKmowEHEab8v2) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Empire](https://open.spotify.com/album/37GecuXJd0Q9FDpl2KZjUa) | 2:55 |
 | 460 | [Life crazy](https://open.spotify.com/track/5B03BthFX6Zw0931RWRixA) | [Tymar2k](https://open.spotify.com/artist/2CanSgzsvRDktr0MCZeQY7) | [Life crazy](https://open.spotify.com/album/09m1pEt1RF8D0UP1tKwbMx) | 1:28 |
 | 461 | [Junior Partner](https://open.spotify.com/track/4pttWCJ0GJruYWBneXDLLI) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Junior Partner](https://open.spotify.com/album/0yN6hmxRlPBnFHZMItQaLt) | 4:02 |
+| 462 | [Millimeter from Breakin'](https://open.spotify.com/track/5qbcx5BznWu1jiwMjRFJ1H) | [HXN](https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ) | [Sub\-Level](https://open.spotify.com/album/6dHO7raGffFCFlOHLbJtUd) | 3:48 |
+| 463 | [TRIP!](https://open.spotify.com/track/004HNYwtkj7Ol69rZ7cj7G) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [TRIP!](https://open.spotify.com/album/1DavqBdCKskBZztfK1h7Z5) | 2:11 |
+| 464 | [FUNNY BOY](https://open.spotify.com/track/7wKO3nIpTor5rpXiFsEJcS) | [Snshnee!](https://open.spotify.com/artist/56gNeCXGXTX5RQxC586Ein) | [FUNNY BOY](https://open.spotify.com/album/6vgQ2HD9oB4FOit7sTF21w) | 2:58 |
+| 465 | [Smooth Operator](https://open.spotify.com/track/2jg0rXK2K9n3FvHNW6j6IT) | [Sir Gladis](https://open.spotify.com/artist/0LEqbOy9JAIvDyHePlaI19) | [Smooth Operator](https://open.spotify.com/album/4GtTnxqgc0yeMmlWOkf6LH) | 4:52 |
 
-Snapshot ID: `AAABbazmTw0hMOHgIo90EjotcJrmkfdN`
+Snapshot ID: `AAABcbDI0KwbIdDZZfvmcknGHf+fYiYb`

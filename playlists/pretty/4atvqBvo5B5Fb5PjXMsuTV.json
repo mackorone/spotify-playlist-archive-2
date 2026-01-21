@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Jan 23:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Jan 23:04 UTC.",
   "num_followers": 103,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXPTZOaziTeYvjptT/mizLvDqy6JVg",
+  "snapshot_id": "AAAXQSDTCuzlNI0uU8HBP48PcpNo+J7J",
   "tracks": [
+    {
+      "added_at": "2026-01-20 23:04:23",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+    },
     {
       "added_at": "2026-01-19 23:05:01",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 280924,
       "name": "Puppet Parade",
       "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
+    },
+    {
+      "added_at": "2026-01-20 19:04:16",
+      "album": {
+        "name": "CHUN",
+        "url": "https://open.spotify.com/album/1VZTWg5Vge2ygWF1XUprHd"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "CHUN",
+      "url": "https://open.spotify.com/track/63ZGU8u73OX0sjZwG0pNAw"
     },
     {
       "added_at": "2026-01-19 14:05:00",
@@ -429,6 +461,22 @@
       "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
     },
     {
+      "added_at": "2026-01-20 19:04:16",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
+    },
+    {
       "added_at": "2026-01-15 23:03:27",
       "album": {
         "name": "human props",
@@ -791,54 +839,6 @@
       "duration_ms": 189600,
       "name": "Make-up is a Lie",
       "url": "https://open.spotify.com/track/1ubJkE9q1un1hIHbDfJ8Tg"
-    },
-    {
-      "added_at": "2026-01-09 19:04:37",
-      "album": {
-        "name": "The Old Law",
-        "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 281988,
-      "name": "The Old Law",
-      "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
-    },
-    {
-      "added_at": "2026-01-09 23:04:59",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 186089,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"
-    },
-    {
-      "added_at": "2026-01-10 04:04:38",
-      "album": {
-        "name": "Party4u!",
-        "url": "https://open.spotify.com/album/6HivLniVLEVUPoaeIimFjP"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Party4u!",
-      "url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     }
   ],
   "unique_name": "New Singles Now",

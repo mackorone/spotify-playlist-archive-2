@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Miren quien volvió 💖💅🏽👑 Kenia Os en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,519 likes - 79 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,572 likes - 79 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 25 | [Estuve Ahí](https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Estuve Ahí](https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW) | 2:15 |
 | 26 | [Popurrí De José Alfredo Jiménez \- En Vivo](https://open.spotify.com/track/3Ju5gCn6d7XytKOpFjEksW) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Popurrí De José Alfredo Jiménez \(En Vivo\)](https://open.spotify.com/album/5TKwr5XKpD0bkT5wVlZlpY) | 4:32 |
 | 27 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
-| 28 | [19 Dias Y 500 Noches](https://open.spotify.com/track/6L3MWcIig800B6Nasgaln5) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [19 Dias Y 500 Noches](https://open.spotify.com/album/5OxmcHaGe3SSLNblg8kKhd) | 4:46 |
+| 28 | [19 DIAS Y 500 NOCHES](https://open.spotify.com/track/6L3MWcIig800B6Nasgaln5) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [19 DIAS Y 500 NOCHES](https://open.spotify.com/album/5OxmcHaGe3SSLNblg8kKhd) | 4:46 |
 | 29 | [lulu.](https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [lulu.](https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI) | 4:30 |
 | 30 | [A Veces](https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [A Veces](https://open.spotify.com/album/4o5XUPdw1HeAY7LtBpRMnw) | 3:52 |
 | 31 | [MOPUS](https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [MOPUS](https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO) | 2:13 |

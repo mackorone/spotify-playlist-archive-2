@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,150 songs - 1 day 20 hr 17 min
+1,151 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [dreamer](https://open.spotify.com/track/40AmxylqgnEOpZVbcjnDiS) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [dreamer](https://open.spotify.com/album/4haF6AKOuLLzk36M10qPuJ) | 2:04 | 2024-03-22 |  |
 | [dreamfield](https://open.spotify.com/track/29pPn3HgQQyKMuQrk2s0cq) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 | 2022-05-20 | 2022-09-17 |
 | [Dreams in MP3](https://open.spotify.com/track/6K4yqREMihKD1Sr6HNzlwL) | [broeybeats.](https://open.spotify.com/artist/2h6TAdYdjOn1o4P36lOPdq), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Dreams in MP3](https://open.spotify.com/album/6dQeClsx0EgqjUKjqTReCi) | 2:16 | 2022-07-29 | 2022-10-14 |
+| [Dreams of Summer](https://open.spotify.com/track/1jVckG8SZelmhcOUEQTmCb) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Dreams of Summer](https://open.spotify.com/album/5TViRVC0ybRDhUcnZChkga) | 2:25 | 2026-01-16 |  |
 | [Dreamscape](https://open.spotify.com/track/2cT8K8V4SvjgmbStnuByyi) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Dreamscape](https://open.spotify.com/album/41G0RJiWG8KIzsmhxWRO9Y) | 2:34 | 2022-08-19 | 2023-11-17 |
 | [DREAMY](https://open.spotify.com/track/5BpqczsIDRdI8Sjg3muSeB) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [DREAMY](https://open.spotify.com/album/6qf8fAFYxG6H6gPC8ybPcp) | 2:56 | 2024-02-23 |  |
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 | 2025-07-10 |
@@ -1074,7 +1075,7 @@
 | [Unity](https://open.spotify.com/track/5pSAT98oNVHxDWfZn4jVDZ) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/38pRruNPK6CWlpASV8FnPb) | 2:13 | 2022-04-15 | 2022-11-20 |
 | [Until Morning Comes](https://open.spotify.com/track/13vIPV9gmRakQ0yJk5S81g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Until Morning Comes](https://open.spotify.com/album/0DbqxCggCsx7rXA2c1ZLAf) | 2:52 | 2025-10-16 |  |
 | [unwind rewind](https://open.spotify.com/track/2het2Gw9kQZKOZl2ATnog3) | [Mambojambo](https://open.spotify.com/artist/5adQ9F1bTccUHKfePr6khI) | [unwind rewind](https://open.spotify.com/album/3FEZtS1ZfqgrCaDbsc3Wsi) | 2:06 | 2025-05-06 |  |
-| [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 |  |
+| [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 | 2026-01-21 |
 | [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-08 | 2025-09-05 |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-15 | 2025-07-10 |
 | [Valentina](https://open.spotify.com/track/34rlm9wkmSqrlN794BjwQk) | [Belinellie](https://open.spotify.com/artist/5pQN7M94XWHOoRTYWHUBX5) | [Valentina](https://open.spotify.com/album/03SOg6LS7UfQfhnNYLcagj) | 1:55 | 2024-09-13 | 2025-02-15 |

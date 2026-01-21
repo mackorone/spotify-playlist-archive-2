@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10125,
+  "num_followers": 10132,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAAwq6GRP8G73Orn8AL/Y5iQ",
+  "snapshot_id": "aW10AAAAAABLozFk1bX592a5t4nlKvw+",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 132925,
-      "name": "Romeo + Ravyn Lenae",
-      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 233077,
       "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 132925,
+      "name": "Romeo + Ravyn Lenae",
+      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Moonlight EP",
+        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Spice - EP Version",
+      "url": "https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "noise ( meaning )",
         "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 127297,
       "name": "awake",
       "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moonlight EP",
-        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Spice - EP Version",
-      "url": "https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk"
     },
     {
       "added_at": null,

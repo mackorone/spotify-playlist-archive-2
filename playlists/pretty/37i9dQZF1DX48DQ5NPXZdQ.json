@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 70588,
+  "num_followers": 70612,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "En Bellas Artes 50 Aniversario",
+        "url": "https://open.spotify.com/album/7rTITZzdauZDkb9dspUzlx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Vargas",
+          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "La \u00daltima Noche",
+      "url": "https://open.spotify.com/track/2oCpyl3GrXVWVrOx2OLgmu"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "En Bellas Artes 50 Aniversario",
-        "url": "https://open.spotify.com/album/7rTITZzdauZDkb9dspUzlx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Vargas",
-          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "La \u00daltima Noche",
-      "url": "https://open.spotify.com/track/2oCpyl3GrXVWVrOx2OLgmu"
     },
     {
       "added_at": "2024-07-05 02:05:16",

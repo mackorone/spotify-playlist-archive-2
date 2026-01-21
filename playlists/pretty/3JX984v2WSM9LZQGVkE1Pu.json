@@ -1,699 +1,31 @@
 {
-  "description": "Verve Records is synonymous with great jazz. Featuring Ella Fitzgerald, Louis Armstrong and more.",
-  "num_followers": 3742,
-  "original_name": "Best of Verve Records",
+  "description": "The Jazz of America is on Verve.",
+  "num_followers": 3743,
+  "original_name": "70 Years of Verve Records",
   "owner": {
     "name": "Verve Records",
     "url": "https://open.spotify.com/user/vervemusicgroup"
   },
-  "snapshot_id": "AAABMEiYAHLrqKGkdN0pdriKf0mOAiOS",
+  "snapshot_id": "AAABN/1hXVmngcFUovbgxv+xICRIRCvL",
   "tracks": [
     {
-      "added_at": "2021-02-11 22:46:01",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
-        "name": "I NEED YOU",
-        "url": "https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "I NEED YOU",
-      "url": "https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Complete Verve Studio Master Takes",
-        "url": "https://open.spotify.com/album/5QJ7EzrfhXHscS4LbubbAr"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "What A Little Moonlight Can Do",
-      "url": "https://open.spotify.com/track/3pTA4IxvtoKl0cYYJ3jzA2"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Standards (Great Songs/Great Performances)",
-        "url": "https://open.spotify.com/album/1kePpog9OZ15yNOE8Zm5f6"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/31CE06DFQCMj3HwCfS22IM"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson",
-        "url": "https://open.spotify.com/album/6EX3QQ06sp8JgyJudZyLow"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/0ujGoZlGKEQ3l6VAEK81Nd"
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "West Side Story",
-        "url": "https://open.spotify.com/album/00j5Y8CWTG2bpCZUnP0DRD"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/0m3VAnwuryISuxMzhAphGU"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Complete Ella In Berlin: Mack The Knife (Live)",
-        "url": "https://open.spotify.com/album/7x8WUgobdhLj5kWabcKQBA"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Mack The Knife - Live In Berlin/1960",
-      "url": "https://open.spotify.com/track/65O2viITiOBklVRDKuLVrw"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Fascinating Rhythm",
-        "url": "https://open.spotify.com/album/4PoIkPA8o32QEnZtjDIEdS"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Fascinating Rhythm",
-      "url": "https://open.spotify.com/track/4LhqUDklYq2nUUZeYxc3rd"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Ultimate Sarah Vaughan",
-        "url": "https://open.spotify.com/album/4pNI5N9Siarlqnl0gILfzs"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0fyAznA04pWJhM7ri6q74Z"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Charlie Parker With Strings: Complete Master Takes",
-        "url": "https://open.spotify.com/album/6LpoCABRuVXe4WmsFIoHx9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/5ZIFXTYxlv5tww5A1TjhoK"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Sonny Side Up",
-        "url": "https://open.spotify.com/album/0cXTqpKtlggpc2ehHIAQDS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 340960,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/6BzVa9uIB0V0ISjH2EVT0Q"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Getz/Gilberto",
-        "url": "https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2Wh1Lm588xTmLnJiJzPJV2"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Verve Unmixed",
-        "url": "https://open.spotify.com/album/2foI6CX5gBYqyCHk20gnFK"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/6bSMtEQ6JzTcH2J5TZbukP"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Definitive Joe Williams",
-        "url": "https://open.spotify.com/album/3yJKOMIIuXMmbgExTAoxCd"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/6AdZOyyctaHtYLoKBPkHMa"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Best Of Bud Powell On Verve",
-        "url": "https://open.spotify.com/album/1uTAxQTGNHCj3UjAyg1y9i"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Star Eyes",
-      "url": "https://open.spotify.com/track/2zYClexGpIhIQHZVTmxnxY"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/4hMy6FHdpoCXzSuVz9izKo"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Talkin' Verve: Roots Of Acid Jazz",
-        "url": "https://open.spotify.com/album/1pWDuUZhM3T0IiCQAxMIiO"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 331026,
-      "name": "One Mint Julep",
-      "url": "https://open.spotify.com/track/74YMKQWyNXIo8sYKXHX5ry"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
-        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/3N0zN2YwpoNJbz0YngKbBc"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 181069,
-      "name": "Fried Neck Bones And Some Homefries",
-      "url": "https://open.spotify.com/track/0cX5XPqCTZv15AfOv0JKLp"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/0g9Uf5HHjLrP1I79GpUXU5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/11MnwW1aP9VeVLoHJLiY9n"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/23PkKxV6S7iz1uBcBXKeFQ"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2rjUzgP1Qos25Ho5SXQvpj"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Anita O'Day And The Three Sounds",
-        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Whisper Not",
-      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Verve Unmixed",
-        "url": "https://open.spotify.com/album/2WkM3lBPdtPUPHO86IZ1VE"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3CJy38Lmp7cB7MOQKEW8qE"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Soul Of Ben Webster",
-        "url": "https://open.spotify.com/album/3txdl5NcBozMk4012vyel2"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/15MO6wBxwP10ZHy7DCVk4V"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Tequila (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Bumpin' On Sunset",
-      "url": "https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 147266,
-      "name": "Soul Sauce",
-      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 133573,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/6d29TKXB532hmlFwJU8cV1"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Verve Jazz Masters 13: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/3Fgn0dl3fwU8wvXinJcKrH"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/0T2ha0g0BvQJRBViIOfPWI"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Jazz Samba",
-      "url": "https://open.spotify.com/track/5YaDi2kkCU6JoimzD1lk32"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Hollywood Africans",
-        "url": "https://open.spotify.com/album/41PE0a48Mgo7jiCnjf6719"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Nocturne No. 1 in D Minor",
-      "url": "https://open.spotify.com/track/4OhTF2HxbbxFzGMAQYaFPx"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Verve Jazz Masters 3: Chick Corea",
-        "url": "https://open.spotify.com/album/6cTOdbRGt8PU3fnn0l2oF1"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 97986,
-      "name": "My Spanish Heart",
-      "url": "https://open.spotify.com/track/63XkOKkB1zDsDTJXcZ49ls"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Verve Jazz Masters",
-        "url": "https://open.spotify.com/album/666gQoQfe8cMLp0hgPzMBZ"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/5KBUS648Nw2xHcA69XVDJ9"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "Ruint",
-      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Swing Around Rosie",
-        "url": "https://open.spotify.com/album/3dtudnqxBVQCTUYGKusM4w"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 106733,
-      "name": "'Deed I Do",
-      "url": "https://open.spotify.com/track/6feTjRmdBgcAprPgw1Buz1"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Torm\u00e9",
-        "url": "https://open.spotify.com/album/3J2Ubql1y8QTEvcBl5GygM"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "I'm Gonna Laugh You Right Out Of My Life",
-      "url": "https://open.spotify.com/track/1YGCqxLMkS2AY0nUrrKcID"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Lilac Wine",
-      "url": "https://open.spotify.com/track/55mB6R8gn4qwziwpBf3VGU"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Ella and Louis",
-        "url": "https://open.spotify.com/album/1rP6GkPbp6DvIW59005PnR"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Can't We Be Friends?",
-      "url": "https://open.spotify.com/track/2aO5b6UqLQjN8pDeKzZvAF"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
-      "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/6cGw7Fl0XSlSSJ5lfeVt8l"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "God Bless The Child",
-      "url": "https://open.spotify.com/track/71r9vC8IAu7CNtbJp8Eo4G"
-    },
-    {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr"
@@ -717,7 +49,871 @@
       "url": "https://open.spotify.com/track/6n50vexd6yBNvSOc6QHT5X"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "I NEED YOU",
+        "url": "https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "I NEED YOU",
+      "url": "https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Fascinating Rhythm",
+        "url": "https://open.spotify.com/album/4PoIkPA8o32QEnZtjDIEdS"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Fascinating Rhythm",
+      "url": "https://open.spotify.com/track/4LhqUDklYq2nUUZeYxc3rd"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/726OIMOZ6uDlvGsdUbbazS"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Pasquale Grasso",
+          "url": "https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY"
+        }
+      ],
+      "duration_ms": 107707,
+      "name": "Linger Awhile",
+      "url": "https://open.spotify.com/track/4Jp3XfqAHGzwuRdP7qOPgy"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 438173,
+      "name": "Like Exploding Stones",
+      "url": "https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/55mB6R8gn4qwziwpBf3VGU"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 214208,
+      "name": "Be Who You Are (feat. JID, NewJeans & Camilo)",
+      "url": "https://open.spotify.com/track/0E8VaGhwaOnUw7LAxYMMCo"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Verve Unmixed",
+        "url": "https://open.spotify.com/album/2foI6CX5gBYqyCHk20gnFK"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6bSMtEQ6JzTcH2J5TZbukP"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 253878,
+      "name": "Hello again",
+      "url": "https://open.spotify.com/track/5TXhC5xaD6PBFteplr0FrV"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "cozy you (and other nice songs)",
+        "url": "https://open.spotify.com/album/2ASSjCHJDdOzKIgDkLkcgQ"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 210734,
+      "name": "cozy you",
+      "url": "https://open.spotify.com/track/2aScGrLv7XKffhaCToKae6"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Getz/Gilberto",
+        "url": "https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2Wh1Lm588xTmLnJiJzPJV2"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Classic Love (ep)",
+        "url": "https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 347151,
+      "name": "classic love (kv version)",
+      "url": "https://open.spotify.com/track/4VBN0zHlArrOq56bxsl609"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "West Side Story",
+        "url": "https://open.spotify.com/album/00j5Y8CWTG2bpCZUnP0DRD"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0m3VAnwuryISuxMzhAphGU"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Complete Verve Studio Master Takes",
+        "url": "https://open.spotify.com/album/5QJ7EzrfhXHscS4LbubbAr"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "What A Little Moonlight Can Do",
+      "url": "https://open.spotify.com/track/3pTA4IxvtoKl0cYYJ3jzA2"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Standards (Great Songs/Great Performances)",
+        "url": "https://open.spotify.com/album/1kePpog9OZ15yNOE8Zm5f6"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/31CE06DFQCMj3HwCfS22IM"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/6EX3QQ06sp8JgyJudZyLow"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/0ujGoZlGKEQ3l6VAEK81Nd"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Complete Ella In Berlin: Mack The Knife (Live)",
+        "url": "https://open.spotify.com/album/7x8WUgobdhLj5kWabcKQBA"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Mack The Knife - Live In Berlin/1960",
+      "url": "https://open.spotify.com/track/65O2viITiOBklVRDKuLVrw"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Ultimate Sarah Vaughan",
+        "url": "https://open.spotify.com/album/4pNI5N9Siarlqnl0gILfzs"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0fyAznA04pWJhM7ri6q74Z"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Charlie Parker With Strings: Complete Master Takes",
+        "url": "https://open.spotify.com/album/6LpoCABRuVXe4WmsFIoHx9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/5ZIFXTYxlv5tww5A1TjhoK"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Sonny Side Up",
+        "url": "https://open.spotify.com/album/0cXTqpKtlggpc2ehHIAQDS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 340960,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/6BzVa9uIB0V0ISjH2EVT0Q"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Definitive Joe Williams",
+        "url": "https://open.spotify.com/album/3yJKOMIIuXMmbgExTAoxCd"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/6AdZOyyctaHtYLoKBPkHMa"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Best Of Bud Powell On Verve",
+        "url": "https://open.spotify.com/album/1uTAxQTGNHCj3UjAyg1y9i"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/2zYClexGpIhIQHZVTmxnxY"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/2AXOX16zae4ZLiddqqzmp8"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/4hMy6FHdpoCXzSuVz9izKo"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Talkin' Verve: Roots Of Acid Jazz",
+        "url": "https://open.spotify.com/album/1pWDuUZhM3T0IiCQAxMIiO"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 331026,
+      "name": "One Mint Julep",
+      "url": "https://open.spotify.com/track/74YMKQWyNXIo8sYKXHX5ry"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
+        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/3N0zN2YwpoNJbz0YngKbBc"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "Fried Neck Bones And Some Homefries",
+      "url": "https://open.spotify.com/track/0cX5XPqCTZv15AfOv0JKLp"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/0g9Uf5HHjLrP1I79GpUXU5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/11MnwW1aP9VeVLoHJLiY9n"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/23PkKxV6S7iz1uBcBXKeFQ"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2rjUzgP1Qos25Ho5SXQvpj"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Anita O'Day And The Three Sounds",
+        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Verve Unmixed",
+        "url": "https://open.spotify.com/album/2WkM3lBPdtPUPHO86IZ1VE"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3CJy38Lmp7cB7MOQKEW8qE"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Soul Of Ben Webster",
+        "url": "https://open.spotify.com/album/3txdl5NcBozMk4012vyel2"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/15MO6wBxwP10ZHy7DCVk4V"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Bumpin' On Sunset",
+      "url": "https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Soul Sauce",
+      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 133573,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/6d29TKXB532hmlFwJU8cV1"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Verve Jazz Masters 13: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/3Fgn0dl3fwU8wvXinJcKrH"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/0T2ha0g0BvQJRBViIOfPWI"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Jazz Samba",
+      "url": "https://open.spotify.com/track/5YaDi2kkCU6JoimzD1lk32"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Hollywood Africans",
+        "url": "https://open.spotify.com/album/41PE0a48Mgo7jiCnjf6719"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Nocturne No. 1 in D Minor",
+      "url": "https://open.spotify.com/track/4OhTF2HxbbxFzGMAQYaFPx"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Verve Jazz Masters 3: Chick Corea",
+        "url": "https://open.spotify.com/album/6cTOdbRGt8PU3fnn0l2oF1"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 97986,
+      "name": "My Spanish Heart",
+      "url": "https://open.spotify.com/track/63XkOKkB1zDsDTJXcZ49ls"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Verve Jazz Masters",
+        "url": "https://open.spotify.com/album/666gQoQfe8cMLp0hgPzMBZ"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/5KBUS648Nw2xHcA69XVDJ9"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Ruint",
+      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Swing Around Rosie",
+        "url": "https://open.spotify.com/album/3dtudnqxBVQCTUYGKusM4w"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 106733,
+      "name": "'Deed I Do",
+      "url": "https://open.spotify.com/track/6feTjRmdBgcAprPgw1Buz1"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Torm\u00e9",
+        "url": "https://open.spotify.com/album/3J2Ubql1y8QTEvcBl5GygM"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "I'm Gonna Laugh You Right Out Of My Life",
+      "url": "https://open.spotify.com/track/1YGCqxLMkS2AY0nUrrKcID"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Ella and Louis",
+        "url": "https://open.spotify.com/album/1rP6GkPbp6DvIW59005PnR"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Can't We Be Friends?",
+      "url": "https://open.spotify.com/track/2aO5b6UqLQjN8pDeKzZvAF"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/6cGw7Fl0XSlSSJ5lfeVt8l"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "God Bless The Child",
+      "url": "https://open.spotify.com/track/71r9vC8IAu7CNtbJp8Eo4G"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "The Complete Verve Sessions",
         "url": "https://open.spotify.com/album/1esWnRTGtgRaLC3QdkRv3x"
@@ -741,7 +937,7 @@
       "url": "https://open.spotify.com/track/1URPQNsWFxLwB9C4a6iflB"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "What A Diff'rence A Day Makes!",
         "url": "https://open.spotify.com/album/7xxdp96Ym5OlbWlrdPTYt3"
@@ -757,7 +953,7 @@
       "url": "https://open.spotify.com/track/2AwOR6uXiSH1vHDbz5vVGi"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Ella Fitzgerald Sings The Cole Porter Songbook (Expanded Edition)",
         "url": "https://open.spotify.com/album/4IEzif6WznmB0UaZxLqqIo"
@@ -773,7 +969,7 @@
       "url": "https://open.spotify.com/track/0sAQxqJZPsJ0dy7dAZxyXi"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Sarah Vaughan With Clifford Brown",
         "url": "https://open.spotify.com/album/3WWsr2TMaeLZV8WBj3ZvYK"
@@ -793,7 +989,7 @@
       "url": "https://open.spotify.com/track/2uQtsAR6PsAWMy4Gb0I2lB"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Flip Wails: The Best Of The Verve Years",
         "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
@@ -809,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "April In Paris",
         "url": "https://open.spotify.com/album/4wHW2qVD6tkmF8vwuEUBd6"
@@ -825,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7jHOj2zcK9bVmTLjtJW2Tc"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "The Complete Verve Recordings",
         "url": "https://open.spotify.com/album/4OkCt14cRN6637rf7b8xoH"
@@ -841,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0zg1PyIxLiwehJly9xremW"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Buddy And Sweets",
         "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
@@ -861,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
@@ -881,7 +1077,7 @@
       "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "Standards (Great Songs/Great Performances)",
         "url": "https://open.spotify.com/album/6lcm7Ifpy8qDxYh1dDTHvP"
@@ -897,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3bA4rrllsTANmDuq4aiNYZ"
     },
     {
-      "added_at": "2019-10-23 17:40:33",
+      "added_at": "2026-01-20 20:19:52",
       "album": {
         "name": "A Night Out With Verve",
         "url": "https://open.spotify.com/album/7vFnfXmZsvKqY22UHy2yXC"
@@ -911,8 +1107,144 @@
       "duration_ms": 242706,
       "name": "Rose Room",
       "url": "https://open.spotify.com/track/0T8cHn2JguAVRRSUSEh31K"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 404880,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/6noZKuR5pjlEIynqvpFPbD"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/4gPYH4cFOgaukEpzcAr7vw"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/2fOx7wWR2sOBIWyveecAGX"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "River: The Joni Letters",
+        "url": "https://open.spotify.com/album/3GwR5VxaMzB01ay6qIT3Yq"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/7M0Od3nNXEdZ58O5FYNVvG"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Swingin' On The Moon",
+        "url": "https://open.spotify.com/album/6ZKQpAEonTepEOfoe58CqB"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "How High The Moon",
+      "url": "https://open.spotify.com/track/2lF36bLuKrO89W9ItCTBaf"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/5we6noV3g6mSd40pamxyTS"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/41Wj6aJKyggH33OYBo3ezY"
+    },
+    {
+      "added_at": "2026-01-20 20:19:52",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Then I'll Be Tired Of You",
+      "url": "https://open.spotify.com/track/48du1jL9ixYtp6sZRUdKSf"
     }
   ],
-  "unique_name": "Best of Verve Records",
+  "unique_name": "70 Years of Verve Records",
   "url": "https://open.spotify.com/playlist/3JX984v2WSM9LZQGVkE1Pu"
 }

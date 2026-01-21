@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,366 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,374 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 15 | [No Puedo Olvidarte](https://open.spotify.com/track/6Hpu6dhrlfZpeyl7kPsPCJ) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/3ekjHXDqes83iz8WaiRIPx) | 3:45 |
 | 16 | [Alzypher Vol\. 22](https://open.spotify.com/track/0gS3vRsW1pCS2Y4i4oub65) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Frankote](https://open.spotify.com/artist/6BToY1IkyIPAxJPwkMrlJD) | [Alzypher Vol\. 22](https://open.spotify.com/album/24VBJdmX3mzeztFrd8W1I5) | 4:16 |
 | 17 | [Click Clack](https://open.spotify.com/track/2eXJ0qw234K9GoVpCJtHTI) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5J6yw3q654jeHP8nrhuZvM) | 2:58 |
-| 18 | [FlowDa Calle](https://open.spotify.com/track/5OTHUIGshLgv6o76pcioBx) | [Brain Hunters](https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [FlowDa Calle](https://open.spotify.com/album/2fLeKGXpzBZaSWKY2dDNnp) | 2:11 |
-| 19 | [Me Baila Hasta Abajo](https://open.spotify.com/track/4lHdMFBQbwz34uO9g2vDgH) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Como Es Arriba, Es Abajo](https://open.spotify.com/album/5D2wY1ByIhPOlN5Q2sOQkH) | 3:32 |
+| 18 | [Me Baila Hasta Abajo](https://open.spotify.com/track/4lHdMFBQbwz34uO9g2vDgH) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Como Es Arriba, Es Abajo](https://open.spotify.com/album/5D2wY1ByIhPOlN5Q2sOQkH) | 3:32 |
+| 19 | [FlowDa Calle](https://open.spotify.com/track/5OTHUIGshLgv6o76pcioBx) | [Brain Hunters](https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [FlowDa Calle](https://open.spotify.com/album/2fLeKGXpzBZaSWKY2dDNnp) | 2:11 |
 | 20 | [Terremoto](https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa) | 3:27 |
 | 21 | [Piensa En Mis Labios](https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Piensa En Mis Labios](https://open.spotify.com/album/35PrfaDVET02L2KppeIenT) | 3:17 |
 | 22 | [Solo Tuya](https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Solo Tuya](https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Smoke](https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Smoke](https://open.spotify.com/album/1BTyb724qBItdFLINxaAPp) | 3:00 |
 | 50 | [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 |
 
-Snapshot ID: `aWwigAAAAAAsTV0f9YUtOAiu8JT8woWI`
+Snapshot ID: `aW10AAAAAACs/xkkfaIkgi1GUSKuGil7`

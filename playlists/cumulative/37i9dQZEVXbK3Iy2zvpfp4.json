@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Addicted!",
+        "url": "https://open.spotify.com/album/7lQlSx8JyEHLKxkwsYCAus"
+      },
+      "artists": [
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244897,
+      "name": "Addicted!",
+      "url": "https://open.spotify.com/track/19siE8vuZPzSBaj7OHmQ3h"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -7019,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/6GT1E8Qg3SazmTBzvm7kSo"
+      },
+      "artists": [
+        {
+          "name": "Miami XO",
+          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108121,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/045znbMKUOgc6SBI9fF8Z0"
+    },
+    {
+      "album": {
         "name": "DOVIDENIA",
         "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
       },
@@ -8046,7 +8082,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -31430,7 +31466,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 276613,
       "name": "I'll Believe in Anything",
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
@@ -33428,6 +33464,32 @@
       "duration_ms": 138586,
       "name": "Jak chcem ja",
       "url": "https://open.spotify.com/track/4O02FnLPrXcfcERV99dz2g"
+    },
+    {
+      "album": {
+        "name": "BOYBAND",
+        "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Jak Robot",
+      "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
     },
     {
       "album": {
@@ -43538,7 +43600,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 214479,
       "name": "MOMENT - DEEP HOUSE REMIX",
       "url": "https://open.spotify.com/track/5sUCXZAnSkCdBLY5uItJlO"
@@ -43610,7 +43672,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
@@ -56026,6 +56088,24 @@
       "duration_ms": 156981,
       "name": "PULZ \"X\"",
       "url": "https://open.spotify.com/track/3eqkNe1geDks9zfa1MCFHb"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234151,
+      "name": "PUNK ROCKY",
+      "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
     },
     {
       "album": {
@@ -69414,10 +69494,28 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 180966,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/4V66RQKxLhRdAFKJgTCJFa"
+    },
+    {
+      "album": {
+        "name": "Thong Song x Poker Face",
+        "url": "https://open.spotify.com/album/5LoqqNBTxOpaTveOF5mv6X"
+      },
+      "artists": [
+        {
+          "name": "Momba$",
+          "url": "https://open.spotify.com/artist/0TNArpRa3fnGeMkBKceLnR"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "Thong Song x Poker Face",
+      "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
     },
     {
       "album": {
@@ -76324,7 +76422,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -77544,7 +77642,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 166533,
       "name": "X Gon' Give It To Ya - 1950s Soul",
       "url": "https://open.spotify.com/track/5jtuNQWGByEkBzBUlN4rWS"
@@ -78585,6 +78683,24 @@
     },
     {
       "album": {
+        "name": "ZA KATREM",
+        "url": "https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ZA KATREM",
+      "url": "https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI"
+    },
+    {
+      "album": {
         "name": "Bengoro II",
         "url": "https://open.spotify.com/album/77ay6hjwXyrxwnmuvM0RKJ"
       },
@@ -78916,7 +79032,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 163000,
       "name": "Zlat\u00e1 karta",
       "url": "https://open.spotify.com/track/0SyLfxMFeHyiLrFQUDtvgM"

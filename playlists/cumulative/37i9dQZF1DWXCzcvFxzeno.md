@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-336 songs - 23 hr 17 min
+337 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [SHOUT IT](https://open.spotify.com/track/08TB2KbFxrzU6XBbg2D2al) | [Bunker](https://open.spotify.com/artist/3Ak4Weuk8uhYAXbTe5RNy5), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [SHOUT IT](https://open.spotify.com/album/1n4rIAcLbuGnCsejoHIHsx) | 2:45 | 2024-10-04 | 2025-06-20 |
 | [SHY](https://open.spotify.com/track/7wdHN5IQJ4AJcRoxI28TGn) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHY](https://open.spotify.com/album/2l5m08qBv3DtSC19FnWLfb) | 3:17 | 2025-04-25 | 2025-06-27 |
 | [Silence Is Oppression](https://open.spotify.com/track/5ggRtRm7mLxjTekV0KWbdO) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Various Artists \- EP 5](https://open.spotify.com/album/3Au8eyQxvtvbxPwZlJ3Al8) | 5:54 | 2024-04-09 | 2024-11-11 |
-| [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-29 |  |
+| [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-29 | 2026-01-21 |
 | [So Alive \(VIP\)](https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [So Alive \(VIP\)](https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB) | 4:13 | 2024-04-09 |  |
 | [So Druff](https://open.spotify.com/track/3WaHqDjGpOWAz7uHvA7ztc) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [So Druff](https://open.spotify.com/album/1R5lUR2oKdp2xAgwbCnIjn) | 2:40 | 2025-02-28 | 2025-03-07 |
 | [Sonne](https://open.spotify.com/track/2Gna1s0f2aYuCZDSw44QYD) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Sonne](https://open.spotify.com/album/4ruRlxBLMfWTxpxj3qz5qo) | 4:26 | 2025-10-01 |  |
@@ -326,6 +326,7 @@
 | [Una Hora Más](https://open.spotify.com/track/4h9RbW9SAvfiyq9hsVKUym) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más](https://open.spotify.com/album/6GQFgi1oqmxeM3aDwb8xQY) | 2:43 | 2025-01-24 |  |
 | [Unaccepted Complex](https://open.spotify.com/track/7x9FOsf8u8hKP33uuANICq) | [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:00 | 2024-07-18 | 2024-07-22 |
 | [Underneath The Strobelights](https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Underneath The Strobelights \(Exhale VA005\)](https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90) | 4:40 | 2024-07-26 | 2025-10-06 |
+| [Unleash The Radical](https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Unleash The Radical](https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT) | 3:12 | 2026-01-16 |  |
 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 | 2024-04-09 |  |
 | [Venom](https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [INNERGATE RECORDS](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Venom](https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt) | 6:51 | 2024-08-13 | 2025-02-02 |
 | [Violence](https://open.spotify.com/track/6TBZKterLaIPKrP9Ba8vMX) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Violence](https://open.spotify.com/album/6irJKp8KMfBRBSn31417yd) | 4:48 | 2024-11-08 | 2025-03-10 |

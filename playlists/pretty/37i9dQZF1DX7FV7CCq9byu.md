@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,772 likes - 178 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,764 likes - 178 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 25 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
 | 26 | [Catch & Release](https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Catch & Release](https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg) | 2:57 |
 | 27 | [Katedral Syndrom](https://open.spotify.com/track/3bCQiNHc31vgoHA5TwH6ZI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Katedral Syndrom](https://open.spotify.com/album/1kmftXJhfdpudW4T8gsBnD) | 3:19 |
-| 28 | [Stuck In November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
+| 28 | [Stuck in November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
 | 29 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 30 | [Famous](https://open.spotify.com/track/2fSEylOfMOFn36OD83rZEK) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Heals Me](https://open.spotify.com/album/1ZM65kDMxSngciroWInJMh) | 3:23 |
 | 31 | [Inombords](https://open.spotify.com/track/5QMnvHrkUdJ86rPwZHAkYe) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Inombords](https://open.spotify.com/album/042ZowqJbaddqs1S1knF8g) | 2:25 |

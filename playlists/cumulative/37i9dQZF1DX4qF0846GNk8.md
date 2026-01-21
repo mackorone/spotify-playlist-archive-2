@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر\. الغلاف: عصام صاصا الكروان
+> أجمد المهرجانات في مصر\. الغلاف: كريم كرستيانو
 
-334 songs - 20 hr 49 min
+335 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/track/2V6Avd2Cgo2z6Ld8pyVkM6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [التزموا الصمت اسود الارض راجعين \( يابا احنا نغيب غيبتنا \)](https://open.spotify.com/album/2Pfpafd4iN7WGjvA3bg0EY) | 3:21 | 2024-05-10 | 2024-08-13 |
 | [الجاي بتاعي](https://open.spotify.com/track/1TcblBVtkEEbH0kL67kIC3) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [الجاي بتاعي](https://open.spotify.com/album/0qYlJKhHgr0h7vaxfFBD3Q) | 3:17 | 2025-06-16 |  |
 | [الجولة صعبة](https://open.spotify.com/track/3wCpogh1B1WrzCJqpHzSMs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [محمد شاهين](https://open.spotify.com/artist/0JcQqEk7QYNydnOsxtO1Ui) | [الجولة صعبة](https://open.spotify.com/album/1v1o4ejiTj1VBcjABjx38B) | 3:42 | 2022-10-24 | 2022-10-26 |
-| [الحب الحب سنيوريتا](https://open.spotify.com/track/44mSr8Olgi1u3Wa5WyAUqn) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [الحب الحب سنيوريتا](https://open.spotify.com/album/5Y3xlqjyJEApstMeAqWMkT) | 3:53 | 2025-01-24 |  |
+| [الحب الحب سنيوريتا](https://open.spotify.com/track/44mSr8Olgi1u3Wa5WyAUqn) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [الحب الحب سنيوريتا](https://open.spotify.com/album/5Y3xlqjyJEApstMeAqWMkT) | 3:53 | 2025-01-24 | 2026-01-21 |
 | [الحب جريمة بجد](https://open.spotify.com/track/6WIC9ZhkfP1Gg24BXvRwwQ) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [الحب جريمة بجد](https://open.spotify.com/album/3I6ZeLZUwXD0zX0mFuNY0Y) | 3:13 | 2022-12-23 | 2023-01-03 |
 | [الحبسه مبتصلحش حد](https://open.spotify.com/track/6QqGgibOSY67e4aBRBvOvc) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الحبسه مبتصلحش حد](https://open.spotify.com/album/27iOT6QqfXn1wVi1Ef1IMh) | 6:13 | 2023-10-03 | 2024-02-01 |
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-30 | 2024-02-01 |
@@ -153,6 +153,7 @@
 | [جامد](https://open.spotify.com/track/7dhkgivsendkxVgtB9zZo6) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [جامد](https://open.spotify.com/album/50Bc0tbgEIIQ1imsPKeZkO) | 3:00 | 2021-12-16 | 2022-10-25 |
 | [جنب الحيط بس اسد لو اتحطيت](https://open.spotify.com/track/6YDzE2uS3lmoqxpmKKs7F2) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [جنب الحيط بس اسد لو اتحطيت](https://open.spotify.com/album/5F4lAWGZejo8HpVkBOipVE) | 5:13 | 2023-10-03 | 2024-06-21 |
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-08 | 2024-08-13 |
+| [حبك شي توماتيكى \( انت قاعد بتحب وهيا بتشرب فيب \)](https://open.spotify.com/track/1YtVLyJ1ooGChjUPPoJ0AA) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [حبك شي توماتيكى \( انت قاعد بتحب وهيا بتشرب فيب \)](https://open.spotify.com/album/0AIn6ZTNkHi3SWhmMnLTw7) | 4:00 | 2026-01-20 |  |
 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-01 | 2024-02-22 |
 | [حمص](https://open.spotify.com/track/603yXldrQ8YFrTD0zgUK5B) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr), [Mohamed Abdel Salam](https://open.spotify.com/artist/2GniCLZUERdnooiq0zGlaz) | [حمص](https://open.spotify.com/album/2X9ukkkitGJu5BSdRBDlDX) | 3:00 | 2023-05-18 | 2023-09-26 |
 | [حياتي مرار وخدت قرار\(حبيب القلب روح القلب\)](https://open.spotify.com/track/3Bzq126bbUzSD26eHBc6JX) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [حياتي مرار وخدت قرار\(حبيب القلب روح القلب\)](https://open.spotify.com/album/54YA0OY0dRNw1OIiuhNuvh) | 4:08 | 2023-06-21 | 2023-09-26 |

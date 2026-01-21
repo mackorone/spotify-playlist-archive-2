@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "Polar: Abyss",
+        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Daniela Mars",
+          "url": "https://open.spotify.com/artist/71r1FG65OQEQiR6Tk5c1bJ"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252374,
+      "name": "Memory Of A World",
+      "url": "https://open.spotify.com/track/6OEqFQ3ci72PicREg6m2my"
+    },
+    {
+      "album": {
         "name": "Polar: Dusk",
         "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
       },
@@ -846,7 +868,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 120418,
       "name": "Monolith at Dusk",
       "url": "https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5"

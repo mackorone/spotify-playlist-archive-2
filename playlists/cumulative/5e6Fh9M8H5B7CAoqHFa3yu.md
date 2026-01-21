@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,739 songs - 4 day 9 hr 10 min
+1,740 songs - 4 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1411,6 +1411,7 @@
 | [SPRING!](https://open.spotify.com/track/7lyg0eGzqwhk1TZmPrIyxu) | [Dark of Mind Project](https://open.spotify.com/artist/1xxm7LliI0DIiaMGSv5qjd) | [SPRING!](https://open.spotify.com/album/4eh1a2NYKXGSjtUMLjh6Yx) | 2:56 | 2025-07-08 |  |
 | [Starborn](https://open.spotify.com/track/1bz4mwUQvk2TOyGMZHr9SR) | [Julia Vasiliev](https://open.spotify.com/artist/4gPg2YgLb608Yn02rXzDKT) | [Starborn](https://open.spotify.com/album/3Gvz4w6oEdg3SUgDOpWKrc) | 4:20 | 2025-08-02 |  |
 | [Stare Bene Stare Male](https://open.spotify.com/track/2SnGH57n6b37LsA1VmJCGk) | [Ivan And The Eclipse](https://open.spotify.com/artist/6XXwWzefUQwgQVgyWmU9Wj) | [Stare Bene Stare Male](https://open.spotify.com/album/5csfTcNe0ZT7KID0960gYB) | 4:50 | 2024-04-20 |  |
+| [State My Name](https://open.spotify.com/track/2FgzfxogYyqwfularL52LE) | [Cypha da Moonchild](https://open.spotify.com/artist/0LISOGYNKwYzXPlciYJKve) | [State My Name](https://open.spotify.com/album/6SPoJhtu9tB9b1jVMKdUmU) | 1:36 | 2026-01-21 |  |
 | [Stay Dub](https://open.spotify.com/track/1g8HIyOwavNqGKaprSeu2d) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 5:02 | 2024-07-06 |  |
 | [Stay With Me](https://open.spotify.com/track/1Dvvldeo3z38BZmCzpFYl9) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 4:03 | 2024-07-06 |  |
 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 | 2024-03-04 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124481,
+  "num_followers": 124476,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVBKwGFIOJKSUOR6admso+YxwrHHdb",
+  "snapshot_id": "AAAVBVNaRr3LbB8B/6Uzg61KhHfGgoWR",
   "tracks": [
+    {
+      "added_at": "2026-01-20 14:48:19",
+      "album": {
+        "name": "Cautious Love",
+        "url": "https://open.spotify.com/album/7zSpyFV7k3KNbtS1yiU1sl"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "duration_ms": 214812,
+      "name": "Cautious Love",
+      "url": "https://open.spotify.com/track/7dkFMhhah6uSpaoOjg5jIG"
+    },
     {
       "added_at": "2026-01-19 16:24:56",
       "album": {

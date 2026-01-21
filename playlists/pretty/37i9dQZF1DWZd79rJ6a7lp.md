@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,512,483 likes - 328 songs - 14 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,513,624 likes - 328 songs - 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 139 | [Presence](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Presence](https://open.spotify.com/album/37Izr0igRkZEUUto8T2OC6) | 2:55 |
 | 140 | [Systems Ecology](https://open.spotify.com/track/1zkpJ5ZMfZNnen2vgw1T5T) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Systems Ecology](https://open.spotify.com/album/7EE2OQNArrxzRELIloRjyZ) | 2:46 |
 | 141 | [Bloom](https://open.spotify.com/track/4QyXSkQ6X99wZnlI6cxY1f) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Bloom](https://open.spotify.com/album/0AdwMeF3P8xaseKMfbvwgl) | 3:02 |
-| 142 | [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 |
+| 142 | [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/3IbBAK3p67A2nrqvUCbRwT) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 |
 | 143 | [Inverse nights](https://open.spotify.com/track/0MKyjTXoJ0n7M344rRHMrP) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Inverse nights](https://open.spotify.com/album/0KjOjSVj04EYM6hDwGkgqs) | 3:15 |
 | 144 | [Myriad Calm](https://open.spotify.com/track/0REjyvDIwTTIydfZNxqL7y) | [Noyadest](https://open.spotify.com/artist/0uS9dY982xT5wrD3iwwHk9) | [Myriad Calm](https://open.spotify.com/album/6u37Dyp2RqpfGnRgaTkvLd) | 2:54 |
 | 145 | [Moment of Awareness](https://open.spotify.com/track/6zaiKqdrDS2xZuMY48k76k) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Moment of Awareness](https://open.spotify.com/album/2IbgyoRJX0YMKAoSn8Yfso) | 3:13 |

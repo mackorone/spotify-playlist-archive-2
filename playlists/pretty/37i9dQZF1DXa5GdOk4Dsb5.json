@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 161282,
+  "num_followers": 161349,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
         "name": "Borracha (Remix)",
         "url": "https://open.spotify.com/album/58V0EM9Gc1mXzIytBSi3FD"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 178800,
       "name": "Me Pase de Tragos",
       "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Desarmada - Spotify Singles",
-        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Desarmada - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1511,6 +1511,42 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
       },
@@ -1543,22 +1579,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Adicta al Dolor",
-        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
-      },
-      "artists": [
-        {
-          "name": "Marbelle",
-          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
-        }
-      ],
-      "duration_ms": 173670,
-      "name": "Adicta al Dolor",
-      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "No Es Por Ac\u00e1",
         "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
       },
@@ -1575,8 +1595,24 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+        "name": "Adicta al Dolor",
+        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
+      },
+      "artists": [
+        {
+          "name": "Marbelle",
+          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
+        }
+      ],
+      "duration_ms": 173670,
+      "name": "Adicta al Dolor",
+      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Maldita Traicion",
+        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
       },
       "artists": [
         {
@@ -1584,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
         }
       ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+      "duration_ms": 187720,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Rep\u00edtelas",
-        "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 141336,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -1651,6 +1671,22 @@
       "duration_ms": 246131,
       "name": "Tu - Live",
       "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Rep\u00edtelas",
+        "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 141336,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1671,54 +1707,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
         },
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Maldita Traicion",
-        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Rep\u00edtelas",
-        "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 175456,
-      "name": "Dulce Pecado",
-      "url": "https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm"
+      "duration_ms": 224810,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

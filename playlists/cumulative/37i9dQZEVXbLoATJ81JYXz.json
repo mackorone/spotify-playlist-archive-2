@@ -6,6 +6,42 @@
     {
       "album": {
         "name": "",
+        "url": "https://open.spotify.com/album/2t78jimVrksrBXe0yiP2j3"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0KuiK2NQAtpjV6bJMr6zBs"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3FDE0dHJmUdCybi9GgtNkN"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0RdQOikM1zOeLhbkT0ua5T"
+    },
+    {
+      "album": {
+        "name": "",
         "url": "https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP"
       },
       "artists": [
@@ -4218,7 +4254,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
@@ -6328,7 +6364,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 89586,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/3beHiaQZvZ6MCPFBs4uqOB"
@@ -13226,7 +13262,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 172570,
       "name": "En ny dag",
       "url": "https://open.spotify.com/track/0gIUuhxppXV7tX9z7y8Gpl"
@@ -15534,7 +15570,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 116647,
       "name": "FLYGPLAN",
       "url": "https://open.spotify.com/track/56hHCESKiK3vkjEI1Bl7zG"
@@ -22371,6 +22407,24 @@
     },
     {
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -24305,24 +24359,6 @@
     },
     {
       "album": {
-        "name": "Jag vet, du \u00e4r inte min",
-        "url": "https://open.spotify.com/album/2t78jimVrksrBXe0yiP2j3"
-      },
-      "artists": [
-        {
-          "name": "Jacub",
-          "url": "https://open.spotify.com/artist/7ifEkzjmxo75vYZ6y61NqN"
-        }
-      ],
-      "date_added": "2025-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199810,
-      "name": "Jag vet, du \u00e4r inte min",
-      "url": "https://open.spotify.com/track/0KuiK2NQAtpjV6bJMr6zBs"
-    },
-    {
-      "album": {
         "name": "Jag vill bara va med dej",
         "url": "https://open.spotify.com/album/10JTOhisVeDfvxsNSQsD8E"
       },
@@ -25294,7 +25330,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -29866,7 +29902,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -29884,7 +29920,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -46428,7 +46464,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -46446,7 +46482,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -49796,24 +49832,6 @@
       "duration_ms": 195518,
       "name": "Vi ska aldrig g\u00e5 hem",
       "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
-    },
-    {
-      "album": {
-        "name": "Vi som aldrig brann",
-        "url": "https://open.spotify.com/album/3FDE0dHJmUdCybi9GgtNkN"
-      },
-      "artists": [
-        {
-          "name": "Jacub",
-          "url": "https://open.spotify.com/artist/7ifEkzjmxo75vYZ6y61NqN"
-        }
-      ],
-      "date_added": "2026-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208483,
-      "name": "Vi som aldrig brann",
-      "url": "https://open.spotify.com/track/0RdQOikM1zOeLhbkT0ua5T"
     },
     {
       "album": {

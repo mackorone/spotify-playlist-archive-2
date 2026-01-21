@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1182,
+  "num_followers": 1193,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAPXSnoZ4aLFY2Cddvzrz8mzBRziNKs",
+  "snapshot_id": "AAAPaxuqOufplFSOJwTSgj/zI0/+I4wi",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -2819,6 +2819,230 @@
       "duration_ms": 236616,
       "name": "Les livres de Marion",
       "url": "https://open.spotify.com/track/5Bjf4hqznBHRPJDAFMhddF"
+    },
+    {
+      "added_at": "2026-01-20 08:46:58",
+      "album": {
+        "name": "Crying (HARDER) At The Discoth\u00e8que.",
+        "url": "https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE"
+      },
+      "artists": [
+        {
+          "name": "Travie Austin",
+          "url": "https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN"
+        }
+      ],
+      "duration_ms": 232337,
+      "name": "Crying (HARDER) At The Discoth\u00e8que.",
+      "url": "https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD"
+    },
+    {
+      "added_at": "2026-01-20 08:47:09",
+      "album": {
+        "name": "G\u00f6rmeseydim",
+        "url": "https://open.spotify.com/album/55pul9AWZslDTdcAduIu1u"
+      },
+      "artists": [
+        {
+          "name": "Sefa G\u00fcm\u00fc\u015ftak\u0131m",
+          "url": "https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq"
+        }
+      ],
+      "duration_ms": 157952,
+      "name": "G\u00f6rmeseydim",
+      "url": "https://open.spotify.com/track/3e0L8kr4FZusJbyTnufoly"
+    },
+    {
+      "added_at": "2026-01-20 08:47:13",
+      "album": {
+        "name": "Destellos en la Noche",
+        "url": "https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU"
+      },
+      "artists": [
+        {
+          "name": "CHRISTIAN GRAND",
+          "url": "https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Algo Tranqui",
+      "url": "https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv"
+    },
+    {
+      "added_at": "2026-01-20 08:47:23",
+      "album": {
+        "name": "Leave Am for God",
+        "url": "https://open.spotify.com/album/0minRiEpEzErTfC28mfINM"
+      },
+      "artists": [
+        {
+          "name": "Skyl Panameraa",
+          "url": "https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd"
+        }
+      ],
+      "duration_ms": 186659,
+      "name": "Leave Am for God",
+      "url": "https://open.spotify.com/track/6Bgzjd17rmYVFEWFJjOBor"
+    },
+    {
+      "added_at": "2026-01-20 08:47:38",
+      "album": {
+        "name": "BAD FOR ME",
+        "url": "https://open.spotify.com/album/7sI2OYtjcq8r8XQyYM3Qr0"
+      },
+      "artists": [
+        {
+          "name": "Looperian",
+          "url": "https://open.spotify.com/artist/6Z5SR6G9SpWPpp42YqNkkl"
+        }
+      ],
+      "duration_ms": 91765,
+      "name": "BAD FOR ME",
+      "url": "https://open.spotify.com/track/14ZPZqNEJzwwjBIBGIwc5e"
+    },
+    {
+      "added_at": "2026-01-20 08:47:47",
+      "album": {
+        "name": "La Viuda Negra",
+        "url": "https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv"
+      },
+      "artists": [
+        {
+          "name": "Jacohard",
+          "url": "https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Angie Stereo - funk rock",
+      "url": "https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe"
+    },
+    {
+      "added_at": "2026-01-20 08:50:50",
+      "album": {
+        "name": "Crazy Dance of Death",
+        "url": "https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 191021,
+      "name": "Crazy Dance of Death",
+      "url": "https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU"
+    },
+    {
+      "added_at": "2026-01-20 08:50:55",
+      "album": {
+        "name": "Weisst du noch ?",
+        "url": "https://open.spotify.com/album/2GcaJ26qd0XxJOdVhd6yqu"
+      },
+      "artists": [
+        {
+          "name": "SOUTHDOGROCK",
+          "url": "https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Weisst du noch ?",
+      "url": "https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD"
+    },
+    {
+      "added_at": "2026-01-20 08:56:35",
+      "album": {
+        "name": "Stelle Guerriere",
+        "url": "https://open.spotify.com/album/2TYqrFdTW0T3Uuqqf9NFya"
+      },
+      "artists": [
+        {
+          "name": "Giofly",
+          "url": "https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "Stelle Guerriere",
+      "url": "https://open.spotify.com/track/5ETi7OZW6kVsPD1zIkfqmt"
+    },
+    {
+      "added_at": "2026-01-20 08:56:41",
+      "album": {
+        "name": "Fire of a Romance",
+        "url": "https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1"
+      },
+      "artists": [
+        {
+          "name": "Luke Assem",
+          "url": "https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0"
+        }
+      ],
+      "duration_ms": 172562,
+      "name": "Fire of a Romance",
+      "url": "https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9"
+    },
+    {
+      "added_at": "2026-01-20 22:05:14",
+      "album": {
+        "name": "someone else",
+        "url": "https://open.spotify.com/album/4HCsnU2zStrk1mGu1xcCTi"
+      },
+      "artists": [
+        {
+          "name": "DeMonte Lavon",
+          "url": "https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K"
+        }
+      ],
+      "duration_ms": 172269,
+      "name": "someone else",
+      "url": "https://open.spotify.com/track/4RgkYjnR3tFSeHLPCMwvye"
+    },
+    {
+      "added_at": "2026-01-20 22:05:19",
+      "album": {
+        "name": "Yesterday is Here",
+        "url": "https://open.spotify.com/album/5lMe79wBPvY7rPZzlbvi1j"
+      },
+      "artists": [
+        {
+          "name": "VKB Band",
+          "url": "https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/2vYEf6osvIaDzuCYpmshkJ"
+    },
+    {
+      "added_at": "2026-01-20 22:06:15",
+      "album": {
+        "name": "10 Sigarette",
+        "url": "https://open.spotify.com/album/6k3uPQNLNclVrU5v3sXsQM"
+      },
+      "artists": [
+        {
+          "name": "Kaloxs",
+          "url": "https://open.spotify.com/artist/50A5Zuva0s41d68bc5hkSQ"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "10 Sigarette",
+      "url": "https://open.spotify.com/track/0f09Wn1gJUHs4JUwYAFGoy"
+    },
+    {
+      "added_at": "2026-01-20 22:06:33",
+      "album": {
+        "name": "Stance",
+        "url": "https://open.spotify.com/album/1ow1SryQwVmr5RFcjwmjIs"
+      },
+      "artists": [
+        {
+          "name": "Eclazz",
+          "url": "https://open.spotify.com/artist/1mfX5sgrGA9X3UjCM5aUAy"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Stance",
+      "url": "https://open.spotify.com/track/3xGu3cFDogiN8ZEDOIT95D"
     }
   ],
   "unique_name": "New Indie Music",

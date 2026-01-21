@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 50 min
+69 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Piano Trio in G Minor, Op\. 17: IV\. Allegretto](https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Dartington Piano Trio](https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS) | [Fanny Mendelssohn & Clara Schumann: Piano Trios](https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG) | 7:45 | 2025-08-12 |  |
 | [Piano Trio in G Minor, Op\. 17: IV\. Allegretto](https://open.spotify.com/track/7uDF7mOD0K9RLZxfkB1UXz) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Nash Ensemble](https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7) | [Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet](https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I) | 7:19 | 2025-08-12 |  |
 | [Piano Trio in G Minor, Op\. 17: Scherzo\. Tempo Di Menuetto](https://open.spotify.com/track/3KLxbotYC1cuNCozWbOqb9) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Carl Schwarz](https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2) | [Eternal Clara](https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN) | 5:23 | 2025-12-26 | 2025-12-27 |
+| [Piano Trio in G Minor, Op\. 17: Scherzo\. Tempo di Menuetto](https://open.spotify.com/track/4KbP3O4rK6gSUOS8q55r6c) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klemens Klein](https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6) | [Echoes of a Romantic Soul](https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj) | 5:23 | 2026-01-21 |  |
 | [Quatre Pièces Caractéristiques, Op\. 5 – II\. Caprice À la Bolero](https://open.spotify.com/track/6xOiB2kEkERHgOwVPaKVQf) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 422: Clara Schumann, Piano Dreams](https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW) | 4:06 | 2025-12-08 |  |
 | [Quatre Pièces fugitives \(Nr 1 Larghetto\)](https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 3:06 | 2025-08-12 |  |
 | [Romance sans numéro d'opus](https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5) | [Pierre\-Alain Volondat](https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn), [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Clara et Robert Schumann, Romances, Variations, Grande sonate](https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1) | 6:12 | 2025-08-13 | 2025-08-15 |

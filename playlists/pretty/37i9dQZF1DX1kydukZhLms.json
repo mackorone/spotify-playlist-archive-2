@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1530149,
+  "num_followers": 1530333,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "The Sound of Perseverance - Reissue",
-        "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
-      },
-      "artists": [
-        {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Voice of the Soul",
-      "url": "https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "The Sound of Perseverance - Reissue",
+        "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
+      },
+      "artists": [
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Voice of the Soul",
+      "url": "https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "REISE, REISE",
-        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 229493,
       "name": "The Price",
       "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "REISE, REISE",
+        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Deadly Sting: The Mercury Years",
+        "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Detonator",
         "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 237920,
       "name": "I Don't Care (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Mass Slaughter",
-        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
-      },
-      "artists": [
-        {
-          "name": "Slaughter",
-          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Fly To The Angels",
-      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
     }
   ],
   "unique_name": "Heavy Ballads",

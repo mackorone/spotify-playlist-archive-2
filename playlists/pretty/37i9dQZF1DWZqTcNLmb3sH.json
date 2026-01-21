@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Mark",
-  "num_followers": 66941,
+  "num_followers": 66947,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFz3EF+HiMad/CY4/oOktHw4U2zT",
+  "snapshot_id": "AAAAAMS95FHbIquR4HfbKl+LMe++tzkh",
   "tracks": [
     {
       "added_at": "2026-01-14 10:57:55",
@@ -115,6 +115,30 @@
       "duration_ms": 209142,
       "name": "Benki Song (From \"Graamaayana\")",
       "url": "https://open.spotify.com/track/0DiJstTJ5dqsOEqm8vmQin"
+    },
+    {
+      "added_at": "2026-01-20 06:29:47",
+      "album": {
+        "name": "Alpha Title Track (From \"Alpha # Men Love Vengeance\")",
+        "url": "https://open.spotify.com/album/0yamdW9Yum0mI4laKuvkoK"
+      },
+      "artists": [
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Alpha Title Track (From \"Alpha # Men Love Vengeance\")",
+      "url": "https://open.spotify.com/track/1ABpMsrzF0C9GbMCltitfJ"
     },
     {
       "added_at": "2026-01-16 10:25:54",
@@ -1444,7 +1468,7 @@
       },
       "artists": [
         {
-          "name": "Yazin Nizar",
+          "name": "YAZIN",
           "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
         },
         {

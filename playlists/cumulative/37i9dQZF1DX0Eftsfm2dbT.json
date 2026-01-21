@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: ziproom",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: \u00a5ellow Bucks",
   "name": "+81 Connect: J-HipHop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 240484,
       "name": "5FEET",
       "url": "https://open.spotify.com/track/0qtKyGcWh1DsLsB2GYOdor"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 150263,
       "name": "7AM/Lil Wayny, Wayny Vibes",
       "url": "https://open.spotify.com/track/3RtvfGLZ5s3tp9KjAA9PVz"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 163998,
       "name": "8UP",
       "url": "https://open.spotify.com/track/1zaoqL7kjrrKiMuMqhH65C"
@@ -6870,7 +6870,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 166400,
       "name": "BURIRO (feat. JNKMN)",
       "url": "https://open.spotify.com/track/3WmopL8F7UHPrXL4KKiSei"
@@ -8848,7 +8848,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 150913,
       "name": "Cumshot",
       "url": "https://open.spotify.com/track/08QALAzPUBVmn2ugt75jAf"
@@ -10282,7 +10282,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 281818,
       "name": "Do or Do",
       "url": "https://open.spotify.com/track/1oQQp1SGNY2tJI06jsUcPy"
@@ -15164,7 +15164,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 198095,
       "name": "Go Taxi (feat. Sad Kid Yaz)",
       "url": "https://open.spotify.com/track/4sNVvVBzcDViCGMgUO7wqA"
@@ -15552,6 +15552,24 @@
       "duration_ms": 144416,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/6oOKVKK5LAjKRJ3p9TLouk"
+    },
+    {
+      "album": {
+        "name": "DONGURI ZOO",
+        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "GORILLA",
+      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
     },
     {
       "album": {
@@ -17674,7 +17692,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 139847,
       "name": "I feel love",
       "url": "https://open.spotify.com/track/7m3F68v18EFjVUDEytZKXc"
@@ -17710,7 +17728,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 265980,
       "name": "I HOPE",
       "url": "https://open.spotify.com/track/1H1NRz0KB9U8Fno1n7tbcT"
@@ -19620,6 +19638,24 @@
       "duration_ms": 183123,
       "name": "K.O. (Tru Master)",
       "url": "https://open.spotify.com/track/3DEk8IlyJBEqb7fOrSBIRR"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165619,
+      "name": "Kabukimono",
+      "url": "https://open.spotify.com/track/4EkfUCeJdOuwh45nm6ZQsh"
     },
     {
       "album": {
@@ -22508,7 +22544,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 149374,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/3KjHuFcOKfHTr5dFwTSoBh"
@@ -23817,6 +23853,24 @@
     },
     {
       "album": {
+        "name": "Mid Night Emotions",
+        "url": "https://open.spotify.com/album/1DoQzfry91oDPIpilYo27V"
+      },
+      "artists": [
+        {
+          "name": "jellyy",
+          "url": "https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170754,
+      "name": "Mid Night Emotions",
+      "url": "https://open.spotify.com/track/2TzpqaSmOQNr3Tjcqnm9Xg"
+    },
+    {
+      "album": {
         "name": "Mid Spiral PRO",
         "url": "https://open.spotify.com/album/2SGgoTir9Qq6oaIJubtoEb"
       },
@@ -24032,7 +24086,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 165326,
       "name": "MISFIT",
       "url": "https://open.spotify.com/track/1o1KvqFJJXKxGckR1pNpFy"
@@ -25410,6 +25464,24 @@
       "duration_ms": 188387,
       "name": "N64",
       "url": "https://open.spotify.com/track/57ZEnKxB1ZOsahrd6nfqTQ"
+    },
+    {
+      "album": {
+        "name": "Nagoya Rich Boy",
+        "url": "https://open.spotify.com/album/5l2z1xn9H6tCKeEpgbxryp"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156832,
+      "name": "Nagoya Rich Boy",
+      "url": "https://open.spotify.com/track/6Az9c6jDsW0UiGLhaJsgSF"
     },
     {
       "album": {
@@ -28448,7 +28520,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 98942,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/14zKyGMzKg1raFk7PRc0oe"
@@ -31622,6 +31694,24 @@
       "duration_ms": 178620,
       "name": "REAWAKE",
       "url": "https://open.spotify.com/track/2glhajCtaPdtm5dwdJXCg7"
+    },
+    {
+      "album": {
+        "name": "REBIRTH OF NOISE",
+        "url": "https://open.spotify.com/album/3QizXjQOdwUOKfqz4A53f3"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198975,
+      "name": "REBIRTH OF NOISE",
+      "url": "https://open.spotify.com/track/4gy9Ls1QfSjlkM2g49c6rG"
     },
     {
       "album": {
@@ -39332,7 +39422,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 169600,
       "name": "Totteoki",
       "url": "https://open.spotify.com/track/1mBJ2swb66tqsF6ghIxx3z"

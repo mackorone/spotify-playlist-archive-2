@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry + Shl\u00f8mo",
-  "num_followers": 462544,
+  "num_followers": 462891,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
+        "name": "Sonne",
+        "url": "https://open.spotify.com/album/4ruRlxBLMfWTxpxj3qz5qo"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "duration_ms": 266625,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/2Gna1s0f2aYuCZDSw44QYD"
+    },
+    {
+      "added_at": "2026-01-16 00:01:32",
+      "album": {
         "name": "Sonne Geht Auf",
         "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 126538,
       "name": "Sonne Geht Auf",
       "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
-    },
-    {
-      "added_at": "2026-01-16 00:01:32",
-      "album": {
-        "name": "Sonne",
-        "url": "https://open.spotify.com/album/4ruRlxBLMfWTxpxj3qz5qo"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 266625,
-      "name": "Sonne",
-      "url": "https://open.spotify.com/track/2Gna1s0f2aYuCZDSw44QYD"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -555,18 +555,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "People Stomping",
-        "url": "https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy"
+        "name": "WTF?",
+        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
       },
       "artists": [
         {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
         }
       ],
-      "duration_ms": 200446,
-      "name": "People Stomping",
-      "url": "https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX"
+      "duration_ms": 222574,
+      "name": "WTF?",
+      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -587,22 +591,18 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "WTF?",
-        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
+        "name": "People Stomping",
+        "url": "https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 222574,
-      "name": "WTF?",
-      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
+      "duration_ms": 200446,
+      "name": "People Stomping",
+      "url": "https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -735,22 +735,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "You Make Me Horny",
-        "url": "https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv"
+        "name": "HIT IT BOY",
+        "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
         },
         {
-          "name": "Laren",
-          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
         }
       ],
-      "duration_ms": 294321,
-      "name": "You Make Me Horny",
-      "url": "https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx"
+      "duration_ms": 141390,
+      "name": "HIT IT BOY",
+      "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -775,22 +775,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "HIT IT BOY",
-        "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
+        "name": "You Make Me Horny",
+        "url": "https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv"
       },
       "artists": [
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         },
         {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+          "name": "Laren",
+          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
         }
       ],
-      "duration_ms": 141390,
-      "name": "HIT IT BOY",
-      "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
+      "duration_ms": 294321,
+      "name": "You Make Me Horny",
+      "url": "https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
+        "name": "Arena Conqueror",
+        "url": "https://open.spotify.com/album/3ndiZyDYSxxGW8IQFEcAzz"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Arena Conqueror",
+      "url": "https://open.spotify.com/track/2V8aIhRuic9LFYSD6ZcKnr"
+    },
+    {
+      "added_at": "2026-01-16 00:01:32",
+      "album": {
         "name": "Hype Boy",
         "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 196941,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
-    },
-    {
-      "added_at": "2026-01-16 00:01:32",
-      "album": {
-        "name": "Ruler Of Worlds",
-        "url": "https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ruler Of Worlds",
-      "url": "https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1419,6 +1419,22 @@
       "duration_ms": 218223,
       "name": "Bella Ciao - Hard Techno Remix",
       "url": "https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH"
+    },
+    {
+      "added_at": "2026-01-16 00:01:32",
+      "album": {
+        "name": "Ruler Of Worlds",
+        "url": "https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ruler Of Worlds",
+      "url": "https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1507,22 +1523,6 @@
       "duration_ms": 253161,
       "name": "So Alive (VIP)",
       "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"
-    },
-    {
-      "added_at": "2026-01-16 00:01:32",
-      "album": {
-        "name": "Arena Conqueror",
-        "url": "https://open.spotify.com/album/3ndiZyDYSxxGW8IQFEcAzz"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Arena Conqueror",
-      "url": "https://open.spotify.com/track/2V8aIhRuic9LFYSD6ZcKnr"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "Ashes (VIP)",
-        "url": "https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29"
+        "name": "Give Me Acid",
+        "url": "https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ"
       },
       "artists": [
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Ashes - VIP",
-      "url": "https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV"
+      "duration_ms": 210222,
+      "name": "Give Me Acid",
+      "url": "https://open.spotify.com/track/5ihSjM9QHRuhLf1SAMCydv"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "Give Me Acid",
-        "url": "https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ"
+        "name": "Ashes (VIP)",
+        "url": "https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        },
-        {
-          "name": "A*S*Y*S",
-          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         }
       ],
-      "duration_ms": 210222,
-      "name": "Give Me Acid",
-      "url": "https://open.spotify.com/track/5ihSjM9QHRuhLf1SAMCydv"
+      "duration_ms": 154838,
+      "name": "Ashes - VIP",
+      "url": "https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "Phatt Bass",
-        "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
+        "name": "Unleash The Radical",
+        "url": "https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT"
       },
       "artists": [
         {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
-        },
-        {
-          "name": "Drakk",
-          "url": "https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         }
       ],
-      "duration_ms": 255584,
-      "name": "Phatt Bass",
-      "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
+      "duration_ms": 192000,
+      "name": "Unleash The Radical",
+      "url": "https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1795,6 +1791,26 @@
       "duration_ms": 222650,
       "name": "Nightcore",
       "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
+    },
+    {
+      "added_at": "2026-01-16 00:01:32",
+      "album": {
+        "name": "Phatt Bass",
+        "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
+      },
+      "artists": [
+        {
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+        },
+        {
+          "name": "Drakk",
+          "url": "https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Phatt Bass",
+      "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
     },
     {
       "added_at": "2026-01-16 00:01:32",
@@ -1819,26 +1835,6 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/5qwxuDwCYHD0sH8wCfzAnS"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        },
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 184551,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X"
-    },
-    {
-      "added_at": "2026-01-16 00:01:32",
-      "album": {
         "name": "Mystical Energy EP",
         "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
       },
@@ -1855,26 +1851,22 @@
     {
       "added_at": "2026-01-16 00:01:32",
       "album": {
-        "name": "Slingshot - EP",
-        "url": "https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs"
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/5qwxuDwCYHD0sH8wCfzAnS"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         },
         {
-          "name": "&NUFF",
-          "url": "https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 145822,
-      "name": "Skank In The Rave",
-      "url": "https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS"
+      "duration_ms": 184551,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X"
     },
     {
       "added_at": "2026-01-16 00:01:32",

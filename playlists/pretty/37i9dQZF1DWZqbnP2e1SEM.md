@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,116 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,123 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 79 | [Wild](https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Wild](https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ) | 2:14 |
 | 80 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
 | 81 | [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 |
-| 82 | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Wright](https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS), [Trick Shady](https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC) | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r) | 3:07 |
-| 83 | [Running Around](https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc) | 2:04 |
+| 82 | [Running Around](https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc) | 2:04 |
+| 83 | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Wright](https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS), [Trick Shady](https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC) | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r) | 3:07 |
 | 84 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
 | 85 | [Pretty Green Eyes \- Radio Edit](https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 3:21 |
 | 86 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |

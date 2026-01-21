@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Pants on fire",
+        "url": "https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97500,
+      "name": "4wheelpharmacy",
+      "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
+    },
+    {
+      "album": {
         "name": "lucre",
         "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },

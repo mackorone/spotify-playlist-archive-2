@@ -1,13 +1,149 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22376,
+  "num_followers": 22370,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnPrq6xWQ9PVzyNoIpY4PXSBVpIhfA",
+  "snapshot_id": "AAAnRsozily5pNYQJiq+/PX/UPQkNlTR",
   "tracks": [
+    {
+      "added_at": "2026-01-21 00:22:02",
+      "album": {
+        "name": "Fake Jeezy",
+        "url": "https://open.spotify.com/album/5kTFAxmZ6wNljlyAkXvSYC"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 160391,
+      "name": "Fake Jeezy",
+      "url": "https://open.spotify.com/track/5LJ6CVeQyUve7oOrRpwO8x"
+    },
+    {
+      "added_at": "2026-01-21 00:22:18",
+      "album": {
+        "name": "YOU HEAR ME THO",
+        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "YOU HEAR ME THO",
+      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
+    },
+    {
+      "added_at": "2026-01-21 00:22:31",
+      "album": {
+        "name": "NOTHING IS REAL",
+        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
+    },
+    {
+      "added_at": "2026-01-21 00:22:54",
+      "album": {
+        "name": "American Made",
+        "url": "https://open.spotify.com/album/2PXeBIPphyBJcWtXsQ3QyJ"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 212732,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/0hLp6YwRC0pALE8IoruAxS"
+    },
+    {
+      "added_at": "2026-01-21 00:23:16",
+      "album": {
+        "name": "Baller Blockin (feat. ALLBLACK & Zaybang)",
+        "url": "https://open.spotify.com/album/76eHmXqD3cS3jbsPpATqcC"
+      },
+      "artists": [
+        {
+          "name": "One Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Baller Blockin (feat. ALLBLACK & Zaybang)",
+      "url": "https://open.spotify.com/track/0yZmUchFp5qtvPD89zzTB7"
+    },
+    {
+      "added_at": "2026-01-21 00:23:37",
+      "album": {
+        "name": "Players Only",
+        "url": "https://open.spotify.com/album/1S42U3dQpTJLWS9AhXK2j7"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Players Only",
+      "url": "https://open.spotify.com/track/5UAXUSfQzF277L04K2ixkh"
+    },
     {
       "added_at": "2025-12-08 23:43:25",
       "album": {

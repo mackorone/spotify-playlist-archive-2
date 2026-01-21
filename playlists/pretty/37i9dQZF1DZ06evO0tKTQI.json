@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13644,
+  "num_followers": 13651,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAAAJggLHSOBvMD4yZpnaCmi",
+  "snapshot_id": "aW10AAAAAACJtVBXKzexFKFvWzvgNfBe",
   "tracks": [
     {
       "added_at": null,
@@ -131,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "tu nombre",
-        "url": "https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw"
+        "name": "seguiremos siendo",
+        "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
       },
       "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 211819,
-      "name": "tu nombre",
-      "url": "https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS"
+      "duration_ms": 194874,
+      "name": "seguiremos siendo",
+      "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
     },
     {
       "added_at": null,
@@ -163,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "seguiremos siendo",
-        "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
+        "name": "tu nombre",
+        "url": "https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw"
       },
       "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 194874,
-      "name": "seguiremos siendo",
-      "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
+      "duration_ms": 211819,
+      "name": "tu nombre",
+      "url": "https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS"
     },
     {
       "added_at": null,

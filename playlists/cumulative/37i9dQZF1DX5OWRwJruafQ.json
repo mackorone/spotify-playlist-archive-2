@@ -11549,6 +11549,28 @@
     },
     {
       "album": {
+        "name": "Old Money",
+        "url": "https://open.spotify.com/album/425207ZDHo7DOp22qzIDmh"
+      },
+      "artists": [
+        {
+          "name": "Tarsem Jassar",
+          "url": "https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Old Money",
+      "url": "https://open.spotify.com/track/6R5LyPX1PTsaq8K9zCFd1l"
+    },
+    {
+      "album": {
         "name": "Old Sinner",
         "url": "https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT"
       },
@@ -12162,7 +12184,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 180576,
       "name": "Pitth Piche",
       "url": "https://open.spotify.com/track/1Kg01qAJIqHtEpCEmKGpSZ"

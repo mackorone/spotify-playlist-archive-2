@@ -4,7 +4,7 @@
 
 > jana horn on the cover
 
-692 songs - 1 day 17 hr 38 min
+693 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Already \(On My Mind\)](https://open.spotify.com/track/4cyBtKUXd8wWVqgus5k0Mb) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Already \(On My Mind\)](https://open.spotify.com/album/3ovRHqssF6llmo4CXg4ZRW) | 2:52 | 2024-07-12 | 2025-03-13 |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-10-06 | 2024-05-25 |
 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 | 2024-10-11 | 2025-05-10 |
+| [Anna with the Silver Arrow](https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Anna with the Silver Arrow](https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8) | 3:44 | 2026-01-20 |  |
 | [Another Love](https://open.spotify.com/track/7otCGmgp9h4CsR2LhwB6gt) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 4:04 | 2024-01-14 | 2024-04-06 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2023-10-13 | 2023-12-16 |
 | [anything \- live](https://open.spotify.com/track/5vpTSKgW09Sm3JmIi8Kbp3) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 4:30 | 2025-04-25 | 2025-08-09 |

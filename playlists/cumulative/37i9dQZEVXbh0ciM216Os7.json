@@ -7257,6 +7257,24 @@
     },
     {
       "album": {
+        "name": "THY WILL BE DONE",
+        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221047,
+      "name": "BLOODSWEAT",
+      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
+    },
+    {
+      "album": {
         "name": "Blue Jean Baby",
         "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
       },
@@ -9368,6 +9386,24 @@
       "duration_ms": 193635,
       "name": "California Games (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/1xEqdMfvDPGcwFklsaC35w"
+    },
+    {
+      "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/1onNrFOtcFj3bdHpBS6Zi7"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183517,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh"
     },
     {
       "album": {
@@ -33614,7 +33650,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 186000,
       "name": "Lanterns, Pt. 1",
       "url": "https://open.spotify.com/track/2w74QDB84g0VCBZWlre1yC"
@@ -33796,36 +33832,6 @@
       "duration_ms": 198549,
       "name": "Last Nite - Rough Trade Version - The Modern Age B-Side",
       "url": "https://open.spotify.com/track/0V40nmTfhHj1PznhO0dDho"
-    },
-    {
-      "album": {
-        "name": "BURN",
-        "url": "https://open.spotify.com/album/41L8dLF51Yi3ljcNWnNcul"
-      },
-      "artists": [
-        {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "The Jacka",
-          "url": "https://open.spotify.com/artist/1Z3HvW1V35gdsbhY20SMoU"
-        }
-      ],
-      "date_added": "2026-01-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160000,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/3hRSqGQppEaj6hSEdsfqmo"
     },
     {
       "album": {
@@ -51074,7 +51080,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 157759,
       "name": "R\u00c1PIDOS Y FURIOSOS 11",
       "url": "https://open.spotify.com/track/0OxD1r7oeCFCTqf50HHbk5"
@@ -53744,6 +53750,36 @@
       "duration_ms": 168554,
       "name": "Smash It Like Belushi",
       "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
+    },
+    {
+      "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/41L8dLF51Yi3ljcNWnNcul"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3hRSqGQppEaj6hSEdsfqmo"
     },
     {
       "album": {

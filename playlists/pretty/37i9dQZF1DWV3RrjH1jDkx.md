@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra RABO, Charli XCX og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,471 likes - 94 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,475 likes - 94 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stuck In November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
+| 1 | [Stuck in November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
 | 2 | [Lommeringe \(feat\. Emma Steinbakken\)](https://open.spotify.com/track/3Uu2LAOqiEG3ydnTYT4Y6l) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Lommeringe \(feat\. Emma Steinbakken\)](https://open.spotify.com/album/0BPKNoGYFszX7D6whMtZMO) | 2:53 |
 | 3 | [Plystre på dæ](https://open.spotify.com/track/2tm21APvsWvg2oR9lIsapD) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Plystre på dæ](https://open.spotify.com/album/2WxhlCr2Yh9LbDQzGGUaMe) | 3:21 |
 | 4 | [Girls](https://open.spotify.com/track/0yAKQvJ6z7qAEuUZCcGjyX) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Girls](https://open.spotify.com/album/3Avkrb1LbfKqn8dBYeeI57) | 2:29 |

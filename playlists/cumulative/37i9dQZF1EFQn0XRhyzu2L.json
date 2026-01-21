@@ -1135,6 +1135,32 @@
     },
     {
       "album": {
+        "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+        "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "YEJI & RYUJIN of ITZY",
+          "url": "https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162273,
+      "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+      "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
+    },
+    {
+      "album": {
         "name": "CLIQUE",
         "url": "https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg"
       },

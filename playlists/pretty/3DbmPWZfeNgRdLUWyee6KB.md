@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,182 likes - 168 songs - 9 hr 45 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,193 likes - 182 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,19 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 166 | [Atardece](https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Atardece / Beben Sangre](https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq) | 4:05 |
 | 167 | [Three woman in jail](https://open.spotify.com/track/47Hbxy6DYS21ZjwcujRtMh) | [Aton O'Cat](https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm), [Goran Vedriš](https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd) | [Three woman in jail](https://open.spotify.com/album/35tCEptF8FdvmYdza8vIWx) | 2:55 |
 | 168 | [Les livres de Marion](https://open.spotify.com/track/5Bjf4hqznBHRPJDAFMhddF) | [Jagas](https://open.spotify.com/artist/4nAbDrow4N3vQoqUrSrCIk) | [Les livres de Marion](https://open.spotify.com/album/4ifJdAEsCDjmBpw8h6SNo7) | 3:56 |
+| 169 | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE) | 3:52 |
+| 170 | [Görmeseydim](https://open.spotify.com/track/3e0L8kr4FZusJbyTnufoly) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Görmeseydim](https://open.spotify.com/album/55pul9AWZslDTdcAduIu1u) | 2:37 |
+| 171 | [Algo Tranqui](https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv) | [CHRISTIAN GRAND](https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd) | [Destellos en la Noche](https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU) | 2:50 |
+| 172 | [Leave Am for God](https://open.spotify.com/track/6Bgzjd17rmYVFEWFJjOBor) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Leave Am for God](https://open.spotify.com/album/0minRiEpEzErTfC28mfINM) | 3:06 |
+| 173 | [BAD FOR ME](https://open.spotify.com/track/14ZPZqNEJzwwjBIBGIwc5e) | [Looperian](https://open.spotify.com/artist/6Z5SR6G9SpWPpp42YqNkkl) | [BAD FOR ME](https://open.spotify.com/album/7sI2OYtjcq8r8XQyYM3Qr0) | 1:31 |
+| 174 | [Angie Stereo \- funk rock](https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 3:19 |
+| 175 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 |
+| 176 | [Weisst du noch ?](https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Weisst du noch ?](https://open.spotify.com/album/2GcaJ26qd0XxJOdVhd6yqu) | 2:56 |
+| 177 | [Stelle Guerriere](https://open.spotify.com/track/5ETi7OZW6kVsPD1zIkfqmt) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Stelle Guerriere](https://open.spotify.com/album/2TYqrFdTW0T3Uuqqf9NFya) | 4:21 |
+| 178 | [Fire of a Romance](https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9) | [Luke Assem](https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0) | [Fire of a Romance](https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1) | 2:52 |
+| 179 | [someone else](https://open.spotify.com/track/4RgkYjnR3tFSeHLPCMwvye) | [DeMonte Lavon](https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K) | [someone else](https://open.spotify.com/album/4HCsnU2zStrk1mGu1xcCTi) | 2:52 |
+| 180 | [Temptation](https://open.spotify.com/track/2vYEf6osvIaDzuCYpmshkJ) | [VKB Band](https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop) | [Yesterday is Here](https://open.spotify.com/album/5lMe79wBPvY7rPZzlbvi1j) | 2:40 |
+| 181 | [10 Sigarette](https://open.spotify.com/track/0f09Wn1gJUHs4JUwYAFGoy) | [Kaloxs](https://open.spotify.com/artist/50A5Zuva0s41d68bc5hkSQ) | [10 Sigarette](https://open.spotify.com/album/6k3uPQNLNclVrU5v3sXsQM) | 2:54 |
+| 182 | [Stance](https://open.spotify.com/track/3xGu3cFDogiN8ZEDOIT95D) | [Eclazz](https://open.spotify.com/artist/1mfX5sgrGA9X3UjCM5aUAy) | [Stance](https://open.spotify.com/album/1ow1SryQwVmr5RFcjwmjIs) | 2:44 |
 
-Snapshot ID: `AAAPXSnoZ4aLFY2Cddvzrz8mzBRziNKs`
+Snapshot ID: `AAAPaxuqOufplFSOJwTSgj/zI0/+I4wi`

@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Check out our Substack here!!!!!!!</a> Cover: Arlo Parks
 
-3,672 songs - 8 day 8 hr 57 min
+3,673 songs - 8 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [4am](https://open.spotify.com/track/3DLhIFONTMbC70Pim6wFX7) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [4am](https://open.spotify.com/album/6gg9pFAiI2Ddo0RmVvMwbT) | 3:13 | 2022-02-25 | 2022-04-09 |
 | [4ever](https://open.spotify.com/track/1UgaioSUNBZQ5xyCiAhfAU) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:41 | 2021-07-17 | 2022-01-08 |
 | [4Tounce](https://open.spotify.com/track/0uJ3orpKS4UjIf7WRZodJ5) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [4Tounce](https://open.spotify.com/album/6nyKY8shGVDEz5qXrZDHIY) | 2:47 | 2019-11-08 | 2020-05-07 |
+| [4wheelpharmacy](https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Pants on fire](https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc) | 1:37 | 2026-01-20 |  |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-02-12 |  |
 | [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 | 2022-08-18 | 2022-10-26 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-09 | 2023-02-15 |

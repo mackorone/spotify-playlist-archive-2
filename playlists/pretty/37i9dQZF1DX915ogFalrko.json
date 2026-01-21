@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 185751,
+  "num_followers": 185772,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "3 Days",
+      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "3 Days",
-      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "The Express",
-        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
-      },
-      "artists": [
-        {
-          "name": "Belleruche",
-          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Anything You Want - Not That",
-      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 221790,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "The Express",
+        "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
+      },
+      "artists": [
+        {
+          "name": "Belleruche",
+          "url": "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Anything You Want - Not That",
+      "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "Cryptid",
-      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+        "name": "Gringa",
+        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
         }
       ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
+      "duration_ms": 187762,
+      "name": "Belle \u00e2me",
+      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -815,38 +819,18 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Gringa",
-        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
       },
       "artists": [
         {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 187762,
-      "name": "Belle \u00e2me",
-      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Southern Belle",
-        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Southern Belle",
-      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -863,6 +847,22 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Southern Belle",
+        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Southern Belle",
+      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
+        "name": "Beat Tape III",
+        "url": "https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "duration_ms": 153243,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
         "name": "uplifters",
         "url": "https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 247588,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
-        "name": "Beat Tape III",
-        "url": "https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Mathilda Homer",
-          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
-        }
-      ],
-      "duration_ms": 153243,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Edge of the Earth",
-        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 220348,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "Jardin d'hiver",
         "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 207493,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Edge of the Earth",
+        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 220348,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "CHROME HEARTS",
         "url": "https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 144398,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1527,6 +1527,22 @@
       "duration_ms": 198155,
       "name": "Keyring",
       "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
+    },
+    {
+      "added_at": "2026-01-16 13:22:03",
+      "album": {
+        "name": "No Dawn To Wake",
+        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        }
+      ],
+      "duration_ms": 180011,
+      "name": "No Dawn To Wake",
+      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2026-01-16 13:22:03",
-      "album": {
         "name": "JET LAGGED",
         "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
       },
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "No Dawn To Wake",
-        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
       "artists": [
         {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
         }
       ],
-      "duration_ms": 180011,
-      "name": "No Dawn To Wake",
-      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2026-01-16 13:22:03",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2026-01-16 13:22:03",
       "album": {
-        "name": "young rich & beautiful",
-        "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
+        "name": "Livin Alright",
+        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 118441,
-      "name": "young rich & beautiful",
-      "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
+      "duration_ms": 176543,
+      "name": "Livin Alright",
+      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     }
   ],
   "unique_name": "D\u00eener entre amis",

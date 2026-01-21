@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 SI! BOOM! VOILÀ! in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,194 likes - 107 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,187 likes - 107 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SANTI NUMERI](https://open.spotify.com/track/6A9PEiqbaVTfHys6mHz8O1) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [SI! BOOM! VOILÀ!](https://open.spotify.com/album/6i3zqXEY6iw3lyvTOuTJaQ) | 3:19 |
-| 2 | [Not Your Girl](https://open.spotify.com/track/2eX4H6cAJr3VkCLaDuGS6j) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [Bigger Man](https://open.spotify.com/album/70ATe6QKHTFoj9hVcJRgEW) | 2:27 |
-| 3 | [IL TEMPO IN ME](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [IL TEMPO IN ME](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 |
-| 4 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 |
-| 5 | [Un canto nuovo](https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Un canto nuovo](https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV) | 3:47 |
-| 6 | [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 |
-| 7 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 |
-| 8 | [Posologia](https://open.spotify.com/track/7B0hS58plfR4gSwQLr4JJk) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Posologia](https://open.spotify.com/album/6fnV8eXA9MGEi46GJihlRv) | 3:33 |
-| 9 | [Scars](https://open.spotify.com/track/1XxbCCDX1NtoajhOONMtEj) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Scars](https://open.spotify.com/album/18EkNu9avHekSyygEtqfl9) | 5:00 |
-| 10 | [Another Love Song](https://open.spotify.com/track/4sFs1vhwd4KC0rMgDraMa3) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [Another Love Song](https://open.spotify.com/album/2XnTurSWrarPBJN8doPxNe) | 4:02 |
-| 11 | [Urlo](https://open.spotify.com/track/1jOiOzOLZYixUFCTuhRnWk) | [Osaka Flu](https://open.spotify.com/artist/3ttfg3zusdmYOFZYPGo8MD) | [Urlo](https://open.spotify.com/album/0ah1hRMWWvzWMRlkVEbo1A) | 2:50 |
-| 12 | [Smetto Col Pane](https://open.spotify.com/track/6SBSS2uw9SQRO260GkM2ty) | [Marta Guidoboni](https://open.spotify.com/artist/3CAvkzg7YIo57H9b4Zaz1J) | [Undici](https://open.spotify.com/album/0ejHIDyQgctHnVHRlKaPLa) | 3:23 |
-| 13 | [Showgirl](https://open.spotify.com/track/4lEUVtZDJIUcl8gnpVlLpQ) | [Réclame](https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf) | [RÉCLAME](https://open.spotify.com/album/7kSq1usOe5YLisYGPfVyNN) | 4:22 |
-| 14 | [Your Mom](https://open.spotify.com/track/0fs4BbyzfVI77EgBPafQs0) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [Your Mom](https://open.spotify.com/album/1EP5M7wlW4rV4nZtnJjQna) | 2:36 |
-| 15 | [VOILÀ!](https://open.spotify.com/track/553v6j5YxnuiGPtoUHuI2D) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [VOILÀ!](https://open.spotify.com/album/69rTszItyhHXdGtjQzTfNm) | 2:36 |
-| 16 | [Dream Life](https://open.spotify.com/track/1NhIwUE8G191kk431ALDmB) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Dream Life / Shoe Shaped Cloud](https://open.spotify.com/album/4onLOTag1tj6Iu8jXzUFDx) | 4:00 |
-| 17 | [X\-Ray](https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [X\-Ray / Clumsy](https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq) | 2:34 |
-| 18 | [FORTE](https://open.spotify.com/track/4oJyldfMmBIDZhVH5AyiIq) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [FORTE](https://open.spotify.com/album/5rKFhPSi0xEmZR24eZVfxw) | 3:13 |
-| 19 | [PRODUCI CONSUMA CREA](https://open.spotify.com/track/4i2OMoKKsRhaHSMi4hXYUh) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [PRODUCI CONSUMA CREA](https://open.spotify.com/album/6vnh7BxlBnNAVBLR8DZ9n8) | 3:04 |
+| 2 | [Un canto nuovo](https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Un canto nuovo](https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV) | 3:47 |
+| 3 | [Posologia](https://open.spotify.com/track/7B0hS58plfR4gSwQLr4JJk) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Posologia](https://open.spotify.com/album/6fnV8eXA9MGEi46GJihlRv) | 3:33 |
+| 4 | [Not Your Girl](https://open.spotify.com/track/2eX4H6cAJr3VkCLaDuGS6j) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [Bigger Man](https://open.spotify.com/album/70ATe6QKHTFoj9hVcJRgEW) | 2:27 |
+| 5 | [IL TEMPO IN ME](https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [IL TEMPO IN ME](https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k) | 4:08 |
+| 6 | [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 |
+| 7 | [FORTE](https://open.spotify.com/track/4oJyldfMmBIDZhVH5AyiIq) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [FORTE](https://open.spotify.com/album/5rKFhPSi0xEmZR24eZVfxw) | 3:13 |
+| 8 | [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 |
+| 9 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 |
+| 10 | [Scars](https://open.spotify.com/track/1XxbCCDX1NtoajhOONMtEj) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Scars](https://open.spotify.com/album/18EkNu9avHekSyygEtqfl9) | 5:00 |
+| 11 | [VOILÀ!](https://open.spotify.com/track/553v6j5YxnuiGPtoUHuI2D) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [VOILÀ!](https://open.spotify.com/album/69rTszItyhHXdGtjQzTfNm) | 2:36 |
+| 12 | [Another Love Song](https://open.spotify.com/track/4sFs1vhwd4KC0rMgDraMa3) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [Another Love Song](https://open.spotify.com/album/2XnTurSWrarPBJN8doPxNe) | 4:02 |
+| 13 | [X\-Ray](https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [X\-Ray / Clumsy](https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq) | 2:34 |
+| 14 | [PRODUCI CONSUMA CREA](https://open.spotify.com/track/4i2OMoKKsRhaHSMi4hXYUh) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [PRODUCI CONSUMA CREA](https://open.spotify.com/album/6vnh7BxlBnNAVBLR8DZ9n8) | 3:04 |
+| 15 | [Dream Life](https://open.spotify.com/track/1NhIwUE8G191kk431ALDmB) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Dream Life / Shoe Shaped Cloud](https://open.spotify.com/album/4onLOTag1tj6Iu8jXzUFDx) | 4:00 |
+| 16 | [Urlo](https://open.spotify.com/track/1jOiOzOLZYixUFCTuhRnWk) | [Osaka Flu](https://open.spotify.com/artist/3ttfg3zusdmYOFZYPGo8MD) | [Urlo](https://open.spotify.com/album/0ah1hRMWWvzWMRlkVEbo1A) | 2:50 |
+| 17 | [Smetto Col Pane](https://open.spotify.com/track/6SBSS2uw9SQRO260GkM2ty) | [Marta Guidoboni](https://open.spotify.com/artist/3CAvkzg7YIo57H9b4Zaz1J) | [Undici](https://open.spotify.com/album/0ejHIDyQgctHnVHRlKaPLa) | 3:23 |
+| 18 | [Showgirl](https://open.spotify.com/track/4lEUVtZDJIUcl8gnpVlLpQ) | [Réclame](https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf) | [RÉCLAME](https://open.spotify.com/album/7kSq1usOe5YLisYGPfVyNN) | 4:22 |
+| 19 | [Your Mom](https://open.spotify.com/track/0fs4BbyzfVI77EgBPafQs0) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [Your Mom](https://open.spotify.com/album/1EP5M7wlW4rV4nZtnJjQna) | 2:36 |
 | 20 | [Mi fa schifo tutto oggi](https://open.spotify.com/track/0cYrl3QCvwZy9dE4p3g9Za) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Mi fa schifo tutto oggi](https://open.spotify.com/album/0C2g9qK6VMzjugfwEugOul) | 3:29 |
 | 21 | [Ho avuto una disavventura](https://open.spotify.com/track/4uTGKhXTGA0ptcvBB75gKZ) | [Fitza](https://open.spotify.com/artist/55USAUiYquxBZIn1UJN0BM) | [Ho avuto una disavventura](https://open.spotify.com/album/13mvzpElES4iID8I8VSRV2) | 5:22 |
 | 22 | [Vagamente stupidi](https://open.spotify.com/track/05gU6OPCZNtI6De2oH3fXS) | [La Rivoluzione Industriale e le sue Conseguenze](https://open.spotify.com/artist/1oEMqcj6YTvRlRzV6Szyyl) | [Vagamente stupidi](https://open.spotify.com/album/6EZUxW3p4Y93V5gcbEGM3j) | 3:55 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 106 | [Workaholica](https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Workaholica](https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm) | 3:16 |
 | 107 | [Intanto](https://open.spotify.com/track/15TePy6cQan8RcDpg3abxX) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Temporale](https://open.spotify.com/album/3YvK53OYLxnvacEkwJ4yP4) | 2:53 |
 
-Snapshot ID: `AAAAABa/R6FjBksoZo6S0pSc7r8BSrFH`
+Snapshot ID: `AAAAAOI1apz7cS6wREWe+HCYN+sBg/DJ`

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Poison The Well
 
-1,456 songs - 3 day 16 hr 44 min
+1,457 songs - 3 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [I KNOW I'LL SURVIVE](https://open.spotify.com/track/5McUe0CiX98x0ThrGFLgxE) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [I KNOW I'LL SURVIVE](https://open.spotify.com/album/7Fj7simawPCITb8rmhygoD) | 3:17 | 2026-01-16 |  |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-17 | 2022-03-26 |
 | [I See Dead People](https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Louie Knuxx](https://open.spotify.com/artist/2SQXiX0AGHf3Aw43or85KX) | [I See Dead People](https://open.spotify.com/album/3R8VofbgLwq9q48eueOCqC) | 3:36 | 2023-02-17 | 2023-04-01 |
+| [I Should Have Known Better](https://open.spotify.com/track/3PtcX2VDmsKXmNnWLPmJXW) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP) | [I Should Have Known Better](https://open.spotify.com/album/7wrmHSv1uG9hLzKIPTuW0W) | 3:18 | 2026-01-16 |  |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2024-02-09 | 2024-11-23 |
 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 | 2022-05-06 | 2022-11-26 |
 | [I WON'T BACK DOWN](https://open.spotify.com/track/7nBKzSA8l5msyNV4wkDvQp) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [I WON'T BACK DOWN](https://open.spotify.com/album/10C6jOFAImGjenVam7idgu) | 3:21 | 2025-05-09 | 2025-08-24 |
@@ -1120,7 +1121,7 @@
 | [Snakebit](https://open.spotify.com/track/0sK8TrIJA5DA9hGATIZ5hi) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Snakebit](https://open.spotify.com/album/7sddZ4tNNHTdwWxwxMGFhy) | 3:12 | 2021-12-17 | 2022-03-04 |
 | [Snakes](https://open.spotify.com/track/0dJJZdhE4kl1ZkUZdFmuV5) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Snakes](https://open.spotify.com/album/7gCMXUi64D9UEjEVtGJos6) | 2:45 | 2025-08-01 | 2025-12-13 |
 | [snuff.tape](https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [snuff.tape](https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y) | 3:39 | 2024-08-12 | 2024-11-08 |
-| [So Help Me God](https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Where Only The Truth Is Spoken](https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq) | 4:18 | 2025-06-20 |  |
+| [So Help Me God](https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Where Only The Truth Is Spoken](https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq) | 4:18 | 2025-06-20 | 2026-01-21 |
 | [So Low](https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [So Low](https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf) | 2:59 | 2025-09-12 |  |
 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 | 2022-07-13 | 2022-07-15 |
 | [Societal Bile](https://open.spotify.com/track/0caF9S71yIZl43EbGCn85u) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Societal Bile](https://open.spotify.com/album/6Huux7HHfhFuKtTAd1zL5v) | 3:00 | 2024-01-12 | 2024-03-28 |

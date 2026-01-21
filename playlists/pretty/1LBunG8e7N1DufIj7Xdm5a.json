@@ -6,8 +6,88 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAG1qC9OebaLr1pqGtYp2/ESkZ1oXCa",
+  "snapshot_id": "AAAG3Xv6NRC9IeKQFp4yBwsDFMymVKaQ",
   "tracks": [
+    {
+      "added_at": "2026-01-21 01:10:42",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4U8GAhOShNYQE6YuhdmK2D"
+      },
+      "artists": [
+        {
+          "name": "J.C. Maru",
+          "url": "https://open.spotify.com/artist/0P9mdqeeWfIG1jyBSsLUC7"
+        }
+      ],
+      "duration_ms": 201683,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/4ElvUEDrfa5O2fMIOafDdI"
+    },
+    {
+      "added_at": "2026-01-21 01:10:10",
+      "album": {
+        "name": "BOOT SEQUENCE",
+        "url": "https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg"
+      },
+      "artists": [
+        {
+          "name": "Analog Future",
+          "url": "https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ"
+        }
+      ],
+      "duration_ms": 180023,
+      "name": "Signal Lost",
+      "url": "https://open.spotify.com/track/4VptXFAq9u0CYJ5enpKBGW"
+    },
+    {
+      "added_at": "2026-01-21 01:10:07",
+      "album": {
+        "name": "BOOT SEQUENCE",
+        "url": "https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg"
+      },
+      "artists": [
+        {
+          "name": "Analog Future",
+          "url": "https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "Still Human",
+      "url": "https://open.spotify.com/track/0oiFmhtY6O8VlQ5PCtmjY2"
+    },
+    {
+      "added_at": "2026-01-21 00:54:18",
+      "album": {
+        "name": "Early Late Night",
+        "url": "https://open.spotify.com/album/0wAU31m7rHGrYv7AUECEvr"
+      },
+      "artists": [
+        {
+          "name": "Nosie Katzmann",
+          "url": "https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn"
+        }
+      ],
+      "duration_ms": 115142,
+      "name": "Early Late Night",
+      "url": "https://open.spotify.com/track/1Qxa2kN473Lo0xw7uWcMLR"
+    },
+    {
+      "added_at": "2026-01-20 04:58:32",
+      "album": {
+        "name": "CROCEVIA",
+        "url": "https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv"
+      },
+      "artists": [
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV"
+        }
+      ],
+      "duration_ms": 144482,
+      "name": "CROCEVIA",
+      "url": "https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae"
+    },
     {
       "added_at": "2026-01-15 10:17:09",
       "album": {
@@ -63831,6 +63911,38 @@
       "duration_ms": 98133,
       "name": "That's the Way",
       "url": "https://open.spotify.com/track/2pNaBTVWNk3T02RrZ7HQr3"
+    },
+    {
+      "added_at": "2026-01-20 10:16:44",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4W94ReICml5STRqCHV3x3Z"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane Hangover",
+          "url": "https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3"
+        }
+      ],
+      "duration_ms": 217654,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0JaiiwvEuMTV5RBW0qsL3U"
+    },
+    {
+      "added_at": "2026-01-20 11:17:09",
+      "album": {
+        "name": "Nuove Rotte",
+        "url": "https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Colucci",
+          "url": "https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Nuove Rotte",
+      "url": "https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk"
     }
   ],
   "unique_name": "playlist spotify free",

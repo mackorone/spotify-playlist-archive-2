@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,154 songs - 3 day 12 hr 29 min
+1,155 songs - 3 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [Radio](https://open.spotify.com/track/29cm9i5SgSLeygfzBMQPMd) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Radio](https://open.spotify.com/album/4RWES8IWQTv4j3NoWDapfr) | 2:33 | 2021-08-13 | 2022-07-29 |
 | [rainbow song](https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV) | [Cesourius](https://open.spotify.com/artist/27qW5yvSvPiHckSv1EaQ7v) | [psychedelic fishing](https://open.spotify.com/album/0O4sV16tjjwavRIZ5QAHqM) | 2:12 | 2023-09-29 | 2025-11-15 |
 | [Raindrops](https://open.spotify.com/track/32KZ22X1LV3TAsroIGLbYh) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:32 | 2019-06-19\* | 2020-10-21 |
+| [ran/fly](https://open.spotify.com/track/3wp2r2TEMCtgfX4OcEfyHu) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [ran/fly](https://open.spotify.com/album/3id7dhJZcNVWUzdfXQtxkQ) | 4:27 | 2026-01-16 |  |
 | [Rare](https://open.spotify.com/track/3vO4yolddOhdDHWL5GB0Fn) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Rare](https://open.spotify.com/album/3H5ua9cshyjUJof3yYFmo8) | 5:30 | 2019-06-19\* | 2022-04-21 |
 | [Ray](https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 5:34 | 2024-06-14 | 2024-08-06 |
 | [Reaching Out](https://open.spotify.com/track/3anyoDE1gcNsRtLmkE55bU) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Unlimited](https://open.spotify.com/album/2n9RwIM1CdRV4GZzC7sfWa) | 4:54 | 2019-05-26\* | 2020-08-26 |
@@ -1100,7 +1101,7 @@
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2023-09-29 | 2025-10-10 |
 | [Voyage de la planète](https://open.spotify.com/track/3gCofca5qSvByjfLbdxmds) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Voyage de la planète](https://open.spotify.com/album/0pcfZtOOtLD1tsEqUzkFtF) | 7:38 | 2019-06-21 | 2020-10-22 |
 | [Waiting on You](https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys), [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Waiting on You](https://open.spotify.com/album/2iOQO77EAtci3tu0KZLH4h) | 4:07 | 2021-02-28 | 2025-08-30 |
-| [Wake Up](https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Wake Up](https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4) | 2:22 | 2025-02-14 |  |
+| [Wake Up](https://open.spotify.com/track/2XpkSTJIfEnLXMig40Rvyi) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Wake Up](https://open.spotify.com/album/5n4XgI1I1bclmEDBFafsi4) | 2:22 | 2025-02-14 | 2026-01-21 |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/2ksI5VBtOvZegQBQRQgzLW) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/69dEWHRcIkqm2ycjET4WSB) | 3:36 | 2021-07-23 | 2022-10-05 |
 | [Wake Up \- Nuage Remix](https://open.spotify.com/track/6lEM7FPuQapGIDEwy0tNvj) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Wake Up \(Nuage Remix\)](https://open.spotify.com/album/2wrwP8NMrP8YGCj8g2ssxu) | 3:36 | 2022-09-09 | 2024-04-19 |
 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 | 2023-05-12 | 2024-02-02 |

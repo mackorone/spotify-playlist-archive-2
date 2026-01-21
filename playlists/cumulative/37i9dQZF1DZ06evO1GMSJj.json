@@ -924,6 +924,28 @@
     {
       "album": {
         "name": "Corymb",
+        "url": "https://open.spotify.com/album/4xqSQIJoitX1MxaBl1nwYG"
+      },
+      "artists": [
+        {
+          "name": "Boom Bip",
+          "url": "https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270746,
+      "name": "Last Walk Around Mirror Lake - Boards of Canada Remix",
+      "url": "https://open.spotify.com/track/2iDoKVqyiCdu327FaqJCNH"
+    },
+    {
+      "album": {
+        "name": "Corymb",
         "url": "https://open.spotify.com/album/2W1DcMSpmpTt8KF3zjKyqd"
       },
       "artists": [

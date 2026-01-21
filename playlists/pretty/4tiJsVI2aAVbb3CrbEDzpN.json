@@ -1,13 +1,29 @@
 {
   "description": "De Jaren 80 playlist met de grootste hits uit de jaren 80 en 80s. Met o.a. Kate Bush, Prince, David Bowie, a-ha, Phil Collins, Talking Heads en nog veel meer! Foto: Prince | Jaren 80 hits - Jaren 80",
-  "num_followers": 27069,
+  "num_followers": 27071,
   "original_name": "Jaren 80 - Jaren 80 Hits",
   "owner": {
     "name": "Topsify Benelux",
     "url": "https://open.spotify.com/user/playlistme.nl"
   },
-  "snapshot_id": "AAAJLV0FBxI1aRgP0Gfho6fif5+/KiGS",
+  "snapshot_id": "AAAJL2ifK6k6SWObWTbGgQX2YLylZEYM",
   "tracks": [
+    {
+      "added_at": "2026-01-20 14:16:23",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 521866,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
+    },
     {
       "added_at": "2026-01-17 02:18:19",
       "album": {

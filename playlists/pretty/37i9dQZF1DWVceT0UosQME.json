@@ -1,6 +1,6 @@
 {
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
-  "num_followers": 112530,
+  "num_followers": 112541,
   "original_name": "exams 2026",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "if you do",
-        "url": "https://open.spotify.com/album/7anJkBjZABHWT2cSru4sBw"
-      },
-      "artists": [
-        {
-          "name": "loutwo",
-          "url": "https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "if you do",
-      "url": "https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 123385,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "if you do",
+        "url": "https://open.spotify.com/album/7anJkBjZABHWT2cSru4sBw"
+      },
+      "artists": [
+        {
+          "name": "loutwo",
+          "url": "https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "if you do",
+      "url": "https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "my own practice",
-        "url": "https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe"
-      },
-      "artists": [
-        {
-          "name": "hoodeeny",
-          "url": "https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg"
-        }
-      ],
-      "duration_ms": 132761,
-      "name": "my own practice",
-      "url": "https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "Honey and Spice",
         "url": "https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 128000,
       "name": "Honey and Spice",
       "url": "https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "my own practice",
+        "url": "https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe"
+      },
+      "artists": [
+        {
+          "name": "hoodeeny",
+          "url": "https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg"
+        }
+      ],
+      "duration_ms": 132761,
+      "name": "my own practice",
+      "url": "https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "Behind the stars",
-        "url": "https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9"
-      },
-      "artists": [
-        {
-          "name": "Slumbering Elk",
-          "url": "https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "Behind the stars",
-      "url": "https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "Piano Roll",
         "url": "https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 125333,
       "name": "Piano Roll",
       "url": "https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "Behind the stars",
+        "url": "https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9"
+      },
+      "artists": [
+        {
+          "name": "Slumbering Elk",
+          "url": "https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "Behind the stars",
+      "url": "https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "Forgotten Dreams",
-        "url": "https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy"
-      },
-      "artists": [
-        {
-          "name": "Holy Jamie",
-          "url": "https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u"
-        }
-      ],
-      "duration_ms": 120429,
-      "name": "Forgotten Dreams",
-      "url": "https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "no way but up",
         "url": "https://open.spotify.com/album/197jKvvY3xuS1ggGpcEdGW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 106494,
       "name": "no way but up",
       "url": "https://open.spotify.com/track/4M7gbh6sluTRP6BXnYpzyz"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "Forgotten Dreams",
+        "url": "https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy"
+      },
+      "artists": [
+        {
+          "name": "Holy Jamie",
+          "url": "https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u"
+        }
+      ],
+      "duration_ms": 120429,
+      "name": "Forgotten Dreams",
+      "url": "https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "head in the clouds",
-        "url": "https://open.spotify.com/album/341MeGEteHymZVwmd0xspK"
-      },
-      "artists": [
-        {
-          "name": "drewbee",
-          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
-        }
-      ],
-      "duration_ms": 134825,
-      "name": "head in the clouds",
-      "url": "https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "looking back",
         "url": "https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 130145,
       "name": "looking back",
       "url": "https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "head in the clouds",
+        "url": "https://open.spotify.com/album/341MeGEteHymZVwmd0xspK"
+      },
+      "artists": [
+        {
+          "name": "drewbee",
+          "url": "https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR"
+        }
+      ],
+      "duration_ms": 134825,
+      "name": "head in the clouds",
+      "url": "https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "Inner Peace",
-        "url": "https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf"
-      },
-      "artists": [
-        {
-          "name": "Moon Cheese",
-          "url": "https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S"
-        }
-      ],
-      "duration_ms": 232385,
-      "name": "Inner Peace",
-      "url": "https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "Sunny Walk",
         "url": "https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 106830,
       "name": "Sunny Walk",
       "url": "https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf"
+      },
+      "artists": [
+        {
+          "name": "Moon Cheese",
+          "url": "https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S"
+        }
+      ],
+      "duration_ms": 232385,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "Wonders",
-        "url": "https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt"
-      },
-      "artists": [
-        {
-          "name": "Hallie",
-          "url": "https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Wonders",
-      "url": "https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "Time Traveler",
         "url": "https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "Lofi Music",
-        "url": "https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn"
+        "name": "Wonders",
+        "url": "https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt"
       },
       "artists": [
         {
-          "name": "Arakanz",
-          "url": "https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ"
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb"
         }
       ],
-      "duration_ms": 100657,
-      "name": "Minda",
-      "url": "https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer"
+      "duration_ms": 161927,
+      "name": "Wonders",
+      "url": "https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI"
     },
     {
       "added_at": "2026-01-01 04:00:25",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
+        "name": "Lofi Music",
+        "url": "https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn"
+      },
+      "artists": [
+        {
+          "name": "Arakanz",
+          "url": "https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ"
+        }
+      ],
+      "duration_ms": 100657,
+      "name": "Minda",
+      "url": "https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
         "name": "Mir\u00f3",
         "url": "https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-01-01 04:00:25",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD"
-      },
-      "artists": [
-        {
-          "name": "SPEERMINT",
-          "url": "https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL"
-        }
-      ],
-      "duration_ms": 136731,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC"
-    },
-    {
-      "added_at": "2026-01-01 04:00:25",
-      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 160112,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX"
+    },
+    {
+      "added_at": "2026-01-01 04:00:25",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD"
+      },
+      "artists": [
+        {
+          "name": "SPEERMINT",
+          "url": "https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL"
+        }
+      ],
+      "duration_ms": 136731,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC"
     },
     {
       "added_at": "2026-01-01 04:00:25",

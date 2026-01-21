@@ -2,13 +2,13 @@
 
 ### [Higher Love](https://open.spotify.com/playlist/37i9dQZF1DWYhr4P5Boce5)
 
-> Songs of faith, hope, and the greatest of these, love.
+> Songs of faith, hope, and the greatest of these, LOVE.
 
-291 songs - 16 hr 25 min
+292 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 | 2024-02-03 |  |
+| [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 | 2024-02-03 | 2026-01-21 |
 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 | 2024-07-17 |  |
 | [a thousand shores \- acoustic](https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [a thousand shores \(acoustic\)](https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg) | 4:19 | 2024-02-03 | 2024-07-18 |
 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 | 2023-01-31 |  |
@@ -71,6 +71,7 @@
 | [Do Something](https://open.spotify.com/track/0pHdJcXOqFXIJEU2LMM0BD) | [Swat](https://open.spotify.com/artist/0CQpEzzQecM9nFBkLkMpme), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Do Something](https://open.spotify.com/album/2DnLwuLzehmXLOmNnfuBPy) | 1:49 | 2024-02-05 | 2024-07-18 |
 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 | 2020-04-17 | 2025-09-15 |
 | [Don't Let Go](https://open.spotify.com/track/3UVuCyBiSajWBUGlME1sZL) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Don't Let Go](https://open.spotify.com/album/05o8hJsPOdgU3qYWV5KmkN) | 2:28 | 2024-02-03 | 2024-04-19 |
+| [Down To Earth](https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Down To Earth](https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb) | 3:41 | 2026-01-20 |  |
 | [Easy](https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:31 | 2020-04-17 | 2024-02-04 |
 | [Easy](https://open.spotify.com/track/4i73TuJFEmHsvzwWwmRaWQ) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy](https://open.spotify.com/album/5jsHZ1XiLlI9MxF5Vlmse1) | 3:31 | 2020-04-17 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 | 2024-07-17 |  |

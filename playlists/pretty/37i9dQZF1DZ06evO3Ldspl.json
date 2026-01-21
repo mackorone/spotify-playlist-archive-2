@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAACu4Oly2H+IjJ6Yf4X6WUYP",
+  "snapshot_id": "aW10AAAAAACc0UBe6hneJl8rYN6IMxND",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 30 Mejores",
-        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
       },
       "artists": [
-        {
-          "name": "Rafael Orozco",
-          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
-        },
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 256293,
-      "name": "El Higuer\u00f3n",
-      "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
+      "duration_ms": 287268,
+      "name": "No Se Pedir Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2SBtTElyn8VqS31GhD4dnF"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+        "name": "Los 30 Mejores",
+        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
       "artists": [
+        {
+          "name": "Rafael Orozco",
+          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
+        },
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 287268,
-      "name": "No Se Pedir Perd\u00f3n",
-      "url": "https://open.spotify.com/track/2SBtTElyn8VqS31GhD4dnF"
+      "duration_ms": 256293,
+      "name": "El Higuer\u00f3n",
+      "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
       "duration_ms": 277266,
       "name": "Qu\u00e9 Sera de M\u00ed",
       "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 302426,
+      "name": "El Parrand\u00f3n",
+      "url": "https://open.spotify.com/track/4nuwqjZtTdml3gAVEIFPUp"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
       "duration_ms": 257306,
       "name": "Relicario de Besos",
       "url": "https://open.spotify.com/track/16KEt1cp8tN0Et7BqPd4Vb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 302426,
-      "name": "El Parrand\u00f3n",
-      "url": "https://open.spotify.com/track/4nuwqjZtTdml3gAVEIFPUp"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 316760,
-      "name": "El Llanto de un Rey",
-      "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Binomio De Oro 1986",
         "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 244040,
       "name": "No Pasar\u00e1 Lo Mismo",
       "url": "https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 316760,
+      "name": "El Llanto de un Rey",
+      "url": "https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg"
     },
     {
       "added_at": null,

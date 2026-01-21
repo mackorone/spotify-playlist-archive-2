@@ -77,6 +77,32 @@
     },
     {
       "album": {
+        "name": "23 Theme (From \"AA23\")",
+        "url": "https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Hector Salamanca",
+          "url": "https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47741,
+      "name": "23 Theme (From \"AA23\")",
+      "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
+    },
+    {
+      "album": {
         "name": "Aa Rojulu Malli Raavu (From \"Committee Kurrollu\")",
         "url": "https://open.spotify.com/album/5GYpy0N0p9KjSy4VRenZeO"
       },
@@ -776,6 +802,28 @@
       "duration_ms": 163354,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
       "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
+    },
+    {
+      "album": {
+        "name": "BHAJANA",
+        "url": "https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE"
+      },
+      "artists": [
+        {
+          "name": "Dasagriva",
+          "url": "https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn"
+        },
+        {
+          "name": "CLOWNY BEATZZ",
+          "url": "https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155664,
+      "name": "BHAJANA",
+      "url": "https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat"
     },
     {
       "album": {
@@ -2498,7 +2546,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 119052,
       "name": "Hungry Cheetah (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
@@ -3676,7 +3724,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 332013,
       "name": "Monna Kanipinchavu",
       "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"

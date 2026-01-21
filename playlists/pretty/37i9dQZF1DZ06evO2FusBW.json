@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11103,
+  "num_followers": 11104,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAAETFROPD7NSfJYcng0LFma",
+  "snapshot_id": "aW10AAAAAAAAHjmLbbAIrUbwdTxo+hfN",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 333",
-        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 298468,
-      "name": "Twilight Meditation",
-      "url": "https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL"
+      "duration_ms": 205760,
+      "name": "Essence of Light",
+      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Meditation 333",
+        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Essence of Light",
-      "url": "https://open.spotify.com/track/2dpATRXkRpyuIrnZalU1x7"
+      "duration_ms": 298468,
+      "name": "Twilight Meditation",
+      "url": "https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 333",
-        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "Meditation 3",
-      "url": "https://open.spotify.com/track/2eVjNpkhzfAw7Ck8xAonbs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 221293,
       "name": "Costa da Caparica",
       "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 333",
+        "url": "https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "Meditation 3",
+      "url": "https://open.spotify.com/track/2eVjNpkhzfAw7Ck8xAonbs"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Impressions",
-        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 208871,
-      "name": "Falling into a Dream",
-      "url": "https://open.spotify.com/track/6RGnazKbWUw3YQUR9Cd5Y3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 1354080,
-      "name": "Meditation 22",
-      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+      "duration_ms": 208871,
+      "name": "Falling into a Dream",
+      "url": "https://open.spotify.com/track/6RGnazKbWUw3YQUR9Cd5Y3"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 278750,
       "name": "NATURE VIBRATION",
       "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 1354080,
+      "name": "Meditation 22",
+      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 142083,
       "name": "Meditation 111",
       "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Age of Aquarius",
+      "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
     },
     {
       "added_at": null,

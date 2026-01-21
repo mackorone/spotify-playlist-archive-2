@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33659,
+  "num_followers": 33661,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        },
-        {
-          "name": "Jan Smigmator",
-          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 187509,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
+      "duration_ms": 197196,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -187,18 +183,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
       },
       "artists": [
         {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        },
+        {
+          "name": "Jan Smigmator",
+          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
         }
       ],
-      "duration_ms": 197196,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
+      "duration_ms": 187509,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 140213,
-      "name": "I'm Beginning to See the Light",
-      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 140213,
+      "name": "I'm Beginning to See the Light",
+      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 327520,
       "name": "Acu\u00e1tico",
       "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -463,18 +479,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
       },
       "artists": [
         {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
         }
       ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+      "duration_ms": 251376,
+      "name": "Arenales Blues",
+      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -495,22 +511,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 251376,
-      "name": "Arenales Blues",
-      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Sesiones 2017-2020",
         "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 374748,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -543,22 +559,6 @@
       "duration_ms": 345370,
       "name": "El Regreso (feat. Martin Bejerano)",
       "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 363993,
-      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 363993,
+      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        }
-      ],
-      "duration_ms": 349454,
-      "name": "Blue in Green (Sky and Sea)",
-      "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 296653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        }
+      ],
+      "duration_ms": 349454,
+      "name": "Blue in Green (Sky and Sea)",
+      "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 342480,
       "name": "Comrade Conrad",
       "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
+      },
+      "artists": [
+        {
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1015,6 +1015,22 @@
       "duration_ms": 193711,
       "name": "Dos Verdades en Una Botella",
       "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Ed\u00e9n",
+        "url": "https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR"
+      },
+      "artists": [
+        {
+          "name": "Sergio Wagner",
+          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "Masche",
+      "url": "https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1043,22 +1059,6 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Ed\u00e9n",
-        "url": "https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR"
-      },
-      "artists": [
-        {
-          "name": "Sergio Wagner",
-          "url": "https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm"
-        }
-      ],
-      "duration_ms": 397240,
-      "name": "Masche",
-      "url": "https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+        "name": "Fragmentos del mundo",
+        "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
       },
       "artists": [
         {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+          "name": "Ernesto Jodos",
+          "url": "https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb"
         }
       ],
-      "duration_ms": 292572,
-      "name": "Creer en las Hojas",
-      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
+      "duration_ms": 329264,
+      "name": "El cristal de los otros",
+      "url": "https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Fragmentos del mundo",
-        "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
       },
       "artists": [
         {
-          "name": "Ernesto Jodos",
-          "url": "https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb"
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
         }
       ],
-      "duration_ms": 329264,
-      "name": "El cristal de los otros",
-      "url": "https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0"
+      "duration_ms": 292572,
+      "name": "Creer en las Hojas",
+      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 356723,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Reuni\u00f3n",
         "url": "https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB"
       },
@@ -1219,6 +1187,22 @@
       "duration_ms": 389440,
       "name": "Reuni\u00f3n",
       "url": "https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1247,6 +1231,22 @@
       "duration_ms": 339612,
       "name": "Veinte Trajes Verdes",
       "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 356723,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
     },
     {
       "added_at": "2025-04-14 14:58:34",

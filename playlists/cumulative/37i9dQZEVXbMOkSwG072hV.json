@@ -2207,6 +2207,42 @@
     },
     {
       "album": {
+        "name": "A SINA DE OF\u00c9LIA",
+        "url": "https://open.spotify.com/album/62mqXvphgBVDBR2zcr2cn6"
+      },
+      "artists": [
+        {
+          "name": "Ueliton Rocha",
+          "url": "https://open.spotify.com/artist/4JHDDO1eP34qc9zNWNIPfj"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "A SINA DE OF\u00c9LIA",
+      "url": "https://open.spotify.com/track/5oklfziArJmceMZ1UDwHlv"
+    },
+    {
+      "album": {
+        "name": "A Sina De Of\u00e9lia",
+        "url": "https://open.spotify.com/album/3ciRGtpYvFJKc6AZpNDwtV"
+      },
+      "artists": [
+        {
+          "name": "Valens",
+          "url": "https://open.spotify.com/artist/3yA5ggVkWvCTEcj06txffl"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215520,
+      "name": "A Sina De Of\u00e9lia",
+      "url": "https://open.spotify.com/track/5kJKsy6I3CMkDIVtzZylW0"
+    },
+    {
+      "album": {
         "name": "A Tropa Que Te Maceta 2",
         "url": "https://open.spotify.com/album/3aRe6tPXjeQDogGI7JPyJE"
       },
@@ -4582,7 +4618,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 119769,
       "name": "Amo Minha Favela",
       "url": "https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4"
@@ -9308,7 +9344,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -9330,7 +9366,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -11224,7 +11260,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 162528,
       "name": "Bolha do Catucad\u00e3o",
       "url": "https://open.spotify.com/track/6wg9oQ055KTynFmkqc05yS"
@@ -26108,7 +26144,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -32466,7 +32502,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 273326,
       "name": "Gauchinha",
       "url": "https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b"
@@ -37521,6 +37557,24 @@
     },
     {
       "album": {
+        "name": "Internet Girl",
+        "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163831,
+      "name": "Internet Girl",
+      "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
+    },
+    {
+      "album": {
         "name": "Essa Minha Vida Bandida",
         "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
@@ -40481,6 +40535,24 @@
     },
     {
       "album": {
+        "name": "Lembrei de Tu",
+        "url": "https://open.spotify.com/album/52Y0Zjv2NuvaCC4JxRQGu9"
+      },
+      "artists": [
+        {
+          "name": "Men0 K",
+          "url": "https://open.spotify.com/artist/4PNS0FIvSg8wbj2cRmMCbM"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121092,
+      "name": "Lembrei de Tu",
+      "url": "https://open.spotify.com/track/4XYbOhT1tYC5CexattH53S"
+    },
+    {
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -41686,7 +41758,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 219023,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
@@ -52796,7 +52868,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 234010,
       "name": "Nada Foi em V\u00e2o",
       "url": "https://open.spotify.com/track/1JJxFEsjGXeynW4yQCfFuC"
@@ -53982,6 +54054,28 @@
       "duration_ms": 492958,
       "name": "No Trono",
       "url": "https://open.spotify.com/track/551yPYCwzQ72OHpTbY2pil"
+    },
+    {
+      "album": {
+        "name": "THE SIN : VANISH",
+        "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "No Way Back (Feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
     },
     {
       "album": {
@@ -55620,6 +55714,24 @@
       "duration_ms": 271850,
       "name": "N\u00e3o Fui Homem pra te merecer / Fica com Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/0FBTECK85YFQ1CW8sXmcJH"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Havia Pared\u00e3o",
+        "url": "https://open.spotify.com/album/2yuDMrLfLR3d0NHqJnChGM"
+      },
+      "artists": [
+        {
+          "name": "Canal Hit Nordeste",
+          "url": "https://open.spotify.com/artist/4jdbKivNW17himGXa1Cc1I"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225697,
+      "name": "N\u00e3o Havia Pared\u00e3o",
+      "url": "https://open.spotify.com/track/7tBxBxAd3DrejjehRFpFx0"
     },
     {
       "album": {
@@ -57323,6 +57435,24 @@
     },
     {
       "album": {
+        "name": "OFELIA",
+        "url": "https://open.spotify.com/album/4KkkkhqBuLPZTQ6YErT9lG"
+      },
+      "artists": [
+        {
+          "name": "Xaropinho",
+          "url": "https://open.spotify.com/artist/6N3vf94vMQM0pWQh86ugGv"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176796,
+      "name": "OFELIA",
+      "url": "https://open.spotify.com/track/50cdxMIbh9TuU8kO0xbpog"
+    },
+    {
+      "album": {
         "name": "Off The King",
         "url": "https://open.spotify.com/album/0E6diXaTc4u1fqbXrMdfyE"
       },
@@ -57338,6 +57468,24 @@
       "duration_ms": 90514,
       "name": "Off The King",
       "url": "https://open.spotify.com/track/1GUvtcy3F4pMsIYjJT5IlW"
+    },
+    {
+      "album": {
+        "name": "OF\u00c9LIA - A SINA DE OF\u00c9LIA (Radio Edit)",
+        "url": "https://open.spotify.com/album/3MgtCwnCdNYoRhsNr7MiIS"
+      },
+      "artists": [
+        {
+          "name": "DJ VIVANN",
+          "url": "https://open.spotify.com/artist/2QH13EWdXa44unanPFLEPR"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188374,
+      "name": "OF\u00c9LIA - A SINA DE OF\u00c9LIA - Radio Edit",
+      "url": "https://open.spotify.com/track/6pZY6PvunvjJweOqtnNIcn"
     },
     {
       "album": {
@@ -64831,6 +64979,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234151,
+      "name": "PUNK ROCKY",
+      "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
+    },
+    {
+      "album": {
         "name": "Soft Machine (U.S. Version)",
         "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
       },
@@ -70028,7 +70194,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 191810,
       "name": "Sa\u00ed para ver o mar",
       "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
@@ -72248,20 +72414,20 @@
           "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
         },
         {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
           "name": "MC Meno K",
           "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         },
         {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
           "name": "Mc Neg\u00e3o Original",
           "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
         },
         {
           "name": "MC Ryan SP",
@@ -82552,7 +82718,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 240293,
       "name": "Tudo Vai Dar Certo",
       "url": "https://open.spotify.com/track/6B8pYtoS3XHrc821hExWf6"
@@ -89002,7 +89168,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 101571,
       "name": "you broke my heart (Hoodtrap / Mylancore Remix)",
       "url": "https://open.spotify.com/track/217s7lvmWNl9x6WhjwQB3F"

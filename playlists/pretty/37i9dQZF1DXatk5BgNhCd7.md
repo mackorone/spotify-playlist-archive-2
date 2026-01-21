@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,455 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,474 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 60 | [DISTANCIA \- En Big Band 30 años](https://open.spotify.com/track/0hTsx4LiU2ijdEz03shunD) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [DISTANCIA \(En Big Band 30 años\)](https://open.spotify.com/album/4Cs4kR68AuaLYgjhlMsTSN) | 4:14 |
 | 61 | [Suena Mi Cumbia \- 2025 Remastered](https://open.spotify.com/track/0IWezx2Lu5qV5WFMlYvdnn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Como un Ángel \(2025 Remastered\)](https://open.spotify.com/album/2TVVimdJI79DQhtc2ddC0f) | 3:52 |
 | 62 | [Suavemente](https://open.spotify.com/track/0O1cw48wN4kPyzv60qwfvw) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Vaquero de Oro](https://open.spotify.com/album/347O41MhdqaACaOEzicOlZ) | 4:36 |
-| 63 | [Márchate Ahora \- Versión Club Totora](https://open.spotify.com/track/4HQ2WcEqErBOGQfd9W4cnY) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [CLUB TOTORA \- CAPÍTULO 1](https://open.spotify.com/album/1lu9RqAO6ehUlgPWIMlKqF) | 3:47 |
+| 63 | [Márchate Ahora \- Versión Club Totora](https://open.spotify.com/track/4HQ2WcEqErBOGQfd9W4cnY) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Club Totora \#1](https://open.spotify.com/album/1lu9RqAO6ehUlgPWIMlKqF) | 3:47 |
 | 64 | [Mi Locura](https://open.spotify.com/track/0z5DUzu4q48ZLuYMl4jnYn) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Mi Locura](https://open.spotify.com/album/1jnKBUurQIsK4svLuqIYF3) | 3:28 |
 | 65 | [Qué Tiene Él](https://open.spotify.com/track/1qeQl1u6v27pL5TiyUHygY) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Qué Tiene Él](https://open.spotify.com/album/2Cf4P1Z1W1u1Fn4V7yCBpF) | 3:27 |
 | 66 | [Popurrí: La Pepo Cumbia/ Yo Si Como Camarón \- En Vivo](https://open.spotify.com/track/21gOxQ6mH7yuwZQdcSQoK3) | [Nelson Kanzela](https://open.spotify.com/artist/728eqCXeJCJaQXz8qDCOJO) | [Como Se Baila en el Rancho \(En Vivo\)](https://open.spotify.com/album/3BDkCBNKU6gcJpQN1X94lZ) | 9:46 |

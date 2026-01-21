@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 567,
+  "num_followers": 573,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABbazmTw0hMOHgIo90EjotcJrmkfdN",
+  "snapshot_id": "AAABcbDI0KwbIdDZZfvmcknGHf+fYiYb",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8331,6 +8331,70 @@
       "duration_ms": 242000,
       "name": "Junior Partner",
       "url": "https://open.spotify.com/track/4pttWCJ0GJruYWBneXDLLI"
+    },
+    {
+      "added_at": "2026-01-20 09:35:52",
+      "album": {
+        "name": "Sub-Level",
+        "url": "https://open.spotify.com/album/6dHO7raGffFCFlOHLbJtUd"
+      },
+      "artists": [
+        {
+          "name": "HXN",
+          "url": "https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ"
+        }
+      ],
+      "duration_ms": 228502,
+      "name": "Millimeter from Breakin'",
+      "url": "https://open.spotify.com/track/5qbcx5BznWu1jiwMjRFJ1H"
+    },
+    {
+      "added_at": "2026-01-20 09:36:14",
+      "album": {
+        "name": "TRIP!",
+        "url": "https://open.spotify.com/album/1DavqBdCKskBZztfK1h7Z5"
+      },
+      "artists": [
+        {
+          "name": "reul gg",
+          "url": "https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "TRIP!",
+      "url": "https://open.spotify.com/track/004HNYwtkj7Ol69rZ7cj7G"
+    },
+    {
+      "added_at": "2026-01-20 09:36:16",
+      "album": {
+        "name": "FUNNY BOY",
+        "url": "https://open.spotify.com/album/6vgQ2HD9oB4FOit7sTF21w"
+      },
+      "artists": [
+        {
+          "name": "Snshnee!",
+          "url": "https://open.spotify.com/artist/56gNeCXGXTX5RQxC586Ein"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "FUNNY BOY",
+      "url": "https://open.spotify.com/track/7wKO3nIpTor5rpXiFsEJcS"
+    },
+    {
+      "added_at": "2026-01-20 09:36:36",
+      "album": {
+        "name": "Smooth Operator",
+        "url": "https://open.spotify.com/album/4GtTnxqgc0yeMmlWOkf6LH"
+      },
+      "artists": [
+        {
+          "name": "Sir Gladis",
+          "url": "https://open.spotify.com/artist/0LEqbOy9JAIvDyHePlaI19"
+        }
+      ],
+      "duration_ms": 292608,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/2jg0rXK2K9n3FvHNW6j6IT"
     }
   ],
   "unique_name": "New Music Daily",

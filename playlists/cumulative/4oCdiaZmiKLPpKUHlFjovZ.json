@@ -1533,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "Fake Jeezy",
+        "url": "https://open.spotify.com/album/4WWNtQiEHFykGzTLF9UOxE"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160391,
+      "name": "Fake Jeezy",
+      "url": "https://open.spotify.com/track/4fhgwk5dCgOZUh8LyxBk9r"
+    },
+    {
+      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/676WObynRCMxzPXtKvJbSs"
       },
@@ -2244,6 +2270,28 @@
       "duration_ms": 195953,
       "name": "It",
       "url": "https://open.spotify.com/track/1Nmy7xk7wcLtDj7k63ZRrR"
+    },
+    {
+      "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
     },
     {
       "album": {
@@ -4344,6 +4392,28 @@
       "duration_ms": 186728,
       "name": "Yea Freestyle",
       "url": "https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G"
+    },
+    {
+      "album": {
+        "name": "YOU HEAR ME THO",
+        "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "YOU HEAR ME THO",
+      "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
     }
   ],
   "url": "https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ"

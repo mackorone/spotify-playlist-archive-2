@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "1 - Kinderen voor Kinderen",
+        "url": "https://open.spotify.com/album/1xLhUCW6dYpKezCIt1FR5L"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149133,
+      "name": "Ik Heb Zo Waanzinnig Gedroomd",
+      "url": "https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo"
+    },
+    {
+      "album": {
         "name": "Klaar Voor De Start (Deel 34)",
         "url": "https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p"
       },

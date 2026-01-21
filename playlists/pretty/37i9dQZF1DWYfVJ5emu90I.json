@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 24863,
+  "num_followers": 24875,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,26 @@
     {
       "added_at": "2026-01-07 08:45:08",
       "album": {
-        "name": "4 MY CULT",
-        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
+        "name": "DEATH NOTE",
+        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
       },
       "artists": [
         {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        },
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        },
+        {
+          "name": "NEMLAND",
+          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
         }
       ],
-      "duration_ms": 165500,
-      "name": "4 MY CULT",
-      "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
+      "duration_ms": 174081,
+      "name": "DEATH NOTE",
+      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
     },
     {
       "added_at": "2026-01-07 08:45:08",
@@ -579,26 +587,18 @@
     {
       "added_at": "2026-01-07 08:45:08",
       "album": {
-        "name": "DEATH NOTE",
-        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
+        "name": "4 MY CULT",
+        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
       },
       "artists": [
         {
-          "name": "OVER KILL",
-          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
-        },
-        {
-          "name": "Pxrge Trxxxper",
-          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
-        },
-        {
-          "name": "NEMLAND",
-          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
         }
       ],
-      "duration_ms": 174081,
-      "name": "DEATH NOTE",
-      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
+      "duration_ms": 165500,
+      "name": "4 MY CULT",
+      "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
     },
     {
       "added_at": "2026-01-07 08:45:08",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-01-07 08:45:08",
       "album": {
-        "name": "DISTORTION",
-        "url": "https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI"
-      },
-      "artists": [
-        {
-          "name": "kZm",
-          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 161057,
-      "name": "27CLUB feat. LEX",
-      "url": "https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1"
-    },
-    {
-      "added_at": "2026-01-07 08:45:08",
-      "album": {
         "name": "NEW REAL (feat. Young Zetton)",
         "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 195375,
       "name": "NEW REAL (feat. Young Zetton)",
       "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
+    },
+    {
+      "added_at": "2026-01-07 08:45:08",
+      "album": {
+        "name": "DISTORTION",
+        "url": "https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "duration_ms": 161057,
+      "name": "27CLUB feat. LEX",
+      "url": "https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1"
     },
     {
       "added_at": "2026-01-07 08:45:08",

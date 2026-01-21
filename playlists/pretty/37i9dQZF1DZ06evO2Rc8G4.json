@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170097,
+  "num_followers": 170108,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAABe7D/QYLQQqj8AxDk/m+tY",
+  "snapshot_id": "aW10AAAAAADUPDNTmlXJxiozooyKTtYY",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Can't Get Blue Monday out of My Head",
+      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Oh My (with Bebe Rexha & Tove Lo)",
         "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Can't Get Blue Monday out of My Head",
-      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy Yourself",
-        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 231082,
-      "name": "Hand on Your Heart",
-      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
+      "duration_ms": 147160,
+      "name": "Kiss Bang Bang",
+      "url": "https://open.spotify.com/track/2Eb8ew1pvGvUWNiTPKdv0k"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

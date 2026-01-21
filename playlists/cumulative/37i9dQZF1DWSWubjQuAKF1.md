@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Nita
 
-696 songs - 1 day 10 hr 3 min
+697 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,12 +521,13 @@
 | [Sauvage](https://open.spotify.com/track/7BW8g0m4b1KN7iecTNBuJX) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Sauvage](https://open.spotify.com/album/1PAAUFg41yRgsmgfqrJS2B) | 2:26 | 2025-11-04 | 2025-11-12 |
 | [Seans](https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Seans](https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir) | 3:39 | 2025-07-31 | 2025-09-24 |
 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 | 2025-09-30 |  |
-| [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 | 2025-09-30 |  |
+| [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 | 2025-09-30 | 2026-01-21 |
 | [SELFISH](https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SELFISH](https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2) | 2:31 | 2024-07-04 | 2024-08-23 |
 | [Sen, który się powtarza](https://open.spotify.com/track/5TWLguF47GizHYaNGJVSCu) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sen, który się powtarza](https://open.spotify.com/album/5pGlN5xkGn2rR2VV2h843W) | 2:31 | 2025-05-01 | 2025-05-11 |
 | [Sentymenty](https://open.spotify.com/track/3l2Ktx9BaFMpu5sKedn4ji) | [Martyna Rempała](https://open.spotify.com/artist/3iL4ECdi3TcAQXI08e4BUt) | [Droga do marzeń](https://open.spotify.com/album/6rRYbzotYUDzK5VAfuCT4m) | 2:30 | 2024-11-28 | 2025-01-24 |
 | [Serca na Straty](https://open.spotify.com/track/1IlxzbWGRXRgGcosunZHWc) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Serca na Straty](https://open.spotify.com/album/6RuEVj7XckAOSXRVFqUoZr) | 3:04 | 2025-07-03 | 2025-07-24 |
 | [serce](https://open.spotify.com/track/1C1z1YoannKXDFP2qZN9Aw) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [serce](https://open.spotify.com/album/4GXYgfjr6cfP2Z4a1hCP5r) | 3:04 | 2026-01-16 |  |
+| [Serce](https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Serce](https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi) | 3:13 | 2026-01-16 |  |
 | [Serce Dla Nas](https://open.spotify.com/track/3yzYuClEJ6ZCpMRBSVAnRc) | [LIJA BLANCO](https://open.spotify.com/artist/0ITHG1dWwuQaNdaUvy8du8), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Serce Dla Nas](https://open.spotify.com/album/0v2cvtdGjFKNYysmiUp2IS) | 2:06 | 2026-01-16 |  |
 | [shady](https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [shady](https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p) | 2:08 | 2025-11-04 | 2025-12-06 |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-23 | 2025-02-28 |

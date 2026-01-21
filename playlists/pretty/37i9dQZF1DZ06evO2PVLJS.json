@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1115108,
+  "num_followers": 1115173,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAD9TP2CgMq3V+CHhHOraHyZ",
+  "snapshot_id": "aW10AAAAAABIhS/0iOB372QCuq8uD22B",
   "tracks": [
     {
       "added_at": null,
@@ -447,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
       "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 132426,
-      "name": "Si Te Vas No Hay Lio",
-      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
+      "duration_ms": 220320,
+      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
     },
     {
       "added_at": null,
@@ -479,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
       "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        },
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 220320,
-      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+      "duration_ms": 132426,
+      "name": "Si Te Vas No Hay Lio",
+      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
     },
     {
       "added_at": null,

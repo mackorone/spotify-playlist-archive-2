@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBabylon, Drake)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nYOUNGJOO(\uc601\uc8fc))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -4897,6 +4897,28 @@
     },
     {
       "album": {
+        "name": "Endless story",
+        "url": "https://open.spotify.com/album/0RQ4fZ4xFEcMUi3s04NkKu"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJOO",
+          "url": "https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Endless story (feat. TRADE L)",
+      "url": "https://open.spotify.com/track/2XAYYibwjdqJMmDe3FM4wa"
+    },
+    {
+      "album": {
         "name": "null",
         "url": "https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr"
       },
@@ -6006,7 +6028,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 241739,
       "name": "Gift (feat. Drake)",
       "url": "https://open.spotify.com/track/4Kcb43AOZE71Wnk9ueVulW"
@@ -8070,7 +8092,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
@@ -9460,7 +9482,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 223199,
       "name": "Love Virus (Feat. I.M)",
       "url": "https://open.spotify.com/track/5jgXg4Sen0qi02jDf68RSA"
@@ -10896,6 +10918,28 @@
       "duration_ms": 183226,
       "name": "New Reels (Feat. pH-1)",
       "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
+    },
+    {
+      "album": {
+        "name": "4SHOBOIZ MIXTAPE",
+        "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
+      },
+      "artists": [
+        {
+          "name": "OHYUL of LNGSHOT",
+          "url": "https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8"
+        },
+        {
+          "name": "LOUIS of LNGSHOT",
+          "url": "https://open.spotify.com/artist/3seAPrIOyzVHEa6LTNfRLS"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Next 2 U",
+      "url": "https://open.spotify.com/track/6Qq5N2ZFOSxink8xHHLGbZ"
     },
     {
       "album": {
@@ -13540,7 +13584,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 211425,
       "name": "SEASONS",
       "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"

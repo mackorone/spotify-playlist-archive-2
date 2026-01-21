@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 300750,
+  "num_followers": 300764,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Datura",
-        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 237359,
-      "name": "Crocus",
-      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Datura",
+        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 237359,
+      "name": "Crocus",
+      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
         }
       ],
-      "duration_ms": 211321,
-      "name": "Uzumaki",
-      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Dying To Believe",
-        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 181854,
-      "name": "Dying To Believe",
-      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Opposites (Deluxe)",
         "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 265113,
       "name": "Stingin' Belle",
       "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Dying To Believe",
+        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 181854,
+      "name": "Dying To Believe",
+      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Breakfast For Pathetics",
-        "url": "https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo"
-      },
-      "artists": [
-        {
-          "name": "Tired Lion",
-          "url": "https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt"
-        }
-      ],
-      "duration_ms": 200177,
-      "name": "~Cya Later~",
-      "url": "https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Two Toned // She Said",
         "url": "https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 226889,
       "name": "Two Toned",
       "url": "https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Breakfast For Pathetics",
+        "url": "https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo"
+      },
+      "artists": [
+        {
+          "name": "Tired Lion",
+          "url": "https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt"
+        }
+      ],
+      "duration_ms": 200177,
+      "name": "~Cya Later~",
+      "url": "https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl"
     },
     {
       "added_at": "2024-12-03 09:27:47",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 241809,
+  "num_followers": 241826,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "My Honest Face",
-      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 197600,
       "name": "Ottolenghi",
       "url": "https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "My Honest Face",
+      "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Their Satanic Majesties' Second Request",
-        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 334466,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Employment",
         "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "On A Mission",
         "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/5Pa4jOcjb0PFX2EcqKitRO"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 219099,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/6BNd2AGg8g0OuaSoNPxCn0"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Nobody Is Not Loved",
         "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/5Pa4jOcjb0PFX2EcqKitRO"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/6BNd2AGg8g0OuaSoNPxCn0"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 235045,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Take A Sexy Picture Of Me",
-        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Take A Sexy Picture Of Me",
-      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 203733,
       "name": "Can't Stand Me Now",
       "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Take A Sexy Picture Of Me",
+        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Take A Sexy Picture Of Me",
+      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "shut the fuck up talking to me",
-        "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
-      },
-      "artists": [
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "fafo",
-      "url": "https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Family Only",
         "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 222080,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/4vhkCppuT8ep5JneFswhgc"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "shut the fuck up talking to me",
+        "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "fafo",
+      "url": "https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Biblical",
+      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Dancing is Healing",
         "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
       },
@@ -1943,38 +1959,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Opposites (Deluxe)",
-        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Biblical",
-      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Stars Of CCTV",
         "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 161960,
       "name": "Mountain Banjo",
       "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "MR. SANDMAN",
-        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "MR. SANDMAN",
-      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Hot Lemonade",
         "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 267106,
       "name": "Voodoo Ray",
       "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "MR. SANDMAN",
+        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "MR. SANDMAN",
+      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
-      },
-      "artists": [
-        {
-          "name": "Hothouse Flowers",
-          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Sinsemilla",
         "url": "https://open.spotify.com/album/7lQAs7Brf9ZxzJV2vdTQU2"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 309880,
       "name": "Sinsemilla",
       "url": "https://open.spotify.com/track/7ERRjAcL8i6vdKkaRGDdQc"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
+      },
+      "artists": [
+        {
+          "name": "Hothouse Flowers",
+          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 186065,
       "name": "The World\u2019s Biggest Paving Slab",
       "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2851,6 +2851,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Breathing Exercises",
         "url": "https://open.spotify.com/album/2fz0Euo0JCmgJhNxiDuAeu"
       },
@@ -2887,18 +2903,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
+        "name": "Come Play the Trees",
+        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
         }
       ],
-      "duration_ms": 167866,
-      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+      "duration_ms": 247071,
+      "name": "I Want My Minutes Back",
+      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2943,38 +2959,6 @@
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Come Play the Trees",
-        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "I Want My Minutes Back",
-      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Afrikan Alien",
-        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3031,6 +3015,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Afrikan Alien",
+        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "The Magic Numbers",
         "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
       },
@@ -3079,22 +3079,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -3111,18 +3095,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
       },
       "artists": [
         {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3139,6 +3123,22 @@
       "duration_ms": 175546,
       "name": "Back To Back (B2B)",
       "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
     },
     {
       "added_at": "2025-06-27 23:00:28",

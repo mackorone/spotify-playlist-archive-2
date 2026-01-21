@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1269370,
+  "num_followers": 1269398,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Mony Mony - Downtown Mix / Remastered 2001",
+      "url": "https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
         "name": "Los Angeles (2019 Remaster)",
         "url": "https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Vital Idol",
-        "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Mony Mony - Downtown Mix / Remastered 2001",
-      "url": "https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Roxy Music Collection",
         "url": "https://open.spotify.com/album/6VQZ6NNyt8E6Nj93mkoi0y"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "The Public Image Is Rotten (Songs From The Heart)",
-        "url": "https://open.spotify.com/album/01zTFafuGf4FonC5fmcdjD"
+        "name": "Gold - The Best of Spandau Ballet",
+        "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
       },
       "artists": [
         {
-          "name": "Public Image Ltd.",
-          "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
         }
       ],
-      "duration_ms": 178733,
-      "name": "Public Image - Remastered 2011",
-      "url": "https://open.spotify.com/track/3T5AtZHfROthygPMNipfZC"
+      "duration_ms": 201013,
+      "name": "To Cut A Long Story Short",
+      "url": "https://open.spotify.com/track/2CfqGS6D9piBWM3SAjbUJM"
     }
   ],
   "unique_name": "Early Alternative",

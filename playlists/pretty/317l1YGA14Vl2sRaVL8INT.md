@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > It's pop punk, it's the best\. From classic hits to new discoveries, featuring Sweet Pill, Neck Deep, Paramore, and way more!
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 42,956 likes - 110 songs - 5 hr 40 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 42,955 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

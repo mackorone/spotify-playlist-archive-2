@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 660 songs - 1 day 19 hr 9 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 664 songs - 1 day 19 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -668,5 +668,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 658 | [From The Gods](https://open.spotify.com/track/3y0DIcBw075qzj3dOwJ5aL) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Food From the Gods](https://open.spotify.com/album/1M4p6UNirW9jsDnnNzPyqR) | 1:28 |
 | 659 | [Say No More](https://open.spotify.com/track/1ZtQs6a3iYM74lWc28FcQv) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:21 |
 | 660 | [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 |
+| 661 | [Interpret Sabotage](https://open.spotify.com/track/04HcLAYZ3YJ73oOZvjqBcM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [No Poison No Paradise](https://open.spotify.com/album/4GqT8uQCQRSs3Xt7wQ0u13) | 3:29 |
+| 662 | [Long Story Short](https://open.spotify.com/track/0JMyXs0Zj8hrr0OwvqSnxM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3) | [Tronic](https://open.spotify.com/album/5MbqqLcX0c1rtKtzKWKxCx) | 5:04 |
+| 663 | [The Ballad Of The RAA](https://open.spotify.com/track/3TU3qRbVu8jSv6IrfY0FoV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Hometowns](https://open.spotify.com/album/5X27E81cePL9bNER4QEjmO) | 3:28 |
+| 664 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 |
 
-Snapshot ID: `AAAIe6pavhJdSZdDY8S4OnQ9fKSVtoPV`
+Snapshot ID: `AAAIf6kH0l6WXU9h1xS5Ki/B44gI1UfZ`

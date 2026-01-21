@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Zaaf
 
-598 songs - 1 day 10 hr 18 min
+599 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Ödün Verdim](https://open.spotify.com/track/4U0n8zk7ec1WVseHvF4P28) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4) | [Ödün Verdim](https://open.spotify.com/album/4MeJJ1gq59xDeVhmHqH0aK) | 3:15 | 2024-08-01 | 2024-08-30 |
 | [Ödün Verdim](https://open.spotify.com/track/05YMxstcaa2rSscdb6aW0y) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4), [Lavin](https://open.spotify.com/artist/5jPL1Qieqd9VrUwGFAndFg) | [Ödün Verdim](https://open.spotify.com/album/2dZJpSBmTxs1JVuOdtYmmb) | 3:02 | 2025-06-26 | 2025-07-25 |
 | [Öl İçimde \- Rock Version](https://open.spotify.com/track/2fjm3nI93CHchxnUBEecB5) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde \(Rock Version\)](https://open.spotify.com/album/0O73jnNQtUF0qqxP7I7ywd) | 3:17 | 2024-08-15 | 2024-09-06 |
+| [Öldürme Beni](https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Öldürme Beni](https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0) | 4:57 | 2026-01-15 |  |
 | [ÖLEBİLİRİM](https://open.spotify.com/track/0laGInMWhmNMeegLyvPGJv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [ÖLEBİLİRİM](https://open.spotify.com/album/6ZCMo546GVlHvwaN87DAUN) | 3:15 | 2025-11-20 | 2025-12-20 |
 | [Ölene Dek](https://open.spotify.com/track/4ZH7g8nCA3m2EHNZ4ATLtv) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ölene Dek](https://open.spotify.com/album/0b9tU1DOxAmZa1CA4rFm71) | 3:01 | 2024-06-28 | 2024-09-27 |
 | [Ölmeden Nasıl Sever İnsan?](https://open.spotify.com/track/0xGcQbNC6HpZZ9crJ6VWLn) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Ölmeden Nasıl Sever İnsan?](https://open.spotify.com/album/07OaD0YgTzOtpZ34d6NS1r) | 3:49 | 2025-08-28 | 2025-09-13 |

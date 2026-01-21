@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-765 songs - 1 day 12 hr 32 min
+766 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 | 2024-06-22 |
 | [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 | 2024-01-24 | 2024-02-06 |
 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-09 | 2025-02-10 |
+| [Old Money](https://open.spotify.com/track/6R5LyPX1PTsaq8K9zCFd1l) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Old Money](https://open.spotify.com/album/425207ZDHo7DOp22qzIDmh) | 3:39 | 2026-01-20 |  |
 | [Old Sinner](https://open.spotify.com/track/6TDstCmfJF2ajZIPrtE0Lc) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Old Sinner](https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT) | 2:50 | 2024-06-28 | 2024-07-09 |
 | [ON SIGHT](https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [ON SIGHT](https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC) | 2:23 | 2025-09-30 | 2025-10-16 |
 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 | 2024-06-10 |  |
@@ -559,7 +560,7 @@
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
 | [Pindaan Wale Jatt \- Ninja](https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Pindaan Wale Jatt \(Ninja\)](https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9) | 4:04 | 2025-03-19 | 2025-04-12 |
 | [Pindan Aale](https://open.spotify.com/track/5CyXssn2W8QqeXolleUepo) | [Ekam Chanoli](https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik), [Ruby Chatha](https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Pindan Aale](https://open.spotify.com/album/7cw7zQh0pg48ooMQicWvrX) | 4:12 | 2024-08-12 | 2024-08-21 |
-| [Pitth Piche](https://open.spotify.com/track/1Kg01qAJIqHtEpCEmKGpSZ) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Nachhatar Gill](https://open.spotify.com/artist/1g8ObZDF4oPfho92ISSyNq) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:00 | 2025-11-19 |  |
+| [Pitth Piche](https://open.spotify.com/track/1Kg01qAJIqHtEpCEmKGpSZ) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Nachhatar Gill](https://open.spotify.com/artist/1g8ObZDF4oPfho92ISSyNq) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:00 | 2025-11-19 | 2026-01-21 |
 | [PMCM](https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [PMCM](https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd) | 2:58 | 2024-07-03 | 2024-07-10 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 | 2024-08-22 |
 | [Police](https://open.spotify.com/track/4DrDsY7ExVwT371fdjcjgA) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:21 | 2025-02-19 | 2025-10-14 |

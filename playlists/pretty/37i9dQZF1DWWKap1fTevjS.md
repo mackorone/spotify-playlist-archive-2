@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,957 likes - 345 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,045 likes - 345 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 215 | [Branches of Air](https://open.spotify.com/track/5H2ObgLV0efeX7GPqVobHZ) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Branches of Air](https://open.spotify.com/album/5JW1SgUY9iz0S2EIDlC2kN) | 2:16 |
 | 216 | [Modality](https://open.spotify.com/track/29jb1ziRJeYgQcg5cuIJbX) | [S Dedalus](https://open.spotify.com/artist/2EjRftYBsQZCo0xGRzZSbj) | [Modality](https://open.spotify.com/album/0OyqTDWqhthvI2eICJ2pPB) | 2:51 |
 | 217 | [Still Between Seconds](https://open.spotify.com/track/7s5IlTehrmndsoEYwzq0kt) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Still Between Seconds](https://open.spotify.com/album/6vey2BBmXDBScr6mwVQOYz) | 2:28 |
-| 218 | [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 |
+| 218 | [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/3IbBAK3p67A2nrqvUCbRwT) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 |
 | 219 | [Celestia](https://open.spotify.com/track/1KL3vXV6GaClrlhNkt1TR9) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Celestia](https://open.spotify.com/album/7HoO3mUB1L6mRK5BP6kidR) | 2:44 |
 | 220 | [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 |
 | 221 | [Slowly Drifting](https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Slowly Drifting](https://open.spotify.com/album/5jgv7o7Z4MlPAiS43hFdkZ) | 2:06 |
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 344 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 |
 | 345 | [Endicino](https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Endicino](https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA) | 2:51 |
 
-Snapshot ID: `AAAAAGbS5gfGxKjQQm3dPJsEF5Kbmn3W`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

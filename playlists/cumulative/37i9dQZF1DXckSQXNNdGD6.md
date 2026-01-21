@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Luna Ki.
 
-287 songs - 14 hr 4 min
+289 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 | 2024-10-01 | 2025-06-04 |
 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 | 2025-07-01 |  |
 | [LOCOLOCO](https://open.spotify.com/track/6O3wWV2M81Vhs3JQJtGdcT) | [Yenesi](https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb) | [LOCOLOCO](https://open.spotify.com/album/2GGWmq9XIqwKO9xCH5kJSB) | 2:37 | 2024-07-02 | 2024-08-07 |
-| [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 | 2025-06-03 |  |
+| [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 | 2025-06-03 | 2026-01-21 |
 | [Los que me salvaron](https://open.spotify.com/track/4xY1WAvXeGrsB3dA20kxJr) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Los que me salvaron](https://open.spotify.com/album/3p2TdjupbCBuWbqatEmBpL) | 3:20 | 2026-01-13 |  |
 | [Lunytunes](https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Lunytunes](https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v) | 2:35 | 2025-07-01 | 2025-10-02 |
 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 | 2025-08-05 |  |
@@ -170,6 +170,7 @@
 | [Me Gustas Demasiado \- Remix](https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD), [Aida Redru](https://open.spotify.com/artist/3Xoz7YMI4DBfoEJYVWc0JJ), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [Me Gustas Demasiado \- Remix](https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc) | 2:41 | 2024-06-05 | 2024-08-07 |
 | [Me lo invento](https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Me lo invento](https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj) | 3:15 | 2025-03-04 | 2025-06-01 |
 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 | 2024-12-04 |  |
+| [Me tiré a un Facha](https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY) | [Montedapena](https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv), [PLATERÍAS](https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C) | [Me tiré a un Facha](https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb) | 3:00 | 2026-01-20 |  |
 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 | 2025-08-05 |  |
 | [Mi Amor \- Spanish Version](https://open.spotify.com/track/24hN9kdcOyZgY2qytkl4KN) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP), [Kat Almagro](https://open.spotify.com/artist/368VnBU3hf3EtaIeuSykSU) | [Mi Amor \(Spanish Version\)](https://open.spotify.com/album/54cNBA0cMAFBJ1xao2HFmA) | 2:24 | 2025-06-03 | 2025-06-18 |
 | [Mi corazón](https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [002](https://open.spotify.com/album/4FRDtcPSafCRj7HtzmRT1w) | 4:04 | 2024-12-04 | 2025-01-27 |
@@ -208,6 +209,7 @@
 | [Painkiller](https://open.spotify.com/track/0mHu0w7NEmkAv48haoZL9M) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Painkiller](https://open.spotify.com/album/7zelnhW4FH2IHGfQWeS7UN) | 2:24 | 2025-08-05 | 2025-09-03 |
 | [PAPITO](https://open.spotify.com/track/0GZrsDyEvTyaEZjgtgO6UK) | [MIGUELITA](https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN), [TALAVERA](https://open.spotify.com/artist/6b2CBcPqqXYhjAy7h2yjku) | [PAPITO](https://open.spotify.com/album/1VQQ7iG6C1AV75cDsK4NOj) | 2:18 | 2024-06-05 | 2024-07-03 |
 | [Papá & Mamá](https://open.spotify.com/track/30XdIEaT8HkBLYBshY5Js3) | [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [Papá & Mamá](https://open.spotify.com/album/1K4G6H4pV3OG76z4kVlmGz) | 2:35 | 2024-10-01 | 2024-10-23 |
+| [Para 2](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para 2](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 | 2026-01-20 |  |
 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 | 2024-11-05 | 2025-02-05 |
 | [Pedro Bicicletas](https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Pedro Bicicletas](https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj) | 3:39 | 2025-06-03 | 2025-07-02 |
 | [Perdiendo el tiempo](https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Perdiendo el tiempo](https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c) | 2:46 | 2024-10-01 | 2025-01-13 |
@@ -238,7 +240,7 @@
 | [Redención](https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Redención](https://open.spotify.com/album/73rFocl011WgsCQzadxU2A) | 2:18 | 2024-07-02 | 2024-11-20 |
 | [Reggaeton Cristiano](https://open.spotify.com/track/3AxnNLgUlAX4tCmyAkN420) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [Domi Shameless](https://open.spotify.com/artist/2N425CEAGXMEWzrpet0Sy8) | [Reggaeton Cristiano](https://open.spotify.com/album/4C4GlvaDKglOAXNPNKsupf) | 3:08 | 2024-07-02 | 2024-11-06 |
 | [Resaca](https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [antimorbo](https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS) | [Resaca](https://open.spotify.com/album/4tHNQxQgs1UcncwUI8oiIi) | 3:10 | 2024-06-05 | 2024-08-07 |
-| [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 | 2025-04-01 |  |
+| [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 | 2025-04-01 | 2026-01-21 |
 | [Rutina](https://open.spotify.com/track/4EZRWXXfT2Odi7n5YqDd8m) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Rutina](https://open.spotify.com/album/4veGlDXexNE2cbOSIfQ5vC) | 2:48 | 2025-09-02 | 2025-10-19 |
 | [SABES K ME KIERES](https://open.spotify.com/track/30yyRnlzBJo9Vz1AzUsiTF) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [SABES K ME KIERES](https://open.spotify.com/album/52SfgXz7J3q6GCHopmdj0P) | 2:20 | 2025-12-02 |  |
 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 | 2024-08-06 | 2024-09-04 |

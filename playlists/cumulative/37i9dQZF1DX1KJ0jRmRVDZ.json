@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 213000,
       "name": "CATCH!!!",
       "url": "https://open.spotify.com/track/6EnaMPmxQwv0Hy3sbv6yaw"
@@ -6304,7 +6304,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
@@ -10734,7 +10734,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 186193,
       "name": "Watch me!",
       "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
@@ -14127,6 +14127,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30c9\u30ec\u30ca",
+        "url": "https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185825,
+      "name": "\u30a2\u30c9\u30ec\u30ca",
+      "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30cd\u30e2\u30cd",
         "url": "https://open.spotify.com/album/4ZmyxpMBVaajJWiyhweSUv"
       },
@@ -16826,6 +16844,24 @@
       "duration_ms": 233949,
       "name": "\u30ba\u30eb\u3044\u5e7b",
       "url": "https://open.spotify.com/track/1JokCoiPsYB0i3RISCtldq"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
+      "url": "https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R"
     },
     {
       "album": {
@@ -25117,6 +25153,24 @@
     },
     {
       "album": {
+        "name": "\u66b4\u9732",
+        "url": "https://open.spotify.com/album/7GUWygF7EHYfrOvxOe7xE5"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "\u66b4\u9732",
+      "url": "https://open.spotify.com/track/7ENV1wpuCIlCx2AjlSE2PA"
+    },
+    {
+      "album": {
         "name": "STRANGE POP",
         "url": "https://open.spotify.com/album/4jIMuO9hU908AP5T0IPxNm"
       },
@@ -29004,7 +29058,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 162073,
       "name": "\u9006\u3055\u6708 (Reverse Moon) feat. asmi",
       "url": "https://open.spotify.com/track/68rid6qen81zUDXd70gT6i"

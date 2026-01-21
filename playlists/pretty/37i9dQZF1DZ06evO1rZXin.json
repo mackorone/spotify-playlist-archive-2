@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7036,
+  "num_followers": 7038,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAABf/mKhqdkmIxlavZRp+Tm7",
+  "snapshot_id": "aW10AAAAAADqKKs2juFYY4ja4fZEY/PK",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 177000,
-      "name": "El Hombliguito",
-      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
     },
     {
       "added_at": null,
@@ -171,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
+      "duration_ms": 177000,
+      "name": "El Hombliguito",
+      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 164093,
-      "name": "El Huerfnito",
-      "url": "https://open.spotify.com/track/7lK6scXajux18QPlPvAYrG"
+      "duration_ms": 145973,
+      "name": "La Primera Caricia",
+      "url": "https://open.spotify.com/track/5UVrUzx3P58h5bOqEluApd"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 181933,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/1TtEn9YkPng9lKJKE6cDS9"
+      "duration_ms": 164093,
+      "name": "El Huerfnito",
+      "url": "https://open.spotify.com/track/7lK6scXajux18QPlPvAYrG"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 145973,
-      "name": "La Primera Caricia",
-      "url": "https://open.spotify.com/track/5UVrUzx3P58h5bOqEluApd"
+      "duration_ms": 181933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/1TtEn9YkPng9lKJKE6cDS9"
     },
     {
       "added_at": null,

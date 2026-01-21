@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Alter Bridge",
-  "num_followers": 437913,
+  "num_followers": 437963,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Drag Me",
-        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 186237,
-      "name": "Drag Me",
-      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 181956,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Drag Me",
+        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 186237,
+      "name": "Drag Me",
+      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "SAVIOR",
-        "url": "https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "SAVIOR",
-      "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Things Are Different Now",
         "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 174428,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "CARNAL (Deluxe)",
         "url": "https://open.spotify.com/album/6bo0qsybdHj6lP2Hr0flUj"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 226875,
       "name": "FREEFALL (feat. Chris Daughtry)",
       "url": "https://open.spotify.com/track/2gjgAWkkeM8u849gkTV9ow"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Mercia",
+        "url": "https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 334117,
+      "name": "Mercia",
+      "url": "https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "What Lies Within",
         "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
       },
@@ -1879,18 +1895,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Mercia",
-        "url": "https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep"
+        "name": "Cyanide",
+        "url": "https://open.spotify.com/album/1SWpPqdd3fVxPMntRUcW7s"
       },
       "artists": [
         {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
         }
       ],
-      "duration_ms": 334117,
-      "name": "Mercia",
-      "url": "https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT"
+      "duration_ms": 213562,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/6oyjVwdaKB9FsAYR6FybmS"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1911,6 +1927,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 245767,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "They Were Always Here",
         "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
       },
@@ -1927,22 +1959,6 @@
       "duration_ms": 190428,
       "name": "Make a Mess",
       "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "bad luck",
-        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 245767,
-      "name": "bad luck",
-      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2039,18 +2055,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/1SWpPqdd3fVxPMntRUcW7s"
+        "name": "Worst in You",
+        "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
       },
       "artists": [
         {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+          "name": "Versus Me",
+          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
         }
       ],
-      "duration_ms": 213562,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/6oyjVwdaKB9FsAYR6FybmS"
+      "duration_ms": 206672,
+      "name": "Worst in You",
+      "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2075,18 +2091,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Worst in You",
-        "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
+        "name": "The Only Heaven You'll Know",
+        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
       },
       "artists": [
         {
-          "name": "Versus Me",
-          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
         }
       ],
-      "duration_ms": 206672,
-      "name": "Worst in You",
-      "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
+      "duration_ms": 223000,
+      "name": "The Only Heaven You'll Know",
+      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2107,18 +2123,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "The Only Heaven You'll Know",
-        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
+        "name": "SILOS",
+        "url": "https://open.spotify.com/album/5SsKMrXgdXKZOOST3UHQ1P"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
         }
       ],
-      "duration_ms": 223000,
-      "name": "The Only Heaven You'll Know",
-      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
+      "duration_ms": 260987,
+      "name": "SILOS",
+      "url": "https://open.spotify.com/track/5tdXeZOLP0dUVhJ5tTxCJW"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2139,6 +2155,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "SHOCK TO THE SYSTEM (PART TWO)",
+        "url": "https://open.spotify.com/album/5AXXok1CGIjrJnRgFweHzo"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 251542,
+      "name": "ANTIDOTE - FULL MIX",
+      "url": "https://open.spotify.com/track/4Wnr11ZrETXAK9xQu0q7iQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "No Rain, No Flowers",
         "url": "https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88"
       },
@@ -2155,22 +2187,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "SILOS",
-        "url": "https://open.spotify.com/album/5SsKMrXgdXKZOOST3UHQ1P"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 260987,
-      "name": "SILOS",
-      "url": "https://open.spotify.com/track/5tdXeZOLP0dUVhJ5tTxCJW"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Family Heirlooms",
         "url": "https://open.spotify.com/album/2lOR718rLgfu2fMG779AfA"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 262736,
       "name": "It Ends With Me",
       "url": "https://open.spotify.com/track/73GxPslknOLpvGG3dMdPeV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "SHOCK TO THE SYSTEM (PART TWO)",
-        "url": "https://open.spotify.com/album/5AXXok1CGIjrJnRgFweHzo"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 251542,
-      "name": "ANTIDOTE - FULL MIX",
-      "url": "https://open.spotify.com/track/4Wnr11ZrETXAK9xQu0q7iQ"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Devil in my Head",
-        "url": "https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22"
+        "name": "said and done",
+        "url": "https://open.spotify.com/album/5y256Ukp4qBoclIgifo6HY"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
         }
       ],
-      "duration_ms": 201049,
-      "name": "Devil in my Head",
-      "url": "https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj"
+      "duration_ms": 206916,
+      "name": "said and done",
+      "url": "https://open.spotify.com/track/1Wj6SS4J8pMpad7CgCjgIH"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2307,34 +2307,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "said and done",
-        "url": "https://open.spotify.com/album/5y256Ukp4qBoclIgifo6HY"
+        "name": "Devil in my Head",
+        "url": "https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22"
       },
       "artists": [
         {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 206916,
-      "name": "said and done",
-      "url": "https://open.spotify.com/track/1Wj6SS4J8pMpad7CgCjgIH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "WHIPLASH",
-        "url": "https://open.spotify.com/album/3Gt4NMrF9TUgbCJgn1rGQH"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "WHIPLASH",
-      "url": "https://open.spotify.com/track/1jfE4WlpfSsdzAzUeU7oxT"
+      "duration_ms": 201049,
+      "name": "Devil in my Head",
+      "url": "https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2351,6 +2335,22 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHIPLASH",
+        "url": "https://open.spotify.com/album/3Gt4NMrF9TUgbCJgn1rGQH"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "WHIPLASH",
+      "url": "https://open.spotify.com/track/1jfE4WlpfSsdzAzUeU7oxT"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Troubled Water",
-        "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/5P4el2I8usVLwh90Q2AcMa"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 234931,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Troubled Water",
+        "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/5P4el2I8usVLwh90Q2AcMa"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2519,18 +2519,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Porn in the U.S.A.",
-        "url": "https://open.spotify.com/album/47zk4rYasC6H1f3vnRQbL9"
+        "name": "Burn the Ballroom Down",
+        "url": "https://open.spotify.com/album/6Gd4vT0Yk3d0aSyAnykUgb"
       },
       "artists": [
         {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 251547,
-      "name": "Porn in the U.S.A.",
-      "url": "https://open.spotify.com/track/0MRJkdnI7jdGoRD8hLsS4F"
+      "duration_ms": 235438,
+      "name": "Burn the Ballroom Down",
+      "url": "https://open.spotify.com/track/2sJp1wIFUHyNouLFOFFfN2"
     }
   ],
   "unique_name": "Hard Rock",

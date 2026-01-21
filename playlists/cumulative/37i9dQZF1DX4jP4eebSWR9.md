@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Bruno Mars
+> 50 Hits in einer Playlist! Cover: Jazeek, reezy
 
-309 songs - 14 hr 44 min
+310 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,10 +180,11 @@
 | [Meer](https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Meer](https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs) | 3:46 | 2024-09-10 | 2024-12-12 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-11 | 2025-09-24 |
 | [Miami](https://open.spotify.com/track/5N1C1ii0IsKp1Ux3OXUM8C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Miami](https://open.spotify.com/album/7afOEr838kmsWI5peWbZB2) | 3:04 | 2024-09-10 | 2025-02-05 |
+| [Miami](https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [Miami](https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE) | 2:19 | 2026-01-20 |  |
 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 | 2025-12-02 | 2026-01-15 |
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-16 | 2025-01-11 |
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-09-10 | 2024-10-09 |
-| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-12-09 |  |
+| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-12-09 | 2026-01-21 |
 | [Mona Lisa Motion](https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion](https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch) | 2:12 | 2025-03-04 | 2025-04-23 |
 | [Mona Lisa Motion \(Einmal um die Welt\)](https://open.spotify.com/track/2xlCVJw334z27pGN8P7dhc) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion \(Einmal um die Welt\)](https://open.spotify.com/album/14dy0tmdDBbvdxDngiztgO) | 2:30 | 2025-04-22 | 2025-05-28 |
 | [Morgen](https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Morgen](https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp) | 3:10 | 2025-05-27 | 2025-06-11 |

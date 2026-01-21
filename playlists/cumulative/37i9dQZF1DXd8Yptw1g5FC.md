@@ -4,7 +4,7 @@
 
 > Poizi ve haftanın en iyi çıkışları!
 
-5,339 songs - 11 day 7 hr 19 min
+5,340 songs - 11 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5249,6 +5249,7 @@
 | [Ödün Verdim](https://open.spotify.com/track/05YMxstcaa2rSscdb6aW0y) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4), [Lavin](https://open.spotify.com/artist/5jPL1Qieqd9VrUwGFAndFg) | [Ödün Verdim](https://open.spotify.com/album/2dZJpSBmTxs1JVuOdtYmmb) | 3:02 | 2025-06-26 | 2025-07-04 |
 | [Öfkemin Esiri](https://open.spotify.com/track/6WOPjlggMQWbK2LplRS17z) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Paradigma](https://open.spotify.com/album/5JEDimXEOMyW9q6NJwzpAq) | 3:33 | 2025-08-14 | 2025-08-22 |
 | [Öldür Beni](https://open.spotify.com/track/0hqMl7RQttPJ8flp6Dkfsg) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i) | [Öldür Beni](https://open.spotify.com/album/0DqULvjHL5P8TzJaFi1AWh) | 3:20 | 2025-09-25 | 2025-10-04 |
+| [Öldürme Beni](https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Öldürme Beni](https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0) | 4:57 | 2026-01-16 |  |
 | [Ölebilirim](https://open.spotify.com/track/4mWTUFTTyp8u7Dq2yDJ6IL) | [Bora Duran](https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI) | [Ölebilirim](https://open.spotify.com/album/25HlWpBWmgR0aVpgYDMyYw) | 3:17 | 2025-06-05 | 2025-06-13 |
 | [ÖLEBİLİRİM](https://open.spotify.com/track/0laGInMWhmNMeegLyvPGJv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [ÖLEBİLİRİM](https://open.spotify.com/album/6ZCMo546GVlHvwaN87DAUN) | 3:15 | 2025-11-20 | 2025-11-28 |
 | [ölmek için zaman yok](https://open.spotify.com/track/6AqNG6Vjei0cyq86ingSTc) | [The Nova](https://open.spotify.com/artist/4UDP9ZOfvXvjwg8GslPUFy), [Colt NS](https://open.spotify.com/artist/5LwtZHjbGBwDx83IwoV2fI) | [ölmek için zaman yok](https://open.spotify.com/album/1R8GGqPVgZ5EWL5n6D0cvD) | 2:13 | 2025-04-17 | 2025-04-25 |

@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Echoes of a Romantic Soul",
+        "url": "https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klemens Klein",
+          "url": "https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323221,
+      "name": "Piano Trio in G Minor, Op. 17: Scherzo. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/4KbP3O4rK6gSUOS8q55r6c"
+    },
+    {
+      "album": {
         "name": "Original Classics, Vol. 422: Clara Schumann, Piano Dreams",
         "url": "https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW"
       },

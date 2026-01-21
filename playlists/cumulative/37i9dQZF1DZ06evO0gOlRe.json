@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Friends Don't",
+      "url": "https://open.spotify.com/track/20sPaSqU2nGEUqEz0OkwyT"
+    },
+    {
+      "album": {
         "name": "Friends Don\u2019t",
         "url": "https://open.spotify.com/album/13ccJsUECBGoRAm2xdTvuC"
       },
@@ -634,7 +656,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 204266,
       "name": "Friends Don't",
       "url": "https://open.spotify.com/track/2N970NvTMrHQ1iqN4Aot8k"
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 144973,
       "name": "Not Ready Yet",
       "url": "https://open.spotify.com/track/5UYvsw1P7codQIsxOjlpDM"

@@ -101059,6 +101059,24 @@
     },
     {
       "album": {
+        "name": "\u00d6ld\u00fcrme Beni",
+        "url": "https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297994,
+      "name": "\u00d6ld\u00fcrme Beni",
+      "url": "https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN"
+    },
+    {
+      "album": {
         "name": "\u00d6lebilirim",
         "url": "https://open.spotify.com/album/25HlWpBWmgR0aVpgYDMyYw"
       },

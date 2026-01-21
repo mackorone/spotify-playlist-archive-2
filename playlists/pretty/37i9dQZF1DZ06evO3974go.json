@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20777,
+  "num_followers": 20778,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAADBv7sEwdvL5+ILV73QUWjA",
+  "snapshot_id": "aW10AAAAAACXcGAsjSbrohvbJ/sKcnQJ",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Young OG Project",
-        "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
-      },
-      "artists": [
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "We Good",
-      "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Cry",
         "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 192773,
       "name": "Celebrate (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Young OG Project",
+        "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "We Good",
+      "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
     },
     {
       "added_at": null,

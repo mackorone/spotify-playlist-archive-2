@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93762,
+  "num_followers": 93759,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "All These Years",
-        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 228482,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+      "duration_ms": 190584,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Forevers",
-        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 229770,
-      "name": "Inner City Ghosts",
-      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Margaretas s\u00e5ng",
         "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
@@ -451,8 +435,24 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 229770,
+      "name": "Inner City Ghosts",
+      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "All These Years",
+        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 190584,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
+      "duration_ms": 228482,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 236794,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Skebokvarnsv. 209 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
       "artists": [
         {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 213115,
-      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
-      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
+        "name": "Skebokvarnsv. 209 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
+      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "When Lights Go Down",
-      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Sweethearts",
         "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 283480,
       "name": "Sweethearts",
       "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/6nwnSLk7ue6UM1UIc5KXAz"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "When Lights Go Down",
+      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Don\u2019t Look Back In Anger",
         "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 222785,
       "name": "Don't Look Back in Anger",
       "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Andra landskap 50",
-        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
+        "name": "Innan kronan blir f\u00f6r tung",
+        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
       },
       "artists": [
         {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
         }
       ],
-      "duration_ms": 295520,
-      "name": "\u00d6stra Svealand (2025)",
-      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+      "duration_ms": 233726,
+      "name": "Djungeltelegrafen",
+      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1095,34 +1095,18 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Innan kronan blir f\u00f6r tung",
-        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+        "name": "Andra landskap 50",
+        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
       },
       "artists": [
         {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
         }
       ],
-      "duration_ms": 233726,
-      "name": "Djungeltelegrafen",
-      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Country Enough",
-      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
+      "duration_ms": 295520,
+      "name": "\u00d6stra Svealand (2025)",
+      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1139,6 +1123,22 @@
       "duration_ms": 193142,
       "name": "Liquid Courage",
       "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6hFvQaW5C5tc2HmmEq1DqA"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Country Enough",
+      "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Vinterdvala",
-        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 209118,
-      "name": "Vinterdvala",
-      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Roll With The Punches",
         "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 238546,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Vinterdvala",
+        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 209118,
+      "name": "Vinterdvala",
+      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Andetag (Man m\u00e5ste leva nu)",
         "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 215546,
       "name": "Andetag (Man m\u00e5ste leva nu)",
       "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
         "name": "Tracks II: The Lost Albums",
         "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 316125,
       "name": "Love Is Everywhere",
       "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
-      },
-      "artists": [
-        {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2026-01-15 23:00:40",

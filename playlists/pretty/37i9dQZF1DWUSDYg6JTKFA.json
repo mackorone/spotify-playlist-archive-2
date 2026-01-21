@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211297,
+  "num_followers": 211322,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Just Like Jesus",
-        "url": "https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG"
-      },
-      "artists": [
-        {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Just Like Jesus",
-      "url": "https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Even On The Worst Days",
         "url": "https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve"
       },
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Still Standing",
-        "url": "https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg"
+        "name": "Just Like Jesus",
+        "url": "https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG"
       },
       "artists": [
         {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        },
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
         }
       ],
-      "duration_ms": 203375,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei"
+      "duration_ms": 234986,
+      "name": "Just Like Jesus",
+      "url": "https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1539,6 +1519,26 @@
       "duration_ms": 162752,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/6x22fHMDW1WFnLjLluOcnU"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 203375,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei"
     },
     {
       "added_at": "2025-12-13 23:46:05",

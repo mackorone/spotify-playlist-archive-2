@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85891,
+  "num_followers": 85896,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAAAPd0dg0i2WfwI07IsDDZ+g",
+  "snapshot_id": "aW10AAAAAADbVSalPy785AWzk7KbwOPh",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caricias del Cielo",
         "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 251666,
       "name": "Esta vez",
       "url": "https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+      "duration_ms": 214000,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
+      "duration_ms": 165000,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
     },
     {
       "added_at": null,

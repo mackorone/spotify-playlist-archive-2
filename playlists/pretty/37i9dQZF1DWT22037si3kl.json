@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148471,
+  "num_followers": 148476,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -419,30 +419,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "A Cara do Enquadro",
-        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Dj KLJay",
-          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
-        }
-      ],
-      "duration_ms": 177830,
-      "name": "Maldito Papel",
-      "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "A Cara do Enquadro",
+        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        }
+      ],
+      "duration_ms": 177830,
+      "name": "Maldito Papel",
+      "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
     },
     {
       "added_at": "2026-01-09 03:01:26",

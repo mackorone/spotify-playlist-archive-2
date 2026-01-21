@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,196 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,170 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 48 | [Beautiful Savior](https://open.spotify.com/track/6hYbcuRkynCObesJ2q4NIv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [Beautiful Savior](https://open.spotify.com/album/36YT5z12Tkm7OMpknzhEfX) | 3:43 |
 | 49 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 |
 | 50 | [Behold Him](https://open.spotify.com/track/2MChV6oQqW209U2i0CFjIO) | [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet) | [Behold Him](https://open.spotify.com/album/19qbeTrzKvrsI2LJllXqzX) | 5:03 |
-| 51 | [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/track/7aGxy8qDrcLQoIdLHa6Uq8) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/album/0wIwPCv83L6SdEvsn3fg0U) | 2:34 |
-| 52 | [Come Adore The Humble King](https://open.spotify.com/track/5JOINq9OjzQuJLHfVC6eJx) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa](https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3) | 5:41 |
+| 51 | [Come Adore The Humble King](https://open.spotify.com/track/5JOINq9OjzQuJLHfVC6eJx) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa](https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3) | 5:41 |
+| 52 | [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/track/7aGxy8qDrcLQoIdLHa6Uq8) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [O Come Let Us Adore Him/The Blessing](https://open.spotify.com/album/0wIwPCv83L6SdEvsn3fg0U) | 2:34 |
 | 53 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 |
 | 54 | [UNEXPECTED KING](https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [UNEXPECTED KING](https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME) | 3:41 |
 | 55 | [O Holy Night](https://open.spotify.com/track/7F5eSyBCyniIBQOmTymyVc) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [The Getty Girls](https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a) | [O Holy Night](https://open.spotify.com/album/3RGDDeaNcT3i6KFBI2mZg7) | 4:54 |

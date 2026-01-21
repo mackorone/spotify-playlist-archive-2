@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 69779,
+  "num_followers": 69793,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
       "artists": [
         {
           "name": "Pato Shoucair",
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Corrupted",
-      "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1399,26 +1403,6 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
-    },
-    {
-      "added_at": "2026-01-16 06:00:21",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -1435,6 +1419,26 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2026-01-16 06:00:21",
+      "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": "2026-01-16 06:00:21",
@@ -1827,22 +1831,22 @@
     {
       "added_at": "2026-01-16 06:00:21",
       "album": {
-        "name": "Living on Video (The Wookies Remix)",
-        "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
+        "name": "SUSTANCIAS",
+        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
       },
       "artists": [
         {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
         },
         {
-          "name": "Trans-X",
-          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
         }
       ],
-      "duration_ms": 338181,
-      "name": "Living on Video - The Wookies Remix",
-      "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
+      "duration_ms": 228923,
+      "name": "SUSTANCIAS",
+      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
     }
   ],
   "unique_name": "electro mx ",

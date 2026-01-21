@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-608 songs - 1 day 10 hr 45 min
+609 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Summer Girl](https://open.spotify.com/track/1YsFy6IbkzjJTKtFm7U0uA) | [HARIX](https://open.spotify.com/artist/0QfMaP5vyOlUIsqvRhLOOG) | [Summer Girl](https://open.spotify.com/album/4fqdz5PhrYqVdsmCCQiF5U) | 2:26 | 2025-03-26 | 2025-09-07 |
 | [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 | 2024-11-05 | 2025-03-26 |
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
+| [Sword of Betrayal](https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz) | [M S Vikram](https://open.spotify.com/artist/1P5xT9GQiGoLq3ImHOP2QZ) | [Sword of Betrayal](https://open.spotify.com/album/0sOSMoUxmpFLvnkG8DjN6H) | 1:51 | 2026-01-20 |  |
 | [Taare Bindigeya](https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Taare Bindigeya](https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL) | 5:06 | 2025-10-15 |  |
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
 | [Tandanaa](https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Tandanaa](https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6) | 2:32 | 2025-04-23 | 2025-10-14 |
@@ -600,7 +601,7 @@
 | [Yaakaluve Ele Ranga \- Kannada Lullaby](https://open.spotify.com/track/3XQY6eT4hZebumFg9s3iT8) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Yaakaluve Ele Ranga \- Kannada Lullaby](https://open.spotify.com/album/4yyJEKXPWUnNSLmJQzKSwk) | 4:45 | 2025-12-02 |  |
 | [Yaake](https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Yaake](https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f) | 2:43 | 2023-05-25 | 2023-06-08 |
 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 | 2022-10-25 | 2024-02-01 |
-| [Yaakinga Ee Preethi](https://open.spotify.com/track/5hNOFPW05wDf0CXvxF9ZGt) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Yaakinga Ee Preethi](https://open.spotify.com/album/2aieTBJY4ZRunLhlHi671t) | 4:16 | 2025-07-22 |  |
+| [Yaakinga Ee Preethi](https://open.spotify.com/track/5hNOFPW05wDf0CXvxF9ZGt) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Yaakinga Ee Preethi](https://open.spotify.com/album/2aieTBJY4ZRunLhlHi671t) | 4:16 | 2025-07-22 | 2026-01-21 |
 | [Yaare Nee](https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yaare Nee](https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8) | 3:03 | 2024-06-28 | 2025-01-25 |
 | [Yaaro Neenyaaro](https://open.spotify.com/track/3lXpkJdsMcNUEDMNZdT4By) | [Keerthana Chandru](https://open.spotify.com/artist/4cSbty2ketEhsSrDHO4Txr), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [Yaaro Neenyaaro](https://open.spotify.com/album/7esoBgXho81ZK9U6OMnvxP) | 5:07 | 2024-09-18 | 2025-03-12 |
 | [Yako Summane](https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF) | 3:31 | 2023-05-02 | 2024-02-09 |

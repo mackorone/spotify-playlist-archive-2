@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Slings e Lubi, Dargen D'Amico e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,517 likes - 101 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,523 likes - 101 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [1H](https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:20 |
+| 1 | [AMEN](https://open.spotify.com/track/5TD5NrlLNa3aVDH46DUhMD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb) | 2:41 |
 | 2 | [SMS \(feat\. Lubi\)](https://open.spotify.com/track/1myr6mtSSV4nTt6vul8Qyt) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [SMS \(feat\. Lubi\)](https://open.spotify.com/album/6po8QCI17lz1u8M5NeY9SC) | 3:44 |
 | 3 | [Spendin \(feat\. Marracash\)](https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:42 |
 | 4 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 |
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 10 | [UN RICCO E UN POVERO](https://open.spotify.com/track/2fqbBzhl01hcq6JRYoIo11) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:16 |
 | 11 | [In Eterno \(feat\. Davìdd & Abby 6ix\)](https://open.spotify.com/track/7tR388pXDiAPeupBaHRu4C) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO), [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [In Eterno \(feat\. Davìdd & Abby 6ix\)](https://open.spotify.com/album/1EWnh9scXv0GXixkps3tWA) | 2:57 |
 | 12 | [MY BAD \(feat\. Over Lapa\)](https://open.spotify.com/track/3GkepKgluC0L7rW1ufxFkZ) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [LA TRAP NON MUORE MAI](https://open.spotify.com/album/5pUC1EVHuM0SDc3dB5bOQK) | 2:45 |
-| 13 | [COMUNQUE](https://open.spotify.com/track/65TtmO5uyoFyeE854Ety62) | [Mode Vsm](https://open.spotify.com/artist/3UNgv46aoBnXKSnazSNlHi) | [COMUNQUE](https://open.spotify.com/album/6FBITVvcoVJlWfJczs3Ysm) | 1:41 |
-| 14 | [CambiareX2](https://open.spotify.com/track/4nVcnJkJxd3zBRs2OQaYwi) | [Ishwar](https://open.spotify.com/artist/1K9hTYLU8RMWmBGIzuhN91) | [CambiareX2](https://open.spotify.com/album/1oNkotD0XTcaKA33YigUlw) | 2:31 |
-| 15 | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 |
+| 13 | [1H](https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:20 |
+| 14 | [COMUNQUE](https://open.spotify.com/track/65TtmO5uyoFyeE854Ety62) | [Mode Vsm](https://open.spotify.com/artist/3UNgv46aoBnXKSnazSNlHi) | [COMUNQUE](https://open.spotify.com/album/6FBITVvcoVJlWfJczs3Ysm) | 1:41 |
+| 15 | [CambiareX2](https://open.spotify.com/track/4nVcnJkJxd3zBRs2OQaYwi) | [Ishwar](https://open.spotify.com/artist/1K9hTYLU8RMWmBGIzuhN91) | [CambiareX2](https://open.spotify.com/album/1oNkotD0XTcaKA33YigUlw) | 2:31 |
 | 16 | [Loquito \(with Celine G\)](https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Celine G](https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 |
 | 17 | [Chicchi di caffè](https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:08 |
 | 18 | [Sogni Diventano Incubi](https://open.spotify.com/track/0HLrzfagUoPKEdKpN536H9) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Milano Docet](https://open.spotify.com/album/0fcpty63ePPqtCKKD9CP17) | 3:37 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 100 | [Muri](https://open.spotify.com/track/4kEyvhQrywEW1gTJJaM4yk) | [Stamina](https://open.spotify.com/artist/1MhcII83xPgBuM1Ej96YNq) | [Muri](https://open.spotify.com/album/50Zymj1ZFLnfdvUNdjt0so) | 2:53 |
 | 101 | [Bibidi Bobidi](https://open.spotify.com/track/7drLmSSHE06m6Zn4ttzFY3) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Bibidi Bobidi](https://open.spotify.com/album/7L30VqXoyzLIFZoQQIFEv2) | 2:19 |
 
-Snapshot ID: `AAAAANdFASUdg6OOdDtLu21sbjX6GOc7`
+Snapshot ID: `AAAAAAu4gASSb0mKoNvmE53O3heFWa6T`

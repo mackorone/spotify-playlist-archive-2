@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70207,
+  "num_followers": 70214,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAABqRwCcedJg1yLbK+vGRRHi",
+  "snapshot_id": "aW10AAAAAABrQoX4HKskXQo+hdRu1we7",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta El Alma",
+        "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Sin Haber Dormido",
+      "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta El Alma",
-        "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Sin Haber Dormido",
-      "url": "https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe qu\u00e9 vamos a hablar?",
-        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 185690,
-      "name": "\u00bfDe qu\u00e9 vamos a hablar?",
-      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 263640,
       "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
       "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfDe qu\u00e9 vamos a hablar?",
+        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 185690,
+      "name": "\u00bfDe qu\u00e9 vamos a hablar?",
+      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
     },
     {
       "added_at": null,

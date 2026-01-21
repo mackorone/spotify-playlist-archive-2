@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "1/1",
+        "url": "https://open.spotify.com/album/3pO7f6ljs1eTr3PrgwyAQu"
+      },
+      "artists": [
+        {
+          "name": "TRAPPSTARS TS",
+          "url": "https://open.spotify.com/artist/43cWxMn47HxNLmfP53TyWb"
+        },
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140587,
+      "name": "1/1",
+      "url": "https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo"
+    },
+    {
+      "album": {
         "name": "100 Bands",
         "url": "https://open.spotify.com/album/5uwP0s0S5drvKpEWfyTJ4b"
       },
@@ -18432,7 +18454,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -18498,7 +18520,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 397891,
       "name": "La Chiflera Que Palomo!",
       "url": "https://open.spotify.com/track/1EfhtGf72X5MYFpWgqIqXP"
@@ -21940,7 +21962,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 215064,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/5YVtFzNdgSOlryYtUMauM4"
@@ -36112,7 +36134,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 126105,
       "name": "SINSENTI",
       "url": "https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8"
@@ -41412,7 +41434,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 176308,
       "name": "Velocidad",
       "url": "https://open.spotify.com/track/6CdEtriPufwesYiBXoprfI"

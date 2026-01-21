@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Jan 23:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Jan 23:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -19449,6 +19449,24 @@
     },
     {
       "album": {
+        "name": "CHUN",
+        "url": "https://open.spotify.com/album/1VZTWg5Vge2ygWF1XUprHd"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217369,
+      "name": "CHUN",
+      "url": "https://open.spotify.com/track/63ZGU8u73OX0sjZwG0pNAw"
+    },
+    {
+      "album": {
         "name": "ciao",
         "url": "https://open.spotify.com/album/0fXodHNdiz7Q4gxeifQFcw"
       },
@@ -24606,6 +24624,24 @@
       "duration_ms": 281142,
       "name": "Dead Bodies",
       "url": "https://open.spotify.com/track/3kxlRhgKftSWfswDoNYUFr"
+    },
+    {
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
     },
     {
       "album": {
@@ -75130,7 +75166,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 128000,
       "name": "Party4u!",
       "url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
@@ -78098,6 +78134,24 @@
       "duration_ms": 186727,
       "name": "Pray To That",
       "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
     },
     {
       "album": {
@@ -99478,7 +99532,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 281988,
       "name": "The Old Law",
       "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
@@ -104334,7 +104388,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 186089,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF"

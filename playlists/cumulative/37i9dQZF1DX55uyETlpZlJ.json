@@ -11697,6 +11697,24 @@
     },
     {
       "album": {
+        "name": "Sword of Betrayal",
+        "url": "https://open.spotify.com/album/0sOSMoUxmpFLvnkG8DjN6H"
+      },
+      "artists": [
+        {
+          "name": "M S Vikram",
+          "url": "https://open.spotify.com/artist/1P5xT9GQiGoLq3ImHOP2QZ"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111432,
+      "name": "Sword of Betrayal",
+      "url": "https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz"
+    },
+    {
+      "album": {
         "name": "Taare Bindigeya",
         "url": "https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL"
       },
@@ -12568,7 +12586,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 256250,
       "name": "Yaakinga Ee Preethi",
       "url": "https://open.spotify.com/track/5hNOFPW05wDf0CXvxF9ZGt"

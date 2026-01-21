@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Dynamic Duo\(다이나믹 듀오\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,177 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,136 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 71 | [Secret](https://open.spotify.com/track/1jhu4DIgzxXzULoUWrGXAa) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv) | 2:12 |
 | 72 | [ROUGH PATCH](https://open.spotify.com/track/7lBwDlQdO4LM2uKGOIPQ1f) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SEIN](https://open.spotify.com/artist/5lFfUYKyl9GIFe3dmrc0eg), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [@whereissein](https://open.spotify.com/album/0Hl1JmHKfrerIT1v87HDbs) | 3:40 |
 | 73 | [Friend \(feat\. DEAN\)](https://open.spotify.com/track/6XMcXLuIjssYamdsep7itb) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [LIT](https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi) | 3:22 |
-| 74 | [Windows \(Feat\. pH\-1, Hoody, Jambino\)](https://open.spotify.com/track/4LCNhbhOlXvR5P8tH6dSr4) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K) | [MAGIC STATION 1](https://open.spotify.com/album/2dxvaQ3N7QBu51mnaLrV0Y) | 3:03 |
+| 74 | [Windows \(Feat\. pH\-1, Hoody, Jambino\)](https://open.spotify.com/track/4LCNhbhOlXvR5P8tH6dSr4) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [ jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K) | [MAGIC STATION 1](https://open.spotify.com/album/2dxvaQ3N7QBu51mnaLrV0Y) | 3:03 |
 | 75 | [Yellin' \(feat\. Kid Milli\)](https://open.spotify.com/track/0deGjHATm7Hc1oJwqii1l3) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [CLUTCH](https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM) | 1:53 |
 | 76 | [26](https://open.spotify.com/track/2eS89Cssm8OvWX9yRHgdug) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv) | 2:56 |
 | 77 | [KrOWN\_Simon Dominic](https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |

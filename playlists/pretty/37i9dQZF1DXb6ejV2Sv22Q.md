@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  EMJAY en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,826 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,830 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 28 | [Manos de Piedra \- Revisitada](https://open.spotify.com/track/2HLEsV5PW4nP7L6yNdoLqF) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Manos de Piedra \(Revisitada\)](https://open.spotify.com/album/1NqEDV8IDs1e3Ywl8Qsl8o) | 5:42 |
 | 29 | [Y Qué Hueva Me Da](https://open.spotify.com/track/1stmHuuFFDhqJmOPrbXsVC) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [ZERO](https://open.spotify.com/album/5F4nqGoeBHiduPkExqadBd) | 3:06 |
 | 30 | [Hey](https://open.spotify.com/track/5EbhWdGpMSUxF9al1r63Bp) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Hey](https://open.spotify.com/album/5UPwvzS5dNec8FjkOpehPC) | 4:12 |
-| 31 | [Jaquemate](https://open.spotify.com/track/3SJY09C3rdl9RNS2TxIHpB) | [Rubaa](https://open.spotify.com/artist/0xsTJjdmYsynV98w3chUj6) | [Jaquemate](https://open.spotify.com/album/6U7AikeebdY7HSm7G7M0Tg) | 2:30 |
+| 31 | [Jaquemate](https://open.spotify.com/track/3SJY09C3rdl9RNS2TxIHpB) | [RUBAA](https://open.spotify.com/artist/0xsTJjdmYsynV98w3chUj6) | [Jaquemate](https://open.spotify.com/album/6U7AikeebdY7HSm7G7M0Tg) | 2:30 |
 | 32 | [No me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [No me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
 | 33 | [q vas a apostar???](https://open.spotify.com/track/5Vajmakj5oaeEpWE03nacP) | [Reynold](https://open.spotify.com/artist/2JC1P32DYeRL76cJbgMZAS) | [q vas a apostar???](https://open.spotify.com/album/7BijzgIDOenp3XwMpsVXfK) | 3:05 |
 | 34 | [rorro pirrorro](https://open.spotify.com/track/4t0sdZoKGwFVfES0uZp53A) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Dack!](https://open.spotify.com/artist/5Ih0Czzc2QLN6ug98ROcEG) | [\#YOLO](https://open.spotify.com/album/2MroBCxP2Bt4mITDl6RuZx) | 1:14 |

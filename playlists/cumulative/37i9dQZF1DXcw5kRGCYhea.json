@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 172826,
       "name": "BOUHALI",
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
@@ -1445,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "34",
+        "url": "https://open.spotify.com/album/67jDpqg46Rv9gMvVQOj1Ni"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "De quoi",
+      "url": "https://open.spotify.com/track/6q5NIbriDuG8MX9udQIbYq"
+    },
+    {
+      "album": {
         "name": "DELLALI (feat. Hamza)",
         "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 182053,
       "name": "DELLALI (feat. Hamza)",
       "url": "https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E"
@@ -1606,6 +1628,24 @@
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
+    },
+    {
+      "album": {
+        "name": "Dorororo",
+        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Dorororo",
+      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
       "album": {
@@ -4116,7 +4156,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 179368,
       "name": "NGHAMER",
       "url": "https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd"
@@ -4396,6 +4436,28 @@
       "duration_ms": 134000,
       "name": "Otra",
       "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
+    },
+    {
+      "album": {
+        "name": "Half Clip",
+        "url": "https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167011,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV"
     },
     {
       "album": {
@@ -5908,7 +5970,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 139420,
       "name": "Totopika",
       "url": "https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj"

@@ -5001,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "Girl is Ghost",
+        "url": "https://open.spotify.com/album/3m2I3s632iNZ9MCNsV8XqY"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "Girl is Ghost",
+      "url": "https://open.spotify.com/track/3CQwhgnsmfK0dMykOKBqoh"
+    },
+    {
+      "album": {
         "name": "GO!!!(20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/3XMc4oQZGmdkKRznV1TTMf"
       },
@@ -10150,7 +10168,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 190131,
       "name": "Peach Pit and Cyanide",
       "url": "https://open.spotify.com/track/2Zd0JQ3LDmUV3oDUHyRtWL"
@@ -11435,6 +11453,24 @@
     },
     {
       "album": {
+        "name": "SAIKAI",
+        "url": "https://open.spotify.com/album/2RKi8T2aaDNqLUGBccG3N3"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323946,
+      "name": "SAIKAI",
+      "url": "https://open.spotify.com/track/1TmMyrEWgX3WILJsOD0IBp"
+    },
+    {
+      "album": {
         "name": "Saturday Night Survival Flag",
         "url": "https://open.spotify.com/album/2g9TTfuJX8QFuFj1FQjyf4"
       },
@@ -12697,6 +12733,28 @@
     },
     {
       "album": {
+        "name": "Speak of the Devil",
+        "url": "https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        },
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Speak of the Devil",
+      "url": "https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0"
+    },
+    {
+      "album": {
         "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
         "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
       },
@@ -12954,6 +13012,24 @@
       "duration_ms": 212173,
       "name": "STAND!",
       "url": "https://open.spotify.com/track/7hp87JcODkGYqkhIi6hiBR"
+    },
+    {
+      "album": {
+        "name": "star flower",
+        "url": "https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185246,
+      "name": "star flower",
+      "url": "https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs"
     },
     {
       "album": {
@@ -13814,7 +13890,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 161632,
       "name": "that's all i can do",
       "url": "https://open.spotify.com/track/7twaSJLZIx4k1kjzDhohjm"
@@ -16572,7 +16648,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 224120,
       "name": "Zetsubou Billy",
       "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
@@ -17914,7 +17990,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 232866,
       "name": "\u306f\u307f\u3060\u3057\u5fa1\u514d",
       "url": "https://open.spotify.com/track/0pyRSsGfoVk18IwrmkWmDm"
@@ -18322,6 +18398,24 @@
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30b6\u30ec\u30a2\u306e\u98a8",
+        "url": "https://open.spotify.com/album/4Y4MlrPBLWUfWyVXMIPCzy"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "\u30a2\u30b6\u30ec\u30a2\u306e\u98a8",
+      "url": "https://open.spotify.com/track/5YZ37RSEf6oOjUjVBKPj3Q"
     },
     {
       "album": {
@@ -20102,7 +20196,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 220199,
       "name": "\u30cf\u30af",
       "url": "https://open.spotify.com/track/6rcu3zzJEHEZaiCnGHI1pR"

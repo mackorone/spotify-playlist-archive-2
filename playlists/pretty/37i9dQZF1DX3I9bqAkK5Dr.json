@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : AsurA",
-  "num_followers": 43159,
+  "num_followers": 43167,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALe+3FzjZln/jhAuR40qdWYrX7Ch",
+  "snapshot_id": "AAAAAAnWYaAaLoz2x0gsqEA964+Z+BIy",
   "tracks": [
     {
       "added_at": "2026-01-15 07:26:02",
@@ -63,6 +63,22 @@
       "duration_ms": 208000,
       "name": "Smitas Bhimavaram Beat",
       "url": "https://open.spotify.com/track/7mXzY17QD7sHky5hi5p1OZ"
+    },
+    {
+      "added_at": "2026-01-20 05:55:26",
+      "album": {
+        "name": "Sankranthi Pandaga",
+        "url": "https://open.spotify.com/album/3jVoOQlKYgumXupusYvi6p"
+      },
+      "artists": [
+        {
+          "name": "M3 sai",
+          "url": "https://open.spotify.com/artist/6XZcFI5DpzxjKDIV2tJtgi"
+        }
+      ],
+      "duration_ms": 240538,
+      "name": "Sankranthi Pandaga",
+      "url": "https://open.spotify.com/track/6Y1J251mtyh4o8LzSiW8D0"
     },
     {
       "added_at": "2026-01-05 05:30:29",
@@ -407,26 +423,6 @@
       "duration_ms": 297333,
       "name": "Aadibidda Relare Ganga Rakhi Paata",
       "url": "https://open.spotify.com/track/4OPesnbEqbRyHHrshtlGYm"
-    },
-    {
-      "added_at": "2024-12-13 06:44:46",
-      "album": {
-        "name": "Hi Laila",
-        "url": "https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m"
-      },
-      "artists": [
-        {
-          "name": "The Fantasia Men",
-          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Hi Laila",
-      "url": "https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu"
     },
     {
       "added_at": "2025-09-26 05:41:26",

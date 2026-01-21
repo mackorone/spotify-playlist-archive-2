@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 180431,
+  "num_followers": 180588,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aWwigAAAAACCW8sXwgvXfKgMQqbg37Oo",
+  "snapshot_id": "aW10AAAAAAC89EaAvC+80HzksUbHGfdc",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 161975,
+      "name": "UPS & DOWNS",
+      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 180000,
       "name": "NO LONGER BOUND",
       "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 161975,
-      "name": "UPS & DOWNS",
-      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
     },
     {
       "added_at": null,

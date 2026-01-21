@@ -6,8 +6,112 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGbJOMiQkqLuHEhCg0En2jdVpBiJGA",
+  "snapshot_id": "AAAGfGIhte2k8ZJsTPyYmHNNK7kRvs0u",
   "tracks": [
+    {
+      "added_at": "2026-01-20 08:03:10",
+      "album": {
+        "name": "\u30e1\u30a4\u30d3\u30fc\u30de\u30b8\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2yws5VSBsrtjVxZvWERG8K"
+      },
+      "artists": [
+        {
+          "name": "\u305d\u308a\u3063\u3069\u3073\u30fc\u3064",
+          "url": "https://open.spotify.com/artist/76IWUnp1D3oRp4eexCzE7x"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 268897,
+      "name": "\u30e1\u30a4\u30d3\u30fc\u30de\u30b8\u30c3\u30af (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/48TDLljZSKgPHAS7QP3Qx0"
+    },
+    {
+      "added_at": "2026-01-20 08:03:23",
+      "album": {
+        "name": "\u8eab\u8fd1",
+        "url": "https://open.spotify.com/album/17hu3t7PpTODji7mo9KOId"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u3080\u308a",
+          "url": "https://open.spotify.com/artist/1mggtA8Vqg2mlE2bNmNkp2"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "\u30a8\u30f3\u30c9\u30ea\u30f3\u30fb\u306f\u3068 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/62lEaULuPKET8cPUp4sMSN"
+    },
+    {
+      "added_at": "2026-01-20 08:03:37",
+      "album": {
+        "name": "Mikunologie X",
+        "url": "https://open.spotify.com/album/7dsOvaoRKr0OCduAqNffDb"
+      },
+      "artists": [
+        {
+          "name": "X-Plorez",
+          "url": "https://open.spotify.com/artist/4m5tPy3hd5ENV7yRlQ6yj3"
+        }
+      ],
+      "duration_ms": 268153,
+      "name": "Mikunologie X",
+      "url": "https://open.spotify.com/track/0JXdkDV4sbFq4Y70DRDgS3"
+    },
+    {
+      "added_at": "2026-01-20 08:03:51",
+      "album": {
+        "name": "\u534a\u719f",
+        "url": "https://open.spotify.com/album/3LRhTz3aaOXIICdNdtDYbe"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30ae\u30a4\u30e9\u30aa",
+          "url": "https://open.spotify.com/artist/6X0bxrwNTJYc81GamRP90K"
+        },
+        {
+          "name": "\u77e5\u58f0",
+          "url": "https://open.spotify.com/artist/4Xg07Ovs0WsW49gfKrbhTs"
+        }
+      ],
+      "duration_ms": 133337,
+      "name": "\u534a\u719f (feat. \u77e5\u58f0)",
+      "url": "https://open.spotify.com/track/0t4Xdz4tFHEQlDC95gQmEP"
+    },
+    {
+      "added_at": "2026-01-20 08:04:02",
+      "album": {
+        "name": "\u3042\u3057\u305f\u5929\u6c17\u306b\u306a\u3042\u308c\uff01",
+        "url": "https://open.spotify.com/album/2KVIs0iS2IWBkzk4azTPz6"
+      },
+      "artists": [
+        {
+          "name": "Buriru",
+          "url": "https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv"
+        },
+        {
+          "name": "\u590f\u8272\u82b1\u68a8",
+          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
+        },
+        {
+          "name": "\u5c0f\u6625\u516d\u82b1",
+          "url": "https://open.spotify.com/artist/7rE0Qc348DdkkLCV81rNce"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "\u3042\u3057\u305f\u5929\u6c17\u306b\u306a\u3042\u308c\uff01 (feat. \u590f\u8272\u82b1\u68a8&\u5c0f\u6625\u516d\u82b1&\u82b1\u9688\u5343\u51ac)",
+      "url": "https://open.spotify.com/track/3FxwiwXHR50LvNDKlhcWii"
+    },
     {
       "added_at": "2026-01-06 07:57:01",
       "album": {
@@ -699,114 +803,6 @@
       "duration_ms": 143555,
       "name": "\u307e\u305f\u904a\u3093\u3067\u306d (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/0PtF9GLITTVkHIxMt3nG4x"
-    },
-    {
-      "added_at": "2025-10-21 08:34:29",
-      "album": {
-        "name": "Entanglement",
-        "url": "https://open.spotify.com/album/5MqzOdb6Fl00Kwur16y3u8"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u702c\u308b\u307d",
-          "url": "https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        }
-      ],
-      "duration_ms": 213636,
-      "name": "Entanglement (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/1C1aAXAdUjdAcHG0rukSSP"
-    },
-    {
-      "added_at": "2025-10-21 08:34:41",
-      "album": {
-        "name": "iceQuarium -Heaven-",
-        "url": "https://open.spotify.com/album/1BTGicQgGavWzdvDKB98m5"
-      },
-      "artists": [
-        {
-          "name": "irucaice",
-          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "\u84bc\u5929\u306e\u30d7\u30ea\u30ba\u30e0\u30af\u30e9\u30a6\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4v3Lr0at3ufIsxYoakP85a"
-    },
-    {
-      "added_at": "2025-10-21 08:34:53",
-      "album": {
-        "name": "\u30e4\u30df\u3064\u304d\u8d64\u63d0\u706f",
-        "url": "https://open.spotify.com/album/717b8J2ozakDMtaN8asOsr"
-      },
-      "artists": [
-        {
-          "name": "\u6696\u7089P",
-          "url": "https://open.spotify.com/artist/2LpZ1nVkrCGiUu7WCRl7C0"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 121125,
-      "name": "\u30e4\u30df\u3064\u304d\u8d64\u63d0\u706f (feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3\u3001MEIKO)",
-      "url": "https://open.spotify.com/track/50Aw1gvHbmYfkdnNDDTVD3"
-    },
-    {
-      "added_at": "2025-10-21 08:35:04",
-      "album": {
-        "name": "we search EP",
-        "url": "https://open.spotify.com/album/5ijNxB9H1RbEV42sH3mxdR"
-      },
-      "artists": [
-        {
-          "name": "Adomiori",
-          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 147954,
-      "name": "we search (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4xXd275DCUKa0UVLQWJ1x7"
-    },
-    {
-      "added_at": "2025-10-21 08:35:16",
-      "album": {
-        "name": "BE4OND",
-        "url": "https://open.spotify.com/album/5DUTRexh0gJKEtzMvbP78i"
-      },
-      "artists": [
-        {
-          "name": "takamatt",
-          "url": "https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Stop the Gossip",
-      "url": "https://open.spotify.com/track/3Ex0UsWhYia4StXtx6fK9Y"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

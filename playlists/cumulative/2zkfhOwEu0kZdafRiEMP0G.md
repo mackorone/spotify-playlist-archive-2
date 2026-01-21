@@ -4,7 +4,7 @@
 
 > 
 
-71 songs - 4 hr 55 min
+73 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-13 |  |
 | [Evil Angel](https://open.spotify.com/track/6HDBZFpozQsnYZ88ic250y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:40 | 2025-07-13 |  |
 | [Fish and Chips](https://open.spotify.com/track/1qKkiLxCfNwOLeQ5XS1rHA) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Leo P](https://open.spotify.com/artist/12lHwk1GMNxnZF6pUMC4Sc) | [Go Time: Brooklyn 2](https://open.spotify.com/album/2JXQkc6uFrKMek2Uly0Ma3) | 5:39 | 2025-11-23 | 2025-12-28 |
+| [For Forever](https://open.spotify.com/track/0ZWW07BD8W85lUbgx2sn7E) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 5:01 | 2026-01-20 |  |
 | [For Her](https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 3:56 | 2025-10-17 |  |
 | [Frequency](https://open.spotify.com/track/7hVFEyGBDsuejQuj9gUeZI) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 4:41 | 2025-08-11 |  |
 | [Fuck Tha Police](https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:45 | 2025-07-25 | 2025-10-23 |
@@ -45,6 +46,7 @@
 | [Master and Apprentice](https://open.spotify.com/track/1fUfmJmdubIkIBn2yIctbi) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Master and Apprentice](https://open.spotify.com/album/686otqGNkQF90lL7Ok3GGQ) | 2:13 | 2025-11-05 |  |
 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 | 2025-07-13 |  |
 | [My Girl \- Acappella](https://open.spotify.com/track/528QpBptHqhPL3WbKUUkhW) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [My Girl \(Acappella\)](https://open.spotify.com/album/5GrRAQdh7ttyanhJuDCrcz) | 2:56 | 2025-06-29 |  |
+| [My Green Light](https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 4:52 | 2026-01-20 |  |
 | [NOBODY](https://open.spotify.com/track/65nvBvHi9EzhXbH1optmcF) | [John michel](https://open.spotify.com/artist/7KIaXj7EsyuuYGH0z2v36h), [Anthony James](https://open.spotify.com/artist/6PWEwhnCN7vzNi9VpXFSUp), [Yung Senju](https://open.spotify.com/artist/7D5OcHOXl3X6oiQ01RC1TJ), [Kennadi Rose](https://open.spotify.com/artist/6QO2jPE4APKFTn9oeUXHD4) | [Egotrip](https://open.spotify.com/album/3iKxcGgS71n7ND8I2A3CF5) | 4:44 | 2025-07-19 |  |
 | [Non\-Stop](https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 6:25 | 2025-11-12 |  |
 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 | 2025-11-07 | 2025-12-28 |

@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: YouNotUs
 
-5,176 songs - 10 day 7 hr 24 min
+5,176 songs - 10 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3477,7 +3477,7 @@
 | [Paint It Red](https://open.spotify.com/track/1I3YPOEyTzpPp3zlYfO99o) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Paint It Red](https://open.spotify.com/album/4IbeCtmBfrUUKQMApQhHI4) | 2:45 | 2025-05-15 | 2025-05-30 |
 | [Paper Plane](https://open.spotify.com/track/3oht02g1mg6KywagA3bysC) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Paper Plane](https://open.spotify.com/album/3q53z26hzALpOERcaZ6nUt) | 2:33 | 2024-03-07 | 2024-03-29 |
 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-07-31 | 2025-08-09 |
-| [Papi](https://open.spotify.com/track/2XD1Lpb9ofKXBAvGwe0qSe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Papi](https://open.spotify.com/album/3cTuhiDC85RUjhmysytPcw) | 2:30 | 2026-01-15 |  |
+| [Papi](https://open.spotify.com/track/2XD1Lpb9ofKXBAvGwe0qSe) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq) | [Papi](https://open.spotify.com/album/3cTuhiDC85RUjhmysytPcw) | 2:17 | 2026-01-15 |  |
 | [Papi](https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Papi](https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20) | 2:18 | 2024-07-04 | 2024-07-27 |
 | [Papi](https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk) | [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Papi](https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr) | 3:36 | 2025-06-12 | 2025-07-04 |
 | [Parachute](https://open.spotify.com/track/0dgdeLp3jm23YsBMGOHqiu) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Hypermorph](https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2) | [Parachute](https://open.spotify.com/album/50LVrbrhDPNoC7jBSLNMnj) | 1:48 | 2024-02-29 | 2024-03-22 |

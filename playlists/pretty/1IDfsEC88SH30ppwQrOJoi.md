@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,187 likes - 98 songs - 4 hr 54 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,186 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 96 | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/track/0AYCnIKzZirVfRWMsJBiXf) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/album/768XqVjukIkYWblWNq4WAa) | 2:56 |
 | 97 | [Happy New Year \(feat\. Love Harder\) \- Takis Remix](https://open.spotify.com/track/4WASHXk0rOyvyJwRXLRxDH) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Happy New Year \(feat\. Love Harder\) \[Takis Remix\]](https://open.spotify.com/album/6Nwo5ElKMCkMwhoeDVrNYZ) | 3:05 |
 | 98 | [Falling Forever](https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Falling Forever](https://open.spotify.com/album/7c78ZXT2DkAeYmvsurQl9u) | 2:38 |
+| 99 | [Ménage À Trois](https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Ménage À Trois](https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl) | 2:55 |
 
-Snapshot ID: `AAALB8vqTcaLazPTXVTDxue0NaziNnp6`
+Snapshot ID: `AAALCOWo3n9zufS4yoLM+MamWc3a/ay0`

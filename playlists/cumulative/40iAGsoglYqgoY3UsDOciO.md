@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-461 songs - 22 hr 25 min
+465 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Forever & Again](https://open.spotify.com/track/2pdbNPIBRuAyspK97Blj0a) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:19 | 2023-07-26 |  |
 | [Frequency](https://open.spotify.com/track/6AwoshNv4AvAVZQJC74LD7) | [Okello](https://open.spotify.com/artist/3l4t3KfjNX0TecqQLj2nkm) | [Frequency](https://open.spotify.com/album/4JpLlD1fDebl1N2MMKAQYh) | 4:20 | 2024-07-21 |  |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-26 |  |
+| [FUNNY BOY](https://open.spotify.com/track/7wKO3nIpTor5rpXiFsEJcS) | [Snshnee!](https://open.spotify.com/artist/56gNeCXGXTX5RQxC586Ein) | [FUNNY BOY](https://open.spotify.com/album/6vgQ2HD9oB4FOit7sTF21w) | 2:58 | 2026-01-20 |  |
 | [Förvillelser](https://open.spotify.com/track/3KIcMfzPTYTiB64mOPYPPz) | [Dödsankan](https://open.spotify.com/artist/0dribWcDOaXtgmDnJymoiC), [Seron](https://open.spotify.com/artist/0tqLRcV4eZFr5NZ6M4PBMH), [Olss Beats](https://open.spotify.com/artist/4uuBME28jEy7BzyDg7cXWf) | [Förvillelser](https://open.spotify.com/album/2lFNFG9gwDQ23S9GpvsoBS) | 3:25 | 2025-10-23 |  |
 | [G SH!T](https://open.spotify.com/track/584vkw3Q3Sx5Zeb3MsqfC0) | [Classick](https://open.spotify.com/artist/32smWJknnLuzDRp9Uxfs5o), [Teknik](https://open.spotify.com/artist/7xGB1yPO2EpkMKpk9RHn9v) | [G SH!T](https://open.spotify.com/album/5SxCmhehoL57smeD3uCj93) | 2:47 | 2024-05-31 |  |
 | [Gambit](https://open.spotify.com/track/643Z0tMBHbqRXacZNdbS3m) | [Deduck](https://open.spotify.com/artist/1OXgWAI77hihDpd9tY8Ws9) | [Heavenly Wealth Vol\. 1](https://open.spotify.com/album/6fY3AErONLvs63eRbyfKUt) | 1:44 | 2024-08-02 |  |
@@ -243,6 +244,7 @@
 | [Message Ina Bottle](https://open.spotify.com/track/1ZNqoHYm0FnHkpnQSQYTm5) | [Trey Posey](https://open.spotify.com/artist/5Njg6ICag7NS6DKcmROLbg) | [Message Ina Bottle](https://open.spotify.com/album/2xO66RiV2RwY1rOyFsEFwC) | 2:22 | 2024-08-30 |  |
 | [Microphone Guardians](https://open.spotify.com/track/2AOuqZTBTDtzlrmuwxqYLm) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH), [Jak Hellington](https://open.spotify.com/artist/0dIfS1J8VpEb80tcfA3aEN), [Kid Vishis](https://open.spotify.com/artist/3J3bqhNAKIJlFosbr0nFY1) | [Microphone Guardians](https://open.spotify.com/album/6tqpkD5YBJwrkQA9ZfrMvz) | 2:48 | 2024-06-14 |  |
 | [Midnight Madness](https://open.spotify.com/track/7JIIvW2MQheYIffYNMwqlY) | [Izzy TheAdvocate](https://open.spotify.com/artist/5P6MjFxBijXHcGl11wnF6F), [Basically](https://open.spotify.com/artist/3Trh3koi8aNgHkb91XZ62n) | [Road to Gotham 2](https://open.spotify.com/album/0XE7XDYDiaTQV5itDV0u7b) | 3:05 | 2024-06-11 |  |
+| [Millimeter from Breakin'](https://open.spotify.com/track/5qbcx5BznWu1jiwMjRFJ1H) | [HXN](https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ) | [Sub\-Level](https://open.spotify.com/album/6dHO7raGffFCFlOHLbJtUd) | 3:48 | 2026-01-20 |  |
 | [miracle child](https://open.spotify.com/track/6SBMJWybyWyC4feGwpprbG) | [m4py](https://open.spotify.com/artist/7dNCWOA4XyIeqTwa7dFsyu) | [miracle child](https://open.spotify.com/album/61mQVKQEkOBq3bgkrx8uSd) | 2:27 | 2024-08-06 |  |
 | [Moment of Truth](https://open.spotify.com/track/3Y1yPRugBkAsBeP9piuFEG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:59 | 2023-07-26 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-07-26 |  |
@@ -363,6 +365,7 @@
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-07-26 |  |
 | [SLAM](https://open.spotify.com/track/1S47LMCjF4WL0RwOltDcHP) | [BE4N](https://open.spotify.com/artist/05Gd3YKIx417Tlc5bpWPfC), [InnerMars!](https://open.spotify.com/artist/4LZJOaX0ucwoIDnZFVwoxk) | [SLAM](https://open.spotify.com/album/6XsOf4Qm9XC5LOGuybWBP4) | 1:46 | 2025-10-08 |  |
 | [Slowed Down](https://open.spotify.com/track/74Vw1RhXNUTFt1X0rmuRZa) | [bananaxbrainz](https://open.spotify.com/artist/213rSssfcYfuQ0vYZGYiVO) | [Slowed Down](https://open.spotify.com/album/12ElruNyxI3vmg4utGkHdW) | 2:39 | 2024-05-30 |  |
+| [Smooth Operator](https://open.spotify.com/track/2jg0rXK2K9n3FvHNW6j6IT) | [Sir Gladis](https://open.spotify.com/artist/0LEqbOy9JAIvDyHePlaI19) | [Smooth Operator](https://open.spotify.com/album/4GtTnxqgc0yeMmlWOkf6LH) | 4:52 | 2026-01-20 |  |
 | [So Fake](https://open.spotify.com/track/70drshuBEPNmSiNaqmzUDF) | [Morgan Wong](https://open.spotify.com/artist/1t8E1XBBGUxxrOsuBX7DRN) | [So Fake](https://open.spotify.com/album/0uyBiWKoMz9b7cLmEU9PZM) | 2:07 | 2024-07-21 |  |
 | [Soledad](https://open.spotify.com/track/7xwfuoQSskM9qrryzqPGhl) | [kunku\_arabe](https://open.spotify.com/artist/11gIrCC3WOekVJU2nF9o84) | [Soledad](https://open.spotify.com/album/7klALKfI1NeArf210gYKWZ) | 3:58 | 2024-08-05 |  |
 | [sometimes](https://open.spotify.com/track/1jIZtvTDNoorr4zuPNXu3F) | [Wowa](https://open.spotify.com/artist/3294idWcuMNPzGHcdszsA7) | [sometimes](https://open.spotify.com/album/2bfZwrFBbopUA6CCE4HDLh) | 3:15 | 2025-01-25 |  |
@@ -418,6 +421,7 @@
 | [TRADE IT ALL](https://open.spotify.com/track/7uI870MyqlvxYoyteoaqSW) | [Kuris Vows](https://open.spotify.com/artist/0tbFHZ0GFZA0OAQLfhy3Yo) | [TRADE IT ALL](https://open.spotify.com/album/3VPQaDKwX0DTsG05TUeiR8) | 2:19 | 2024-07-02 |  |
 | [Tralandia](https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw) | [ARTIN & ROMAN DJ](https://open.spotify.com/artist/3CgomiE7lP85mKvgn66knC) | [Tralandia](https://open.spotify.com/album/0xNYINEGK0TD7Ggw30syAu) | 3:28 | 2025-12-01 |  |
 | [Trauma](https://open.spotify.com/track/2lQaRMmOog5PJWu3kwD495) | [Dominic LynX](https://open.spotify.com/artist/0PojpHhBszlM2NI5fBaXlr), [El Ch@po](https://open.spotify.com/artist/62bjyttOia8VFfutcyhQ0D) | [To \~ Love \~ or \~ Not \~ to \~ Love](https://open.spotify.com/album/7hayHf42o3poSXWoGSZGxd) | 2:22 | 2024-07-23 |  |
+| [TRIP!](https://open.spotify.com/track/004HNYwtkj7Ol69rZ7cj7G) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [TRIP!](https://open.spotify.com/album/1DavqBdCKskBZztfK1h7Z5) | 2:11 | 2026-01-20 |  |
 | [Triple Kill](https://open.spotify.com/track/6jtkDPKdnvboHjwksgyKe3) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N), [Thommy Projectile](https://open.spotify.com/artist/6AGTRJ0DFsbAHWQuYrKhJD), [Niamor](https://open.spotify.com/artist/6VNY31nnIH0UCB4FHRZec0) | [Triple Kill](https://open.spotify.com/album/5bskV80kyPEqRaBNKoym4X) | 2:29 | 2024-06-11 |  |
 | [Triste historia de amor](https://open.spotify.com/track/0Tahk0pEZ8YlvDGBGrppxI) | [Alex Aldana TN](https://open.spotify.com/artist/7FGdRbxkaqebZMdU0G4feA) | [Triste historia de amor](https://open.spotify.com/album/2ppWgi2BkU0ebOdWzmcR7J) | 3:05 | 2024-06-29 |  |
 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 | 2023-07-26 |  |

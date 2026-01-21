@@ -4,7 +4,7 @@
 
 > 
 
-8,305 songs - 21 day 2 hr 33 min
+8,306 songs - 21 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4217,6 +4217,7 @@
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2025-01-04 |  |
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2025-01-15 |  |
 | [MS\. MURAL](https://open.spotify.com/track/7mTBIRS3sgMHakyp1UFxZz) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 5:32 | 2025-01-04 |  |
+| [Ms\. VICTORIA](https://open.spotify.com/track/6dax9Hnzxu66YXGVv3irqm) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O), [オグリキャップ \(CV\. 高柳知葉\)](https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU), [ウオッカ \(CV\. 大橋彩香\)](https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270), [タイキシャトル \(CV\. 大坪由佳\)](https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz), [エルコンドルパサー \(CV\. 髙橋ミナミ\)](https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE), [テイエムオペラオー \(CV\. 徳井青空\)](https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP), [ナリタブライアン \(CV\. 衣川里佳\)](https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO), [エアグルーヴ \(CV\. 青木瑠璃子\)](https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO), [タマモクロス \(CV\. 大空直美\)](https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1), [ビワハヤヒデ \(CV\. 近藤 唯\)](https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk), [マヤノトップガン \(CV\. 星谷美緒\)](https://open.spotify.com/artist/6Qi7KuRGCkHX22OAEFq3vn), [ミホノブルボン \(CV\. 長谷川育美\)](https://open.spotify.com/artist/4640XyVEeNXwxenpk8Ilmt), [イナリワン \(CV\. 井上遥乃\)](https://open.spotify.com/artist/7pxU6wxauuxXXdsY05TbZc), [キタサンブラック \(CV\. 矢野妃菜喜\)](https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS) | [『ウマ娘 プリティーダービー』WINNING LIVE 09](https://open.spotify.com/album/0Zb8pDItXQHTLLugnls14B) | 4:47 | 2026-01-20 |  |
 | [MUKANJYO](https://open.spotify.com/track/02846iBEHz7g1pFLvpRllW) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Mukanjyo](https://open.spotify.com/album/2GETS8ihYgK6ONlklnGHM9) | 3:12 | 2025-01-15 |  |
 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 | 2025-05-07 | 2025-06-17 |
 | [Mural](https://open.spotify.com/track/2zWZV7b1xu1qZPaMjavvpS) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Tetsuo & Youth](https://open.spotify.com/album/7F58zK8t8whSFjX5X09d28) | 8:48 | 2025-01-04 |  |

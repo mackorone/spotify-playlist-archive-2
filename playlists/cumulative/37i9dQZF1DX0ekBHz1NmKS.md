@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,116 songs - 4 day 13 hr 43 min
+2,117 songs - 4 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,7 @@
 | [Har du sett henne i blått](https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Har du sett henne i blått](https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW) | 3:21 | 2023-01-05 | 2023-10-06 |
 | [har jag blivit knäpp!? \(har jag blivit sjuk!?\)](https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:28 | 2023-05-19 | 2023-06-16 |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-10 | 2022-07-21 |
-| [Harley Pt\. 2](https://open.spotify.com/track/2NhLmzbbr44giCxzwoSAAD) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [A Glitch In The Matrix](https://open.spotify.com/album/3DFQ8HHK62kGV4yknGe9KP) | 4:25 | 2025-10-02 |  |
+| [Harley Pt\. 2](https://open.spotify.com/track/2NhLmzbbr44giCxzwoSAAD) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [A Glitch In The Matrix](https://open.spotify.com/album/3DFQ8HHK62kGV4yknGe9KP) | 4:25 | 2025-10-02 | 2026-01-21 |
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 | 2023-10-06 |
 | [Hate Me](https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG) | [MAZEN AWAD](https://open.spotify.com/artist/5dwPMLSka611grrtrJwJ8T) | [Hate Me](https://open.spotify.com/album/1iaASqwDUGEpJGmIdOG9vq) | 2:36 | 2024-05-02 | 2024-06-01 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
@@ -2002,6 +2002,7 @@
 | [Vinnare \- Sveriges Officiella EM\-låt 2025](https://open.spotify.com/track/262s4Kpu1fhQpaYn3aVJSP) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Vinnare \(Sveriges Officiella EM\-låt 2025\)](https://open.spotify.com/album/7lcnQfN5l9sYkrxcwWQIOJ) | 2:26 | 2025-06-12 | 2026-01-15 |
 | [Vinner med hjärtat](https://open.spotify.com/track/4GaaZq0RxAFXIDZTdBJWFV) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [Vinner med hjärtat](https://open.spotify.com/album/0CE7iMsfFu47FCHdBbKG4R) | 3:22 | 2021-12-16 | 2022-01-14 |
 | [VinterNoll2](https://open.spotify.com/track/0Hi1VOMriBzaCRarkRBDso) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VinterNoll2](https://open.spotify.com/album/5QRvBFuOavuQGxmJ1PHK3l) | 3:05 | 2021-12-16 | 2022-09-16 |
+| [Vintersaga \(feat\. Erik Lundin\)](https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Vintersaga \(feat\. Erik Lundin\)](https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8) | 2:59 | 2026-01-19 |  |
 | [Visa vid vindens ängar](https://open.spotify.com/track/7f32bNrOzhPp3Ukb19tqoI) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Visa vid vindens ängar](https://open.spotify.com/album/7zhoRHmKPQbhqdCeNdolgq) | 3:41 | 2025-06-05 | 2025-11-16 |
 | [Vita Boots](https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij) | [Mia Elfqvist](https://open.spotify.com/artist/3fBR86TB3VE259lsDTjvoC) | [Vita Boots](https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4) | 2:16 | 2024-08-29 | 2025-01-04 |
 | [Vita väggar](https://open.spotify.com/track/5JxfUSVHz6Icx4CUXj5mTQ) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Claras dagbok](https://open.spotify.com/album/3U4LDho4X3lDdgZV0O5gwV) | 3:41 | 2021-12-16 | 2022-04-01 |

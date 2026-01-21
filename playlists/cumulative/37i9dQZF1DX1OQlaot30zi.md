@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Slings e Lubi, Dargen D'Amico e molti altri.
 
-6,671 songs - 12 day 7 hr 11 min
+6,672 songs - 12 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [AMBIZIONE](https://open.spotify.com/track/09xgIIsvgnbn4E1yceGUIr) | [lil F](https://open.spotify.com/artist/3IJtZBB0U2PDgEA8MY3kbQ) | [AMBIZIONE](https://open.spotify.com/album/0E5VGX3EpysT5wJcN6VWVW) | 4:20 | 2024-09-12 | 2024-09-27 |
 | [AMBRA \(feat\. Tedua\)](https://open.spotify.com/track/2bzsS7p3b4s6eeZu0ZGQyj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 3:05 | 2025-12-05 | 2025-12-31 |
 | [AMEN](https://open.spotify.com/track/5HJcBKe67FQoPnzZZnc06p) | [Copes](https://open.spotify.com/artist/56DfnywiR8WU4fU9tyafH8), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [AMEN](https://open.spotify.com/album/5d7MnjWPsIzG0uu6q5qmyM) | 2:21 | 2024-10-17 | 2024-11-08 |
+| [AMEN](https://open.spotify.com/track/5TD5NrlLNa3aVDH46DUhMD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb) | 2:41 | 2026-01-20 |  |
 | [AMEN](https://open.spotify.com/track/4MIObv6jXdHuf3EGDg3Lap) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:02 | 2023-09-14 | 2023-10-06 |
 | [Amen](https://open.spotify.com/track/7pnRnAslrs3aDype0ZfOBq) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [Amen](https://open.spotify.com/album/6WPFLiWImRXK22OqMBOTpE) | 2:17 | 2025-05-29 | 2025-06-20 |
 | [Amen](https://open.spotify.com/track/3jrMkmJ2qUhBSBqtLBmXQu) | [LUMIER](https://open.spotify.com/artist/4ZGJt8xgF858OviBCS45CV) | [Amen](https://open.spotify.com/album/5z2EyoMhjFsQNZjowNuEAd) | 2:48 | 2023-09-14 | 2023-09-29 |
@@ -4635,7 +4636,7 @@
 | [PEZZO JAZZ](https://open.spotify.com/track/0NjUHwbpvEf4NevrKY72eZ) | [Fuckgize](https://open.spotify.com/artist/0ozkOT9TtjSuroh0f4fCvE), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [GIGI E FRIENDS](https://open.spotify.com/album/3jmmti2GCbmJn0LSXavgiY) | 2:14 | 2025-08-07 | 2025-09-12 |
 | [PEZZO LATINO](https://open.spotify.com/track/09iBQQfyvuPgFvE6lUC4eO) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [PEZZO LATINO](https://open.spotify.com/album/3DSYxccHjsZcMoXZSnXhLI) | 2:47 | 2022-06-23 | 2022-07-01 |
 | [Pezzo nella borsa](https://open.spotify.com/track/4zjLMe0XdGXxXjawQaYiLL) | [Dahel](https://open.spotify.com/artist/0OAu2KNpG20u8DtmJyiACW), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [IL MOOD È](https://open.spotify.com/album/1SZrvwpxAlpblXH8ckMjLa) | 2:19 | 2022-05-12 | 2022-05-20 |
-| [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 | 2025-12-31 |  |
+| [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 | 2025-12-31 | 2026-01-21 |
 | [Pharrell Freestyle](https://open.spotify.com/track/0Ka1Jc9CobgLcrz5bNuWQp) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Pharrell Freestyle](https://open.spotify.com/album/3GO1ZJaCOohxymzMJ9M9OT) | 2:20 | 2024-02-22 | 2024-03-15 |
 | [Phobia](https://open.spotify.com/track/4kAeaGI81H6I9FEYzQngeb) | [F00RTISSIMO](https://open.spotify.com/artist/5fhnAfaveHOu6oprccVXGs) | [D.N.E.D.F.](https://open.spotify.com/album/3pIMILcOq3UflOulLDyfPB) | 2:50 | 2023-10-26 | 2023-11-10 |
 | [PHRATE](https://open.spotify.com/track/6R4abO7BpM4lAJCqrCPpLm) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 2:39 | 2025-12-05 | 2025-12-31 |

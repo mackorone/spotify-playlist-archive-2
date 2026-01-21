@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "New soul-infused music! Cover: SABRI",
+  "description": "New soul-infused music! Cover: JELISA",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -622,6 +622,24 @@
       "duration_ms": 199014,
       "name": "Ain't It Funny",
       "url": "https://open.spotify.com/track/6ToyjrRZI3n7pgnhgr0gst"
+    },
+    {
+      "album": {
+        "name": "Chasing",
+        "url": "https://open.spotify.com/album/58oWp37uWSaFRbrrBSC1N7"
+      },
+      "artists": [
+        {
+          "name": "Ady Suleiman",
+          "url": "https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304920,
+      "name": "Ain't Your Song",
+      "url": "https://open.spotify.com/track/48EC9OPQp9kE7C6fz3uv7z"
     },
     {
       "album": {
@@ -2354,6 +2372,24 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/66uED3xG184HSGVqHc83gF"
+      },
+      "artists": [
+        {
+          "name": "JELISA",
+          "url": "https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Bring Me Back To Life",
+      "url": "https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j"
     },
     {
       "album": {
@@ -5921,6 +5957,36 @@
     },
     {
       "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/3v3YqPMvFOBbHLSSOxZRTp"
+      },
+      "artists": [
+        {
+          "name": "Uknow",
+          "url": "https://open.spotify.com/artist/4lTxm1US6O7MJ78lwocSVW"
+        },
+        {
+          "name": "Rindue",
+          "url": "https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw"
+        },
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        },
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/03tJaPX5xiJEw8C7kTCJTJ"
+    },
+    {
+      "album": {
         "name": "Feels So Good (Don\u2019t It)",
         "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
       },
@@ -8448,7 +8514,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
@@ -16189,6 +16255,24 @@
     },
     {
       "album": {
+        "name": "Reclusive",
+        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
+    },
+    {
+      "album": {
         "name": "Recovery Time",
         "url": "https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s"
       },
@@ -21179,6 +21263,24 @@
     },
     {
       "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225011,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/00XRL8YKioCRcSb088xivh"
+    },
+    {
+      "album": {
         "name": "Toking, Dozing",
         "url": "https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL"
       },
@@ -22584,6 +22686,24 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
+    },
+    {
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6"
     },
     {
       "album": {

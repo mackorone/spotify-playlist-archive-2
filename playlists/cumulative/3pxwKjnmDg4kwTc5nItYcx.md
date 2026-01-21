@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-877 songs - 1 day 23 hr 8 min
+881 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [And It Breaks My Heart](https://open.spotify.com/track/658x3phIzux5VYryVBOET4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [And It Breaks My Heart / Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5aTeJSdirpRjxl9IIpWx8v) | 4:06 | 2020-07-01 | 2021-05-12 |
 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-03-10 | 2025-08-27 |
 | [Another Night](https://open.spotify.com/track/4HSmBRSYQMVIELf6oRdjuc) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Another Night](https://open.spotify.com/album/678g6PTb2c5yJL9DDYeVGh) | 4:11 | 2020-01-20 | 2021-05-12 |
+| [Any Other Night](https://open.spotify.com/track/4jF0QfWSjUMrH7Y5fL0leS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Any Other Night](https://open.spotify.com/album/76wg0moAfOziJ3E7u25UES) | 3:05 | 2026-01-20 |  |
 | [Anymore](https://open.spotify.com/track/5l8LUwRolDdfqMP6mUQ2nO) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Anymore](https://open.spotify.com/album/3wOKi0cvqoMnP7YCtNKcKy) | 3:32 | 2024-02-08 | 2025-08-27 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2020-07-06 | 2021-05-12 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-10 | 2025-08-27 |
@@ -336,6 +337,7 @@
 | [Heya](https://open.spotify.com/track/1cK4YKVjfBdk6xR4U7cRSx) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Heya](https://open.spotify.com/album/7D2ZtohV2KRQ3TNIm7l4ZY) | 2:16 | 2023-02-03 | 2025-07-17 |
 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/1hZxdv0GKiyH1MzdQWskLY) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:43 | 2019-08-27\* | 2019-11-11 |
 | [Hide and Seek](https://open.spotify.com/track/4FgBUh8huqyoADFZehpcA3) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hide and Seek](https://open.spotify.com/album/1DVlm76hYqYnAGtiK2QstP) | 3:05 | 2021-02-19 | 2025-08-27 |
+| [High On Heaven](https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [High On Heaven](https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n) | 3:19 | 2026-01-20 |  |
 | [High Tide, Low Tide](https://open.spotify.com/track/4qau8uvxVQhgs97FqDx59J) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [High Tide, Low Tide](https://open.spotify.com/album/7e15CDmEwzk9Ofwle05dXF) | 2:51 | 2020-10-20 | 2025-07-17 |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2021-02-19 | 2025-08-27 |
 | [Higher](https://open.spotify.com/track/7jISIavPp1bqXWgc0FWv9k) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B), [Andy Ward](https://open.spotify.com/artist/1gaWqnGdl91TwTbneZU1um) | [Higher](https://open.spotify.com/album/30RiCF6QFMQ93V3KCfvVAw) | 3:18 | 2020-06-21 | 2021-05-12 |
@@ -400,6 +402,7 @@
 | [if u love me](https://open.spotify.com/track/453C9HLS7Z8a0iW015PHEE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [if u love me](https://open.spotify.com/album/3ETBXoezE0tkwsPf5Go5jS) | 4:14 | 2020-10-09 | 2021-05-12 |
 | [IFIW \(I Feel It When\)](https://open.spotify.com/track/1iwfa8eZrNSuJRgdIoliT9) | [Planet Rami](https://open.spotify.com/artist/0TlBL4XarAQyeGsIpzCeWc) | [IFIW \(I Feel It When\)](https://open.spotify.com/album/3Phps3EppB9UOJ3EyLbsG1) | 2:41 | 2022-02-04 | 2024-07-19 |
 | [iiii](https://open.spotify.com/track/6G5vHzGiuNWAjLEOZCGuj7) | [RÊVERIE](https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T) | [iiii](https://open.spotify.com/album/1eEyO0qyLFyM8gUWjfaiUj) | 2:09 | 2019-12-10 | 2020-03-25 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-20 |  |
 | [Imagination](https://open.spotify.com/track/1tHTm4TblBppg2Kck3Z9OZ) | [Kat Holland](https://open.spotify.com/artist/3LbG3YJCzxwKicBdQOgTFl) | [Imagination](https://open.spotify.com/album/2uAJIuuTdJgP4PqXtgKyMu) | 3:07 | 2021-01-15 | 2025-07-17 |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-12 | 2021-05-12 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-03 | 2025-08-27 |
@@ -651,6 +654,7 @@
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-19 | 2022-07-30 |
 | [Role Model](https://open.spotify.com/track/2q1Dl9vObO5jblIg17pVYL) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [In Between](https://open.spotify.com/album/6J2scajtvmcJXFMRrLxVPy) | 3:51 | 2023-07-07 | 2025-08-27 |
 | [Romeo](https://open.spotify.com/track/034hnKKD4lRG2QkizYbKV3) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Romeo](https://open.spotify.com/album/1dzlLlAmnoDHsPnGlLEZr7) | 3:13 | 2023-11-10 | 2025-08-27 |
+| [Roommates](https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Roommates](https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v) | 2:52 | 2026-01-20 |  |
 | [Run](https://open.spotify.com/track/6p8eEdiZLKJH8tcjGZuNTK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Run](https://open.spotify.com/album/6vC3YjRy755VljFSemBUu7) | 3:15 | 2020-02-07 | 2021-05-12 |
 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-10 | 2025-08-27 |
 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 | 2023-06-23 | 2025-08-27 |

@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAGdLAGpSf5GrWy5h94lr06xpnL95xP",
+  "snapshot_id": "AAAGdvN5c4kAh0BpdS364LD17w7uzITA",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -867,6 +867,46 @@
       "duration_ms": 217280,
       "name": "El Tango De Roxanne",
       "url": "https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L"
+    },
+    {
+      "added_at": "2026-01-20 18:25:05",
+      "album": {
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 301013,
+      "name": "For Forever",
+      "url": "https://open.spotify.com/track/0ZWW07BD8W85lUbgx2sn7E"
+    },
+    {
+      "added_at": "2026-01-20 18:25:09",
+      "album": {
+        "name": "The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Eva Noblezada",
+          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
+        },
+        {
+          "name": "Original Broadway Cast of The Great Gatsby - A New Musical",
+          "url": "https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM"
+        }
+      ],
+      "duration_ms": 292819,
+      "name": "My Green Light",
+      "url": "https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO"
     }
   ],
   "unique_name": "idek man",

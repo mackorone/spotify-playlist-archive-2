@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,297 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,322 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 76 | [Biggest, Greatest Thing](https://open.spotify.com/track/3OcPyu9YnmsqM6Aq1vWrV8) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Dontae Winslow](https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:12 |
 | 77 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
 | 78 | [The Fire \- Acoustic](https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [The Fire \(Acoustic\)](https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp) | 4:19 |
-| 79 | [Just Like Jesus](https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Just Like Jesus](https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG) | 3:54 |
-| 80 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 |
-| 81 | [Still Standing](https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Still Standing](https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg) | 3:23 |
-| 82 | [Upside Down](https://open.spotify.com/track/6x22fHMDW1WFnLjLluOcnU) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Upside Down](https://open.spotify.com/album/2pOKdmh1sL4QmwEfWTUGbN) | 2:42 |
+| 79 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 |
+| 80 | [Just Like Jesus](https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Just Like Jesus](https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG) | 3:54 |
+| 81 | [Upside Down](https://open.spotify.com/track/6x22fHMDW1WFnLjLluOcnU) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Upside Down](https://open.spotify.com/album/2pOKdmh1sL4QmwEfWTUGbN) | 2:42 |
+| 82 | [Still Standing](https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Still Standing](https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg) | 3:23 |
 | 83 | [GAIN](https://open.spotify.com/track/3sOqgK6crTwGqfHBq8NUpB) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [GAIN](https://open.spotify.com/album/58lg6PtkeEDrBYu8pJti1A) | 6:00 |
 | 84 | [Watch Him Turn It \(NYE Live\) \[feat\. Shomoneik\]](https://open.spotify.com/track/2zuOJKwL1XsKtN0yyd4BpO) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Shomoneik](https://open.spotify.com/artist/0rMMkFdHrKidahS2Yg2GeC) | [Watch Him Turn It \(NYE Live\) \[feat\. Shomoneik\]](https://open.spotify.com/album/7w7ME5DOT5DMwNWp0F0SsU) | 4:29 |
 | 85 | [Have Hope](https://open.spotify.com/track/49pWooNGZz9BXHgLkNRebD) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Have Hope](https://open.spotify.com/album/5YPAPMNa3p1EAov5Jb8ywN) | 3:21 |

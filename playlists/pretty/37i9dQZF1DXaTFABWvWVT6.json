@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 86474,
+  "num_followers": 86491,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-10-09 23:00:29",
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/4HvBJocC5MDYL4yGnQe5jq"
-    },
-    {
-      "added_at": "2025-10-09 23:00:29",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
+    },
+    {
+      "added_at": "2025-10-09 23:00:29",
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/4HvBJocC5MDYL4yGnQe5jq"
     },
     {
       "added_at": "2025-10-09 23:00:29",

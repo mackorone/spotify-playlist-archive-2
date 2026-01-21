@@ -4,7 +4,7 @@
 
 > Moody electronica for the night shift
 
-172 songs - 13 hr 40 min
+173 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 | 2023-04-20 | 2023-05-06 |
 | [Dreamscape](https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Translucid Transit](https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb) | 5:50 | 2023-05-05 | 2023-06-09 |
 | [Earth To](https://open.spotify.com/track/11PuMG1Ej3GZcXnngdm72P) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Earth To](https://open.spotify.com/album/5NfVhc8VJhggndUzEcnS2Y) | 6:38 | 2023-03-23 | 2023-04-17 |
-| [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 | 2023-03-16 |  |
+| [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 | 2023-03-16 | 2026-01-21 |
 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 | 2023-05-05 | 2023-06-09 |
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2022-12-01 | 2023-06-30 |
 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 | 2022-12-01 | 2023-03-31 |
@@ -69,6 +69,7 @@
 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 | 2023-03-16 |  |
 | [Fooley](https://open.spotify.com/track/53a82fPkpZAQ7zgXTCsLpn) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:34 | 2023-02-09 | 2023-05-06 |
 | [Forever \(Lullaby Mix\)](https://open.spotify.com/track/6r9W00mJMcNhUK32YmreGd) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Forever](https://open.spotify.com/album/4rrjJVGv2ZHesoZN7VG1D8) | 4:42 | 2023-03-16 | 2023-03-31 |
+| [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 | 2023-08-31 |  |
 | [Futur Spher Techno Version](https://open.spotify.com/track/0NOc9cjJtS3c5efEBAxjRT) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 5:09 | 2022-12-01 | 2022-12-16 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-12-01 | 2023-03-03 |
 | [GMT \- Jamie xx Remix](https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [GMT \(Jamie xx Remix\)](https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R) | 9:32 | 2022-12-01 | 2023-03-03 |

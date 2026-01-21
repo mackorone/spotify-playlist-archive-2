@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Teddy Swims, Tones & I",
-  "num_followers": 471183,
+  "num_followers": 471189,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "exes (Regard Remix)",
-        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "exes - Regard Remix",
-      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
         "name": "Too Much (Ely Oaks Remix)",
         "url": "https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 141323,
       "name": "Too Much - Ely Oaks Remix",
       "url": "https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "exes (Regard Remix)",
+        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "exes - Regard Remix",
+      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
     }
   ],
   "unique_name": "Massive Pop Remixes",

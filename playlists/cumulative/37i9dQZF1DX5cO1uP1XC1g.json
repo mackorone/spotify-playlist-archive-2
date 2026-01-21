@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Arabic Music.\nCover: Amr Diab",
+  "description": "The Hottest Arabic Music.\nCover: Nassif Zeytoun ",
   "name": "Yalla ",
   "tracks": [
     {
@@ -3558,6 +3558,28 @@
       "duration_ms": 239655,
       "name": "Kalby Jobarny - Live",
       "url": "https://open.spotify.com/track/00LX4aUgpDFG4zZO1H3Lx8"
+    },
+    {
+      "album": {
+        "name": "Kazdoura",
+        "url": "https://open.spotify.com/album/4Py37GaBzo4gpfIkOqDJQA"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        },
+        {
+          "name": "Abu Ward",
+          "url": "https://open.spotify.com/artist/2xaYgmlluZUUKCcfJEUdYe"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "Kazdoura",
+      "url": "https://open.spotify.com/track/0Br77SqBisRvGY6yLXzpxz"
     },
     {
       "album": {

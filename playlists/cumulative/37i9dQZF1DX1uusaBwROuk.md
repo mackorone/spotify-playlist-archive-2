@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1uusaBwROuk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1uusaBwROuk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1uusaBwROuk)
 
-### [Breakup Szn](https://open.spotify.com/playlist/37i9dQZF1DX1uusaBwROuk)
+### [anti\-valentines day](https://open.spotify.com/playlist/37i9dQZF1DX1uusaBwROuk)
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 

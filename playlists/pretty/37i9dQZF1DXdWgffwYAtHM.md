@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0thgoTntV114tkxYkGwI1t">Só Pod Ser História</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0thgoTntV114tkxYkGwI1t">Só pod ser história</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,895 likes - 9 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,894 likes - 9 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 8 | [quero ser mais presente ](https://open.spotify.com/episode/7BkCS0XmuuvMemFBxXlj7l) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 18:09 |
 | 9 | [\#195\. Comemorações póstumas](https://open.spotify.com/episode/4ll5X1d6E6ItyVftPzbt9k) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 1:16:44 |
 
-Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`
+Snapshot ID: `AAAAAPz16obk+t1M8wZf48xOBnlyuKXY`

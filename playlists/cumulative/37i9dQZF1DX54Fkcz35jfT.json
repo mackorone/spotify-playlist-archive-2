@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: EMNW",
+  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Survive Said The Prophet",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 213349,
       "name": "DIKIDANDAN",
       "url": "https://open.spotify.com/track/3ehgrNAlUz9FAZ2NbhXQo0"
@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "Kill the Noise",
+        "url": "https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "Kill the Noise",
+      "url": "https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb"
+    },
+    {
+      "album": {
         "name": "SEEDS OF HOPE",
         "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
       },
@@ -4234,6 +4252,24 @@
       "duration_ms": 194900,
       "name": "nothing to be afraid of -\u6016\u308c\u308b\u3082\u306e\u306f\u4f55\u3082\u306a\u3044-",
       "url": "https://open.spotify.com/track/11e95t4U7Vw5pMkjK2R9tC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "Oblivious",
+      "url": "https://open.spotify.com/track/0tLILvueivAra0zEWZDAX4"
     },
     {
       "album": {
@@ -5783,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "Speak of the Devil",
+        "url": "https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        },
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Speak of the Devil",
+      "url": "https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0"
+    },
+    {
+      "album": {
         "name": "Spicy Queen",
         "url": "https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK"
       },
@@ -6868,7 +6926,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 139385,
       "name": "VS EGO:",
       "url": "https://open.spotify.com/track/3YPzndTItgHvbhyWfT3hgZ"
@@ -7906,7 +7964,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 180666,
       "name": "\u5384\u707d",
       "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"

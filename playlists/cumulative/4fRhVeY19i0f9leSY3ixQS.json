@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Anchor in the storm",
+        "url": "https://open.spotify.com/album/0Ps6WkqjrHS2aQcTjybEPJ"
+      },
+      "artists": [
+        {
+          "name": "We Told You So",
+          "url": "https://open.spotify.com/artist/4S0J9xNGBXBmZDg75JYWen"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Anchor in the storm",
+      "url": "https://open.spotify.com/track/08XD8LtdRyX5jAVPVQBF3T"
+    },
+    {
+      "album": {
         "name": "Astro Life",
         "url": "https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I"
       },
@@ -7211,6 +7229,24 @@
     },
     {
       "album": {
+        "name": "My Dog's A Liar",
+        "url": "https://open.spotify.com/album/7I4lxNA1GYotD5uo1ubVND"
+      },
+      "artists": [
+        {
+          "name": "Internet Romance",
+          "url": "https://open.spotify.com/artist/2XeleVtPv8IBvzy6T1zHnY"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217494,
+      "name": "My Dog's A Liar",
+      "url": "https://open.spotify.com/track/73WAYwjpYFFxm6VOo3MfUZ"
+    },
+    {
+      "album": {
         "name": "My Endless Journey",
         "url": "https://open.spotify.com/album/7DotwfknL0UFLufl9HQg9T"
       },
@@ -8030,7 +8066,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 183000,
       "name": "Outcast",
       "url": "https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC"
@@ -8416,6 +8452,24 @@
       "duration_ms": 136000,
       "name": "Porcos",
       "url": "https://open.spotify.com/track/7aXNmspHUa0aF9KvjSqLin"
+    },
+    {
+      "album": {
+        "name": "Red Static Action",
+        "url": "https://open.spotify.com/album/7djaugSiwxAMqBMXD93A6P"
+      },
+      "artists": [
+        {
+          "name": "Fire in the Radio",
+          "url": "https://open.spotify.com/artist/0LLmOIYowHeia7zEKdm6dc"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161948,
+      "name": "Prairie - Bonus Track",
+      "url": "https://open.spotify.com/track/5GrwAUOxAfE0LwclSnNXx6"
     },
     {
       "album": {
@@ -9629,6 +9683,24 @@
     },
     {
       "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6"
+      },
+      "artists": [
+        {
+          "name": "The Liquid",
+          "url": "https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160917,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD"
+    },
+    {
+      "album": {
         "name": "Shortchanged Even Shorter",
         "url": "https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE"
       },
@@ -9680,6 +9752,36 @@
       "duration_ms": 260733,
       "name": "Shutters + Stutters",
       "url": "https://open.spotify.com/track/3dJDRmonHnUfgdrjYKhFIs"
+    },
+    {
+      "album": {
+        "name": "GLITCH BITCH",
+        "url": "https://open.spotify.com/album/6IcihV7b8bv1SAas3hAYPt"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/1NmlhOSOGH9S3Pd39smbqp"
     },
     {
       "album": {
@@ -11452,6 +11554,24 @@
       "duration_ms": 200232,
       "name": "These High Standards",
       "url": "https://open.spotify.com/track/2JgitROPRHpXPQxowJUOIr"
+    },
+    {
+      "album": {
+        "name": "They Say/Honest",
+        "url": "https://open.spotify.com/album/3D2qk5YQmfUcC7ascblRR5"
+      },
+      "artists": [
+        {
+          "name": "Snugsworth",
+          "url": "https://open.spotify.com/artist/38PIRv5SnPsCwlQzoL1ec4"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141557,
+      "name": "They Say/Honest",
+      "url": "https://open.spotify.com/track/1BFySPO6JOLLM6g0T2WY8a"
     },
     {
       "album": {

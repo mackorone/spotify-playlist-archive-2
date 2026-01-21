@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 259805,
       "name": "ENCLOSURE",
       "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
@@ -1208,6 +1208,24 @@
       "duration_ms": 282708,
       "name": "Forever (Lullaby Mix)",
       "url": "https://open.spotify.com/track/6r9W00mJMcNhUK32YmreGd"
+    },
+    {
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
+      },
+      "artists": [
+        {
+          "name": "Polito",
+          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220743,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
     },
     {
       "album": {

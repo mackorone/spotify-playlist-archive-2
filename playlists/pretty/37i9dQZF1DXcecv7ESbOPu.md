@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Styrke, Asme och waterbaby med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,397 likes - 103 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,387 likes - 103 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 38 | [WAY YOU SMILE](https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [TO MAKE PEOPLE HAPPY](https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq) | 3:22 |
 | 39 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
 | 40 | [Pelikan](https://open.spotify.com/track/0VrF8gxQCIvGwnfKcRtVqt) | [Moa Lignell](https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO) | [Pelikan](https://open.spotify.com/album/3fAQscc5gvWe53M5iDu1fq) | 4:17 |
-| 41 | [Stuck In November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
+| 41 | [Stuck in November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 |
 | 42 | [High On Heaven](https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [High On Heaven](https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n) | 3:19 |
 | 43 | [LOVER GIRL](https://open.spotify.com/track/2F4BM8L2pmbukd90ASLP8N) | [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh) | [LOVER GIRL](https://open.spotify.com/album/7wmfrdVbM8gxO77gvvwLGi) | 2:12 |
 | 44 | [Cryptid](https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Running With Scissors](https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr) | 2:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 126447,
+  "num_followers": 126513,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 186567,
       "name": "Oogum Boogum Song",
       "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "You'll Lose A Good Thing",
-        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "You'll Lose A Good Thing",
-      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 163302,
       "name": "I Like The Way You Love Me",
       "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "You'll Lose A Good Thing",
+      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Sings Just One Look And Other Memorable Selections",
-        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
-      },
-      "artists": [
-        {
-          "name": "Doris Troy",
-          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "Just One Look",
-      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 141329,
       "name": "Gimme Little Sign",
       "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Sings Just One Look And Other Memorable Selections",
+        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
+      },
+      "artists": [
+        {
+          "name": "Doris Troy",
+          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "Just One Look",
+      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Unavailable 16 & The Original Nitty Gritty",
-        "url": "https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj"
-      },
-      "artists": [
-        {
-          "name": "Rosie & The Originals",
-          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
-        }
-      ],
-      "duration_ms": 227624,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 182266,
       "name": "Me And You",
       "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Unavailable 16 & The Original Nitty Gritty",
+        "url": "https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "duration_ms": 227624,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Very Best Of Aaron Neville",
         "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 164560,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Breakfast Special",
+        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
+      },
+      "artists": [
+        {
+          "name": "Pete Wingfield",
+          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
+        }
+      ],
+      "duration_ms": 211001,
+      "name": "Eighteen With A Bullet",
+      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Do You Love",
         "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Breakfast Special",
-        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
-      },
-      "artists": [
-        {
-          "name": "Pete Wingfield",
-          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
-        }
-      ],
-      "duration_ms": 211001,
-      "name": "Eighteen With A Bullet",
-      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "The Complete Motown Singles Vol. 10: 1970",
+        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 231360,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "The Complete Motown Singles Vol. 10: 1970",
-        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 298626,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
-      },
-      "artists": [
-        {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
     },
     {
       "added_at": "2025-05-23 07:54:59",

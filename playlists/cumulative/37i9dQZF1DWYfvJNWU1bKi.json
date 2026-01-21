@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "Kaththi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2mPif0fe4tNkVyX2ngYV0U"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304920,
+      "name": "Aathi",
+      "url": "https://open.spotify.com/track/5h3HxhOLripvupwSg686By"
+    },
+    {
+      "album": {
         "name": "Paiya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/634XiL0HdManH26qduu9Xw"
       },
@@ -3952,7 +3978,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 312280,
       "name": "Velicha Poove",
       "url": "https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP"

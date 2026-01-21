@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Mana ShankaraVaraprasad Garu",
-  "num_followers": 519141,
+  "num_followers": 519759,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPoo/oLwKjP99iiLqiTqxoT2QHiG",
+  "snapshot_id": "AAAAAHvNDi8XVw+O+h+0LkY6j/y16jyv",
   "tracks": [
     {
       "added_at": "2026-01-13 07:48:33",
@@ -37,30 +37,10 @@
       "url": "https://open.spotify.com/track/715XEB4ysvCZ5SCMgyDPdK"
     },
     {
-      "added_at": "2026-01-13 07:48:33",
+      "added_at": "2025-12-16 07:07:20",
       "album": {
-        "name": "Dalapathi",
-        "url": "https://open.spotify.com/album/1WUIWoxRQx6Lu3UBN8d795"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/1VF37SSW3iRYR0u2v9ItdL"
-        }
-      ],
-      "duration_ms": 420255,
-      "name": "Sundari Neeve",
-      "url": "https://open.spotify.com/track/1BRNySVcWBTUJwar0ItNSB"
-    },
-    {
-      "added_at": "2026-01-06 06:40:02",
-      "album": {
-        "name": "Sahana Sahana (From \"The Rajasaab\") [TELUGU]",
-        "url": "https://open.spotify.com/album/0o5pHRoYSAuYkonm6sV1Tm"
+        "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
+        "url": "https://open.spotify.com/album/1osZtw9mrsC3MhKFjwCLLr"
       },
       "artists": [
         {
@@ -68,21 +48,45 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         },
         {
-          "name": "Sruthi Ranjani",
-          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+          "name": "Blaaze",
+          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
         },
         {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
         }
       ],
-      "duration_ms": 263075,
-      "name": "Sahana Sahana (From \"The Rajasaab\") [TELUGU]",
-      "url": "https://open.spotify.com/track/5xOEnyX9CddnBbUNLmbW7X"
+      "duration_ms": 221096,
+      "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
+      "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
+    },
+    {
+      "added_at": "2025-11-11 06:12:33",
+      "album": {
+        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "duration_ms": 273072,
+      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
       "added_at": "2025-11-03 09:53:29",
@@ -111,50 +115,6 @@
       "duration_ms": 227026,
       "name": "Meesaala Pilla (From \"Mana ShankaraVaraprasad Garu - Pandagaki Vasthunnaru\")",
       "url": "https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd"
-    },
-    {
-      "added_at": "2025-11-11 06:12:33",
-      "album": {
-        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Balaji",
-          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
-        }
-      ],
-      "duration_ms": 273072,
-      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
-    },
-    {
-      "added_at": "2026-01-13 07:48:33",
-      "album": {
-        "name": "Karthika Deepam",
-        "url": "https://open.spotify.com/album/3M3tiF3WyPT20RpYOwDipf"
-      },
-      "artists": [
-        {
-          "name": "P. Susheela",
-          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-        },
-        {
-          "name": "S. Janaki",
-          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Aaraneekuma Ee Deepam",
-      "url": "https://open.spotify.com/track/1mMY0R2yyT81Vmgza2s7NO"
     },
     {
       "added_at": "2026-01-06 06:40:02",
@@ -189,72 +149,20 @@
       "url": "https://open.spotify.com/track/3AaowXAOVVhw5o5sXSZUHg"
     },
     {
-      "added_at": "2025-11-11 06:12:33",
+      "added_at": "2025-12-18 07:14:26",
       "album": {
-        "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
-        "url": "https://open.spotify.com/album/54OTEy2kqJqKPH9wHMcJ1h"
+        "name": "Hello Brother",
+        "url": "https://open.spotify.com/album/6OoEA63IZi6jqNQglyUWt3"
       },
       "artists": [
         {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ram Pothineni",
-          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
         }
       ],
-      "duration_ms": 240101,
-      "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
-      "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
-    },
-    {
-      "added_at": "2026-01-12 07:50:56",
-      "album": {
-        "name": "Choodalani Undi",
-        "url": "https://open.spotify.com/album/6yX3i4plH8ILZljaqQBwPO"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Ramma Chilakamma",
-      "url": "https://open.spotify.com/track/24O9IoUekTjU0puV52BTFM"
-    },
-    {
-      "added_at": "2025-12-16 07:07:20",
-      "album": {
-        "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
-        "url": "https://open.spotify.com/album/1osZtw9mrsC3MhKFjwCLLr"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Blaaze",
-          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 221096,
-      "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
-      "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
+      "duration_ms": 281039,
+      "name": "Kannepettaro Kannu Kottaro",
+      "url": "https://open.spotify.com/track/0ZuXbpYdMkkct1w7eL57ci"
     },
     {
       "added_at": "2026-01-12 07:50:56",
@@ -275,6 +183,62 @@
       "duration_ms": 255626,
       "name": "Yureka",
       "url": "https://open.spotify.com/track/02gSJiOng9G8rCQ5RQcy8z"
+    },
+    {
+      "added_at": "2026-01-13 07:48:33",
+      "album": {
+        "name": "Karthika Deepam",
+        "url": "https://open.spotify.com/album/3M3tiF3WyPT20RpYOwDipf"
+      },
+      "artists": [
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Aaraneekuma Ee Deepam",
+      "url": "https://open.spotify.com/track/1mMY0R2yyT81Vmgza2s7NO"
+    },
+    {
+      "added_at": "2026-01-13 07:48:33",
+      "album": {
+        "name": "Dalapathi",
+        "url": "https://open.spotify.com/album/1WUIWoxRQx6Lu3UBN8d795"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/1VF37SSW3iRYR0u2v9ItdL"
+        }
+      ],
+      "duration_ms": 420255,
+      "name": "Sundari Neeve",
+      "url": "https://open.spotify.com/track/1BRNySVcWBTUJwar0ItNSB"
+    },
+    {
+      "added_at": "2026-01-12 07:50:56",
+      "album": {
+        "name": "Choodalani Undi",
+        "url": "https://open.spotify.com/album/6yX3i4plH8ILZljaqQBwPO"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Ramma Chilakamma",
+      "url": "https://open.spotify.com/track/24O9IoUekTjU0puV52BTFM"
     },
     {
       "added_at": "2026-01-08 08:18:53",
@@ -299,6 +263,86 @@
       "duration_ms": 138126,
       "name": "Hook Step (From \"Mana ShankaraVaraPrasad Garu - Pandagaki Vasthunnaru\")",
       "url": "https://open.spotify.com/track/5xQAELRQ7BJ7Br0O6MLwiY"
+    },
+    {
+      "added_at": "2026-01-06 06:40:02",
+      "album": {
+        "name": "Sahana Sahana (From \"The Rajasaab\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0o5pHRoYSAuYkonm6sV1Tm"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 263075,
+      "name": "Sahana Sahana (From \"The Rajasaab\") [TELUGU]",
+      "url": "https://open.spotify.com/track/5xOEnyX9CddnBbUNLmbW7X"
+    },
+    {
+      "added_at": "2025-12-02 09:12:02",
+      "album": {
+        "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
+        "url": "https://open.spotify.com/album/2YsJF3plTQyCecg2NwFlnW"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Mervin Solomon",
+          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
+        },
+        {
+          "name": "Satya Yamini",
+          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
+      "url": "https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb"
+    },
+    {
+      "added_at": "2025-11-11 06:12:33",
+      "album": {
+        "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
+        "url": "https://open.spotify.com/album/54OTEy2kqJqKPH9wHMcJ1h"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ram Pothineni",
+          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
+        }
+      ],
+      "duration_ms": 240101,
+      "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
+      "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
     },
     {
       "added_at": "2025-11-03 09:53:29",
@@ -437,32 +481,68 @@
       "url": "https://open.spotify.com/track/3iIR2YfNdC9CYhA8ieF5UO"
     },
     {
-      "added_at": "2025-12-02 09:12:02",
+      "added_at": "2026-01-20 06:19:38",
       "album": {
-        "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
-        "url": "https://open.spotify.com/album/2YsJF3plTQyCecg2NwFlnW"
+        "name": "BHAJANA",
+        "url": "https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE"
       },
       "artists": [
         {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+          "name": "Dasagriva",
+          "url": "https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn"
         },
         {
-          "name": "Mervin Solomon",
-          "url": "https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv"
-        },
-        {
-          "name": "Satya Yamini",
-          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+          "name": "CLOWNY BEATZZ",
+          "url": "https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
-      "url": "https://open.spotify.com/track/2W7nhORqSy1QD4fETZmZmb"
+      "duration_ms": 155664,
+      "name": "BHAJANA",
+      "url": "https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat"
+    },
+    {
+      "added_at": "2025-09-24 14:19:05",
+      "album": {
+        "name": "They Call Him OG (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kdL88K9XLanDjaE4cHmlM"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Harsha Darivemula",
+          "url": "https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk"
+        }
+      ],
+      "duration_ms": 253145,
+      "name": "Guns and Roses",
+      "url": "https://open.spotify.com/track/565bXJPlrXSq5O2aVGUr0D"
+    },
+    {
+      "added_at": "2026-01-20 06:19:38",
+      "album": {
+        "name": "23 Theme (From \"AA23\")",
+        "url": "https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Hector Salamanca",
+          "url": "https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 47741,
+      "name": "23 Theme (From \"AA23\")",
+      "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
     },
     {
       "added_at": "2025-12-02 09:12:02",
@@ -507,22 +587,6 @@
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/0G1GYz7LESrRh3FDRFOTld"
-    },
-    {
-      "added_at": "2025-12-18 07:14:26",
-      "album": {
-        "name": "Hello Brother",
-        "url": "https://open.spotify.com/album/6OoEA63IZi6jqNQglyUWt3"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        }
-      ],
-      "duration_ms": 281039,
-      "name": "Kannepettaro Kannu Kottaro",
-      "url": "https://open.spotify.com/track/0ZuXbpYdMkkct1w7eL57ci"
     },
     {
       "added_at": "2025-12-16 07:07:20",
@@ -591,26 +655,6 @@
       "duration_ms": 301500,
       "name": "Arerey Manasa (From \"Falaknuma Das\")",
       "url": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI"
-    },
-    {
-      "added_at": "2025-09-24 14:19:05",
-      "album": {
-        "name": "They Call Him OG (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4kdL88K9XLanDjaE4cHmlM"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Harsha Darivemula",
-          "url": "https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk"
-        }
-      ],
-      "duration_ms": 253145,
-      "name": "Guns and Roses",
-      "url": "https://open.spotify.com/track/565bXJPlrXSq5O2aVGUr0D"
     },
     {
       "added_at": "2025-05-09 09:56:17",
@@ -775,26 +819,6 @@
       "duration_ms": 261133,
       "name": "Mallika Gandha (From \"Telusu Kada\")",
       "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
-    },
-    {
-      "added_at": "2024-06-04 06:47:16",
-      "album": {
-        "name": "Hungry Cheetah (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Raghu Ram",
-          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
-        }
-      ],
-      "duration_ms": 119052,
-      "name": "Hungry Cheetah (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
     },
     {
       "added_at": "2025-10-08 05:36:53",
@@ -1079,34 +1103,6 @@
       "duration_ms": 349653,
       "name": "Manassa",
       "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
-    },
-    {
-      "added_at": "2025-02-14 06:50:34",
-      "album": {
-        "name": "Surya S/o Krishnan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO"
-      },
-      "artists": [
-        {
-          "name": "Harris Jayaraj",
-          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
-        },
-        {
-          "name": "Naresh Iyer",
-          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
-        },
-        {
-          "name": "Prashanthini",
-          "url": "https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx"
-        },
-        {
-          "name": "Veturi",
-          "url": "https://open.spotify.com/artist/2PzkQwyu8uJkEJMkqV0nEj"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "Monna Kanipinchavu",
-      "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"
     },
     {
       "added_at": "2023-12-11 04:40:35",

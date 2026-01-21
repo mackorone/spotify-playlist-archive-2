@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : AsurA
 
-456 songs - 1 day 3 hr 19 min
+457 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [hello master!](https://open.spotify.com/track/0djwARp8JriBrVLMokz83Z) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb), [Stanley Sajeev](https://open.spotify.com/artist/01hzMpU7t0rLILKgBo0Sau) | [hello master!](https://open.spotify.com/album/6kXrq2yivg13UPq0nEHAsx) | 2:54 | 2024-05-10 | 2024-08-14 |
 | [Hero](https://open.spotify.com/track/0Tqag8vdsXMoYccjjKQVHz) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Hero](https://open.spotify.com/album/7i0rOrVET95OnXR1toHjPQ) | 4:04 | 2024-04-25 | 2024-07-17 |
 | [Hey Nene](https://open.spotify.com/track/2JmQmd4T2qBayISYT7nShb) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Hey Nene](https://open.spotify.com/album/0eqtgJE49B3tDsrf7WNKqf) | 2:40 | 2026-01-05 |  |
-| [Hi Laila](https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Hi Laila](https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m) | 3:43 | 2024-12-13 |  |
+| [Hi Laila](https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Hi Laila](https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m) | 3:43 | 2024-12-13 | 2026-01-21 |
 | [Idega Prema](https://open.spotify.com/track/064ixsMnRni9dj13BoOXvT) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu) | [Idega Prema](https://open.spotify.com/album/2OdQtTapi5rAT2shgxiyd1) | 5:12 | 2024-01-18 | 2024-04-26 |
 | [Idhi Prema](https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Manasa Adusumilli](https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Lalitha Shravani](https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS) | [Idhi Prema](https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic) | 3:00 | 2023-10-04 | 2025-08-15 |
 | [Idhivarakepudu](https://open.spotify.com/track/2X171GMMznwh0UZr5QJ0gF) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Idhivarakepudu](https://open.spotify.com/album/2K0f2Co8UA0qxGwKmGPGkY) | 3:58 | 2025-11-06 |  |
@@ -380,6 +380,7 @@
 | [Sakhiye](https://open.spotify.com/track/2a8w4nzNhzGbjWv07gmDnr) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Sakhiye](https://open.spotify.com/album/15e9cIt413nP4KTTJd4sRe) | 3:50 | 2025-06-03 | 2025-11-07 |
 | [Salary Anthem](https://open.spotify.com/track/56maqkaAZuj7u3U2gzobrM) | [M\. Dheeraj](https://open.spotify.com/artist/6HPzEJPKMONBrhsP9uPfjI) | [Salary Anthem](https://open.spotify.com/album/2AwJaeAb8OepO4YaQljKct) | 4:07 | 2024-07-29 | 2024-10-11 |
 | [Sandela Kusuni](https://open.spotify.com/track/5yg0VylKGCJhL2jIu3D0Oq) | [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Sandela Kusuni](https://open.spotify.com/album/3FtLruzrqugjfqV4xX6VTr) | 4:43 | 2024-01-18 | 2024-08-20 |
+| [Sankranthi Pandaga](https://open.spotify.com/track/6Y1J251mtyh4o8LzSiW8D0) | [M3 sai](https://open.spotify.com/artist/6XZcFI5DpzxjKDIV2tJtgi) | [Sankranthi Pandaga](https://open.spotify.com/album/3jVoOQlKYgumXupusYvi6p) | 4:00 | 2026-01-20 |  |
 | [Sara Sara](https://open.spotify.com/track/44cftS2B4BP2bvOSarSM6x) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Sara Sara](https://open.spotify.com/album/6OKdkEQdcwGyhvkaocFwZm) | 1:04 | 2023-10-11 | 2023-12-30 |
 | [Sathya \- Expression Of Love](https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St) | [Nishanth Shekar](https://open.spotify.com/artist/4eyGSxCplyGRpM7tKXP8l5), [Ayaan](https://open.spotify.com/artist/66NRi9Dp2PVLCOlxfSHY3v) | [Sathya \- Expression Of Love](https://open.spotify.com/album/64GLiOFpf3yKKlLUoOFgbK) | 2:54 | 2022-07-18 | 2024-02-15 |
 | [Satyabhama](https://open.spotify.com/track/5gZh6GzAsZI7wUcwcyUihL) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Satyabhama](https://open.spotify.com/album/6wgbTGIpgyBheHFtQeQi2f) | 3:41 | 2024-02-14 | 2025-02-28 |

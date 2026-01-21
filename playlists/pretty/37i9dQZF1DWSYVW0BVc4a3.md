@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Kicking off 2026 with new DJ Seinfeld!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,124 likes - 270 songs - 17 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,115 likes - 270 songs - 17 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 269 | [Higher](https://open.spotify.com/track/3BZ20TTUz5V6DhALxzs9lE) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Higher EP](https://open.spotify.com/album/2QAH4GkKQQlTzfmjFx5bzm) | 3:35 |
 | 270 | [Polar](https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Polar](https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU) | 4:06 |
 
-Snapshot ID: `AAAAAJtz0yPEnniSPqMRP7Ay/gFUIk37`
+Snapshot ID: `AAAAAC7Fzt1lwdZ/lfc4LxQZwk02j5oP`

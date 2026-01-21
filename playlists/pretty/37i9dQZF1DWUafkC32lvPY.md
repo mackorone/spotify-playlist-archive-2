@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,436 likes - 80 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,446 likes - 80 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 37 | [Cholomuco](https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Día Más Largo](https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj) | 2:26 |
 | 38 | [Metro Mexico](https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Metro Mexico](https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO) | 2:00 |
 | 39 | [México Mágico](https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:38 |
-| 40 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
-| 41 | [Primer Beso](https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Primer Beso](https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g) | 2:15 |
+| 40 | [Primer Beso](https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Primer Beso](https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g) | 2:15 |
+| 41 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
 | 42 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
 | 43 | [Devagar](https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw) | [Beagle Bonnie](https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3), [DJ Noé](https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3) | [Sample Saga: Brazil](https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe) | 1:57 |
 | 44 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 61 | [Miércoles Azul](https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Monno Briceno](https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys) | [Miércoles Azul](https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI) | 2:47 |
 | 62 | [Alcázar](https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE) | [Tranquilo](https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE) | [Alcázar](https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ) | 1:38 |
 | 63 | [Guaraní Landscape](https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv) | [Guaraní Landscape](https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY) | 3:09 |
-| 64 | [bailar contigo](https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [un atardecer a tu lado](https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l) | 1:41 |
-| 65 | [Maruchan](https://open.spotify.com/track/5jheo6f4gSjfnhte65b5Tt) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Mercado](https://open.spotify.com/album/09BVrTYlFl82ndSfLcpqLS) | 1:40 |
+| 64 | [Maruchan](https://open.spotify.com/track/5jheo6f4gSjfnhte65b5Tt) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Mercado](https://open.spotify.com/album/09BVrTYlFl82ndSfLcpqLS) | 1:40 |
+| 65 | [bailar contigo](https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [un atardecer a tu lado](https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l) | 1:41 |
 | 66 | [Trust](https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j) | [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [Quiet Process](https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc) | 2:48 |
-| 67 | [Anoche](https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 1:48 |
-| 68 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
+| 67 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
+| 68 | [Anoche](https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 1:48 |
 | 69 | [Lunes Azul](https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR) | [Hora Azul](https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo) | 2:45 |
 | 70 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
 | 71 | [Diamond Sparkle](https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Beautiful Lights](https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR) | 2:28 |

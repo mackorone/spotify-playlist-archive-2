@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Melodies of the movement. Cover: Carl Carlton",
+  "description": "Melodies of the movement. Cover: Michael Jackson and Quincy Jones",
   "name": "Power To The People",
   "tracks": [
     {
@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/2Y2gAugTCCJOoRISyOl9JP"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431266,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/14zirKMXN1nMX7nDTRlnee"
+    },
+    {
+      "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
         "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
       },
@@ -1006,6 +1028,24 @@
       "duration_ms": 425826,
       "name": "Love's In Need Of Love Today",
       "url": "https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO"
+    },
+    {
+      "album": {
+        "name": "The Essential Michael Jackson",
+        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320905,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/2M7y4xDWT67Lf0JE9mrz1R"
     },
     {
       "album": {

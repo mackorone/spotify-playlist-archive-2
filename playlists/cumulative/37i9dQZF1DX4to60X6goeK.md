@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Voltage
 
-338 songs - 21 hr 40 min
+339 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Certified Gs](https://open.spotify.com/track/0OFPij448pt21kHBHsT4au) | [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Certified Gs](https://open.spotify.com/album/2vIsedCdWyGjqwhiUMrarb) | 3:00 | 2022-05-06 | 2022-07-29 |
 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 | 2023-10-20 | 2026-01-16 |
 | [Chop House \- VIP](https://open.spotify.com/track/4k3R5FJM6cL07CNDGgihIR) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Chop House \(VIP\)](https://open.spotify.com/album/194WUrt4sV1BdhEiHUR8JG) | 4:29 | 2023-12-27 | 2024-01-12 |
-| [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-09-25 |  |
+| [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-09-25 | 2026-01-21 |
 | [Closer \- Hedex Remix](https://open.spotify.com/track/5GxZzzm83wpUBcDfkH6VPk) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer \(Hedex Remix\)](https://open.spotify.com/album/5CyWDYcKoNeiOkfCHisIMa) | 2:58 | 2023-12-27 | 2024-01-12 |
 | [Clubcard](https://open.spotify.com/track/69iCFPZbfFBrJ86RCi9Fk7) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Mercy & Misery / Clubcard](https://open.spotify.com/album/21GSw1OpXdBDiuYxFGET0J) | 4:02 | 2022-05-06 | 2022-07-26 |
 | [Cobra](https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Cobra / Riddim](https://open.spotify.com/album/1LrKr549uqGd77TPGJKKFr) | 3:50 | 2023-11-17 | 2024-04-19 |
@@ -328,6 +328,7 @@
 | [Veteran \- Alix Perez Remix](https://open.spotify.com/track/5GRvEx0nSMYAcuNFfpQmSN) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Veteran \( Alix Perez Remix\)](https://open.spotify.com/album/4vuc1YHZX8PTzMGWLXUjMh) | 4:34 | 2023-12-27 | 2024-01-12 |
 | [Veteran \- Serum Remix](https://open.spotify.com/track/2aN8xHlMWc2NVujVnMWikE) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Veteran \(Serum Remix\)](https://open.spotify.com/album/6KD3BKrrL0AVnvMmgff65K) | 2:36 | 2023-12-27 | 2024-01-12 |
 | [Veteran \- VIP](https://open.spotify.com/track/1v0671GGqimaoetFv1IvAZ) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Veteran \(VIP\)](https://open.spotify.com/album/4VtHYtPbo7ElrAzN7CRHu4) | 4:28 | 2023-12-27 | 2024-01-12 |
+| [Violence](https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Maëlie](https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4) | [Violence](https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB) | 2:41 | 2026-01-16 |  |
 | [Void](https://open.spotify.com/track/0p1PEZDgUxUy8P3e6sLwxe) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/7CGITZOY5pra6F0w3JAgTi) | 5:27 | 2022-05-06 | 2022-07-28 |
 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 | 2022-06-20 | 2023-09-22 |
 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 | 2022-05-06 | 2025-03-21 |

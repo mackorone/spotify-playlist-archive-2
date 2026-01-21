@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-816 songs - 1 day 16 hr 41 min
+817 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All I Need](https://open.spotify.com/track/3Wt6ZGLHnKTPT2emFjvRJo) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [All I Need](https://open.spotify.com/album/3TBi6eBO6EGHrf1W9H9ZvQ) | 2:39 | 2025-07-10 |  |
 | [All In My Head](https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [All In My Head](https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs) | 3:04 | 2026-01-01 |  |
 | [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 | 2023-08-10 |
+| [All Night Long](https://open.spotify.com/track/0C5J2EriCtpGp251fYrbqD) | [Alex Moretto](https://open.spotify.com/artist/3UelwLWbuCQkJvohXe9CIm) | [All Night Long](https://open.spotify.com/album/64JM4MSv8am4sapqSeevR4) | 2:10 | 2026-01-20 |  |
 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 | 2023-07-13 | 2023-08-10 |
 | [All Or Nothing](https://open.spotify.com/track/3hAXUsQoXs9vIY22fFZn9z) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [All Or Nothing](https://open.spotify.com/album/1HCA5Vrez4PKopNqbZykTO) | 3:26 | 2025-03-20 |  |
 | [All We've Ever Known](https://open.spotify.com/track/0BrcT26Jb5SNAJSVRMPdVo) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [All We've Ever Known](https://open.spotify.com/album/5MuveroOf9KvC6mC3IUOeF) | 2:40 | 2025-08-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 99603,
+  "num_followers": 99626,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Vida Musical, Vol. 1",
-        "url": "https://open.spotify.com/album/4R5CqQ6zcAtkWcLua3mFW9"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Linares",
-          "url": "https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd"
-        }
-      ],
-      "duration_ms": 217364,
-      "name": "Tihuanaco",
-      "url": "https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Acid",
         "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 168093,
       "name": "A Deeper Shade Of Soul",
       "url": "https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "El Barrio",
+        "url": "https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k"
+      },
+      "artists": [
+        {
+          "name": "Ralph Robles",
+          "url": "https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Come And Get It",
+      "url": "https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL"
     }
   ],
   "unique_name": "Boogaloo Essentials",

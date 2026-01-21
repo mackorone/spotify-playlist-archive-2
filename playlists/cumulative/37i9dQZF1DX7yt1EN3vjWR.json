@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "BIGMAN",
+        "url": "https://open.spotify.com/album/0aLj3AiPv9vxtBlT50mK1I"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171511,
+      "name": "BIGMAN",
+      "url": "https://open.spotify.com/track/4QcJ480QrpsKJEWTN6LZQk"
+    },
+    {
+      "album": {
         "name": "Pink Crocodile",
         "url": "https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr"
       },
@@ -2358,6 +2376,24 @@
       "duration_ms": 155000,
       "name": "Black List (feat. Deech)",
       "url": "https://open.spotify.com/track/7p1hE8CRGj0x2xzvZFthT5"
+    },
+    {
+      "album": {
+        "name": "Kiannacore 3",
+        "url": "https://open.spotify.com/album/6JSTrZQd5jLgVQffAAKNWr"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132467,
+      "name": "blah blah",
+      "url": "https://open.spotify.com/track/5VBRvtwLvmNRxHZwAzAzbt"
     },
     {
       "album": {
@@ -2534,6 +2570,24 @@
       "duration_ms": 242981,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0Wx7r7Zk6GrXy0sw2Ugq2W"
+    },
+    {
+      "album": {
+        "name": "LUV HOOD BABY 2",
+        "url": "https://open.spotify.com/album/5PcTOJyEbhu88PxIwohtuF"
+      },
+      "artists": [
+        {
+          "name": "YELLASOMA",
+          "url": "https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183159,
+      "name": "BoroBoro",
+      "url": "https://open.spotify.com/track/57bgA3x8WbVrzfDIEUejAb"
     },
     {
       "album": {
@@ -3182,6 +3236,24 @@
       "duration_ms": 150768,
       "name": "Chase",
       "url": "https://open.spotify.com/track/7d8yu81jtIp5WXnDlx8uZW"
+    },
+    {
+      "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/363PnnysnXLedmrRwjBQVa"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242972,
+      "name": "Cheetah (Freestyle)",
+      "url": "https://open.spotify.com/track/0xCsV3Qreen98z6O8AvaTR"
     },
     {
       "album": {
@@ -4669,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "DREAMS COME TRUE",
+        "url": "https://open.spotify.com/album/7yrWn3kDO6z9hc6PXYzgBN"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "DREAMS COME TRUE",
+      "url": "https://open.spotify.com/track/4lNAolOACIO4o3NuIsWLY5"
+    },
+    {
+      "album": {
         "name": "T.B.T.H",
         "url": "https://open.spotify.com/album/61wtJICaIvofS1JyJAbfIA"
       },
@@ -5696,6 +5786,24 @@
       "duration_ms": 151961,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/72nwMtsLlUhX6ga9x1esld"
+    },
+    {
+      "album": {
+        "name": "Fresh as fuck",
+        "url": "https://open.spotify.com/album/4o4Xvc00hxLhwFI8jV02Wq"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "Fresh as fuck",
+      "url": "https://open.spotify.com/track/5e5HHznMJTHwyG3abZWl0l"
     },
     {
       "album": {
@@ -7004,6 +7112,28 @@
       "duration_ms": 202706,
       "name": "HELLO HATER",
       "url": "https://open.spotify.com/track/0ppbRKb02BB77hwKbaAwUf"
+    },
+    {
+      "album": {
+        "name": "Hey bitch, I'm perfect",
+        "url": "https://open.spotify.com/album/4Xg06pwwsTcczbXT0Ln1vV"
+      },
+      "artists": [
+        {
+          "name": "X 1ark",
+          "url": "https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9"
+        },
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127451,
+      "name": "Hey bitch, I'm perfect",
+      "url": "https://open.spotify.com/track/4Vg2N09p1pVqhuXu7UNXYK"
     },
     {
       "album": {
@@ -9253,6 +9383,24 @@
     },
     {
       "album": {
+        "name": "22MIX",
+        "url": "https://open.spotify.com/album/3wbDxYAByb8qufhGk3WyZp"
+      },
+      "artists": [
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Limited",
+      "url": "https://open.spotify.com/track/59YhNkOsV5meroZ712n2DJ"
+    },
+    {
+      "album": {
         "name": "Queendom",
         "url": "https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON"
       },
@@ -9528,6 +9676,24 @@
       "duration_ms": 190986,
       "name": "LOVE (feat. Choppa Capone)",
       "url": "https://open.spotify.com/track/5xPcOLFttpWB60skQKMRiq"
+    },
+    {
+      "album": {
+        "name": "Lucy & David",
+        "url": "https://open.spotify.com/album/12rCDHbO6uj4I46EI0rTk2"
+      },
+      "artists": [
+        {
+          "name": "Rama Pantera",
+          "url": "https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Lucy & David",
+      "url": "https://open.spotify.com/track/3OjHOM6xDHStqwZ8hI8ggL"
     },
     {
       "album": {
@@ -12041,6 +12207,24 @@
     },
     {
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/0s59Ptl29z69KPnPbg74ZN"
+      },
+      "artists": [
+        {
+          "name": "Rama Pantera",
+          "url": "https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205937,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/49tywgOzKPeyEt7W6vcyUf"
+    },
+    {
+      "album": {
         "name": "On My Mama (feat. TAKABO)",
         "url": "https://open.spotify.com/album/4fe2H4Pv46dSYTQwLV380B"
       },
@@ -12400,6 +12584,24 @@
       "duration_ms": 194440,
       "name": "Ozone",
       "url": "https://open.spotify.com/track/5pI9So3OZfdVI8vqoBcKBM"
+    },
+    {
+      "album": {
+        "name": "Loco Lunch",
+        "url": "https://open.spotify.com/album/3baqUmj4NC3E340Bpfkdo9"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129300,
+      "name": "PA+++",
+      "url": "https://open.spotify.com/track/6js5k6ab9w4Ca1iZF6zd8W"
     },
     {
       "album": {
@@ -13429,6 +13631,28 @@
     },
     {
       "album": {
+        "name": "Rainy (feat. Bene Baby)",
+        "url": "https://open.spotify.com/album/77PMBdBvJD0eJ5AL0I4xYo"
+      },
+      "artists": [
+        {
+          "name": "X 1ark",
+          "url": "https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9"
+        },
+        {
+          "name": "Bene Baby",
+          "url": "https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Rainy (feat. Bene Baby)",
+      "url": "https://open.spotify.com/track/4dCCdPKeInmk4OzIB5dDfx"
+    },
+    {
+      "album": {
         "name": "GUNJO",
         "url": "https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6"
       },
@@ -13480,6 +13704,24 @@
       "duration_ms": 146813,
       "name": "RANDO",
       "url": "https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR",
+        "url": "https://open.spotify.com/album/3ZTV0Zdd5T86SiybD8c6YF"
+      },
+      "artists": [
+        {
+          "name": "YELLASOMA",
+          "url": "https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141837,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/6znv4CdPla2YNknegmybBT"
     },
     {
       "album": {
@@ -14608,6 +14850,24 @@
       "duration_ms": 157291,
       "name": "SHIBUKI BOY",
       "url": "https://open.spotify.com/track/2EtJ8yMjf2a5TUNQaHT72o"
+    },
+    {
+      "album": {
+        "name": "THE GOAT TAPE 4",
+        "url": "https://open.spotify.com/album/691GLrlnXVyUrc9dvEpTAj"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "SHINJUKU",
+      "url": "https://open.spotify.com/track/2dC5T6q7XIU1nsYcNb5Ppe"
     },
     {
       "album": {
@@ -16514,7 +16774,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 210364,
       "name": "TRUST",
       "url": "https://open.spotify.com/track/1aPge51xoRxVhOF1ysFSP3"
@@ -17405,6 +17665,24 @@
     },
     {
       "album": {
+        "name": "GENIUS",
+        "url": "https://open.spotify.com/album/48zLyHhgAHRWlvGdGmDNq3"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171182,
+      "name": "WE SWAG",
+      "url": "https://open.spotify.com/track/57tX6MSFHiSsiy5M2yZcxD"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4h3rgxOEJ8TbPMjoB0FqMQ"
       },
@@ -18211,6 +18489,24 @@
     },
     {
       "album": {
+        "name": "YURARI",
+        "url": "https://open.spotify.com/album/0I6ITqnHkC586CpMgrMaPv"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "YURARI",
+      "url": "https://open.spotify.com/track/5qgBaTeRFxwcXCjUs3Zx1F"
+    },
+    {
+      "album": {
         "name": "YW",
         "url": "https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms"
       },
@@ -18884,6 +19180,42 @@
       "duration_ms": 157213,
       "name": "\u30ca\u30b7\u304b\u3089\u30a2\u30ea (feat. MIKADO & Fuji Taito)",
       "url": "https://open.spotify.com/track/5tq0V4oOkWbv4pydLuiWAR"
+    },
+    {
+      "album": {
+        "name": "THE GOAT TAPE 4",
+        "url": "https://open.spotify.com/album/691GLrlnXVyUrc9dvEpTAj"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "\u30cb\u30b3\u30cb\u30b3",
+      "url": "https://open.spotify.com/track/1385y58ViBHBPQa9Hvx174"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/1NgNWtG58r30GoNe5fdUpw"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145605,
+      "name": "\u30d0\u30a4\u30aa\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/0b19ZdZoxf3lmGSEVnHIWr"
     },
     {
       "album": {
@@ -20024,6 +20356,28 @@
       "duration_ms": 185933,
       "name": "\u77e5\u3089\u3056\u3042\u8a00\u3063\u3066\u805e\u304b\u305b\u3084SHOW",
       "url": "https://open.spotify.com/track/09GquNGyLAXDoQKARW1DqK"
+    },
+    {
+      "album": {
+        "name": "\u77f3\u3053\u308d\u304b\u3089\u30c0\u30a4\u30e4 (feat. Benjazzy) [Remix]",
+        "url": "https://open.spotify.com/album/6z0jtsLODvaqiV9KDAtPf6"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/48YMnYuzafQxVYz7Dxmekl"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211895,
+      "name": "\u77f3\u3053\u308d\u304b\u3089\u30c0\u30a4\u30e4 (feat. Benjazzy) - Remix",
+      "url": "https://open.spotify.com/track/29RjBYu76QWpFjuDknEV8M"
     },
     {
       "album": {

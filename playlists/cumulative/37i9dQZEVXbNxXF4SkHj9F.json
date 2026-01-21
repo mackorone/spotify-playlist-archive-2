@@ -848,7 +848,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 215760,
       "name": "A Letter",
       "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
@@ -15984,7 +15984,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-17",
+      "date_removed": null,
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
@@ -19636,7 +19636,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 159686,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/5iFbKoNv7Jc5Arpbf8D90B"
@@ -20272,7 +20272,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 234374,
       "name": "Love over hip hop, money over love (feat. Basick)",
       "url": "https://open.spotify.com/track/3g8mimqqxsAEtkktm1TYEk"
@@ -37594,7 +37594,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
@@ -38042,6 +38042,24 @@
       "duration_ms": 195536,
       "name": "\ubcf4\ub098\ub9c8\ub098 (BONAMANA)",
       "url": "https://open.spotify.com/track/6fbS9Lbyv6L4tz7tcmBGKh"
+    },
+    {
+      "album": {
+        "name": "A Year Out...In The Island",
+        "url": "https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyun Jung",
+          "url": "https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280790,
+      "name": "\uc0ac\ub791\uc740 \ubd04\ube44\ucc98\ub7fc...\uc774\ubcc4\uc740 \uaca8\uc6b8\ube44\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO"
     },
     {
       "album": {

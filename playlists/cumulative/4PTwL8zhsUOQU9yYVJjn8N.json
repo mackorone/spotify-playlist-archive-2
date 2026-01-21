@@ -3877,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "worldstar",
+        "url": "https://open.spotify.com/album/3GHhleqErwF9iYGAoF3nnd"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63686,
+      "name": "worldstar",
+      "url": "https://open.spotify.com/track/55n6Rih7nX0gZeoFKxM17T"
+    },
+    {
+      "album": {
         "name": "pastpresentfuture + instrumentals",
         "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
       },

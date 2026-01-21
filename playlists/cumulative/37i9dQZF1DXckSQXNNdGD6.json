@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 193412,
       "name": "LOKADEM\u00c1S",
       "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
@@ -3194,6 +3194,28 @@
       "duration_ms": 200040,
       "name": "Me Quedar\u00e9",
       "url": "https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG"
+    },
+    {
+      "album": {
+        "name": "Me tir\u00e9 a un Facha",
+        "url": "https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb"
+      },
+      "artists": [
+        {
+          "name": "Montedapena",
+          "url": "https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv"
+        },
+        {
+          "name": "PLATER\u00cdAS",
+          "url": "https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Me tir\u00e9 a un Facha",
+      "url": "https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY"
     },
     {
       "album": {
@@ -3917,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Para 2",
+        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Para 2",
+      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
+    },
+    {
+      "album": {
         "name": "Paris Hilton",
         "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
       },
@@ -4576,7 +4616,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 177680,
       "name": "Reset",
       "url": "https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8"

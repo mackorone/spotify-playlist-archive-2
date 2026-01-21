@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\.  Foto: Lola Flores.
 
-2,382 songs - 4 day 23 hr 9 min
+2,387 songs - 4 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Gelosies](https://open.spotify.com/track/29mEQtE1iexR3JWCrigBFm) | [Júlia Colom](https://open.spotify.com/artist/2FGexWthFJnvymvErkOPaI) | [Gelosies](https://open.spotify.com/album/2fryr3aJI3sKcQ4Hen3zkl) | 2:34 | 2025-09-02 | 2025-10-01 |
 | [Generación de Cristal](https://open.spotify.com/track/7FHbP7Q5AW5IMXsD9s1NA2) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Generación de Cristal](https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y) | 3:33 | 2024-03-05 | 2024-04-03 |
 | [Ghosting](https://open.spotify.com/track/3pmzgncWmfLiCjgGHvzS0D) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Ghosting](https://open.spotify.com/album/2Te2CiQYqVsz3Y62EgnGgB) | 3:11 | 2022-07-05 | 2022-08-03 |
+| [Gigante](https://open.spotify.com/track/39e9XFY4lKx8CPwspoT0A1) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Gigante](https://open.spotify.com/album/6YW5UPSick4KA2ghpE5cPS) | 3:38 | 2026-01-20 |  |
 | [girasol \(¿qué más te da?\)](https://open.spotify.com/track/4AJ66WDmzcz1ADcGAb0pwI) | [Bea](https://open.spotify.com/artist/6ZCoUza8s3tgERIqWtT2qu) | [girasol \(¿qué más te da?\)](https://open.spotify.com/album/3ChzbnHwhe2CRoF3nbQooH) | 2:35 | 2022-09-06 | 2022-11-09 |
 | [Girl, so confusing \- Cover](https://open.spotify.com/track/2VGS2fuYuxtbDNeKRCuYL0) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Girl, so confusing \(Cover\)](https://open.spotify.com/album/0dU5WQsbGV9z8A5YEWrCDv) | 3:34 | 2025-09-30 | 2025-11-05 |
 | [Gitana María](https://open.spotify.com/track/4TBf3nSaTBtHnDpMmt6qm5) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Gitana María](https://open.spotify.com/album/6UfJHwcNf3q7nk1dKVAJNg) | 3:07 | 2023-11-07 | 2023-11-30 |
@@ -1172,6 +1173,7 @@
 | [LUCKY](https://open.spotify.com/track/1BFwDysUateL81z6GucHp0) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [LUCKY](https://open.spotify.com/album/6zr5JDvStd21IUNTFA4Vmo) | 3:29 | 2022-11-08 | 2022-12-01 |
 | [Luna](https://open.spotify.com/track/0buoY7euJFF4bu8aVYE1pq) | [Alba Armengou](https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul) | [Luna](https://open.spotify.com/album/5S5Pwl9KnQ5dPevnsaxwgw) | 3:54 | 2023-02-01 | 2023-03-01 |
 | [Luna](https://open.spotify.com/track/2xC9D5clZavXTtslEQaOAx) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Luna](https://open.spotify.com/album/4KddWXh2hjcDwmx1FG65H8) | 4:05 | 2022-04-06 | 2022-05-04 |
+| [Luna Carmesí](https://open.spotify.com/track/7eqGK5WtqwzoxgFCqlKSgb) | [Candela](https://open.spotify.com/artist/2nLBN96iKVHyTJpLWjR5S0) | [Luna Carmesí](https://open.spotify.com/album/7mog2gjRxvVWQaXMzaPi4z) | 5:24 | 2026-01-20 |  |
 | [Luna Creciente](https://open.spotify.com/track/23QfXaqZIs9qxcGHRHaVa6) | [LA PATRI](https://open.spotify.com/artist/0zKiB90tiFMbMLT6tNsquX) | [Brujas Que Nacen](https://open.spotify.com/album/6pShfxiogMnPnHrZ2ohWPP) | 2:57 | 2022-10-04 | 2022-11-09 |
 | [LUNA DE MIEL](https://open.spotify.com/track/2c1KdTCp9wC1eMrdlRNNQj) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [LUNA DE MIEL](https://open.spotify.com/album/4YPk6RHTCQ1q9Z8Gwba95W) | 2:08 | 2025-01-07 | 2025-02-05 |
 | [Luna De Plata](https://open.spotify.com/track/2mVbba0qXNNxlsGr0vgbxh) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3) | [Luna De Plata](https://open.spotify.com/album/6fVzcgA24nNkXNdHiBxaIj) | 3:43 | 2025-01-07 | 2025-02-05 |
@@ -1362,6 +1364,7 @@
 | [MUERO](https://open.spotify.com/track/2YyKOTEodpfAGUHDZL3qmg) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [RESET](https://open.spotify.com/album/5Wf31p82eEWpLSBSR80TEh) | 2:26 | 2024-04-30 | 2024-06-06 |
 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 | 2025-05-06 | 2025-06-04 |
 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2022-09-06 | 2022-11-09 |
+| [Mundo hostil](https://open.spotify.com/track/4Bpitmd7bXb7sQm7ID8RUg) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Mundo hostil](https://open.spotify.com/album/5F20WyirAP1yfVDq2Zx90A) | 2:48 | 2026-01-20 |  |
 | [Murakami](https://open.spotify.com/track/4ep3HVihHoweqPBqvAZKEk) | [Lia](https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA) | [Murakami](https://open.spotify.com/album/0JWFG9xvwbOIy8yjVzcoIF) | 2:44 | 2025-04-01 | 2025-05-07 |
 | [Museo](https://open.spotify.com/track/5gBnzWzDvYDAYVI67QDIvj) | [Celia Dail](https://open.spotify.com/artist/2jic7RQmEPNLved2E2cQs2) | [Museo](https://open.spotify.com/album/1Zr68fzLmis35KBj55Vhu0) | 2:24 | 2024-11-05 | 2024-12-05 |
 | [Muy cerca del suelo](https://open.spotify.com/track/4IF87MB8c8TxsA5nq7GqlD) | [Pau Vegas](https://open.spotify.com/artist/5os3rIfiiErtNRocvMePpc) | [Esperanza y ruina](https://open.spotify.com/album/1Wxy9ZYTXGf4s259KnTPID) | 3:06 | 2023-02-28 | 2023-04-05 |
@@ -1388,6 +1391,7 @@
 | [NADA](https://open.spotify.com/track/01jGZdPSeAqWTSEsOaZhzu) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [NADA](https://open.spotify.com/album/2gvkDfmhwxqbKoDQ0ftTgl) | 2:53 | 2024-04-02 | 2024-05-01 |
 | [NADA](https://open.spotify.com/track/2QhHPI2f0meLLstZ3PqqD4) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [éXtasis](https://open.spotify.com/album/0jB5ywtZ4EaVPrCtVhncgm) | 2:53 | 2024-12-04 | 2025-01-08 |
 | [Nada](https://open.spotify.com/track/6sasIcOlrBXmlPJrASTGQi) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Nada](https://open.spotify.com/album/5LB4ji4ERApbK3DIyQSmPO) | 2:54 | 2024-04-02 | 2024-05-01 |
+| [Nada bueno](https://open.spotify.com/track/6vxtbH2urM6FWwWUsydJ6F) | [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [Reinicio](https://open.spotify.com/album/61Pzajp2zp71SqsK3Ve4wg) | 3:43 | 2026-01-20 |  |
 | [Nada Es Como Antes](https://open.spotify.com/track/7uPiomKmC7Y2EZpsW60Br1) | [Susi Abanades](https://open.spotify.com/artist/0e74JQnC17wREL7VkgfKQR) | [Nada Es Como Antes](https://open.spotify.com/album/1HtxK5mxi59wVZtgPZJx1y) | 2:50 | 2024-07-02 | 2024-08-07 |
 | [Nada Es Imposible](https://open.spotify.com/track/2ZD8XLezjtEmmL3kRqvCcX) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Nada Es Imposible](https://open.spotify.com/album/380YlMf8WArIMECCzEeMGE) | 3:30 | 2026-01-13 |  |
 | [Nada es para siempre](https://open.spotify.com/track/3UvcQKVDs2aCi3SDjLE2tJ) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nada es para siempre](https://open.spotify.com/album/1uwQ7i3zlQNKZX9cjUoQm3) | 2:41 | 2025-04-01 | 2025-05-07 |
@@ -1648,6 +1652,7 @@
 | [PEGADA EN EL UNDERGROUND](https://open.spotify.com/track/07p1lTWxODXVqZvFerjqp0) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PEGADA EN EL UNDERGROUND](https://open.spotify.com/album/4psAQb9QRIDkRmzwneMHQn) | 2:55 | 2024-06-05 | 2024-07-03 |
 | [PEGATTT](https://open.spotify.com/track/6bh5OKYXrrpxoHazKQRUVx) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [PEGATTT](https://open.spotify.com/album/7IM2vcxfbCozKIwhhNnpYq) | 3:12 | 2023-11-07 | 2023-11-30 |
 | [Peligro de Extinción](https://open.spotify.com/track/6vyuIIYUNHo4Xq02w9RGsQ) | [Sabela](https://open.spotify.com/artist/78fi6hiTjEQH8KQLzDqVRg) | [Peligro de Extinción](https://open.spotify.com/album/0sJvBiHuOprcehZDB39cSu) | 3:29 | 2022-05-31 | 2023-01-04 |
+| [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 | 2026-01-20 |  |
 | [Peluchito](https://open.spotify.com/track/41C5jdJGFtrL44emVlpFmp) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [Peluchito](https://open.spotify.com/album/69By2muu3jLYjyMGe9v0gd) | 2:28 | 2023-10-03 | 2023-11-08 |
 | [Pena](https://open.spotify.com/track/3cqDTN6zuucZRxrd3lYi5J) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Pena](https://open.spotify.com/album/6IxNO5qO8zH0LAtJeM5PG7) | 2:48 | 2022-02-01 | 2022-03-08 |
 | [Pena](https://open.spotify.com/track/3w0PeC1wztdg8lbxFy1e18) | [María Sánchez](https://open.spotify.com/artist/2cHCcij1RZIHBuVjubs4va) | [Aradia](https://open.spotify.com/album/1HZXXcCfwPryBwakGOecwm) | 3:53 | 2022-02-01 | 2022-03-08 |

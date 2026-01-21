@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-805 songs - 2 day 5 hr 10 min
+807 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-26 | 2023-10-04 |
 | [Independence day](https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(碧棺合歓\)](https://open.spotify.com/artist/1CSHxeBu5h05TF7rx3aTqa) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:22 | 2023-04-13 | 2023-06-09 |
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-09 | 2022-07-25 |
+| [innocent starter \-MUSEUM STYLE\-](https://open.spotify.com/track/5oF2YjRC7u2V0aPY4USGRQ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 5:09 | 2026-01-20 |  |
 | [Intaglio](https://open.spotify.com/track/5lQdtdz7hAYuvccRxGjMMu) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Intaglio](https://open.spotify.com/album/6PEuilXPcId94BGiIW8bYE) | 4:32 | 2023-10-17 | 2023-11-11 |
 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 | 2023-11-07 | 2024-01-19 |
 | [It's My Thing](https://open.spotify.com/track/2OSW5gqltXfeloiqubO844) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Memoirs and Fingertips](https://open.spotify.com/album/3wGgfAJwubMHynov9g5gev) | 3:36 | 2024-03-26 | 2024-04-14 |
@@ -246,6 +247,7 @@
 | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/track/3w9Y16TCQvLe3HXc1b3whd) | [Tachibana Hina](https://open.spotify.com/artist/3A6gmtAT07cw8v4QP25sCo) | [Momoiro Kataomoi \- From CrosSing](https://open.spotify.com/album/5vAJTeQLsiaYLWCzaoVW1D) | 4:18 | 2023-11-16 | 2023-12-20 |
 | [Moonlight Magic](https://open.spotify.com/track/71OPYknlGaRHqKrgIrLLwt) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 4:09 | 2022-06-09 | 2022-07-25 |
 | [MOONWORK](https://open.spotify.com/track/3TDHoVJgHjsU9Ky2v1cZ07) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [MOONWORK](https://open.spotify.com/album/2NK3lfUUWC0oB8omR53KxM) | 4:44 | 2025-06-03 | 2025-07-19 |
+| [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2026-01-20 |  |
 | [MY VOICE](https://open.spotify.com/track/7hP8TRaqvJd4nwGmz9mGme) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [MY VOICE](https://open.spotify.com/album/1bRoDKeDqu1o1KPWhH1yLH) | 3:41 | 2022-06-24 | 2022-07-06 |
 | [narrow](https://open.spotify.com/track/2l5LkdRTsylhqx3LPM7l4N) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 4:52 | 2022-06-09 | 2022-07-27 |
 | [Never Let It Go](https://open.spotify.com/track/0j4avB5X9orUlcVMOFYlTh) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Never Let It Go](https://open.spotify.com/album/0IfxyrotK7g8vQKLRHZOFI) | 3:45 | 2025-02-11 | 2025-03-12 |
@@ -539,7 +541,7 @@
 | [スクラップ&ビルド](https://open.spotify.com/track/2fGDZG4NlGUzYMz4mnPEcH) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [スクラップ&ビルド](https://open.spotify.com/album/2Jp1AwgVfh7MFdGJGkShry) | 3:45 | 2023-10-17 | 2023-11-02 |
 | [スクラップアート](https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/4FeGPKB2ofgaHrUHI7CDyV) | 3:33 | 2023-09-05 | 2023-11-02 |
 | [スターリア](https://open.spotify.com/track/2QlpNoq4QmRwZvDEnD4J5M) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/4aUsTPDouQEWVY6SDkTeCY) | 5:03 | 2022-06-24 | 2022-07-28 |
-| [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 | 2025-07-22 |  |
+| [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 | 2025-07-22 | 2026-01-21 |
 | [スノーノワール](https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [スノーノワール](https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj) | 3:28 | 2024-05-28 | 2024-07-20 |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-06-09 | 2022-07-29 |
 | [セカイfeat.LOVE～VRアイドルプロジェクト『Hop Step Sing!』～ \- feat.LOVE](https://open.spotify.com/track/3p7QHWbUWYdkeeBjYd05zV) | [虹川仁衣菜\(CV.指出毬亜\)](https://open.spotify.com/artist/6iWlm4dvYD1HvpO7BvkvBT), [椎柴識理\(CV.鳥部万里子\)](https://open.spotify.com/artist/7lFObTLRYa9wIZK5BUWFMp), [箕輪みかさ\(CV.日岡なつみ\)](https://open.spotify.com/artist/1epEbtbsoV84ZTiQOVFUAp) | [セカイfeat.LOVE～VRアイドルプロジェクト『Hop Step Sing!』～](https://open.spotify.com/album/4Ll3PSpGAAIAn3knJac26c) | 4:04 | 2023-09-26 | 2023-10-04 |
@@ -742,7 +744,7 @@
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2022-06-09 | 2023-01-11 |
 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 | 2024-04-23 | 2024-07-27 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-04 |
-| [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 | 2025-11-19 |  |
+| [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 | 2025-11-19 | 2026-01-21 |
 | [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 | 2025-09-09 |  |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
 | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/track/6r6rI9OtzyCMTGa15gobsy) | [藤田咲](https://open.spotify.com/artist/0Su3XhLar720uSpX1mGSBD) | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/album/4tvOivGCX5TQcZWZJyM1hl) | 4:21 | 2025-01-21 | 2025-01-31 |

@@ -2,9 +2,9 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Carl Carlton
+> Melodies of the movement\. Cover: Michael Jackson and Quincy Jones
 
-120 songs - 9 hr 52 min
+122 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [If There Is No Struggle, There Is No Progress](https://open.spotify.com/track/6JyNfCuQaYkMcXxNSGtGRt) | [Ossie Davis](https://open.spotify.com/artist/0WNkWajvv5wCm04A2JwDHL) | [A Voice Ringing O'er the Gale! The Oratory of Frederick Douglass Read by Ossie Davis](https://open.spotify.com/album/5vcMF8ImXKc8J4CYNexMKz) | 12:46 | 2021-04-16 | 2024-02-02 |
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 | 2024-02-01 | 2024-04-19 |
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/4KuBTG9nvmPhgwlRoXnJrJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 5:31 | 2024-02-06 |  |
+| [Joy & Pain](https://open.spotify.com/track/14zirKMXN1nMX7nDTRlnee) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Anthology](https://open.spotify.com/album/2Y2gAugTCCJOoRISyOl9JP) | 7:11 | 2026-01-20 |  |
 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 | 2024-02-01 |  |
 | [Last Speech](https://open.spotify.com/track/3PWTko96IQ2lNlUpzufFRT) | [Malcolm X](https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo) | [Speeches By Malcom X \- The Ultimate Collection](https://open.spotify.com/album/0K7r0Jn2cl3evFj6MFAK2c) | 14:03 | 2021-04-16 | 2024-02-02 |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/5xdVBOOlxEwXTkF0ukJKIJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Lift Every Voice And Sing](https://open.spotify.com/album/1Ih0atc2GTeWu1bSEgvRwD) | 3:47 | 2024-02-06 |  |
@@ -62,6 +63,7 @@
 | [Living For The City \- 1982 Musiquarium Version](https://open.spotify.com/track/3dIEfSljSXVM6PyqKBaGFe) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/1G3yrGdknJ969tsT9oM2yF) | 7:25 | 2024-02-06 |  |
 | [Look At Mary Wonder \(How I Got Over\)](https://open.spotify.com/track/1MzXNdH5xGDCffxUh3rC8t) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:05 | 2025-12-17 |  |
 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 | 2024-02-01 |  |
+| [Man in the Mirror](https://open.spotify.com/track/2M7y4xDWT67Lf0JE9mrz1R) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 5:20 | 2026-01-20 |  |
 | [Mississippi Goddam](https://open.spotify.com/track/175Ef68hYgpfcm6zeKCH0L) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 5:30 | 2024-02-01 |  |
 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 | 2024-02-01 |  |
 | [My Beliefs](https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL) | 0:30 | 2021-04-16 | 2022-07-29 |

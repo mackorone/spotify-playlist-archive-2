@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-204 songs - 7 hr 2 min
+205 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [WIN WIN WIN](https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 | 2025-03-19 |  |
 | [WIN WIN WIN \- Instrumental](https://open.spotify.com/track/3dzrZUMKDhNMrBe3VBS2qG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 | 2025-03-19 |  |
 | [world full of strings](https://open.spotify.com/track/1MyMaopZKXuMNcXGDpHjAu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:09 | 2023-12-05 |  |
+| [worldstar](https://open.spotify.com/track/55n6Rih7nX0gZeoFKxM17T) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [worldstar](https://open.spotify.com/album/3GHhleqErwF9iYGAoF3nnd) | 1:03 | 2026-01-20 |  |
 | [you still live in my veins](https://open.spotify.com/track/7427blkGwSdUTdimGaLW93) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:07 | 2024-07-13 |  |
 | [you still live in my veins \- Instrumental](https://open.spotify.com/track/1KHONCH4CuRPcQwfaXAVfB) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:07 | 2024-07-13 |  |
 

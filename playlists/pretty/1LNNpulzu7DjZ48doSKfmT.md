@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 414 songs - 21 hr 2 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 422 songs - 21 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -422,5 +422,13 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 412 | [Reweaving The Rainbow](https://open.spotify.com/track/3URL6DAcZ3abXPu6k1tCih) | [Transgalactica](https://open.spotify.com/artist/3lwPZPcNWY901tSAhAgbGM) | [Reweaving The Rainbow](https://open.spotify.com/album/1cIS8m5pPSzJY1pKjSBgsX) | 2:51 |
 | 413 | [A Little Bit](https://open.spotify.com/track/0uNVTycw76qoi7GPoDeGmB) | [Ebony Moore](https://open.spotify.com/artist/0yjwycwuXvss1lfJGJdDrj) | [A Little Bit](https://open.spotify.com/album/3dO8potRc7JpRYjWJJgPKl) | 2:46 |
 | 414 | [Nuvem Passageira \(Ritmo: Venha Arrochando\)](https://open.spotify.com/track/70we6i1yVNMV6Vb5OSmgPA) | [Victor Hélius](https://open.spotify.com/artist/48Cnn134xLBtfDczhCoXm4) | [Nuvem Passageira \(Ritmo: Venha Arrochando\)](https://open.spotify.com/album/7z7aISMIcmmpwErWE8Yibp) | 2:12 |
+| 415 | [Streetz](https://open.spotify.com/track/1UfzYBj54wUaBGYrtAqceE) | [Black Dibal](https://open.spotify.com/artist/2xhhp3o4X83ViKggVSKm3q) | [C'est de ça qu'il s'agit !](https://open.spotify.com/album/7rxF25wyL27l3sJqiKoyfE) | 2:16 |
+| 416 | [勇者の誇り](https://open.spotify.com/track/5j3axSeFUnxSKMV9jQaM1P) | [山崎マイキ](https://open.spotify.com/artist/5YaxBPI1y1zFYLaDlsbDrV), [<Λ\-T0>](https://open.spotify.com/artist/4y2aN38uYKmlhDDyVSIf2Z) | [勇者の誇り](https://open.spotify.com/album/3yVIMXwxqHQZWVPrvR5sYO) | 3:54 |
+| 417 | [Closer than the sky](https://open.spotify.com/track/3yeC1HoVGJxk5KGAX4595T) | [ChrisGCol](https://open.spotify.com/artist/0w5xIHnOStrQPWy6BNWIFL), [Paula B](https://open.spotify.com/artist/6Ir0G4hBaP4gT5Y2ritrnx) | [Closer than the sky](https://open.spotify.com/album/7k6BcY2jbUrVOhWF4E2ltd) | 3:21 |
+| 418 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
+| 419 | [Steam powered](https://open.spotify.com/track/0T3y7TlwDUCj3wbx3Qq2PW) | [Lars Sandren](https://open.spotify.com/artist/5FwGKMZvW5LaarA9yoo6dN) | [Steam powered](https://open.spotify.com/album/2ZYqqd6y5TapmKn3jIxePW) | 2:51 |
+| 420 | [Breathe Into Me](https://open.spotify.com/track/1wEVk17vHuOxVMmI9rAzHZ) | [Braddock Lee](https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB) | [Breathe Into Me](https://open.spotify.com/album/3M92Rivd1rI3n00bqY0oXk) | 3:23 |
+| 421 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 |
+| 422 | [ROADHOUSE](https://open.spotify.com/track/6n6bH3lTr45O2qC9swwqR8) | [itssmill](https://open.spotify.com/artist/2eSprHb8LG5MdnXHwzBCsX) | [ROADHOUSE](https://open.spotify.com/album/1GNltz9y1DpzZSme38OnN5) | 1:47 |
 
-Snapshot ID: `AAAZDWURNhvps0JvBz095mupD0Rq0zxH`
+Snapshot ID: `AAAZFZNuLcT/gxxDeBY+OaSQS1xBUYWo`

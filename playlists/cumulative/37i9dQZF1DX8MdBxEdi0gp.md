@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-255 songs - 14 hr 17 min
+256 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Gema](https://open.spotify.com/track/2empd6CaIUogDHRuot9YVJ) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Brillantes\- Los Dandys](https://open.spotify.com/album/7KkgaKrYkx8qdqDTuCA5vp) | 2:34 | 2022-05-10 | 2022-07-29 |
 | [Gema](https://open.spotify.com/track/2x2toLWCrMDSkGfOFRjDds) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [20 Éxitos 20](https://open.spotify.com/album/12ySc9ON5xSB6sLvb4609I) | 2:35 | 2022-05-10 | 2022-11-14 |
 | [Gira el Amor](https://open.spotify.com/track/7MCYiZhobzD21DeoNXeeck) | [Gigliola Cinguetti](https://open.spotify.com/artist/5fJ9YxXyQjmQWyZnVPmQFk) | [Mis Baladas, Vol\. 1](https://open.spotify.com/album/1BelLU050UprVz7xwvwPLg) | 2:47 | 2024-05-10 |  |
+| [Gracias](https://open.spotify.com/track/0rcN9MNf6jLEbEJwOjHe2D) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Greatest Latin Hits](https://open.spotify.com/album/1RdbDbc1EOcLJVIO7LEmA7) | 2:19 | 2024-07-11 |  |
 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:26 | 2022-05-10 |  |
 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 | 2022-05-10 |  |
 | [Hipócrita](https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx) | [Fernando Fernandez](https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS) | [Hipócrita y Otros Éxitos de Fernando Fernández](https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX) | 2:49 | 2024-02-23 |  |
@@ -184,7 +185,7 @@
 | [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 | 2022-05-10 | 2022-12-09 |
 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 | 2022-05-10 | 2024-02-24 |
 | [Pensaba en Ti \- Tema Remasterizado](https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 3:25 | 2022-05-10 |  |
-| [Perdóname](https://open.spotify.com/track/3CDe1BBwP82Buwq0pfHu97) | [Estrellita](https://open.spotify.com/artist/44JE8vpLLhDZ5XGHkf0xK2) | [15 Exitos](https://open.spotify.com/album/1E8zgxv9uHHZ5dj4e8tsrn) | 3:34 | 2023-06-23 |  |
+| [Perdóname](https://open.spotify.com/track/3CDe1BBwP82Buwq0pfHu97) | [Estrellita](https://open.spotify.com/artist/44JE8vpLLhDZ5XGHkf0xK2) | [15 Exitos](https://open.spotify.com/album/1E8zgxv9uHHZ5dj4e8tsrn) | 3:34 | 2023-06-23 | 2026-01-21 |
 | [Perfume de Gardenias](https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:12 | 2022-05-10 |  |
 | [Piel Canela](https://open.spotify.com/track/6nxTm1XUBHjxcs5Wc9oFLC) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Gran Colección del 60 Aniversario CBS \- Eydie Gormé y Los Panchos](https://open.spotify.com/album/4OsoVNbRkfopwfBabCH6Hi) | 2:16 | 2022-05-10 | 2022-11-13 |
 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 | 2022-05-10 | 2024-02-24 |

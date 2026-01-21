@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 226594,
+  "num_followers": 226627,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,30 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
+        "name": "Hanuman Mantra-Om Han Hanumate Namah-Chanting",
+        "url": "https://open.spotify.com/album/0wp1yOIKLzrzIOMAzTb5RV"
+      },
+      "artists": [
+        {
+          "name": "Sanatana Bharat",
+          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
+        },
+        {
+          "name": "Upadhyay",
+          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
+        },
+        {
+          "name": "Amrita Chaturvedi",
+          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
+        }
+      ],
+      "duration_ms": 415771,
+      "name": "Hanuman Mantra-Om Han Hanumate Namah-Chanting",
+      "url": "https://open.spotify.com/track/63X9mOwaxcxtgFLUFY8nzj"
+    },
+    {
+      "added_at": "2026-01-19 04:51:06",
+      "album": {
         "name": "Roads Of Blessings - Songs Of Awakening",
         "url": "https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 896706,
       "name": "Laxmi Mantra 108 Times",
       "url": "https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa"
-    },
-    {
-      "added_at": "2026-01-19 04:51:06",
-      "album": {
-        "name": "Hanuman Mantra-Om Han Hanumate Namah-Chanting",
-        "url": "https://open.spotify.com/album/0wp1yOIKLzrzIOMAzTb5RV"
-      },
-      "artists": [
-        {
-          "name": "Sanatana Bharat",
-          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
-        },
-        {
-          "name": "Upadhyay",
-          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
-        },
-        {
-          "name": "Amrita Chaturvedi",
-          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
-        }
-      ],
-      "duration_ms": 415771,
-      "name": "Hanuman Mantra-Om Han Hanumate Namah-Chanting",
-      "url": "https://open.spotify.com/track/63X9mOwaxcxtgFLUFY8nzj"
     },
     {
       "added_at": "2026-01-19 04:51:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
-        "name": "Surya Namaskar Mantra",
-        "url": "https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ"
-      },
-      "artists": [
-        {
-          "name": "Uma Mohan",
-          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
-        }
-      ],
-      "duration_ms": 393750,
-      "name": "Surya Namaskar Mantra",
-      "url": "https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq"
-    },
-    {
-      "added_at": "2026-01-19 04:51:06",
-      "album": {
         "name": "Shri Krishna Sankirtan",
         "url": "https://open.spotify.com/album/6k6L8iINJOP8nU87k13hag"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 757368,
       "name": "Shri Krishna Sankirtan",
       "url": "https://open.spotify.com/track/6GHfymsJE5S8utA7N59cXE"
+    },
+    {
+      "added_at": "2026-01-19 04:51:06",
+      "album": {
+        "name": "Surya Namaskar Mantra",
+        "url": "https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ"
+      },
+      "artists": [
+        {
+          "name": "Uma Mohan",
+          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
+        }
+      ],
+      "duration_ms": 393750,
+      "name": "Surya Namaskar Mantra",
+      "url": "https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq"
     },
     {
       "added_at": "2026-01-19 04:51:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
-        "name": "Mrityunjay Mantra",
-        "url": "https://open.spotify.com/album/1y3sQajRgrPedx9FD7UnFh"
-      },
-      "artists": [
-        {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
-        }
-      ],
-      "duration_ms": 361621,
-      "name": "Mrityunjay Mantra",
-      "url": "https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP"
-    },
-    {
-      "added_at": "2026-01-19 04:51:06",
-      "album": {
         "name": "Om Namah Shivay Mantra",
         "url": "https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
-        "name": "Om Gam Ganapataye",
-        "url": "https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67"
+        "name": "Mrityunjay Mantra",
+        "url": "https://open.spotify.com/album/1y3sQajRgrPedx9FD7UnFh"
       },
       "artists": [
         {
-          "name": "H\u00e9di Carlee",
-          "url": "https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir"
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
         }
       ],
-      "duration_ms": 630948,
-      "name": "Om Gam Ganapataye",
-      "url": "https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk"
+      "duration_ms": 361621,
+      "name": "Mrityunjay Mantra",
+      "url": "https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP"
     },
     {
       "added_at": "2026-01-19 04:51:06",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
+        "name": "Om Gam Ganapataye",
+        "url": "https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9di Carlee",
+          "url": "https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir"
+        }
+      ],
+      "duration_ms": 630948,
+      "name": "Om Gam Ganapataye",
+      "url": "https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk"
+    },
+    {
+      "added_at": "2026-01-19 04:51:06",
+      "album": {
         "name": "Nava Durga Gayatri Mantra Jaap",
         "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
       },
@@ -1107,42 +1107,6 @@
       "duration_ms": 2062009,
       "name": "Nava Durga Gayatri Mantra Jaap",
       "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
-    },
-    {
-      "added_at": "2026-01-19 04:51:06",
-      "album": {
-        "name": "Ganesh",
-        "url": "https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E"
-      },
-      "artists": [
-        {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
-        }
-      ],
-      "duration_ms": 297692,
-      "name": "Beej Mantra",
-      "url": "https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj"
-    },
-    {
-      "added_at": "2026-01-19 04:51:06",
-      "album": {
-        "name": "Maa Durga Mantra Chanting",
-        "url": "https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH"
-      },
-      "artists": [
-        {
-          "name": "Lakshit Patiyal",
-          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
-        },
-        {
-          "name": "TMC RECORDS",
-          "url": "https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV"
-        }
-      ],
-      "duration_ms": 945176,
-      "name": "Maa Durga Mantra Chanting",
-      "url": "https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao"
     },
     {
       "added_at": "2026-01-19 04:51:06",
@@ -1163,6 +1127,22 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
+        "name": "Ganesh",
+        "url": "https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E"
+      },
+      "artists": [
+        {
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+        }
+      ],
+      "duration_ms": 297692,
+      "name": "Beej Mantra",
+      "url": "https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj"
+    },
+    {
+      "added_at": "2026-01-19 04:51:06",
+      "album": {
         "name": "Karpur Gauram Chanting 108 Times",
         "url": "https://open.spotify.com/album/7urtg5ZTDaNiElnzQ7OgXY"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 893142,
       "name": "Karpur Gauram Chanting 108 Times",
       "url": "https://open.spotify.com/track/3FUBurDzveME3uR9Opji58"
+    },
+    {
+      "added_at": "2026-01-19 04:51:06",
+      "album": {
+        "name": "Maa Durga Mantra Chanting",
+        "url": "https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH"
+      },
+      "artists": [
+        {
+          "name": "Lakshit Patiyal",
+          "url": "https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe"
+        },
+        {
+          "name": "TMC RECORDS",
+          "url": "https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV"
+        }
+      ],
+      "duration_ms": 945176,
+      "name": "Maa Durga Mantra Chanting",
+      "url": "https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao"
     },
     {
       "added_at": "2026-01-19 04:51:06",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-01-19 04:51:06",
       "album": {
-        "name": "Divine Chakra Mantras",
-        "url": "https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X"
+        "name": "Kali Sahasranama Stotram",
+        "url": "https://open.spotify.com/album/589GGuAPdfZxB59Rz2H4w0"
       },
       "artists": [
         {
-          "name": "Mahakatha",
-          "url": "https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN"
+          "name": "Mugdha Vaishampayan",
+          "url": "https://open.spotify.com/artist/6w3ORCH9s76YFNWrBDj14F"
         }
       ],
-      "duration_ms": 325103,
-      "name": "Ram Chakra Mantra To Build Your Confidence",
-      "url": "https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE"
+      "duration_ms": 1889248,
+      "name": "Kali Sahasranama Stotram",
+      "url": "https://open.spotify.com/track/7GmfyieeIgnRbdY7Cl4soT"
     }
   ],
   "unique_name": "Magical Mantras",

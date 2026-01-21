@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-508 songs - 2 day 1 hr 20 min
+509 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Deus Coloca O Chão \- Ao Vivo](https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Deive Leonardo](https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW) | [Deus Coloca O Chão \(Ao Vivo\)](https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN) | 5:41 | 2025-06-06 |  |
 | [Deus Cuida de Mim](https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn) | 3:44 | 2023-09-01 | 2024-04-20 |
 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 | 2022-12-09 | 2023-10-21 |
+| [Deus de Abraão \(Live In São Paulo\)](https://open.spotify.com/track/7fHCcoBowjPyUdTotvWV04) | [André Cavalcante](https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG), [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Deus de Abraão \(Live In São Paulo\)](https://open.spotify.com/album/63qOxZOU9MEZJACXYH0LSf) | 4:37 | 2026-01-08 |  |
 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 | 2022-09-09 | 2025-02-15 |
 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 | 2023-12-22 |  |
 | [Deus de Promessas](https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Deus de Promessas](https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G) | 5:39 | 2022-09-09 | 2024-10-12 |
@@ -326,7 +327,7 @@
 | [O Senhor, não os ídolos](https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [O Senhor, não os ídolos](https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk) | 10:18 | 2025-01-31 |  |
 | [O Tamanho da Tua Dor](https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [O Tamanho da Tua Dor](https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg) | 3:36 | 2023-10-06 | 2023-10-21 |
 | [O Tempo Vai Curar](https://open.spotify.com/track/0UCzwca3vNvZHqMqi5zfJN) | [DFONNSO](https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [O Tempo Vai Curar](https://open.spotify.com/album/52caz5cicFG5uUuhc1B45t) | 2:44 | 2024-08-16 | 2024-11-23 |
-| [O Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/30pY9er0htgnhkdiKuTkmg) | 4:21 | 2025-10-17 |  |
+| [O Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/track/53nvToiOVlcQdKpaWyv683) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Todo Poderoso \(Ao Vivo\)](https://open.spotify.com/album/30pY9er0htgnhkdiKuTkmg) | 4:21 | 2025-10-17 | 2026-01-21 |
 | [Obras\-Primas \- Ao Vivo](https://open.spotify.com/track/4Xukl0Z4sGbo9s8TUmptoQ) | [Poiema Music](https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf), [André Brisa](https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun), [Léo Barreto](https://open.spotify.com/artist/6hZ0KTjAgrzrLBWfOB1rmm) | [Obra\-Prima \(Ao Vivo\)](https://open.spotify.com/album/2Hn7d3LioZsRQm63rxw4aB) | 6:06 | 2025-04-05 | 2025-04-15 |
 | [Oceanos \(Onde Meus Pés Podem Falhar\) \[Oceans Where Feet May Fail\] \- Ao Vivo](https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Não Me Deixes Desistir \(Ao Vivo\)](https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6) | 8:15 | 2022-09-09 | 2024-04-19 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-09-09 | 2024-04-19 |

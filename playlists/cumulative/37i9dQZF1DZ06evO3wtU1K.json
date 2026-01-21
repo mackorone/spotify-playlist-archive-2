@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "The Cry: A Live Worship Experience (Live From Chattanooga, TN)",
+        "url": "https://open.spotify.com/album/6atcqlJMI3v8UrHzNStcB0"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488413,
+      "name": "Even Now - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/0xqCBAV9BUgALBjIiKF5wo"
+    },
+    {
+      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 163899,
       "name": "Won't Be Too Long",
       "url": "https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y"

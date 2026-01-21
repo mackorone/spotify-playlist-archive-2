@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-830 songs - 2 day 5 hr 43 min
+832 songs - 2 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,8 +189,10 @@
 | [INERTIA](https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Rei](https://open.spotify.com/artist/4CVs8ZjthgN0YuzXz7yXZ6) | [INERTIA](https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb) | 3:19 | 2025-07-14 |  |
 | [Into the blue's](https://open.spotify.com/track/3ATB5UCxOR0kUJ9PVB0QKk) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Into the blue's](https://open.spotify.com/album/2aGDirzR8gziYiaJl8BCRd) | 3:49 | 2022-06-21 | 2022-06-25 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-07-14 |  |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2026-01-20 |  |
 | [Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 6:54 | 2024-04-25 | 2024-10-09 |
 | [It's Going Down Now](https://open.spotify.com/track/7ANv9zA5z0Nssv7GedrvV6) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 3:06 | 2024-10-08 | 2025-01-15 |
+| [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 | 2026-01-20 |  |
 | [JASMINE](https://open.spotify.com/track/1gjq24OCVofhpXPEweF2WJ) | [Rinne Yoshida](https://open.spotify.com/artist/5gTFlmH6wrELPY1F9wjL4X) | [JASMINE / 25時](https://open.spotify.com/album/1qHKZTQdrx5hMwNO5FqSEa) | 3:22 | 2022-06-03 | 2022-07-08 |
 | [Joy for Struggle](https://open.spotify.com/track/1xTsjaUyVo3u4a9TyK9CKK) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 5:30 | 2022-06-14 | 2022-07-01 |
 | [JUST DO IT](https://open.spotify.com/track/0YkFZJCArseEHnqFcJEpp4) | [H\-el\-ical//](https://open.spotify.com/artist/4jfky9U27rUJYG9SnkIBJO) | [JUST DO IT](https://open.spotify.com/album/20srBrUtmI1mucWxIZmmNI) | 4:09 | 2022-06-14 | 2022-07-27 |
@@ -637,7 +639,7 @@
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-12-04 | 2023-01-16 |
 | [初恋カラーズ](https://open.spotify.com/track/12a4SsN1e1xBwhTaOHH2nq) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [Elder flower/初恋カラーズ](https://open.spotify.com/album/5GkcLAaYTUVsbAMgwcz5Jr) | 3:43 | 2022-07-14 | 2022-07-21 |
 | [刹那の鼓動](https://open.spotify.com/track/2vcuyhuQAFHKOWkKMdqb0O) | [吉岡亜衣加](https://open.spotify.com/artist/3SK0go2QBoTNd5W7uPCWM6) | [刹那の鼓動](https://open.spotify.com/album/2JBNKRiyYMN8ap0VFPWmlZ) | 4:40 | 2022-07-26 | 2022-07-28 |
-| [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 | 2022-07-07 |  |
+| [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 | 2022-07-07 | 2026-01-21 |
 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 | 2024-04-30 | 2024-07-03 |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-04-10 | 2025-01-15 |
 | [千夜想歌](https://open.spotify.com/track/5HeD2ZWisLQJVEQLVDLzaW) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [千夜想歌](https://open.spotify.com/album/2G47iByNrswcboIypLq1PD) | 4:51 | 2022-06-24 | 2022-06-26 |
@@ -713,7 +715,7 @@
 | [標火](https://open.spotify.com/track/35Jqe3J7c8A2R6T5XhpBK6) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [標火](https://open.spotify.com/album/52VLnj0ynTNXHk5yT0TXDO) | 4:42 | 2022-06-03 | 2022-07-28 |
 | [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 | 2024-07-09 | 2025-03-30 |
 | [歌よ](https://open.spotify.com/track/5dy1QO156l2ct1MVPzc8px) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [歌よ](https://open.spotify.com/album/2cbkTAOwaD1L8vmbWdIfzU) | 3:58 | 2022-06-03 | 2022-07-29 |
-| [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-12-04 |  |
+| [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-12-04 | 2026-01-21 |
 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-12-03 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 | 2022-06-03 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2022-07-28 | 2022-10-19 |

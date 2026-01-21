@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 61,524 likes - 50 songs - 3 hr 14 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 61,520 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 49 | [True \(feelings for you\)](https://open.spotify.com/track/2xmFiiYZXgAJF9Eu3FOaYQ) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [True \(feelings for you\)](https://open.spotify.com/album/1hIyAU2h2e9h8oCR2u2Fb6) | 3:47 |
 | 50 | [Great Divide](https://open.spotify.com/track/6gpk1BUGzSqFBPwpmUx4Hh) | [Akasha System](https://open.spotify.com/artist/0TuxD3IK2QvHwgvacDPk9Q) | [Great Divide / Ballister](https://open.spotify.com/album/2ZtFlSC7rRW96l8KyMQNjW) | 5:08 |
 
-Snapshot ID: `AAARXd8WavtzKOkPZNgJ7RfL8gNlnbQC`
+Snapshot ID: `AAARXu1B3NdQ5RQX/7qaWlyklILRoA9y`

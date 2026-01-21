@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc784\uc724\ucc2c(Yunchan Lim)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \ub77c\ud3ec\uc5e0 (LA POEM)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "Classics Korea",
   "tracks": [
     {
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 220551,
       "name": "Dream of U",
       "url": "https://open.spotify.com/track/6wHhTuGTQwqPTeRLWA7GvH"
@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/3AfRDjygrBYa3QdnqMIugM"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/0jd9sIP9WfC3DyGVM3pET8"
+    },
+    {
+      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -2344,6 +2362,24 @@
       "duration_ms": 284920,
       "name": "My Heart Will Go On",
       "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
+    },
+    {
+      "album": {
+        "name": "Nella Notte",
+        "url": "https://open.spotify.com/album/7zxMBR5Y0el3J0QD7VvD70"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267204,
+      "name": "Nella Notte",
+      "url": "https://open.spotify.com/track/0R1kVS8PUpNcw1oTKETQeE"
     },
     {
       "album": {
@@ -3444,7 +3480,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-21",
       "duration_ms": 209186,
       "name": "The River",
       "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"

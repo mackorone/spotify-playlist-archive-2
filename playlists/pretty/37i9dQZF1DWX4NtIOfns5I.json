@@ -1,12 +1,12 @@
 {
   "description": "jana horn on the cover",
-  "num_followers": 144313,
+  "num_followers": 144310,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMZV+kiNDiKPzs5ojCDL/bHpejz",
+  "snapshot_id": "AAAAAOW9mUK72zQ/AP6B9puqlpjaKprN",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:42",
@@ -71,6 +71,22 @@
       "duration_ms": 268694,
       "name": "When You Tie Your Hair Up",
       "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
+    },
+    {
+      "added_at": "2026-01-20 20:44:24",
+      "album": {
+        "name": "Anna with the Silver Arrow",
+        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "Anna with the Silver Arrow",
+      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
     },
     {
       "added_at": "2026-01-16 05:00:42",
