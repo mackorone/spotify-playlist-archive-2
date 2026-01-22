@@ -4,13 +4,14 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-370 songs - 18 hr 30 min
+372 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100\-1000 hz Green Glow](https://open.spotify.com/track/06Zt7s93JeQnDDTNcCOyQA) | [Weather Batches](https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT) | [100\-1000 hz Green Glow](https://open.spotify.com/album/7k0dg6FLy1c2mv66PVvCtF) | 2:51 | 2025-03-13 | 2025-11-13 |
 | [100\-150 Hz Pads](https://open.spotify.com/track/4uTDjinJd0UitcEocsJwjh) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Total Sleep And Relaxation](https://open.spotify.com/album/11mWqnd5PEdfYuQYEHa2to) | 3:48 | 2019-05-26\* | 2022-11-24 |
 | [12 Hz Alpha Waves \- Study Brain Waves](https://open.spotify.com/track/234uGGkGtekF90Wt7YHqd3) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Binaural Beats \- Alpha Waves for Relaxation and Happiness \(8\-13 Hz\)](https://open.spotify.com/album/2PwP9YJjLBQemeGSKkvEnq) | 1:34 | 2023-01-03 | 2023-07-29 |
+| [127 Hz \- 135 Hz Alpha Zone](https://open.spotify.com/track/1PdW6nxn7SZNG4EwHmAl1C) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [127 Hz \- 135 Hz Alpha Zone](https://open.spotify.com/album/1ElKFvZwnMLon0k2VRq6Pl) | 2:58 | 2026-01-21 |  |
 | [190 Hz Beta Sinus](https://open.spotify.com/track/0bwAJrLpsXo7aHBxG2fnNO) | [Tiefe Gedanken](https://open.spotify.com/artist/0E19BksYk8uPcmtPKlggrQ) | [70 Hz Gamma Sinus](https://open.spotify.com/album/1vlPJnudPeJubmgZq7b7Vn) | 2:02 | 2021-02-03 | 2021-03-10 |
 | [200 Hz \- 250 Hz Gamma Drone](https://open.spotify.com/track/6ZpnVExLgleeWslKjvGVhx) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:26 | 2019-05-26\* | 2022-03-19 |
 | [30 Hz Gamma](https://open.spotify.com/track/0giLh5A1qhQHLP68sH96Ub) | [Alfachronic](https://open.spotify.com/artist/1YsMt21BxoyDQp7q893f4Z) | [Brainwave State Gamma](https://open.spotify.com/album/2Fk46GyPBKRr1A06lng7sT) | 3:22 | 2019-05-26\* | 2020-12-15 |
@@ -304,6 +305,7 @@
 | [Mind Warrior \(Beta 13 Hz\)](https://open.spotify.com/track/7yMLsyHDOlIs3LjvEyolv4) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binaural Beats For Focus](https://open.spotify.com/album/4EOJ0H7R7LEmsUzu72u9Bt) | 2:59 | 2020-12-03 | 2020-12-15 |
 | [mind window \- Alpha Sinus 127Hz \- 134Hz](https://open.spotify.com/track/5kagVj2KD9SZ7frebran62) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 3:10 | 2021-03-25 | 2025-02-11 |
 | [Minderize 396Hz](https://open.spotify.com/track/5H0EWH7SxilqGdMuseQ6ye) | [SineWire](https://open.spotify.com/artist/3cl9K86n8EkrY9GvUSEXa1) | [Minderize 396Hz](https://open.spotify.com/album/1kJoInlAba7fylE2KOEw0U) | 3:12 | 2024-01-24 | 2024-03-09 |
+| [Mindstream Alpha 8 Hz](https://open.spotify.com/track/5PcROG99GbMH1K8uvu5XXg) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Mindstream Alpha 8 Hz](https://open.spotify.com/album/181HadnIz5G6QzKkMv4Nqp) | 3:14 | 2026-01-21 |  |
 | [Mindul Gamma](https://open.spotify.com/track/3LpE1uxGM1fO55mSDq2M6c) | [FX Sleep Creator](https://open.spotify.com/artist/6YPpB1iVfPRurxJ7fNIevL) | [Brainwaves for Sleeping](https://open.spotify.com/album/5mVunfGHykgb3pvqEanPaT) | 3:36 | 2019-05-26\* | 2020-05-07 |
 | [Mirrorlake \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/4f2GInNlgh8zlg2KDVyYii) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 4:23 | 2021-04-10 | 2025-03-14 |
 | [Miyus Alpha Waves 93\-103 Hz](https://open.spotify.com/track/6aWrkNQd64IWVfRZysKArA) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Alfalfa Waves](https://open.spotify.com/album/52NBxGjDDYRb3yVjpw2xgF) | 2:56 | 2022-08-22 | 2025-06-18 |

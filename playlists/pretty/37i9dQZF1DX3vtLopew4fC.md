@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Llisten to Canadian women at full volume! Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,659 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,677 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [I'm a memory](https://open.spotify.com/track/0nTyvtckqQ4hFzpM2Drn2J) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [I'm a memory](https://open.spotify.com/album/421Wt2EFpZCjWua1rId0WM) | 2:42 |
 | 40 | [Baby Too Soon](https://open.spotify.com/track/5PAyRHVOC4dtgBjElnIYQ6) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Baby Too Soon](https://open.spotify.com/album/7GLvLUYbOOJRcX1fEdmthW) | 2:37 |
 
-Snapshot ID: `AAAAAAdgYZzFi1/Nn2xchGJDeI1rTwh3`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "PAPER PLANE",
+        "url": "https://open.spotify.com/album/6cHX3SG9HQKd3UIzETvQiP"
+      },
+      "artists": [
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "PAPER PLANE",
+      "url": "https://open.spotify.com/track/0bvQXr2UBC7XvWKhBESl8b"
+    },
+    {
+      "album": {
         "name": "Cautionary Tales of Youth",
         "url": "https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9"
       },

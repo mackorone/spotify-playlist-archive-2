@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  SENZA CRI in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,236 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,237 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 99 | [Bang](https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2) | 2:50 |
 | 100 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 |
 
-Snapshot ID: `AAAAAJxCNTk/ldweT53UMoutp8FDaNX1`
+Snapshot ID: `AAAAAOBAgvf/noITit0xsmqhm3EJrdNg`

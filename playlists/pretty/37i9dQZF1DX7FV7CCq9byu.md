@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,764 likes - 178 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,757 likes - 178 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Temporärt](https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm) | 3:16 |
+| 1 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 2 | [Svartsjuk \- Spotify Singles](https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Svartsjuk \(Spotify Singles\)](https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV) | 2:45 |
-| 3 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 4 | [inte tillsammans \(find you\) \- isby sessions](https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [isby sessions](https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx) | 2:42 |
-| 5 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
-| 6 | [Sy dig på mig](https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sy dig på mig](https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA) | 3:42 |
-| 7 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
+| 3 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
+| 4 | [Temporärt](https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm) | 3:16 |
+| 5 | [inte tillsammans \(find you\) \- isby sessions](https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [isby sessions](https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx) | 2:42 |
+| 6 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
+| 7 | [Sy dig på mig](https://open.spotify.com/track/5SVi1gx0aaCMfUD45TTdGS) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sy dig på mig](https://open.spotify.com/album/5J5BIqMdGumz71DhWNUtEA) | 3:42 |
 | 8 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |
 | 9 | [Prayer](https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 5:26 |
 | 10 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 177 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 |
 | 178 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 |
 
-Snapshot ID: `AAAAAMJAdpb86A5OTk2m7Kix2sggWOlb`
+Snapshot ID: `AAAAAHKkayhB8UgYdIUojLgw9IEBiJ/w`

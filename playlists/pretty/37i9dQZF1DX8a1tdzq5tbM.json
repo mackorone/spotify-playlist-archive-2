@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1761483,
+  "num_followers": 1761694,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1627,6 +1627,50 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Baby When The Light",
+      "url": "https://open.spotify.com/track/7oyequ9whquaYyZXqB4LTZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1659,22 +1703,6 @@
       "duration_ms": 365080,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
-      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1727,26 +1755,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
     },
     {
       "added_at": "2024-07-12 15:40:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Arcángel, Manuel Turizo, Yandel & LATIN MAFIA, Young Cister & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,676 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,704 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 3 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
 | 4 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
 | 5 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 |
-| 6 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [svnti](https://open.spotify.com/artist/3FtKKNslTacsC8L0GymuMR) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
+| 6 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
 | 7 | [UN LEÑO](https://open.spotify.com/track/6ozLcS63i78I9cjnTpvwPI) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [UN LEÑO](https://open.spotify.com/album/3Ah6062p6SYwBjjXnFtQcF) | 3:00 |
 | 8 | [4x4](https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr), [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [4x4](https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7) | 4:48 |
 | 9 | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/track/3y3ylOBgmuM19xR177J0eb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/album/5h66DxQNQGntf7Z2CCeDrv) | 2:23 |

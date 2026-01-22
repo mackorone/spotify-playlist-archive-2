@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Harmanjot",
+  "description": "Discover the future of Punjabi Pop! Cover: Aanchal Kalia",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 145718,
       "name": "Darji",
       "url": "https://open.spotify.com/track/1ffY8zr8719M2HjXQY4kgO"
@@ -6303,6 +6303,32 @@
     },
     {
       "album": {
+        "name": "Meharbaaniyan",
+        "url": "https://open.spotify.com/album/50jxjVs2a3UNIteSRIB2yJ"
+      },
+      "artists": [
+        {
+          "name": "Geetkarz",
+          "url": "https://open.spotify.com/artist/2sfCTNESjEmT9QdALWHXGs"
+        },
+        {
+          "name": "Vagish",
+          "url": "https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv"
+        },
+        {
+          "name": "abhii",
+          "url": "https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Meharbaaniyan",
+      "url": "https://open.spotify.com/track/5QV4yws6FGYfV3NDfdNBN7"
+    },
+    {
+      "album": {
         "name": "YOUNGSTER'S",
         "url": "https://open.spotify.com/album/6EupG0EP4WsKFvCRnLahDF"
       },
@@ -7252,7 +7278,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 183428,
       "name": "O Mahiya",
       "url": "https://open.spotify.com/track/2HLD4Liymc2wxdIT5GxYhd"
@@ -9384,6 +9410,32 @@
       "duration_ms": 127826,
       "name": "SWING",
       "url": "https://open.spotify.com/track/2SaV2Wt5HRS5CE6BlTTSeC"
+    },
+    {
+      "album": {
+        "name": "Taiyaar Sajna",
+        "url": "https://open.spotify.com/album/6qVQrhodnP1qHixAzt2n1K"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Kalia",
+          "url": "https://open.spotify.com/artist/4WEt0MFVkBRfX7pSVzM7ZO"
+        },
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        },
+        {
+          "name": "Sehjaan",
+          "url": "https://open.spotify.com/artist/7H6JPKZzoErmhaWUOp7pzw"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Taiyaar Sajna",
+      "url": "https://open.spotify.com/track/03CvyEB1RZGKfFXhHd9PXc"
     },
     {
       "album": {

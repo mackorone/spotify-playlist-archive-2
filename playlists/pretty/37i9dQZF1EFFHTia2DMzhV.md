@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 123 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 123 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 24 | [Indian Love Call](https://open.spotify.com/track/1StLytLkQVRq3q1PtfclE3) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [EMI Country Masters: 50 Originals](https://open.spotify.com/album/7JzqaIlXUcX5ncpe3iIqhU) | 3:09 |
 | 25 | [We Kiss In A Shadow](https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [We Kiss In A Shadow](https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P) | 2:43 |
 | 26 | ["In My Own Little Corner"](https://open.spotify.com/track/1XpAUgrfJpM3qSLaiaYUxj) | [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 3:17 |
-| 27 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
-| 28 | [Some Enchanted Evening](https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv) | 2:32 |
+| 27 | [Some Enchanted Evening](https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv) | 2:32 |
+| 28 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
 | 29 | [Happy Talk](https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/0GMf8b501ogU3obivaslNF) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:25 |
 | 30 | [Oklahoma \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/4VdZPkoW0cNrhZHK7Xhh3m) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 3:16 |
 | 31 | ["Do I Love You Because You're Beautiful?"](https://open.spotify.com/track/7bpekJEVJcOntT9ohNh2Kz) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:37 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 122 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 123 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `AcHewgAAAADVW3ts1BhPC8u4o6uoGWpf`
+Snapshot ID: `AcHklAAAAADEg4aWmZynggVbaxCIKRpw`

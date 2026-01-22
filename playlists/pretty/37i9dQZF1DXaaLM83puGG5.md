@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.instagram.com/spiritmas?igsh=MXdkbHZkaDlrdG91dw==">Spirit Mas</a>! Get your tickets for HOME <a href="https://www.mokotickets.com/event/home">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,191 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,347 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 8 | [Inch by Inch](https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Inch by Inch](https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy) | 3:09 |
 | 9 | [Cyah Behave](https://open.spotify.com/track/7jdHVYE9p1Ddc7ItYkjWpR) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/7iRzxck958V5GUxxNqtX8z) | 2:41 |
 | 10 | [Last Train](https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Last Train](https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5) | 3:37 |
-| 11 | [Rock Me](https://open.spotify.com/track/50imfYhCyQgwA33IRevXHB) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Coconut Leaf Riddim](https://open.spotify.com/album/0TbCY7f2uVchZtPi8TDpsW) | 2:44 |
+| 11 | [Rock So](https://open.spotify.com/track/3qL6IMdIoI4hqjNOuy9HAJ) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [MadLypso](https://open.spotify.com/artist/6tQlBmzHQ6vZI48H7SZsBV) | [Rock So](https://open.spotify.com/album/6TQHh1dBEmicl4E7ObOXBO) | 2:53 |
 | 12 | [Panorama](https://open.spotify.com/track/050yL9zTJO80Rhm3hmP9SL) | [MadLypso](https://open.spotify.com/artist/6tQlBmzHQ6vZI48H7SZsBV), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Lady Lava](https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Zerimar](https://open.spotify.com/artist/7IbkKTNpBj7MORRdt3oge3), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Panorama](https://open.spotify.com/album/5MFmUWUUGi7xxNx4gRcEG4) | 3:45 |
 | 13 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |
 | 14 | [Kaya](https://open.spotify.com/track/67jOIDsGWR1tOzTOax9HY4) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [XplicitMevon](https://open.spotify.com/artist/2ssM24E3bABW31ZT8HTqxV) | [Kaya](https://open.spotify.com/album/6mpDeCyW6Xtj3wL4w3w8ee) | 3:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 39 | [Time To Shot](https://open.spotify.com/track/7J6ndGOmyN65lIBSVH8v0a) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Mega Mick](https://open.spotify.com/artist/24djKBhdJs7IpZiRWjbqHt), [Kimi](https://open.spotify.com/artist/2JVJQaX1mj0ZDmesdZpxdK) | [EastSide Riddim](https://open.spotify.com/album/5QMWfsCcFPiUQXxwVPOBPG) | 2:37 |
 | 40 | [Rock It](https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA) | [Baron](https://open.spotify.com/artist/4pUIY9WxcRAj0BHcI1lfEg), [Shurwayne Winchester](https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [The KVG](https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2) | [Rock It](https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP) | 2:44 |
 
-Snapshot ID: `AAAAAHFFDLVhQJ428Kq2Ks7m37EDvEiZ`
+Snapshot ID: `AAAAAF5xrJr/nAc4yiL+gETmso+ILEZc`

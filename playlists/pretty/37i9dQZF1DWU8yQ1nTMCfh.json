@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296654,
+  "num_followers": 296618,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Ya No Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Salida",
-        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
+        "name": "Vidas Felices",
+        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
       },
       "artists": [
         {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 256986,
-      "name": "Ya No Te Vuelvo a Ver",
-      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+      "duration_ms": 234933,
+      "name": "Vidas Felices",
+      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -663,22 +679,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Vidas Felices",
-        "url": "https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Vidas Felices",
-      "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Joderse La Vida",
         "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
       },
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "En El Aire",
-        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "En El Aire",
-      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Diamante Roto",
-        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 181766,
-      "name": "Diamante Roto",
-      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 179872,
       "name": "TRAS",
       "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "El Show Debe Continuar",
-        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Misterio, Cigarros y Menta",
-      "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 213371,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Misterio, Cigarros y Menta",
+      "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Mirando al techo",
+      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
-        "name": "Adictos",
-        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Adictos",
-      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "Conducci\u00f3n Temeraria",
-        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
+        "name": "Adictos",
+        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
       },
       "artists": [
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         }
       ],
-      "duration_ms": 214168,
-      "name": "Mirando al techo",
-      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
+      "duration_ms": 237746,
+      "name": "Adictos",
+      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
     },
     {
       "added_at": "2026-01-16 05:27:49",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-16 05:27:49",
       "album": {
-        "name": "S\u00daPER PREMIUM ULTRA",
-        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 204403,
-      "name": "RA",
-      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
-    },
-    {
-      "added_at": "2026-01-16 05:27:49",
-      "album": {
         "name": "Qu\u00e9date un Momento",
         "url": "https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 183441,
       "name": "Qu\u00e9date un Momento",
       "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"
+    },
+    {
+      "added_at": "2026-01-16 05:27:49",
+      "album": {
+        "name": "S\u00daPER PREMIUM ULTRA",
+        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 204403,
+      "name": "RA",
+      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
     },
     {
       "added_at": "2026-01-16 05:27:49",

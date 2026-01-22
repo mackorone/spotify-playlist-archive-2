@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 465,
+  "num_followers": 466,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAACuSrwd3vXenbDss+XLdzcQ",
+  "snapshot_id": "aW7FgAAAAADqN7p/+bZuwaBu+Oeeg5if",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+      "duration_ms": 170626,
+      "name": "One House Down (from the girl next door)",
+      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 170626,
-      "name": "One House Down (from the girl next door)",
-      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -582,11 +582,15 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
+      "duration_ms": 216270,
+      "name": "What If I Am",
+      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
     },
     {
       "added_at": null,
@@ -598,15 +602,11 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 216270,
-      "name": "What If I Am",
-      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,

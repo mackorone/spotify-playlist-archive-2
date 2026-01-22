@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,374 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,380 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Smoke](https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Smoke](https://open.spotify.com/album/1BTyb724qBItdFLINxaAPp) | 3:00 |
 | 50 | [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 |
 
-Snapshot ID: `aW10AAAAAACs/xkkfaIkgi1GUSKuGil7`
+Snapshot ID: `aW7FgAAAAAAcFd9lh4Mbh/s16HcPCNRa`

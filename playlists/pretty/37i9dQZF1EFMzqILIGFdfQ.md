@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 117 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 118 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 103 | [Mama I Made It \(How We Do It\)](https://open.spotify.com/track/6SaMuPtzdKuRne9Q5ySoBR) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Say Mo](https://open.spotify.com/artist/4m0SRqbCQvBLrk4MO0nML4) | [Mama I Made It \(How We Do It\)](https://open.spotify.com/album/4qHDwSgNteS5Nk2cS9Ug2Q) | 3:24 |
 | 104 | [Tipsey Love \(feat\. Future\)](https://open.spotify.com/track/6AxcuPmd597w8iA0NhW1Yg) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dusk Till Dawn](https://open.spotify.com/album/1galQgZ116WPcArwlmiYWi) | 4:07 |
 | 105 | [No Ceiling](https://open.spotify.com/track/10emBz8X67kPNLM9xdBaf4) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [No Ceiling](https://open.spotify.com/album/1797Nd4PJxrFYKpA8NiY6Y) | 3:10 |
-| 106 | [Cycle \(feat\. SAFE\)](https://open.spotify.com/track/6IMqq9iYpCLbW3w62d1SOh) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Cycle \(feat\. SAFE\)](https://open.spotify.com/album/586x7OWEOaZYtiIa5bbbqG) | 2:51 |
-| 107 | [Tarantino](https://open.spotify.com/track/3eS2V7HeofOeTXtxfDQbfb) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:57 |
+| 106 | [Tarantino](https://open.spotify.com/track/3eS2V7HeofOeTXtxfDQbfb) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:57 |
+| 107 | [Cycle \(feat\. SAFE\)](https://open.spotify.com/track/6IMqq9iYpCLbW3w62d1SOh) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Cycle \(feat\. SAFE\)](https://open.spotify.com/album/586x7OWEOaZYtiIa5bbbqG) | 2:51 |
 | 108 | [Sorry](https://open.spotify.com/track/3UDHihZbBmzcgpXTWglxEe) | [Tai'Aysha](https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2) | [Sorry](https://open.spotify.com/album/7di3EUEXHu9WKZyLWBgRdr) | 2:07 |
 | 109 | [See What You've Done \- From The Film Belly Of The Beast](https://open.spotify.com/track/45YornSVO6bqFdsBgd25KW) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [See What You've Done \(From The Film Belly Of The Beast\)](https://open.spotify.com/album/691b4f4TMoUbpz6paKNtYM) | 3:26 |
 | 110 | [Balloons](https://open.spotify.com/track/6JX3C5Y7fHUSpUz4ErXKJE) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:21 |
@@ -122,8 +122,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 112 | [Hot](https://open.spotify.com/track/17NTv6hcvFtARMyxdDXUI5) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:49 |
 | 113 | [7Days7Nights](https://open.spotify.com/track/1I8Txfr1qXMr604hC3ElJr) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/6YRxXLfApqwOhEPAtI8UZY) | 2:45 |
 | 114 | [Understanding](https://open.spotify.com/track/1CTDwwNP5iwnzRJryXgVtW) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:01 |
-| 115 | [Free Fall \(feat\. Blu June\)](https://open.spotify.com/track/5A00izo7E1u9NcMaCVwIgR) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [High Times](https://open.spotify.com/album/2gopJnmJD2S1yXtAWR9MVP) | 4:18 |
-| 116 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
-| 117 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
+| 115 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:41 |
+| 116 | [Free Fall \(feat\. Blu June\)](https://open.spotify.com/track/5A00izo7E1u9NcMaCVwIgR) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [High Times](https://open.spotify.com/album/2gopJnmJD2S1yXtAWR9MVP) | 4:18 |
+| 117 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
+| 118 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 
-Snapshot ID: `AcHewgAAAAAHnJ/Z5uG7oG7H1GbUsJjP`
+Snapshot ID: `AcHkigAAAADYpNs15Yi6XJvmraEOncP+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 46 likes - 890 songs - 2 day 21 hr 38 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 46 likes - 891 songs - 2 day 21 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -897,6 +897,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 887 | [Soleil Soleil](https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 3:59 |
 | 888 | [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 |
 | 889 | [Marleen](https://open.spotify.com/track/0cLi9XkIH31vuceYaLV20E) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Lieder der Nacht \- 16 unvergessene Hits](https://open.spotify.com/album/5YXZ3E22zU805wiUdgeiVx) | 4:15 |
-| 890 | [Blu Terra](https://open.spotify.com/track/1QoKnVHsM4tIqE648q8RB1) | [Carlos Maria Trindade](https://open.spotify.com/artist/2VPM4BnWrRFThgDLuwZR3Q), [Nuno Canavarro](https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b) | [Mr\. Wollogallu](https://open.spotify.com/album/1qPQqjttjO9TbixGDQKNHK) | 7:05 |
+| 890 | [Wenu Wenu](https://open.spotify.com/track/7kzhdwCg36NR0WphxVkorA) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 7:00 |
+| 891 | [Blu Terra](https://open.spotify.com/track/1QoKnVHsM4tIqE648q8RB1) | [Carlos Maria Trindade](https://open.spotify.com/artist/2VPM4BnWrRFThgDLuwZR3Q), [Nuno Canavarro](https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b) | [Mr\. Wollogallu](https://open.spotify.com/album/1qPQqjttjO9TbixGDQKNHK) | 7:05 |
 
-Snapshot ID: `AAAD93KbEOZV8GCFcEHOuGzXkp8XCh7m`
+Snapshot ID: `AAAD+XbSkc+9jzZKnONkocA7FbPfG9fG`

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1052903,
+  "num_followers": 1053026,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Take My Mind",
         "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 171199,
       "name": "Take My Mind",
       "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 137790,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Contesto",
-        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
-      },
-      "artists": [
-        {
-          "name": "Massuma",
-          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
-        },
-        {
-          "name": "DOSAMIS",
-          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Contesto",
-      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 198764,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "Contesto",
+        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
+      },
+      "artists": [
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "DOSAMIS",
+          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Contesto",
+      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -643,22 +643,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Saga",
-        "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
       },
       "artists": [
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         },
         {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
+      "duration_ms": 182479,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -683,26 +683,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Natural Blues",
-        "url": "https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC"
+        "name": "Saga",
+        "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         },
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
         }
       ],
-      "duration_ms": 155476,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB"
+      "duration_ms": 336000,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -723,22 +719,26 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0nnSX8cnMsGV9pcQxyTND9"
+        "name": "Natural Blues",
+        "url": "https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC"
       },
       "artists": [
         {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
         }
       ],
-      "duration_ms": 182479,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4d8031x6HPpjQtH98BmRio"
+      "duration_ms": 155476,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Say Nothing",
         "url": "https://open.spotify.com/album/3XkbLaT1UrPtCThjFE9FAX"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 188481,
       "name": "Say Nothing",
       "url": "https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/1w0c45yUou9pVM7qe2pvti"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "About U",
-      "url": "https://open.spotify.com/track/2gKO4QzaDBhpprwD4XXZFW"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Deeplow",
         "url": "https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X"
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
       },
       "artists": [
         {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv"
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1087,22 +1103,6 @@
       "duration_ms": 168000,
       "name": "SLOWLY",
       "url": "https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
+        "name": "BOY (ZACARIA)",
+        "url": "https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
         }
       ],
-      "duration_ms": 215435,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
+      "duration_ms": 120853,
+      "name": "BOY (ZACARIA)",
+      "url": "https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL"
     }
   ],
   "unique_name": "Lowkey Tech",

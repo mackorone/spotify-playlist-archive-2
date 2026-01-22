@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Luna Ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,612 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,272 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 19 | [Du lyg så lett](https://open.spotify.com/track/5ZUNPjGDdz47W26AtUQfXf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg så lett](https://open.spotify.com/album/7I7xV8JNutYB3lnoCge3UQ) | 3:25 |
 | 20 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 21 | [RIP KP](https://open.spotify.com/track/6w8kcJNEIaRjfvRYPHsmnk) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:18 |
-| 22 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
-| 23 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 |
+| 22 | [Catching Up 2 U](https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Catching Up 2 U](https://open.spotify.com/album/3c84ecpWrWwMWcJ0qqPxJt) | 3:22 |
+| 23 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
 | 24 | [all my money](https://open.spotify.com/track/2QWWWDjUkgkM36eV6vxTSt) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [all my money](https://open.spotify.com/album/1nmAMyarEDpYJbKsA1rR8F) | 3:21 |
 | 25 | [Käärmeen vuosi](https://open.spotify.com/track/7iJMiPzzvtKLcPSOn6hErj) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Käärmeen vuosi](https://open.spotify.com/album/1Wozr0j0P22bt2k4FMy9Qh) | 3:01 |
 | 26 | [Time](https://open.spotify.com/track/6BRFVQwbscJLhJeqVEc7ln) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Time](https://open.spotify.com/album/1Z38qSdjA1F9KqgKWsYxFQ) | 2:54 |
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 32 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
 | 33 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
 | 34 | [Czerwone ledy](https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Czerwone ledy](https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7) | 4:21 |
-| 35 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |
-| 36 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
+| 35 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
+| 36 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |
 | 37 | [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 |
 | 38 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
 | 39 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 | 40 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 |
 | 41 | [π\-NOQUIO](https://open.spotify.com/track/1WxBr0pDE5FEchxzhO5xxR) | [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [XENONEXO](https://open.spotify.com/album/2Xdj4c0dXShhLwoMNEzDky) | 2:52 |
 | 42 | [Running Home](https://open.spotify.com/track/27NFYSQxYnRVqEwuIaunqF) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 3:44 |
-| 43 | [Kiss Kiss Goodbye](https://open.spotify.com/track/75vL0l01TYI8v5ggVykzo9) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:56 |
-| 44 | [rosie](https://open.spotify.com/track/7ywAHrYeNA4afPreBAGzl2) | [FVNERAL](https://open.spotify.com/artist/2qmnL8WsvCaZ6sEicAJPkA), [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [rosie](https://open.spotify.com/album/6jaTtSdHybDAQb8RgjUIrL) | 4:24 |
-| 45 | [Peripheral Lover](https://open.spotify.com/track/6XxpwjLMDCb1szRBJgfMYe) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Like Plasticine](https://open.spotify.com/album/2lyFN2NEqihYP1tD3zISzt) | 3:15 |
-| 46 | [LIVRE](https://open.spotify.com/track/7CFLoozGhdaqGeAaij6Gsr) | [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [LIVRE](https://open.spotify.com/album/7bAOw3FM77DBujnL1tesaP) | 3:14 |
+| 43 | [rosie](https://open.spotify.com/track/7ywAHrYeNA4afPreBAGzl2) | [FVNERAL](https://open.spotify.com/artist/2qmnL8WsvCaZ6sEicAJPkA), [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [rosie](https://open.spotify.com/album/6jaTtSdHybDAQb8RgjUIrL) | 4:24 |
+| 44 | [Kiss Kiss Goodbye](https://open.spotify.com/track/75vL0l01TYI8v5ggVykzo9) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:56 |
+| 45 | [LIVRE](https://open.spotify.com/track/7CFLoozGhdaqGeAaij6Gsr) | [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [LIVRE](https://open.spotify.com/album/7bAOw3FM77DBujnL1tesaP) | 3:14 |
+| 46 | [Peripheral Lover](https://open.spotify.com/track/6XxpwjLMDCb1szRBJgfMYe) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Like Plasticine](https://open.spotify.com/album/2lyFN2NEqihYP1tD3zISzt) | 3:15 |
 | 47 | [Orrore!](https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Orrore!](https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ) | 2:38 |
 | 48 | [Una llamada de Satanás](https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Una llamada de Satanás](https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC) | 4:19 |
 | 49 | [watermelon juice](https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [watermelon juice](https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9) | 2:29 |

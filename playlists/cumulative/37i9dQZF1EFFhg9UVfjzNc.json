@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Bondade e Fidelidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327933,
+      "name": "Existe Uma Gera\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4AUcOvhHNakk911GBWvY8J"
+    },
+    {
+      "album": {
         "name": "Edenland",
         "url": "https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d"
       },

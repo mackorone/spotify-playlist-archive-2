@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : NV Vigneshwer Karthik
 
-685 songs - 1 day 15 hr 3 min
+686 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aayirathil Avan Oruvan](https://open.spotify.com/track/30gPXGKnK719UU9QjiJ5jT) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:10 | 2024-07-27 | 2024-09-21 |
 | [Adada](https://open.spotify.com/track/57EcEfTJRQ2efmThNJ0l67) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Adada](https://open.spotify.com/album/3dmuN6G2os1B5fZSGdBK6m) | 3:19 | 2025-03-28 | 2026-01-15 |
 | [Adada Amma](https://open.spotify.com/track/39aXi6kBNGjoVJNGyVPQyo) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Adada Amma](https://open.spotify.com/album/3ulTXAt4H5S2Cv8Mo7mGTk) | 2:44 | 2023-05-13 | 2023-08-17 |
-| [Adam Eval](https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Swetha](https://open.spotify.com/artist/2joP0Ctx0GWUJZvn1c5Jwq) | [Adam Eval](https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP) | 4:03 | 2025-09-01 |  |
+| [Adam Eval](https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Swetha](https://open.spotify.com/artist/2joP0Ctx0GWUJZvn1c5Jwq) | [Adam Eval](https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP) | 4:03 | 2025-09-01 | 2026-01-22 |
 | [Adangapidaari](https://open.spotify.com/track/4uejqdcIRrrSD9bSvOE42f) | [Madrashe](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Jerin C Raj](https://open.spotify.com/artist/02iErDOt6h6WChRfbjoZ56) | [Adangapidaari](https://open.spotify.com/album/65K7QVbP6co9ere7sagF4Z) | 2:44 | 2025-12-01 | 2025-12-04 |
 | [Adi Pachaakiliyea](https://open.spotify.com/track/1CMonbTaLPncwnd9chZGr8) | [Samson P Moses](https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1) | [Adi Pachaakiliyea](https://open.spotify.com/album/08OCHiIMrHpG6nSRxhi6qc) | 3:32 | 2024-12-13 | 2025-02-11 |
 | [Adi Sandaali](https://open.spotify.com/track/35z9tsJtY9sXW6A7Pr6Rnc) | [Victor Dhayananth V G](https://open.spotify.com/artist/1xzYBSGf5ABxPbFXaIAxRY), [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ) | [Adi Sandaali](https://open.spotify.com/album/7CS85ZJ3MljrtPgcCRoVDa) | 2:28 | 2024-12-02 | 2025-02-04 |
@@ -263,6 +263,7 @@
 | [Kanni Boyz](https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr) | [RK Arvin](https://open.spotify.com/artist/21MmZBL1Slz0VCTr8vnPBM), [Rk Tharan](https://open.spotify.com/artist/2teckjfXrt39sR75clLegg) | [Kanni Boyz](https://open.spotify.com/album/3ob0EpYK2eGjerGwZSCOWD) | 3:51 | 2024-12-05 | 2025-02-25 |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-03-21 | 2023-09-26 |
 | [Kanniley](https://open.spotify.com/track/2PwYyPokT4pF2RFr1hYgTF) | [Keerthana Kunalan](https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe) | [Kanniley](https://open.spotify.com/album/6gJYZ6zxzvzvTxHsU0WsfD) | 4:33 | 2024-06-14 | 2024-08-11 |
+| [Kannodu](https://open.spotify.com/track/5y72RMUU5lfxiyA4JwripP) | [Lyrical Hummer](https://open.spotify.com/artist/19ySI4JWDSsQegPyuthHsy) | [Kannodu](https://open.spotify.com/album/1dFmzcmU1njosRmQmTF22u) | 4:24 | 2026-01-21 |  |
 | [Kannu Gannu](https://open.spotify.com/track/3lG1EN7f1IbzjP4otyGXLy) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Kannu Gannu](https://open.spotify.com/album/3zzsVDlBYFV5tbVqzxZMqb) | 2:16 | 2025-06-18 | 2026-01-15 |
 | [Kannurangu](https://open.spotify.com/track/2sxqSPufXTi1yyeZmxuPEG) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Syed Subahan](https://open.spotify.com/artist/3gQ8iee3y7UsGTMuhjzEuD), [Nalini Vittobane](https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3) | [Kannurangu](https://open.spotify.com/album/1irng2JUexiR93eT0cry3k) | 3:04 | 2024-05-13 | 2024-11-26 |
 | [Karakki \(Raw Version\) \- From "Think Specials"](https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Karunguyil Ganesh](https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Karakki \(Raw Version\) \[From "Think Specials"\]](https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr) | 3:13 | 2025-01-16 | 2026-01-15 |

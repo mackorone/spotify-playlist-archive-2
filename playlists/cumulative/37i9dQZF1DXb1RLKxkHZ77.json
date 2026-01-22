@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 168813,
       "name": "501",
       "url": "https://open.spotify.com/track/2Sj6hHx2jATn3iP5drDCAk"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 200981,
       "name": "Air Mata",
       "url": "https://open.spotify.com/track/1mX4Le741SPx3fos9NMreh"
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Andai Derita",
+        "url": "https://open.spotify.com/album/491JTptu36JzBibFwxkk8S"
+      },
+      "artists": [
+        {
+          "name": "Nubhan",
+          "url": "https://open.spotify.com/artist/2cHPyDOaYluNstE11XUTLb"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "Andai Derita",
+      "url": "https://open.spotify.com/track/7CdrY4dlc3l0NU04fbIr3B"
+    },
+    {
+      "album": {
         "name": "Andai Tiada Dia",
         "url": "https://open.spotify.com/album/3w7RP3QBl4dX9WAxGX6eSv"
       },
@@ -1262,6 +1280,24 @@
       "duration_ms": 271100,
       "name": "Arah Cinta Sejati",
       "url": "https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8"
+    },
+    {
+      "album": {
+        "name": "Arguments",
+        "url": "https://open.spotify.com/album/7x3MVms5HfbrZbboPeU74F"
+      },
+      "artists": [
+        {
+          "name": "Kaka Azraff",
+          "url": "https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218912,
+      "name": "Arguments",
+      "url": "https://open.spotify.com/track/5OYaC9RWaMMmcedHDTJRqT"
     },
     {
       "album": {
@@ -3317,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4"
+      },
+      "artists": [
+        {
+          "name": "Aufahanie",
+          "url": "https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
+    },
+    {
+      "album": {
         "name": "BY YOUR SIDE",
         "url": "https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT"
       },
@@ -3870,7 +3924,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 140160,
       "name": "cuma satu",
       "url": "https://open.spotify.com/track/0xyPvz5PnEJ9CIz0jVFQ2r"
@@ -4200,7 +4254,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 222857,
       "name": "Demi Kebenaran - From 'Papa Zola The Movie'",
       "url": "https://open.spotify.com/track/0TVqD2ViVzNa59mQdWT34L"
@@ -5241,6 +5295,28 @@
     },
     {
       "album": {
+        "name": "Gurauan Berkasih",
+        "url": "https://open.spotify.com/album/0eu2W7LExHh04AzeG6KgAd"
+      },
+      "artists": [
+        {
+          "name": "Tajul",
+          "url": "https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v"
+        },
+        {
+          "name": "Wany Hasrita",
+          "url": "https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312683,
+      "name": "Gurauan Berkasih",
+      "url": "https://open.spotify.com/track/3K0RxesjQbisclX1EtG0wC"
+    },
+    {
+      "album": {
         "name": "Hadiah Tuhan",
         "url": "https://open.spotify.com/album/60j0dapkq9DTqAoqT0PfM6"
       },
@@ -5422,7 +5498,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 261926,
       "name": "HANYA KAMU",
       "url": "https://open.spotify.com/track/1HwsNdwftP3a7eiicEgxWR"
@@ -15395,6 +15471,36 @@
     },
     {
       "album": {
+        "name": "TAGULING-GULING",
+        "url": "https://open.spotify.com/album/2PEL4HwjE2RMwLCnqZvjna"
+      },
+      "artists": [
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        },
+        {
+          "name": "Jacson Zeran",
+          "url": "https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp"
+        },
+        {
+          "name": "Ecko Show",
+          "url": "https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp"
+        },
+        {
+          "name": "Diva Aurel",
+          "url": "https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281856,
+      "name": "TAGULING-GULING",
+      "url": "https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm"
+    },
+    {
+      "album": {
         "name": "Tahta Hatiku #Pendampingmu",
         "url": "https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy"
       },
@@ -15808,7 +15914,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 272737,
       "name": "Takdirku",
       "url": "https://open.spotify.com/track/1JhnIoPo0xjE1WZLcK7ZfT"
@@ -16507,6 +16613,24 @@
     },
     {
       "album": {
+        "name": "Terpikat Pada Cinta",
+        "url": "https://open.spotify.com/album/1BbbnT6zieG9F20Z63T8yX"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Terpikat Pada Cinta",
+      "url": "https://open.spotify.com/track/0SqLgHSQzJoY42H6qek9XR"
+    },
+    {
+      "album": {
         "name": "Tersemogakan",
         "url": "https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi"
       },
@@ -16832,7 +16956,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 204048,
       "name": "Tiga (feat. Akwa Arifin)",
       "url": "https://open.spotify.com/track/1Cf6H01vy2oYUkBg5fwv1J"
@@ -16890,7 +17014,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 275200,
       "name": "Toksik",
       "url": "https://open.spotify.com/track/5aZrcT2cab2giTD1bXgsvp"
@@ -17328,6 +17452,42 @@
       "duration_ms": 209054,
       "name": "Ya Hayati",
       "url": "https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA"
+    },
+    {
+      "album": {
+        "name": "Yang Engkau Mahukan",
+        "url": "https://open.spotify.com/album/4b0hNFxFkxLzInInzDd5Nn"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239947,
+      "name": "Yang Engkau Mahukan",
+      "url": "https://open.spotify.com/track/2ggVMWtE8vvmECNgRHyCp3"
+    },
+    {
+      "album": {
+        "name": "Yang Tertulis (From \"Akad Yang Hilang\")",
+        "url": "https://open.spotify.com/album/0tegVzr36bicERLoxRPQ9r"
+      },
+      "artists": [
+        {
+          "name": "Dinda Dania",
+          "url": "https://open.spotify.com/artist/6zA8TCZT3O5MRvbyh50kxo"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Yang Tertulis - From \"Akad Yang Hilang\"",
+      "url": "https://open.spotify.com/track/1fvqcHQmMQAWJ4FS5oXx0T"
     },
     {
       "album": {

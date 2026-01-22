@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 14 hr 43 min
+284 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Isn't It Heavenly?](https://open.spotify.com/track/2U7E8bQieCckLEorEuDoGu) | [Stanley Black](https://open.spotify.com/artist/7ICtJI0WkGw8bQB2ELzHjk) | [Red Velvet & Music for Romance](https://open.spotify.com/album/6cprjtzpZgq032Z7lbBQXN) | 2:32 | 2025-06-27 | 2025-11-21 |
 | [It Was Good Enough for Grandma](https://open.spotify.com/track/46YYzZT4lWVL4zeLZhZnhD) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:43 | 2024-07-24 |  |
 | [It Was Long Ago](https://open.spotify.com/track/22ZSfGoOTX7rX9at7fFPtA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Life Begins At 8:40 Female Ensemble](https://open.spotify.com/artist/5kQzZmgvJiXpFzuCiFcyKn) | [Life Begins at 8:40](https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo) | 3:12 | 2024-07-24 |  |
-| [It's Only A Paper Moon](https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:40 | 2024-07-24 |  |
+| [It's Only A Paper Moon](https://open.spotify.com/track/3YpOZnAr1JE4WondXbGTMv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Ella: The Legendary Decca Recordings](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) | 2:36 | 2026-01-21 |  |
+| [It's Only A Paper Moon](https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:40 | 2024-07-24 | 2026-01-22 |
 | [Jerusalem \- Live](https://open.spotify.com/track/66RNWVcr1p2BndiNBZvQbF) | [Aquabella](https://open.spotify.com/artist/5KyFe21EBZxVaT1FP5FQIB) | [Jubilee Live](https://open.spotify.com/album/4sJoPgpsGYX4sUJEAvzvy2) | 5:06 | 2024-07-24 | 2025-06-28 |
 | [Jingle Bells](https://open.spotify.com/track/47JxNXLXzkmFWAJyNEShKj) | [Vel Mares](https://open.spotify.com/artist/5QauAaVaSU5vY1t9cvmkEt) | [Rockabilly Xmas](https://open.spotify.com/album/3fP9nRiA3JPlUR4FGIYX1G) | 1:49 | 2024-12-11 | 2025-06-28 |
 | [Jingle Bells](https://open.spotify.com/track/5BiPKZ3JwuBTh4ZzFlIsEa) | [Vel Mares](https://open.spotify.com/artist/3ekxvk4BjnDM4abAjMMdkS) | [Rockabilly Xmas](https://open.spotify.com/album/3UVyusOIWLzcvz1R7DvamM) | 1:49 | 2024-07-24 | 2024-09-15 |

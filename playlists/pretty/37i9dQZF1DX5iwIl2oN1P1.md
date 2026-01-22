@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover:  Common Hymnal
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,711 likes - 74 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,778 likes - 74 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

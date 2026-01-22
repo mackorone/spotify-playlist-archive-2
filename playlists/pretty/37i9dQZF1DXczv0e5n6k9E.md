@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: YungKapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,724 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,727 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MONO ESY](https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [MONO ESY](https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM) | 2:30 |
-| 2 | [BABA](https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [BABA](https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu) | 2:24 |
+| 2 | [BABA](https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [BABA](https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu) | 2:24 |
 | 3 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
 | 4 | [TI KOITAS](https://open.spotify.com/track/388imDvdu9yzhGDfdwCdhS) | [TAFF](https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [TI KOITAS](https://open.spotify.com/album/7fwpZ5vaqtQwPCn29mf7zB) | 2:29 |
 | 5 | [PEP TALK](https://open.spotify.com/track/7d0gRGbTVISrcNNazqcpxZ) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [PEP TALK](https://open.spotify.com/album/2O45RCak2BNFtEi402p0RC) | 4:04 |

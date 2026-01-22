@@ -6738,7 +6738,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 199671,
       "name": "Cocaina (feat. JVG)",
       "url": "https://open.spotify.com/track/60FI78p0UjNVFtVhTjtyBD"
@@ -41580,6 +41580,24 @@
       "duration_ms": 176666,
       "name": "Ready To Go",
       "url": "https://open.spotify.com/track/1yHedmJ4lO0x9MYL6S98MA"
+    },
+    {
+      "album": {
+        "name": "Ready To Leave",
+        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Monte",
+          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178815,
+      "name": "Ready To Leave",
+      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
     },
     {
       "album": {

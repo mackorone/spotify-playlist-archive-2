@@ -1,6 +1,6 @@
 {
   "description": "desce baby, o tz fez pra \ud83e\udef5\ud83c\udffe",
-  "num_followers": 1414179,
+  "num_followers": 1414135,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -31,7 +31,7 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "SET DO JAPA NK 2.0 (feat. MC LUUKY, Mc Jacar\u00e9, MC Rodrigo do CN, MC GH do 7, Mc Lele JP, Mc Jvila & Oruam)",
+        "name": "SET DO JAPA NK 2.0",
         "url": "https://open.spotify.com/album/0IJNesGOY68YOquXRgGENh"
       },
       "artists": [
@@ -81,7 +81,7 @@
         }
       ],
       "duration_ms": 518783,
-      "name": "SET DO JAPA NK 2.0 (feat. MC LUUKY, Mc Jacar\u00e9, MC Rodrigo do CN, MC GH do 7, Mc Lele JP, Mc Jvila & Oruam)",
+      "name": "SET DO JAPA NK 2.0",
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
     },
     {
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "KayBlack & Burna Boy - Spotify Sessions",
-        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 165540,
-      "name": "TaTaTa - Spotify Sessions",
-      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "Rap da Lealdade",
         "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 181417,
       "name": "Rap da Lealdade",
       "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "KayBlack & Burna Boy - Spotify Sessions",
+        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 165540,
+      "name": "TaTaTa - Spotify Sessions",
+      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
     },
     {
       "added_at": "2026-01-16 03:01:04",

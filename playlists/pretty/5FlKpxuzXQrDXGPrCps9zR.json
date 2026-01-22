@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABTkdFX6veMkJL8+iSUI4Lxyxbsxju",
+  "snapshot_id": "AAABTxX79HFbl1JtbMD5ERigIGJPhJBo",
   "tracks": [
     {
       "added_at": "2025-11-22 13:33:01",
@@ -491,6 +491,26 @@
       "duration_ms": 234426,
       "name": "Piano",
       "url": "https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO"
+    },
+    {
+      "added_at": "2026-01-21 17:58:57",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 145765,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/04cyJEBNascBpFaYRES91n"
     }
   ],
   "unique_name": "THE playlist",

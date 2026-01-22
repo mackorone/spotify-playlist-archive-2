@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAiJvAyHubDYyYoE0CbMKGx",
+  "snapshot_id": "aW7FgAAAAAD6qixOzaGTp8y9aP5faXBE",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 233214,
-      "name": "Illuminant",
-      "url": "https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX"
+      "duration_ms": 47426,
+      "name": ">",
+      "url": "https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 47426,
-      "name": ">",
-      "url": "https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7"
+      "duration_ms": 233214,
+      "name": "Illuminant",
+      "url": "https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring Natanya 🚀
 
-789 songs - 1 day 15 hr 54 min
+790 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 |  |
 | [boat](https://open.spotify.com/track/3SVNI6RoA0LzurTfviu9uK) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [boat](https://open.spotify.com/album/3vTdZ5EIjq162FJh6GKeIb) | 2:51 | 2025-11-21 |  |
 | [Boat Party](https://open.spotify.com/track/7yXwW9uMrwnoGZxTwDC7ld) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D) | [Boat Party](https://open.spotify.com/album/3spQCU2RarIaaTIGmwTK8T) | 3:24 | 2025-07-10 | 2025-08-15 |
-| [Body](https://open.spotify.com/track/3wqXKqPgBMBeyHNN3x1x47) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Body](https://open.spotify.com/album/1LNYkv0KQrGTOqBJkwiEH7) | 4:13 | 2025-07-24 |  |
+| [Body](https://open.spotify.com/track/3wqXKqPgBMBeyHNN3x1x47) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Body](https://open.spotify.com/album/1LNYkv0KQrGTOqBJkwiEH7) | 4:13 | 2025-07-24 | 2026-01-22 |
 | [Body Behave](https://open.spotify.com/track/0ljwpHmpnB97a2QTdttJeY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns \(Extended\)](https://open.spotify.com/album/6ZgeiRUwdC9MaBCeL8EV3a) | 2:51 | 2025-10-02 | 2025-11-14 |
 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 | 2025-06-12 | 2025-09-19 |
 | [bones on the beach](https://open.spotify.com/track/1F9rwXbQ2dxZ72mC17ovLY) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:27 | 2024-08-29 | 2024-11-01 |
@@ -359,6 +359,7 @@
 | [If You Give Me This Chance](https://open.spotify.com/track/4TW9oeKIpucVNwgYAYpFCY) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [If You Give Me This Chance](https://open.spotify.com/album/5NpZs5DFC3xcXQM9AXRkke) | 3:25 | 2025-08-21 | 2025-11-21 |
 | [if,,](https://open.spotify.com/track/1NRYNka2z3Pqbfa0gVa78D) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [if,,](https://open.spotify.com/album/7HLZ9xdkL5LCs57iLFDeVu) | 4:14 | 2025-06-12 | 2025-08-22 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 | 2025-10-03 |
+| [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-21 |  |
 | [im\_not\_asking for much, just eternal love.](https://open.spotify.com/track/6l9o0nJBe3bmPuNIlW15hd) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [psyilocibin mind / im\_not\_asking for much, just eternal love.](https://open.spotify.com/album/48keRwJAydHar3gjyIrU6B) | 2:10 | 2025-05-22 | 2025-07-04 |
 | [In Between](https://open.spotify.com/track/1pat9Eyvp7hxrEQ69bBAZ5) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [In Between](https://open.spotify.com/album/3BiL6aOf5hdFMyGIiHmLHw) | 3:30 | 2026-01-16 |  |
 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 | 2024-11-08 | 2025-05-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 11042,
+  "num_followers": 11076,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAFGtIoumoJpo2rGmslIQ1y",
+  "snapshot_id": "aW7FgAAAAADdvxh3FzgNF8uCaxHTsxsP",
   "tracks": [
     {
       "added_at": null,
@@ -659,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+        "name": "Holier (SHOWBIZ)",
+        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
       },
       "artists": [
+        {
+          "name": "Olli P",
+          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 161211,
-      "name": "24/48",
-      "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
+      "duration_ms": 146165,
+      "name": "Holier (SHOWBIZ)",
+      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
     },
     {
       "added_at": null,
@@ -691,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holier (SHOWBIZ)",
-        "url": "https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG"
+        "name": "OVMBR: Roses",
+        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
       },
       "artists": [
-        {
-          "name": "Olli P",
-          "url": "https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx"
-        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 146165,
-      "name": "Holier (SHOWBIZ)",
-      "url": "https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH"
+      "duration_ms": 161211,
+      "name": "24/48",
+      "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 48 songs - 3 hr 35 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 47 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 43 | [High Water](https://open.spotify.com/track/4wH1pXy6wTxvUnRmWaHWaP) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 5:13 |
 | 44 | [Sugar](https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:52 |
 | 45 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
-| 46 | [El Tango De Roxanne](https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v), [Ricky Rojas](https://open.spotify.com/artist/1BchvTjZ0pkAW1WPDZTSeZ), [Sahr Ngaujah](https://open.spotify.com/artist/22DUlxqR0fx6R1UKit7uOz), [Jacqueline B\. Arnold](https://open.spotify.com/artist/3QlycUoQkiflglfZ3Nrccl), [Holly James](https://open.spotify.com/artist/0rHWRsXdgLUAT59rikTzHa), [Jeigh Madjus](https://open.spotify.com/artist/7r1TFR05734UFt4bAAvFnA) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:37 |
-| 47 | [For Forever](https://open.spotify.com/track/0ZWW07BD8W85lUbgx2sn7E) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 5:01 |
-| 48 | [My Green Light](https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 4:52 |
+| 46 | [For Forever](https://open.spotify.com/track/0ZWW07BD8W85lUbgx2sn7E) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 5:01 |
+| 47 | [My Green Light](https://open.spotify.com/track/6laXbZsBFKw3FlQ7eJbuwO) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 4:52 |
 
-Snapshot ID: `AAAGdvN5c4kAh0BpdS364LD17w7uzITA`
+Snapshot ID: `AAAGdzqpmprn65Tu/YpnisiEuebj82hd`

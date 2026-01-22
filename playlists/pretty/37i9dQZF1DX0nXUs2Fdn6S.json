@@ -1,12 +1,12 @@
 {
   "description": "Best of the EDM scene in India. Cover- Nucleya",
-  "num_followers": 37465,
+  "num_followers": 37470,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALhoCPc94NBsOEVEAYO/xmCMy1vO",
+  "snapshot_id": "AAAAAMA81Co8jSwLInbtSWFnoFQnaEsm",
   "tracks": [
     {
       "added_at": "2026-01-15 06:32:04",
@@ -79,6 +79,22 @@
       "duration_ms": 213913,
       "name": "Laung Gawacha",
       "url": "https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx"
+    },
+    {
+      "added_at": "2026-01-21 13:05:53",
+      "album": {
+        "name": "VANDALI",
+        "url": "https://open.spotify.com/album/1CM3GrdF0kRoCNEOH0q0QE"
+      },
+      "artists": [
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/7yuq2YAERvdU11fdpT3U4U"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "VANDALI",
+      "url": "https://open.spotify.com/track/7nr1yf0U6U8mWGOQlDgxRC"
     },
     {
       "added_at": "2026-01-15 06:32:04",

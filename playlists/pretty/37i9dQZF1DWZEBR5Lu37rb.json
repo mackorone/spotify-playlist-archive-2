@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 118877,
+  "num_followers": 118969,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Buyelekhaya",
-        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
-      },
-      "artists": [
-        {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "Nomvula",
-      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "DaKAR II",
         "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Oscillations",
-        "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
+        "name": "Buyelekhaya",
+        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
       },
       "artists": [
         {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
         }
       ],
-      "duration_ms": 306040,
-      "name": "Fairytale",
-      "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
+      "duration_ms": 277760,
+      "name": "Nomvula",
+      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -551,6 +535,22 @@
       "duration_ms": 269520,
       "name": "Kwalula",
       "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Oscillations",
+        "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 306040,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Masithokoze",
-        "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
-      },
-      "artists": [
-        {
-          "name": "DJ Stokie",
-          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
-        },
-        {
-          "name": "Eemoh",
-          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
-        }
-      ],
-      "duration_ms": 427217,
-      "name": "Masithokoze",
-      "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Princess of House (Easy to Love)",
         "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 335466,
       "name": "Easy to Love",
       "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Masithokoze",
+        "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "duration_ms": 427217,
+      "name": "Masithokoze",
+      "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Wenhliziyo Yami",
         "url": "https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Ndilinde",
-      "url": "https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "In The Building",
         "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 173617,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Ndilinde",
+      "url": "https://open.spotify.com/track/4LnZCQBJKb9OOtz21N3YVF"
     },
     {
       "added_at": "2025-07-11 08:09:25",

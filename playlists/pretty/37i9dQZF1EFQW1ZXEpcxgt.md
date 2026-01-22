@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 104 | [My Guy](https://open.spotify.com/track/2oQhNpylkd2vtbXGr6IBWa) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:20 |
 | 105 | [BITTA](https://open.spotify.com/track/5FZ1HZ9ke8CVbim5fVTXsm) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [BITTA](https://open.spotify.com/album/5sVuH0zhKKgPz21oKaCOeY) | 3:13 |
 | 106 | [Hustle Harder](https://open.spotify.com/track/2SS3wA4pk7jutREHgojJcb) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Nobody's Smiling \(Deluxe\)](https://open.spotify.com/album/0ymZEUngBCetAJcJaqO63b) | 3:58 |
-| 107 | [No Chance](https://open.spotify.com/track/0pZ2vkhWBEWWOwuAB8OlgE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [No Chance](https://open.spotify.com/album/3zY5iu6GBWO927JdIu8OQT) | 3:40 |
-| 108 | [Beside Me](https://open.spotify.com/track/3zNDVJAwnnWDNW8OvnJsqN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:07 |
+| 107 | [Beside Me](https://open.spotify.com/track/3zNDVJAwnnWDNW8OvnJsqN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:07 |
+| 108 | [No Chance](https://open.spotify.com/track/0pZ2vkhWBEWWOwuAB8OlgE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [No Chance](https://open.spotify.com/album/3zY5iu6GBWO927JdIu8OQT) | 3:40 |
 | 109 | [Hey Cutie](https://open.spotify.com/track/4eUJJtvEwDn45jG0gZdLdZ) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way \(Deluxe Explicit Version\)](https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z) | 3:15 |
 | 110 | [Hurt for Long](https://open.spotify.com/track/5Zo2q2qGbGMzPURPXqOqlX) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:17 |
 | 111 | [Weekend Behavior](https://open.spotify.com/track/6Ds1x8qOzlq3tBH12W7WPi) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Cuban Jesus](https://open.spotify.com/album/5qK4ZzsOUh7d0zD42r01ao) | 3:39 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 142 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 143 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcHe6gAAAACPukh4n1COkc2wFZ448lBf`
+Snapshot ID: `AcHkigAAAAB/Lxz5SW5VBcQSdBvzv2k6`

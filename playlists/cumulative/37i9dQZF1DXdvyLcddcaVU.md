@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,000 songs - 2 day 3 hr 57 min
+1,001 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-01-31 | 2025-02-22 |
 | [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 | 2025-11-21 |  |
 | [DO U WANNA ?](https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm) | 2:15 | 2025-08-28 |  |
-| [Do You Mind \- Crazy Cousinz Remix](https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN) | [Paleface](https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8), [Crazy Cousins](https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr) | [Do You Mind \(Crazy Cousins Remix\)](https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx) | 7:15 | 2025-11-27 |  |
+| [Do You Mind \- Crazy Cousinz Remix](https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN) | [Paleface](https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8), [Crazy Cousins](https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr) | [Do You Mind \(Crazy Cousins Remix\)](https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx) | 7:15 | 2025-11-27 | 2026-01-22 |
 | [Doggy](https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Doggy](https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go) | 2:12 | 2024-04-05 | 2024-07-13 |
 | [Dolce Camara \- Snight B Remix](https://open.spotify.com/track/1W4mPC2NDpoKeolyEckBnm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Snight B](https://open.spotify.com/artist/6YqyFGzBfxmhGsHZLRxMkn), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Dolce Camara \(Snight B Remix\)](https://open.spotify.com/album/1SjL9H0lVR2gmsqADe3FMC) | 2:24 | 2024-04-26 | 2024-10-12 |
 | [Donna](https://open.spotify.com/track/4mLzkKIOllZqAEU3JHc10y) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/41HNUXTQtfRTKZdcxD3qH6) | 3:02 | 2023-10-06 | 2023-11-18 |
@@ -740,6 +740,7 @@
 | [Phantom](https://open.spotify.com/track/6jUtvXa9NwN1Rh0PkLJHOz) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Phantom](https://open.spotify.com/album/4KKAIvHLWvTJgGiADIHqnn) | 1:49 | 2025-12-19 |  |
 | [Photomaton](https://open.spotify.com/track/7FAyIPD8YLpUQc5r0MSv60) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R), [Elodie Wildstars](https://open.spotify.com/artist/6azJLRL2YwHHtmYdSI12lL) | [Pola](https://open.spotify.com/album/57rVwTtLt8rgScIabNzWvt) | 4:40 | 2025-06-20 | 2025-07-19 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-02-14 | 2025-08-15 |
+| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-01-21 |  |
 | [Pim pom](https://open.spotify.com/track/6OZ0yjdc8QQPxnQ2T6lGlg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 4:23 | 2025-02-14 | 2025-08-05 |
 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 | 2024-07-12 | 2024-09-07 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-06-20 | 2023-12-14 |

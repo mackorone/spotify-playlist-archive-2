@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Ceux qu'on \u00e9tait",
+      "url": "https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i"
+    },
+    {
+      "album": {
         "name": "C\u0153ur de pirate",
         "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 231155,
       "name": "La nuit - Version acoustique",
       "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"

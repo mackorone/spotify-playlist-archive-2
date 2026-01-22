@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "bad",
+        "url": "https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161610,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI"
       },

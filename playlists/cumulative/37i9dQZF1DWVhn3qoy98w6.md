@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Elena Carat.
+> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Carmen Lillo.
 
 8,330 songs - 17 day 16 hr 29 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Narivetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,721 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,790 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 45 | [Kiliye \- From "ARM"](https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Kiliye \(From "ARM"\)](https://open.spotify.com/album/30tPbatfXYe4Em74JzAzSg) | 4:31 |
 | 46 | [Mrudhu Bhaave Dhruda Kruthye](https://open.spotify.com/track/1wOdYfw93oBobalH0AsNaW) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kannur Squad \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IFNcdNSiJ1J2ItzQs8uY4) | 5:32 |
 | 47 | [Kaana Kuyile](https://open.spotify.com/track/49HiSytCmA9gbwvWORUOPq) | [Anne Amie](https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x), [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Evugin](https://open.spotify.com/artist/33QRiIIZlm5Rwc9qwkX5aI) | [Bro Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pvPbUSHisP6BXLWZN041H) | 5:43 |
-| 48 | [Makane](https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Parvatish Pradeep](https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:32 |
+| 48 | [Makane](https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf) | [Parvatish Pradeep](https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:32 |
 | 49 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 | 50 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
 

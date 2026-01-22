@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>の公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,107 likes - 113 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,172 likes - 113 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 70 | [In My Life](https://open.spotify.com/track/14o1B08KAaDORV6dEQQqQ5) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [In My Life](https://open.spotify.com/album/6mLeBzPCvQuAXE32ruU59t) | 3:38 |
 | 71 | [歩こう](https://open.spotify.com/track/2zbIQlaeIBILMWIzaO2uVi) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [歩こう](https://open.spotify.com/album/25AZ5VK9DPcPQjEw12QaVp) | 3:25 |
 | 72 | [Player \(feat\. KID FRESINO\)](https://open.spotify.com/track/2c2njvdiusdOv1M2HtBz6R) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Massive](https://open.spotify.com/album/7hkllL5xMbAfynE2nkWPCF) | 4:01 |
-| 73 | [don't stop freestyle](https://open.spotify.com/track/5qRhSP9lDIS4sokxoPtU9i) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.4](https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236) | 1:53 |
+| 73 | [Nagoya Rich Boy](https://open.spotify.com/track/5x9MJQAX2KVuVErOgx6qTz) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Nagoya Rich Boy](https://open.spotify.com/album/5sFKUwooJI9QP3NUjVC2nP) | 2:36 |
 | 74 | [シャトレーゼやめた](https://open.spotify.com/track/0weHfc2zLwoTLY5vRLCvZr) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.3](https://open.spotify.com/album/00QiSceL2O0od66f1KhZtq) | 2:20 |
 | 75 | [MOVE IN SILENCE](https://open.spotify.com/track/6iSLFhWPttcd9hSaiKJw9t) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [MOVE IN SILENCE](https://open.spotify.com/album/6c5JgA2ApEgnmItd1bg4wb) | 2:09 |
 | 76 | [Desire](https://open.spotify.com/track/3gYJEi1XEX5gB5wkhdTAJ4) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [RICH / RISK](https://open.spotify.com/album/2Nzp70VE18nluk8Hnm2mIy) | 2:44 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 112 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 113 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 |
 
-Snapshot ID: `AAAAAIFzDjqOotiC4ZCCR19CWY7EiPP4`
+Snapshot ID: `AAAAABSgxmntlS+8+sEMUCs4dR+zu2PY`

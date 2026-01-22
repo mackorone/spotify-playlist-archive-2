@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155934,
+  "num_followers": 155933,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADmVy/fbSOQuG9fkUbuDh9T",
+  "snapshot_id": "aW7FgAAAAABqWNT4GpAN2Bufxy6wNdpR",
   "tracks": [
     {
       "added_at": null,
@@ -539,30 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "7 Meiota",
-      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "7 Meiota",
+      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
     },
     {
       "added_at": null,
@@ -911,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caXTASE",
-        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Triz",
-          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "SOZINHO",
-      "url": "https://open.spotify.com/track/4GvumINo7IcrKMPM7KIYZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebradas",
         "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
       },
@@ -963,6 +939,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "SOZINHO",
+      "url": "https://open.spotify.com/track/4GvumINo7IcrKMPM7KIYZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00edmica",
         "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
       },
@@ -979,22 +979,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
       },
       "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Djay W",
-          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+          "name": "MODE$TIA",
+          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
+        },
+        {
+          "name": "Yoka",
+          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
         }
       ],
-      "duration_ms": 207104,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
+      "duration_ms": 247701,
+      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
+      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
     },
     {
       "added_at": null,
@@ -1027,30 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
       "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "MODE$TIA",
-          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
-        },
-        {
-          "name": "Yoka",
-          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
         }
       ],
-      "duration_ms": 247701,
-      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
-      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
+      "duration_ms": 207104,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
     },
     {
       "added_at": null,

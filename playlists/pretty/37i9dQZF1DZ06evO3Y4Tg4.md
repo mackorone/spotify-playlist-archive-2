@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,630 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,726 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/6nvbfM5pVDXHNEHiZwpjkl) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/2RPxUxIORttdHmF32D4A4O) | 4:33 |
 | 50 | [God's Eye](https://open.spotify.com/track/3r0PewH8erhkOP0xe4wMMj) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [God's Eye](https://open.spotify.com/album/6tEf2Vc3vq6IWwIFXIAoY4) | 5:16 |
 
-Snapshot ID: `aW10AAAAAADPwFWlotqyG7uoilxTBO1x`
+Snapshot ID: `aW7FgAAAAACmZ69JindXnTXMF+8s3q29`

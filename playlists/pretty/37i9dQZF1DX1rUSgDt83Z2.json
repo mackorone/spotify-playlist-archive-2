@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 44289,
+  "num_followers": 44310,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-01-08 23:00:13",
       "album": {
-        "name": "Ik Zeg Niets",
-        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Ik Zeg Niets",
-      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
         "name": "Nu Jij Hier Niet Meer Bent",
         "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 250269,
       "name": "Nu Jij Hier Niet Meer Bent",
       "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
+    },
+    {
+      "added_at": "2026-01-08 23:00:13",
+      "album": {
+        "name": "Ik Zeg Niets",
+        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Ik Zeg Niets",
+      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
     },
     {
       "added_at": "2026-01-08 23:00:13",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-01-08 23:00:13",
       "album": {
-        "name": "Houden van is voor altijd",
-        "url": "https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu"
-      },
-      "artists": [
-        {
-          "name": "ANNE",
-          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
-        }
-      ],
-      "duration_ms": 194243,
-      "name": "Houden Van Is Voor Altijd",
-      "url": "https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
         "name": "Noorderlicht",
         "url": "https://open.spotify.com/album/2hWs52poL7yBwoRYNTQ4MP"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 194661,
       "name": "Noorderlicht",
       "url": "https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL"
+    },
+    {
+      "added_at": "2026-01-08 23:00:13",
+      "album": {
+        "name": "Houden van is voor altijd",
+        "url": "https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Houden Van Is Voor Altijd",
+      "url": "https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo"
     },
     {
       "added_at": "2026-01-08 23:00:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-01-08 23:00:13",
       "album": {
-        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
-        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
-      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
-    },
-    {
-      "added_at": "2026-01-08 23:00:13",
-      "album": {
         "name": "Tijd Genoeg",
         "url": "https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 160692,
       "name": "Tijd Genoeg",
       "url": "https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6"
+    },
+    {
+      "added_at": "2026-01-08 23:00:13",
+      "album": {
+        "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Bemin Me Later (uit Liefde Voor Muziek)",
+      "url": "https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM"
     },
     {
       "added_at": "2026-01-08 23:00:13",

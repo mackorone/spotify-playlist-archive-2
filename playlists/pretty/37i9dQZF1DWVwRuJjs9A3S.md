@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Amanda Bergman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,727 likes - 169 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,723 likes - 169 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

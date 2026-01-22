@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 15 hr 25 min
+150 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/2Yrv7iT74UqFhj13Jg7tRw) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:37 | 2022-06-04 |  |
 | [Eu Vou](https://open.spotify.com/track/7bBZWejBWjegNDZpdK5GkK) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Eu Vou](https://open.spotify.com/album/3VwjA6TL1mFL87K3My04VA) | 2:13 | 2024-05-24 |  |
 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 | 2022-06-04 |  |
+| [Existe Uma Geração \- Ao Vivo](https://open.spotify.com/track/4AUcOvhHNakk911GBWvY8J) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 5:27 | 2026-01-21 |  |
 | [Holy Table](https://open.spotify.com/track/2hu1HijSqMWWLmKBnjGZ7O) | [Liturgical Folk](https://open.spotify.com/artist/5OhGNb4thJQ6YlKt8So8B9) | [Edenland](https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d) | 6:25 | 2024-04-18 |  |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:26 | 2022-06-04 |  |
 | [Invocamos \- Ao Vivo](https://open.spotify.com/track/4ihtQFUBGnZ0yEmGd1ZkI2) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Gustavo Tenfen](https://open.spotify.com/artist/0nsZTtQt6ZKtccVlbetSTk) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 5:57 | 2022-06-30 |  |

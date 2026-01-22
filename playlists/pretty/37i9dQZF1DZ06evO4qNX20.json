@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 342913,
+  "num_followers": 342939,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABDYPpqAUCO6qqWtwHLO42h",
+  "snapshot_id": "aW7FgAAAAABJSPjj8q/4Sbjgwh7hAu0V",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Ramiro Sierra",
-      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Colecci\u00f3n, Vol.1",
         "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 156120,
       "name": "La Ametralladora",
       "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ramiro Sierra",
+      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213089,
       "name": "Nocturno A Rosario",
       "url": "https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pela Vacas (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 160777,
-      "name": "Juli\u00e1n del Real - Remastered 2025",
-      "url": "https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez Con Banda Brava",
         "url": "https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 212613,
       "name": "Rigo Coria",
       "url": "https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 160777,
+      "name": "Juli\u00e1n del Real - Remastered 2025",
+      "url": "https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
-        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "El Dos Dedos",
-      "url": "https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 218673,
       "name": "Por Una Rencilla Vieja",
       "url": "https://open.spotify.com/track/2CMcLBaFgUFVkMeHnyhNGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n De Oro De Chalino S\u00e1nchez, Vol. 2: Corridos",
+        "url": "https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "El Dos Dedos",
+      "url": "https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V"
     },
     {
       "added_at": null,

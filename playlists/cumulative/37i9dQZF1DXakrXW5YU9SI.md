@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-779 songs - 1 day 19 hr 41 min
+780 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 | 2025-09-19 | 2025-09-27 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-15 | 2025-01-25 |
 | [Nie płacz za mną zbyt często!](https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM) | [Krzyk Mody](https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Nie płacz za mną zbyt często!](https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me) | 3:07 | 2025-08-22 | 2025-10-04 |
+| [Nie ta droga](https://open.spotify.com/track/2T1s9Or8z0zQhYbxQyjH0y) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Nie ta droga](https://open.spotify.com/album/3PNcatifNjh1LoCmvEhfyv) | 3:25 | 2026-01-16 |  |
 | [Nie ten czas](https://open.spotify.com/track/6A4ugg36Col9gR3XmjmzcC) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie ten czas](https://open.spotify.com/album/7leW2u65l1HB3GQOoSZ6fR) | 3:02 | 2025-07-10 | 2025-09-22 |
 | [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 | 2025-02-28 | 2025-03-15 |
 | [Nie umiem tańczyć](https://open.spotify.com/track/1Iy8pt0HXtTNblnNIkEygc) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Nie umiem tańczyć](https://open.spotify.com/album/7l6SipYzqvZTthSEmalhjU) | 3:27 | 2025-01-10 | 2025-01-18 |
@@ -585,7 +586,7 @@
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2024-09-12 | 2024-11-22 |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-02-07 | 2025-09-16 |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-17 | 2024-11-22 |
-| [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 | 2025-12-05 |  |
+| [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 | 2025-12-05 | 2026-01-22 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-11-22 |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \- Deluxe](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-11 | 2024-09-13 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-06-28 | 2024-08-26 |

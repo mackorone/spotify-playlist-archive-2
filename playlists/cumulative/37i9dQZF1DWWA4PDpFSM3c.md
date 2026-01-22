@@ -4,7 +4,7 @@
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-55 songs - 4 hr 12 min
+56 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 | 2022-09-02 |  |
 | [Gaaju Bomma \(From "Hi Nanna"\)](https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Gaaju Bomma \(From "Hi Nanna"\)](https://open.spotify.com/album/1KQY2FCmofyNFNzsMyMt9n) | 4:26 | 2023-10-06 |  |
 | [Gala Gala Paruthunna](https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L) | [Nihal](https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl) | [Pokiri](https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX) | 4:33 | 2022-09-02 |  |
-| [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 | 2025-09-22 |  |
+| [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 | 2025-09-22 | 2026-01-22 |
 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 | 2021-05-18 |  |
 | [Kannullo Nee Roopame](https://open.spotify.com/track/7jbNMW04ju92tfMsSwIJyi) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Ninne Pelladatha](https://open.spotify.com/album/541GRaOEn6UBptC1WlX8E1) | 5:21 | 2024-02-12 |  |
 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Mallik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 | 2023-03-03 |  |
@@ -52,6 +52,7 @@
 | [Nuvvunte Naa Jathagaa](https://open.spotify.com/track/5dG3KI5rIUwiUQNNr3Y1to) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Issrath Quadhri](https://open.spotify.com/artist/4QoJ8BoHjdNimxhVftuiar), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 5:50 | 2022-09-02 |  |
 | [O My Friend](https://open.spotify.com/track/2dM6gB1xw3afy3iovxFcfk) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 5:02 | 2024-02-12 |  |
 | [Oh Prema](https://open.spotify.com/track/63NdWczrPCYGWKY1RV4Zbh) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:28 | 2022-10-11 |  |
+| [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 | 2022-09-02 |  |
 | [Pranam Kanna \(Female Version\) \[From "Love Reddy"\]](https://open.spotify.com/track/5z9S8CqOtorQRdqygHemDn) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Pranam Kanna \(Female Version\) \[From "Love Reddy"\]](https://open.spotify.com/album/5YGyuYFEiBAezgZL6cJ59L) | 2:46 | 2024-11-19 |  |
 | [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 | 2022-09-02 |  |
 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 | 2022-09-02 |  |

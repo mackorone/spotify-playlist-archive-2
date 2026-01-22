@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\.  Foto: Lola Flores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,544 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,549 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 62 | [Femme Fatale](https://open.spotify.com/track/7l54hHBQLOoGK60avlMTBi) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Femme Fatale](https://open.spotify.com/album/1NBwBH1VuTQu3sTNR8HeKy) | 3:05 |
 | 63 | [Llamas de Dragón](https://open.spotify.com/track/6QpYqnIGnPKJLmV7TUdtUH) | [Nat Simons](https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn) | [Llamas de Dragón](https://open.spotify.com/album/6XzPjM2UkMlDI46aPr1tIC) | 3:43 |
 | 64 | [Mi querido vino blanco](https://open.spotify.com/track/053j2JKI8hEZKVvz6D36dt) | [Celine Van Heel](https://open.spotify.com/artist/3WunZoCCWuZ1kpUiCqfgN1) | [Naufrage](https://open.spotify.com/album/5org8LtiD1V5dwPBgOmqco) | 2:41 |
-| 65 | [Fandango de Richter](https://open.spotify.com/track/6s79MnLwYc8drdb4q1oPCG) | [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ) | [Fandango de Richter](https://open.spotify.com/album/09L9izGDPwf0DRj1B24782) | 4:02 |
+| 65 | [Fandango de Richter](https://open.spotify.com/track/6s79MnLwYc8drdb4q1oPCG) | [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ) | [Fandango de Richter](https://open.spotify.com/album/09L9izGDPwf0DRj1B24782) | 3:34 |
 | 66 | [No Se Vende Miedo](https://open.spotify.com/track/59u0SLz5qBPnwltFFKY445) | [Negra](https://open.spotify.com/artist/3VTDrqWjOgEPSLtojAqku3) | [No Se Vende Miedo](https://open.spotify.com/album/6WiZ6NrdZJN325w4f2A94D) | 3:51 |
 | 67 | [Angie la ladrona](https://open.spotify.com/track/7q6RvZZTrGbdO4digmkQFM) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Solo es un preliminar](https://open.spotify.com/album/7tYZS1c8o7NdP1XCKOnhdr) | 2:04 |
 | 68 | [Raíces](https://open.spotify.com/track/2gVB3DyU3ESfvhRUQ8tADn) | [Sereia](https://open.spotify.com/artist/7blImAPa2ErYiKiEd2xreq) | [Raíces](https://open.spotify.com/album/3dxd4qK9h1yUlKqExkQnit) | 2:19 |

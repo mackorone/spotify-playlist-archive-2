@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Evil Level Live, Splitter Conspiracy and more",
+  "description": "With Evil Level Live, Rob Harrowven, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
+    },
+    {
+      "album": {
+        "name": "Puppets Know",
+        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209536,
+      "name": "A song for the broken",
+      "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
     },
     {
       "album": {
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 288750,
       "name": "Here comes the rain again",
       "url": "https://open.spotify.com/track/0IDP8V9dFCoayfuQ8UH60b"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 182553,
       "name": "It's My Dream",
       "url": "https://open.spotify.com/track/56zKYHY2WdaobxMrXM3HO6"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 285133,
       "name": "Justified",
       "url": "https://open.spotify.com/track/4JpphtwmpyMqv3tsx4Emff"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 120000,
       "name": "Least",
       "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 180456,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/6lkUfXe7LMYv6HgXCCI77e"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 254663,
       "name": "Play On",
       "url": "https://open.spotify.com/track/5finqfmqX3w1XQVowqwYT9"
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-04",
+      "date_removed": null,
       "duration_ms": 309020,
       "name": "Porcelain - Black Remix",
       "url": "https://open.spotify.com/track/4AkRx8vmUX3JLOkPtMXE0t"
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 206462,
       "name": "POV",
       "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/3g3i3u2CY5DFNDEc5BNHnH"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 294389,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7n3N6Thp6WFEyBIxdiOZH9"
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 325407,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3990wQM7Bixk2UtfoEQlqL"
@@ -4753,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Awkward",
+        "url": "https://open.spotify.com/album/0X6V64zEBWCVhj3biRD4HQ"
+      },
+      "artists": [
+        {
+          "name": "Silver Dawn",
+          "url": "https://open.spotify.com/artist/78wZN1BycnSPrrICoVAvjd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369940,
+      "name": "The Tune",
+      "url": "https://open.spotify.com/track/4W7NBASlgMfCm2t22msfYk"
+    },
+    {
+      "album": {
         "name": "In Sinistereo",
         "url": "https://open.spotify.com/album/1NMH5JGAa2mczfqRgG6sKe"
       },
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -5165,6 +5201,28 @@
     },
     {
       "album": {
+        "name": "Wait for a Day",
+        "url": "https://open.spotify.com/album/4lcAWqT0FyLk2gucGlFBF5"
+      },
+      "artists": [
+        {
+          "name": "Stephen Brodsky",
+          "url": "https://open.spotify.com/artist/7kcQqnnBCPSa28dVFfG43Q"
+        },
+        {
+          "name": "Adam McGrath",
+          "url": "https://open.spotify.com/artist/1OZ0uJvIiUrLNc74RgXRFV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Wait for a Day",
+      "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
+    },
+    {
+      "album": {
         "name": "Null",
         "url": "https://open.spotify.com/album/1ujia8BjXfOVQrJLtBHdWR"
       },
@@ -5194,7 +5252,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 191563,
       "name": "Waiting for You to Come Home (Radio Edit)",
       "url": "https://open.spotify.com/track/5IDcKfTTPh0oT5LSxQIi6g"

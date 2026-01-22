@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: زياد ظاظا
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: موند
 
-443 songs - 21 hr 35 min
+444 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [3ereft Eimtek](https://open.spotify.com/track/6dXIXxMazGdBaCEFcvgCA1) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [3ereft Eimtek](https://open.spotify.com/album/6JT4VHNlL5aZQgOvRcePif) | 2:15 | 2024-05-20 | 2024-09-05 |
 | [3esabat](https://open.spotify.com/track/0yvG6cDzjt7EtJNjYspBgA) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:52 | 2024-02-19 | 2024-08-13 |
 | [3eyal Habiba](https://open.spotify.com/track/1YbbLjJg4LlTWpSCEFA1pi) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [3eyal 7abiba](https://open.spotify.com/album/66KSDyavnaeo7hcpJtCYxX) | 2:07 | 2024-09-12 | 2024-12-20 |
-| [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 | 2024-05-30 |  |
+| [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 | 2024-05-30 | 2026-01-22 |
 | [3latol](https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [3latol](https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx) | 3:08 | 2022-05-10 | 2022-08-24 |
 | [7ABAYBY](https://open.spotify.com/track/6pcftuLAqLrKmMP3WJwhqJ) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7ABAYBY](https://open.spotify.com/album/3azkh7kw6gTSaIbpHdr4bV) | 2:36 | 2023-05-25 | 2023-06-04 |
 | [7abayby](https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Mostt](https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B) | [7abayby](https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x) | 2:36 | 2023-06-03 | 2023-08-18 |
@@ -95,6 +95,7 @@
 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 | 2022-09-13 | 2023-09-19 |
 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 | 2022-05-10 | 2023-03-07 |
 | [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 | 2022-08-08 | 2022-12-07 |
+| [BZNS](https://open.spotify.com/track/7vKZg4y18laSIpSaa90WGi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [BZNS](https://open.spotify.com/album/2Y02HRAeLZ1DqzO827H79R) | 2:31 | 2026-01-21 |  |
 | [BŃŅIT](https://open.spotify.com/track/3d7rmWQj2AaH81tdD2qrRB) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:31 | 2024-08-15 | 2024-11-30 |
 | [CA$HETA](https://open.spotify.com/track/5nJlh46X5vg65P4tLhKWtT) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [CA$HETA](https://open.spotify.com/album/578xeeJvGaezmhcHQLM7Ex) | 1:29 | 2025-10-02 | 2026-01-15 |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-09-28 |

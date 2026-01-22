@@ -656,7 +656,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 171937,
       "name": "Bekya",
       "url": "https://open.spotify.com/track/635XgbgINyBrET4Wn460mD"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 339966,
       "name": "Ghadi",
       "url": "https://open.spotify.com/track/4ZkF5NDqqgOSmVoWSNVgwP"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 160500,
       "name": "Hassasa - \u062d\u0633\u0627\u0633\u0629",
       "url": "https://open.spotify.com/track/3FzjUNvNyjhKBQh0iNPZBW"
@@ -2426,6 +2426,24 @@
       "duration_ms": 173269,
       "name": "Mesh Ayzek Tegheeby",
       "url": "https://open.spotify.com/track/53Yk4qSPehpLV0tadM008N"
+    },
+    {
+      "album": {
+        "name": "Mesh Bet2ooly leh \u0645\u0634 \u0628\u062a\u0642\u0648\u0644\u064a \u0644\u064a\u0647",
+        "url": "https://open.spotify.com/album/5Gr5eMsxHvJLt1RrtkJr96"
+      },
+      "artists": [
+        {
+          "name": "Pink Seasalt",
+          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Mesh Bet2ooly leh \u0645\u0634 \u0628\u062a\u0642\u0648\u0644\u064a \u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/11g8MT4npcCvkTee8njIM0"
     },
     {
       "album": {
@@ -3951,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "Sarab (\u0633\u0631\u0627\u0628)",
+        "url": "https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333949,
+      "name": "Zaman (\u0632\u0645\u0646)",
+      "url": "https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9"
+    },
+    {
+      "album": {
         "name": "Zay El Qetar",
         "url": "https://open.spotify.com/album/6nHndIHIHGZESiQghVRDnY"
       },
@@ -4442,7 +4478,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 194806,
       "name": "\u0641\u0631\u0646\u0635\u0627",
       "url": "https://open.spotify.com/track/3LHy4bN1UE3xYcHRq7MDf4"

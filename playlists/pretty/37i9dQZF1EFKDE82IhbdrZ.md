@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 102 | [Crying My Eyes Out](https://open.spotify.com/track/1e6McS5TlhjM3NRJMLfYPr) | [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Crying My Eyes Out](https://open.spotify.com/album/2oydmC0JBXnX4FVYEBHOLd) | 2:56 |
 | 103 | [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 |
 | 104 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/41J9hA7Tev5iFg2ugHRIPg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:39 |
-| 105 | [Break My Heart](https://open.spotify.com/track/6lMfTCsISpmVhdV97ltlEl) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:29 |
-| 106 | [What It Is](https://open.spotify.com/track/0w3A7y2EJ8awXWMUtftue5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 5:25 |
+| 105 | [What It Is](https://open.spotify.com/track/0w3A7y2EJ8awXWMUtftue5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 5:25 |
+| 106 | [Break My Heart](https://open.spotify.com/track/6lMfTCsISpmVhdV97ltlEl) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:29 |
 | 107 | [Goodbye Summer](https://open.spotify.com/track/1kmpcpEK0f56M5dkqNajRk) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Goodbye Summer](https://open.spotify.com/album/3Yl5E4IlQOVDr7xV6I76hY) | 3:08 |
 | 108 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
 | 109 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/1VsciQwDYOAyDw2FX6D062) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:14 |
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 240 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
 | 241 | [Good News](https://open.spotify.com/track/5cljhBkI14yAF0uSh4999U) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Days & Nights](https://open.spotify.com/album/3cwP8FL7HkJJvDBP78heeW) | 4:01 |
 | 242 | [Shot In The Dark](https://open.spotify.com/track/23Qzc4lfb0OmBQNFY7xYKR) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Augustana](https://open.spotify.com/album/6C5GXWTK4E9A50lDtFQFgr) | 3:26 |
-| 243 | [Counting Stars](https://open.spotify.com/track/2KYf45Llmj3yxYtQxNQWCr) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Augustana](https://open.spotify.com/album/6C5GXWTK4E9A50lDtFQFgr) | 4:17 |
-| 244 | [Out Of This World](https://open.spotify.com/track/4jfgYiB2gQJ0mZSPcGJgIa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:12 |
+| 243 | [Out Of This World](https://open.spotify.com/track/4jfgYiB2gQJ0mZSPcGJgIa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:12 |
+| 244 | [Counting Stars](https://open.spotify.com/track/2KYf45Llmj3yxYtQxNQWCr) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Augustana](https://open.spotify.com/album/6C5GXWTK4E9A50lDtFQFgr) | 4:17 |
 | 245 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
 | 246 | [Santiladang](https://open.spotify.com/track/0GfcixRsXWPWEcbR6ZVzDL) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
 | 247 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcHewgAAAAB5bbaSUajsu5QczBkEBtbY`
+Snapshot ID: `AcHklAAAAAB9o83RSHZG8xiDStJMRAgb`

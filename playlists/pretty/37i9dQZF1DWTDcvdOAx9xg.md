@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > il meglio dei brani  <a href="spotify:playlist:37i9dQZF1DWYCIYGXn56uz">gen\-z</a> italiani di quest'anno, secondo voi e i nostri editor 📞 Cover: Gaia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,104 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,110 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

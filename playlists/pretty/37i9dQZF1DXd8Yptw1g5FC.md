@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Poizi ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,878 likes - 135 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,899 likes - 135 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Fresh Hip Hop](https://open.spotify.com/playlist/4ZIfP7ACey6M5BBLTfmOBW)
 
-> All the freshest hip\-hop heaters in one list! Cover: Central Cee.
+> All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
 873 songs - 1 day 16 hr 39 min
 

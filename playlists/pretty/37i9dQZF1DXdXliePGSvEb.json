@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77195,
+  "num_followers": 77205,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Song for You / The Wizard",
         "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 213466,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Big Boy Tracks",
         "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 221520,
       "name": "Big Boy Tracks",
       "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Que Isso",
-        "url": "https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK"
-      },
-      "artists": [
-        {
-          "name": "PPJ",
-          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Que Isso",
-      "url": "https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 266486,
       "name": "L F G",
       "url": "https://open.spotify.com/track/3oaDqABHAzKwOXdLbuPdgd"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Que Isso",
+        "url": "https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK"
+      },
+      "artists": [
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Que Isso",
+      "url": "https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn"
     },
     {
       "added_at": "2025-12-03 12:15:55",

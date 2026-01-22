@@ -4,7 +4,7 @@
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-129 songs - 6 hr 17 min
+131 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Distant Star](https://open.spotify.com/track/7MVfEhbiOVgsFGRbWABuc1) | [Bias Beats](https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT) | [A Distant Star](https://open.spotify.com/album/3nWJWWtbskE3XkVnLs9WDU) | 2:12 | 2025-12-17 |  |
 | [Amahora](https://open.spotify.com/track/3iVpdgrMykRJlE535X3zCl) | [Eastern Sage](https://open.spotify.com/artist/0uabB9eq1pesTNA7wrt7Pm) | [Amahora](https://open.spotify.com/album/7dyYZkmBLnVijt8mIyaE9V) | 2:03 | 2025-07-15 |  |
 | [Ancestral Blessings](https://open.spotify.com/track/6rQJ0sZLYSrbDwOTvgWyXy) | [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Sama](https://open.spotify.com/album/0TcgW9jZWgM4FLQtSmxKnx) | 6:02 | 2025-07-15 |  |
-| [Anima Rhythm](https://open.spotify.com/track/5b5DGtxW15LzR3TyK3799Q) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Anima Rhythm](https://open.spotify.com/album/5m2qbK3VUSi04WrzcK31Zl) | 4:03 | 2025-09-30 |  |
+| [Anima Rhythm](https://open.spotify.com/track/5b5DGtxW15LzR3TyK3799Q) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Anima Rhythm](https://open.spotify.com/album/5m2qbK3VUSi04WrzcK31Zl) | 4:03 | 2025-09-30 | 2026-01-22 |
 | [Annapurna](https://open.spotify.com/track/1inLtrwDbsbp9Xtxjkilj7) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Annapurna](https://open.spotify.com/album/0cSTPDKCX1W01APuHxUU7k) | 2:37 | 2025-07-15 |  |
 | [Arabian Nightscape](https://open.spotify.com/track/2A1lmILl7Kr4obNVAkvWgS) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Arabian Nightscape](https://open.spotify.com/album/202wC1NAiuNfz7VALhVoiu) | 2:08 | 2025-07-15 |  |
 | [Araku Valley](https://open.spotify.com/track/5erKX4F9d9htRJv7laq2K5) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Araku Valley](https://open.spotify.com/album/69rrgyRD4PYbPIcA7RdL7V) | 2:30 | 2025-07-15 |  |
@@ -21,6 +21,7 @@
 | [Blissful Dream](https://open.spotify.com/track/4UYdG82h9r44t22kqDezMX) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Blissful Dream](https://open.spotify.com/album/7IKxNs1OlfJprRXySgvkF7) | 2:12 | 2025-07-15 |  |
 | [Body and Mind](https://open.spotify.com/track/712Ho8tceR7yJXKt0mtDGc) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Body and Mind](https://open.spotify.com/album/6uh4hWcUbdYYfPGG1MMsHD) | 2:47 | 2025-09-30 |  |
 | [Brahmapur](https://open.spotify.com/track/3QFf1piK6iBbjP3mmWgeWw) | [Tarang](https://open.spotify.com/artist/2OqhidfWgdPZlkp8EPo3cU) | [Brahmapur](https://open.spotify.com/album/4qSHiaXakj4YRGk9KC1BWJ) | 3:05 | 2025-07-15 | 2025-11-06 |
+| [Breathe](https://open.spotify.com/track/1U9e1qDIsCvHssHzdFN2mi) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Breathe](https://open.spotify.com/album/2yS1Hd8OH0XjX4WEVa0zYn) | 3:30 | 2026-01-21 |  |
 | [Calm Cycles](https://open.spotify.com/track/6Kis6YUsSrMZ6opTwcMTR6) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Calm Cycles](https://open.spotify.com/album/6QrxZk3VYzn06kCmtaKxDo) | 2:48 | 2025-12-17 |  |
 | [Clear Sky](https://open.spotify.com/track/6bqysqQE2axxUQ5uiXSJni) | [Rex Imaleo](https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w) | [Clear Sky](https://open.spotify.com/album/70sIzczVxAX3tubcUKESxV) | 2:55 | 2025-11-05 |  |
 | [Compassion](https://open.spotify.com/track/7bbpFv8lBdPeeVZKw4AErU) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Compassion](https://open.spotify.com/album/506SvtH8sfSyBuBpfynQkY) | 2:59 | 2025-12-17 |  |
@@ -51,8 +52,8 @@
 | [Focus Ten](https://open.spotify.com/track/6rtxEcszeVD0j86GJc2ZvQ) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Ten](https://open.spotify.com/album/0KBrHAUFZ5cmLuu5jx65xM) | 2:50 | 2025-07-15 |  |
 | [Focus Three](https://open.spotify.com/track/0IfeZcPRMV8yUxgyisjZAq) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Three](https://open.spotify.com/album/59WtoicUQBzRIUs3QA6657) | 3:28 | 2025-07-15 |  |
 | [Follow Me](https://open.spotify.com/track/1NVBmx1I2NAzDUii9d2212) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Follow Me](https://open.spotify.com/album/796eGx1PXmkrV8NQ0bu2Y8) | 2:27 | 2025-11-05 |  |
-| [Full Release](https://open.spotify.com/track/4P9KtDicF0yJr3urPLsmmi) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Crystal & Sage](https://open.spotify.com/artist/6Tt9fQ07okw9EMAZt9OC7D) | [Strings & Sage](https://open.spotify.com/album/2kArkUu0CaUKv86Km00cc0) | 4:34 | 2025-07-15 |  |
-| [Future Touch](https://open.spotify.com/track/3AsATiEImhwMdqSYjoG82w) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Future Touch](https://open.spotify.com/album/3jo1a85SRbvPOmjf3vpzRD) | 2:31 | 2025-07-15 |  |
+| [Full Release](https://open.spotify.com/track/4P9KtDicF0yJr3urPLsmmi) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Crystal & Sage](https://open.spotify.com/artist/6Tt9fQ07okw9EMAZt9OC7D) | [Strings & Sage](https://open.spotify.com/album/2kArkUu0CaUKv86Km00cc0) | 4:34 | 2025-07-15 | 2026-01-22 |
+| [Future Touch](https://open.spotify.com/track/3AsATiEImhwMdqSYjoG82w) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Future Touch](https://open.spotify.com/album/3jo1a85SRbvPOmjf3vpzRD) | 2:31 | 2025-07-15 | 2026-01-22 |
 | [Gaia Awakening](https://open.spotify.com/track/5QBG3VmM9KaonM31n34YPP) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Gaia Awakening](https://open.spotify.com/album/4cVfRzKWKXEqnnage3kbrW) | 3:00 | 2025-07-15 |  |
 | [Gentle Storm](https://open.spotify.com/track/6xvO1Nj1lOJCHh3KdCqKHC) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Native Heart: A Native American Music Odyssey](https://open.spotify.com/album/49UczOhMTF5Swy3aCLeNbF) | 4:10 | 2025-07-15 | 2025-12-18 |
 | [Gentle Waves](https://open.spotify.com/track/1LRiY158nBIDukQoZyaYTd) | [Natalia Hadley](https://open.spotify.com/artist/1KXCLDIYRWQyNE9S2iPMsD) | [Gentle Waves](https://open.spotify.com/album/3h17UOSZKlAAIi5VGRXdq1) | 2:38 | 2025-11-05 |  |
@@ -124,6 +125,7 @@
 | [Surya](https://open.spotify.com/track/0wW834gqMpuszpCwMh9iev) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Surya](https://open.spotify.com/album/7nVuuP9MjdEhObc7S0R0rw) | 2:24 | 2025-07-15 |  |
 | [Tabla Journey](https://open.spotify.com/track/0yU7xhca2umDHpLpVuGKQX) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Tabla Journey](https://open.spotify.com/album/0Z0xbFPij5lnivzRj8daSF) | 2:39 | 2025-07-15 |  |
 | [Telangana](https://open.spotify.com/track/1v1TAAUUyr4iIW8L3jfjvK) | [Therodum](https://open.spotify.com/artist/6GhN3fX8bNqdf1HkKvsSCy) | [Telangana](https://open.spotify.com/album/4nzCvJZrfQVFCPFhVdP3mx) | 3:04 | 2025-07-15 | 2025-11-06 |
+| [Temple of Silence](https://open.spotify.com/track/14LGBqzDNJGKD58sySJ7BY) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Temple of Silence](https://open.spotify.com/album/1wCYurNsL30abl5ItJ7pmm) | 2:21 | 2026-01-21 |  |
 | [The Diviner](https://open.spotify.com/track/0M9yygcM3XRSoKe0bVn8ut) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [The Diviner](https://open.spotify.com/album/4lFXtdqOhXzTFQuTKavbOg) | 2:51 | 2025-07-15 |  |
 | [The Peace of Truth](https://open.spotify.com/track/6pf9grSLdju1CZJBs9yaUo) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [The Peace of Truth](https://open.spotify.com/album/3O85pY3iCoJWEsvpTDFt14) | 2:33 | 2025-07-15 |  |
 | [The Power Within](https://open.spotify.com/track/3aRiatdBhediJ8UFiXV8Qx) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [The Power Within](https://open.spotify.com/album/10ztIrNNdwhOv3NW8b2Gm7) | 2:44 | 2025-07-15 | 2025-12-18 |

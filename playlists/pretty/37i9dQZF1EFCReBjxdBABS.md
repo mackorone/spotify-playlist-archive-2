@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 127 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 127 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 |
 | 2 | [Another](https://open.spotify.com/track/0kUAznltN1lXGpcwnFAQkl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Barstool Whiskey Wonderland](https://open.spotify.com/album/7pQNyq4BKpuLhiTURjzR2a) | 3:08 |
 | 3 | [One Day Tonight](https://open.spotify.com/track/5lLsusYmNQkOalUBSaWUEI) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/7oFaFya0ZcXUIryvPpdNw3) | 2:45 |
-| 4 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 |
-| 5 | [Revelation](https://open.spotify.com/track/4HWDNZ1i6gyzu9tUbNhC2C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:29 |
+| 4 | [Revelation](https://open.spotify.com/track/4HWDNZ1i6gyzu9tUbNhC2C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:29 |
+| 5 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 |
 | 6 | [Wildflowers and Wild Horses](https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 4:10 |
 | 7 | [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 |
 | 8 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 78 | [Maybe Not](https://open.spotify.com/track/1PkMxo1SQtehhsM3GuYd4g) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [Maybe Not](https://open.spotify.com/album/4djCJK2VULqp1Okwc6Sx51) | 2:57 |
 | 79 | [Having It All](https://open.spotify.com/track/5xeASgqvLB3WOUkND2zfrZ) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Miss California](https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5) | 2:53 |
 | 80 | [Head Start on a Heartbreak](https://open.spotify.com/track/09YHbsgK2ushf9Cq0RkM2X) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The 3rd](https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N) | 3:08 |
-| 81 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
-| 82 | [Morning Person](https://open.spotify.com/track/2m9e4YyrrpMjlm7wVVwQ0N) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Dive Bar Beauty Queen](https://open.spotify.com/album/2stHI1R40N24BTQ0EIGccF) | 3:40 |
+| 81 | [Morning Person](https://open.spotify.com/track/2m9e4YyrrpMjlm7wVVwQ0N) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Dive Bar Beauty Queen](https://open.spotify.com/album/2stHI1R40N24BTQ0EIGccF) | 3:40 |
+| 82 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
 | 83 | [just a house](https://open.spotify.com/track/0DzTXqEjas7NYeoLsaw6B9) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:39 |
 | 84 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
 | 85 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 123 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
 | 124 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
 | 125 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 126 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
-| 127 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
+| 126 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 |
+| 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcHewgAAAAC0eKtB+pnzSb9qL/2mhaAJ`
+Snapshot ID: `AcHklAAAAAB+u0axYxZJx6Oy1pVehksn`

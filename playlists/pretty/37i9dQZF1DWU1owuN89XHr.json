@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 295017,
+  "num_followers": 295051,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mujer Que Camina",
-        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Mujer Que Camina",
-      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "El Cartero",
         "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 263440,
       "name": "Divina T\u00fa",
       "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Mujer Que Camina",
+        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Mujer Que Camina",
+      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Cain",
+        "url": "https://open.spotify.com/album/6WsYFZlXi4OkE4oY2J6yrT"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 230583,
+      "name": "Brazos De Sol",
+      "url": "https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Extremistas Nobles",
         "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Cain",
-        "url": "https://open.spotify.com/album/6WsYFZlXi4OkE4oY2J6yrT"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 230583,
-      "name": "Brazos De Sol",
-      "url": "https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Como la Nube Se Impone al Sol",
         "url": "https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY"
       },
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "El Primer Amor",
+        "url": "https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "El Primer Amor",
+      "url": "https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Guapa",
         "url": "https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US"
       },
@@ -1335,26 +1355,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Primer Amor",
-        "url": "https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "El Primer Amor",
-      "url": "https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0tveCb0Wi30pENdaIqM7Lj"
       },
@@ -1383,6 +1383,26 @@
       "duration_ms": 212226,
       "name": "Prefiero amar",
       "url": "https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "A mi lado",
+        "url": "https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+        }
+      ],
+      "duration_ms": 239717,
+      "name": "A mi lado",
+      "url": "https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1417,26 +1437,6 @@
       "url": "https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "A mi lado",
-        "url": "https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 239717,
-      "name": "A mi lado",
-      "url": "https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR"
-    },
-    {
       "added_at": "2021-10-26 03:29:04",
       "album": {
         "name": "Vagamundo",
@@ -1467,6 +1467,26 @@
       "duration_ms": 279440,
       "name": "Alfonsina y el Mar",
       "url": "https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Todos los ojos te miran",
+        "url": "https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "Todos los ojos te miran (feat. Chico Buarque)",
+      "url": "https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1507,26 +1527,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Todos los ojos te miran",
-        "url": "https://open.spotify.com/album/1GPzyUlurqWS0KjG8g2J4n"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 253323,
-      "name": "Todos los ojos te miran (feat. Chico Buarque)",
-      "url": "https://open.spotify.com/track/4DW7Ve6nklGVl1Stswkya6"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "1978-1988",
         "url": "https://open.spotify.com/album/4NquOcku810JUHEDBv2YHy"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 222783,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 165160,
       "name": "Buscando un \u00c1ngel",
       "url": "https://open.spotify.com/track/577tjKJ7OZ5Jh3RPXLAfvt"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/34eOeoTPpnB8xQMKCv6dN8"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 222783,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3uGbe1nJQcC8nWoQ03Ebuf"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 233125,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/4W7WkBcU2lucZ3idMydUS3"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Escucha a Gerardo Pablo",
         "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 170813,
       "name": "Los Grillos",
       "url": "https://open.spotify.com/track/5tnqRDcrlgLphc0OE7k1gu"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 233125,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/4W7WkBcU2lucZ3idMydUS3"
     },
     {
       "added_at": "2021-07-29 16:46:05",

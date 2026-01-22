@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CbuNvlevZNRcTpWGKWIZz.md) - [plain]
 
 > A few of our recent favorites including the latest tracks from our label <a href="https://open.spotify.com/playlist/6wf7OjL38XBl60m7cLIe6Z">Foreign Family Collective</a>.
 
-[ODESZA](https://open.spotify.com/user/odesza) - 53,274 likes - 51 songs - 3 hr 18 min
+[ODESZA](https://open.spotify.com/user/odesza) - 53,272 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

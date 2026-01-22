@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Airways",
+        "url": "https://open.spotify.com/album/1zrZdAlHnlX9e01PBloYkb"
+      },
+      "artists": [
+        {
+          "name": "Fravula",
+          "url": "https://open.spotify.com/artist/4sO8xUAbF7Vfzoyiy5tYZj"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Airways",
+      "url": "https://open.spotify.com/track/4XR3tAqHFvAPZP8M102u7j"
+    },
+    {
+      "album": {
         "name": "Ajna",
         "url": "https://open.spotify.com/album/1XwOL2xWqSy7zeFlajSFWL"
       },
@@ -427,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2yS1Hd8OH0XjX4WEVa0zYn"
+      },
+      "artists": [
+        {
+          "name": "Mohimbra",
+          "url": "https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1U9e1qDIsCvHssHzdFN2mi"
+    },
+    {
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75"
       },
@@ -670,6 +706,24 @@
       "duration_ms": 151714,
       "name": "Cosmic Wind",
       "url": "https://open.spotify.com/track/7M6Oo8FUfnOzmv9QlINuOb"
+    },
+    {
+      "album": {
+        "name": "Crystal Motion",
+        "url": "https://open.spotify.com/album/2ZoTkyrZfV1n5Npm16byHB"
+      },
+      "artists": [
+        {
+          "name": "Miyklo",
+          "url": "https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141641,
+      "name": "Crystal Motion",
+      "url": "https://open.spotify.com/track/7p1lSGc3srqVWObehGXPW2"
     },
     {
       "album": {
@@ -1059,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Flower Peak",
+        "url": "https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn"
+      },
+      "artists": [
+        {
+          "name": "Dormira Y Fluir",
+          "url": "https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Flower Peak",
+      "url": "https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw"
+    },
+    {
+      "album": {
         "name": "Flowing Springs",
         "url": "https://open.spotify.com/album/0tO1HMfTmIK90VRngfMLBL"
       },
@@ -1435,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Indigo Cirrus",
+        "url": "https://open.spotify.com/album/0UNjO4JgY6Z5FnIkqj2md5"
+      },
+      "artists": [
+        {
+          "name": "Drawn",
+          "url": "https://open.spotify.com/artist/5IAzABJNf8u0gB0y3KDhAp"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Indigo Cirrus",
+      "url": "https://open.spotify.com/track/6leq7n4wO7qjUO5kdulplS"
+    },
+    {
+      "album": {
         "name": "The Yoga Sessions",
         "url": "https://open.spotify.com/album/4YTqKMK1dkLaPj6x9Um6BH"
       },
@@ -1756,7 +1846,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 192000,
       "name": "Marimba Lullaby",
       "url": "https://open.spotify.com/track/1HZmRFqDEYJ8ZqkuuOUsjv"
@@ -2066,6 +2156,24 @@
       "duration_ms": 145593,
       "name": "Nervous System Reset",
       "url": "https://open.spotify.com/track/7Az4UPODVrlJcLU0ICCKZi"
+    },
+    {
+      "album": {
+        "name": "Nervous System Reset EP",
+        "url": "https://open.spotify.com/album/73FwZoeMYogixB7cR5WmHM"
+      },
+      "artists": [
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118561,
+      "name": "Nervous System Reset (Pt. II)",
+      "url": "https://open.spotify.com/track/6nbREBJTEi1186cYbHA19a"
     },
     {
       "album": {
@@ -2963,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4yGLW2elPJekRJ8qeZwPZq"
+      },
+      "artists": [
+        {
+          "name": "Kalmera",
+          "url": "https://open.spotify.com/artist/2dCsd1ZnWMiFipiSVqKCUl"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/0RqbLdc6Shcs64DHC1kD69"
+    },
+    {
+      "album": {
         "name": "Trance Union",
         "url": "https://open.spotify.com/album/5XMRTcTM3GRLrEPkwGVXeh"
       },
@@ -3227,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Xpander",
+        "url": "https://open.spotify.com/album/38tlO3o4Vdnhf81xNDeYzd"
+      },
+      "artists": [
+        {
+          "name": "Hangimba Boy",
+          "url": "https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163541,
+      "name": "Xpander",
+      "url": "https://open.spotify.com/track/44BOV66hax4xis2NThiAom"
+    },
+    {
+      "album": {
         "name": "Yoga Dedication",
         "url": "https://open.spotify.com/album/7FvPfS5ebwgdEfj5SqACpU"
       },
@@ -3296,6 +3440,24 @@
       "duration_ms": 186418,
       "name": "Zen In Motion",
       "url": "https://open.spotify.com/track/6MlbbTsEN0Ff9dW20u6o7o"
+    },
+    {
+      "album": {
+        "name": "Zenith Dance",
+        "url": "https://open.spotify.com/album/7lwqlSfPHSsLM7zf8gNKxj"
+      },
+      "artists": [
+        {
+          "name": "Greet The Day",
+          "url": "https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176457,
+      "name": "Zenith Dance",
+      "url": "https://open.spotify.com/track/5QYphQQfUsdAvMhpfo7oJf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUZBIhSC4FGF"

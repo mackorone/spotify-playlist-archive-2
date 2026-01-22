@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-101 songs - 4 hr 48 min
+103 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [852 Hz \- Solfeggio For Clarity](https://open.spotify.com/track/6cLmng7H0V7xnEy0to6Jbe) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Solfeggio For Clarity](https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM) | 1:34 | 2023-03-10 | 2024-03-14 |
 | [852 Hz \- Talentueuse](https://open.spotify.com/track/2XnTUfujFCoqscDSjNondy) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 1:59 | 2023-03-10 | 2024-03-14 |
 | [852 Hz \- Tides of Eternity](https://open.spotify.com/track/3sJAIjDGGlVnRCvjJRAmHA) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 1:52 | 2023-03-10 | 2024-03-14 |
-| [852 Hz \- Transformative Journey](https://open.spotify.com/track/4rA1djqnUZtTGJx13sk8zU) | [A Deeper Sense](https://open.spotify.com/artist/34C1icJqIMVraGaiyybDSW) | [852 Hz \- Transformative Journey](https://open.spotify.com/album/2Up9pvT4MDk26onhvtmUhl) | 2:05 | 2023-11-30 |  |
+| [852 Hz \- Transformative Journey](https://open.spotify.com/track/4rA1djqnUZtTGJx13sk8zU) | [A Deeper Sense](https://open.spotify.com/artist/34C1icJqIMVraGaiyybDSW) | [852 Hz \- Transformative Journey](https://open.spotify.com/album/2Up9pvT4MDk26onhvtmUhl) | 2:05 | 2023-11-30 | 2026-01-22 |
 | [852 Hz \- Why The Rush](https://open.spotify.com/track/5EsormHGhJGBBB01hEhcIL) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
+| [852 Hz Absorbance](https://open.spotify.com/track/3BcTugImxamhTwmxgK2pgk) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [852 Hz Absorbance](https://open.spotify.com/album/4KFeJlA9rE3KjvjQoBPglK) | 2:39 | 2026-01-21 |  |
 | [852 Hz Breath Activation](https://open.spotify.com/track/1RPRIsnAg04j1ioC0eRUEp) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Breath Activation](https://open.spotify.com/album/44qz6aN5PyUkZ7NZpwj9p5) | 3:23 | 2023-11-30 |  |
 | [852 Hz Connection](https://open.spotify.com/track/4RZR4xxsaXFBoU7YiTm2jW) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [852 Hz Connection](https://open.spotify.com/album/4uBLjnJhircfcvGJPh3aUv) | 2:33 | 2023-08-07 | 2024-08-28 |
 | [852 Hz Emerald Waters](https://open.spotify.com/track/1LBvyl2RLLFW1KJh8aO2tp) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [852 Hz Emerald Waters](https://open.spotify.com/album/5W2X97uXnN8Bv8dxSLU1MH) | 2:32 | 2023-11-30 |  |
@@ -94,6 +95,7 @@
 | [Sensory Deprivation \(Delta\) 72 Hz \- 75 Hz](https://open.spotify.com/track/3orf9g5rGxizahH0y8p6Lv) | [Flying Waltz](https://open.spotify.com/artist/0fnG90Dzky1wzoJrzx1hVa) | [Sensory Deprivation \(Delta\)](https://open.spotify.com/album/1GfLGhc0odndCiBpIRb5aJ) | 2:52 | 2023-03-10 | 2023-12-01 |
 | [Solfeggio Frequencies 528 Hz](https://open.spotify.com/track/79AM1JeUv0oBaWENiiLOAx) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [528 Hz Transformation and Miracles \(DNA Repair\)](https://open.spotify.com/album/0qE8qzazAbwS62hZ992jQ4) | 2:45 | 2023-03-10 | 2023-12-01 |
 | [Solfeggio Starscape 852 Hz](https://open.spotify.com/track/6LxWDMO7ZM4JVhZ15lKGWW) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Solfeggio Starscapes](https://open.spotify.com/album/75IBsOMD8X2ltszEkCScTM) | 2:35 | 2024-07-13 |  |
+| [Spacious Awareness 852 Hz](https://open.spotify.com/track/06ZQyoaquE9SSXlWl3CpJf) | [Alva Bjerke](https://open.spotify.com/artist/7paE09TmSRcALtKKUMeva7) | [Spacious Awareness 852 Hz](https://open.spotify.com/album/5RxRXZZjlJECiQxQrjW3fh) | 3:05 | 2026-01-21 |  |
 | [Spirit Of Cave](https://open.spotify.com/track/4TyjxEuOhRKUg2z73fta6T) | [Miracle Mind Healing](https://open.spotify.com/artist/11EnAtfO1XD8UmD5LNnfWC), [Healing Tones](https://open.spotify.com/artist/1yVfdZEfiF3hjAcXUUw79r) | [Love Frequencies Volume 1](https://open.spotify.com/album/01nuV2tdLaSwawU9ijp7YR) | 3:55 | 2023-03-10 | 2023-08-08 |
 | [Stay Close 852 Hz](https://open.spotify.com/track/08oWPv0iCrqcXlEz9fnWKA) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Stay Close 852 Hz](https://open.spotify.com/album/5csEEPZwqvgDtrU4MzcGEK) | 2:32 | 2023-03-10 |  |
 | [Suraksha 852 Hz](https://open.spotify.com/track/53GhLGiFZRBWrfHboXNzL2) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Cambios et Suraksha](https://open.spotify.com/album/7cWPfg2i00U55wuhi3qAK8) | 3:19 | 2023-03-10 |  |

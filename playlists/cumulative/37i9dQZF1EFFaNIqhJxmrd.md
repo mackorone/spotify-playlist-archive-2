@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 6 hr 56 min
+141 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,11 @@
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2024-01-29 |  |
 | [Dum i huvet](https://open.spotify.com/track/39nFgriTt9iockfxEFn9cY) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Dum i huvet](https://open.spotify.com/album/38jCy2g30Nr3x8yksQDXKb) | 2:48 | 2024-01-29 |  |
 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 | 2024-01-29 |  |
+| [Dör](https://open.spotify.com/track/1VoDf9PvnIIfs2c8QqTBrN) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 3:04 | 2026-01-21 |  |
 | [Efterlyst](https://open.spotify.com/track/1yZi2RWtrDm96A26aPslyY) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Efterlyst](https://open.spotify.com/album/2txxacCQhJATjFK4Un6iTu) | 3:16 | 2024-01-29 |  |
 | [Emptied Out](https://open.spotify.com/track/2h4siYnPJwZHN8BksTmaE1) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 2:59 | 2024-01-29 | 2025-04-17 |
 | [Emptied Out](https://open.spotify.com/track/6yY9BHa8Z2BnGR6uyf6FWf) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 2:59 | 2025-04-16 |  |
+| [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 | 2026-01-21 |  |
 | [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 | 2025-01-28 |  |
 | [Ensam](https://open.spotify.com/track/3g9Bd3dzWumpEYS381Veiz) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ensam](https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n) | 2:29 | 2024-01-29 |  |
 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 | 2024-01-29 |  |
@@ -114,6 +116,7 @@
 | [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 | 2025-09-19 | 2025-11-17 |
 | [RESET](https://open.spotify.com/track/2peKpF1i9muFKph6JtBTvN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 2:41 | 2024-05-01 |  |
 | [RESET](https://open.spotify.com/track/2WQN4YorpjKFYiRXVeq3DD) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#70](https://open.spotify.com/album/4kJWITPSP2fptI2bDgEMk6) | 2:43 | 2025-02-04 | 2025-02-09 |
+| [Rädd](https://open.spotify.com/track/53zFD41Xfi9QvvAQaEx78l) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 1:57 | 2026-01-21 |  |
 | [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 | 2025-10-09 | 2025-11-17 |
 | [Saltvatten](https://open.spotify.com/track/4AyTEiu2SXfwsPbkBa80gn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 3:46 | 2025-11-16 |  |
 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2024-01-29 | 2025-06-28 |
@@ -133,6 +136,7 @@
 | [Turn of the Tide](https://open.spotify.com/track/571rp5YwvdDOs2940lYqLg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:17 | 2024-01-29 |  |
 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 | 2024-01-29 |  |
 | [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 | 2025-04-15 |  |
+| [Vännersvännersvänner](https://open.spotify.com/track/5Llus36yU22OfQl1VyTqTV) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 1:26 | 2026-01-21 |  |
 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 | 2024-01-29 |  |
 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2024-01-29 |  |
 | [What Are You Scared Of?](https://open.spotify.com/track/12YqybH8qHtBQPAsB8T6Z2) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 1:31 | 2024-01-29 |  |

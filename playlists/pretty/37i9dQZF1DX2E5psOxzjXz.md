@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Izzchughtai
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,734 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,737 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [Yaad Hai](https://open.spotify.com/track/47sOevL40fmadZK5iSmc2I) | [Farrukh Zaidi](https://open.spotify.com/artist/6LC8cHti7jpu44VKinIslZ) | [Yaad Hai](https://open.spotify.com/album/5Bs2sVEs2qFj9W9ZFTg23s) | 2:40 |
 | 90 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 
-Snapshot ID: `AAAAAAhqG+IKsC3Ryy9+xdUw+Z+tonTp`
+Snapshot ID: `AAAAABeGtw+2s+e2lZ/8pZ1aBzelKr9T`

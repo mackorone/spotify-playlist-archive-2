@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,353 likes - 176 songs - 10 hr 51 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,353 likes - 177 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 174 | [Frontier Radio](https://open.spotify.com/track/5tgDzjAKCuIh1XleRAgFeF) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 1:47 |
 | 175 | [Death by Love](https://open.spotify.com/track/0oKCuwon3bJNgj1yBtuol6) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Death by Love](https://open.spotify.com/album/0990HRFNLTzvf4l9Qi3elQ) | 4:32 |
 | 176 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 |
+| 177 | [Summa](https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [Summa](https://open.spotify.com/album/4AZlDXLjSAeHRVM8VXq8nV) | 4:38 |
 
-Snapshot ID: `AABvMKvJ98mJNZrZ2XNmRl50SLsmWc1I`
+Snapshot ID: `AABvMQMCyyNQMAZOmrAD13fGXfU3bGkx`

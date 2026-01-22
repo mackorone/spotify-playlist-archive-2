@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 578136,
+  "num_followers": 578283,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
+        "name": "Awadis: \u00c9tude No. 8: Through the Window",
+        "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
+      },
+      "artists": [
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "\u00c9tude No. 8: Through the Window",
+      "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
+    },
+    {
+      "added_at": "2025-12-22 13:22:10",
+      "album": {
         "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
         "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 216213,
       "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
-    },
-    {
-      "added_at": "2025-12-22 13:22:10",
-      "album": {
-        "name": "Awadis: \u00c9tude No. 8: Through the Window",
-        "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
-      },
-      "artists": [
-        {
-          "name": "Marie Awadis",
-          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
-        }
-      ],
-      "duration_ms": 340040,
-      "name": "\u00c9tude No. 8: Through the Window",
-      "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -519,8 +519,8 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
-        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
+        "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
+        "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
       "artists": [
         {
@@ -528,17 +528,13 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+          "name": "Vestard Shimkus",
+          "url": "https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl"
         }
       ],
-      "duration_ms": 119146,
-      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
-      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
+      "duration_ms": 210026,
+      "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
+      "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -619,8 +615,8 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
-        "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
+        "name": "Glass: Orph\u00e9e: III. La chambre d'Orph\u00e9e / Act 1 - Arr. for Piano duet",
+        "url": "https://open.spotify.com/album/5rqGW1WAmDc4S3TKiwTfCi"
       },
       "artists": [
         {
@@ -628,13 +624,17 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Vestard Shimkus",
-          "url": "https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl"
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
         }
       ],
-      "duration_ms": 210026,
-      "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
-      "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+      "duration_ms": 119146,
+      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: III. La chambre d'Orph\u00e9e",
+      "url": "https://open.spotify.com/track/3FtiNJyJeqmhQFIuqgtxTR"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
-    },
-    {
-      "added_at": "2025-12-22 13:22:10",
-      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+    },
+    {
+      "added_at": "2025-12-22 13:22:10",
+      "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 326400,
-      "name": "Jeux d\u2019eau, M 30",
-      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
-    },
-    {
-      "added_at": "2025-12-22 13:22:10",
-      "album": {
         "name": "Schumann 50",
         "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 88093,
       "name": "Carnaval, Op. 9: XII. Chopin",
       "url": "https://open.spotify.com/track/6Q4RxugUBulJqgtUCVyGWZ"
+    },
+    {
+      "added_at": "2025-12-22 13:22:10",
+      "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Jeux d\u2019eau, M 30",
+      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
     },
     {
       "added_at": "2025-12-22 13:22:10",

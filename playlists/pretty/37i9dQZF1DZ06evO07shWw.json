@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9116,
+  "num_followers": 9115,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABrMIqH6gXHk24/cdFmgCrs",
+  "snapshot_id": "aW7FgAAAAABJi97+b8opIDDTlgBb0gNX",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Here for It (feat. Ingrid Andress)",
+      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -491,22 +511,6 @@
       "duration_ms": 200557,
       "name": "Treated Me Good",
       "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx"
       },
       "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 183591,
-      "name": "Here for It (feat. Ingrid Andress)",
-      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
+      "duration_ms": 241120,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,098,118 likes - 385 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,098,352 likes - 385 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,7 +252,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 242 | [Hundtjärnen](https://open.spotify.com/track/4tn7t8wZfxr2j9MHSWm9d4) | [Frida Ljungh](https://open.spotify.com/artist/5pMgQ0HYdoWQOVaGd0eRvm) | [Hundtjärnen](https://open.spotify.com/album/6ItolMFcLGu3prRZKo1j3x) | 2:35 |
 | 243 | [Lightbeams](https://open.spotify.com/track/5nbZ3p6GLmCsGlCnueESvT) | [Avvaken](https://open.spotify.com/artist/3V4slVRtEqnIeps8KRgnRG) | [Lightbeams](https://open.spotify.com/album/0YsAuPO8U5cMeqorjja8Or) | 3:07 |
 | 244 | [Quiet Light](https://open.spotify.com/track/2xE06YCKl6g8ijAuDi0zFA) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Quiet Light](https://open.spotify.com/album/4SNJ5nQHVkFGghppB5rJNf) | 2:15 |
-| 245 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
+| 245 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/2I7UrIVsTUPBeK3JH8pXaE) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
 | 246 | [Libra](https://open.spotify.com/track/1bw407cZ1vYRTA2dOxbI6P) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Libra](https://open.spotify.com/album/1CSqAzeW67iYRwvWEtn8f9) | 2:47 |
 | 247 | [Ether](https://open.spotify.com/track/5TX0AhoBVoDIo099UDtXUq) | [Stellar Stones](https://open.spotify.com/artist/6JMVQlGI9IA50sFiGUp8VU) | [Ether](https://open.spotify.com/album/2WqZUvPLntu664IiUKbpV2) | 3:08 |
 | 248 | [Dreambound](https://open.spotify.com/track/5C9zA9ZfeFOYcYp4v4MHRf) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Dreambound](https://open.spotify.com/album/1WzlHRdw6X2YOlsN5BLsEo) | 2:53 |

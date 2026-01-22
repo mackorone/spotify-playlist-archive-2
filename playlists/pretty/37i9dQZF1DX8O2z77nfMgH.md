@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,016 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,880 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 3 | [ESPACIO](https://open.spotify.com/track/0EOhkB8NqywpgtAYKoq4tw) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [ESPACIO](https://open.spotify.com/album/4xhFGaj0T9cAYG3wBhd87J) | 2:52 |
 | 4 | [Estuve Ahí](https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Estuve Ahí](https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW) | 2:15 |
 | 5 | [Lluvia](https://open.spotify.com/track/1heIify4NygHEzqrozuVKK) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:24 |
-| 6 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [svnti](https://open.spotify.com/artist/3FtKKNslTacsC8L0GymuMR) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
+| 6 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
 | 7 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 |
 | 8 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
 | 9 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |

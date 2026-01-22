@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 266349,
       "name": "Breeze On Me",
       "url": "https://open.spotify.com/track/5bw7vNxL2wm66ZnK1NqLrt"
@@ -1074,6 +1074,28 @@
       "duration_ms": 390933,
       "name": "Poo Poo La La",
       "url": "https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz"
+    },
+    {
+      "album": {
+        "name": "Religious Soul",
+        "url": "https://open.spotify.com/album/4qHtCBVkkVHx2AWq5Jbjlv"
+      },
+      "artists": [
+        {
+          "name": "David \"Fathead\" Newman",
+          "url": "https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325493,
+      "name": "Precious Lord",
+      "url": "https://open.spotify.com/track/04TVdicTm3xQ1y9Jol1sXy"
     },
     {
       "album": {

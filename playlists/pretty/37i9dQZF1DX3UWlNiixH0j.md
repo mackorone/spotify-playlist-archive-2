@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 二階堂和美 Kazumi Nikaido
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,221 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,227 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [あれもこれも](https://open.spotify.com/track/31IKGYJC6Rmza0HDpKY01s) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [](https://open.spotify.com/album/null) | 5:57 |
+| 1 | [あれもこれも](https://open.spotify.com/track/31IKGYJC6Rmza0HDpKY01s) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [潮汐](https://open.spotify.com/album/6Psdtz3Bp59MnwLt5JEt4L) | 5:57 |
 | 2 | [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 |
 | 3 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 4 | [Kingyo\-bachi](https://open.spotify.com/track/0CKkbxXEC1CUyIdUEfIlFU) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Kingyo\-bachi](https://open.spotify.com/album/3IJk849eM4cWd2nKNWFUX2) | 3:46 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 39 | [Chicken Crisp](https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Chicken Crisp](https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek) | 4:26 |
 | 40 | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/track/5nX1wS5nBjTpNhnh1JD7fE) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/album/1Hfd92aPafCEWyhmRJkeG9) | 3:19 |
 | 41 | [ざくろ](https://open.spotify.com/track/6vPPT1WvV33jLT13PbXeqq) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ざくろ](https://open.spotify.com/album/6kAdtRwIMmp8Nee6pcUKnN) | 6:42 |
-| 42 | [こころのどれす](https://open.spotify.com/track/1vlwjWpGnB5FY9oimpT1FN) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [The Seeds](https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz) | 3:28 |
+| 42 | [DAWN](https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [Glitter](https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW) | 3:14 |
 | 43 | [ame](https://open.spotify.com/track/6Nzyd4S83rqnMoGz0l37Ob) | [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec) | [At Kinosaki: Music for Ayaka Ono Akira Nakazawa Spacenotblank](https://open.spotify.com/album/5aVRTMBt5gpDEOOMP9ZCd9) | 5:31 |
-| 44 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 |
+| 44 | [こころのどれす](https://open.spotify.com/track/1vlwjWpGnB5FY9oimpT1FN) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [The Seeds](https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz) | 3:28 |
 | 45 | [BBA Bounce](https://open.spotify.com/track/12grsepMxujsL0C5f0ZZD9) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2) | [BBA Bounce](https://open.spotify.com/album/1lLcPJqYQIMZkheiRMD1w4) | 2:27 |
-| 46 | [DAWN](https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [Glitter](https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW) | 3:14 |
+| 46 | [moonlight](https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc) | [やさしいみらい](https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW) | [moonlight](https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ) | 3:43 |
 | 47 | [鍵穴](https://open.spotify.com/track/13uMQw1TA0WkzNEzQZ9hGI) | [HoSoVoSo](https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g) | [はるこうべによるアレンジ](https://open.spotify.com/album/1DrueM5e5OxdgfZUzCCDHT) | 3:07 |
-| 48 | [moonlight](https://open.spotify.com/track/6xEcXcWCdZ6xFNbroqlmFc) | [やさしいみらい](https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW) | [moonlight](https://open.spotify.com/album/2vaFQkb58ukwdEgEITgaYQ) | 3:43 |
+| 48 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 |
 | 49 | [minamo](https://open.spotify.com/track/5GvD1xslTZG9kyD5wvnxv2) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [minamo](https://open.spotify.com/album/6rCQM8vy3kk8GasUv2SVM9) | 4:01 |
 | 50 | [Daydreaming Ⅰ](https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Daydreaming](https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq) | 7:36 |
 | 51 | [O](https://open.spotify.com/track/59w59A7gGKhfNSpPJklI3R) | [tenbin O](https://open.spotify.com/artist/66pusDfU9XmtLaRHi52tK3) | [O](https://open.spotify.com/album/6O2ePWyLgwgcEx1dv4hmiO) | 3:55 |
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 58 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 |
 | 59 | [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [Inc](https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV) | 3:21 |
 | 60 | [星の下](https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [星の下](https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6) | 3:26 |
-| 61 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
+| 61 | [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 |
 | 62 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
-| 63 | [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 |
+| 63 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
 | 64 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
 | 65 | [異物混入](https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [異物混入](https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa) | 2:31 |
 | 66 | [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 |
 | 67 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
-| 68 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
-| 69 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
+| 68 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
+| 69 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
 | 70 | [9,it slowly hovers](https://open.spotify.com/track/4alBLDDDYgdzcJC9PdVT4F) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [9,it slowly hovers](https://open.spotify.com/album/1YKDkKpx4DkTFfAOceBlOG) | 3:39 |
-| 71 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
+| 71 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
 | 72 | [HEBITORA](https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HEBITORA](https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky) | 4:17 |
 | 73 | [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 |
-| 74 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
-| 75 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
+| 74 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
+| 75 | [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 |
 
 Snapshot ID: `AAAAALcY+gD13aZE0Qv/yXnPtlOokAyX`

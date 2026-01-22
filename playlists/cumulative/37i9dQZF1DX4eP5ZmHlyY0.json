@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Amazing!!!!!!",
+        "url": "https://open.spotify.com/album/6Up62WHwhBpFvjnlIU7rv3"
+      },
+      "artists": [
+        {
+          "name": "SixTONES",
+          "url": "https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "Amazing!!!!!!",
+      "url": "https://open.spotify.com/track/0KPpD49xKwTQWSBCZlRqjK"
+    },
+    {
+      "album": {
         "name": "Aonooto",
         "url": "https://open.spotify.com/album/27CGUNOwhGV5NG46hXXYCV"
       },
@@ -12248,7 +12266,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 223278,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/1mIffnJiNYKS3WUrmp8t5W"
@@ -13482,7 +13500,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 237545,
       "name": "Welcome To Our Show Tonight",
       "url": "https://open.spotify.com/track/0bqPmSjWUysmjTwEuYnV7u"
@@ -15602,6 +15620,24 @@
       "duration_ms": 184000,
       "name": "\u611b\u304c\u901a\u308a\u904e\u304e\u305f\u8de1",
       "url": "https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL"
+    },
+    {
+      "album": {
+        "name": "\u611b\u57f7",
+        "url": "https://open.spotify.com/album/3G1XxXWOHbkfJ9YK2JlBmn"
+      },
+      "artists": [
+        {
+          "name": "WEST.",
+          "url": "https://open.spotify.com/artist/0VbpS8goXhAQ8vnwiJUNf3"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "\u611b\u57f7",
+      "url": "https://open.spotify.com/track/6d9zFmuJoTW5RdsJJX1er1"
     },
     {
       "album": {

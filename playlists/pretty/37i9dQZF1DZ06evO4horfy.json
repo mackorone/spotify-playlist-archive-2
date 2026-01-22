@@ -1,12 +1,12 @@
 {
   "description": "This is Kinderen voor Kinderen. The essential tracks, all in one playlist.",
-  "num_followers": 45072,
+  "num_followers": 45070,
   "original_name": "This Is Kinderen voor Kinderen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAU7SYEtpouyT4m0jtUaYQn",
+  "snapshot_id": "aW7FgAAAAACGIgJgi14HjdmuII03k0Vi",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bij mij thuis",
-        "url": "https://open.spotify.com/album/5K8xJmSBw0NejoYnrs0G0N"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 178052,
-      "name": "Bij mij thuis",
-      "url": "https://open.spotify.com/track/5XHPAesvfBltXo6oP0an4I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FitTop10",
         "url": "https://open.spotify.com/album/4KnLQHGGoyMM5v7zUTiHWf"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 185947,
       "name": "FitTop10",
       "url": "https://open.spotify.com/track/35XzKuTMuSFjMzUzMkgOrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bij mij thuis",
+        "url": "https://open.spotify.com/album/5K8xJmSBw0NejoYnrs0G0N"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 178052,
+      "name": "Bij mij thuis",
+      "url": "https://open.spotify.com/track/5XHPAesvfBltXo6oP0an4I"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help de walvis",
-        "url": "https://open.spotify.com/album/4ACxkMGFKFJLeWaJRuzi3l"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 164023,
-      "name": "Help de walvis",
-      "url": "https://open.spotify.com/track/72LGcDHqjYxoYhVF41jyYV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallo wereld",
         "url": "https://open.spotify.com/album/7fhvfh8IuUYXK3SpmNZBZX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174466,
       "name": "Energie!",
       "url": "https://open.spotify.com/track/1WhCbSlN6NAmDH30OFMqPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Help de walvis",
+        "url": "https://open.spotify.com/album/4ACxkMGFKFJLeWaJRuzi3l"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 164023,
+      "name": "Help de walvis",
+      "url": "https://open.spotify.com/track/72LGcDHqjYxoYhVF41jyYV"
     },
     {
       "added_at": null,

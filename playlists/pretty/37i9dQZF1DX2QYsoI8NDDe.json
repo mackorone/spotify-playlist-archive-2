@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Liz Loyo",
-  "num_followers": 580637,
+  "num_followers": 580650,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -447,38 +447,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Ojitos Mexicanos",
-        "url": "https://open.spotify.com/album/58sffOFVBO6HpX7AUU20MD"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Ojitos Mexicanos",
-      "url": "https://open.spotify.com/track/0FdDw6YBem69O1xhnm9fK2"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
-        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 189620,
-      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
-      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -499,6 +467,38 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
+        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 189620,
+      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
+      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Ojitos Mexicanos",
+        "url": "https://open.spotify.com/album/58sffOFVBO6HpX7AUU20MD"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Ojitos Mexicanos",
+      "url": "https://open.spotify.com/track/0FdDw6YBem69O1xhnm9fK2"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Mi Rey, Mi Santo",
         "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 164400,
       "name": "Mi Rey, Mi Santo",
       "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Tengo Ganas de Llorar",
-        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Rojas",
-          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Tengo Ganas de Llorar",
-      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -567,6 +547,26 @@
       "duration_ms": 146718,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Tengo Ganas de Llorar",
+        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Tengo Ganas de Llorar",
+      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Q Ag\u00fcite :(",
         "url": "https://open.spotify.com/album/7EYdfdB8ibkL8ue0eFBNad"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 142391,
       "name": "Q Ag\u00fcite :(",
       "url": "https://open.spotify.com/track/03MU8w60jyAdGd9qMVu1ja"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -739,22 +739,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Culpa M\u00eda+ El Mimoso Luis Antonio L\u00f3pez",
-        "url": "https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3"
+        "name": "Hombre Malvado",
+        "url": "https://open.spotify.com/album/5fnztBNdSyfqGkcRILbVtY"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 190384,
-      "name": "Culpa M\u00eda",
-      "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
+      "duration_ms": 163137,
+      "name": "Hombre Malvado",
+      "url": "https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -775,18 +771,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Hombre Malvado",
-        "url": "https://open.spotify.com/album/5fnztBNdSyfqGkcRILbVtY"
+        "name": "Culpa M\u00eda+ El Mimoso Luis Antonio L\u00f3pez",
+        "url": "https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 163137,
-      "name": "Hombre Malvado",
-      "url": "https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3"
+      "duration_ms": 190384,
+      "name": "Culpa M\u00eda",
+      "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "somos peligro",
+        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 179569,
+      "name": "somos peligro",
+      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 190506,
       "name": "Que Siga Pasando",
       "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "somos peligro",
-        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 179569,
-      "name": "somos peligro",
-      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Tequila Mariachi",
-        "url": "https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw"
+        "name": "no tenerte duele m\u00e1s",
+        "url": "https://open.spotify.com/album/60jbJZ0xinMww1MlP9UQhU"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 216918,
-      "name": "Tequila Mariachi",
-      "url": "https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk"
+      "duration_ms": 186016,
+      "name": "no tenerte duele m\u00e1s",
+      "url": "https://open.spotify.com/track/6wVwkLFuOhCIncRT2l4i7k"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "no tenerte duele m\u00e1s",
-        "url": "https://open.spotify.com/album/60jbJZ0xinMww1MlP9UQhU"
+        "name": "Tequila Mariachi",
+        "url": "https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 186016,
-      "name": "no tenerte duele m\u00e1s",
-      "url": "https://open.spotify.com/track/6wVwkLFuOhCIncRT2l4i7k"
+      "duration_ms": 216918,
+      "name": "Tequila Mariachi",
+      "url": "https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Se Me Murio El Amor",
-        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
-      },
-      "artists": [
-        {
-          "name": "Brenda Michel",
-          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
-        }
-      ],
-      "duration_ms": 188832,
-      "name": "Se Me Murio El Amor",
-      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "MEXICANA VOL. 2",
         "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 195060,
       "name": "Mi Reh\u00e9n",
       "url": "https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Se Me Murio El Amor",
+        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
+      },
+      "artists": [
+        {
+          "name": "Brenda Michel",
+          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
+        }
+      ],
+      "duration_ms": 188832,
+      "name": "Se Me Murio El Amor",
+      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "MEXA",
-        "url": "https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE"
-      },
-      "artists": [
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        },
-        {
-          "name": "Noble Esquivel",
-          "url": "https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ"
-        }
-      ],
-      "duration_ms": 203341,
-      "name": "Cumbiancheros",
-      "url": "https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "A Mucha Honra",
         "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 183199,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/0ZreRurYnyBnKtBJs28FIa"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "MEXA",
+        "url": "https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        },
+        {
+          "name": "Noble Esquivel",
+          "url": "https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ"
+        }
+      ],
+      "duration_ms": 203341,
+      "name": "Cumbiancheros",
+      "url": "https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
+        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
+      },
+      "artists": [
+        {
+          "name": "Liz Ocampo",
+          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
+      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Cielito Lindo",
         "url": "https://open.spotify.com/album/76OiCw7gf0N20LZeEcndOt"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 127000,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/7h4DqhoaJ2twPKindqYLY3"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
-        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
-      },
-      "artists": [
-        {
-          "name": "Liz Ocampo",
-          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
-      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "F\u00c9NIX",
-        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "F\u00c9NIX",
-      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Esta Vida No Es Vida",
         "url": "https://open.spotify.com/album/5LAIbVast86YGTJ48cZtXD"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 138600,
       "name": "Esta Vida No Es Vida",
       "url": "https://open.spotify.com/track/6fmyYzNVpjMtkCvC6Tkv86"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "F\u00c9NIX",
+        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 197288,
+      "name": "F\u00c9NIX",
+      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "T\u00fa, Solamente T\u00fa",
-        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "T\u00fa, Solamente T\u00fa",
-      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Ning\u00fan Color Tiene Due\u00f1o",
         "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 205400,
       "name": "Ning\u00fan Color Tiene Due\u00f1o",
       "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "T\u00fa, Solamente T\u00fa",
+        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "T\u00fa, Solamente T\u00fa",
+      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Desde El Comienzo",
+        "url": "https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Lamarque",
+          "url": "https://open.spotify.com/artist/1aT0HYID43MZDWBMHDocCo"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "Me Vale Perderte",
+      "url": "https://open.spotify.com/track/2xv1Qn9FQtgMgApA8HVkie"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "No Me Pregunten Por \u00c9l",
         "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 207614,
       "name": "Que Te Cambie La Suerte",
       "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Desde El Comienzo",
-        "url": "https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Lamarque",
-          "url": "https://open.spotify.com/artist/1aT0HYID43MZDWBMHDocCo"
-        }
-      ],
-      "duration_ms": 168344,
-      "name": "Me Vale Perderte",
-      "url": "https://open.spotify.com/track/2xv1Qn9FQtgMgApA8HVkie"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Santa Claus Lleg\u00f3 a la Ciudad",
-        "url": "https://open.spotify.com/album/3EkBJx1ExXIc25ZGreesHi"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 124966,
-      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
-      "url": "https://open.spotify.com/track/0ip9TvhqsZDH0BnHY34Lf8"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Te Di",
         "url": "https://open.spotify.com/album/5MKsupkTGHJjOVlwd4JsaN"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 219500,
       "name": "Te Di",
       "url": "https://open.spotify.com/track/3wgRvw10lImDHMLGnm956d"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Santa Claus Lleg\u00f3 a la Ciudad",
+        "url": "https://open.spotify.com/album/3EkBJx1ExXIc25ZGreesHi"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 124966,
+      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
+      "url": "https://open.spotify.com/track/0ip9TvhqsZDH0BnHY34Lf8"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Me Muero",
-        "url": "https://open.spotify.com/album/5ceGaznF4sphWSn24yDxJ2"
-      },
-      "artists": [
-        {
-          "name": "Valery Rios",
-          "url": "https://open.spotify.com/artist/1EDki5iAmaWx7FJNcf124f"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Diosas en Texas",
         "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 153600,
       "name": "No Regreses",
       "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Me Muero",
+        "url": "https://open.spotify.com/album/5ceGaznF4sphWSn24yDxJ2"
+      },
+      "artists": [
+        {
+          "name": "Valery Rios",
+          "url": "https://open.spotify.com/artist/1EDki5iAmaWx7FJNcf124f"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA"
     },
     {
       "added_at": "2026-01-16 06:00:26",

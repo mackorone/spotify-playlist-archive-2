@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 274741,
+  "num_followers": 274815,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
+      },
+      "artists": [
+        {
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Sorry I'm Like This",
         "url": "https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 172904,
       "name": "Sorry I'm Like This",
       "url": "https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0LaIuYL7mFn8DoECEnacBM"
-      },
-      "artists": [
-        {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
-        },
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/2Bul2Aw2gRNEUpJN3ofQYl"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Take No Chat",
         "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214285,
       "name": "Take No Chat",
       "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -883,6 +883,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "I Would Like (Chad Harrison Remix)",
+        "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        },
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 187708,
+      "name": "I Would Like - Chad Harrison Remix",
+      "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "660 (Tactics & Mute Therapy Remix)",
         "url": "https://open.spotify.com/album/1qlCn7VQe9XirMAXdyVd3E"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 204444,
       "name": "660 (Tactics & Mute Therapy Remix - Radio Version)",
       "url": "https://open.spotify.com/track/3xWIZzDmQxQjZEq91ryPQ8"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "I Would Like (Chad Harrison Remix)",
-        "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        },
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 187708,
-      "name": "I Would Like - Chad Harrison Remix",
-      "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Baddie Bassline",
-        "url": "https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR"
-      },
-      "artists": [
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Make A Fool",
-      "url": "https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Bad Boi Selecta",
         "url": "https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Baddie Bassline",
+        "url": "https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Make A Fool",
+      "url": "https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Head's Gone",
         "url": "https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 148124,
       "name": "Head's Gone",
       "url": "https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "Inside The Rider (Darkzy Remix)",
-        "url": "https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Inside The Rider - Darkzy Remix",
-      "url": "https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "Inside The Rider (Darkzy Remix)",
+        "url": "https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Inside The Rider - Darkzy Remix",
+      "url": "https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 237772,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "NO MORE PAIN",
+        "url": "https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "NO MORE PAIN",
+      "url": "https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1227,22 +1243,6 @@
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "NO MORE PAIN",
-        "url": "https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI"
-      },
-      "artists": [
-        {
-          "name": "BSEARL",
-          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "NO MORE PAIN",
-      "url": "https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1283,22 +1283,6 @@
       "duration_ms": 153126,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
-        "name": "My Gyal / Packs",
-        "url": "https://open.spotify.com/album/5QgDPi59TfQ7GY994tIa2t"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 166192,
-      "name": "My Gyal",
-      "url": "https://open.spotify.com/track/7DdM16wmlB0kskxJWGQwvl"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
+        "name": "My Gyal / Packs",
+        "url": "https://open.spotify.com/album/5QgDPi59TfQ7GY994tIa2t"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 166192,
+      "name": "My Gyal",
+      "url": "https://open.spotify.com/track/7DdM16wmlB0kskxJWGQwvl"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
         "name": "Round eyaa",
         "url": "https://open.spotify.com/album/74qD1b1AhPHVKG2qZVdW7S"
       },
@@ -1371,34 +1371,26 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "You Had It 2025 Part 1",
-        "url": "https://open.spotify.com/album/5V6FMNCUcUU6x797prBEzf"
+        "name": "U",
+        "url": "https://open.spotify.com/album/1fc7h41ZALPCGGv3t1hrPI"
       },
       "artists": [
         {
-          "name": "Dope Ammo",
-          "url": "https://open.spotify.com/artist/4PLyMikr67pzFRAIlplshI"
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
         },
         {
-          "name": "Kleu",
-          "url": "https://open.spotify.com/artist/6Sc4Qn6vADfkumZcWtddxb"
+          "name": "mush_uk",
+          "url": "https://open.spotify.com/artist/3eZBlLZmZc3b2B5iruwyqS"
         },
         {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        },
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        },
-        {
-          "name": "Burntboi",
-          "url": "https://open.spotify.com/artist/7uYfrw47yzKgW22BtAPOQv"
+          "name": "R2R",
+          "url": "https://open.spotify.com/artist/36pnL1Ts2jHf8FprmL6LtH"
         }
       ],
-      "duration_ms": 203142,
-      "name": "You Had It - Sub Zero & Burntboi Remix",
-      "url": "https://open.spotify.com/track/5DWdOBDdJNDRvVM4duGVor"
+      "duration_ms": 180000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo"
     }
   ],
   "unique_name": "Bassline Bangers",

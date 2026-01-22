@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-569 songs - 1 day 8 hr 19 min
+570 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Back To Business](https://open.spotify.com/track/4PGvzLvLBjQ5GwNxUZUMPy) | [Fne Rasta](https://open.spotify.com/artist/3ebjbospiavTgjVJEljCKO), [DaRealmaya](https://open.spotify.com/artist/6ghDWXQ9vssiFglKIOk6O2) | [Dont Crash Out](https://open.spotify.com/album/5Gq1ek674LiVOFl3Qn0ucF) | 3:35 | 2025-01-09 | 2025-04-12 |
 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 | 2022-09-08 |  |
 | [BAD GIRL](https://open.spotify.com/track/6HQbJqm6M4YvZJd9acfIJm) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [Friday Night](https://open.spotify.com/album/2XpP3oRuBudQhXZaNhsxWe) | 5:35 | 2023-12-13 |  |
+| [Bad Reputation](https://open.spotify.com/track/5k2FOvWZZNKhb2JwYHJgiL) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 1:54 | 2026-01-21 |  |
 | [Basically over You \(B.O.Y.\)](https://open.spotify.com/track/3y32ElD6tg6G3yS0QpREan) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:59 | 2022-09-08 |  |
 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 | 2022-09-08 |  |
 | [Be Without You](https://open.spotify.com/track/2hy8VUlygF2HoKQJbkAKkn) | [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [Be Without You](https://open.spotify.com/album/4iONmkExzW0E1uyH1pmdEj) | 3:20 | 2022-09-08 |  |
@@ -303,7 +304,7 @@
 | [Lovesong](https://open.spotify.com/track/3bfQWFqQp1EnRvizKH3Les) | [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Lovesong](https://open.spotify.com/album/38jZRdlpcnYzBvHydBoKx0) | 3:40 | 2025-01-09 | 2025-04-12 |
 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 | 2022-09-08 |  |
 | [Melody Of Us](https://open.spotify.com/track/7zZyFYpFPn0PZvKqVgm6YT) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal: Halcyon Deluxe Edition](https://open.spotify.com/album/0hcLDyv4BKi3IlRXusqxzT) | 3:47 | 2022-09-08 |  |
-| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-28 |  |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-28 | 2026-01-22 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-16 | 2025-09-29 |
 | [Midnight Sun](https://open.spotify.com/track/6q2YSturdfEzMpoUR5gq0R) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Midnight Sun](https://open.spotify.com/album/4JXdBmsjMFifrVQK8pu2rw) | 3:46 | 2025-12-04 |  |
 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 | 2022-11-18 |  |

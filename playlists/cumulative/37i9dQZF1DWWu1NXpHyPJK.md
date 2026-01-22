@@ -4,7 +4,7 @@
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-108 songs - 7 hr 33 min
+109 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All 'Bout the Money](https://open.spotify.com/track/72qwRwnHNGCnn8sFlVOwr4) | [Meja](https://open.spotify.com/artist/4eYjWapog2qNOYRnqBvGXP) | [Seven Sisters](https://open.spotify.com/album/2jWNlpcgPn4BPKge3PIGx2) | 2:52 | 2024-12-31 |  |
 | [Als Ze Er Niet Is](https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:31 | 2024-12-31 |  |
 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 | 2024-12-31 |  |
+| [As](https://open.spotify.com/track/5q04pZVJMn7W3NKwsU7FcR) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Mary](https://open.spotify.com/album/6L4mjZ7Wx0oSQU08alvHbq) | 4:41 | 2024-12-31 |  |
 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 | 2024-12-31 |  |
 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 | 2024-12-31 |  |
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2024-12-31 |  |
@@ -75,7 +76,7 @@
 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 | 2024-12-31 |  |
 | [Più bella cosa](https://open.spotify.com/track/4UutvpXhqzToPI8oNc4C2F) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:24 | 2024-12-31 |  |
 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 | 2024-12-31 |  |
-| [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:53 | 2024-12-31 |  |
+| [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:53 | 2024-12-31 | 2026-01-22 |
 | [R U Kiddin' Me](https://open.spotify.com/track/3FD3gEw8o1Kb5OPBZr8rhy) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Urban Solitude](https://open.spotify.com/album/1r1ojSn9TwXWeYY481dTR1) | 3:20 | 2024-12-31 |  |
 | [Rainbow In The Sky \- Radio Edit](https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [May The Forze Be With You](https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS) | 3:27 | 2024-12-31 |  |
 | [Rhythm Is A Dancer \- 7" Edit](https://open.spotify.com/track/5iEDwEp82uLN3X6llJdqen) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/3SxQyJ7t7NVkUrJYh0TZqi) | 3:45 | 2024-12-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Carter Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,346 likes - 140 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,333 likes - 140 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

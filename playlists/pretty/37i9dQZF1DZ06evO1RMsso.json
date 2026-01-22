@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 229096,
+  "num_followers": 229131,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABSdn6RUPEIasNLpwU2LuiG",
+  "snapshot_id": "aW7FgAAAAACj44tkwyKIg/7DGvUb1po/",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Reunion of Friends",
-      "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 254346,
       "name": "Duel of the Fates",
       "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Reunion of Friends",
+      "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fawkes the Phoenix",
-      "url": "https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 152146,
       "name": "Secrets of the Castle",
       "url": "https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fawkes the Phoenix",
+      "url": "https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Fawkes Is Reborn",
-      "url": "https://open.spotify.com/track/5yh0phgrkE0qQeWJs3x3hf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 128466,
       "name": "Buckbeak's Flight",
       "url": "https://open.spotify.com/track/3fr220xo6nu5ysW16DjsXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Fawkes Is Reborn",
+      "url": "https://open.spotify.com/track/5yh0phgrkE0qQeWJs3x3hf"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 109173,
-      "name": "Introducing Colin",
-      "url": "https://open.spotify.com/track/4kwclHRtcMJLza1W39BSMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 98373,
       "name": "Lumos! (Hedwig's Theme)",
       "url": "https://open.spotify.com/track/2G5hAbyjLoY1wSQFbOy5PN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 109173,
+      "name": "Introducing Colin",
+      "url": "https://open.spotify.com/track/4kwclHRtcMJLza1W39BSMB"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Gilderoy Lockhart",
-      "url": "https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Gilderoy Lockhart",
+      "url": "https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
       },
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 167400,
-      "name": "The Norwegian Ridgeback and a Change of Season",
-      "url": "https://open.spotify.com/track/6pbAfIcd0IQXTE3a3LHURA"
+      "duration_ms": 194040,
+      "name": "Platform Nine-and-Three-Quarters and the Journey to Hogwarts",
+      "url": "https://open.spotify.com/track/72SmD8s1DYkwUhoEkGlnyV"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
       "duration_ms": 305640,
       "name": "Raiders March",
       "url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 97226,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
       "duration_ms": 228946,
       "name": "Main Theme (From \"Schindler's List\")",
       "url": "https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 97226,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
     },
     {
       "added_at": null,
@@ -683,6 +683,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 132026,
+      "name": "A Tree For My Bed",
+      "url": "https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "March of the Resistance",
+      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -707,38 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "March of the Resistance",
-      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "A Tree For My Bed",
-      "url": "https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 346933,
       "name": "Star Wars (Main Theme)",
       "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Princess Leia's Theme",
+      "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
     }
   ],
   "unique_name": "This Is John Williams",

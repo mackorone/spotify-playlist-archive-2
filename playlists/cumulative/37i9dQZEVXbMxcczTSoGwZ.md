@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,020 songs - 6 day 14 hr 38 min
+3,021 songs - 6 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Clique La Lv](https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Clique La Lv](https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP) | 2:16 | 2025-12-20 | 2025-12-22 |
 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 | 2023-07-26 | 2024-08-04 |
 | [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2025-12-27 | 2026-01-15 |
-| [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/60FI78p0UjNVFtVhTjtyBD) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:19 | 2026-01-15 |  |
+| [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/60FI78p0UjNVFtVhTjtyBD) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:19 | 2026-01-15 | 2026-01-22 |
 | [Cokis ja Mentos](https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Cokis ja Mentos](https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ) | 2:47 | 2026-01-15 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-09-27 | 2021-10-23 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-10-23 | 2022-03-13 |
@@ -2111,6 +2111,7 @@
 | [Rauhaa](https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Rauhaa](https://open.spotify.com/album/1tBc5Z4KadITFBbIp6Y9YU) | 2:57 | 2024-07-06 | 2024-09-01 |
 | [Rauhaa](https://open.spotify.com/track/6rwj48RM8fFaGTpWfdJ3rF) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:57 | 2024-08-31 | 2025-01-05 |
 | [Ready To Go](https://open.spotify.com/track/1yHedmJ4lO0x9MYL6S98MA) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 2:56 | 2024-11-02 | 2024-11-04 |
+| [Ready To Leave](https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD) | [Sinikka Monte](https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok) | [Ready To Leave](https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg) | 2:58 | 2026-01-21 |  |
 | [Reckless](https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Reckless](https://open.spotify.com/album/1fNVh4Q9l4k7WKEWsH7hnS) | 2:44 | 2023-08-11 | 2023-11-19 |
 | [REDFLAG](https://open.spotify.com/track/2vRXnE2BH566tbMfH6ODgn) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [REDFLAG](https://open.spotify.com/album/5uXfQMfUzpz43I33ErQV9L) | 2:27 | 2023-07-22 | 2023-07-30 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-02-14 | 2024-03-10 |

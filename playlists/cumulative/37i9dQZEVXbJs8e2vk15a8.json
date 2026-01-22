@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "20 de Enero",
       "url": "https://open.spotify.com/track/4XdePl1vOF1cYjTBYeYU9j"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -6096,7 +6096,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 190961,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
@@ -15553,7 +15553,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
         },
         {
           "name": "shirobeats",
@@ -22860,6 +22860,24 @@
       "duration_ms": 173586,
       "name": "Eres Ese Algo",
       "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "album": {
+        "name": "Eres la herida m\u00e1s bonita",
+        "url": "https://open.spotify.com/album/428GO4AAuXEVdjrUyCTqqQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Yeff Old Soul",
+          "url": "https://open.spotify.com/artist/2zSWtNTtAkooELyZtOAaJI"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269960,
+      "name": "Eres la herida m\u00e1s bonita",
+      "url": "https://open.spotify.com/track/516E1cUXyiGvy2xAOmwLln"
     },
     {
       "album": {
@@ -54780,7 +54798,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
@@ -59734,7 +59752,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 202857,
       "name": "Sentimiento M\u00e1gico",
       "url": "https://open.spotify.com/track/1k0ryEzj8cit9V5K9nMRpB"
@@ -63958,7 +63976,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 129813,
       "name": "SUBE EL BAJO",
       "url": "https://open.spotify.com/track/5a0MlBRdj2qj2TPHjDUB27"
@@ -68544,7 +68562,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 269760,
       "name": "Trambo",
       "url": "https://open.spotify.com/track/48Hi7887N9pzR1vPIeeo4U"

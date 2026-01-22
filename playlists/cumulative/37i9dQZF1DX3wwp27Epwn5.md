@@ -4,7 +4,7 @@
 
 > Train insane with these Bollywood tracks.
 
-130 songs - 7 hr 42 min
+131 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-22 | 2023-11-30 |
 | [Azaad](https://open.spotify.com/track/0fdfCfANPxT35oSmMBRArp) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Phir Aayi Hasseen Dillruba](https://open.spotify.com/album/02PVyaFQsi9qsA0XKrQ6xO) | 2:47 | 2024-08-07 | 2024-09-04 |
 | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Mayur Puri](https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV) | 3:40 | 2023-07-11 |  |
+| [Babbar Sherni \(From "Mardaani 3"\)](https://open.spotify.com/track/4fTRgKv4pvvuCysdPJDjVJ) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Shruti Shukla](https://open.spotify.com/artist/7mvIMEb1n9wNBSz26wgPXm) | [Babbar Sherni \(From "Mardaani 3"\)](https://open.spotify.com/album/2WydBr8xxYbdH1ugw0CLHu) | 3:11 | 2026-01-21 |  |
 | [Baby Doll](https://open.spotify.com/track/5c3mUtkS8FvumKaVkcpB0H) | [Meet Bros Anjjan](https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Ragini Mms 2](https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId) | 3:33 | 2023-07-11 |  |
 | [Baby John \- Beast Mode \- From "Baby John"](https://open.spotify.com/track/1keiucJUzGupzozqgSCkyd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Adviteeya Vojjala](https://open.spotify.com/artist/09J325BgRreHJKVVVAECLx), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Baby John \- Beast Mode \(From "Baby John"\)](https://open.spotify.com/album/6EEUVPuaHRvyOW3vjGfONE) | 4:17 | 2024-12-23 | 2025-02-14 |
 | [Badhte Chalo \- From "Sam Bahadur"](https://open.spotify.com/track/1NEnzjkLIdStkzU1JeEGNK) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Sam Bahadur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH) | 4:03 | 2023-11-28 | 2023-11-30 |

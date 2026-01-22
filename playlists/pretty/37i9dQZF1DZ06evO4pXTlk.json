@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAIBKqz2vSg6JWRcn7qfi5x",
+  "snapshot_id": "aW7FgAAAAACLKVq+rZkPUwFx9fWHkBr0",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 170883,
+      "name": "Nightschool",
+      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 170883,
-      "name": "Nightschool",
-      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -644,6 +644,22 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
+      "duration_ms": 317573,
+      "name": "Hurt with Me",
+      "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
       "duration_ms": 59693,
       "name": "Tar Ok",
       "url": "https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a"
@@ -663,22 +679,6 @@
       "duration_ms": 167813,
       "name": "Let's Run",
       "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 317573,
-      "name": "Hurt with Me",
-      "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
     }
   ],
   "unique_name": "This Is The XCERTS",

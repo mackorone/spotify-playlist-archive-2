@@ -4,7 +4,7 @@
 
 > Qui trovi Lamante + tutte le altre uscite indie 🐈‍⬛
 
-1,319 songs - 2 day 20 hr 0 min
+1,320 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [CHRISTY](https://open.spotify.com/track/2a8JgWjW1qONH6kr7cji4S) | [Ilaria Kappler](https://open.spotify.com/artist/03s1E1AnbOI5jsZ8CywUBh) | [CHRISTY](https://open.spotify.com/album/5pvtXmKFArr8ZTrjicnuso) | 2:51 | 2025-11-27 | 2025-12-19 |
 | [Ci salverà](https://open.spotify.com/track/0W9cmVYfiy1CGLuo2cgJ7Q) | [Amore Audio](https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT) | [Ci salverà](https://open.spotify.com/album/2EDHe94vOQp9zIzlWtJgXS) | 3:26 | 2025-11-13 | 2025-12-05 |
 | [Ci vorresti tu](https://open.spotify.com/track/4iiaXM20CxgP3VRnqBLk4c) | [MALTO](https://open.spotify.com/artist/2GDjDJDeryXhMiZDDslMlc) | [Ci vorresti tu](https://open.spotify.com/album/17SxLS2yNxzZXjKdD8C0GX) | 3:40 | 2025-04-03 | 2025-05-30 |
+| [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 | 2026-01-21 |  |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2024-11-21 | 2025-03-08 |
 | [Cilone](https://open.spotify.com/track/0gYShmZYu8PPDfEFuw8eSy) | [Altro](https://open.spotify.com/artist/4ANK4BQnzUEvDqYSm6TLjt) | [Cilone](https://open.spotify.com/album/2AmUDOkahxlF3Acxw0upfQ) | 1:31 | 2025-11-06 | 2025-12-05 |
 | [Cimitero](https://open.spotify.com/track/0kOLQhIoj0FMLFKd58Xgg5) | [DelCapo](https://open.spotify.com/artist/4zzKTiRX6jxpItedTFCliy) | [Cura Per Le Anime Spezzate](https://open.spotify.com/album/08BU4nKcsKzmivUyQxYazP) | 3:29 | 2025-12-04 | 2026-01-02 |

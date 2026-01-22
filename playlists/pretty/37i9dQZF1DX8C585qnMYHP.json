@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192204,
+  "num_followers": 192203,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Twin Color (Extended Play No. 2)",
-        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 268163,
-      "name": "Cosmic Drifter - Edit",
-      "url": "https://open.spotify.com/track/3PrqXierQJ2hw20B4JIk3Q"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Walks",
         "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 204586,
       "name": "New Brighton",
       "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Twin Color (Extended Play No. 2)",
+        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 268163,
+      "name": "Cosmic Drifter - Edit",
+      "url": "https://open.spotify.com/track/3PrqXierQJ2hw20B4JIk3Q"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "HM2BB",
-        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
-      },
-      "artists": [
-        {
-          "name": "Indira Elias",
-          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "HM2BB",
-      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 146000,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "HM2BB",
+        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+      },
+      "artists": [
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "HM2BB",
+      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -811,38 +811,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Blue Veil",
-        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
-        }
-      ],
-      "duration_ms": 259402,
-      "name": "Phase I",
-      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Futuro Cercano",
-        "url": "https://open.spotify.com/album/5drSZ3zh5LItFNGb8z68Um"
-      },
-      "artists": [
-        {
-          "name": "Valesuchi",
-          "url": "https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b"
-        }
-      ],
-      "duration_ms": 262916,
-      "name": "22",
-      "url": "https://open.spotify.com/track/4BiZttnK30HFXmG1JIuWr3"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Cosplayer (export per Guido)",
         "url": "https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO"
       },
@@ -855,6 +823,22 @@
       "duration_ms": 238652,
       "name": "Cosplayer (export per Guido)",
       "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Blue Veil",
+        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        }
+      ],
+      "duration_ms": 259402,
+      "name": "Phase I",
+      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -875,6 +859,22 @@
       "duration_ms": 286550,
       "name": "VI",
       "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Futuro Cercano",
+        "url": "https://open.spotify.com/album/5drSZ3zh5LItFNGb8z68Um"
+      },
+      "artists": [
+        {
+          "name": "Valesuchi",
+          "url": "https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b"
+        }
+      ],
+      "duration_ms": 262916,
+      "name": "22",
+      "url": "https://open.spotify.com/track/4BiZttnK30HFXmG1JIuWr3"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Blu",
-        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
-      },
-      "artists": [
-        {
-          "name": "Sara Zozaya",
-          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
-        }
-      ],
-      "duration_ms": 221972,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "BOH\u00c8ME",
         "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 261818,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
+      },
+      "artists": [
+        {
+          "name": "Sara Zozaya",
+          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
+        }
+      ],
+      "duration_ms": 221972,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": ",,, as long as i long to memorise your sky ,,,",
-        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
+        "name": "In Space",
+        "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
       },
       "artists": [
         {
-          "name": "elijah jamal asani",
-          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
+          "name": "Garrett",
+          "url": "https://open.spotify.com/artist/2ESo0xI5YQncqKOhplNKIJ"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
         }
       ],
-      "duration_ms": 194455,
-      "name": "~~~littleriverhypothesis\u2022\u2022",
-      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
+      "duration_ms": 651303,
+      "name": "In Space",
+      "url": "https://open.spotify.com/track/159PzHyX3tZQ5p3GWcKnZJ"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "In Space",
-        "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
+        "name": ",,, as long as i long to memorise your sky ,,,",
+        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
       },
       "artists": [
         {
-          "name": "Garrett",
-          "url": "https://open.spotify.com/artist/2ESo0xI5YQncqKOhplNKIJ"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+          "name": "elijah jamal asani",
+          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
         }
       ],
-      "duration_ms": 651303,
-      "name": "In Space",
-      "url": "https://open.spotify.com/track/159PzHyX3tZQ5p3GWcKnZJ"
+      "duration_ms": 194455,
+      "name": "~~~littleriverhypothesis\u2022\u2022",
+      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1207,6 +1207,38 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Sepia Rainbow",
+        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
+      },
+      "artists": [
+        {
+          "name": "Apu Nanu",
+          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Sepia Rainbow",
+      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "BLKHISTORY",
         "url": "https://open.spotify.com/album/3eR1jIxNYSwmN85ut0yjYO"
       },
@@ -1231,22 +1263,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Iti Eta No",
         "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 251164,
       "name": "Iti Eta No",
       "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Sepia Rainbow",
-        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
-      },
-      "artists": [
-        {
-          "name": "Apu Nanu",
-          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Sepia Rainbow",
-      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Wanted To Show You",
-        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
-      },
-      "artists": [
-        {
-          "name": "Lipsticism",
-          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
-        }
-      ],
-      "duration_ms": 190738,
-      "name": "Feeling Why Do You Follow",
-      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Wanted To Show You",
+        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
+      },
+      "artists": [
+        {
+          "name": "Lipsticism",
+          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
+        }
+      ],
+      "duration_ms": 190738,
+      "name": "Feeling Why Do You Follow",
+      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "Body Roll",
         "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
       },
@@ -1343,26 +1343,6 @@
       "duration_ms": 215826,
       "name": "Body Roll",
       "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Tessalonica",
-        "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
-      },
-      "artists": [
-        {
-          "name": "TETUAN",
-          "url": "https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq"
-        },
-        {
-          "name": "Laura Agnusdei",
-          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Tessalonica",
-      "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1387,6 +1367,26 @@
       "duration_ms": 238243,
       "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
       "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Tessalonica",
+        "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
+      },
+      "artists": [
+        {
+          "name": "TETUAN",
+          "url": "https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq"
+        },
+        {
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Tessalonica",
+      "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Waiting pt 1",
-        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
-      },
-      "artists": [
-        {
-          "name": "Jane Paknia",
-          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
-        }
-      ],
-      "duration_ms": 132318,
-      "name": "Waiting pt 1",
-      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Hold the Edges",
         "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 213160,
       "name": "Hold the Edges",
       "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Waiting pt 1",
+        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
+      },
+      "artists": [
+        {
+          "name": "Jane Paknia",
+          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Waiting pt 1",
+      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
-        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
-      },
-      "artists": [
-        {
-          "name": "Festa del Perdono",
-          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nella regione della notte infinita",
-      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Interlude of Life",
         "url": "https://open.spotify.com/album/7AQiGdIUkuhu45xYuW54D1"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 199756,
       "name": "Interlude of Life",
       "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
+        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
+      },
+      "artists": [
+        {
+          "name": "Festa del Perdono",
+          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nella regione della notte infinita",
+      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
     },
     {
       "added_at": "2025-11-19 10:21:55",

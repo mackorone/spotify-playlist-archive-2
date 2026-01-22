@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/2PvcRINiHpzzSWn0k2h8Wc.md) - [plain](/playlists/plain/2PvcRINiHpzzSWn0k2h8Wc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2PvcRINiHpzzSWn0k2h8Wc)
 
-### [idk??](https://open.spotify.com/playlist/2PvcRINiHpzzSWn0k2h8Wc)
+### [the evie playlist 💕](https://open.spotify.com/playlist/2PvcRINiHpzzSWn0k2h8Wc)
 
 > 
 
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/2PvcRINiHpzzSWn0k2h8Wc.md) - [plain]
 | 9 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 |
 | 10 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 |
 
-Snapshot ID: `AAAAMyDL4ayl3hwEBVLxOPMpQIzpbrDu`
+Snapshot ID: `AAAANbc6GRo+10XpPlEfWOVADxKlSA5k`

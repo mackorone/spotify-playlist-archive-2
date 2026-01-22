@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQLj6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MQQ1aAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Direct din Tei (Deluxe)",
         "url": "https://open.spotify.com/album/3bmGBxeSrhKP0YH8vYFopk"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6wkXctZWq1e1L9p9nXYq1P"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Gagica-ta (Golden Cypher)",
         "url": "https://open.spotify.com/album/2MXQCiha96eJp32V624dhb"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2vzmCj951NdHbnPgaK0SQn"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0X2G0m6hIXc0CohTLM92MJ"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "CATEL",
         "url": "https://open.spotify.com/album/7wjFm3J6t0Qx3s6WGh1j0i"
@@ -85,7 +85,23 @@
       "url": "https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Ramai talent",
+        "url": "https://open.spotify.com/album/3UwL6QYrfWnsb0rWA5FKJI"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob"
+        }
+      ],
+      "duration_ms": 197730,
+      "name": "Ramai talent",
+      "url": "https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Ciumi Ciumi",
         "url": "https://open.spotify.com/album/0XqnUIdJNhhFK7OSy9BTDD"
@@ -105,39 +121,23 @@
       "url": "https://open.spotify.com/track/1vB5YIUqtCesrFyxAAftgq"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Ramai talent",
-        "url": "https://open.spotify.com/album/3UwL6QYrfWnsb0rWA5FKJI"
+        "name": "Mananca gagica bio",
+        "url": "https://open.spotify.com/album/6UPChqSKTa8IkTU3YGtBtz"
       },
       "artists": [
         {
-          "name": "Luis Gabriel",
-          "url": "https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 197730,
-      "name": "Ramai talent",
-      "url": "https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y"
+      "duration_ms": 176000,
+      "name": "Mananca gagica bio",
+      "url": "https://open.spotify.com/track/1aNgsgAip1JfeFNkWVM4hv"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "ATIPIC",
-        "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "C\u00e2t vrei tu",
-      "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Da fata se vede belea",
         "url": "https://open.spotify.com/album/0azKubGXxe8ni7q1gLWNTb"
@@ -157,23 +157,23 @@
       "url": "https://open.spotify.com/track/137HVoB0FeQ4algPiTH60w"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Mananca gagica bio",
-        "url": "https://open.spotify.com/album/6UPChqSKTa8IkTU3YGtBtz"
+        "name": "ATIPIC",
+        "url": "https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Mananca gagica bio",
-      "url": "https://open.spotify.com/track/1aNgsgAip1JfeFNkWVM4hv"
+      "duration_ms": 161142,
+      "name": "C\u00e2t vrei tu",
+      "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "BOT",
         "url": "https://open.spotify.com/album/65uYKKP0h8KClvbaw9C3Wi"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Zambete si Pacate",
         "url": "https://open.spotify.com/album/59xcgK42LFNtKhM30zi2AT"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2ozyskqNWm7TaqBSkZuMzF"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Aladam",
         "url": "https://open.spotify.com/album/1Z3urgmnh6CcrQVJU6xLtQ"
@@ -225,39 +225,27 @@
       "url": "https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Talentul ala fin",
-        "url": "https://open.spotify.com/album/1fkdyaepe3KtTiUG8wFrCl"
+        "name": "Din Corason",
+        "url": "https://open.spotify.com/album/5vVL6TP9eGmHuqw5xZOzKZ"
       },
       "artists": [
         {
-          "name": "Raul Talent",
-          "url": "https://open.spotify.com/artist/7xgc59lft0bnMy6GeEurfb"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Talentul ala fin",
-      "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "STUDIO 54",
-        "url": "https://open.spotify.com/album/016friOleRKnFkeP5ohkQQ"
-      },
-      "artists": [
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        },
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+          "name": "Laura Bruma",
+          "url": "https://open.spotify.com/artist/3tzs26TobD3x55PFsG4TrH"
         }
       ],
-      "duration_ms": 126336,
-      "name": "COCAINA & SEX",
-      "url": "https://open.spotify.com/track/7gDTRFkuSI1EVJFvwNhjSb"
+      "duration_ms": 203182,
+      "name": "Din Corason",
+      "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Ia-m\u0103-n bra\u021be via\u021ba mea",
         "url": "https://open.spotify.com/album/4SU9PO5IghuthfavDVzcZf"
@@ -273,79 +261,7 @@
       "url": "https://open.spotify.com/track/2zi0SPSYWbmEvTZoXywNHl"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Only Hits",
-        "url": "https://open.spotify.com/album/4LqKKEC8ghEvbMW2xcs4eZ"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
-      "url": "https://open.spotify.com/track/6k8uthjEbttfWXcGaNTQGD"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Tu blondina,eu brunet",
-        "url": "https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 145184,
-      "name": "Tu blondina,eu brunet",
-      "url": "https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Damelo",
-        "url": "https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Mr. Juve",
-          "url": "https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Damelo",
-      "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Ponte Pa Mi",
-        "url": "https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV"
-      },
-      "artists": [
-        {
-          "name": "Ursaru",
-          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
-        }
-      ],
-      "duration_ms": 125294,
-      "name": "Ponte Pa Mi",
-      "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "STIU CA TI-E DOR",
         "url": "https://open.spotify.com/album/7pheGPrr4n6NfTPbb2sqij"
@@ -373,43 +289,39 @@
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "STUDIO 54",
+        "url": "https://open.spotify.com/album/016friOleRKnFkeP5ohkQQ"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 126336,
+      "name": "COCAINA & SEX",
+      "url": "https://open.spotify.com/track/7gDTRFkuSI1EVJFvwNhjSb"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Vino s\u0103 te f",
-        "url": "https://open.spotify.com/album/6HYk4ydfuVNkTLVq5eILau"
+        "name": "Ponte Pa Mi",
+        "url": "https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV"
       },
       "artists": [
         {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
         }
       ],
-      "duration_ms": 180393,
-      "name": "Vino s\u0103 te f",
-      "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
+      "duration_ms": 125294,
+      "name": "Ponte Pa Mi",
+      "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Parai",
         "url": "https://open.spotify.com/album/6BZvDyPuyCUkSKCEg0sZq7"
@@ -429,7 +341,7 @@
       "url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "VARA BRAZIL",
         "url": "https://open.spotify.com/album/66V6JjhgUiN9iJchsWjsP4"
@@ -453,30 +365,30 @@
       "url": "https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Din Corason",
-        "url": "https://open.spotify.com/album/5vVL6TP9eGmHuqw5xZOzKZ"
+        "name": "Damelo",
+        "url": "https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW"
       },
       "artists": [
         {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         },
         {
-          "name": "Laura Bruma",
-          "url": "https://open.spotify.com/artist/3tzs26TobD3x55PFsG4TrH"
+          "name": "Mr. Juve",
+          "url": "https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8"
         }
       ],
-      "duration_ms": 203182,
-      "name": "Din Corason",
-      "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
+      "duration_ms": 157693,
+      "name": "Damelo",
+      "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Filipineza",
-        "url": "https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q"
+        "name": "Tu blondina,eu brunet",
+        "url": "https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g"
       },
       "artists": [
         {
@@ -484,44 +396,32 @@
           "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 154736,
-      "name": "Filipineza",
-      "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
+      "duration_ms": 145184,
+      "name": "Tu blondina,eu brunet",
+      "url": "https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Boca",
-        "url": "https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB"
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
       "artists": [
         {
-          "name": "Ursaru",
-          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Boca",
-      "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Hai tu Maria",
         "url": "https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k"
@@ -537,7 +437,71 @@
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Vino s\u0103 te f",
+        "url": "https://open.spotify.com/album/6HYk4ydfuVNkTLVq5eILau"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Vino s\u0103 te f",
+      "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Talentul ala fin",
+        "url": "https://open.spotify.com/album/1fkdyaepe3KtTiUG8wFrCl"
+      },
+      "artists": [
+        {
+          "name": "Raul Talent",
+          "url": "https://open.spotify.com/artist/7xgc59lft0bnMy6GeEurfb"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Talentul ala fin",
+      "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Boca",
+        "url": "https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "E Mult, E Greu!",
         "url": "https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2"
@@ -553,7 +517,7 @@
       "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Z PRINT",
         "url": "https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso"
@@ -569,39 +533,7 @@
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 160966,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Ce a fost a fost",
         "url": "https://open.spotify.com/album/2IALg7GnnN9xotQ3A4JzRC"
@@ -617,7 +549,23 @@
       "url": "https://open.spotify.com/track/2mOqRmZkZJuvgTJv69uDIa"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Filipineza",
+        "url": "https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "Filipineza",
+      "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "LNPSTRD",
         "url": "https://open.spotify.com/album/2EgMkwAkvsGRmcxSb1SDmF"
@@ -645,7 +593,7 @@
       "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Ma Suni Noaptea",
         "url": "https://open.spotify.com/album/19iAGMazWIIS3DFfDNvCaT"
@@ -665,7 +613,39 @@
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Barbatul Vip",
+        "url": "https://open.spotify.com/album/25Vzj63jl4EQpsVyZEYoM0"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
+        }
+      ],
+      "duration_ms": 170632,
+      "name": "Barbatul Vip",
+      "url": "https://open.spotify.com/track/6EAprd0r6Ovm81XCn0qIlF"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Bipolar\u0103",
         "url": "https://open.spotify.com/album/68rGH2GpyJVZb1BXaOfrcI"
@@ -685,115 +665,7 @@
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Ce Te-as Suna",
-        "url": "https://open.spotify.com/album/3ABAsh0MkHFdmZClm95xod"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "Arianna",
-          "url": "https://open.spotify.com/artist/1lK9fcx3OxpVn9sBYWFHuv"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ce Te-as Suna",
-      "url": "https://open.spotify.com/track/2yKgHHs4dWDd69H0rK1lqN"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "STOLE YA FLOW",
-      "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Foca",
-        "url": "https://open.spotify.com/album/1A8sRCxDEqyCaVT6EFI2ew"
-      },
-      "artists": [
-        {
-          "name": "Printu de la Cluj",
-          "url": "https://open.spotify.com/artist/5eaGav3zTDNilgWFvToMxh"
-        }
-      ],
-      "duration_ms": 227021,
-      "name": "Foca",
-      "url": "https://open.spotify.com/track/3plHE4mbRjz3uOQ9P6MOMG"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "CE FRIG E/DUBLU R",
-        "url": "https://open.spotify.com/album/610ODoyzMvnaditF7pT4tW"
-      },
-      "artists": [
-        {
-          "name": "AdelinMM",
-          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 267347,
-      "name": "CE FRIG E/DUBLU R",
-      "url": "https://open.spotify.com/track/5A6UyiJrp37A8Omkd4gG9f"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Barbatul Vip",
-        "url": "https://open.spotify.com/album/25Vzj63jl4EQpsVyZEYoM0"
-      },
-      "artists": [
-        {
-          "name": "Luis Gabriel",
-          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
-        }
-      ],
-      "duration_ms": 170632,
-      "name": "Barbatul Vip",
-      "url": "https://open.spotify.com/track/6EAprd0r6Ovm81XCn0qIlF"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -813,23 +685,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -849,55 +705,63 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Nikki beach (Live)",
-        "url": "https://open.spotify.com/album/6hMrWbbrSnYielAFerdfop"
+        "name": "CE FRIG E/DUBLU R",
+        "url": "https://open.spotify.com/album/610ODoyzMvnaditF7pT4tW"
       },
       "artists": [
         {
-          "name": "Mariano",
-          "url": "https://open.spotify.com/artist/6lrgzrRBuMJQZeHMLTBpCg"
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 198720,
-      "name": "Nikki beach - Live",
-      "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
+      "duration_ms": 267347,
+      "name": "CE FRIG E/DUBLU R",
+      "url": "https://open.spotify.com/track/5A6UyiJrp37A8Omkd4gG9f"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7"
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Brasileiro",
-      "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
-        "name": "Bal \u021bambal",
-        "url": "https://open.spotify.com/album/3o1v9ZiuYstcQATGwVd2Fd"
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/34ix1fTu06Q7gGv4pNRgO1"
       },
       "artists": [
         {
-          "name": "Ursaru",
-          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+          "name": "TONTZO INDIANU",
+          "url": "https://open.spotify.com/artist/3JeTZ0h5kGcqoUzKT1Gf6G"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Bal \u021bambal",
-      "url": "https://open.spotify.com/track/2QeA97SF2tplaeenUQOqYq"
+      "duration_ms": 193560,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/3HWS3HVkirA39KnT84Io5g"
     },
     {
-      "added_at": "2026-01-20 13:39:13",
+      "added_at": "2026-01-21 13:51:47",
       "album": {
         "name": "Ce Motor",
         "url": "https://open.spotify.com/album/5qMOmOxtVZx47Y9UTX5gFe"
@@ -911,6 +775,154 @@
       "duration_ms": 126937,
       "name": "Ce Motor",
       "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "(When You Gonna) Give It Up to Me [feat. Keyshia Cole]",
+        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "INDICA",
+        "url": "https://open.spotify.com/album/5C8CO8lHOcw583eWCnm8OU"
+      },
+      "artists": [
+        {
+          "name": "lucawts",
+          "url": "https://open.spotify.com/artist/6JPKvFBScSGXNr7D3B6fou"
+        },
+        {
+          "name": "CERCEL",
+          "url": "https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR"
+        }
+      ],
+      "duration_ms": 107234,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/6Jqms41dkO5rEzbHGnZotB"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "CAND VINE NOAPTEA",
+        "url": "https://open.spotify.com/album/7iKCZwND2QWSLmztc5MeJN"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "CAND VINE NOAPTEA",
+      "url": "https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Pic\u0103tura De Cerneal\u0103",
+        "url": "https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI"
+      },
+      "artists": [
+        {
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
+        },
+        {
+          "name": "Cristian Porcari",
+          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Pic\u0103tura De Cerneal\u0103",
+      "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
+    },
+    {
+      "added_at": "2026-01-21 13:51:47",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
     }
   ],
   "unique_name": "Top 50 - Romania",

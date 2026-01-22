@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 33731,
+  "num_followers": 33739,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "CONTROL",
         "url": "https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 185311,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -631,6 +631,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Ill Times",
+        "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "duration_ms": 227702,
+      "name": "Dud",
+      "url": "https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Let's Start Degeneracy",
         "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Ill Times",
-        "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
-      },
-      "artists": [
-        {
-          "name": "GUM",
-          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
-        },
-        {
-          "name": "Ambrose Kenny-Smith",
-          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
-        }
-      ],
-      "duration_ms": 227702,
-      "name": "Dud",
-      "url": "https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Feast",
-        "url": "https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Feast",
-      "url": "https://open.spotify.com/track/4SAvheoSWHW4oAJRsEQZlj"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 227000,
       "name": "lightweight",
       "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Feast",
+        "url": "https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Feast",
+      "url": "https://open.spotify.com/track/4SAvheoSWHW4oAJRsEQZlj"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Name Your Sorrow",
+        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 230984,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Start A Comeback",
         "url": "https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 181521,
       "name": "Start A Comeback",
       "url": "https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Name Your Sorrow",
-        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 230984,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
     },
     {
       "added_at": "2024-12-04 12:15:00",

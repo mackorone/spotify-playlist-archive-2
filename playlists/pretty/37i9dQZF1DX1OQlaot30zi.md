@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Slings e Lubi, Dargen D'Amico e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,523 likes - 101 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,525 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 96 | [le stelle, le strisce](https://open.spotify.com/track/7B3uWhhBbyzSJ5U4g0Wi3O) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [le stelle, le strisce](https://open.spotify.com/album/1JkCLPMTyNo5ALdw3Tx1aP) | 2:00 |
 | 97 | [La parte peggiore](https://open.spotify.com/track/74BQ5f5Pk4bNGBmW1EciL4) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Antrum](https://open.spotify.com/album/1Cbc93wJbL0Q2PWDbPQ56N) | 2:25 |
 | 98 | [FULL PARCO AUTO](https://open.spotify.com/track/5oA1kaCOnVQeSycdoR08t8) | [TIA2091](https://open.spotify.com/artist/1oUmYfxENlEgWVw2wBsjDv) | [FULL PARCO AUTO](https://open.spotify.com/album/0LrLqqFgctBOVORQUbB7zN) | 2:17 |
-| 99 | [Vittorio Gass\-man](https://open.spotify.com/track/6SzrJZ4uEyklgGTl5IPrB3) | [Vittorio Filloramo](https://open.spotify.com/artist/47Jbf1tcKhGx4KXeWrqfPd) | [Vittorio Gass\-man](https://open.spotify.com/album/1triaWm7yOOrjEmCZzBPn5) | 2:00 |
-| 100 | [Muri](https://open.spotify.com/track/4kEyvhQrywEW1gTJJaM4yk) | [Stamina](https://open.spotify.com/artist/1MhcII83xPgBuM1Ej96YNq) | [Muri](https://open.spotify.com/album/50Zymj1ZFLnfdvUNdjt0so) | 2:53 |
-| 101 | [Bibidi Bobidi](https://open.spotify.com/track/7drLmSSHE06m6Zn4ttzFY3) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Bibidi Bobidi](https://open.spotify.com/album/7L30VqXoyzLIFZoQQIFEv2) | 2:19 |
+| 99 | [Muri](https://open.spotify.com/track/4kEyvhQrywEW1gTJJaM4yk) | [Stamina](https://open.spotify.com/artist/1MhcII83xPgBuM1Ej96YNq) | [Muri](https://open.spotify.com/album/50Zymj1ZFLnfdvUNdjt0so) | 2:53 |
+| 100 | [Bibidi Bobidi](https://open.spotify.com/track/7drLmSSHE06m6Zn4ttzFY3) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Bibidi Bobidi](https://open.spotify.com/album/7L30VqXoyzLIFZoQQIFEv2) | 2:19 |
 
-Snapshot ID: `AAAAAAu4gASSb0mKoNvmE53O3heFWa6T`
+Snapshot ID: `AAAAALk2Ib6d4Dz0P6KDBpp3fPJ3KIh4`

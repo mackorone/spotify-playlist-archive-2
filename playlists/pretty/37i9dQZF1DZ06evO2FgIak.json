@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 51682,
+  "num_followers": 51685,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAD61wx31R1uLoo7zZXYMT3W",
+  "snapshot_id": "aW7FgAAAAABCkYLU/2kePIjyVJOWoMUf",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
       },
       "artists": [
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 193266,
-      "name": "You Gonna Need My Help",
-      "url": "https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO"
+      "duration_ms": 660933,
+      "name": "Baby Please Don't Go - Live",
+      "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Checkerboard Lounge",
-        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
       "artists": [
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 660933,
-      "name": "Baby Please Don't Go - Live",
-      "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
+      "duration_ms": 193266,
+      "name": "You Gonna Need My Help",
+      "url": "https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO"
     },
     {
       "added_at": null,

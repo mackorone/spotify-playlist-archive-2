@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,796 likes - 62 songs - 3 hr 24 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,793 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Someone Said](https://open.spotify.com/track/24ltepHLO6VaSjnrWUqwn3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [Whitearmor](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Kora](https://open.spotify.com/album/5LJIb62zNdiTj6Y5tz0JET) | 2:48 |
 | 2 | [Heartbreak](https://open.spotify.com/track/4PzgYtLEcik1VGjbDDdqbA) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Heartbreak](https://open.spotify.com/album/5Tm1UdHePKEOA4uASwdwo1) | 2:34 |
-| 3 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5UfAquClrpYa6G5Mw7a9Tl) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
+| 3 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
 | 4 | [fall into you](https://open.spotify.com/track/3lllNdHwDYVRlRxK7Dcd2p) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [fall into you](https://open.spotify.com/album/2Ffo5dTtoOVKL4X6MXfxab) | 3:37 |
 | 5 | [Tentone](https://open.spotify.com/track/21h3rDX7IGqIXCSGWYmjS5) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Tentone](https://open.spotify.com/album/4LSYomT49BOhrH8lATVhUq) | 3:59 |
 | 6 | [Movement](https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Movement](https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n) | 3:07 |

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 하성운 \(HA SUNG WOON\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 전상근 \(Jeon Sang Keun\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,650 songs - 4 day 11 hr 11 min
+1,652 songs - 4 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Even If I’m Crazy](https://open.spotify.com/track/441x9yjdJ7MxzfkRdPtmvh) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Even If I’m Crazy](https://open.spotify.com/album/6DGhs9e7YfmnVjd4eosynH) | 3:35 | 2024-06-14 | 2024-10-17 |
 | [Even if nobody cares for you](https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Nobody Knows \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz) | 3:20 | 2022-01-27 | 2022-06-24 |
 | [Even If the World Ends](https://open.spotify.com/track/7kWZS3Xgz28xmkfEWFlvli) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Even If the World Ends: A Single Message](https://open.spotify.com/album/0gzch1wlIVsBpho1DKgdRd) | 3:49 | 2025-12-18 |  |
+| [Even If This Love Disappears Tonight](https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Even If This Love Disappears Tonight](https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF) | 3:40 | 2026-01-21 |  |
 | [Even if you can′t love you can miss](https://open.spotify.com/track/4072LvIDKA8B3Kmhrk9aQc) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Even if you can't love you can miss \(Lee A Young X Desperate Ballad Project\)](https://open.spotify.com/album/75fqDN1Dn74x40CDlNGpWm) | 4:04 | 2025-09-18 | 2026-01-03 |
 | [Even Just Memories](https://open.spotify.com/track/43t8WaO2MoSO1m5g7YioL0) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [Even Just Memories](https://open.spotify.com/album/23dG0FiVEz44gEyQn7HEG4) | 3:56 | 2025-09-04 | 2025-11-29 |
 | [Even Silently Cry\(2023\)](https://open.spotify.com/track/7zVeCI0asI0C42OQtAl3nD) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1vYvzttBDeonkb8m7aw6vH) | 4:39 | 2023-07-07 | 2023-10-20 |
@@ -797,7 +798,7 @@
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-12 | 2022-12-27 |
 | [Long Day](https://open.spotify.com/track/2u9dTwkJBYoIWAeW2IE5Cv) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Long Day](https://open.spotify.com/album/0BIST1V2G2NjPT6cc01rTS) | 3:38 | 2023-03-27 | 2023-08-25 |
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-09-18 | 2023-12-14 |
-| [Long trip](https://open.spotify.com/track/1tKNzLT0SRoK6wpZKz6S9r) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Long trip](https://open.spotify.com/album/0YVX3c7Q05ZkBZSw8IwA20) | 3:14 | 2025-10-20 |  |
+| [Long trip](https://open.spotify.com/track/1tKNzLT0SRoK6wpZKz6S9r) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Long trip](https://open.spotify.com/album/0YVX3c7Q05ZkBZSw8IwA20) | 3:14 | 2025-10-20 | 2026-01-22 |
 | [Longing For The One I Lost](https://open.spotify.com/track/5zmaQ67jCtABqcWzjQNa6w) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Longing For The One I Lost](https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM) | 3:56 | 2024-12-09 | 2025-07-29 |
 | [look at me \(Veiled Musician X YANG YO SEOP, SON DONG WOON with Cheongdam\-dong\)](https://open.spotify.com/track/2mdmWUaxxZrwfS5y0wReGf) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [look at me \(Veiled Musician X YANG YO SEOP, SON DONG WOON with Cheongdam\-dong\)](https://open.spotify.com/album/62d2y7DPhFvZ1pUQ09kvLp) | 4:25 | 2023-11-13 | 2024-03-29 |
 | [Look at your picture](https://open.spotify.com/track/6uHuMQ3o59hCQ9e8WXtLvk) | [\#Annyeong](https://open.spotify.com/artist/73hSL2bbnBDJl4i3hsJB73) | [Look at your picture](https://open.spotify.com/album/2piZV8x60WuZqgXrLlGrX9) | 3:29 | 2024-05-17 | 2024-09-24 |
@@ -1187,6 +1188,7 @@
 | [Sometimes](https://open.spotify.com/track/10Y9WYsHhfqu1bJRESaKap) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Sometimes](https://open.spotify.com/album/3mfkymgvHVm8x3YCja4gCW) | 4:39 | 2021-12-23 | 2022-04-16 |
 | [Somewhere in This Universe](https://open.spotify.com/track/4oAp3etVXydrLaVBcXHvDZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [When the Stars Gossip OST Part.4](https://open.spotify.com/album/0J0BdxuVScM437RcBmmHDG) | 4:24 | 2025-02-04 | 2025-02-07 |
 | [Song of the White Moon](https://open.spotify.com/track/245tXIPYpAmeBOYJaCD3Xg) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [Song of the White Moon](https://open.spotify.com/album/6o3QVbSFw4zYXhIZAoswrt) | 4:30 | 2025-10-14 | 2026-01-15 |
+| [Song of the Wind \(feat\. Sohyang\)](https://open.spotify.com/track/1OuCrIb9nUsTBT8Teo9ywY) | [Choi Eunbin](https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Ballad of Us Radio Episode 2](https://open.spotify.com/album/59vuL7rUy7kG0O7DpXjwws) | 4:34 | 2026-01-21 |  |
 | [Soonri](https://open.spotify.com/track/7GCNT9j5CTaq3eCNxuvJxa) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [\#FILM Soonri](https://open.spotify.com/album/3Rp8hJ0ybSCDBbm3NQzljC) | 4:56 | 2022-03-24 | 2022-04-20 |
 | [Sorrow at my door\(Prod\. ROCOBERRY\)](https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [슬픔이 찾아와서 그래 \(Sorrow at my door\)](https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe) | 3:22 | 2025-10-01 | 2026-01-15 |
 | [Sorrowful memories from the past](https://open.spotify.com/track/24F5xq9iIzLmbBCs9hhSa1) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [If I held onto you](https://open.spotify.com/album/2ocvkplFV8W1FH32tQPoyx) | 3:49 | 2022-07-07 | 2022-08-19 |
@@ -1496,7 +1498,7 @@
 | [Will you take this love](https://open.spotify.com/track/03KvuRYNw5GveMBQOx4nQw) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Three Siblings Bravely OST Part.7 \(Soundtrack\)](https://open.spotify.com/album/4NRiSfnfb23h7rFD2uaM6G) | 3:44 | 2023-01-20 | 2023-02-25 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 | 2022-12-27 |
 | [Wind Flower](https://open.spotify.com/track/3o7S5W2QW94CSZ0WLio1dM) | [Ye Song](https://open.spotify.com/artist/2S4c05h0BqRStE7dWglHw8) | [Queen Seon Deok OST](https://open.spotify.com/album/7lKrIwfTeNOI0rNjhr2tBW) | 4:04 | 2023-05-05 | 2023-05-16 |
-| [Wind that blows](https://open.spotify.com/track/71ApV2H6XkyZtrKxB6WIod) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Wind that blows](https://open.spotify.com/album/71Dd0dSSAISVUxvpzhgQDj) | 3:59 | 2025-10-01 |  |
+| [Wind that blows](https://open.spotify.com/track/71ApV2H6XkyZtrKxB6WIod) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Wind that blows](https://open.spotify.com/album/71Dd0dSSAISVUxvpzhgQDj) | 3:59 | 2025-10-01 | 2026-01-22 |
 | [Wind, from where are you blowing](https://open.spotify.com/track/7CMEi8YPUYzs8KgMCXfziY) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [\[THE SEASONS Vol.Ⅱ\. 3\] <AKMU's Long day Long night> ReːWake x O3ohn](https://open.spotify.com/album/2sv6G5esKnaiJHmzOgoHuq) | 5:08 | 2023-10-20 | 2023-12-14 |
 | [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 | 2025-01-07 | 2025-03-27 |
 | [Winter Bloom](https://open.spotify.com/track/1tMwuLI97riAphTmpftMa3) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Winter Bloom](https://open.spotify.com/album/0fMygnh8zLxHVbswysFhoJ) | 4:19 | 2026-01-02 |  |

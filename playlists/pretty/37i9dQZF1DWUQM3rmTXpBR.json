@@ -1,13 +1,45 @@
 {
   "description": "Alternative Arabic songs. Cover: Autostrad",
-  "num_followers": 149752,
+  "num_followers": 149759,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0VYMCQHgfjWFn2yFVN6RjrAr5O",
+  "snapshot_id": "AAAAAMSL+9aETICKCJnqte3DRaoG4iln",
   "tracks": [
+    {
+      "added_at": "2026-01-21 08:42:53",
+      "album": {
+        "name": "Sarab (\u0633\u0631\u0627\u0628)",
+        "url": "https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        }
+      ],
+      "duration_ms": 333949,
+      "name": "Zaman (\u0632\u0645\u0646)",
+      "url": "https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9"
+    },
+    {
+      "added_at": "2026-01-21 08:42:53",
+      "album": {
+        "name": "Mesh Bet2ooly leh \u0645\u0634 \u0628\u062a\u0642\u0648\u0644\u064a \u0644\u064a\u0647",
+        "url": "https://open.spotify.com/album/5Gr5eMsxHvJLt1RrtkJr96"
+      },
+      "artists": [
+        {
+          "name": "Pink Seasalt",
+          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Mesh Bet2ooly leh \u0645\u0634 \u0628\u062a\u0642\u0648\u0644\u064a \u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/11g8MT4npcCvkTee8njIM0"
+    },
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
@@ -55,22 +87,6 @@
       "duration_ms": 174857,
       "name": "Tayer",
       "url": "https://open.spotify.com/track/0NmkoiRoMdCjJgDB3f6AuD"
-    },
-    {
-      "added_at": "2025-12-26 12:08:55",
-      "album": {
-        "name": "Shereet Kharban",
-        "url": "https://open.spotify.com/album/0RfaQD7eg095MNndI0Jhfr"
-      },
-      "artists": [
-        {
-          "name": "Pink Seasalt",
-          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Shereet Kharban",
-      "url": "https://open.spotify.com/track/69zAFnSfwp1ylcJdZinPuE"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -145,26 +161,6 @@
       "url": "https://open.spotify.com/track/4f9dniVOKKrCp5ObTm0MP0"
     },
     {
-      "added_at": "2025-12-26 12:08:55",
-      "album": {
-        "name": "Hassasa - \u062d\u0633\u0627\u0633\u0629",
-        "url": "https://open.spotify.com/album/30m2Q2K9qsH3vzTDVzK9N0"
-      },
-      "artists": [
-        {
-          "name": "Luka Salam",
-          "url": "https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK"
-        },
-        {
-          "name": "Ziad Hisham",
-          "url": "https://open.spotify.com/artist/246gQij0NFmuyWhnuhmRqk"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Hassasa - \u062d\u0633\u0627\u0633\u0629",
-      "url": "https://open.spotify.com/track/3FzjUNvNyjhKBQh0iNPZBW"
-    },
-    {
       "added_at": "2025-12-26 11:37:22",
       "album": {
         "name": "Manakir",
@@ -197,6 +193,22 @@
       "url": "https://open.spotify.com/track/42cgSqcYqyRxG3VCd3ubTC"
     },
     {
+      "added_at": "2025-12-26 12:08:55",
+      "album": {
+        "name": "Shereet Kharban",
+        "url": "https://open.spotify.com/album/0RfaQD7eg095MNndI0Jhfr"
+      },
+      "artists": [
+        {
+          "name": "Pink Seasalt",
+          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Shereet Kharban",
+      "url": "https://open.spotify.com/track/69zAFnSfwp1ylcJdZinPuE"
+    },
+    {
       "added_at": "2025-12-26 11:37:22",
       "album": {
         "name": "El 3asal",
@@ -215,22 +227,6 @@
       "duration_ms": 180658,
       "name": "El 3asal",
       "url": "https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "\u0641\u0631\u0646\u0635\u0627",
-        "url": "https://open.spotify.com/album/2sh4PGnOSpEiNFthRhoTa0"
-      },
-      "artists": [
-        {
-          "name": "Do3souqa",
-          "url": "https://open.spotify.com/artist/2MJwFf1RkUjkQFLhrT3mQo"
-        }
-      ],
-      "duration_ms": 194806,
-      "name": "\u0641\u0631\u0646\u0635\u0627",
-      "url": "https://open.spotify.com/track/3LHy4bN1UE3xYcHRq7MDf4"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -527,26 +523,6 @@
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "Ghadi",
-        "url": "https://open.spotify.com/album/04q8Heu6XxBs4RaGpTu8d1"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        },
-        {
-          "name": "Jawhar",
-          "url": "https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd"
-        }
-      ],
-      "duration_ms": 339966,
-      "name": "Ghadi",
-      "url": "https://open.spotify.com/track/4ZkF5NDqqgOSmVoWSNVgwP"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
         "name": "Leh Ya Hana ?",
         "url": "https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN"
       },
@@ -711,26 +687,6 @@
       "duration_ms": 254160,
       "name": "Akherto Lahen Hazeen",
       "url": "https://open.spotify.com/track/5ICwSVcHQYL0PWHjrU1noZ"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Bekya",
-        "url": "https://open.spotify.com/album/2qkoYNbpKaahlMilC3749B"
-      },
-      "artists": [
-        {
-          "name": "Donia Wael",
-          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
-        },
-        {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "Bekya",
-      "url": "https://open.spotify.com/track/635XgbgINyBrET4Wn460mD"
     }
   ],
   "unique_name": "Arab Indie",

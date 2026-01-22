@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "album": {
         "name": "Uncommon Favours",
         "url": "https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva"
       },
@@ -2474,6 +2492,24 @@
       "duration_ms": 208878,
       "name": "Radio",
       "url": "https://open.spotify.com/track/5vV9BdGnoBvfoCLThYfaSJ"
+    },
+    {
+      "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "rendezvous",
+      "url": "https://open.spotify.com/track/3WcxQTzkPbYIlx5x7lFiBW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Fiersa Besari, Judika, Charlie Puth, Charlie xcx, Nabila Taqiyyah dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,076 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,108 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 39 | [Tiga Benam Menara](https://open.spotify.com/track/03dnnlcWDAQQWWhD5QlIqb) | [Binar](https://open.spotify.com/artist/0Q0tNebCddkZXmn5MQBCol) | [Suaka](https://open.spotify.com/album/6bsc9ENITUChf39Icx4rdp) | 3:32 |
 | 40 | [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 |
 | 41 | [Panah Hati](https://open.spotify.com/track/0vSgrq0BuNtc5liVWa2ua1) | [Ras Muhamad](https://open.spotify.com/artist/71Qmd6sBkz4127R4KVvtl3), [Epo D'Fenomeno](https://open.spotify.com/artist/0jXmoTmehtdxvfjSK4fQg7) | [Panah Hati](https://open.spotify.com/album/1hinACzieidpUK6Cq7jWs6) | 2:45 |
-| 42 | [Miliaran Manusia](https://open.spotify.com/track/0DzNESLoRyoSA481GAh08B) | [Original Cast Musikal Perahu Kertas](https://open.spotify.com/artist/2AW9GTVvrGp0tx1E6RLaNk), [Dewara Zaqqi](https://open.spotify.com/artist/4WG4L2FpRNNabX0jjpERk5), [Alia Syahrani](https://open.spotify.com/artist/0KN6bxfLV3tzkS1FojlOmr), [Trust Collective](https://open.spotify.com/artist/5Cc1Cd0MgxNIcfSeGcXbzn) | [Original Cast Recording Musikal Perahu Kertas](https://open.spotify.com/album/0N7Gcu2OCc9n4suzDNSRO7) | 3:29 |
+| 42 | [Miliaran Manusia](https://open.spotify.com/track/0DzNESLoRyoSA481GAh08B) | [Original Cast Musikal Perahu Kertas](https://open.spotify.com/artist/2AW9GTVvrGp0tx1E6RLaNk), [Dewara Zaqqi](https://open.spotify.com/artist/4WG4L2FpRNNabX0jjpERk5), [Alya Syahrani](https://open.spotify.com/artist/7LCjqfhaRyGm6tS6pMntnR), [Trust Collective](https://open.spotify.com/artist/5Cc1Cd0MgxNIcfSeGcXbzn) | [Original Cast Recording Musikal Perahu Kertas](https://open.spotify.com/album/0N7Gcu2OCc9n4suzDNSRO7) | 3:29 |
 | 43 | [Break Your Heart](https://open.spotify.com/track/6CLXGbY0r73pCownwMrVsc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Break Your Heart](https://open.spotify.com/album/5GhoqZXqKqX4ggC4I9zzPf) | 3:33 |
 | 44 | [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 |
 | 45 | [Dodge](https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Shhugar](https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk) | 3:33 |

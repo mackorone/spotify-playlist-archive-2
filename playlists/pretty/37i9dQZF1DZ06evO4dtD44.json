@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62482,
+  "num_followers": 62484,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAbnQMkb+k/A0bL+hjPRCA6",
+  "snapshot_id": "aW7FgAAAAADg66OEAlVGlmIRlxxfS3JJ",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossa Nova Caf\u00e9",
-        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
+        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
+        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 72671,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
+      "duration_ms": 124682,
+      "name": "Rosa Morena",
+      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bossa Nova Caf\u00e9",
+        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 72671,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Tokyo",
         "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 361106,
       "name": "Pra Que Discutir Com Madame?",
       "url": "https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
-        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 124682,
-      "name": "Rosa Morena",
-      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
     },
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 225733,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/0LS3cTpTm5zPTmBcyIDfOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+        "name": "Jo\u00e3o Gilberto: A Summer Night",
+        "url": "https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 135018,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO"
+      "duration_ms": 243266,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Gilberto: A Summer Night",
-        "url": "https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc"
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj"
+      "duration_ms": 135018,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO"
     },
     {
       "added_at": null,

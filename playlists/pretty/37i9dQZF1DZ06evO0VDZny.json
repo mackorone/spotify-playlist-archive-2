@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 499336,
+  "num_followers": 499498,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADjXG8c2fIvu1cwu18XDryU",
+  "snapshot_id": "aW7FgAAAAAAPr3GhFZteGkwAHcD4b81n",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
       },
       "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CODE MISTAKE",
-        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
       "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 165303,
-      "name": "CODE MISTAKE",
-      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": null,
@@ -500,13 +500,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
         }
       ],
-      "duration_ms": 207982,
-      "name": "losT_404.nll",
-      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
+      "duration_ms": 188288,
+      "name": "in_the_dark.ech",
+      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
     },
     {
       "added_at": null,
@@ -568,13 +568,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Kanisan",
-          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 188288,
-      "name": "in_the_dark.ech",
-      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
+      "duration_ms": 260402,
+      "name": "avalanche_.drft",
+      "url": "https://open.spotify.com/track/3MxKZsr5goZHkfSSBS3e5g"
     },
     {
       "added_at": null,
@@ -640,13 +640,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 182764,
-      "name": "king_sl@yer.fmk",
-      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     },
     {
       "added_at": null,
@@ -780,13 +780,17 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
         }
       ],
-      "duration_ms": 166881,
-      "name": "shadowm0ses.frq",
-      "url": "https://open.spotify.com/track/1mdSf2B1wLuUl3XQQEtc00"
+      "duration_ms": 188456,
+      "name": "Darkside.verXx",
+      "url": "https://open.spotify.com/track/42UmHCU9anrkIcW4jIuiSr"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

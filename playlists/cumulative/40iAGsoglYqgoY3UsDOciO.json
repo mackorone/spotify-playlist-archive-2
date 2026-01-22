@@ -8829,6 +8829,24 @@
     },
     {
       "album": {
+        "name": "What Happens When We Die?",
+        "url": "https://open.spotify.com/album/6o2z2D5mjubKDzXvkrfwaj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Snow",
+          "url": "https://open.spotify.com/artist/7MD1sZsn15FxxsklgG5bNq"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272666,
+      "name": "What Happens When We Die?",
+      "url": "https://open.spotify.com/track/0vzSRZuwogXh11G498bQW3"
+    },
+    {
+      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },

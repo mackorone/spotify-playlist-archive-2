@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-129 songs - 8 hr 4 min
+130 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [I'm Doing Fine Now \- Remastered](https://open.spotify.com/track/714Qo8liCsI4E8z6T5vQ5i) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Feel Good 70s](https://open.spotify.com/album/5OlvCPGbAd7AmkdbHTkg7P) | 3:36 | 2024-03-18 | 2024-08-17 |
 | [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 | 2022-05-25 | 2023-06-21 |
 | [If And When](https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 7:09 | 2022-05-30 |  |
+| [If That Guy Walks Out of My Life](https://open.spotify.com/track/1x9XP4R0mYgGCEM7kF5yC4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:40 | 2026-01-22 |  |
 | [If You Must Leave My Life](https://open.spotify.com/track/3shCTJnZKOJ7YdHVBRHg4c) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:13 | 2022-06-08 | 2022-06-24 |
 | [If You Must Leave My Life](https://open.spotify.com/track/5icPV15prKmFvjRnwQ1lsS) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:13 | 2023-01-31 | 2025-02-18 |
 | [Isn't It a Pity](https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:52 | 2022-12-18 | 2025-08-04 |
@@ -90,7 +91,7 @@
 | [Requiem](https://open.spotify.com/track/5da5BnxJydeLtlmhjwCBaA) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:34 | 2023-09-02 | 2025-01-23 |
 | [Requiem](https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 4:34 | 2025-05-24 | 2025-06-29 |
 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 | 2022-05-25 |  |
-| [Set Me Free](https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:34 | 2025-09-10 |  |
+| [Set Me Free](https://open.spotify.com/track/5nrIgDAuImXGnBLQGrZxQt) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:34 | 2025-09-10 | 2026-01-22 |
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 | 2022-11-05 |
 | [Standing Up For Love](https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:39 | 2023-05-02 | 2023-05-04 |
 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 | 2022-05-25 |  |

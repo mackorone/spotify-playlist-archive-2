@@ -1,6 +1,6 @@
 {
   "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "num_followers": 102948,
+  "num_followers": 103002,
   "original_name": "vintertid",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "SKJORTE & SLIPS",
         "url": "https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 182769,
       "name": "SKJORTE & SLIPS",
       "url": "https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Delt i to",
-        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid V\u00e5rvik",
-          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Delt i to",
-      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "jeg holder pusten til du drar",
         "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 185338,
       "name": "jeg holder pusten til du drar",
       "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "Delt i to",
+        "url": "https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Delt i to",
+      "url": "https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "\u00c6lsk n\u00e5nn",
-        "url": "https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP"
-      },
-      "artists": [
-        {
-          "name": "Ingrid V\u00e5rvik",
-          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
-        }
-      ],
-      "duration_ms": 185206,
-      "name": "\u00c6lsk n\u00e5nn",
-      "url": "https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "God Knows",
         "url": "https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 170394,
       "name": "God Knows",
       "url": "https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "\u00c6lsk n\u00e5nn",
+        "url": "https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "duration_ms": 185206,
+      "name": "\u00c6lsk n\u00e5nn",
+      "url": "https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
+        "name": "fear of looking stupid",
+        "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
+      },
+      "artists": [
+        {
+          "name": "tiri",
+          "url": "https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "fear of looking stupid",
+      "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
         "name": "So cool",
         "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 222546,
       "name": "So cool",
       "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "fear of looking stupid",
-        "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
-      },
-      "artists": [
-        {
-          "name": "tiri",
-          "url": "https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ"
-        }
-      ],
-      "duration_ms": 164812,
-      "name": "fear of looking stupid",
-      "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "05050",
-        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 186739,
-      "name": "DESPU\u00c9S DE LA FERIA",
-      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 264731,
       "name": "Sover du",
       "url": "https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "05050",
+        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 186739,
+      "name": "DESPU\u00c9S DE LA FERIA",
+      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
+        "name": "Half Decade Addiction",
+        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
+      },
+      "artists": [
+        {
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Stuck in November",
+      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 190405,
       "name": "Finaste s\u00e5 finns",
       "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1111,22 +1143,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "Half Decade Addiction",
-        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
-      },
-      "artists": [
-        {
-          "name": "RABO",
-          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Stuck in November",
-      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
+        "name": "Jeg vil ikke st\u00e5 i ro lenger",
+        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 173822,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
         "name": "M\u00e5nen",
         "url": "https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "Jeg vil ikke st\u00e5 i ro lenger",
-        "url": "https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173822,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "Luft",
         "url": "https://open.spotify.com/album/0yTa4d2Tv2GzDTGiWGpsGY"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 178703,
       "name": "Luft",
       "url": "https://open.spotify.com/track/2YJSx1oGUOKnjpBbC5eV8U"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
-        "name": "VERDENS BESTE ALBUM",
-        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
-      },
-      "artists": [
-        {
-          "name": "Jon Ranes",
-          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
-        }
-      ],
-      "duration_ms": 183568,
-      "name": "Kunstig intelligens",
-      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1383,6 +1367,22 @@
       "duration_ms": 195929,
       "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
       "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "VERDENS BESTE ALBUM",
+        "url": "https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1"
+      },
+      "artists": [
+        {
+          "name": "Jon Ranes",
+          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
+        }
+      ],
+      "duration_ms": 183568,
+      "name": "Kunstig intelligens",
+      "url": "https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe"
     },
     {
       "added_at": "2026-01-15 23:00:29",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-15 23:00:29",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
-    },
-    {
-      "added_at": "2026-01-15 23:00:29",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198200,
       "name": "25",
       "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
+    },
+    {
+      "added_at": "2026-01-15 23:00:29",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     }
   ],
   "unique_name": "vintertid",

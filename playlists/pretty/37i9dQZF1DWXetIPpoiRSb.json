@@ -1,12 +1,12 @@
 {
   "description": "the pop lab \ud83e\uddea cover: tove styrke",
-  "num_followers": 201443,
+  "num_followers": 201429,
   "original_name": "Evolver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4X/7pQNp5waz7R2DStidUJKXsO",
+  "snapshot_id": "AAAAAD8OzToeAAcPhoRP2hmhFqRjuKxR",
   "tracks": [
     {
       "added_at": "2026-01-16 00:00:18",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-16 00:00:18",
       "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
-    },
-    {
-      "added_at": "2026-01-16 00:00:18",
-      "album": {
         "name": "havefun",
         "url": "https://open.spotify.com/album/24p67ENiw4sPj6f2diJqD9"
       },
@@ -835,26 +819,6 @@
     {
       "added_at": "2026-01-16 00:00:18",
       "album": {
-        "name": "iDidntMeanToGhostYouButMyWifiCrashedAgain",
-        "url": "https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2"
-      },
-      "artists": [
-        {
-          "name": "TEO.x3",
-          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
-        },
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 155232,
-      "name": "sprite",
-      "url": "https://open.spotify.com/track/32kFCCsS86KQIbhgGED7pp"
-    },
-    {
-      "added_at": "2026-01-16 00:00:18",
-      "album": {
         "name": "play me like a speaker",
         "url": "https://open.spotify.com/album/4rd6PIDkOzq2Xy1hQSf7ki"
       },
@@ -919,22 +883,6 @@
     {
       "added_at": "2026-01-16 00:00:18",
       "album": {
-        "name": "Hazy Eyes",
-        "url": "https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Hazy Eyes",
-      "url": "https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA"
-    },
-    {
-      "added_at": "2026-01-16 00:00:18",
-      "album": {
         "name": "YOU KNOW I LOVE YOU",
         "url": "https://open.spotify.com/album/2OKd0EqIVRjqEPB40FZd79"
       },
@@ -979,22 +927,6 @@
       "duration_ms": 201927,
       "name": "CANDY CRUSHING",
       "url": "https://open.spotify.com/track/7lRoeQiX59PnZLCWhpN4dc"
-    },
-    {
-      "added_at": "2026-01-16 00:00:18",
-      "album": {
-        "name": "Ur an Angel I\u2019m Just Particles",
-        "url": "https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
     },
     {
       "added_at": "2026-01-16 00:00:18",
@@ -1271,22 +1203,6 @@
       "duration_ms": 166000,
       "name": "Blasting Through the Speakers",
       "url": "https://open.spotify.com/track/72YcfDh7YXItRSoCpBWp86"
-    },
-    {
-      "added_at": "2026-01-16 00:00:18",
-      "album": {
-        "name": "DAYLIGHT SAVINGS",
-        "url": "https://open.spotify.com/album/3D3f5F2xI8wI1S8PFOvbom"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "DAYLIGHT SAVINGS",
-      "url": "https://open.spotify.com/track/1S2lOS0vWfI5nvSrCB6JjP"
     }
   ],
   "unique_name": "Evolver",

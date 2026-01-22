@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 179013,
       "name": "12:45 - Stripped",
       "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
@@ -52,10 +52,28 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 309662,
       "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
       "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
+    },
+    {
+      "album": {
+        "name": "4 SEASONS",
+        "url": "https://open.spotify.com/album/1rbraPZGTXELwYGbQek0wj"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275432,
+      "name": "4 SEASONS",
+      "url": "https://open.spotify.com/track/0rgYR052e72ts19CQkRJUv"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 209250,
       "name": "a music score",
       "url": "https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 169208,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
@@ -423,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224366,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
+    },
+    {
+      "album": {
         "name": "Love\u00b0C",
         "url": "https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk"
       },
@@ -517,6 +553,24 @@
     },
     {
       "album": {
+        "name": "End roll",
+        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "End roll",
+      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s"
       },
@@ -582,7 +636,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 214824,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/6PDzZVxbuZHImcACGiaKLt"
@@ -712,6 +766,28 @@
       "duration_ms": 227800,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
+    },
+    {
+      "album": {
+        "name": "iLagU (feat. Lazyy)",
+        "url": "https://open.spotify.com/album/1K0ygi9IDuw2zSKadPpmjk"
+      },
+      "artists": [
+        {
+          "name": "STA.malia",
+          "url": "https://open.spotify.com/artist/7d4rkz9IAQqSJolMvhD2oL"
+        },
+        {
+          "name": "Lazyy",
+          "url": "https://open.spotify.com/artist/2dznerepHR3Fx2Gqk2Uift"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "iLagU (feat. Lazyy)",
+      "url": "https://open.spotify.com/track/6Gqy1W5fxj0UHaIXaErhYz"
     },
     {
       "album": {
@@ -1004,7 +1080,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 198866,
       "name": "midnight",
       "url": "https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n"
@@ -1112,7 +1188,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 290400,
       "name": "Odakyu Line",
       "url": "https://open.spotify.com/track/0Fq7ovIDzp0swrLuSCR9WW"
@@ -1560,7 +1636,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 252352,
       "name": "TOGE",
       "url": "https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN"
@@ -1578,7 +1654,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 234380,
       "name": "Torie",
       "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
@@ -1596,7 +1672,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 278678,
       "name": "UNITY",
       "url": "https://open.spotify.com/track/1ii9uwB3yTRDAyIpWauE5v"
@@ -1636,6 +1712,28 @@
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49"
+    },
+    {
+      "album": {
+        "name": "Waiting for Dawn (feat. sakana)",
+        "url": "https://open.spotify.com/album/47blOERID7xspcR2wBUpAP"
+      },
+      "artists": [
+        {
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
+        },
+        {
+          "name": "sakana",
+          "url": "https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263690,
+      "name": "Waiting for Dawn (feat. sakana)",
+      "url": "https://open.spotify.com/track/0PcbsvZO79F913S4fzKra1"
     },
     {
       "album": {
@@ -1924,7 +2022,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 185752,
       "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
       "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
@@ -2274,7 +2372,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 222173,
       "name": "\u30b3\u30fc\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0B0hgGapjks5x59vJBnUU8"
@@ -2364,7 +2462,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 238180,
       "name": "\u30c9\u30e9\u30de\u30c4\u30eb\u30ae\u30fc",
       "url": "https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y"
@@ -2562,7 +2660,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 286640,
       "name": "\u30ed\u30f3\u30ea\u30fc\u30e9\u30d7\u30bd\u30c7\u30a3",
       "url": "https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw"
@@ -2872,7 +2970,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 263983,
       "name": "\u58f0",
       "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
@@ -2944,7 +3042,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 209600,
       "name": "\u5915\u65e5",
       "url": "https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg"
@@ -3016,7 +3114,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 286394,
       "name": "\u5b64\u72ec\u306e\u97f3\u304c\u805e\u3053\u3048\u308b",
       "url": "https://open.spotify.com/track/58b3yoz6divbjfjlroSfOz"
@@ -3070,7 +3168,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 167400,
       "name": "\u604b\u611b\u5f8c\u907a\u75c7",
       "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
@@ -3142,7 +3240,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 328706,
       "name": "\u611b\u306b\u3064\u3044\u3066",
       "url": "https://open.spotify.com/track/1R26bjS5hoUbec99Zq8w06"
@@ -3196,7 +3294,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"
@@ -3722,7 +3820,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 243221,
       "name": "\u878d\u89e3sink",
       "url": "https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct"
@@ -3794,7 +3892,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 126566,
       "name": "\u90fd\u4f1a\u75c5",
       "url": "https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy"

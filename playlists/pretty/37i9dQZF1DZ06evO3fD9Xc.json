@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103984,
+  "num_followers": 103991,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADkwlemrAEJndyOAK+nPSMY",
+  "snapshot_id": "aW7FgAAAAADZcHxJeFShQ3sAA8Wc54nS",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Me Sueltes",
-        "url": "https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 180786,
-      "name": "Qu\u00e9 Bueno Que Fuiste T\u00fa",
-      "url": "https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Me Sueltes",
+        "url": "https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 180786,
+      "name": "Qu\u00e9 Bueno Que Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
       "duration_ms": 187477,
       "name": "Por Siempre Mi Amor",
       "url": "https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Buena Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/77CnYt4OBz9RcScXtagsC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Buena Se\u00f1al",
-      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Soy Tu Prioridad",
-        "url": "https://open.spotify.com/album/35RISOHlq7naiyMdH2AMUU"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 204274,
-      "name": "No Soy Tu Prioridad",
-      "url": "https://open.spotify.com/track/3j6WUJuUYrJolzauQSWl3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Merecemos Perdonarnos (En Vivo)",
         "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 195000,
       "name": "Merecemos Perdonarnos (En Vivo)",
       "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Soy Tu Prioridad",
+        "url": "https://open.spotify.com/album/35RISOHlq7naiyMdH2AMUU"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 204274,
+      "name": "No Soy Tu Prioridad",
+      "url": "https://open.spotify.com/track/3j6WUJuUYrJolzauQSWl3l"
     },
     {
       "added_at": null,

@@ -1,28 +1,28 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring altrice.\n",
-  "num_followers": 209583,
+  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Rino.\n",
+  "num_followers": 209601,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKm8ZZAeXNcIXoNbNe6GCUYQ+E/d",
+  "snapshot_id": "AAAAAHh09Ph0saut307QR6sruYmfZzRN",
   "tracks": [
     {
-      "added_at": "2026-01-15 15:31:15",
+      "added_at": "2026-01-21 18:53:17",
       "album": {
-        "name": "think & dream",
-        "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
+        "name": "Could Be Us",
+        "url": "https://open.spotify.com/album/7mdtrUiVfSAJqU5hqvWLl7"
       },
       "artists": [
         {
-          "name": "altrice",
-          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
         }
       ],
-      "duration_ms": 216774,
-      "name": "think & dream",
-      "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
+      "duration_ms": 168927,
+      "name": "Could Be Us",
+      "url": "https://open.spotify.com/track/2uaavMJEdha8CM9cSDCd2m"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -47,6 +47,38 @@
     {
       "added_at": "2026-01-15 15:31:15",
       "album": {
+        "name": "think & dream",
+        "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "think & dream",
+      "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/6pO53drQ05K22RL1Ac7cwT"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/5ELPO5jIJsvx01w5WIpXXf"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
         "name": "Certi EP",
         "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
       },
@@ -59,54 +91,6 @@
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/19wqpXo5KGyYLE4QMVCiVj"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "I Get This Feeling",
-        "url": "https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5"
-      },
-      "artists": [
-        {
-          "name": "Slaycey",
-          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "I Get This Feeling",
-      "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Body Drift",
-        "url": "https://open.spotify.com/album/4ld5TL0DtX4khDspc0rBZa"
-      },
-      "artists": [
-        {
-          "name": "BAUGRUPPE90",
-          "url": "https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "Body Drift",
-      "url": "https://open.spotify.com/track/4pUnr7t45pp0CwV534HinV"
     },
     {
       "added_at": "2026-01-15 15:31:15",
@@ -161,6 +145,154 @@
       "url": "https://open.spotify.com/track/55CMFV6MyOXW845UQeIDeu"
     },
     {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Brain",
+        "url": "https://open.spotify.com/album/08Q5LvgHul1FRzgAHJGInQ"
+      },
+      "artists": [
+        {
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        },
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
+        }
+      ],
+      "duration_ms": 424390,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "DONGURI ZOO",
+        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "duration_ms": 139384,
+      "name": "GORILLA",
+      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "I Get This Feeling",
+        "url": "https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5"
+      },
+      "artists": [
+        {
+          "name": "Slaycey",
+          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "I Get This Feeling",
+      "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        }
+      ],
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "Future Chic EP",
+        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
+      },
+      "artists": [
+        {
+          "name": "Davide Dev",
+          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
+        }
+      ],
+      "duration_ms": 167841,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Desire of Love",
+        "url": "https://open.spotify.com/album/7An6AagFEjVuX5lZe6CbVL"
+      },
+      "artists": [
+        {
+          "name": "Djomood",
+          "url": "https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO"
+        }
+      ],
+      "duration_ms": 223843,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/4iNrrIcQH94hGaan1KalLe"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/19wqpXo5KGyYLE4QMVCiVj"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "Body Drift",
+        "url": "https://open.spotify.com/album/4ld5TL0DtX4khDspc0rBZa"
+      },
+      "artists": [
+        {
+          "name": "BAUGRUPPE90",
+          "url": "https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "Body Drift",
+      "url": "https://open.spotify.com/track/4pUnr7t45pp0CwV534HinV"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Club Nostalgia",
+        "url": "https://open.spotify.com/album/23jZ4KydwdjM0pprkozKAn"
+      },
+      "artists": [
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "duration_ms": 391836,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4rfNBDqU7qSp0S81ci8qqb"
+    },
+    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Needed U",
@@ -183,6 +315,22 @@
     {
       "added_at": "2026-01-15 15:31:15",
       "album": {
+        "name": "Gonna B",
+        "url": "https://open.spotify.com/album/5sac9JyxOEqMMQZt35M4We"
+      },
+      "artists": [
+        {
+          "name": "zacattacq",
+          "url": "https://open.spotify.com/artist/27a1KqccmjqualZvUVfTKT"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Gonna B",
+      "url": "https://open.spotify.com/track/1HPq0oeVwlh291dUg6eFue"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4N5IWtgq34vNQ7kkifSo4H"
       },
@@ -199,6 +347,38 @@
       "duration_ms": 209577,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/52n9w0fmTgeHE65isG7UQg"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "duration_ms": 142501,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3svsKJVvTZXH7gyF1JJeMm"
+      },
+      "artists": [
+        {
+          "name": "Matteo Dentone",
+          "url": "https://open.spotify.com/artist/6bnlOYU0ysNyxyeJiehWMJ"
+        }
+      ],
+      "duration_ms": 357209,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6HaA3BSC1GRUN6zEvS9y5r"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -247,22 +427,6 @@
       "duration_ms": 149558,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/6yHRGd0A1mF3tys6GNTlnD"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Gonna B",
-        "url": "https://open.spotify.com/album/5sac9JyxOEqMMQZt35M4We"
-      },
-      "artists": [
-        {
-          "name": "zacattacq",
-          "url": "https://open.spotify.com/artist/27a1KqccmjqualZvUVfTKT"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Gonna B",
-      "url": "https://open.spotify.com/track/1HPq0oeVwlh291dUg6eFue"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -315,6 +479,22 @@
       "duration_ms": 178671,
       "name": "Show Me The Lights",
       "url": "https://open.spotify.com/track/5v5O4LVum9OcKTCLujjq1m"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Digital Phase",
+        "url": "https://open.spotify.com/album/6z4US4lv5w0viozBKNrwX9"
+      },
+      "artists": [
+        {
+          "name": "AlwinB",
+          "url": "https://open.spotify.com/artist/4FbcjabRL68Gm3Y7bSpM2c"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Digital Phase",
+      "url": "https://open.spotify.com/track/7k2ENVUtN4CwJnrU6jJ4Ih"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -443,22 +623,6 @@
       "duration_ms": 239066,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/6rlamVUaw3gEWMSI5BKjNH"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Future Chic EP",
-        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
-      },
-      "artists": [
-        {
-          "name": "Davide Dev",
-          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
     },
     {
       "added_at": "2026-01-16 05:00:41",

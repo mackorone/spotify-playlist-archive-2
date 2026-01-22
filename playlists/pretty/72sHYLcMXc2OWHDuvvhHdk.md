@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,213 songs - 5 day 9 hr 34 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 554 likes - 2,234 songs - 5 day 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2221,5 +2221,26 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2211 | [Past, Present and Future](https://open.spotify.com/track/45WERxx7yju1Uw1M6hLcZP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/7287Xttv3A5IdTikDJZZG0) | 3:53 |
 | 2212 | [Yeti](https://open.spotify.com/track/1QkzEOEWdjDPEzHO4dCD7M) | [NAHO](https://open.spotify.com/artist/41uWslIMyRwwThLcprJvNb) | [Yeti](https://open.spotify.com/album/7rtEUrBcxU8Nq4vagIh3YG) | 3:04 |
 | 2213 | [Volverte A Ver](https://open.spotify.com/track/6wJ7Y3zs6zW1dirjIq0nMn) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Volverte A Ver](https://open.spotify.com/album/3uigmjEJPtau8rlzhMa3Bv) | 2:51 |
+| 2214 | [Riverside](https://open.spotify.com/track/1tL4c3xivG2cVT0hubwiui) | [Andy Fisher](https://open.spotify.com/artist/1YYshrOiAwARBAknqSoEkI) | [Familiar](https://open.spotify.com/album/2LvUPVGeHXzCmHHJUlLtfS) | 4:21 |
+| 2215 | [Girls' nite Out](https://open.spotify.com/track/0BU9A9260KAE4mOKDet9SP) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Girls' nite Out](https://open.spotify.com/album/1kd0Zk065YJCciTsKxSxMo) | 3:33 |
+| 2216 | [It's Breaking My Heart \- Instrumental](https://open.spotify.com/track/3oGbDJUzp1GHe32ygfP8eN) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [It's Breaking My Heart \(Instrumental\)](https://open.spotify.com/album/1stEoAIuwf1YmRRaP82rHG) | 3:11 |
+| 2217 | [Rumble and Rubble](https://open.spotify.com/track/7M93tzpZ8rWeByE624tgtn) | [Les N\. Downs](https://open.spotify.com/artist/3nPBDcLcebkqz0srzgK1mB) | [Rumble and Rubble](https://open.spotify.com/album/1o4ybLmXRXYsVgkPRrsoUd) | 3:05 |
+| 2218 | [Hurt](https://open.spotify.com/track/4gntdpT6gYil6n7mvTIVzz) | [Alby](https://open.spotify.com/artist/2g4ifdWzdXBKcGEQIdQkCc) | [Hurt](https://open.spotify.com/album/6ceVvwPxf57q1WlwAoC1zR) | 3:15 |
+| 2219 | [New Rules](https://open.spotify.com/track/3jaRs2vcYGhh7pG97RiFVR) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm), [Nox Quartet](https://open.spotify.com/artist/4PyleKtYj9aWfygn3BCSbF) | [Ghost Town and Haunted Love](https://open.spotify.com/album/0jL0TKspnlMs5F4zlEBm2c) | 3:36 |
+| 2220 | [Satellite](https://open.spotify.com/track/6Uqjs3ywcA0Muqs1cs4OtV) | [Medley](https://open.spotify.com/artist/1qEKtIy2Z5mZEtpSB3Zai9) | [Satellite](https://open.spotify.com/album/4PhjR67ESmWe7loWwqaD34) | 3:05 |
+| 2221 | [Julia Roberts](https://open.spotify.com/track/7w8OBw2hHk0QfOb6sOr9bu) | [Danni Peace](https://open.spotify.com/artist/6gcqSvwVuGJrjAqMbdW0cY) | [Iridescent](https://open.spotify.com/album/768r5Yd2Rmjdk7rFp37fYk) | 2:32 |
+| 2222 | [El Santo Grial](https://open.spotify.com/track/0QjfHAkxsCtToFvYr1HOwE) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El Santo Grial](https://open.spotify.com/album/6hQEoHXxd0OsuB1xrSrknE) | 5:27 |
+| 2223 | [Honey](https://open.spotify.com/track/1ijBkzad4hGbC47Si9CAxa) | [Briggs & Stark](https://open.spotify.com/artist/3mayB3SwySCu4gifriaNXB) | [Honey](https://open.spotify.com/album/2AhVIrM5nBBLKUTfHP9c9t) | 3:37 |
+| 2224 | [Summer Feelings](https://open.spotify.com/track/1Bb0wa52MYgECVLLoJeVbj) | [Momo Mac](https://open.spotify.com/artist/1RnWU9BbdyBTU8DGvQQEwT), [Brahim Barjali](https://open.spotify.com/artist/37IOEIKtsUVtTBeNh4yL0m) | [Summer Feelings](https://open.spotify.com/album/04MMBvuuBrLrhkmWXwV4TQ) | 3:06 |
+| 2225 | [I Adore You](https://open.spotify.com/track/0k7ywWUz7GnbBAJIhvjxCD) | [Hudson Murray](https://open.spotify.com/artist/64Ytpz9KrL0P7WQaMVPPy3) | [Stars Aligned](https://open.spotify.com/album/2IWGP4nPo5BcBuUTNEZzWG) | 3:28 |
+| 2226 | [I Miss You](https://open.spotify.com/track/2Wxx32PBzxB4tAuQK346Vx) | [Momo Mac](https://open.spotify.com/artist/1RnWU9BbdyBTU8DGvQQEwT), [Brahim Barjali](https://open.spotify.com/artist/37IOEIKtsUVtTBeNh4yL0m) | [I Miss You](https://open.spotify.com/album/00ORjkuQtoYplm9Sulshaa) | 2:40 |
+| 2227 | [Raspberry Picking](https://open.spotify.com/track/1bCm5EInz6EEFGEtdVK4cI) | [Gavriel Kahane](https://open.spotify.com/artist/2V32grgqKmpe1SAA5bbJ2K) | [Raspberry Picking](https://open.spotify.com/album/3wsDpucG0nJgpn3M1JzKWo) | 3:29 |
+| 2228 | [Luce](https://open.spotify.com/track/04Ur6UJaFMQS8zRlNCmbfE) | [Simone Grazioli](https://open.spotify.com/artist/2DvRDUHqzT2e8bfKxDEwrS) | [La Fuga](https://open.spotify.com/album/2o5bxzrjUQJsOVEefCwZgD) | 4:14 |
+| 2229 | [Blind Faith](https://open.spotify.com/track/3nntpWzSUm61YaLy5MYqTm) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Blind Faith](https://open.spotify.com/album/2dvToE0xWlFUbh0GhFxaWB) | 3:38 |
+| 2230 | [Icon](https://open.spotify.com/track/4kK1b2DaVJ7vgBRIOLq1D3) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Icon](https://open.spotify.com/album/5pS7mcCvTYanPYeESgeyQD) | 2:43 |
+| 2231 | [Love you more](https://open.spotify.com/track/7dWHy51g8AfSriEUMhgvQK) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [feel.](https://open.spotify.com/album/78G8iIuBhxtyWsr8KjsrKZ) | 3:42 |
+| 2232 | [These City Streets](https://open.spotify.com/track/3ZocmxFRkWcx2hLp0hce18) | [VaterSon](https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl) | [These City Streets](https://open.spotify.com/album/2tnlxcijFM3RZP3yj2sGqE) | 4:48 |
+| 2233 | [Time](https://open.spotify.com/track/0ahKZz6SjzCYHsJ6O3pXOx) | [ZachTVincent](https://open.spotify.com/artist/4pv9NhXj4qOgBwXCOje7s7) | [The Overtly Complex Dichotomy Of Simultaneously Hurting While Healing](https://open.spotify.com/album/7zvGTyKl9BgkVIFretrA5o) | 2:48 |
+| 2234 | [over and over](https://open.spotify.com/track/6tSm3QnFEJoDeBwb9Bekjt) | [t.d.g](https://open.spotify.com/artist/37gNMdgAhvOLH8jmkd4OcP) | [over and over](https://open.spotify.com/album/6mIrzko1EbZrZG3kzSZNHD) | 2:29 |
 
-Snapshot ID: `AAAJOpKI2XFXypYU7MezcezjY4/hD25b`
+Snapshot ID: `AAAJTymLH9VxByZSoLhq4VdN3BIq3k1l`

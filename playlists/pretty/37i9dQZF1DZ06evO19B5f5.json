@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAwpPbDuOcXUIzHJ5NwMAab",
+  "snapshot_id": "aW7FgAAAAABIxM48v8AVndQZ5Ywx8FnG",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 237338,
-      "name": "Thinking About",
-      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
+      "duration_ms": 216578,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost World (Piano Versions)",
         "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Kicks",
-      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
+      "duration_ms": 237338,
+      "name": "Thinking About",
+      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
     },
     {
       "added_at": null,
@@ -396,41 +396,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Swap Places",
-      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 202848,
-      "name": "Suddenly Strangers",
-      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+      "duration_ms": 174138,
+      "name": "Fuckedupminddd",
+      "url": "https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr"
     },
     {
       "added_at": null,
@@ -451,6 +419,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 258598,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghost World",
         "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 174138,
-      "name": "Fuckedupminddd",
-      "url": "https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr"
+      "duration_ms": 204000,
+      "name": "Swap Places",
+      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 258598,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+      "duration_ms": 202848,
+      "name": "Suddenly Strangers",
+      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
     },
     {
       "added_at": null,

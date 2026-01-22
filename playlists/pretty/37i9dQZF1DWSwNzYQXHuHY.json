@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11825,
+  "num_followers": 11828,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-01-13 07:48:42",
       "album": {
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+    },
+    {
+      "added_at": "2026-01-13 07:48:42",
+      "album": {
         "name": "MY PRIDE",
         "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
-    },
-    {
-      "added_at": "2026-01-13 07:48:42",
-      "album": {
-        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        },
-        {
-          "name": "Naeun",
-          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
       "added_at": "2026-01-13 07:48:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532 likes - 108 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 108 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 9 | [From the Bottle to the Bottom](https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 2:58 |
 | 10 | [The Pilgrim, Chapter 33](https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:12 |
 | 11 | [To Beat the Devil](https://open.spotify.com/track/3QkUapNCfV3hJFevn6poz3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:45 |
-| 12 | [If You Don't Like Hank Williams](https://open.spotify.com/track/23LeJLXuEVyHZMIJD8NYne) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5tq8ZTX4xFRtStsQ1KNUgZ) | 3:31 |
-| 13 | [Living Legend](https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:00 |
+| 12 | [Living Legend](https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:00 |
+| 13 | [If You Don't Like Hank Williams](https://open.spotify.com/track/23LeJLXuEVyHZMIJD8NYne) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5tq8ZTX4xFRtStsQ1KNUgZ) | 3:31 |
 | 14 | [Best of All Possible Worlds](https://open.spotify.com/track/2Aakqasjc65Fn8AnQPpznq) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 3:03 |
 | 15 | [Border Lord](https://open.spotify.com/track/7K6hgujHZQWPxGmc8GDrUr) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 3:39 |
 | 16 | [I'd Rather Be Sorry](https://open.spotify.com/track/1KGxMIKlx801YCg9j0a8Pq) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/07L6X7zCWvJPGkhkfRHdL2) | 3:10 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcHewgAAAAAOdHpSLx7FIU0wXk+Wa7tg`
+Snapshot ID: `AcHkngAAAACFMzAMhldcmR870ZxtII6m`

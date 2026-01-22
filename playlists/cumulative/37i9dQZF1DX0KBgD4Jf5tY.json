@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7ry1g6OMLhn01U5Ok1JfUc\">tabascomeno</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:58NJMW79swpy2lbC6BM35V\">Nico Arezzo</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2572,6 +2572,24 @@
       "duration_ms": 167628,
       "name": "Amore fai presto!",
       "url": "https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i"
+    },
+    {
+      "album": {
+        "name": "Amore Merkel",
+        "url": "https://open.spotify.com/album/4NYEdPbZf6dTApInLWcYAu"
+      },
+      "artists": [
+        {
+          "name": "tinai",
+          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186349,
+      "name": "Amore Merkel",
+      "url": "https://open.spotify.com/track/2ECcGk1PS5w2D6HaHdIN1V"
     },
     {
       "album": {
@@ -10411,6 +10429,24 @@
     },
     {
       "album": {
+        "name": "Dove si va",
+        "url": "https://open.spotify.com/album/4LFYZLxFF1N6f1k0lbQIis"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171895,
+      "name": "Dove si va",
+      "url": "https://open.spotify.com/track/0JvcY0D5PUPBAfjr7Np5SQ"
+    },
+    {
+      "album": {
         "name": "dove ti nascondi ???",
         "url": "https://open.spotify.com/album/3w1p3dLtE3aONWx4L4TgWB"
       },
@@ -10614,7 +10650,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 210285,
       "name": "Dreamworks",
       "url": "https://open.spotify.com/track/4dxEPdT9Y6YwiWU4hbG1I0"
@@ -14795,6 +14831,24 @@
     },
     {
       "album": {
+        "name": "Ho avuto una disavventura",
+        "url": "https://open.spotify.com/album/13mvzpElES4iID8I8VSRV2"
+      },
+      "artists": [
+        {
+          "name": "Fitza",
+          "url": "https://open.spotify.com/artist/55USAUiYquxBZIn1UJN0BM"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322582,
+      "name": "Ho avuto una disavventura",
+      "url": "https://open.spotify.com/track/4uTGKhXTGA0ptcvBB75gKZ"
+    },
+    {
+      "album": {
         "name": "Ho coltivato un fiore",
         "url": "https://open.spotify.com/album/0eRFr3QvBj9xHjObImourJ"
       },
@@ -16056,7 +16110,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 145185,
       "name": "IMPROVVISAMENTE UN LAMPO",
       "url": "https://open.spotify.com/track/27dMtduGqukED13yP1EliH"
@@ -18596,7 +18650,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 342098,
       "name": "Licheni",
       "url": "https://open.spotify.com/track/0vYU2N9S2cQb6KZoOdHmAK"
@@ -18744,7 +18798,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 131538,
       "name": "LIPGLOSS",
       "url": "https://open.spotify.com/track/3s9XbAdYehEKUvt8uAmJlM"
@@ -20371,6 +20425,28 @@
     },
     {
       "album": {
+        "name": "Non c'\u00e8 fretta",
+        "url": "https://open.spotify.com/album/1NkZTdXR5mfB3rSCQMF5xQ"
+      },
+      "artists": [
+        {
+          "name": "Nico Arezzo",
+          "url": "https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V"
+        },
+        {
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "manifestami",
+      "url": "https://open.spotify.com/track/4Ik1KRdSCvJqyOJdw5icxF"
+    },
+    {
+      "album": {
         "name": "MANIFESTO",
         "url": "https://open.spotify.com/album/5kACMMmm4LqVBWMJIw9rU5"
       },
@@ -21388,6 +21464,24 @@
       "duration_ms": 128906,
       "name": "Milano sei tossica",
       "url": "https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL"
+    },
+    {
+      "album": {
+        "name": "Milikituli",
+        "url": "https://open.spotify.com/album/2KUWxiPRuUwSBu97R765MW"
+      },
+      "artists": [
+        {
+          "name": "ETT",
+          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Milikituli",
+      "url": "https://open.spotify.com/track/53Uzxrx0m4zpFQLVraTI5J"
     },
     {
       "album": {
@@ -27755,6 +27849,24 @@
     },
     {
       "album": {
+        "name": "GARDEN CITY CLUB",
+        "url": "https://open.spotify.com/album/1XOgirOpGEkKtbunuBodEP"
+      },
+      "artists": [
+        {
+          "name": "ISLA",
+          "url": "https://open.spotify.com/artist/1kxIH0LbXAHPlBQsEqJAGt"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275394,
+      "name": "PI\u016e IN L\u1eae",
+      "url": "https://open.spotify.com/track/7qVtvVH8lL3b8quOy7cyWg"
+    },
+    {
+      "album": {
         "name": "Controluce",
         "url": "https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I"
       },
@@ -28776,7 +28888,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 166209,
       "name": "Quale canzone vuoi che siamo?",
       "url": "https://open.spotify.com/track/5Pgb9H3cc0H1iC6tPEqICS"
@@ -30871,6 +30983,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/18EkNu9avHekSyygEtqfl9"
+      },
+      "artists": [
+        {
+          "name": "Heavywave",
+          "url": "https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300653,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/1XxbCCDX1NtoajhOONMtEj"
+    },
+    {
+      "album": {
         "name": "scatole vuote",
         "url": "https://open.spotify.com/album/6iwbz4t7lV95uWjFy732ut"
       },
@@ -31414,7 +31544,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 165000,
       "name": "SEMPREMEGLIO!",
       "url": "https://open.spotify.com/track/2RAUkfrqruwqE14czCqcq7"
@@ -32192,6 +32322,24 @@
       "duration_ms": 178544,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5"
+    },
+    {
+      "album": {
+        "name": "SINCERO",
+        "url": "https://open.spotify.com/album/5avIRhBNfk1uRbZW2gWhbE"
+      },
+      "artists": [
+        {
+          "name": "Kalpa",
+          "url": "https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "SINCERO",
+      "url": "https://open.spotify.com/track/3tIsnUb326knP0NetjGHeD"
     },
     {
       "album": {
@@ -35970,7 +36118,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 160717,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/0GbBj46JK9KReIqUkZczEZ"
@@ -37306,7 +37454,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 232250,
       "name": "Unica parte",
       "url": "https://open.spotify.com/track/2z1GP2wdIJxOXyigmjVvwo"
@@ -37448,6 +37596,24 @@
       "duration_ms": 222545,
       "name": "Urla con me",
       "url": "https://open.spotify.com/track/1J85ap4LV65jCJ5oUfWxcH"
+    },
+    {
+      "album": {
+        "name": "Urlo",
+        "url": "https://open.spotify.com/album/0ah1hRMWWvzWMRlkVEbo1A"
+      },
+      "artists": [
+        {
+          "name": "Osaka Flu",
+          "url": "https://open.spotify.com/artist/3ttfg3zusdmYOFZYPGo8MD"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "Urlo",
+      "url": "https://open.spotify.com/track/1jOiOzOLZYixUFCTuhRnWk"
     },
     {
       "album": {
@@ -38304,7 +38470,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 189473,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6DQt1SQD6WEbo08puUmTyc"

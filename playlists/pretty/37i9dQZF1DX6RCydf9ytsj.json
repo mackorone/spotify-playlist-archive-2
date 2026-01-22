@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 718072,
+  "num_followers": 718194,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Best Of Kenny Rogers: Through The Years",
         "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 262079,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The First Of A Million Kisses",
-        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
-      },
-      "artists": [
-        {
-          "name": "Fairground Attraction",
-          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 185573,
       "name": "My Favorite Memory",
       "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The First Of A Million Kisses",
+        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
+      },
+      "artists": [
+        {
+          "name": "Fairground Attraction",
+          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "Redneck Girl",
-      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 187066,
       "name": "Little Rock",
       "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "Redneck Girl",
+      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Milestones- Greatest Hits",
         "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 209466,
       "name": "Daddy's Hands",
       "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "She Got the Goldmine (I Got the Shaft)",
-      "url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 202226,
       "name": "Only One You",
       "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "She Got the Goldmine (I Got the Shaft)",
+      "url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
     },
     {
       "added_at": "2024-10-14 21:15:40",

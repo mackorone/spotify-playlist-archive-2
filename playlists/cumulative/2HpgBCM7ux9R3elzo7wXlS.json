@@ -6423,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523333,
+      "name": "Funeralopolis",
+      "url": "https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0"
+    },
+    {
+      "album": {
         "name": "FXCK UP THE WORLD (feat. Future)",
         "url": "https://open.spotify.com/album/2yFUY0P4ie8NDZYgBRZuTA"
       },

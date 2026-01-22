@@ -1,13 +1,29 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59626,
+  "num_followers": 59627,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAsknuwe51F63ZnS3QlYT0SR3fNvU9v",
+  "snapshot_id": "AAAsn1/tFR5GN1Wi9VQfm28iMoR83lPa",
   "tracks": [
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "Crooked Lines",
+        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Eden",
+          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+        }
+      ],
+      "duration_ms": 164952,
+      "name": "Apple Core",
+      "url": "https://open.spotify.com/track/3yjjUq0G3fuUWUElqCCcHX"
+    },
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
@@ -195,6 +211,38 @@
       "duration_ms": 255458,
       "name": "Face Of Love",
       "url": "https://open.spotify.com/track/2QGVkUcGdmCK1EiRAJC1XP"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "BREAK",
+        "url": "https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "Nobody's Bored Anymore",
+        "url": "https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H"
+      },
+      "artists": [
+        {
+          "name": "Peter The Human Boy",
+          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
+        }
+      ],
+      "duration_ms": 234575,
+      "name": "Nobody's Bored Anymore",
+      "url": "https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -423,6 +471,42 @@
       "duration_ms": 243193,
       "name": "Cheddar Man",
       "url": "https://open.spotify.com/track/4vQEWEr385XsOrCIDE1VPQ"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "sweet dreams, see you tomorrow",
+        "url": "https://open.spotify.com/album/70dHr0NR18d9wDcts9cCT7"
+      },
+      "artists": [
+        {
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+        },
+        {
+          "name": "LUWTEN",
+          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "no difference (ft. LUWTEN)",
+      "url": "https://open.spotify.com/track/21V1EjrNsLu2bstoVYMbsq"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "I Will Not Be Like That",
+        "url": "https://open.spotify.com/album/7DNdEgb7ZLRQCYwQEHcfWV"
+      },
+      "artists": [
+        {
+          "name": "Ea Othilde",
+          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
+        }
+      ],
+      "duration_ms": 277720,
+      "name": "You're on the Loose",
+      "url": "https://open.spotify.com/track/2Uh5rTqsyyq9uN4A8xp9if"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -3119,6 +3203,22 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
+        "name": "The Moon Is a Harsh Mistress",
+        "url": "https://open.spotify.com/album/0wzsNoLN1rzCYi8QhtGe5Y"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sideliner",
+      "url": "https://open.spotify.com/track/45OKk1HESA2kc85Zcrnwim"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
         "name": "Hex Key",
         "url": "https://open.spotify.com/album/71gvpd2oNaGwGmbqXOk8zk"
       },
@@ -3131,38 +3231,6 @@
       "duration_ms": 197933,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/3POqTfHky5SIYc4wzgDd8j"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Switcheroo",
-        "url": "https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap"
-      },
-      "artists": [
-        {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
-        }
-      ],
-      "duration_ms": 212267,
-      "name": "Bounce House",
-      "url": "https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Blood On the Silver Screen",
-        "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "The Seed",
-      "url": "https://open.spotify.com/track/0NovhVzOKKzUGB6ltpkVFB"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -3187,18 +3255,18 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
-        "name": "The Moon Is a Harsh Mistress",
-        "url": "https://open.spotify.com/album/0wzsNoLN1rzCYi8QhtGe5Y"
+        "name": "Blood On the Silver Screen",
+        "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
       },
       "artists": [
         {
-          "name": "vern matz",
-          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Sideliner",
-      "url": "https://open.spotify.com/track/45OKk1HESA2kc85Zcrnwim"
+      "duration_ms": 216131,
+      "name": "The Seed",
+      "url": "https://open.spotify.com/track/0NovhVzOKKzUGB6ltpkVFB"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -3247,6 +3315,22 @@
       "duration_ms": 212672,
       "name": "Pierced.",
       "url": "https://open.spotify.com/track/3WWkCUrDN0bBATeYB66hFP"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 212267,
+      "name": "Bounce House",
+      "url": "https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -3427,22 +3511,6 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
-        "name": "BREAK",
-        "url": "https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK"
-      },
-      "artists": [
-        {
-          "name": "Max Baby",
-          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
         "name": "Goodbyehouse",
         "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
       },
@@ -3511,22 +3579,6 @@
       "duration_ms": 174785,
       "name": "Big Bad Bubble Boy",
       "url": "https://open.spotify.com/track/6mp2XssdIXxPOxoiC1aUQz"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Nobody's Bored Anymore",
-        "url": "https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H"
-      },
-      "artists": [
-        {
-          "name": "Peter The Human Boy",
-          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
-        }
-      ],
-      "duration_ms": 234575,
-      "name": "Nobody's Bored Anymore",
-      "url": "https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -3687,22 +3739,6 @@
       "duration_ms": 301294,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/03LEmhNBegl0Hd1616epaf"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Crooked Lines",
-        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
-      },
-      "artists": [
-        {
-          "name": "Gaspard Eden",
-          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
-        }
-      ],
-      "duration_ms": 164952,
-      "name": "Apple Core",
-      "url": "https://open.spotify.com/track/3yjjUq0G3fuUWUElqCCcHX"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -3959,22 +3995,6 @@
       "duration_ms": 253495,
       "name": "stupid",
       "url": "https://open.spotify.com/track/26rM6YyCvU62rLT9UYKGr7"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "I Let the Wind Push Down On Me",
-        "url": "https://open.spotify.com/album/3xFtLS72GjChmWzEObOYuy"
-      },
-      "artists": [
-        {
-          "name": "Moontype",
-          "url": "https://open.spotify.com/artist/1A0MGKQWFrqBVWMuI9984t"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Four Hands ii",
-      "url": "https://open.spotify.com/track/3Zxgm6YbkOMEcMfYGC8XNf"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -4495,22 +4515,6 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
-        "name": "Holly",
-        "url": "https://open.spotify.com/album/02jrq50utCBlSaXIrd3QoV"
-      },
-      "artists": [
-        {
-          "name": "Casino Hearts",
-          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
-        }
-      ],
-      "duration_ms": 234485,
-      "name": "Holly",
-      "url": "https://open.spotify.com/track/5SXGNY8iwTa4TlgR6xdNMM"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
         "name": "sofie",
         "url": "https://open.spotify.com/album/7tT3JNDozxidpHCXVjTkMr"
       },
@@ -4607,22 +4611,6 @@
       "duration_ms": 171125,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/301Ku0qR3bOfP5Oq6fRVx7"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "Did You Sleep All Right?",
-        "url": "https://open.spotify.com/album/2QA9i9gSjLnDjajnL32vFD"
-      },
-      "artists": [
-        {
-          "name": "Lowne",
-          "url": "https://open.spotify.com/artist/6wW9AbXNDhoR0ECNFMUosk"
-        }
-      ],
-      "duration_ms": 161188,
-      "name": "Yard Sale",
-      "url": "https://open.spotify.com/track/1xyMO1QJJP0TdPbUeQSC4z"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -5135,42 +5123,6 @@
       "duration_ms": 144851,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/2j4vQSgLD6Z7WleY4xlkoS"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "sweet dreams, see you tomorrow",
-        "url": "https://open.spotify.com/album/70dHr0NR18d9wDcts9cCT7"
-      },
-      "artists": [
-        {
-          "name": "la loye",
-          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
-        },
-        {
-          "name": "LUWTEN",
-          "url": "https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "no difference (ft. LUWTEN)",
-      "url": "https://open.spotify.com/track/21V1EjrNsLu2bstoVYMbsq"
-    },
-    {
-      "added_at": "2026-01-11 10:12:14",
-      "album": {
-        "name": "I Will Not Be Like That",
-        "url": "https://open.spotify.com/album/7DNdEgb7ZLRQCYwQEHcfWV"
-      },
-      "artists": [
-        {
-          "name": "Ea Othilde",
-          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
-        }
-      ],
-      "duration_ms": 277720,
-      "name": "You're on the Loose",
-      "url": "https://open.spotify.com/track/2Uh5rTqsyyq9uN4A8xp9if"
     },
     {
       "added_at": "2026-01-11 10:12:14",
@@ -7391,6 +7343,22 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
+        "name": "I Let the Wind Push Down On Me",
+        "url": "https://open.spotify.com/album/3xFtLS72GjChmWzEObOYuy"
+      },
+      "artists": [
+        {
+          "name": "Moontype",
+          "url": "https://open.spotify.com/artist/1A0MGKQWFrqBVWMuI9984t"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Four Hands ii",
+      "url": "https://open.spotify.com/track/3Zxgm6YbkOMEcMfYGC8XNf"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
         "name": "Cane Trash",
         "url": "https://open.spotify.com/album/6bTrWBNNL578hbaFN9Ugkm"
       },
@@ -8783,6 +8751,22 @@
     {
       "added_at": "2026-01-11 10:12:14",
       "album": {
+        "name": "Holly",
+        "url": "https://open.spotify.com/album/02jrq50utCBlSaXIrd3QoV"
+      },
+      "artists": [
+        {
+          "name": "Casino Hearts",
+          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
+        }
+      ],
+      "duration_ms": 234485,
+      "name": "Holly",
+      "url": "https://open.spotify.com/track/5SXGNY8iwTa4TlgR6xdNMM"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
       },
@@ -9151,6 +9135,22 @@
       "duration_ms": 149645,
       "name": "DROWNING IN MY ROOM",
       "url": "https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0"
+    },
+    {
+      "added_at": "2026-01-11 10:12:14",
+      "album": {
+        "name": "Did You Sleep All Right?",
+        "url": "https://open.spotify.com/album/2QA9i9gSjLnDjajnL32vFD"
+      },
+      "artists": [
+        {
+          "name": "Lowne",
+          "url": "https://open.spotify.com/artist/6wW9AbXNDhoR0ECNFMUosk"
+        }
+      ],
+      "duration_ms": 161188,
+      "name": "Yard Sale",
+      "url": "https://open.spotify.com/track/1xyMO1QJJP0TdPbUeQSC4z"
     },
     {
       "added_at": "2026-01-11 10:12:14",

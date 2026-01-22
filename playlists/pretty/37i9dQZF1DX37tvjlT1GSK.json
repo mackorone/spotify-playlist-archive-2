@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. DANNY DUARTE en cover.",
-  "num_followers": 818139,
+  "num_followers": 818228,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-01-09 18:26:53",
       "album": {
+        "name": "Quiero Presumirte",
+        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
+      },
+      "artists": [
+        {
+          "name": "Picassoo",
+          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+        }
+      ],
+      "duration_ms": 242227,
+      "name": "Quiero Presumirte",
+      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
+    },
+    {
+      "added_at": "2026-01-09 18:26:53",
+      "album": {
         "name": "Cielo Eterno - Spotify Singles",
         "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 176111,
       "name": "No Eramos Pobres",
       "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
-    },
-    {
-      "added_at": "2026-01-09 18:26:53",
-      "album": {
-        "name": "Quiero Presumirte",
-        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
-      },
-      "artists": [
-        {
-          "name": "Picassoo",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
-        }
-      ],
-      "duration_ms": 242227,
-      "name": "Quiero Presumirte",
-      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
     },
     {
       "added_at": "2026-01-09 18:26:53",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2026-01-09 18:26:53",
       "album": {
-        "name": "La Bestia",
-        "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
+        "name": "Si Estuviera el G\u00fcero",
+        "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 186368,
-      "name": "La Bestia",
-      "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+      "duration_ms": 245632,
+      "name": "Si Estuviera el G\u00fcero",
+      "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
     },
     {
       "added_at": "2026-01-09 18:26:53",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-01-09 18:26:53",
       "album": {
-        "name": "Si Estuviera el G\u00fcero",
-        "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 245632,
-      "name": "Si Estuviera el G\u00fcero",
-      "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
-    },
-    {
-      "added_at": "2026-01-09 18:26:53",
-      "album": {
         "name": "Besito Con Humo",
         "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 145658,
       "name": "Besito Con Humo",
       "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
+    },
+    {
+      "added_at": "2026-01-09 18:26:53",
+      "album": {
+        "name": "La Bestia",
+        "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186368,
+      "name": "La Bestia",
+      "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
     },
     {
       "added_at": "2026-01-09 18:26:53",

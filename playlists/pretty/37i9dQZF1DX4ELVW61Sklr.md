@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,381 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,352 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 72 | [Somebody's Waiting](https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:01 |
 | 73 | [Here \(For Christmas\)](https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Here \(For Christmas\)](https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw) | 4:13 |
 | 74 | [Christmas, Love, and You](https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Christmas, Love And You](https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8) | 4:21 |
-| 75 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
-| 76 | [Christmas Without You](https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:07 |
+| 75 | [Christmas Without You](https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:07 |
+| 76 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 77 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:32 |
 | 78 | [Make It Home \(feat\. PJ Morton & Sevyn Streeter\)](https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 3:47 |
 | 79 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 |

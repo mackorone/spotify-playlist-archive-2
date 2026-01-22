@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255862,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl"
+    },
+    {
+      "album": {
         "name": "Tough Boy",
         "url": "https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa"
       },

@@ -1509,6 +1509,32 @@
     },
     {
       "album": {
+        "name": "Student of the Year 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5In3GTimXB6DglHOxzYJ9N"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Sanam Puri",
+          "url": "https://open.spotify.com/artist/5kiKQJrz4BT7vFWVECAmHH"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288019,
+      "name": "Fakira",
+      "url": "https://open.spotify.com/track/6zfKeRGBzsk6EnJnpoDd6I"
+    },
+    {
+      "album": {
         "name": "Shamshera",
         "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
       },
@@ -2483,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Shaadi Mein Zaroor Aana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76nDpzUq38C4Kigy4WvDvQ"
+      },
+      "artists": [
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Aakanksha Sharma",
+          "url": "https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273188,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/2tqIKAq7jGWdt7u6Gb8tRF"
+    },
+    {
+      "album": {
         "name": "Shiddat",
         "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
       },
@@ -3028,7 +3076,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 221117,
       "name": "Koi Naa (From \"Bhool Chuk Maaf\")",
       "url": "https://open.spotify.com/track/23UKXgXmLkT0XyPBeKx2gP"
@@ -4274,7 +4322,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 184312,
       "name": "Naseeb Se (From \"Satyaprem Ki Katha\")",
       "url": "https://open.spotify.com/track/3dpM3ijJz0vGzbkh5DcMXz"

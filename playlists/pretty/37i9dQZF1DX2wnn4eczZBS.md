@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,168 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,170 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 2 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 3 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 |
 | 4 | [Radio](https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Kleinkunst](https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe) | 2:24 |
-| 5 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
-| 6 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 |
+| 5 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 |
+| 6 | [Vrijheid, Gelijkheid, Zusterschap](https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 3:10 |
 | 7 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 |
 | 8 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
 | 9 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 41 | [Toen kwam jij](https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Toen kwam jij](https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ) | 4:14 |
 | 42 | [God Los](https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [God Los](https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS) | 3:43 |
 | 43 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
-| 44 | [Levelen](https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [Levelen](https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh) | 4:08 |
-| 45 | [Abrikoos](https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Abrikoos](https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp) | 2:49 |
-| 46 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
-| 47 | [Brighton Beach](https://open.spotify.com/track/4UMtmH4uu5nWW56YJ6FXXv) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Brighton Beach](https://open.spotify.com/album/1kov0KbGPkhNMyDuE6gH9Z) | 2:47 |
-| 48 | [Leonie](https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Leonie](https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS) | 3:16 |
+| 44 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
+| 45 | [Levelen](https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [Levelen](https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh) | 4:08 |
+| 46 | [Abrikoos](https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Abrikoos](https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp) | 2:49 |
+| 47 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
+| 48 | [Brighton Beach](https://open.spotify.com/track/4UMtmH4uu5nWW56YJ6FXXv) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Brighton Beach](https://open.spotify.com/album/1kov0KbGPkhNMyDuE6gH9Z) | 2:47 |
 | 49 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
-| 50 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
+| 50 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:21 |
 
 Snapshot ID: `AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E`

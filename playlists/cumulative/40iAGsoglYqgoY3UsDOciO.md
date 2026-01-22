@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-465 songs - 22 hr 38 min
+466 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Welcome 2 Tampa](https://open.spotify.com/track/6aaaHtMUii6XR7ie2yR4oe) | [Paris La Mont](https://open.spotify.com/artist/5vo2PcCvrUAkwDq3QFWI2e), [Kamrun](https://open.spotify.com/artist/3CBhIh0ajgoTA3NuLjUnX9) | [Welcome 2 Tampa](https://open.spotify.com/album/0aradu98cqDnUGMpZrztjU) | 3:45 | 2025-11-08 |  |
 | [WEpON](https://open.spotify.com/track/6AGAPtjTxunocausM2xBr3) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC) | [WEpON](https://open.spotify.com/album/2wGZbVFALPmi2R6fdkxhZE) | 1:48 | 2024-06-28 |  |
 | [Westside](https://open.spotify.com/track/4KZytfFyq6cFObYt40KQmj) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:24 | 2023-07-26 |  |
+| [What Happens When We Die?](https://open.spotify.com/track/0vzSRZuwogXh11G498bQW3) | [Tommy Snow](https://open.spotify.com/artist/7MD1sZsn15FxxsklgG5bNq) | [What Happens When We Die?](https://open.spotify.com/album/6o2z2D5mjubKDzXvkrfwaj) | 4:32 | 2026-01-21 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-26 |  |
 | [When It Comes To You](https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [When It Comes To You](https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi) | 2:48 | 2023-07-26 |  |
 | [When You, Love Someone](https://open.spotify.com/track/0UefkaKqYIm0aMd3knln7M) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:10 | 2023-07-26 |  |

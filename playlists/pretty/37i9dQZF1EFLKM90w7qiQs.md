@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 40 | [Elastic](https://open.spotify.com/track/5wYjxSORL66y2Ect1UpFrL) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Elastic](https://open.spotify.com/album/2ZaSkE7jnQ9dtbVDYzZKn6) | 2:56 |
 | 41 | [Don't](https://open.spotify.com/track/4xIEnb2MOEgIfveGoyIy71) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:08 |
 | 42 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 |
-| 43 | [99%](https://open.spotify.com/track/0oUJB1ASvUvvO6xDjOvC85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:10 |
-| 44 | [LESS DEPRESSED](https://open.spotify.com/track/41LEQ35PkSIgeXF78oFyx3) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LESS DEPRESSED](https://open.spotify.com/album/4QWhQfzQxuIz4sAea2MAMX) | 2:57 |
+| 43 | [LESS DEPRESSED](https://open.spotify.com/track/41LEQ35PkSIgeXF78oFyx3) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LESS DEPRESSED](https://open.spotify.com/album/4QWhQfzQxuIz4sAea2MAMX) | 2:57 |
+| 44 | [99%](https://open.spotify.com/track/0oUJB1ASvUvvO6xDjOvC85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:10 |
 | 45 | [Can't Be Friends](https://open.spotify.com/track/3HjBenHdbppyR8Y3vVUe85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 2:47 |
 | 46 | [the internet](https://open.spotify.com/track/2oXwBL6QlB7sYBXbvahZke) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [the internet](https://open.spotify.com/album/1Cmb2nNZWbB84xwfESSVYf) | 3:27 |
 | 47 | [Easy For You](https://open.spotify.com/track/3f5kqJzwjCjMTxVprKhqt8) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Easy For You](https://open.spotify.com/album/6q67t3gz2gVAzdq1zPQJrB) | 3:04 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 67 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
 | 68 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcHewgAAAABS36Cn5eh5XWOjvHfgjB1k`
+Snapshot ID: `AcHkngAAAAC+OzhuKJNZGWu/uIHlfG5M`

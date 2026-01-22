@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with IDEMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,737 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,769 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 100 | [Liquor Store \(feat\. Nate Dogg\)](https://open.spotify.com/track/1Ofr85G2VL1z2Ge4g0R6CT) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Liquor Store \(feat\. Nate Dogg\)](https://open.spotify.com/album/4s6ArJmKtOG3xOtV7AsdjZ) | 2:17 |
 | 101 | [Sweatbox \- Enzo Siragusa Remix](https://open.spotify.com/track/4gwfxXTWV1YjOKJYpD2m9P) | [Harry Wills](https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS), [Mikey Sebastian](https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E), [Enzo Siragusa](https://open.spotify.com/artist/3tXRNjxWCFyWyJdjMwtaSX) | [Sweatbox \(Enzo Siragusa Remix\)](https://open.spotify.com/album/3Rdd6gCImOvMq6CK7zSvq8) | 3:56 |
 | 102 | [High For You](https://open.spotify.com/track/7E2gGp4LHfH99X0LhTnU6j) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [High For You](https://open.spotify.com/album/3fu36fH3ZLGbo6kzSL6VXD) | 3:14 |
-| 103 | [Something About You \- Radio Edit](https://open.spotify.com/track/6xSAmQZOq9XKps4wXYL12n) | [Dan White \(UK\)](https://open.spotify.com/artist/04k1d6syTQmCbhTKGic27c) | [Something About You \(Radio Edit\)](https://open.spotify.com/album/5l8rVqXXhyKVMj0QFN9P8z) | 3:30 |
+| 103 | [Something About You](https://open.spotify.com/track/6xSAmQZOq9XKps4wXYL12n) | [Dan White \(UK\)](https://open.spotify.com/artist/04k1d6syTQmCbhTKGic27c) | [Something About You](https://open.spotify.com/album/5l8rVqXXhyKVMj0QFN9P8z) | 3:30 |
 | 104 | [Bareso](https://open.spotify.com/track/4F1Yqvumh6qNXcwhvxQhIf) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Bareso](https://open.spotify.com/album/6cKL4FXvoUe730RSZg3i7Y) | 3:18 |
 | 105 | [Feel The Rhythm](https://open.spotify.com/track/3oYQbIgyMnmwSWSAkmcNYl) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Feel The Rhythm](https://open.spotify.com/album/2GlYK2l4zmorT2UXZf0srR) | 3:29 |
 | 106 | [Bass Jump](https://open.spotify.com/track/4yeL38PURk2TrKQw2WC1Zo) | [Luca Rossi](https://open.spotify.com/artist/7I673u2XTlO4pz29h6wSL2) | [Bass Jump EP](https://open.spotify.com/album/2qvdXuq10ShTNfI3wNXUTF) | 3:34 |

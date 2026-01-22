@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,376 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,706 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 25 | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu) | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY) | 2:20 |
 | 26 | [PENSANDO EM MIM](https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV) | [ZERO BALA](https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja) | 3:39 |
 | 27 | [THE FUNK OF OPHELIA](https://open.spotify.com/track/7grde5XigwdwcZRcd79jFV) | [NELLIN](https://open.spotify.com/artist/3xMFCSdYhkS0cQQ01lDlBy) | [THE FUNK OF OPHELIA](https://open.spotify.com/album/0TyTc5M7bu8I9tzhQckVJC) | 2:29 |
-| 28 | [MONTAGEM CAMERA LENTA](https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Dj Rs](https://open.spotify.com/artist/3t0ufVf4b2wFeCG1SVNNWY), [Error Records](https://open.spotify.com/artist/6rZ3QDiOS7SIF82jMrkzq9) | [MONTAGEM CAMERA LENTA](https://open.spotify.com/album/2pdoRydehXDDEYzC6e1uSK) | 2:49 |
+| 28 | [MONTAGEM CAMERA LENTA](https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Dj Rs](https://open.spotify.com/artist/3t0ufVf4b2wFeCG1SVNNWY) | [MONTAGEM CAMERA LENTA](https://open.spotify.com/album/2pdoRydehXDDEYzC6e1uSK) | 2:49 |
 | 29 | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/track/7Ff0mR8ETS2QpL20dirwmj) | [DJ PH DE CAMPOS](https://open.spotify.com/artist/2R83mRnOb2ftzr4DUIARTr) | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/album/2OHhdbLZZBCC97Of1AchXA) | 1:52 |
 | 30 | [AMOR BANDIDO](https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [NEM SÓ DE MALUQUICE VIVE O HOMEM](https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy) | 3:14 |
 | 31 | [Sorri, Sou Rei](https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN) | [Enzo o Bruxo](https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz) | [Brega do Bruxo](https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY) | 2:43 |

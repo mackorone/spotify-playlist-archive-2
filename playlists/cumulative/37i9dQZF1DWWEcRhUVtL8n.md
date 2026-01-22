@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sports
 
-2,243 songs - 4 day 23 hr 8 min
+2,244 songs - 4 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1891,6 +1891,7 @@
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-11 | 2025-10-24 |
 | [Sucker Punch](https://open.spotify.com/track/0y0xWEzCRBY47WRw67r4Ab) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Sucker Punch](https://open.spotify.com/album/1hB7OK8nNlPLslFuHoeC5e) | 2:26 | 2020-10-13\* | 2020-11-20 |
 | [Sucker Punch](https://open.spotify.com/track/4wiTiQP1ZU5nTdU3Y8kx6Y) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Sucker Punch](https://open.spotify.com/album/7mMzUgInDnFHgHrcn65798) | 3:18 | 2021-06-03 | 2021-10-14 |
+| [Suckerrr](https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Suckerrr](https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp) | 2:39 | 2026-01-16 |  |
 | [Sudden Death](https://open.spotify.com/track/2SNBnNCFXG7lOoX901uSyf) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sudden Death](https://open.spotify.com/album/55yC6lS1RnmoysxXkwz5WH) | 2:30 | 2022-06-24 | 2022-06-28 |
 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 | 2026-01-16 |  |
 | [Sugarbaby](https://open.spotify.com/track/0RqNKk4AsheWCb5YuDVI1I) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/0tjQIZZJ88dpSatbbjqCiW) | 2:32 | 2020-10-16 | 2020-10-24 |
@@ -2006,7 +2007,7 @@
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 | 2025-07-09 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-22 | 2021-05-30 |
 | [The Things We Do](https://open.spotify.com/track/4nYb6EZpeRI3ZM1O0UquQ5) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [The Things We Do](https://open.spotify.com/album/6nhQR2WHOS9DWYgcbVSYYy) | 4:12 | 2021-02-22 | 2021-05-24 |
-| [The Tongass](https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Tongass National Forest](https://open.spotify.com/album/0Cwv0rbs9Qjdsy8Y5l5hWh) | 4:31 | 2025-10-10 |  |
+| [The Tongass](https://open.spotify.com/track/3EU3gA50dnCzreFKqiu1WN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Tongass National Forest](https://open.spotify.com/album/0Cwv0rbs9Qjdsy8Y5l5hWh) | 4:31 | 2025-10-10 | 2026-01-22 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-06-02 | 2022-06-15 |
 | [The Wave](https://open.spotify.com/track/4AmW5yhWe6CcQp5s80Ysdk) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [The Wave](https://open.spotify.com/album/3V6ocE8HwhNK3HY0w1adzF) | 2:32 | 2022-04-15 | 2022-07-29 |
 | [The Way My Friends Feel About You](https://open.spotify.com/track/3m564D0kt8IZ08YZ2WCPE3) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [The Way My Friends Feel About You](https://open.spotify.com/album/7JttdErJ14yQqhIiCI0Djq) | 2:54 | 2021-08-13 | 2022-04-16 |

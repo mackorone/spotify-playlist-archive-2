@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,920 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,018 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Dance No Dance](https://open.spotify.com/track/0D43RMtlkknwMXvu7jE9qn) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [Dance No Dance](https://open.spotify.com/album/3ilHVHlXt4A6qzmU4ack4F) | 2:16 |
 | 80 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 |
 
-Snapshot ID: `AAAAAOEe1PT89dbWJ84dZFhG9dfigBg6`
+Snapshot ID: `AAAAAHkqNub4wiwXNW7401JUFcc8zsjA`

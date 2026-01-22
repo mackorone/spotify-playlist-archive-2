@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAAlv9TJb/np8w4olPZ/YAe",
+  "snapshot_id": "aW7FgAAAAAD5sC24MhCUUH4N9PuxkOQ1",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 448891,
-      "name": "Willing and Able",
-      "url": "https://open.spotify.com/track/1SUgxQccR3O2GiCrFIblNk"
+      "duration_ms": 211490,
+      "name": "You've Been So Good to Me",
+      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
       "duration_ms": 149606,
       "name": "Three Way Love",
       "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
     },
     {
       "added_at": null,
@@ -419,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ain't Been No One Before You",
+      "url": "https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Times Me Plus Love",
         "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
       },
@@ -435,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 211490,
-      "name": "You've Been So Good to Me",
-      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More Minute",
         "url": "https://open.spotify.com/album/3jndkU4mOLfouW54RprLar"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 281826,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 250377,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
     },
     {
       "added_at": null,
@@ -508,25 +508,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 196319,
-      "name": "Ain't Been No One Before You",
-      "url": "https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturday",
-        "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 280640,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
+      "duration_ms": 448891,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/1SUgxQccR3O2GiCrFIblNk"
     },
     {
       "added_at": null,
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+      "duration_ms": 250377,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Need a Boy Like Me",
-        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 116888,
-      "name": "Don't You Need a Boy Like Me",
-      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
+      "duration_ms": 280640,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 196500,
       "name": "La La Song",
       "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't You Need a Boy Like Me",
+        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 116888,
+      "name": "Don't You Need a Boy Like Me",
+      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
     },
     {
       "added_at": null,

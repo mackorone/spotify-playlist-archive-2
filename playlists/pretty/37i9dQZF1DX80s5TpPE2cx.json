@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 19502,
+  "num_followers": 19516,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
-      },
-      "artists": [
-        {
-          "name": "Ogranya",
-          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp"
-        }
-      ],
-      "duration_ms": 174366,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 215066,
       "name": "Coconut Lips",
       "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp"
+        }
+      ],
+      "duration_ms": 174366,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

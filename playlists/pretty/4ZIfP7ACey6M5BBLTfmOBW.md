@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 ### [Fresh Hip Hop](https://open.spotify.com/playlist/4ZIfP7ACey6M5BBLTfmOBW)
 
-> All the freshest hip\-hop heaters in one list! Cover: Central Cee.
+> All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,780 likes - 100 songs - 4 hr 33 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,776 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 99 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 100 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 
-Snapshot ID: `AAAnVL8R/2d1lzVZo7mDJh2Ixl8wpzi4`
+Snapshot ID: `AAAnVUj3+1sOr7NkNsZKWq6erIDtq7A/`

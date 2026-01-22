@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,889 likes - 38 songs - 2 hr 36 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,893 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 5 | [Fake Jeezy](https://open.spotify.com/track/4fhgwk5dCgOZUh8LyxBk9r) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/4WWNtQiEHFykGzTLF9UOxE) | 2:40 |
 | 6 | [Seabird](https://open.spotify.com/track/5aYo4nBVtlglkUQwpa9f8P) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Seabird](https://open.spotify.com/album/2p4UiKkEHHMq2Wq91HgAif) | 4:38 |
 | 7 | [The Sound It Made](https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [The Sound It Made](https://open.spotify.com/album/3ejGatYed8blR2jFn3Vtbm) | 2:38 |
-| 8 | [STFU](https://open.spotify.com/track/2pwOJNlr5TJaR30dJIqK9M) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:58 |
-| 9 | [ROBBERY](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
+| 8 | [STFU \(feat\. Slay Squad\)](https://open.spotify.com/track/2pwOJNlr5TJaR30dJIqK9M) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:58 |
+| 9 | [ROBBERY \(feat\. Doechii\)](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
 | 10 | [Come on](https://open.spotify.com/track/6GZDY54HzQ9i25iwmOYA2h) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Come on](https://open.spotify.com/album/7oDBAdt7afU7HXdO8cjq9k) | 4:09 |
 | 11 | [The Four Sleeping Princesses](https://open.spotify.com/track/7hVn6i40goNNQQykPdzJju) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Tragic Magic](https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm) | 7:05 |
 | 12 | [Rifle](https://open.spotify.com/track/7aRPm3ukTRYcOs0hIrPz9l) | [Rifle](https://open.spotify.com/artist/64deU7K1K6EWzFVoT0woah) | [Rifle](https://open.spotify.com/album/25bhywJ1pdD8IYmEuMEZXc) | 1:32 |

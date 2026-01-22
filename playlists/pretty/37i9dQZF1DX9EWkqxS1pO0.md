@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Kalabalıklar
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,310 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,304 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 23 | [Yardım Et](https://open.spotify.com/track/5MaSC11m8OwbLE4cyv8vAf) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Yardım Et](https://open.spotify.com/album/0Di7jwZSFv24OsAUoa2U6M) | 2:36 |
 | 24 | [Aynen Öyle](https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Aynen Öyle](https://open.spotify.com/album/2zVJA5502StooPm1CFI2aP) | 2:50 |
 | 25 | [Yere Düştüm](https://open.spotify.com/track/7oEyxI63xJdZ9mo6CTeeKH) | [Başar Keklik](https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o) | [Yere Düştüm](https://open.spotify.com/album/197BTuMAP2s0IZaGVqCFoz) | 3:10 |
-| 26 | [Konstantinopolis](https://open.spotify.com/track/0vyeBHAowqHWGY67I0APGZ) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Konstantinopolis](https://open.spotify.com/album/74TJrtvcCD4EFJfXJSje2f) | 3:16 |
+| 26 | [Ciğerime](https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [Ciğerime](https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu) | 3:32 |
 | 27 | [Denerim](https://open.spotify.com/track/2SSA0UN1VcHakUXH4JPqzS) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Denerim](https://open.spotify.com/album/2rTW4ASwjLM8D17NcbrcYH) | 4:42 |
-| 28 | [Ciğerime](https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [Ciğerime](https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu) | 3:32 |
+| 28 | [Konstantinopolis](https://open.spotify.com/track/0vyeBHAowqHWGY67I0APGZ) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Konstantinopolis](https://open.spotify.com/album/74TJrtvcCD4EFJfXJSje2f) | 3:16 |
 | 29 | [Nergis](https://open.spotify.com/track/10Pn2qxE9uYfqnQmAnnreY) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Nergis](https://open.spotify.com/album/5abBVBfMYsJyV5iQjVnEms) | 2:57 |
 | 30 | [Yarınım Yok](https://open.spotify.com/track/62TQ5C1QRAG2YCbD5K678V) | [Yeşim Farah](https://open.spotify.com/artist/1e0Dfiy3bhhrleJTYBvSmV) | [Yarınım Yok](https://open.spotify.com/album/4ljKenwXC3yEkMksTIQHjP) | 3:47 |
 | 31 | [YAĞMURLAR](https://open.spotify.com/track/2oJnCi64nLa32Sbqp728YT) | [Anıl Selvi](https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE) | [YAĞMURLAR](https://open.spotify.com/album/7wNhAfC0cR3u068t2y8mTa) | 3:12 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 43 | [Uzaktan Biri](https://open.spotify.com/track/3EUbQ8gOVePK42p4AG6F4s) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Uzaktan Biri](https://open.spotify.com/album/6T8Pt8JZFK22EGdec01fg9) | 3:41 |
 | 44 | [İyi Bilirsin](https://open.spotify.com/track/6DGN33TDClN9geoathxgmF) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [İyi Bilirsin](https://open.spotify.com/album/3eHPNIDQnb5DVfsLMFSUJF) | 3:04 |
 | 45 | [Kaybettim İstanbul'u](https://open.spotify.com/track/2PeIc4LyziFYyD0MMNd2dt) | [Doğa](https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne) | [Kaybettim İstanbul'u](https://open.spotify.com/album/7yisGYCmJcbUoUvK7bOTuY) | 2:52 |
-| 46 | [Sebebi Çok](https://open.spotify.com/track/46azk2efSFMG3obdYuIkxO) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Sebebi Çok / Umutsuz Bahar](https://open.spotify.com/album/0L1jpIjY1drXYFxRcj1soR) | 4:07 |
+| 46 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 |
 | 47 | [Özür Dilerim](https://open.spotify.com/track/2wd24hL8qoy15iDLqA8R2B) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82), [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Özür Dilerim](https://open.spotify.com/album/2ZF6Mje6Yok3vOGClzw4Nq) | 3:05 |
-| 48 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 |
+| 48 | [Sebebi Çok](https://open.spotify.com/track/46azk2efSFMG3obdYuIkxO) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [Sebebi Çok / Umutsuz Bahar](https://open.spotify.com/album/0L1jpIjY1drXYFxRcj1soR) | 4:07 |
 | 49 | [Neden Diye Düşünmekten](https://open.spotify.com/track/7Bax5SaGIbf0CjlKuPTCPC) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Neden Diye Düşünmekten](https://open.spotify.com/album/1JnHIXvaXu171icMjyZvxY) | 3:00 |
 | 50 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 |
 | 51 | [belki kafam dünden güzel](https://open.spotify.com/track/3mZQAM3IZdrzs61VoRe5wa) | [Ali Meydanioğlu](https://open.spotify.com/artist/4fBIAPckfneje8qmOasnVf) | [belki kafam dünden güzel](https://open.spotify.com/album/2YcBA13qp0ltZElju5Qi9O) | 4:07 |
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 54 | [gece gündüz](https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [gece gündüz](https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx) | 2:28 |
 | 55 | [Geriye Dönemem](https://open.spotify.com/track/6H0VtkorEM3MMZ7mKSwZMM) | [Zai](https://open.spotify.com/artist/5URawBcnmJ9FkTqN44r5Hs) | [Geriye Dönemem](https://open.spotify.com/album/2beeHDKgh5a9ofOdRVrVCC) | 3:01 |
 | 56 | [Yine de Yalan](https://open.spotify.com/track/4e4P6LEHRWZmP2ycwmSUUH) | [NEİ?](https://open.spotify.com/artist/3T2e3J6CJowqxJh8WyN42F) | [Yine de Yalan](https://open.spotify.com/album/6xqbV20seMettE0OMuyfnE) | 3:20 |
-| 57 | [Nefes Bile Alamazken](https://open.spotify.com/track/5zVdvafAOAPhu4onEnBnK3) | [Zorlu](https://open.spotify.com/artist/56jCoGSuWQMysABNsihfuU), [Batuhan Ayduğan](https://open.spotify.com/artist/0JxhevTKcpweFUKuwJo8x1) | [Nefes Bile Alamazken](https://open.spotify.com/album/6RvI53hqqtY7dl4ZtPx6k6) | 3:42 |
+| 57 | [Nisan](https://open.spotify.com/track/4dC8Zkornu8LjpqkwVGWJe) | [Elyas & Taha](https://open.spotify.com/artist/3B6Y5J77CI7KffJy2FlTP3) | [Nisan](https://open.spotify.com/album/0WZfzW31LNYN1csOaxXH9b) | 3:51 |
 | 58 | [Vah Benim Halime](https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [Vah Benim Halime](https://open.spotify.com/album/6WisSxs0WdJKRR2a7FBphn) | 3:14 |
-| 59 | [Nisan](https://open.spotify.com/track/4dC8Zkornu8LjpqkwVGWJe) | [Elyas & Taha](https://open.spotify.com/artist/3B6Y5J77CI7KffJy2FlTP3) | [Nisan](https://open.spotify.com/album/0WZfzW31LNYN1csOaxXH9b) | 3:51 |
+| 59 | [Nefes Bile Alamazken](https://open.spotify.com/track/5zVdvafAOAPhu4onEnBnK3) | [Zorlu](https://open.spotify.com/artist/56jCoGSuWQMysABNsihfuU), [Batuhan Ayduğan](https://open.spotify.com/artist/0JxhevTKcpweFUKuwJo8x1) | [Nefes Bile Alamazken](https://open.spotify.com/album/6RvI53hqqtY7dl4ZtPx6k6) | 3:42 |
 | 60 | [Yokluğunun Derdi](https://open.spotify.com/track/44ZDaAnptNUdAvZpOZM46Y) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yokluğunun Derdi](https://open.spotify.com/album/21YPQ6dih6e33kajrqoNW1) | 3:34 |
 | 61 | [Garip Bir Duygu](https://open.spotify.com/track/3UnvJ4rmdxOXMfiZo6QTJd) | [Nepenthe](https://open.spotify.com/artist/5No9NvX3J4y5Rnu8xnqr0Y) | [Garip Bir Duygu](https://open.spotify.com/album/1XhWs28lI8U8Nq6g18GM5t) | 3:53 |
 | 62 | [Anıların Ortasında](https://open.spotify.com/track/0ItZVsMRkkYxPcoYnLoxxt) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Anıların Ortasında](https://open.spotify.com/album/5ISIdr5qgmqBo6YMKCazjh) | 3:41 |
-| 63 | [Kalbimi Öp \- Akustik](https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx) | [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Kalbimi Öp \(Akustik\)](https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N) | 3:20 |
-| 64 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 |
+| 63 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 |
+| 64 | [Kalbimi Öp \- Akustik](https://open.spotify.com/track/6vPTotkA9b6nUB2LvgFFPx) | [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Kalbimi Öp \(Akustik\)](https://open.spotify.com/album/18YFTdMxHw3ypTftjGIx7N) | 3:20 |
 | 65 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 |
-| 66 | [KERVAN](https://open.spotify.com/track/3E5H8RQtUBF2Czhyj62Xw9) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [KERVAN](https://open.spotify.com/album/7zTJBS6s2YuhyHGIdl0N2n) | 4:10 |
-| 67 | [Yarını Yok Acısı Var](https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Yarını Yok Acısı Var](https://open.spotify.com/album/2QwGdbSvrwaV1uXrGDgwu9) | 2:27 |
-| 68 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 |
-| 69 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W), [Reflectionz](https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 |
+| 66 | [Yarını Yok Acısı Var](https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Yarını Yok Acısı Var](https://open.spotify.com/album/2QwGdbSvrwaV1uXrGDgwu9) | 2:27 |
+| 67 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 |
+| 68 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W), [Reflectionz](https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 |
+| 69 | [KERVAN](https://open.spotify.com/track/3E5H8RQtUBF2Czhyj62Xw9) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [KERVAN](https://open.spotify.com/album/7zTJBS6s2YuhyHGIdl0N2n) | 4:10 |
 | 70 | [Ahım Olsun](https://open.spotify.com/track/73ZR1sekgo3fROlSSgfFug) | [Boş Liman](https://open.spotify.com/artist/46P1QP7jskrqlhGGPi80AC) | [Ahım Olsun](https://open.spotify.com/album/3xodheTpvnNvn9dECEBa6j) | 3:01 |
 | 71 | [Elveda](https://open.spotify.com/track/1Cq43stElh7czsd1h0yf2w) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Elveda](https://open.spotify.com/album/7vIiGmRqM2UZDJBlYHtE8I) | 2:28 |
 | 72 | [gel ne olur](https://open.spotify.com/track/2AAz3cv61aJ6bWnlTxtVLm) | [Deniz Zoroğlu](https://open.spotify.com/artist/6rsBBKjloRvytU94yiZF7w) | [gel ne olur](https://open.spotify.com/album/4zIL7RFxiRMpy5VHod8Ves) | 2:34 |
 | 73 | [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 |
-| 74 | [beni arama](https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [beni arama](https://open.spotify.com/album/6caVqc1z4VLFKXFpkEBvJB) | 2:08 |
-| 75 | [Kol Kola](https://open.spotify.com/track/1kI9z9swAwbuTzQv3IgXz2) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Kol Kola](https://open.spotify.com/album/43L7GZ1lz1RzsT89OtW2Qp) | 3:25 |
+| 74 | [Kol Kola](https://open.spotify.com/track/1kI9z9swAwbuTzQv3IgXz2) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Kol Kola](https://open.spotify.com/album/43L7GZ1lz1RzsT89OtW2Qp) | 3:25 |
+| 75 | [beni arama](https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [beni arama](https://open.spotify.com/album/6caVqc1z4VLFKXFpkEBvJB) | 2:08 |
 
 Snapshot ID: `AAAAANkH+5m9GaYCuSnIl/yvxTOiDUOe`

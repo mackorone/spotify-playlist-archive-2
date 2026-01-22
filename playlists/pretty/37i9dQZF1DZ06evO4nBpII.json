@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1137138,
+  "num_followers": 1137297,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADAgCokJKZ+PmnzwrhpznUf",
+  "snapshot_id": "aW7FgAAAAACNEsBiIrcoeTa4PLOTMkkF",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 168226,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
+      "duration_ms": 224760,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Still Breathing",
-      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
+      "duration_ms": 168226,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 196794,
-      "name": "Suzie Chapstick",
-      "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
+      "duration_ms": 123541,
+      "name": "Look Ma, No Brains!",
+      "url": "https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 123541,
-      "name": "Look Ma, No Brains!",
-      "url": "https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv"
+      "duration_ms": 196794,
+      "name": "Suzie Chapstick",
+      "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
     },
     {
       "added_at": null,

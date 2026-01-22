@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Geolier in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,454 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,433 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 14 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
 | 15 | [1H](https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:20 |
 | 16 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 |
-| 17 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
+| 17 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
 | 18 | [Tardi \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:33 |
 | 19 | [DIVERSITÀ \(feat\. ANNA, Glocky\)](https://open.spotify.com/track/1fIECxf5nSnt4pFUAp2xuq) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:51 |
 | 20 | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR) | 2:33 |

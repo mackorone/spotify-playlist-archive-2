@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,402,937 likes - 224 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403,183 likes - 224 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 223 | [Mont Blanc](https://open.spotify.com/track/4IUYXrgnBHuIyv42PsFTxH) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Mont Blanc](https://open.spotify.com/album/1bAMs1Re0AOawSeIjm8OMH) | 2:57 |
 | 224 | [Let it go](https://open.spotify.com/track/6n98ksIuCy2xLFjIZwICSw) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Let it go](https://open.spotify.com/album/2WTIBzTeNC85d6sxOyQEW2) | 2:21 |
 
-Snapshot ID: `AAAAADrZ16sVITqViBxU+hHtHLmJ3EM3`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

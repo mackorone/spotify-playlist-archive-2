@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best in Black music! Cover: <a href="spotify:artist:00x1fYSGhdqScXBRpSj3DW">Olivia Dean</a>
+> The best in Black music! Now featuring our <a href="https://www.instagram.com/ourfrequency/">Frequency Zine</a> cover star Ayra Starr
 
 5,605 songs - 11 day 20 hr 21 min
 

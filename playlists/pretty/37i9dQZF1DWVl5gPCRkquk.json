@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1987948,
+  "num_followers": 1987744,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "New Star",
         "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185728,
       "name": "New Star",
       "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 250574,
       "name": "Strawberry Woman",
       "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
+        "name": "Nightflyer",
+        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 265387,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+      "duration_ms": 265387,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Game of Pretend",
-        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 259568,
-      "name": "Game of Pretend",
-      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "Where You Call Home",
         "url": "https://open.spotify.com/album/0LIfitnojjd7VwZjrsTsf2"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 222422,
       "name": "Where You Call Home",
       "url": "https://open.spotify.com/track/0ldGwpHcPFzb598ERtfixR"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Game of Pretend",
+        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 259568,
+      "name": "Game of Pretend",
+      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 247450,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
         "name": "For Sale Sign (feat. Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 266666,
       "name": "For Sale Sign (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 247450,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl"
     }
   ],
   "unique_name": "Chill Folk",

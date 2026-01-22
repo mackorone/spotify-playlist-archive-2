@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Mida in cover
 
-480 songs - 1 day 0 hr 40 min
+481 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 | 2025-05-22 | 2025-12-19 |
 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 | 2025-06-13 |
 | [Chill](https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Chill](https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF) | 2:15 | 2025-05-15 | 2025-09-24 |
+| [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 | 2026-01-21 |  |
 | [Ciao](https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Ciao](https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV) | 3:32 | 2024-09-26 | 2024-10-11 |
 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 | 2025-05-08 | 2025-06-04 |
 | [Clamo](https://open.spotify.com/track/4hjPMRNdO051CH4vbvm2Ty) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Clamo](https://open.spotify.com/album/0teZmkbw8UI1Bp6olhIuln) | 2:30 | 2025-01-09 | 2025-02-12 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Elena Carat.
+> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Carmen Lillo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,732 likes - 72 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,741 likes - 72 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 71 | [☆otra noche \- slowed + reverb](https://open.spotify.com/track/3zPnx1GXoadZqXDmT919f7) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [Juait](https://open.spotify.com/artist/0vUkmneVTyPdu8E4Cs7dvr) | [⚘✯¸.•´\*¨\`\*• mariagrep is not a crime \(slowed + reverb\) ⚘✯¸.•´\*¨\`\*•](https://open.spotify.com/album/0zjEVFl7YVgh8UoLk8Sri8) | 3:05 |
 | 72 | [Tarara](https://open.spotify.com/track/4qOfpYoDGz2r216pPNFMAA) | [Hugo Cobo](https://open.spotify.com/artist/7bvrxy6IPDgRjUveRwzolV), [NOHE](https://open.spotify.com/artist/6HuasZ7GITPFZjMxx7ZX0I) | [Tarara](https://open.spotify.com/album/2kCjGEHGbndI1QLMPgBtLS) | 2:32 |
 
-Snapshot ID: `AAAAAH9bh2W6z2UZ3WJLYCRQ96NU6eAN`
+Snapshot ID: `AAAAAOwRVna5yt05W5MBF7F4UN3+Fb/U`

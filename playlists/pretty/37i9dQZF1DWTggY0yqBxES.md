@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,080 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,162 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [STFU](https://open.spotify.com/track/2pwOJNlr5TJaR30dJIqK9M) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:58 |
+| 1 | [STFU \(feat\. Slay Squad\)](https://open.spotify.com/track/2pwOJNlr5TJaR30dJIqK9M) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:58 |
 | 2 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 3 | [Lie2Me](https://open.spotify.com/track/4qQMsoWlwvj2xtriAZ8LD4) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Lie2Me](https://open.spotify.com/album/2QTHMP85Cv6nailkHfiljF) | 3:03 |
 | 4 | [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 7 | [Memories](https://open.spotify.com/track/42ytOOWqePD1mGz6Zh2OwI) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Memories](https://open.spotify.com/album/6DS9I4slNktUdYYtQvKjY3) | 2:01 |
 | 8 | [Players Only](https://open.spotify.com/track/5UAXUSfQzF277L04K2ixkh) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Players Only](https://open.spotify.com/album/1S42U3dQpTJLWS9AhXK2j7) | 2:25 |
 | 9 | [Royal Flush \(feat\. Vinny Radio\)](https://open.spotify.com/track/0S5LZJ2SBqoJ4h31Xiwcu6) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vinny Radio](https://open.spotify.com/artist/3MYeNcgeOjPzfwCgXGw5X2) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:32 |
-| 10 | [ROBBERY](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
+| 10 | [ROBBERY \(feat\. Doechii\)](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
 | 11 | [If I Wanted To](https://open.spotify.com/track/4Ox4SdpdkRCjf3eXzyWeIC) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [If I Wanted To](https://open.spotify.com/album/0CvmukwaNVAndl8USd8Zw2) | 2:59 |
 | 12 | [And I Dance](https://open.spotify.com/track/0mSJhqC5mFP84d5mn9k92I) | [By Storm](https://open.spotify.com/artist/1YUIjQ3ugjokiyb908LpVO), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [And I Dance](https://open.spotify.com/album/22VpefkMGRiEL7YJBygwGS) | 4:19 |
 | 13 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 |

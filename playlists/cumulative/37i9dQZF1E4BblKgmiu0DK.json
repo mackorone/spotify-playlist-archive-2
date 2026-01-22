@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With flyzhe, blazingfairis, Die Mannequin and more",
+  "description": "With flyzhe, blazingfairis, real silent bloom and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 220999,
       "name": "Among the Crowd",
       "url": "https://open.spotify.com/track/4I9vFDk1o5Kb48BfoUQAHj"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 201596,
       "name": "Bruised",
       "url": "https://open.spotify.com/track/6zn1sTKFMyiPCoAYQyVc7I"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 94919,
       "name": "Certain Call",
       "url": "https://open.spotify.com/track/0X0TruhDU9hbzVSWzc1OM3"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 193103,
       "name": "Cut My Bangs",
       "url": "https://open.spotify.com/track/4G7FCOlyUKOmsDSg6a2snD"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "No Rearview",
+        "url": "https://open.spotify.com/album/7eZYPFGjSLcUMnMOYukaT1"
+      },
+      "artists": [
+        {
+          "name": "NoCoder",
+          "url": "https://open.spotify.com/artist/3wUBNrtXKbytQ5J09wHELZ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186159,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/1y8k2DMk5IX9WoIQ69Snoa"
+    },
+    {
+      "album": {
         "name": "Diamonds & Studs",
         "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
       },
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 180384,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4LadWcPWEHp2PmV1Cl5Ylt"
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 205032,
       "name": "Lethal in L.A.",
       "url": "https://open.spotify.com/track/0jRFIlSY8yZuzFrDLViutq"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 182426,
       "name": "Miss Americvnt",
       "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -3917,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5p6IgZnQlcfXwhibCi1TtD"
+      },
+      "artists": [
+        {
+          "name": "Fill with Nothing",
+          "url": "https://open.spotify.com/artist/66j5EPqnR931k3o7LAszV8"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169799,
+      "name": "Throw it on The Pyre",
+      "url": "https://open.spotify.com/track/6zDOTt4G46GR5tsKpo72uA"
+    },
+    {
+      "album": {
         "name": "Time Bomb",
         "url": "https://open.spotify.com/album/4raCEK5Ee68YgvaS9KQk4D"
       },
@@ -4000,7 +4036,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 183530,
       "name": "Ugly Lights",
       "url": "https://open.spotify.com/track/01Dh4x0x0zcKfVuTdLmToe"
@@ -4054,7 +4090,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 131250,
       "name": "Vibe Killer",
       "url": "https://open.spotify.com/track/2VTCii5cZQLzq1DKEj1dFd"

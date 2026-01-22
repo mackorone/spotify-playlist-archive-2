@@ -6,7 +6,7 @@
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEiruFNAXRKckklKQpZSSg2+8mAyiP",
+  "snapshot_id": "AAAEi1t2UOudUmjxvjIL46q7ml++xfkA",
   "tracks": [
     {
       "added_at": "2026-01-17 03:53:38",
@@ -119,6 +119,22 @@
       "duration_ms": 227569,
       "name": "Addressed To Me",
       "url": "https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe"
+    },
+    {
+      "added_at": "2025-10-20 18:38:35",
+      "album": {
+        "name": "Wasn't Born To Follow",
+        "url": "https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa"
+      },
+      "artists": [
+        {
+          "name": "Silverbird",
+          "url": "https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Wasn't Born To Follow",
+      "url": "https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR"
     },
     {
       "added_at": "2025-11-21 12:32:05",
@@ -279,22 +295,6 @@
       "duration_ms": 255000,
       "name": "Strange Addiction",
       "url": "https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W"
-    },
-    {
-      "added_at": "2025-10-20 18:38:35",
-      "album": {
-        "name": "Wasn't Born To Follow",
-        "url": "https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa"
-      },
-      "artists": [
-        {
-          "name": "Silverbird",
-          "url": "https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Wasn't Born To Follow",
-      "url": "https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR"
     },
     {
       "added_at": "2025-10-02 22:03:14",

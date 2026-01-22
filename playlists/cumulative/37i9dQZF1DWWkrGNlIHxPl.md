@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Shargeeya
 
-373 songs - 20 hr 24 min
+374 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-07 | 2022-08-06 |
 | [complicated](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 | 2023-03-29 | 2024-10-08 |
 | [D4M](https://open.spotify.com/track/4jkP3gAU9o4ZcDDk4JRFdr) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 4:04 | 2021-12-16 | 2022-03-08 |
+| [Dalou3a \(Nari\)](https://open.spotify.com/track/6uyHqVoPvzSySzDe2Famfl) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Dalou3a \(Nari\)](https://open.spotify.com/album/5xsqoVCvXyEWDWVghb34Z3) | 2:11 | 2026-01-21 |  |
 | [Damaged Feelings](https://open.spotify.com/track/4qZe0XLKkEuNS1JS3xHKVI) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Damaged Feelings](https://open.spotify.com/album/7ArpHBuiW0jpHrG8tKdIVx) | 3:17 | 2021-12-16 | 2022-11-20 |
 | [Damn Son](https://open.spotify.com/track/6EVVPT2x5Ow5bNmoZagZO6) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Damn Son](https://open.spotify.com/album/7toSxaZza0RCvR3c9Tvuhq) | 2:33 | 2021-12-16 | 2022-11-20 |
 | [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 | 2022-09-15 |
@@ -274,7 +275,7 @@
 | [Reckless](https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Reckless](https://open.spotify.com/album/4Qs52IAZsGBXM854MEkfXE) | 5:06 | 2023-08-14 | 2024-06-01 |
 | [Red Zone](https://open.spotify.com/track/0OYnkVivn0i88HIa7mJ85E) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Red Zone](https://open.spotify.com/album/3ceAEqR5KpNa9IEQBycYti) | 2:11 | 2021-12-16 | 2022-06-07 |
 | [Rehab](https://open.spotify.com/track/6KTUZvdP6A5nvBDHyLTumC) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 3:27 | 2022-10-08 | 2023-04-01 |
-| [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 | 2023-05-26 |  |
+| [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 | 2023-05-26 | 2026-01-22 |
 | [Rendez\-Vous x Majnoun](https://open.spotify.com/track/6eOhXkbRGm2TzxK5CLwc3L) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw), [I.Y](https://open.spotify.com/artist/6ZA0S3R04Zur6LBPYWfwUZ) | [Rendez\-Vous x Majnoun](https://open.spotify.com/album/0qAAE5IPZ2SPdnhX3wrTg2) | 4:16 | 2021-12-16 | 2022-11-20 |
 | [Rien](https://open.spotify.com/track/4KP2aiFQnMQLpY80rveHki) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien](https://open.spotify.com/album/52Yfa90MAL7z1dG979wDx9) | 3:07 | 2021-12-16 | 2022-10-09 |
 | [Right There](https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/5GsOXbdCXVhIemXulDWOM9) | 3:59 | 2021-12-16 | 2021-12-31 |

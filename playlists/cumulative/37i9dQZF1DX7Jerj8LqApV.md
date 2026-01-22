@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-360 songs - 23 hr 21 min
+361 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Addicted](https://open.spotify.com/track/3Ljx6tvFUYYj275OmlAIDg) | [Khai El](https://open.spotify.com/artist/0c6ILfKzO0L3Fz7BmnNurr) | [Addicted](https://open.spotify.com/album/6NKoexYP723EZpwzwLsCXG) | 3:44 | 2025-12-08 | 2026-01-20 |
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-08 | 2024-07-18 |
 | [akong ako](https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2) | [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [akong ako](https://open.spotify.com/album/4PP76TdEXfunxuGXh9MkL5) | 3:29 | 2025-11-13 | 2025-11-25 |
+| [Ale](https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [The Bloomfields](https://open.spotify.com/album/17675v1WFduEKG9WV1iolH) | 3:50 | 2026-01-21 |  |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-23 | 2025-11-05 |
 | [All I Want](https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [All I Want](https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh) | 2:30 | 2023-10-25 | 2023-11-11 |
 | [Aminin/Sabihin](https://open.spotify.com/track/4St875yzLjsUcIL4lkldPA) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Aminin/Sabihin](https://open.spotify.com/album/0g11a83KW0iPvnobksjpgV) | 3:31 | 2025-11-07 | 2025-11-18 |
@@ -283,7 +284,7 @@
 | [roses \(with Clara Benin\)](https://open.spotify.com/track/0uoHit7PHw491nJ325uTmE) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [roses \(with Clara Benin\)](https://open.spotify.com/album/0WieGZuufyPJo2zGuvamIp) | 3:27 | 2025-05-09 | 2025-05-22 |
 | [rupok](https://open.spotify.com/track/5v5Jhp7OZAejrWbqPQ2y2D) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [rupok](https://open.spotify.com/album/3ICK3HtCmXATv3IKUZsDPt) | 3:06 | 2025-12-01 | 2026-01-20 |
 | [Sa Pagkupas](https://open.spotify.com/track/5aaBUE4cCE4VAq9CuUy3YZ) | [Levii](https://open.spotify.com/artist/6y1Co0ko15kskGzLkhAN7d) | [Sa Pagkupas](https://open.spotify.com/album/2uolhm9rBQn6Uxn5HQLyva) | 4:59 | 2025-11-07 | 2025-11-18 |
-| [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 |  |
+| [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 | 2026-01-22 |
 | [Sa Uulitin](https://open.spotify.com/track/0lAZd9knO0d5whnNyc9CSd) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Sa Uulitin](https://open.spotify.com/album/1WrFw4bSjAWfSDTphv7tPJ) | 4:06 | 2025-11-17 | 2025-11-25 |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-18 | 2025-10-27 |
 | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/album/1qkSx3ukJSeCnHqQlnLVsa) | 3:31 | 2025-08-08 | 2025-08-24 |

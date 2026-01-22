@@ -15397,6 +15397,24 @@
     },
     {
       "album": {
+        "name": "Wenu Wenu",
+        "url": "https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC"
+      },
+      "artists": [
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420773,
+      "name": "Wenu Wenu",
+      "url": "https://open.spotify.com/track/7kzhdwCg36NR0WphxVkorA"
+    },
+    {
+      "album": {
         "name": "Panoramic Feelings (Mellow Carefree Lounge Music)",
         "url": "https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu"
       },

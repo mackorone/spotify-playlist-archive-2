@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22386,
+  "num_followers": 22390,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u9a19\u30b7\u611b - Damashiai",
-        "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "\u9a19\u30b7\u611b - Damashiai",
-      "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
-    },
-    {
-      "added_at": "2026-01-20 15:00:14",
-      "album": {
         "name": "\u544a\u767d - Confession",
         "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 249480,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg"
+    },
+    {
+      "added_at": "2026-01-20 15:00:14",
+      "album": {
+        "name": "\u9a19\u30b7\u611b - Damashiai",
+        "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "\u9a19\u30b7\u611b - Damashiai",
+      "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
     },
     {
       "added_at": "2026-01-20 15:00:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-01-20 15:00:14",
       "album": {
-        "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
-        "url": "https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG"
-      },
-      "artists": [
-        {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
-      "url": "https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c"
-    },
-    {
-      "added_at": "2026-01-20 15:00:14",
-      "album": {
         "name": "End roll",
         "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196933,
       "name": "End roll",
       "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
+    },
+    {
+      "added_at": "2026-01-20 15:00:14",
+      "album": {
+        "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
+        "url": "https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "\u672c\u5f53\u306a\u3093\u3066\u3076\u3063\u98db\u3070\u3057\u3066\u3088",
+      "url": "https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

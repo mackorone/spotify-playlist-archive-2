@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ROBBERY](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
+| 1 | [ROBBERY \(feat\. Doechii\)](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
 | 2 | [ICH BIN DEUTSCHER HIPHOP \(48 BARS\)](https://open.spotify.com/track/6qk05oKQEMPKX3f9nvLGPC) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [ICH BIN DEUTSCHER HIPHOP \(48 BARS\)](https://open.spotify.com/album/3xENxCeHOmuVbOIGMgycxW) | 2:53 |
 | 3 | [5min Track](https://open.spotify.com/track/4s820EPt82DbYUnYmtq03K) | [Pimf](https://open.spotify.com/artist/6F0v3NKJQ4xpWZVV1BWoRL), [Grinch](https://open.spotify.com/artist/4Pv9h9IZ1H4x3TWXIbDNEe), [Mavgic](https://open.spotify.com/artist/30LnNDEL2XGxiEmC00wTjZ) | [5min Track](https://open.spotify.com/album/78g0xWeMZC8e2xPHYQh59U) | 2:50 |
 | 4 | [NOTHING IS REAL](https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [NOTHING IS REAL](https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v) | 3:06 |

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,258 songs - 3 day 5 hr 1 min
+1,259 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,6 +981,7 @@
 | [sorry4dying](https://open.spotify.com/track/1ljziaoMnRH95aPeOSGAtr) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 4:44 | 2022-11-11 |  |
 | [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-10 |  |
 | [Soul Train \- Quad Cover](https://open.spotify.com/track/2K71aXhpUFcIla3c9siyBk) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [Soul Train](https://open.spotify.com/album/1mDGnKBxy8kHSbj1noc4hl) | 3:06 | 2022-11-04 |  |
+| [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2026-01-21 |  |
 | [Sprinter](https://open.spotify.com/track/08YvUaUsZktAG6zEMDwUqO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:49 | 2023-07-17 | 2025-09-17 |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-01 |  |
 | [St\. Mark's Funny Feeling](https://open.spotify.com/track/1AD9QOs15iecgVRuzo2llQ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:20 | 2024-10-25 |  |

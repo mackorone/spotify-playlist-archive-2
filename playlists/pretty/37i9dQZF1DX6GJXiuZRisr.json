@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1607721,
+  "num_followers": 1607758,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 281826,
       "name": "Beside You",
       "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
-      },
-      "artists": [
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230487,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 192380,
       "name": "Hey Boy Hey Girl - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230487,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "nocturnal",
-        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "nocturnal",
-      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "nocturnal",
+        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "nocturnal",
+      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 305235,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Error5 EP",
         "url": "https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+        "name": "before you go",
+        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
         }
       ],
-      "duration_ms": 305235,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+      "duration_ms": 258750,
+      "name": "before you go",
+      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1419,22 +1435,6 @@
       "duration_ms": 192500,
       "name": "Lost In Light",
       "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "before you go",
-        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "before you go",
-      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1523,6 +1523,26 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
+        "name": "Need A Little Love",
+        "url": "https://open.spotify.com/album/3Nsk5gtRDbZzdBc6K03Crs"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Need A Little Love",
+      "url": "https://open.spotify.com/track/7AMdIDKxQZkHOuRuMLqZ1z"
     },
     {
       "added_at": "2026-01-16 05:00:29",
@@ -1647,6 +1667,22 @@
     {
       "added_at": "2026-01-16 05:00:29",
       "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
+    },
+    {
+      "added_at": "2026-01-16 05:00:29",
+      "album": {
         "name": "Heard It All Before",
         "url": "https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH"
       },
@@ -1667,42 +1703,6 @@
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:29",
-      "album": {
-        "name": "Need A Little Love",
-        "url": "https://open.spotify.com/album/3Nsk5gtRDbZzdBc6K03Crs"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "CMD/CTRL",
-          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Need A Little Love",
-      "url": "https://open.spotify.com/track/7AMdIDKxQZkHOuRuMLqZ1z"
     },
     {
       "added_at": "2026-01-16 05:00:29",

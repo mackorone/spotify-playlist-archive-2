@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Elise Elvira\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: ili\. Artwork by Paola Saliby
 
-4,365 songs - 9 day 6 hr 21 min
+4,371 songs - 9 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [all the things id do](https://open.spotify.com/track/7xAzD4J7RBl2ZAmAalRnxk) | [francene rouelle](https://open.spotify.com/artist/17RvyiqL4E1d6ecKdJ2x9R) | [all the things id do](https://open.spotify.com/album/1U5HLGDCdRklPVcmshWVsI) | 2:31 | 2025-06-11 | 2025-08-07 |
 | [All the Things You'd Ruin](https://open.spotify.com/track/6vK9lXoSYSSeorpAtpXMPW) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Rom Com Pop](https://open.spotify.com/album/2UsMZi3Icg6ZbsCDzsMVhJ) | 2:46 | 2023-03-01 | 2023-04-06 |
 | [All The Time](https://open.spotify.com/track/15kh7Rja9cOZZ2yI5bZlvX) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [All The Time](https://open.spotify.com/album/4vOAXgADY2UDmrX7o3Qa2E) | 2:58 | 2024-05-01 | 2024-07-25 |
+| [All The Way](https://open.spotify.com/track/5BA49nnwr6bcOqerRPMCiA) | [Niiasii](https://open.spotify.com/artist/4GqtVmzd5skQOVZx1vVsDz) | [All The Way](https://open.spotify.com/album/6pGXuEXCkshDxVPyZ8u53n) | 2:16 | 2026-01-21 |  |
 | [All Time Low](https://open.spotify.com/track/3w03xQK7wqiNBWu0T6h800) | [Aria Lisslo](https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl) | [All Time Low](https://open.spotify.com/album/7HRuKjnuAyJOtGB9fELdVc) | 2:28 | 2024-01-31 | 2024-04-24 |
 | [All To Myself](https://open.spotify.com/track/5cXUkgmM02TyY7Z4VoUhBv) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [All To Myself](https://open.spotify.com/album/16RgcPg5ggl6LHtFImTTYv) | 1:55 | 2022-02-09 | 2022-02-25 |
 | [All We Got Is War](https://open.spotify.com/track/73KQjIjBCgBRxlCZiT52J1) | [True Tides](https://open.spotify.com/artist/6VeSUOPtZFMDtNte8IuO9C) | [All We Got Is War](https://open.spotify.com/album/6Q14bhFV8tFCYknptH4SWX) | 3:10 | 2023-05-03 | 2023-07-20 |
@@ -378,6 +379,7 @@
 | [Bella Hadid \(idc about u\)](https://open.spotify.com/track/3un0nRbQ9znbYfG1JLf6dT) | [Taylor Waters](https://open.spotify.com/artist/4NAFc6jrwULBe2e70H35hv) | [Bella Hadid \(idc about u\)](https://open.spotify.com/album/2rHXdKSNN8CATLAids8wQI) | 2:40 | 2021-10-07 | 2021-11-11 |
 | [Belladonna](https://open.spotify.com/track/3cWOlmQrNBY9hC7p2HBbXs) | [Loren Heat](https://open.spotify.com/artist/43Fg9z6zfjmsHQOwexx7wt) | [Belladonna](https://open.spotify.com/album/0VV6GYwSMx8erVSpXWNLVw) | 3:27 | 2025-07-02 | 2025-08-28 |
 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 | 2025-08-20 | 2025-11-20 |
+| [Belly Laugh](https://open.spotify.com/track/7bPOVdLWSE3ZLuLlnvS2F0) | [Hetta Falzon](https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH) | [Belly Laugh](https://open.spotify.com/album/7p4iPmy0xWFBoadbbXwQol) | 5:01 | 2026-01-21 |  |
 | [Belmont Park](https://open.spotify.com/track/4qSDDMj8hSkjSMEybf3jdX) | [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Belmont Park](https://open.spotify.com/album/63ugzV8wka0qYk5oDp4uNe) | 2:54 | 2021-10-14 | 2022-01-13 |
 | [Below the Belt](https://open.spotify.com/track/5LgadFBhjLNiSCIcuyhTZW) | [Kenzo Cole](https://open.spotify.com/artist/1VIg6Hsv9D31CEJsLtnMzL) | [Below the Belt](https://open.spotify.com/album/1D66VjMbH8yUoTVZ0t26nk) | 4:29 | 2022-01-19 | 2022-02-24 |
 | [BELOW ZERO](https://open.spotify.com/track/0CAXWnc1qvOPVdTY44uSzz) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [BELOW ZERO](https://open.spotify.com/album/44nLz1647OtPLp9iOTBy9p) | 3:01 | 2021-02-17 | 2021-03-25 |
@@ -570,6 +572,7 @@
 | [Bruce Wayne](https://open.spotify.com/track/0qyWUxMfHPNYWqOdfm4cwA) | [Jack Miller](https://open.spotify.com/artist/1L2dgYrQs4HZDHfYB2klTF) | [Bruce Wayne](https://open.spotify.com/album/38PBqV8lJxHiGtpnpbONpI) | 2:17 | 2021-10-28 | 2021-12-01 |
 | [Bruised](https://open.spotify.com/track/1w3tJEe665M8ZbfrNmp9b7) | [Old Swing](https://open.spotify.com/artist/0ODlv2gpIG4Y8BXhBs7rAe) | [Bruised](https://open.spotify.com/album/50rdmQ26BeaQdPvdZbGFcw) | 2:58 | 2021-04-22 | 2021-05-27 |
 | [Bruised Knuckles](https://open.spotify.com/track/4nupuhuaFEyUV3JUgi4KgD) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Milk Teeth](https://open.spotify.com/album/7dRlUsMcxFMfIOHAaXSvFp) | 3:07 | 2021-06-18 | 2021-08-05 |
+| [Bruises on the Peach](https://open.spotify.com/track/6HYs3TipAbX6eR6YrQHCVS) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Bruises on the Peach](https://open.spotify.com/album/5pj3C1wq8xvBMygTiOgHx1) | 2:58 | 2026-01-21 |  |
 | [Brunette Caroline](https://open.spotify.com/track/0Bsh8T3J0S3vQSB8mrOo7S) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4qDwe6lZPaM9YoV8Ei3pxd) | 3:08 | 2021-11-11 | 2021-12-01 |
 | [brussels sprouts](https://open.spotify.com/track/3RrKyh47VGMjKQls0iivoR) | [Samantha Jean](https://open.spotify.com/artist/3nYLMU5zjw4mzDt178Kz6G) | [brussels sprouts](https://open.spotify.com/album/2M8QuyHdxAanzktiuKH8HB) | 3:04 | 2023-06-29 | 2023-09-14 |
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-26 | 2022-12-01 |
@@ -2245,6 +2248,7 @@
 | [Light On](https://open.spotify.com/track/65xXJnzxMYe2gNQ15cwKRU) | [Bella B](https://open.spotify.com/artist/5NJiCRt8KYcqXS0it0JESD) | [Light On](https://open.spotify.com/album/65K9kWV3Gmqm3kiXoukSOn) | 2:58 | 2021-08-05 | 2021-08-26 |
 | [Light On](https://open.spotify.com/track/6OTVo3NxU8m5mt3rqCX8xf) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Light On](https://open.spotify.com/album/1btH4on0wrDOFylMq7SYip) | 3:27 | 2021-06-24 | 2021-08-05 |
 | [light switch](https://open.spotify.com/track/2XSHaoLhVIyxo7lY4J2gj7) | [Audrey Gillispie](https://open.spotify.com/artist/2TtsBuE93Ha0uOc2m92J49) | [light switch](https://open.spotify.com/album/4GED21xC8AqLDLPpNjLbNm) | 3:21 | 2021-02-25 | 2021-03-18 |
+| [LIGHTKEEPER](https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [LIGHTKEEPER](https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE) | 2:59 | 2026-01-21 |  |
 | [Lightning In A Bottle](https://open.spotify.com/track/4G77iJqwT8PGScFHNDRs3b) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Lightning In A Bottle](https://open.spotify.com/album/2MchDygc6bfMtkW5FYbPrQ) | 1:54 | 2022-03-16 | 2022-04-14 |
 | [Lightning In The Room](https://open.spotify.com/track/38aathPfphyLQpAPOs2bD8) | [Alexis Jae](https://open.spotify.com/artist/52I7Ci9JGLBGwv821YNqSF) | [Lightning In The Room](https://open.spotify.com/album/6kxLvaMc7MfyitVUOAKsAP) | 2:30 | 2025-06-04 | 2025-08-07 |
 | [lights](https://open.spotify.com/track/00dgIIOGchYpOS7BaYcFu9) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [lights](https://open.spotify.com/album/4HKBDY37wgV1YQbdOBfwhr) | 2:54 | 2021-01-21 | 2021-02-25 |
@@ -2422,6 +2426,7 @@
 | [Mad at Disney](https://open.spotify.com/track/6JLLacP83oixoe33bWjuCC) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/4000RUfplZt5LYKb3VuyUp) | 2:16 | 2020-12-08 | 2021-02-25 |
 | [Made a Vow](https://open.spotify.com/track/3A7kYmCx0WMIAGHzQ09cpm) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Made a Vow](https://open.spotify.com/album/1nv36K72D52rfr1ZCnX8hB) | 3:36 | 2021-10-14 | 2021-11-11 |
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2021-07-22 | 2021-09-02 |
+| [Made For This](https://open.spotify.com/track/77wwM4ApgWYAW73FsbnWbp) | [WALTA](https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ) | [Made For This](https://open.spotify.com/album/6BuAdQBbYOEDyJXBZ58qnR) | 3:00 | 2026-01-21 |  |
 | [Made In Love: The Megamix](https://open.spotify.com/track/33KPm4tldZxolemzVawWS0) | [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7), [Zoë Kravitz](https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Sasha Desree](https://open.spotify.com/artist/4bPrAcCKT18A5cITueC4Ba), [Stuart Matthewman](https://open.spotify.com/artist/2OOsPeiMEpk3JKFqUT9OAN), [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [Pegasus Warning](https://open.spotify.com/artist/1UBqaUblLaDKFdmKDi2sS9) | [Made In Love: The Megamix](https://open.spotify.com/album/3VMKJuyDsWSyK6KeKPab5W) | 5:00 | 2020-10-13\* | 2020-10-22 |
 | [Madeline](https://open.spotify.com/track/1oD2ubPg1ZMSM38g07bspa) | [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [Madeline](https://open.spotify.com/album/2b2UXdARM57DbURitzl0rS) | 3:17 | 2022-07-20 | 2022-09-01 |
 | [madMan](https://open.spotify.com/track/5MiOOrDFzv1WljbKrGwiMV) | [thomTide](https://open.spotify.com/artist/3xwe0s3hib7jaZQDg1fOrt) | [madMan](https://open.spotify.com/album/4X0YH3UjXwQPBGCP6dJhts) | 1:59 | 2021-05-13 | 2021-05-27 |
@@ -3089,7 +3094,7 @@
 | [r u over me](https://open.spotify.com/track/4jAZKLN6u90feAhiSinamM) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [r u over me](https://open.spotify.com/album/7iQqh6bfNmeX4wi3HYOzpx) | 2:17 | 2022-01-19 | 2022-03-03 |
 | [R.I.P.](https://open.spotify.com/track/2NsT14VbcsVEZksjccxkvH) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [R.I.P.](https://open.spotify.com/album/6AIk8FOlSBxFtJik5iuyBq) | 2:56 | 2022-01-12 | 2022-03-31 |
 | [Rabbit](https://open.spotify.com/track/0PGUj15oPPa7jlLIUnFAod) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rabbit](https://open.spotify.com/album/71QWas4sh6Cy8MC6mG6oUq) | 3:27 | 2021-05-06 | 2021-05-27 |
-| [Radio Girl](https://open.spotify.com/track/4UVFuw2DvRzAmEKvWtIIZk) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Radio Girl](https://open.spotify.com/album/5oqQkmDfrHJdphoAwS8rLR) | 2:27 | 2026-01-14 |  |
+| [Radio Girl](https://open.spotify.com/track/4UVFuw2DvRzAmEKvWtIIZk) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Radio Girl](https://open.spotify.com/album/5oqQkmDfrHJdphoAwS8rLR) | 2:27 | 2026-01-14 | 2026-01-22 |
 | [RADIO SILENCE](https://open.spotify.com/track/2XnKHgfNOJOMj2B7u5qiD4) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [GARDENING](https://open.spotify.com/album/7geyON27pFNOLshvNKiYqk) | 4:15 | 2020-10-22 | 2020-11-12 |
 | [Radio Silence](https://open.spotify.com/track/0NBpksHKbou0VYFtPohCS9) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Radio Silence](https://open.spotify.com/album/5uquHiEeAjCQgkVU5ovP5D) | 2:46 | 2022-03-09 | 2022-04-07 |
 | [Radio Silent](https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Radio Silent](https://open.spotify.com/album/5LOO5N92RXbd6Ch3PJ3qa3) | 2:31 | 2025-07-23 | 2025-09-04 |
@@ -4027,6 +4032,7 @@
 | [Unorganized Crime](https://open.spotify.com/track/0g4Jbg9Dn5SsvrEjdIHqB4) | [Willa Amai](https://open.spotify.com/artist/0iP3BGoRpnHIZRVnEQLlHF) | [Unorganized Crime](https://open.spotify.com/album/1Ds15KxAFPYQlkT0VldSAo) | 3:36 | 2020-11-18 | 2020-12-08 |
 | [Unstoppable](https://open.spotify.com/track/2M6J8pHKRNqzkSuULRC7bJ) | [Florent Brack](https://open.spotify.com/artist/78PHudnzyatBjlCF0zQm2W) | [Unstoppable](https://open.spotify.com/album/5vaU6TcDVUW2kwBc5X1x6k) | 3:07 | 2022-03-23 | 2022-04-28 |
 | [Unsubstantial](https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Unsubstantial](https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau) | 1:40 | 2023-10-04 | 2023-11-30 |
+| [Untangling](https://open.spotify.com/track/77hS4ySY9c5Hr2rLZ0JLKf) | [Rebecca Bangfield](https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho) | [Untangling](https://open.spotify.com/album/3NIoEPYNraduzuqJ6Ynhcl) | 3:53 | 2026-01-21 |  |
 | [Untether](https://open.spotify.com/track/3KIrZ8boA8FThn6DxI5bxM) | [Poodle](https://open.spotify.com/artist/0Kj8Cf3RBbddDtytdh863p) | [Interiors](https://open.spotify.com/album/3SyexOlRH2pPKDUk3AyC00) | 2:49 | 2022-03-02 | 2022-03-24 |
 | [Untie Your Feelings](https://open.spotify.com/track/2tFlkV6OjZgEBhHwD4EVoq) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Untie Your Feelings](https://open.spotify.com/album/2S55ldzl9VS9knUnB0jhHF) | 2:35 | 2021-05-20 | 2021-06-03 |
 | [Until We Meet Again](https://open.spotify.com/track/7rOaT0YXzFYfNDyGDENudw) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Until We Meet Again](https://open.spotify.com/album/69u1ibf9y6MPYCC79sWwvc) | 3:37 | 2025-05-21 | 2025-06-19 |

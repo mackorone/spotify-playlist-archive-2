@@ -401,6 +401,42 @@
     },
     {
       "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/54NNXne0fPslTqwzdT6kec"
+      },
+      "artists": [
+        {
+          "name": "Nebuu",
+          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143452,
+      "name": "At Peace",
+      "url": "https://open.spotify.com/track/1fwZhkpRv1Y268qIPIc8jb"
+    },
+    {
+      "album": {
+        "name": "Autonara",
+        "url": "https://open.spotify.com/album/0QIEJuKkMKaikayK0gUarO"
+      },
+      "artists": [
+        {
+          "name": "Miriam van Steeg",
+          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Autonara",
+      "url": "https://open.spotify.com/track/36oHfqmYAmD5hdvgXx4toZ"
+    },
+    {
+      "album": {
         "name": "Aventura",
         "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
       },
@@ -754,7 +790,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 194796,
       "name": "Calm Skies",
       "url": "https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH"
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 156000,
       "name": "Final Step",
       "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
@@ -1752,6 +1788,24 @@
     {
       "album": {
         "name": "Forest Retreat",
+        "url": "https://open.spotify.com/album/5455rZrk03dQkAsjToAgwY"
+      },
+      "artists": [
+        {
+          "name": "Rika Linn",
+          "url": "https://open.spotify.com/artist/3fqx8RiPwj5t3AiBvNcbib"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Forest Retreat",
+      "url": "https://open.spotify.com/track/4hgmQr8jUSbcnuRVICCu5R"
+    },
+    {
+      "album": {
+        "name": "Forest Retreat",
         "url": "https://open.spotify.com/album/0XToDY4gtqpEu4CrWDgnP2"
       },
       "artists": [
@@ -1798,7 +1852,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 202916,
       "name": "Forest Springs",
       "url": "https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa"
@@ -2752,10 +2806,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 168374,
       "name": "Morning on a STHLM Island",
       "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
+    },
+    {
+      "album": {
+        "name": "Morning Spring",
+        "url": "https://open.spotify.com/album/4x0WU6pozeMkcND1zJlifI"
+      },
+      "artists": [
+        {
+          "name": "Solfjord",
+          "url": "https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/2z8607a6qDX2eUFsjI4LM4"
     },
     {
       "album": {
@@ -2914,7 +2986,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 165501,
       "name": "New Lakes",
       "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
@@ -4924,6 +4996,24 @@
       "duration_ms": 136309,
       "name": "Water (Forest Remix)",
       "url": "https://open.spotify.com/track/4RFqW2PC8h0OOc3tktqbOi"
+    },
+    {
+      "album": {
+        "name": "Watercolor",
+        "url": "https://open.spotify.com/album/63JYstDBGYwj9NkN6b2RHZ"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166296,
+      "name": "Watercolor",
+      "url": "https://open.spotify.com/track/3t99n6xfreqB2M8DkInWsy"
     },
     {
       "album": {

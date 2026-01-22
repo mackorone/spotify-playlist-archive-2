@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,163 likes - 96 songs - 21 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,164 likes - 96 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 95 | [\#75 念願の！「ハチパレ」豊田穂乃花さん、スタジオ初登場／超楽しかった!!“リスパレ！LIVE vol.2”](https://open.spotify.com/episode/5MmTj4peoiO8F0HhzNO8sv) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 56:03 |
 | 96 | [\#74 ネタバレ注意！『機動戦士Gundam GQuuuuuuX』と米津玄師と『フリクリ』と…／おじさんたちのグミ論争](https://open.spotify.com/episode/44523yVpwXnRBSz20SIhV3) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 40:00 |
 
-Snapshot ID: `AAAAAKAdLwppBqxrxPRlM68ZXYDHdCTk`
+Snapshot ID: `AAAAAORFc1p8G4GpHogKolRUWVDP8o1T`

@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Shy One
 
-3,461 songs - 7 day 14 hr 27 min
+3,461 songs - 7 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Carry Me](https://open.spotify.com/track/48gRN3yOvCqlfXNRx3EePu) | [Thallo](https://open.spotify.com/artist/18KqjLGyab2PDhaO986hIB) | [Carry Me](https://open.spotify.com/album/0mshkZL8ysrUYGe1gttkQz) | 3:29 | 2022-11-09 | 2022-12-01 |
 | [Carry Me Away \(I Wanna Feel\)](https://open.spotify.com/track/0JhUFxpDzbUwHgE39htZq7) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Carry Me Away \(I Wanna Feel\)](https://open.spotify.com/album/4lH4CzagnY2i6TTqxm1Z8c) | 4:17 | 2023-02-08 | 2024-01-03 |
 | [Carry The Load](https://open.spotify.com/track/1JVEXCJ7pTGOLSs8OjhltR) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Carry The Load](https://open.spotify.com/album/2fQkmWo2zGtU3YPfgbQmdF) | 3:04 | 2024-07-09 | 2024-08-14 |
+| [cartoon network](https://open.spotify.com/track/3JAYQjMRf4iw8GFFcfrwV0) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [boy overboard](https://open.spotify.com/album/2OL6bx0KiB2MoBUO1EeWyi) | 2:31 | 2026-01-21 |  |
 | [Casa Los Abuelos](https://open.spotify.com/track/6xmg79kolFscm71nzySV86) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Casa Los Abuelos](https://open.spotify.com/album/4I2OJjQCVfqIrqpkzlJYrn) | 2:51 | 2024-05-21 | 2024-06-12 |
 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 | 2025-10-21 | 2025-12-04 |
 | [Casino](https://open.spotify.com/track/06uYUAHDAlo2Jxuv9zCWZn) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [Casino](https://open.spotify.com/album/1tqu1wm7xjQz6GBmIUfGOP) | 2:23 | 2023-07-04 | 2023-08-02 |
@@ -1129,7 +1130,7 @@
 | [Gasoline](https://open.spotify.com/track/49XZ89H2sWje7alp7NWxYP) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0), [James Sapphire](https://open.spotify.com/artist/2ObE4KRLjeqv0NpHmxLDv0) | [Gasoline](https://open.spotify.com/album/5t0Z0MTkmf5TnALkYbEUUp) | 2:48 | 2023-11-08 | 2023-11-30 |
 | [Gay Space Cadets](https://open.spotify.com/track/7H2CX9oBe0oRzNJVPXRLH3) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Gay Space Cadets](https://open.spotify.com/album/7feQUrbRRSuhhegsoYNY59) | 2:33 | 2022-07-06 | 2022-09-15 |
 | [Geek Love](https://open.spotify.com/track/6mAx6HpOuJDRbrcj9olnPD) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Geek Love](https://open.spotify.com/album/3tgHVBF744MI6SU0QrpT0J) | 3:56 | 2024-10-15 | 2024-11-20 |
-| [Generation Left On Read](https://open.spotify.com/track/1FEKoDnMyleXwNmHL7dTNQ) | [Murkage Dave](https://open.spotify.com/artist/4fTqtoSkTj4lcLHMANIs4C), [KONOPINKSY](https://open.spotify.com/artist/5xJTpXqLXoLoVzCAKbJKxR) | [Generation Left On Read](https://open.spotify.com/album/5ZmPO0tB2tvTWM1d5M5FxG) | 2:38 | 2026-01-21 |  |
+| [Generation Left On Read](https://open.spotify.com/track/1FEKoDnMyleXwNmHL7dTNQ) | [Murkage Dave](https://open.spotify.com/artist/4fTqtoSkTj4lcLHMANIs4C), [KONOPINSKY](https://open.spotify.com/artist/0RXY3PBBzkkKpOPyeOrI5D) | [Generation Left On Read](https://open.spotify.com/album/5ZmPO0tB2tvTWM1d5M5FxG) | 2:38 | 2026-01-21 |  |
 | [Gentle Angel](https://open.spotify.com/track/3MhCQWnKGxKhDsYSpRsOd9) | [Kieran Stracey](https://open.spotify.com/artist/0l7ylVy9QYBbXlLStMIx4R) | [Gentle Angel](https://open.spotify.com/album/51sGWlBoPzNhmjnqqgaAaf) | 2:16 | 2024-06-11 | 2024-07-17 |
 | [Gentle Romance](https://open.spotify.com/track/54BJDdU38sXG8mRO0KgDBS) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Gentle Romance](https://open.spotify.com/album/3PoSc1ElaxLbLk8QQaunBn) | 6:07 | 2022-05-04 | 2022-06-09 |
 | [Genuine](https://open.spotify.com/track/2K7v0oOUj7ruX9kweUUIec) | [The Quiet One](https://open.spotify.com/artist/2DpM0WxJWD74kcwTjQwV1l) | [Genuine](https://open.spotify.com/album/3lbHyKz3H4ahKDrohPb5Fz) | 3:02 | 2022-11-16 | 2023-01-19 |
@@ -3145,7 +3146,6 @@
 | [Tower of Geezer](https://open.spotify.com/track/2nxY3bREOZb3OoE3wmV912) | [Løcust](https://open.spotify.com/artist/0cR6xy67KVZWyo935dUxlH) | [Tower of Geezer](https://open.spotify.com/album/7EDTdVGM10xnrejq4HQYy4) | 1:44 | 2025-01-22 | 2025-02-19 |
 | [Toxic](https://open.spotify.com/track/5rh2uyPwGooFfbahEQ6aO7) | [Merczz](https://open.spotify.com/artist/5GvptfCCokbZjCIzpVj4Sk) | [Toxic](https://open.spotify.com/album/7tv4NoKjFrUep5n9B2TSqC) | 2:03 | 2023-08-29 | 2023-09-20 |
 | [Toxicity](https://open.spotify.com/track/1e8GbVWI0KQMhl0eIx3HKC) | [Kate Bond](https://open.spotify.com/artist/3CWmhXjbBDZxRyKgmsmuO3) | [Toxicity](https://open.spotify.com/album/4bPYaebnFPnie6QWs4SFuI) | 3:01 | 2025-08-13 | 2025-09-17 |
-| [Track 1](https://open.spotify.com/track/3JAYQjMRf4iw8GFFcfrwV0) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-21 |  |
 | [Train to Soho](https://open.spotify.com/track/6WW6ZvgoGTfVvD7afJ2ous) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Train to Soho](https://open.spotify.com/album/1lOnnlaJgYjfnOi9CbUKOT) | 3:55 | 2023-08-01 | 2023-09-13 |
 | [Tread Water](https://open.spotify.com/track/78pExR0VWB6OPI0O2dyxJ9) | [Kitty](https://open.spotify.com/artist/6ahDtngazxljB9q5ISidBl) | [Tread Water](https://open.spotify.com/album/1KBQndePX3n5P46yK8t4MY) | 3:34 | 2024-02-07 | 2024-03-13 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-12 | 2025-12-04 |

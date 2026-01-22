@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-147 songs - 9 hr 4 min
+148 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Kul Aaqlik](https://open.spotify.com/track/3KLBisaDEYNU8cZqCu8rc1) | [Naser Almansouri](https://open.spotify.com/artist/0knsv9nmoVyEDtz3N2vBoB) | [Kul Aaqlik](https://open.spotify.com/album/0AhXjQFS4bh1mIpVnMlb2c) | 2:41 | 2022-05-06 | 2023-04-27 |
 | [La Telaab Wayay](https://open.spotify.com/track/0Bo8mqU4rK9ICEQW9CGBOh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [La Telaab Wayay](https://open.spotify.com/album/2cTuWoNRflW6YwUjtlAPKm) | 3:00 | 2022-05-25 | 2023-02-09 |
 | [La Tergaa Be Qarark](https://open.spotify.com/track/0elAbmGOVFc8KfsPB31sln) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [La Tergaa Be Qarark](https://open.spotify.com/album/44pyNwjqyukEytGm7Xzfsi) | 3:31 | 2022-05-06 | 2023-04-27 |
-| [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 | 2022-08-26 |  |
+| [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 | 2022-08-26 | 2026-01-22 |
 | [Low Tehbny](https://open.spotify.com/track/1Qv14GgwC8DOg3w5IlXz2V) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Yousif Basim](https://open.spotify.com/artist/48gGrQgctA3maCIN6xRNTd) | [Low Tehbny](https://open.spotify.com/album/26QmCBzT5VngDgCFEmuAb1) | 3:07 | 2023-04-26 |  |
 | [Ma Yehemeny](https://open.spotify.com/track/0ruxtWuNlLi2q9ONynhVI8) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Ma Yehemeny](https://open.spotify.com/album/3oGvSJA0ee6v5KGH5pWEX8) | 3:53 | 2022-05-06 | 2022-06-17 |
 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 | 2022-07-19 | 2023-09-30 |
@@ -153,6 +153,7 @@
 | [ماتت بعدكم روح](https://open.spotify.com/track/5mVsxtQWsDZvA2kxmqd9EB) | [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ماتت بعدكم روح](https://open.spotify.com/album/7HjApDZg39EjEZN5IWxFDy) | 4:36 | 2022-05-06 | 2023-04-27 |
 | [ناري](https://open.spotify.com/track/2rKrBAXd7STYoXjmy11n7F) | [احمد ستار](https://open.spotify.com/artist/3FqD6nZUigSJdLQvgWoK2E) | [ناري](https://open.spotify.com/album/59uFRxATMsk4vr2HsMZMMy) | 3:25 | 2025-01-22 |  |
 | [وياك](https://open.spotify.com/track/6SRMA4WAA4t2qYPFtpLIAg) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [وياك](https://open.spotify.com/album/2gxHtzYYDIlpHJEEqWQZOV) | 3:58 | 2023-04-04 |  |
+| [وين قلبك](https://open.spotify.com/track/51w7NPC0rZaHixDItoaoGV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [وين قلبك](https://open.spotify.com/album/7paYp6SNBHD5klEnUVjx0H) | 3:23 | 2026-01-21 |  |
 | [يما الحب](https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7FSEVwrfLKelL18sRCsxxe) | 5:17 | 2022-05-06 | 2022-11-02 |
 | [يما الحب](https://open.spotify.com/track/7zputQxG3bFaAuImb2575d) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7s1sSgFNtXuZeTWMpLF0fS) | 5:17 | 2022-08-26 | 2023-04-27 |
 

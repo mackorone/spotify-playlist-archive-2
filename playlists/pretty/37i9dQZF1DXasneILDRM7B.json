@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3001081,
+  "num_followers": 3001093,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "Left for Dead",
-        "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
-          "name": "Lustra",
-          "url": "https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Scotty Doesn't Know",
-      "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
+      "duration_ms": 172466,
+      "name": "Why Don't You Get A Job",
+      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "Left for Dead",
+        "url": "https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Lustra",
+          "url": "https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Why Don't You Get A Job",
-      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
+      "duration_ms": 175200,
+      "name": "Scotty Doesn't Know",
+      "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
-      },
-      "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Like We Used To",
-      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "All Killer No Filler",
         "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "fever",
-        "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
         }
       ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
+      "duration_ms": 203733,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1619,6 +1603,22 @@
       "duration_ms": 244744,
       "name": "Came Out Swinging",
       "url": "https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "fever",
+        "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
     },
     {
       "added_at": "2023-01-25 14:57:38",

@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "35 MM",
+        "url": "https://open.spotify.com/album/4dgyPysAf3KxZeHc6kf8Zl"
+      },
+      "artists": [
+        {
+          "name": "Douglas Gamley",
+          "url": "https://open.spotify.com/artist/1EvGQrV8jKntlYXuPOBKvy"
+        },
+        {
+          "name": "Robert Docker",
+          "url": "https://open.spotify.com/artist/3iqIQJxpt4Avoi7dOtZlsC"
+        },
+        {
+          "name": "The Peter Knight Singers",
+          "url": "https://open.spotify.com/artist/5vIXYGkRUd7hyflIqaI066"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140921,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7AaaMnP8tHzym4q2zTAz7t"
+    },
+    {
+      "album": {
         "name": "Bandido-A-Gogo! The Best Of Carlos & The Bandidos",
         "url": "https://open.spotify.com/album/34OmnMRBCBPzyKQiXMhUT9"
       },
@@ -430,6 +456,24 @@
       "duration_ms": 160773,
       "name": "Don't Let The Stars Get In Your Eyes",
       "url": "https://open.spotify.com/track/2cwTVrrgHxl4gcHY4IHr18"
+    },
+    {
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/2S9czi8B6ThrmMyQTFMu65"
+      },
+      "artists": [
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128960,
+      "name": "Draggin' The River",
+      "url": "https://open.spotify.com/track/0Ym2azWtRJhCWozdKc0d9t"
     },
     {
       "album": {
@@ -1113,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Get Rhythm",
+        "url": "https://open.spotify.com/album/5TtGDs4EhglpdicnsfwwJr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125173,
+      "name": "Luther Played The Boogie",
+      "url": "https://open.spotify.com/track/1cUa62abt2K3etEavbcENS"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2AuHUprHzZOXDyJSinNdwE"
       },
@@ -1284,6 +1346,24 @@
       "duration_ms": 166590,
       "name": "Personality",
       "url": "https://open.spotify.com/track/2yUT1cZTVbVpLfCVYKhp8B"
+    },
+    {
+      "album": {
+        "name": "Piano Nellie",
+        "url": "https://open.spotify.com/album/2eD826mFXxPJAaGzzIvb8Z"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brant",
+          "url": "https://open.spotify.com/artist/3MyFGeY1UDCJSVdrWdznSh"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Piano Nellie",
+      "url": "https://open.spotify.com/track/6AxYigFmdDadTXUB8GmFYU"
     },
     {
       "album": {
@@ -1511,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Swanee River",
+        "url": "https://open.spotify.com/album/1u8Rq33ouQhZERHL6eDEJk"
+      },
+      "artists": [
+        {
+          "name": "Tommy Dorsey Orchestra",
+          "url": "https://open.spotify.com/artist/1eOE35R4NC60yvasrSxOED"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Song of India",
+      "url": "https://open.spotify.com/track/52JqrSzJCrQNp4FUrgmroB"
+    },
+    {
+      "album": {
         "name": "Johhny Bond: Country and Western: The Standard Transcriptions",
         "url": "https://open.spotify.com/album/57elFDDoW57HCK2C0fjb6O"
       },
@@ -1544,6 +1642,24 @@
       "duration_ms": 197813,
       "name": "Take Me Home, Country Roads - Rerecorded",
       "url": "https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq"
+    },
+    {
+      "album": {
+        "name": "The Future of Easy Listening: Leroy Anderson's Modern Orchestra",
+        "url": "https://open.spotify.com/album/46tgjyU2PTzL8s08EB9pva"
+      },
+      "artists": [
+        {
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "The Syncopated Clock",
+      "url": "https://open.spotify.com/track/0U7zBpWxRkMsYJ6x78Z47A"
     },
     {
       "album": {
@@ -1660,6 +1776,24 @@
       "duration_ms": 201160,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/5GMgXFAE165COiSXLElbAV"
+    },
+    {
+      "album": {
+        "name": "Presenting Elton Britt",
+        "url": "https://open.spotify.com/album/016arGrAjGeta09FWpXwsl"
+      },
+      "artists": [
+        {
+          "name": "Elton Britt",
+          "url": "https://open.spotify.com/artist/0KpEAwp8zARUw37m0Jtdei"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Uranium Fever",
+      "url": "https://open.spotify.com/track/7IPzEPRs8Y3j0hieZ4wdYf"
     },
     {
       "album": {

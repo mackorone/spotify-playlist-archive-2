@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 437024,
+  "num_followers": 437090,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1SR9pFDyApxSYP8cYpPTBJ"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "duration_ms": 180608,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
         "name": "Benny Thanks",
         "url": "https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU"
       },
@@ -627,22 +647,6 @@
       "duration_ms": 358533,
       "name": "Benny Thanks",
       "url": "https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
-        "name": "Late Again",
-        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 152228,
-      "name": "Asterism Waltz",
-      "url": "https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -683,6 +687,22 @@
       "duration_ms": 283266,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
+        "name": "Late Again",
+        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 152228,
+      "name": "Asterism Waltz",
+      "url": "https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -759,26 +779,6 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
-      },
-      "artists": [
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 397173,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/1SR9pFDyApxSYP8cYpPTBJ"
-      },
-      "artists": [
-        {
-          "name": "Ola W Jansson",
-          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
-        },
-        {
-          "name": "W JAZZ TRIO",
-          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
-        }
-      ],
-      "duration_ms": 180608,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
         "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
         "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 268081,
       "name": "Bess Is My Woman Now",
       "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
+        "name": "These Foolish Things",
+        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
         "name": "Diane / Estemporaneo",
         "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 329693,
       "name": "Diane",
       "url": "https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
-        "name": "These Foolish Things",
-        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
-        }
-      ],
-      "duration_ms": 341695,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
     },
     {
       "added_at": "2026-01-16 09:19:19",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-01-16 09:19:19",
       "album": {
-        "name": "Bud Shank and Bill Perkins",
-        "url": "https://open.spotify.com/album/1YexsZvfHo2a91d5wcMDiZ"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bill Perkins",
-          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5"
-    },
-    {
-      "added_at": "2026-01-16 09:19:19",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 359982,
       "name": "Theo",
       "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
+    },
+    {
+      "added_at": "2026-01-16 09:19:19",
+      "album": {
+        "name": "Bud Shank and Bill Perkins",
+        "url": "https://open.spotify.com/album/1YexsZvfHo2a91d5wcMDiZ"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bill Perkins",
+          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5"
     },
     {
       "added_at": "2026-01-16 09:19:19",

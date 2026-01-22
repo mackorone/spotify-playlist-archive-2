@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1753761,
+  "num_followers": 1753721,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-01-20 22:41:08",
       "album": {
+        "name": "Worth the Wait",
+        "url": "https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 189875,
+      "name": "Worth the Wait",
+      "url": "https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs"
+    },
+    {
+      "added_at": "2026-01-20 22:41:08",
+      "album": {
         "name": "Heartlands",
         "url": "https://open.spotify.com/album/6tNL6yercbIdXOOUJEUMrw"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 222461,
       "name": "Heartlands",
       "url": "https://open.spotify.com/track/4fsBCUcXnHZhWDBa2iiFfz"
-    },
-    {
-      "added_at": "2026-01-20 22:41:08",
-      "album": {
-        "name": "Worth the Wait",
-        "url": "https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 189875,
-      "name": "Worth the Wait",
-      "url": "https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs"
     },
     {
       "added_at": "2026-01-20 22:41:08",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-644 songs - 1 day 10 hr 41 min
+645 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [Learnin' The Blues](https://open.spotify.com/track/0o4RY6TciAfnJh9fhEime2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 3:01 | 2024-07-24 | 2025-06-28 |
 | [Leave It To Me](https://open.spotify.com/track/3ADaOcwiMPW3QSBJMBEoXs) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Brian & Tony Gold](https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs) | [Hot Shot](https://open.spotify.com/album/210xxpSUNwaVdWEKIjO52n) | 3:37 | 2024-07-24 | 2025-06-28 |
 | [Leave It To Me](https://open.spotify.com/track/1rUYowbA4s3kLXMVewRYHx) | [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 4:15 | 2025-06-27 |  |
-| [Les Girls](https://open.spotify.com/track/4wuLVgC2nYLvKhbmxfsfwW) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years 1959\-1966](https://open.spotify.com/album/6UoO3L0ZpeXOg66Z6bMDW5) | 2:01 | 2024-07-24 |  |
+| [Les Girls](https://open.spotify.com/track/4wuLVgC2nYLvKhbmxfsfwW) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years 1959\-1966](https://open.spotify.com/album/6UoO3L0ZpeXOg66Z6bMDW5) | 2:01 | 2024-07-24 | 2026-01-22 |
+| [Les Girls](https://open.spotify.com/track/6djAWzMP3qJ2UC2cIuRrnG) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years \(Expanded Edition\)](https://open.spotify.com/album/1Xq3pb1oUYrMqTHuc7N4Nl) | 2:01 | 2026-01-21 |  |
 | [Let's Be Buddies](https://open.spotify.com/track/6v93j4H41QfsXu7kpB0F89) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Les Brown & His Orchestra](https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX) | [The Complete Okeh & Columbia Recordings 1940\-1946](https://open.spotify.com/album/1rBmMsFU0sohwm8WKmvvuU) | 3:06 | 2025-06-27 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 | 2025-06-27 |  |
 | [Let's Face It: Everything I love](https://open.spotify.com/track/2hGjo1PTdqQw5XtqG9JN6i) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/64yK6fyMAvHUcpTU6sFpVi) | 8:37 | 2025-07-27 |  |

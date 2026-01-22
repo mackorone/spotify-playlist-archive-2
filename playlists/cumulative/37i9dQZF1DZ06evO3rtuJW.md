@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-216 songs - 10 hr 44 min
+217 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Glitches \(feat\. G Herbo\)](https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Glitches](https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh) | 1:58 | 2022-10-31 | 2023-04-13 |
 | [Global Spinning \(feat\. BabyDrill\)](https://open.spotify.com/track/6ViNOWs6pBf1kvwplclX6K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:48 | 2024-09-09 | 2024-10-20 |
 | [Go Part 1 \(with G Herbo\)](https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:41 | 2022-10-28 | 2025-11-09 |
-| [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 | 2026-01-21 |  |
+| [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 | 2026-01-21 | 2026-01-22 |
 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 | 2024-11-09 |  |
 | [GWSM](https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SCOOMSDAY](https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C) | 2:28 | 2026-01-15 |  |
 | [High Speed](https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 2:44 | 2022-10-28 |  |
@@ -166,6 +166,7 @@
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-28 | 2024-06-02 |
 | [Skeme \(feat\. G Herbo\)](https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [4GOD II](https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK) | 2:19 | 2023-08-01 | 2024-07-15 |
 | [Sleepless Nights](https://open.spotify.com/track/4XR8LZWfJkrXJOS8zaC5DA) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:18 | 2022-10-28 | 2023-01-06 |
+| [Sneaky Link Chicago](https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX) | [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Chicago](https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk) | 2:00 | 2026-01-22 |  |
 | [Splat](https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:24 | 2024-09-09 | 2024-12-01 |
 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2022-10-28 | 2024-07-24 |
 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 | 2025-04-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 557799,
+  "num_followers": 557869,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABz5BY2Xmo9nQHmYi9UY8G5",
+  "snapshot_id": "aW7FgAAAAAC5IdIhT0tTb8pq2eJqHpQP",
   "tracks": [
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
+      "duration_ms": 230053,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
     },
     {
       "added_at": null,

@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Simple Math",
       "url": "https://open.spotify.com/track/09UFD242DWtLC8QAexJLm5"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 147692,
       "name": "Wayne Towers",
       "url": "https://open.spotify.com/track/4h8ZaSXseklaqsK9Q1dksx"

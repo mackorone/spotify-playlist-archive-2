@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw"
+      },
+      "artists": [
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178576,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn"
+    },
+    {
+      "album": {
         "name": "Cielo Aperto",
         "url": "https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe"
       },

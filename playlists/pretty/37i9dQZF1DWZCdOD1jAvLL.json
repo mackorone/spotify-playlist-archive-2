@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Goodboys, Local Singles and Ryan Shepherd",
-  "num_followers": 268527,
+  "num_followers": 268540,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,30 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
         }
       ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+      "duration_ms": 125625,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -655,6 +663,26 @@
       "duration_ms": 185215,
       "name": "World Of The Rave",
       "url": "https://open.spotify.com/track/5kS92GBwDEloA9uKbFNulW"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -735,34 +763,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Amira Eldine",
-          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
-        }
-      ],
-      "duration_ms": 125625,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "I Don't Trust A Soul",
         "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 146059,
       "name": "I Don't Trust A Soul",
       "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -991,6 +991,38 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "Fight Machine (feat. NAIIM)",
+        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "NAIIM",
+          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Fight Machine (feat. NAIIM)",
+      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
       },
@@ -1099,38 +1131,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Fight Machine (feat. NAIIM)",
-        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        },
-        {
-          "name": "Eli & Dani",
-          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
-        },
-        {
-          "name": "NAIIM",
-          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Fight Machine (feat. NAIIM)",
-      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "take your vibes and go",
         "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
       },
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "You Gonna Want Me (I Know)",
-        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "You Gonna Want Me (I Know)",
-      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/4TupQBftGajUoFQrw9Z0CS"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "girl$ (Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 176842,
       "name": "Jump Higher",
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/4TupQBftGajUoFQrw9Z0CS"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -1851,6 +1851,30 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Rich DietZ",
+          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
+        },
+        {
+          "name": "Smith & Sorren",
+          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
         "name": "Gas Pedal Remix",
         "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
       },
@@ -1875,30 +1899,6 @@
       "duration_ms": 130070,
       "name": "Gas Pedal Remix",
       "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Rich DietZ",
-          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
-        },
-        {
-          "name": "Smith & Sorren",
-          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "JUMP OUT",
-        "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "JUMP OUT",
-      "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
         "name": "Bandit (Club Mix)",
         "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -2287,46 +2287,30 @@
     {
       "added_at": "2026-01-16 05:00:27",
       "album": {
-        "name": "Risk It All",
-        "url": "https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT"
+        "name": "Phreaky MF (Matroda & GREG 99 Remix)",
+        "url": "https://open.spotify.com/album/5e5GMFMEEPOwh0Q8vdgCrJ"
       },
       "artists": [
         {
-          "name": "MUST DIE!",
-          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
         },
         {
-          "name": "Jiqui",
-          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+          "name": "Mr. 69",
+          "url": "https://open.spotify.com/artist/7DYttpiOZdyURH5XmQXeSD"
         },
         {
-          "name": "JiLLi",
-          "url": "https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
         }
       ],
-      "duration_ms": 235285,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+      "duration_ms": 211874,
+      "name": "Phreaky MF - Matroda & GREG 99 Remix",
+      "url": "https://open.spotify.com/track/7yUcCULqUvVOO33Ob5qOPF"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -2351,6 +2335,50 @@
       "duration_ms": 173793,
       "name": "Torch",
       "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+    },
+    {
+      "added_at": "2026-01-16 05:00:27",
+      "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "JiLLi",
+          "url": "https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3"
+        }
+      ],
+      "duration_ms": 235285,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz"
     },
     {
       "added_at": "2026-01-16 05:00:27",
@@ -2407,34 +2435,6 @@
       "duration_ms": 176250,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:27",
-      "album": {
-        "name": "Phreaky MF (Matroda & GREG 99 Remix)",
-        "url": "https://open.spotify.com/album/5e5GMFMEEPOwh0Q8vdgCrJ"
-      },
-      "artists": [
-        {
-          "name": "Mike Dunn",
-          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
-        },
-        {
-          "name": "Mr. 69",
-          "url": "https://open.spotify.com/artist/7DYttpiOZdyURH5XmQXeSD"
-        },
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "GREG 99",
-          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
-        }
-      ],
-      "duration_ms": 211874,
-      "name": "Phreaky MF - Matroda & GREG 99 Remix",
-      "url": "https://open.spotify.com/track/7yUcCULqUvVOO33Ob5qOPF"
     },
     {
       "added_at": "2026-01-16 05:00:27",

@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 113689,
       "name": "don't stop freestyle",
       "url": "https://open.spotify.com/track/5qRhSP9lDIS4sokxoPtU9i"
@@ -11056,6 +11056,24 @@
       "duration_ms": 188387,
       "name": "N64",
       "url": "https://open.spotify.com/track/57ZEnKxB1ZOsahrd6nfqTQ"
+    },
+    {
+      "album": {
+        "name": "Nagoya Rich Boy",
+        "url": "https://open.spotify.com/album/5sFKUwooJI9QP3NUjVC2nP"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156832,
+      "name": "Nagoya Rich Boy",
+      "url": "https://open.spotify.com/track/5x9MJQAX2KVuVErOgx6qTz"
     },
     {
       "album": {

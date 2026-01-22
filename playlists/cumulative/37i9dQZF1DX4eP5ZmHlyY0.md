@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: STARGLOW
 
-863 songs - 1 day 23 hr 17 min
+865 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-06-19 | 2025-08-23 |
 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 | 2024-08-13 | 2024-12-23 |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-01 | 2025-08-20 |
+| [Amazing!!!!!!](https://open.spotify.com/track/0KPpD49xKwTQWSBCZlRqjK) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Amazing!!!!!!](https://open.spotify.com/album/6Up62WHwhBpFvjnlIU7rv3) | 3:43 | 2026-01-21 |  |
 | [Aonooto](https://open.spotify.com/track/5uHoSGdji2lJjpZ4AtcpEw) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Aonooto](https://open.spotify.com/album/27CGUNOwhGV5NG46hXXYCV) | 4:00 | 2025-07-08 | 2025-08-05 |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-02-20 | 2024-06-03 |
 | [Arcadia](https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Arcadia](https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO) | 2:50 | 2025-09-30 | 2026-01-15 |
@@ -660,7 +661,7 @@
 | [Swish](https://open.spotify.com/track/20EmCIICH9XHkzAoYYYywu) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [Swish](https://open.spotify.com/album/26LYuBw65h8ipQvBmw6XMS) | 2:50 | 2025-03-09 | 2025-04-07 |
 | [SWISH DAT](https://open.spotify.com/track/6Y8Wcj1NS3dy3tk7NTyhvB) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [SWISH DAT](https://open.spotify.com/album/3C9UtowLQZlhdJ6Ir99XS0) | 3:10 | 2025-10-24 | 2026-01-15 |
 | [SWITCHing](https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [SWITCHing](https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8) | 3:05 | 2023-11-23 | 2024-02-26 |
-| [Symphony](https://open.spotify.com/track/1mIffnJiNYKS3WUrmp8t5W) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [Symphony](https://open.spotify.com/album/2wYK44CCGbZNZmIhYkD7HR) | 3:43 | 2025-12-11 |  |
+| [Symphony](https://open.spotify.com/track/1mIffnJiNYKS3WUrmp8t5W) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [Symphony](https://open.spotify.com/album/2wYK44CCGbZNZmIhYkD7HR) | 3:43 | 2025-12-11 | 2026-01-22 |
 | [SYNERGY](https://open.spotify.com/track/4xLrgPmQyaXmV6SN9xodl2) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Dimensional Bridge](https://open.spotify.com/album/41CivMiTP0KfVcXZ6kWzdy) | 3:03 | 2025-02-04 | 2025-03-07 |
 | [T.G.I\. Friday Night](https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [T.G.I\. Friday Night](https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT) | 3:35 | 2024-03-19 | 2024-10-29 |
 | [TAKE A SHOT](https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [TAKE A SHOT](https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha) | 2:28 | 2025-09-18 | 2025-11-14 |
@@ -727,7 +728,7 @@
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 | 2024-04-11 |
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2025-01-04 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
-| [Welcome To Our Show Tonight](https://open.spotify.com/track/0bqPmSjWUysmjTwEuYnV7u) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [’s travelers](https://open.spotify.com/album/1RNh6f6HMQ2woD5KHr0Rbo) | 3:57 | 2025-12-02 |  |
+| [Welcome To Our Show Tonight](https://open.spotify.com/track/0bqPmSjWUysmjTwEuYnV7u) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [’s travelers](https://open.spotify.com/album/1RNh6f6HMQ2woD5KHr0Rbo) | 3:57 | 2025-12-02 | 2026-01-22 |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
 | [What Is Your Secret?](https://open.spotify.com/track/7GSDi90nphdPZfkieyuZGe) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [What Is Your Secret?](https://open.spotify.com/album/3X0CLXVrz3teE9SQQShyeS) | 3:36 | 2025-02-25 | 2025-04-21 |
 | [What Time Is It?](https://open.spotify.com/track/1j98eCtsVtPdxilHndXcsv) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [What Time Is It?](https://open.spotify.com/album/0EwMZukqVpTkfii1Oz0WFY) | 2:31 | 2024-07-23 | 2024-09-25 |
@@ -844,6 +845,7 @@
 | [心盗夜](https://open.spotify.com/track/0r8o7thnwGB9xFbdesiebK) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [心盗夜](https://open.spotify.com/album/2WDl6ec11JYqKSDAUlo0u0) | 2:53 | 2025-11-05 | 2026-01-15 |
 | [悪戯な天使 \- Itazurana Tenshi](https://open.spotify.com/track/5OScYgWsvZ5jgbDascFV6F) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [悪戯な天使 \(Itazurana Tenshi\)](https://open.spotify.com/album/6fkeAdFCBSQRF4Wb8KBfTO) | 4:30 | 2025-10-24 | 2025-12-13 |
 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 | 2025-07-13 | 2025-09-01 |
+| [愛執](https://open.spotify.com/track/6d9zFmuJoTW5RdsJJX1er1) | [WEST.](https://open.spotify.com/artist/0VbpS8goXhAQ8vnwiJUNf3) | [愛執](https://open.spotify.com/album/3G1XxXWOHbkfJ9YK2JlBmn) | 3:25 | 2026-01-21 |  |
 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 | 2024-05-28 | 2024-06-13 |
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |
 | [月の裏で会いましょう](https://open.spotify.com/track/0eRMZs55Zgf93wU7p3VVef) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [月の裏で会いましょう](https://open.spotify.com/album/6Aa8bNpdbYSaCpFcV5rpqE) | 4:52 | 2025-07-22 | 2025-11-10 |

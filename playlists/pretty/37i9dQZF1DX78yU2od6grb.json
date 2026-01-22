@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 540126,
+  "num_followers": 540080,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -247,30 +247,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
         "url": "https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "THE END",
-        "url": "https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 206308,
-      "name": "THE END",
-      "url": "https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "I'm Just Feelin' (Du Du Du)",
         "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 165129,
       "name": "I'm Just Feelin' (Du Du Du)",
       "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "THE END",
+        "url": "https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 206308,
+      "name": "THE END",
+      "url": "https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
-        "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
-      "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
       },
@@ -1135,6 +1111,30 @@
       "duration_ms": 238245,
       "name": "Running",
       "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
+        "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
+      "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Right Into You",
-        "url": "https://open.spotify.com/album/7gbcNX18avaFcPPYEh2eX4"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Right Into You",
-      "url": "https://open.spotify.com/track/68sRAo8UPT1QGtSdmEUgvz"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Bend The Knee",
         "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 187402,
       "name": "Bend The Knee",
       "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Right Into You",
+        "url": "https://open.spotify.com/album/7gbcNX18avaFcPPYEh2eX4"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Right Into You",
+      "url": "https://open.spotify.com/track/68sRAo8UPT1QGtSdmEUgvz"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Midnight Calls",
-        "url": "https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk"
-      },
-      "artists": [
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 191569,
-      "name": "Midnight Calls",
-      "url": "https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Wake Up With You",
         "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 183870,
       "name": "Wake Up With You",
       "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Midnight Calls",
+        "url": "https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk"
+      },
+      "artists": [
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 191569,
+      "name": "Midnight Calls",
+      "url": "https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl"
     },
     {
       "added_at": "2025-02-07 03:01:15",

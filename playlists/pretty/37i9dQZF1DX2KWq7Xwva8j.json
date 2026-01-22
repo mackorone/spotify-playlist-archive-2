@@ -1,6 +1,6 @@
 {
   "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: c\u00e9ro.",
-  "num_followers": 29209,
+  "num_followers": 29211,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,18 @@
     {
       "added_at": "2025-10-23 22:00:53",
       "album": {
-        "name": "DARRY RING",
-        "url": "https://open.spotify.com/album/17tIbvyzZZwS4eG3f1a6PI"
+        "name": "VEINTIPICO",
+        "url": "https://open.spotify.com/album/6YW7PgtKhCjphEhYgOpS9Q"
       },
       "artists": [
         {
           "name": "c\u00e9ro",
           "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
         }
       ],
-      "duration_ms": 136949,
-      "name": "DARRY RING",
-      "url": "https://open.spotify.com/track/1SvHtMM1KWiH9HLf5NjtAO"
+      "duration_ms": 146938,
+      "name": "VEINTIPICO",
+      "url": "https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy"
     },
     {
       "added_at": "2025-10-23 22:00:53",
@@ -811,18 +807,22 @@
     {
       "added_at": "2025-10-23 22:00:53",
       "album": {
-        "name": "VEINTIPICO",
-        "url": "https://open.spotify.com/album/6YW7PgtKhCjphEhYgOpS9Q"
+        "name": "DARRY RING",
+        "url": "https://open.spotify.com/album/17tIbvyzZZwS4eG3f1a6PI"
       },
       "artists": [
         {
           "name": "c\u00e9ro",
           "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
         }
       ],
-      "duration_ms": 146938,
-      "name": "VEINTIPICO",
-      "url": "https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy"
+      "duration_ms": 136949,
+      "name": "DARRY RING",
+      "url": "https://open.spotify.com/track/1SvHtMM1KWiH9HLf5NjtAO"
     },
     {
       "added_at": "2025-10-23 22:00:53",

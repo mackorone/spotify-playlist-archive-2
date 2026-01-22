@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3887264,
+  "num_followers": 3887785,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Por Amar A Ciegas",
-      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "The King Of Dance",
         "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 182453,
       "name": "Bailando por Ahi",
       "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "A La Reconquista",
         "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 216440,
       "name": "Felina",
       "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 179093,
       "name": "Me Voy Pa'l Party",
       "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Top Of The Line",
-        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 196533,
       "name": "Volver\u00e1s a M\u00ed",
       "url": "https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Alocate",
-      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Alocate",
+      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 238890,
-      "name": "Si No Cuidas Tu Mujer",
-      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "El Que los Puso a Entonar",
         "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 202053,
       "name": "Te Imagino",
       "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 238890,
+      "name": "Si No Cuidas Tu Mujer",
+      "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2539,26 +2539,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
-      },
-      "artists": [
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Kartiel",
-          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
-        }
-      ],
-      "duration_ms": 213577,
-      "name": "Si Te Vas (feat. Kartiel)",
-      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Flow la Discoteka 2",
         "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
       },
@@ -2575,6 +2555,26 @@
       "duration_ms": 264212,
       "name": "Chica Virtual (feat. Arcangel)",
       "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+      },
+      "artists": [
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Kartiel",
+          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
+        }
+      ],
+      "duration_ms": 213577,
+      "name": "Si Te Vas (feat. Kartiel)",
+      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2739,26 +2739,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Todo a su tiempo",
-        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
-      },
-      "artists": [
-        {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Se activaron los anormales",
-      "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Money Is Still A Major Issue",
         "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
@@ -2779,6 +2759,26 @@
       "duration_ms": 240133,
       "name": "Culo Remix",
       "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Todo a su tiempo",
+        "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
+      },
+      "artists": [
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Se activaron los anormales",
+      "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
-      },
-      "artists": [
-        {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Voz Sensual",
-      "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Cantinero",
         "url": "https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1"
       },
@@ -2995,6 +2979,22 @@
       "duration_ms": 221074,
       "name": "Cantinero",
       "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Voz Sensual",
+      "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3115,6 +3115,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "2K20, Pt. 1 (Live)",
+        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 128259,
+      "name": "Mayor Que Yo - Live",
+      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
       },
@@ -3135,22 +3151,6 @@
       "duration_ms": 195816,
       "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
       "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "2K20, Pt. 1 (Live)",
-        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mayor Que Yo - Live",
-      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
     },
     {
       "added_at": "2025-12-29 17:06:55",

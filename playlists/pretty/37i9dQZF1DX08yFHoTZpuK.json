@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 21790,
+  "num_followers": 21844,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-01-09 14:01:02",
       "album": {
+        "name": "IN THE RAIN",
+        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "IN THE RAIN x XDM",
+      "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
+    },
+    {
+      "added_at": "2026-01-09 14:01:02",
+      "album": {
         "name": "\u30bd\u30ea\u30c3\u30c9\u30fb\u30b9\u30c6\u30a4\u30c8\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4\u30a1\u30fc",
         "url": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 254960,
       "name": "TECHNOPOLIS",
       "url": "https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0"
-    },
-    {
-      "added_at": "2026-01-09 14:01:02",
-      "album": {
-        "name": "IN THE RAIN",
-        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 194452,
-      "name": "IN THE RAIN x XDM",
-      "url": "https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh"
     },
     {
       "added_at": "2026-01-09 14:01:02",
@@ -611,22 +611,18 @@
     {
       "added_at": "2026-01-09 14:01:02",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
+        "name": "Shinichiro Yokota Presents Do It Again and Again",
+        "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
       },
       "artists": [
         {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Warung",
-          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+          "name": "Shinichiro Yokota",
+          "url": "https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV"
         }
       ],
-      "duration_ms": 200655,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
+      "duration_ms": 366421,
+      "name": "Quiet Town of Tokyo",
+      "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
     },
     {
       "added_at": "2026-01-09 14:01:02",
@@ -647,18 +643,22 @@
     {
       "added_at": "2026-01-09 14:01:02",
       "album": {
-        "name": "Shinichiro Yokota Presents Do It Again and Again",
-        "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
       },
       "artists": [
         {
-          "name": "Shinichiro Yokota",
-          "url": "https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV"
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
         }
       ],
-      "duration_ms": 366421,
-      "name": "Quiet Town of Tokyo",
-      "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
+      "duration_ms": 200655,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
     },
     {
       "added_at": "2026-01-09 14:01:02",

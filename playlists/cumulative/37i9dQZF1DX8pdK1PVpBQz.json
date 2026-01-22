@@ -64095,6 +64095,24 @@
     },
     {
       "album": {
+        "name": "skins",
+        "url": "https://open.spotify.com/album/1qwb3jaPuOSJ9EurJejqfL"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY*",
+          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131312,
+      "name": "skins",
+      "url": "https://open.spotify.com/track/59JLmPHHjlpHZv9vIZeoIk"
+    },
+    {
+      "album": {
         "name": "Skit",
         "url": "https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8"
       },

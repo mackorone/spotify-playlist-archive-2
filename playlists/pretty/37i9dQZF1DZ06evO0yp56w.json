@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 827917,
+  "num_followers": 827974,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAACCNWU6hBxvTv8AdMRtLjyG",
+  "snapshot_id": "aW7FgAAAAADRgQh+ddn9Py5DNp3bJwjE",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+      "duration_ms": 302505,
+      "name": "Butterflies & Hurricanes",
+      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 302505,
-      "name": "Butterflies & Hurricanes",
-      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
+      "duration_ms": 235600,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262947,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
+      "duration_ms": 295767,
+      "name": "Sing for Absolution",
+      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 295767,
-      "name": "Sing for Absolution",
-      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
+      "duration_ms": 262947,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
     },
     {
       "added_at": null,

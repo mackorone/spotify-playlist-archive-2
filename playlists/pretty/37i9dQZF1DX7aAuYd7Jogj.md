@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,894,723 likes - 395 songs - 18 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895,138 likes - 395 songs - 18 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,7 +247,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 237 | [Reticular Trance](https://open.spotify.com/track/5RzoEAd422RmC2GWELRlc4) | [Martin Grisel](https://open.spotify.com/artist/2xUnAHudUe12LCRMvHHMKF) | [Reticular Trance](https://open.spotify.com/album/43jRHO8lv1nvb4ulrfVIHf) | 3:27 |
 | 238 | [Dreambound](https://open.spotify.com/track/5C9zA9ZfeFOYcYp4v4MHRf) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Dreambound](https://open.spotify.com/album/1WzlHRdw6X2YOlsN5BLsEo) | 2:53 |
 | 239 | [Clear Vision](https://open.spotify.com/track/5fHoLjHv4OsgamqQhCTOFs) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Clear Vision](https://open.spotify.com/album/60R0uxPAd6sXf6BofDvLLO) | 2:15 |
-| 240 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
+| 240 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/2I7UrIVsTUPBeK3JH8pXaE) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
 | 241 | [A Night Outside](https://open.spotify.com/track/4D0nFHMYq0e4YMgKmE7Fjm) | [Lunari Veil](https://open.spotify.com/artist/64zfQIynNNz4ElsKEb3oDk) | [A Night Outside](https://open.spotify.com/album/5HhYBpoMECt1CQQx4zNPmx) | 2:24 |
 | 242 | [Evergreen](https://open.spotify.com/track/6jx7AM7QyqCCFvSdIUVnlx) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Evergreen](https://open.spotify.com/album/7xP8jrmVZXWH50N4RlDOts) | 2:19 |
 | 243 | [hue](https://open.spotify.com/track/5r9lL9dIdpndWawwVa5Eat) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [hue](https://open.spotify.com/album/40BofPmzoIFuftB7JGkrAc) | 2:48 |

@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 125454,
       "name": "B.M.S (by my side)",
       "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -10417,6 +10417,44 @@
     },
     {
       "album": {
+        "name": "CRIC FAMILY",
+        "url": "https://open.spotify.com/album/1wY5Nb9xoDEWQ7WVkrkZEB"
+      },
+      "artists": [
+        {
+          "name": "CRIC FAMILY",
+          "url": "https://open.spotify.com/artist/0DGeWz9gE9veTwAdxk8Wbe"
+        },
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        },
+        {
+          "name": "TRAMI",
+          "url": "https://open.spotify.com/artist/2oVLk6QBtrG3z59CkP33vC"
+        },
+        {
+          "name": "DOUBL\u00c9",
+          "url": "https://open.spotify.com/artist/7pegiTHNxGaYS2UAIOyZDh"
+        },
+        {
+          "name": "LAGOULK",
+          "url": "https://open.spotify.com/artist/61ARSIUWsFBM0WLlPGT34a"
+        },
+        {
+          "name": "MAL\u00c9SIEN",
+          "url": "https://open.spotify.com/artist/3JC7iXVCdhJ5FvMSlgi6Yj"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189070,
+      "name": "CRIC FAMILY5",
+      "url": "https://open.spotify.com/track/2p4I44OICSG6f2tbgqSSAi"
+    },
+    {
+      "album": {
         "name": "Timeless - Deluxe",
         "url": "https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR"
       },
@@ -10557,7 +10595,7 @@
       "artists": [
         {
           "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
         },
         {
           "name": "shirobeats",
@@ -20888,7 +20926,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -26060,7 +26098,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 188250,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/1wandUejiARUzcdwt6xkPS"
@@ -27128,7 +27166,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -30596,10 +30634,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 72727,
       "name": "Montagem Miau",
       "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
+    },
+    {
+      "album": {
+        "name": "Montagem Miau",
+        "url": "https://open.spotify.com/album/0uyLBwvgQPNpeShdx0QfyP"
+      },
+      "artists": [
+        {
+          "name": "Lenar",
+          "url": "https://open.spotify.com/artist/2QHpjaiPhG7uvtvjqEpU4E"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72727,
+      "name": "Montagem Miau",
+      "url": "https://open.spotify.com/track/5FQxObdGmY8cnQseM6hsRN"
     },
     {
       "album": {
@@ -38792,7 +38848,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 125467,
       "name": "sassh",
       "url": "https://open.spotify.com/track/3LS20pxzwz0I4BFnkAYPIc"
@@ -40966,7 +41022,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "Solide",
       "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"
@@ -42294,7 +42350,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 173714,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc"
@@ -46016,7 +46072,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 162717,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
@@ -50212,6 +50268,24 @@
       "duration_ms": 104900,
       "name": "WW3",
       "url": "https://open.spotify.com/track/4uBbeKZTXNRRV4bMIcKx45"
+    },
+    {
+      "album": {
+        "name": "X Gon' Give It To Ya (1950s Soul)",
+        "url": "https://open.spotify.com/album/5Vum2jvLPIQYv9bJsO74Ac"
+      },
+      "artists": [
+        {
+          "name": "19s Soulers",
+          "url": "https://open.spotify.com/artist/5r5ZNNW0zseFzKcGR9ThIi"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "X Gon' Give It To Ya - 1950s Soul",
+      "url": "https://open.spotify.com/track/5jtuNQWGByEkBzBUlN4rWS"
     },
     {
       "album": {

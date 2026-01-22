@@ -2081,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "VANDALI",
+        "url": "https://open.spotify.com/album/1CM3GrdF0kRoCNEOH0q0QE"
+      },
+      "artists": [
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/7yuq2YAERvdU11fdpT3U4U"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "VANDALI",
+      "url": "https://open.spotify.com/track/7nr1yf0U6U8mWGOQlDgxRC"
+    },
+    {
+      "album": {
         "name": "Yah Marwa",
         "url": "https://open.spotify.com/album/0wMwj676aqrT7HYYijUygW"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 9 hr 55 min
+188 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Only Ticket Home](https://open.spotify.com/track/3xBFofaAqfwaaSu4RHzcuu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:14 | 2024-01-29 |  |
 | [Out My Mind \(Radio Edit\)](https://open.spotify.com/track/70p6I136qdvKKQExxwfuHO) | [Kayper](https://open.spotify.com/artist/7eX82EeZz6qIASWIsheMlv) | [Out My Mind \(Radio Edit\)](https://open.spotify.com/album/5fp53L7e6svWWHj6Mqxi1z) | 3:36 | 2024-01-29 |  |
 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 | 2024-01-29 |  |
+| [PAPER PLANE](https://open.spotify.com/track/0bvQXr2UBC7XvWKhBESl8b) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [PAPER PLANE](https://open.spotify.com/album/6cHX3SG9HQKd3UIzETvQiP) | 2:49 | 2026-01-21 |  |
 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 | 2024-01-29 |  |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2024-01-29 | 2025-10-13 |
 | [Past Life](https://open.spotify.com/track/6YOkAimrhx6nsLEwqfJoJv) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 3:16 | 2025-10-12 |  |

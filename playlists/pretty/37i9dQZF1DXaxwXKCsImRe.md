@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Spotify curators pick new and exciting artists\. RADAR BNLX\-artist: <a href="spotify:artist:67Hs92fNnRAgFBfL6EePwb">Aaron Blommaert</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,790 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

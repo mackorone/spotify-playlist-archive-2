@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11355,
+  "num_followers": 11358,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABUdklkBggIU4rBUDeSSqNg",
+  "snapshot_id": "aW7FgAAAAADbpKauihht7gPX0x+NhekW",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+        "name": "Parachute Remixes",
+        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         },
         {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Want It All (feat. Evalyn)",
-      "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
+      "duration_ms": 249360,
+      "name": "Drivin Thru the Night - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
     },
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute Remixes",
-        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Drivin Thru the Night - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+      "duration_ms": 186000,
+      "name": "Want It All (feat. Evalyn)",
+      "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,068 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,148 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 18 | [Oração De São Francisco](https://open.spotify.com/track/3dtnRL4N4yEZTfOXCb722D) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Oração De São Francisco](https://open.spotify.com/album/3xUOd5fORtOZ9FoGm4UbRI) | 3:52 |
 | 19 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |
 | 20 | [Ainda Bem](https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [UM \- Origem](https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0) | 4:54 |
-| 21 | [És Digno](https://open.spotify.com/track/3lNyHQZiyfOrXfQ5aaG0mZ) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [És Digno](https://open.spotify.com/album/6f5pALU9zKCUqkb2X4k5Ca) | 5:51 |
-| 22 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
-| 23 | [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 |
+| 21 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
+| 22 | [Todo Joelho Se Dobre](https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Todo Joelho Se Dobre](https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN) | 4:43 |
+| 23 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
 | 24 | [Nossa Senhora](https://open.spotify.com/track/2H2OPvhkS90Y1dp47uiVAm) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nossa Senhora](https://open.spotify.com/album/4DdEkdjWAmKerPxe3Iirmt) | 4:59 |
 | 25 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
-| 26 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
+| 26 | [És Digno](https://open.spotify.com/track/3lNyHQZiyfOrXfQ5aaG0mZ) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [És Digno](https://open.spotify.com/album/6f5pALU9zKCUqkb2X4k5Ca) | 5:51 |
 | 27 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
 | 28 | [Muito Mais pra Mim](https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf) | 5:34 |
 | 29 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 66 | [Voz de Trovão](https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Voz de Trovão](https://open.spotify.com/album/2N551Plznn22YszuHisFmW) | 6:19 |
 | 67 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
 | 68 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
-| 69 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 |
-| 70 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
+| 69 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
+| 70 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 |
 
 Snapshot ID: `AAAAAF+ZytW6Segcfd4lP6uPk4Zro0O9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Yugi e ANNA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,740 likes - 120 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,766 likes - 120 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 5 | [Le Bimbe Piangono](https://open.spotify.com/track/4nd0qCbcv6RA8FUZwnF38f) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:44 |
 | 6 | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR) | 2:33 |
 | 7 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
-| 8 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
+| 8 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
 | 9 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
 | 10 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 |
 | 11 | [Loquito \(with Celine G\)](https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Celine G](https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 |

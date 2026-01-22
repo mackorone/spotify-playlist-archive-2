@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring Skrillex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,457 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,488 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 4 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 |
 | 5 | [SAY SOMETHING](https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAY SOMETHING](https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr) | 2:51 |
 | 6 | [Bet You Didn't Need](https://open.spotify.com/track/7rjtwubvFpMtchNnQf4Nwf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [fkblnde](https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl) | [Bet You Didn't Need](https://open.spotify.com/album/37KcSg6pUd5RSOjvNxx2FN) | 2:54 |
-| 7 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5UfAquClrpYa6G5Mw7a9Tl) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
+| 7 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
 | 8 | [Always](https://open.spotify.com/track/5BAmp1eGsIdMCL3CvE5IXB) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Always](https://open.spotify.com/album/37DvMhizwU7W3piaMMNB9j) | 3:37 |
 | 9 | [Yo Yan](https://open.spotify.com/track/3ZNtSTvWWktrIM1uXGNmpw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sacred Family](https://open.spotify.com/artist/19q1gD7YQ3fqYYHCxWnhku) | [Kora](https://open.spotify.com/album/5LJIb62zNdiTj6Y5tz0JET) | 2:00 |
 | 10 | [Half Alive](https://open.spotify.com/track/4EVJkMkeEXOpvHBRe3JO6E) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Half Alive](https://open.spotify.com/album/6uGNQgs7iiKY8nS9p8Z1BG) | 3:12 |

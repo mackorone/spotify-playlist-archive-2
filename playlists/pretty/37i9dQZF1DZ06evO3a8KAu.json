@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAXiZYq6EytowBtKKsdYM5w",
+  "snapshot_id": "aW7FgAAAAAAYIUjpVUHEt8m8QS6TgZOL",
   "tracks": [
     {
       "added_at": null,
@@ -692,74 +692,6 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 231556,
-      "name": "Que Bonita Estas",
-      "url": "https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seguimos En El Ruedo",
-        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Voy a Echarme Otra",
-      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 166751,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 208443,
-      "name": "Como los Vaqueros",
-      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
       "duration_ms": 219149,
       "name": "Entre Mas Te Miro",
       "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
@@ -787,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 166751,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -799,6 +747,58 @@
       "duration_ms": 191692,
       "name": "Ten\u00eda Que Ser As\u00ed",
       "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 231556,
+      "name": "Que Bonita Estas",
+      "url": "https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Voy a Echarme Otra",
+      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "Como los Vaqueros",
+      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
     },
     {
       "added_at": null,

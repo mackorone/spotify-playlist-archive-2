@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,603 likes - 67 songs - 3 hr 34 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,604 likes - 67 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 66 | [High On Heaven](https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [High On Heaven](https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n) | 3:19 |
 | 67 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 
-Snapshot ID: `AAAHvxsKuaI8sE7P6xQe1Bi6ejKpijRT`
+Snapshot ID: `AAAHwejq8riBkdT+s61vjhFXpcDhevGn`

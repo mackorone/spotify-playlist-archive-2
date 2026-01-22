@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 532034,
+  "num_followers": 532025,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-15 16:55:57",
       "album": {
-        "name": "Sun Is Gone",
-        "url": "https://open.spotify.com/album/1khO1egdgcjU26efaTHLb0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "Sun Is Gone",
-      "url": "https://open.spotify.com/track/0Rkdov9ktWGjqOqy9MQ8XP"
-    },
-    {
-      "added_at": "2026-01-15 16:55:57",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 192800,
       "name": "Greatest Gift (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
+    },
+    {
+      "added_at": "2026-01-15 16:55:57",
+      "album": {
+        "name": "Sun Is Gone",
+        "url": "https://open.spotify.com/album/1khO1egdgcjU26efaTHLb0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Sun Is Gone",
+      "url": "https://open.spotify.com/track/0Rkdov9ktWGjqOqy9MQ8XP"
     },
     {
       "added_at": "2026-01-15 16:55:57",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2026-01-15 16:55:57",
       "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
         }
       ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+      "duration_ms": 266719,
+      "name": "Azimuth",
+      "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
     }
   ],
   "unique_name": "Sweet Soul Sunday",

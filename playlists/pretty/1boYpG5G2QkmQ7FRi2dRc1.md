@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 280,550 likes - 46 songs - 2 hr 32 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 280,530 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 4 | [Neon](https://open.spotify.com/track/53BFPAKVxZDzJtpA7hmNqS) | [Zimmz](https://open.spotify.com/artist/1fjyfUlALNaLiP57l5UmGn) | [Neon](https://open.spotify.com/album/4Kgwd8JNp5XWCjyV52t9UZ) | 3:04 |
 | 5 | [All I Wanna Do](https://open.spotify.com/track/5khfVayqYh6Cs7bcpzYzb4) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [All I Wanna Do](https://open.spotify.com/album/1HkAtTRgETwAM9mCmNE1BX) | 2:48 |
 | 6 | [Run](https://open.spotify.com/track/0lBAr7hZU0KGlDv0ynWb3V) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Run](https://open.spotify.com/album/5hPs4Qe4zGb0e60lQgHxKf) | 2:04 |
-| 7 | [Beam Me Up](https://open.spotify.com/track/2tz34C7OUcsNC7Q09TeYqi) | [Quality G](https://open.spotify.com/artist/6XzdLgg33plw86GuctSuAh) | [Beam Me Up](https://open.spotify.com/album/3nU5jtvFu1yazyWAidRXKn) | 2:48 |
+| 7 | [Beam Me Up](https://open.spotify.com/track/2tz34C7OUcsNC7Q09TeYqi) | [Espii](https://open.spotify.com/artist/6XzdLgg33plw86GuctSuAh) | [Beam Me Up](https://open.spotify.com/album/3nU5jtvFu1yazyWAidRXKn) | 2:48 |
 | 8 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 |
 | 9 | [The Block](https://open.spotify.com/track/3NXEIhILh3DsRszVBSd092) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Block](https://open.spotify.com/album/2M9vPwh2Bq8ijXNv1t827B) | 2:32 |
 | 10 | [Contact](https://open.spotify.com/track/2qVW51nWizKc6g2zhx6r4Z) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Agdem](https://open.spotify.com/artist/1yByhgzjq6NmlE6rFoFBjo) | [Contact](https://open.spotify.com/album/1SggTgSfmP02dOvArVJjYR) | 3:00 |

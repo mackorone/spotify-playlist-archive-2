@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 12366,
+  "num_followers": 12390,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAACbXZUf78ivxpt1iZuxKI48",
+  "snapshot_id": "aW7FgAAAAADq7Qh2RhgGSt3iDfDKF367",
   "tracks": [
     {
       "added_at": null,
@@ -547,34 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Corre",
-        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "DJ LN",
-          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Do Corre",
-      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas no Topo 4",
         "url": "https://open.spotify.com/album/18qyfUQL7yiBIfSGwk8kco"
       },
@@ -643,6 +615,34 @@
       "duration_ms": 1067860,
       "name": "Poetas no Topo 4",
       "url": "https://open.spotify.com/track/4w47dntseeMeuLPzFTKKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Corre",
+        "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "DJ LN",
+          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Do Corre",
+      "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
     },
     {
       "added_at": null,

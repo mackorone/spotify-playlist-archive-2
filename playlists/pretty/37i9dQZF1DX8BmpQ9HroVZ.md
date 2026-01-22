@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,491 likes - 91 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,615 likes - 91 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 90 | [Tere Pyar Main](https://open.spotify.com/track/6JB0h4leDJ4Akabtu42Epd) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali \(Original Score\)](https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW) | 5:02 |
 | 91 | [Pyaar Kyun Banaya](https://open.spotify.com/track/7EpVfR8TL9o3k4wIo4oqw1) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Pyaar Kyun Banaya](https://open.spotify.com/album/4BPhVjOqAdV5bFxDglYZ4f) | 3:28 |
 
-Snapshot ID: `AAAAAGILUeyL6C7LOoY0g1440XwHJo34`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

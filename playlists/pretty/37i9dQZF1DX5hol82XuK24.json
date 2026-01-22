@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 458953,
+  "num_followers": 458948,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "Spit It Out",
-        "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "If You Say the Word",
         "url": "https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 260733,
       "name": "If You Say the Word",
       "url": "https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "Spit It Out",
+        "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 187396,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
     },
     {
       "added_at": "2025-11-10 17:59:58",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
-      },
-      "artists": [
-        {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
-        }
-      ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 233556,
       "name": "Blue May",
       "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2025-11-10 17:59:58",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "The Rocky Road to Dublin (Edit)",
-        "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 246125,
-      "name": "The Rocky Road to Dublin - Edit",
-      "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "Spinning Wheel",
         "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "The Rocky Road to Dublin (Edit)",
+        "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "The Rocky Road to Dublin - Edit",
+      "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
     },
     {
       "added_at": "2025-11-10 17:59:58",

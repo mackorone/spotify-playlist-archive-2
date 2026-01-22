@@ -1,13 +1,65 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Mackeeper\n",
-  "num_followers": 254138,
+  "num_followers": 254172,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkiKfqSzn3TFexXcg8CO9jqoiW9",
+  "snapshot_id": "AAAAAAxz5aurHFjEL0KuqtLlbAc1UMmH",
   "tracks": [
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Silver, Shining",
+        "url": "https://open.spotify.com/album/6E30wOrMGhVJmu23aN6Irr"
+      },
+      "artists": [
+        {
+          "name": "Heaven Slight",
+          "url": "https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd"
+        },
+        {
+          "name": "Bijou Bliss",
+          "url": "https://open.spotify.com/artist/6vPirQwiBhKW0sFeAmQ0sx"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Silver, Shining",
+      "url": "https://open.spotify.com/track/48UPH6BgZrgDzjlLrPj6He"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/21987lXhmCn3CovoWKDU88"
+      },
+      "artists": [
+        {
+          "name": "Wulfer",
+          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3euwmPkA6UHBKmuBjO7iXF"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "When england comes",
+        "url": "https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "When england comes",
+      "url": "https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF"
+    },
     {
       "added_at": "2026-01-14 17:37:13",
       "album": {
@@ -27,6 +79,70 @@
     {
       "added_at": "2026-01-14 17:37:13",
       "album": {
+        "name": "Pants on fire",
+        "url": "https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 97500,
+      "name": "4wheelpharmacy",
+      "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Cage",
+        "url": "https://open.spotify.com/album/45AJUC0xkV4zG8EKuSJpCN"
+      },
+      "artists": [
+        {
+          "name": "Ebop",
+          "url": "https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Cage",
+      "url": "https://open.spotify.com/track/401BFKLTfBkjnUeT1UkuL6"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "the kids are mean to the cat",
+        "url": "https://open.spotify.com/album/5H7tIchlXCB6y5wMl04HOB"
+      },
+      "artists": [
+        {
+          "name": "Perfect 50",
+          "url": "https://open.spotify.com/artist/13KYPBw10xl1v2h4m8GHXY"
+        }
+      ],
+      "duration_ms": 154059,
+      "name": "Cross",
+      "url": "https://open.spotify.com/track/4apA0WCGptCvCWZ5iyPI5z"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Even Mountains Erode / Heaven2",
+        "url": "https://open.spotify.com/album/1EwoSCmnicLldfw3IXW9Su"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Even Mountains Erode",
+      "url": "https://open.spotify.com/track/58kHTh4O40lBfpVAZNdaAW"
+    },
+    {
+      "added_at": "2026-01-14 17:37:13",
+      "album": {
         "name": "Thunderhead",
         "url": "https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed"
       },
@@ -41,20 +157,20 @@
       "url": "https://open.spotify.com/track/1JAD1TsssVNoZM4kvSykCH"
     },
     {
-      "added_at": "2026-01-14 17:37:13",
+      "added_at": "2026-01-21 17:00:04",
       "album": {
-        "name": "Pants on fire",
-        "url": "https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc"
+        "name": "suspension of disbelief",
+        "url": "https://open.spotify.com/album/2c7AOzNGPfxPQFfOII8yPn"
       },
       "artists": [
         {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+          "name": "dhruvy",
+          "url": "https://open.spotify.com/artist/5SdG1lCXxrGFLiLUL4Nvjs"
         }
       ],
-      "duration_ms": 97500,
-      "name": "4wheelpharmacy",
-      "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
+      "duration_ms": 142233,
+      "name": "heaven said",
+      "url": "https://open.spotify.com/track/5jDIXs1LvC6c6UC0hU9Chg"
     },
     {
       "added_at": "2026-01-14 17:37:13",
@@ -71,6 +187,22 @@
       "duration_ms": 194569,
       "name": "Thread",
       "url": "https://open.spotify.com/track/1mxuZMGaycrKnUAXOvPoNg"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Ideas for Branching in United States",
+        "url": "https://open.spotify.com/album/27rwJHxBRU1NEpEwCjipwg"
+      },
+      "artists": [
+        {
+          "name": "ideasforconversations",
+          "url": "https://open.spotify.com/artist/6cxOz8rz1Gk492H9DDbVtD"
+        }
+      ],
+      "duration_ms": 173983,
+      "name": "Showandtell",
+      "url": "https://open.spotify.com/track/1ZiGzXhNOnYX92ixu1z1pH"
     },
     {
       "added_at": "2026-01-14 17:37:13",
@@ -107,6 +239,38 @@
       "duration_ms": 272171,
       "name": "NEMO",
       "url": "https://open.spotify.com/track/57CtJJQRcYK0hfDKgN5CkD"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "I Just Remembered Everything Always Works Out for Me",
+        "url": "https://open.spotify.com/album/6NANhYuZZfiJvR3dymAym3"
+      },
+      "artists": [
+        {
+          "name": "Touching Ice",
+          "url": "https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Wish it (bite it)",
+      "url": "https://open.spotify.com/track/3p3OnuAP0OMcWR6DuRX1Lw"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Ten Long Years",
+        "url": "https://open.spotify.com/album/4nZKsY4KXQri6ZY42e4zYJ"
+      },
+      "artists": [
+        {
+          "name": "LL Burns",
+          "url": "https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS"
+        }
+      ],
+      "duration_ms": 234690,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/6slLtLNTUlwe0n3T5Eb8Wz"
     },
     {
       "added_at": "2026-01-14 17:37:13",
@@ -191,6 +355,22 @@
       "duration_ms": 198570,
       "name": "Body (ft. Jia*)",
       "url": "https://open.spotify.com/track/31f0sfaJA5145zx2JZhROI"
+    },
+    {
+      "added_at": "2026-01-21 17:00:04",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5jHbm0uABHDElNU2l6os92"
+      },
+      "artists": [
+        {
+          "name": "Luke Olson",
+          "url": "https://open.spotify.com/artist/1klFrdHVMqYcsOlHiXtHUj"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/0bFlIAdsEhVSPoFcsiLTeb"
     },
     {
       "added_at": "2026-01-14 17:37:13",

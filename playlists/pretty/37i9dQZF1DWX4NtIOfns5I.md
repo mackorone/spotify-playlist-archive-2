@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > jana horn on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,310 likes - 151 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,336 likes - 151 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

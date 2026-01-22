@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,243 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,241 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 23 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
 | 24 | [Partymonst3r](https://open.spotify.com/track/40JKHWIqZ6Yhvi13Va054H) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [twilight princess](https://open.spotify.com/album/5inmxPZxsMZIq9GJRJEQtg) | 2:41 |
 | 25 | [The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:59 |
-| 26 | [Mice On Venus](https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:41 |
+| 26 | [Mice on Venus](https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:41 |
 | 27 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 |
 | 28 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
 | 29 | [STH1 Green Hill Zone 〜 Mega Drive version 〜](https://open.spotify.com/track/2ZbJuTlSK9TYokeza42cmR) | [Masato Nakamura](https://open.spotify.com/artist/1dMS02fPNC7ace36g64qPm) | [ソニック・ザ・ヘッジホッグ1＆2 サウンドトラック](https://open.spotify.com/album/1jUGmnsp1VAmqeYWgpHtK1) | 2:36 |

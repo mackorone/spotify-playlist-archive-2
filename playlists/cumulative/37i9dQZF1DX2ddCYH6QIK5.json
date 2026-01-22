@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: yara, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: koala, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 146875,
       "name": "Achtzig Prozent",
       "url": "https://open.spotify.com/track/41dNnOzDJjSsUMIh8M1Lfb"
@@ -568,6 +568,24 @@
       "duration_ms": 287775,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/0ZZNZF3dZOtomDZiZLaMA7"
+    },
+    {
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/0jzE77rujbxVk9TqdrLXzE"
+      },
+      "artists": [
+        {
+          "name": "David Ost",
+          "url": "https://open.spotify.com/artist/6w6wZxrkurPtakOOnf4FZR"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219352,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7v6HMaU9aidLpTSOqf22Qp"
     },
     {
       "album": {
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 185076,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/056Xt1fco3qxVU29HywFcM"
@@ -6128,7 +6146,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 155920,
       "name": "Dich vermissen",
       "url": "https://open.spotify.com/track/1LZ0SIKYzkDZjju2KEXK0M"
@@ -9136,7 +9154,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 188995,
       "name": "FUCK AUF DIE BOYS",
       "url": "https://open.spotify.com/track/5HIzuWID4IdKpdAcqNP7O8"
@@ -10292,7 +10310,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 231157,
       "name": "Gr\u00fcn",
       "url": "https://open.spotify.com/track/4rrFc6cqasnn9I24dqhBFJ"
@@ -12074,7 +12092,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 161917,
       "name": "I Changed My Mind",
       "url": "https://open.spotify.com/track/4h1r3EAZqgx2AN4rKp6qI6"
@@ -15452,6 +15470,24 @@
       "duration_ms": 197153,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/4YfMGPgt0MlYi9fczUrpJC"
+    },
+    {
+      "album": {
+        "name": "loretta",
+        "url": "https://open.spotify.com/album/4BYztRycshwhXiCimafOR7"
+      },
+      "artists": [
+        {
+          "name": "koala",
+          "url": "https://open.spotify.com/artist/6nSaupdHjN9u74Kk6f6q7C"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "loretta",
+      "url": "https://open.spotify.com/track/4byqn9UwNRiXsXCOVNKkAk"
     },
     {
       "album": {
@@ -21174,7 +21210,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 264500,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2EcTIbGiPN2mfMhHNr1gw4"
@@ -25108,7 +25144,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 136062,
       "name": "theofficecoldopens",
       "url": "https://open.spotify.com/track/6RrzcC84rLnO1bNFyXqh2u"
@@ -26282,7 +26318,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 186363,
       "name": "Untertauchen",
       "url": "https://open.spotify.com/track/1slngzcMkVKQECgMRhKwpR"
@@ -27192,6 +27228,24 @@
       "duration_ms": 161079,
       "name": "Wassereis",
       "url": "https://open.spotify.com/track/1xCNFiYN6o65Du99I4CrjC"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/0C0vSfbPjSMG3Sv63t7qq5"
+      },
+      "artists": [
+        {
+          "name": "Fiona Fiasco",
+          "url": "https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226272,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/6fYAXuHXOZIWmmo8hAF7Ox"
     },
     {
       "album": {
@@ -28116,6 +28170,24 @@
       "duration_ms": 243400,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/6jx11cSFmCJ1SkJnmZ7KaT"
+    },
+    {
+      "album": {
+        "name": "WILD WOMAN",
+        "url": "https://open.spotify.com/album/0ito2LXVA3wVAeqGLkKi9g"
+      },
+      "artists": [
+        {
+          "name": "Ava Fina",
+          "url": "https://open.spotify.com/artist/7gtdWJzM6xk0Xz2RMxHpgp"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "WILD WOMAN",
+      "url": "https://open.spotify.com/track/7aaBdaV1DQ5UIfC7oJvNUq"
     },
     {
       "album": {

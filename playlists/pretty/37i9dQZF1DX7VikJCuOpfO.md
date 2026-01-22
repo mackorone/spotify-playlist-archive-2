@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Carolina Ross 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,682 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,681 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 37 | [A Dos De Borrarte](https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 3:09 |
 | 38 | [La Llorona](https://open.spotify.com/track/1vXiscTkiwtQR9pAE35Qwy) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [La Llorona](https://open.spotify.com/album/1SrgjuCekkVs95avp3jG2I) | 6:50 |
 | 39 | [A Mi Manera \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/5uHGmZtbFPrrkzY0rrQtQm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Mi Manera \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/1OqwSPoKvOuB74ABgk5soy) | 5:28 |
-| 40 | [No Me Amenaces \(En Vivo\)](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
-| 41 | [Te Presento A Mi Amante](https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:14 |
+| 40 | [Te Presento A Mi Amante](https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:14 |
+| 41 | [No Me Amenaces \(En Vivo\)](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
 | 42 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
 | 43 | [Nunca Había Amado Así](https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Nunca Había Amado Así](https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK) | 3:42 |
 | 44 | [Un Millón de Primaveras \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/3gLpE07HHc5pMToWnHnR4I) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Millón de Primaveras \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/52n0QZM9FyHHUUr8fCfGD9) | 3:09 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 74 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 75 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
 | 76 | [Le Voy a Pedir a Dios](https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Le Voy a Pedir a Dios](https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic) | 2:54 |
-| 77 | [No Pidas Perdón](https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Pidas Perdón](https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT) | 3:04 |
-| 78 | [Pajarillo](https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Pajarillo](https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7) | 3:49 |
+| 77 | [Pajarillo](https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Pajarillo](https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7) | 3:49 |
+| 78 | [No Pidas Perdón](https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Pidas Perdón](https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT) | 3:04 |
 | 79 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 80 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
 | 81 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 |

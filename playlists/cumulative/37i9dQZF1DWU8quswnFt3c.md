@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: Moliy
+> Listen to women at full volume\. Cover: Lola Flores.
 
-2,750 songs - 6 day 8 hr 32 min
+2,751 songs - 6 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1790,6 +1790,7 @@
 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 | 2023-11-29 | 2024-01-11 |
 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 | 2023-04-05 | 2023-05-04 |
 | [Pemilik Rindu](https://open.spotify.com/track/2pIyUkqlkIbinlSyy4pBEv) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Pemilik Rindu](https://open.spotify.com/album/2GqDteGvoqep1CH4cuc67d) | 3:27 | 2024-01-10 | 2024-02-08 |
+| [Pena penita pena](https://open.spotify.com/track/021KukNOhoemTxzEVWaaId) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [Pena, Penita, Pena](https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn) | 3:43 | 2026-01-21 |  |
 | [Pensar y Pensar](https://open.spotify.com/track/5dGCSge6nXElKrngOV5iG2) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Al Aire](https://open.spotify.com/album/1jWr1TWCS1BiTQeSiiIZh2) | 2:50 | 2022-05-04 | 2022-06-01 |
 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 | 2024-01-10 | 2024-03-07 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-04 | 2023-02-02 |
@@ -2062,7 +2063,7 @@
 | [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 | 2023-09-06 | 2023-10-05 |
 | [Smooth It Over](https://open.spotify.com/track/2vcMz5cj71sPU2gXAgPRuU) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 3:12 | 2023-11-29 | 2024-01-11 |
 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 | 2023-01-04 | 2023-02-02 |
-| [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 | 2025-12-03 |  |
+| [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 | 2025-12-03 | 2026-01-22 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2024-03-06 | 2024-11-07 |
 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 | 2024-04-17 | 2024-05-03 |
 | [Snowball](https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Merry Go Round](https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz) | 3:32 | 2024-01-10 | 2024-02-08 |

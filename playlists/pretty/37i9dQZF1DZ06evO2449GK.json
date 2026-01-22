@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62028,
+  "num_followers": 62040,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAUX6Is/fMKDkviCfuOkvaF",
+  "snapshot_id": "aW7FgAAAAAAN58k/hfk5lvQ10bPfRe1A",
   "tracks": [
     {
       "added_at": null,
@@ -180,21 +180,17 @@
       "added_at": null,
       "album": {
         "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Bajo Tierra",
-          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
         }
       ],
-      "duration_ms": 235000,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
     },
     {
       "added_at": null,
@@ -252,17 +248,21 @@
       "added_at": null,
       "album": {
         "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
+      "duration_ms": 235000,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Legendarios",
         "url": "https://open.spotify.com/album/3VZrEkrw9y9rGuPhRTmZTM"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 285365,
       "name": "Los Legendarios",
       "url": "https://open.spotify.com/track/1yRTwaaXGh2YAOhSMnmQLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
     },
     {
       "added_at": null,

@@ -1,13 +1,49 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Jan 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Jan 19:04 UTC.",
   "num_followers": 103,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXQSDTCuzlNI0uU8HBP48PcpNo+J7J",
+  "snapshot_id": "AAAXRauYDIGeB40/jjx3nmQQn3Q/xRcp",
   "tracks": [
+    {
+      "added_at": "2026-01-21 19:04:12",
+      "album": {
+        "name": "Imposter",
+        "url": "https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 158238,
+      "name": "Imposter",
+      "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
+    },
+    {
+      "added_at": "2026-01-21 19:04:12",
+      "album": {
+        "name": "Site Unseen",
+        "url": "https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 166248,
+      "name": "Site Unseen",
+      "url": "https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA"
+    },
     {
       "added_at": "2026-01-20 23:04:23",
       "album": {
@@ -477,6 +513,22 @@
       "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
     },
     {
+      "added_at": "2026-01-21 14:04:35",
+      "album": {
+        "name": "FUMO Y DESPUES EXISTO",
+        "url": "https://open.spotify.com/album/50QKpMiuEkplpaEDvDwALS"
+      },
+      "artists": [
+        {
+          "name": "AgusFortnite2008",
+          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
+        }
+      ],
+      "duration_ms": 112798,
+      "name": "FUMO Y DESPUES EXISTO",
+      "url": "https://open.spotify.com/track/066atkDkmqjGlLz7wx4wKO"
+    },
+    {
       "added_at": "2026-01-15 23:03:27",
       "album": {
         "name": "human props",
@@ -791,54 +843,6 @@
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
-    },
-    {
-      "added_at": "2026-01-09 09:04:32",
-      "album": {
-        "name": "diamonds are forever",
-        "url": "https://open.spotify.com/album/5OP38JygZWcTBGMeG6smz3"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "diamonds are forever",
-      "url": "https://open.spotify.com/track/1VAtSBqecE1fIfxYikIHUG"
-    },
-    {
-      "added_at": "2026-01-11 04:04:17",
-      "album": {
-        "name": "Running to Future",
-        "url": "https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Running to Future",
-      "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
-    },
-    {
-      "added_at": "2026-01-09 23:04:59",
-      "album": {
-        "name": "Make-up is a Lie",
-        "url": "https://open.spotify.com/album/0jyLLWr93rCySb4oKjhxxX"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Make-up is a Lie",
-      "url": "https://open.spotify.com/track/1ubJkE9q1un1hIHbDfJ8Tg"
     }
   ],
   "unique_name": "New Singles Now",

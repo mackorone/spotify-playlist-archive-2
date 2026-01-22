@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\.  Foto: Lola Flores.
 
-2,387 songs - 4 day 23 hr 28 min
+2,387 songs - 4 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,7 +770,7 @@
 | [Fama](https://open.spotify.com/track/6wuYSOcP2HxtvH6giNxSfR) | [Natalia](https://open.spotify.com/artist/5eKi0BjYYAf86O6vp4fFN0) | [Fama](https://open.spotify.com/album/4rEbPRxldoiRiwOg3Vxy8x) | 3:17 | 2022-05-31 | 2022-07-06 |
 | [FAMA \- Edit Version](https://open.spotify.com/track/0dmpI5ghuFy7I6O0QbetXN) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [FAMA](https://open.spotify.com/album/5HPVRszSzxvXmQRBoAQuwC) | 3:39 | 2024-11-05 | 2025-01-08 |
 | [Fame de Odio](https://open.spotify.com/track/5s93E80NgBFjDFi5MgWwmF) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Diluvio](https://open.spotify.com/album/1dZrD1qyXNIxBufhtYOK9f) | 3:21 | 2022-08-02 | 2022-10-05 |
-| [Fandango de Richter](https://open.spotify.com/track/6s79MnLwYc8drdb4q1oPCG) | [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ) | [Fandango de Richter](https://open.spotify.com/album/09L9izGDPwf0DRj1B24782) | 4:02 | 2026-01-13 |  |
+| [Fandango de Richter](https://open.spotify.com/track/6s79MnLwYc8drdb4q1oPCG) | [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ) | [Fandango de Richter](https://open.spotify.com/album/09L9izGDPwf0DRj1B24782) | 3:34 | 2026-01-13 |  |
 | [Fantasmas](https://open.spotify.com/track/61omU5umRHHE0v20jAYD1L) | [Marinita Precaria](https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR) | [Fantasmas](https://open.spotify.com/album/2tRtfSdmb2jAUmjcAf3l59) | 3:44 | 2024-08-06 | 2024-09-04 |
 | [Fantasmas que Quiero](https://open.spotify.com/track/0fSowqtL0aDwY0h1GGhdtX) | [Miree](https://open.spotify.com/artist/3ltRp2hE6eDAHQlkwWfpxD) | [Fantasmas que Quiero](https://open.spotify.com/album/6YrwXTIdyyzBCbC25kOjgm) | 2:09 | 2024-11-05 | 2024-12-05 |
 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 | 2025-04-01 | 2025-05-07 |

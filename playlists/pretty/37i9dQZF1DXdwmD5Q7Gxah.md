@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Check out our Substack here!!!!!!!</a> Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,912 likes - 202 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,905 likes - 202 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

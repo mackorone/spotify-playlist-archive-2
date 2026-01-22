@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Inferno3, Shiha Zikir\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,065 likes - 69 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,067 likes - 69 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 68 | [Perjury](https://open.spotify.com/track/06LmLH2Dhpn4yXuyjeQmHX) | [hsiuhsien](https://open.spotify.com/artist/3K4kBf0ovw9wQbqWbeMniB) | [Perjury](https://open.spotify.com/album/3y6Yc9O1JRJUTXCyx4AA2p) | 3:12 |
 | 69 | [Beautiful View](https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs) | [Asher Mendelsohn](https://open.spotify.com/artist/33gXtY0RSxRDn26H2Gak0e) | [Beautiful View](https://open.spotify.com/album/7hWsPPGX5ntIGxTRjIeaC8) | 3:25 |
 
-Snapshot ID: `AAAAANPFP64csUyakhC0Yr2tU/OyYwPr`
+Snapshot ID: `AAAAAPImWnUXJlMHSlXRAN888bIRQIA1`

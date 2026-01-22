@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Al Xapo, Benzoo, Eeque
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,901 likes - 50 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,323 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

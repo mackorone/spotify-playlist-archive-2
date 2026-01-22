@@ -1,13 +1,29 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 44315,
+  "num_followers": 44322,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3fO1KyucMY7II58m5lMphQQs+c",
+  "snapshot_id": "AAAAAPFZ8g2YfIl1/ECvQlQ+jFqHFz5c",
   "tracks": [
+    {
+      "added_at": "2026-01-21 07:13:52",
+      "album": {
+        "name": "\u0648\u064a\u0646 \u0642\u0644\u0628\u0643",
+        "url": "https://open.spotify.com/album/7paYp6SNBHD5klEnUVjx0H"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "\u0648\u064a\u0646 \u0642\u0644\u0628\u0643",
+      "url": "https://open.spotify.com/track/51w7NPC0rZaHixDItoaoGV"
+    },
     {
       "added_at": "2026-01-15 06:57:45",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/0f58OrUbfGpiF4q7lPMIuZ"
     },
     {
+      "added_at": "2026-01-21 07:13:52",
+      "album": {
+        "name": "Tefargna",
+        "url": "https://open.spotify.com/album/1GTj4sjpcYCT1HotLQ1fOj"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Louis",
+          "url": "https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk"
+        }
+      ],
+      "duration_ms": 250084,
+      "name": "Tefargna",
+      "url": "https://open.spotify.com/track/3Gur7pDzhyNS0TUhVMW7NJ"
+    },
+    {
       "added_at": "2026-01-15 07:48:55",
       "album": {
         "name": "Abdulaziz Elmuanna 2026",
@@ -39,22 +71,6 @@
       "duration_ms": 207098,
       "name": "Hawwal",
       "url": "https://open.spotify.com/track/0qsBAxhERLLEPj7orq4euU"
-    },
-    {
-      "added_at": "2026-01-08 11:28:43",
-      "album": {
-        "name": "Mareed | \u0645\u0631\u064a\u0636 (Piano Version)",
-        "url": "https://open.spotify.com/album/6ofuQiP910Yc3sg1lWmIx3"
-      },
-      "artists": [
-        {
-          "name": "Maha Ftouni",
-          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "Mareed | \u0645\u0631\u064a\u0636 (Piano Version)",
-      "url": "https://open.spotify.com/track/4obDYY1P5dRkxp6WOZpZZO"
     },
     {
       "added_at": "2026-01-08 11:28:43",
@@ -635,22 +651,6 @@
       "duration_ms": 219989,
       "name": "Hd Nafsak",
       "url": "https://open.spotify.com/track/4MQWHpsOtIv1F89wUxCR2Y"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Yeshbah lak Aljaw",
-        "url": "https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy"
-      },
-      "artists": [
-        {
-          "name": "Sultan Al Murshed",
-          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
-        }
-      ],
-      "duration_ms": 196225,
-      "name": "Yeshbah lak Aljaw",
-      "url": "https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

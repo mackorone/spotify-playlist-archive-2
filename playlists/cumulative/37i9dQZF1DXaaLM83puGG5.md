@@ -4,7 +4,7 @@
 
 > Keeping the party going with <a href="https://www.instagram.com/spiritmas?igsh=MXdkbHZkaDlrdG91dw==">Spirit Mas</a>! Get your tickets for HOME <a href="https://www.mokotickets.com/event/home">here</a>.
 
-1,671 songs - 4 day 5 hr 33 min
+1,672 songs - 4 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,8 +1220,9 @@
 | [Road Meeting](https://open.spotify.com/track/1ZpkwS2sc0rpQMKp9aekAG) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd), [Syri Lyons](https://open.spotify.com/artist/6csVmJoNzHc4dv6vHIcRYN), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Road Meeting](https://open.spotify.com/album/2e1WmYXagB2Ej1omWliYSq) | 3:15 | 2025-01-17 | 2025-10-11 |
 | [Robot Rock \(Funk\)](https://open.spotify.com/track/3R3zF6Y5fnimYRXuBTrp9D) | [DJ Paulinho Mondi Da Baixa Baviera](https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE) | [Robot Rock \(Funk\)](https://open.spotify.com/album/2Nmqx3yf0q79nCnVqmGyAq) | 2:33 | 2024-09-16 | 2024-09-19 |
 | [Rock It](https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA) | [Baron](https://open.spotify.com/artist/4pUIY9WxcRAj0BHcI1lfEg), [Shurwayne Winchester](https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [The KVG](https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2) | [Rock It](https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP) | 2:44 | 2026-01-19 |  |
-| [Rock Me](https://open.spotify.com/track/50imfYhCyQgwA33IRevXHB) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Coconut Leaf Riddim](https://open.spotify.com/album/0TbCY7f2uVchZtPi8TDpsW) | 2:44 | 2026-01-19 |  |
+| [Rock Me](https://open.spotify.com/track/50imfYhCyQgwA33IRevXHB) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Coconut Leaf Riddim](https://open.spotify.com/album/0TbCY7f2uVchZtPi8TDpsW) | 2:44 | 2026-01-19 | 2026-01-22 |
 | [Rock n Roll](https://open.spotify.com/track/2pn62CI3YmQwk8fOLyGE11) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Dr Jay](https://open.spotify.com/artist/2odGjMSOAVdZ5dtai0K5Xz), [Dj Crown Prince](https://open.spotify.com/artist/63r2ySCZiTpWUem62loolj), [Jester](https://open.spotify.com/artist/207uKc0A9IlWUKOAoa7Dck) | [Rock n Roll](https://open.spotify.com/album/0HSbLbkJuAwczaLVcJBdod) | 2:52 | 2023-08-02 | 2023-08-10 |
+| [Rock So](https://open.spotify.com/track/3qL6IMdIoI4hqjNOuy9HAJ) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [MadLypso](https://open.spotify.com/artist/6tQlBmzHQ6vZI48H7SZsBV) | [Rock So](https://open.spotify.com/album/6TQHh1dBEmicl4E7ObOXBO) | 2:53 | 2026-01-21 |  |
 | [Rock Steady \- Radio Edit](https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Just Gets Better With Time](https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH) | 4:03 | 2023-04-28 | 2023-05-19 |
 | [Rock The Boat](https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:34 | 2022-01-28 | 2023-04-29 |
 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 | 2023-02-13 | 2023-04-29 |

@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168231,
+  "num_followers": 168228,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
+        "name": "MELTING MOMENT",
+        "url": "https://open.spotify.com/album/6asP1OdgPUjc7fSTvZxnaM"
+      },
+      "artists": [
+        {
+          "name": "POiSON GiRL FRiEND",
+          "url": "https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl"
+        }
+      ],
+      "duration_ms": 414966,
+      "name": "HARDLY EVER SMILE(without you)",
+      "url": "https://open.spotify.com/track/6dwCn6DV1Fbw46BC7VDZqp"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 169273,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
-        "name": "MELTING MOMENT",
-        "url": "https://open.spotify.com/album/6asP1OdgPUjc7fSTvZxnaM"
-      },
-      "artists": [
-        {
-          "name": "POiSON GiRL FRiEND",
-          "url": "https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl"
-        }
-      ],
-      "duration_ms": 414966,
-      "name": "HARDLY EVER SMILE(without you)",
-      "url": "https://open.spotify.com/track/6dwCn6DV1Fbw46BC7VDZqp"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Viva! La Woman",
         "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 269760,
       "name": "Sugar Water",
       "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
-      },
-      "artists": [
-        {
-          "name": "Dal",
-          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
-        },
-        {
-          "name": "Leah Yeger",
-          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Walk Long",
         "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 248877,
       "name": "Walk Long",
       "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
+      },
+      "artists": [
+        {
+          "name": "Dal",
+          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
+        },
+        {
+          "name": "Leah Yeger",
+          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Metalepsis (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 294186,
       "name": "Moments Like These",
       "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Metalepsis (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
-      },
-      "artists": [
-        {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Mad Blunted Jazz",
-      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Underground Vibes",
+        "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Mad Blunted Jazz",
+      "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2026-01-19 02:10:25",
-      "album": {
         "name": "Luster",
         "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "added_at": "2026-01-19 02:10:25",
+      "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2026-01-19 02:10:25",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-01-19 02:10:25",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

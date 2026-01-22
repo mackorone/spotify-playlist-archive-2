@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923534,
+  "num_followers": 3923516,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 313152,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "Change of Driver",
         "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
       },
@@ -795,26 +811,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Sonia Ammar",
-          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -831,6 +827,26 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Sonia Ammar",
+          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -859,18 +875,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
         }
       ],
-      "duration_ms": 313152,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/6uDOlnBhgzWqfYD4BZctJL"
+      "duration_ms": 259400,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -891,26 +911,6 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
-        }
-      ],
-      "duration_ms": 259400,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Visage 8 (Steps)",
+        "url": "https://open.spotify.com/album/2kb4wuBoAlLU8lPLZMSU0u"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "MALIAN",
+          "url": "https://open.spotify.com/artist/0d6VNGVzfu99Bs0qi6CpD2"
+        },
+        {
+          "name": "Roundrobin",
+          "url": "https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
       },
@@ -1335,46 +1359,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Visage 8 (Steps)",
-        "url": "https://open.spotify.com/album/2kb4wuBoAlLU8lPLZMSU0u"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "MALIAN",
-          "url": "https://open.spotify.com/artist/0d6VNGVzfu99Bs0qi6CpD2"
-        },
-        {
-          "name": "Roundrobin",
-          "url": "https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Steps",
-      "url": "https://open.spotify.com/track/3Dn8jGRCvVOtAIaG0pY6we"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "The Call",
-        "url": "https://open.spotify.com/album/2VYRfjpBlvBWgNXp8pO4mq"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 197286,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/18qBwssRu9P9uyhrZbaatB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Dark In This Room",
         "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Upstate Miracle",
-        "url": "https://open.spotify.com/album/4ErAAcOFAGAXogZCTB2fX2"
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/2VYRfjpBlvBWgNXp8pO4mq"
       },
       "artists": [
         {
-          "name": "Gilligan Moss",
-          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
         }
       ],
-      "duration_ms": 237708,
-      "name": "Upstate Miracle",
-      "url": "https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI"
+      "duration_ms": 197286,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/18qBwssRu9P9uyhrZbaatB"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Upstate Miracle",
+        "url": "https://open.spotify.com/album/4ErAAcOFAGAXogZCTB2fX2"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "duration_ms": 237708,
+      "name": "Upstate Miracle",
+      "url": "https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "Pursuit",
         "url": "https://open.spotify.com/album/0rZHrHxu3kxKh8qeWAXR5F"
       },
@@ -1439,6 +1439,42 @@
       "duration_ms": 292135,
       "name": "Pursuit",
       "url": "https://open.spotify.com/track/5Ew7i7PnXvk54uBi8VUdgq"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Hold You EP",
+        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1459,18 +1495,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Hold You EP",
-        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        },
+        {
+          "name": "Thaylo",
+          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
         }
       ],
-      "duration_ms": 265960,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
+      "duration_ms": 329084,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1495,6 +1535,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "If I Stayed",
         "url": "https://open.spotify.com/album/48EmiuBu6uaMq6ENOSVgel"
       },
@@ -1511,26 +1567,6 @@
       "duration_ms": 254500,
       "name": "If I Stayed",
       "url": "https://open.spotify.com/track/3rmiNo2HTxE1tKes2w8Fb1"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        },
-        {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
-        }
-      ],
-      "duration_ms": 329084,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1595,58 +1631,6 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "Trampolines",
-        "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "The Sun Will Come Again",
-      "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 173240,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
+        "name": "Trampolines",
+        "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "The Sun Will Come Again",
+      "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
     },
     {
       "added_at": "2026-01-16 05:00:23",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-01-16 05:00:23",
       "album": {
+        "name": "Promise Me",
+        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
+      },
+      "artists": [
+        {
+          "name": "Harmonee",
+          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
+        }
+      ],
+      "duration_ms": 266880,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:23",
+      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/43MzTlGpALzesMotOzNDih"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 271598,
       "name": "still-healing",
       "url": "https://open.spotify.com/track/1lSsO9lB7txXjUIMlpF8I2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:23",
-      "album": {
-        "name": "Promise Me",
-        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
-      },
-      "artists": [
-        {
-          "name": "Harmonee",
-          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
-        }
-      ],
-      "duration_ms": 266880,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
     },
     {
       "added_at": "2026-01-16 05:00:23",

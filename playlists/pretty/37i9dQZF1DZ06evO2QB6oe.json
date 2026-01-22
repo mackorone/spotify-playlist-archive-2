@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70214,
+  "num_followers": 70220,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABrQoX4HKskXQo+hdRu1we7",
+  "snapshot_id": "aW7FgAAAAABRnlFAz8x2YVGrRa2BnXdi",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Se Jodi\u00f3",
-        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 159655,
-      "name": "Esto Se Jodi\u00f3",
-      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esto Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 159655,
+      "name": "Esto Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 195470,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aquila",
         "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+      "duration_ms": 195470,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
         "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 263640,
       "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
       "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
     },
     {
       "added_at": null,

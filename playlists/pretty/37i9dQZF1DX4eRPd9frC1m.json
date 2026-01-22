@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> \ud83d\udcaa\ud83d\udca5",
-  "num_followers": 2576079,
+  "num_followers": 2576081,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 191357,
       "name": "THRASH (PARTY STARTER)",
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-01-16 05:00:45",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
         "name": "GET SMACKED",
         "url": "https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 220350,
       "name": "GET SMACKED",
       "url": "https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2026-01-16 05:00:45",

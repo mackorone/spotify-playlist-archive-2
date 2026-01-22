@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
-  "num_followers": 110243,
+  "num_followers": 110265,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
         "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
         "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
+        "name": "Bad Bitch Syndrome",
+        "url": "https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS"
+      },
+      "artists": [
+        {
+          "name": "Siraheem",
+          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
+        }
+      ],
+      "duration_ms": 141662,
+      "name": "Bad Bitch Syndrome",
+      "url": "https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
         "name": "Subaru Live Radio",
         "url": "https://open.spotify.com/album/3OyVFo9DMVVT2J1w4HwWnx"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG"
       },
@@ -579,34 +579,18 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
-        "name": "Bad Bitch Syndrome",
-        "url": "https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS"
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
       },
       "artists": [
         {
-          "name": "Siraheem",
-          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 141662,
-      "name": "Bad Bitch Syndrome",
-      "url": "https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
-        "name": "MERCY PLEASE",
-        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "MERCY PLEASE",
-      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -623,6 +607,22 @@
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
+        "name": "MERCY PLEASE",
+        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "MERCY PLEASE",
+      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -647,30 +647,6 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
-        "name": "Lust In Lagos",
-        "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
-      },
-      "artists": [
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Crowther",
-          "url": "https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE"
-        }
-      ],
-      "duration_ms": 211934,
-      "name": "Soft Prayer",
-      "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
         "name": "By Any Minz",
         "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 192031,
       "name": "f.u.",
       "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
+        "name": "Lust In Lagos",
+        "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Crowther",
+          "url": "https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE"
+        }
+      ],
+      "duration_ms": 211934,
+      "name": "Soft Prayer",
+      "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
+        "name": "I Wish I Had More Time",
+        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 189999,
+      "name": "I Wish I Had More Time",
+      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
         "name": "Normally",
         "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
-        "name": "I Wish I Had More Time",
-        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 189999,
-      "name": "I Wish I Had More Time",
-      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bossa Nova",
+      "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
         "name": "Road To Fuego",
         "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Bossa Nova",
-      "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
         "name": "sexygyal.mp3",
         "url": "https://open.spotify.com/album/08OLnMqGnQSTz6TH9kzigD"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 116400,
       "name": "sexygyal.mp3",
       "url": "https://open.spotify.com/track/4NDYc9iZQEvTMWQYEmvGSu"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -915,6 +899,22 @@
       "duration_ms": 200676,
       "name": "Rudia",
       "url": "https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-01-09 00:01:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-01-09 00:01:31",
       "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
+    },
+    {
+      "added_at": "2026-01-09 00:01:31",
+      "album": {
         "name": "Nobody Badder",
         "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 170738,
       "name": "Yaa Abrefi",
       "url": "https://open.spotify.com/track/4cQc9TQpdFRtxLrw8LcOgo"
-    },
-    {
-      "added_at": "2026-01-09 00:01:31",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
     },
     {
       "added_at": "2026-01-09 00:01:31",

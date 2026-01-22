@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 45259,
+  "num_followers": 45269,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADB5TEAzdgdpxLqNrlQ+3vB",
+  "snapshot_id": "aW7FgAAAAADrimw6qPsti5opZiAV8d/V",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desert Road",
-        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
       "artists": [
         {
           "name": "Casting Crowns",
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 218484,
-      "name": "Desert Road",
-      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
+      "duration_ms": 196933,
+      "name": "'Tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Day: Hymns of Faith",
-        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
+        "name": "Desert Road",
+        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
       },
       "artists": [
         {
           "name": "Casting Crowns",
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 196933,
-      "name": "'Tis So Sweet To Trust In Jesus",
-      "url": "https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ"
+      "duration_ms": 218484,
+      "name": "Desert Road",
+      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
     },
     {
       "added_at": null,

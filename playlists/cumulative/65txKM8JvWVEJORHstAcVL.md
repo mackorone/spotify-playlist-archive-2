@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(11/01/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(18/01/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-224 songs - 11 hr 12 min
+225 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-02-09 | 2025-06-26 |
 | [El club de la sisena hora](https://open.spotify.com/track/7a5RpWYAhhn2tzEa58aA4b) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [El club de la sisena hora](https://open.spotify.com/album/0DQYzvlS4d7DmuLBtkqo3V) | 2:26 | 2024-11-03 | 2025-02-03 |
 | [Els teus ulls](https://open.spotify.com/track/6cPe7rorhofISE335CqPmH) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Els teus ulls](https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq) | 2:31 | 2023-11-05 | 2024-08-19 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-21 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-22 | 2025-12-19 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-02 | 2025-01-20 |
 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-06-10 | 2025-12-19 |
@@ -87,7 +88,7 @@
 | [Grup de Pop](https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Grup de Pop](https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn) | 2:22 | 2024-03-10 | 2024-07-22 |
 | [GRÀCIES PER TANT](https://open.spotify.com/track/50UjwcHTdhxXHg14P6uJ3t) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [GRÀCIES PER TANT](https://open.spotify.com/album/5bXotdtWNMzt4xL5CsOaJn) | 3:01 | 2025-12-18 |  |
 | [Guapíssima](https://open.spotify.com/track/6yXfa5OsSJc1Tp0drOmEKE) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU) | [Guapíssima](https://open.spotify.com/album/3u0gveddvcgOqAucrloaGz) | 2:07 | 2025-10-07 |  |
-| [Ha valgut la pena \- amb Nil Moliner](https://open.spotify.com/track/093gvGScy3E1GpnwDdsX4y) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Ha valgut la pena \(amb Nil Moliner\)](https://open.spotify.com/album/7mkTGGVrazHhpBaDg2Ijiv) | 2:21 | 2025-11-03 |  |
+| [Ha valgut la pena \- amb Nil Moliner](https://open.spotify.com/track/093gvGScy3E1GpnwDdsX4y) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Ha valgut la pena \(amb Nil Moliner\)](https://open.spotify.com/album/7mkTGGVrazHhpBaDg2Ijiv) | 2:21 | 2025-11-03 |  |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |
 | [HEM VINGUT A JUGAR](https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [HEM VINGUT A JUGAR](https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa) | 2:31 | 2025-01-12 | 2025-06-03 |
 | [HERE TO STAY](https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf) | [Sofia Coll](https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd) | [HERE TO STAY](https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG) | 2:38 | 2024-02-05 | 2024-07-15 |
@@ -206,7 +207,7 @@
 | [Today is the day](https://open.spotify.com/track/0kCwogCcYRnmgVnaowyYBF) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Today is the day](https://open.spotify.com/album/4Xs5q0nlVwnfel2mgfUK8t) | 2:50 | 2024-04-14 | 2024-07-29 |
 | [TORNAR](https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [TORNAR](https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER) | 2:49 | 2023-12-10 | 2024-04-15 |
 | [Tornem a casa](https://open.spotify.com/track/7bc9WLunD2VxC2FxC3bKVB) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tornem a casa](https://open.spotify.com/album/3pSGOz6onFQ1hJtX9ugPCM) | 2:36 | 2023-11-26 | 2024-05-06 |
-| [TOSSUDA PT\. 2](https://open.spotify.com/track/5VFQ2WarGuzkdg5TLST6tW) | [31 FAM](https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB) | [R31](https://open.spotify.com/album/7zqr5WoKRLsNXvz2ZdX3gC) | 3:00 | 2025-05-12 |  |
+| [TOSSUDA PT\. 2](https://open.spotify.com/track/5VFQ2WarGuzkdg5TLST6tW) | [31 FAM](https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB) | [R31](https://open.spotify.com/album/7zqr5WoKRLsNXvz2ZdX3gC) | 3:00 | 2025-05-12 | 2026-01-22 |
 | [Tot el que ens queda](https://open.spotify.com/track/2QcmLFnAZme6TIzmV3NZCT) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/5gPtexQvCrXiZfjpPKbOpE) | 2:27 | 2025-03-09 | 2025-10-08 |
 | [TOTA LA VIDA](https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [TOTA LA VIDA](https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ) | 2:52 | 2024-02-11 | 2024-04-29 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-25 | 2024-10-07 |

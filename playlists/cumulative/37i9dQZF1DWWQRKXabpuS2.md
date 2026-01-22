@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-444 songs - 1 day 6 hr 23 min
+446 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Mani Thak](https://open.spotify.com/track/0n0W88jb6L7vedbnWWoUtY) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Mani Thak](https://open.spotify.com/album/04Lz0wSYNkg0C5pDC1EVtK) | 3:23 | 2024-12-07 | 2025-07-01 |
 | [Manib Nassi](https://open.spotify.com/track/0s5sGA0ubnI88hEUNwNcY8) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Faisaliat](https://open.spotify.com/album/5cQDEwL3OpqanDK8bUjE5j) | 5:42 | 2025-04-23 | 2025-07-01 |
 | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/track/3qCKXqyJjrc2qWVITysP6i) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/album/0pTDbXQGqK3li48QMqAoFr) | 2:20 | 2023-07-17 | 2024-02-10 |
-| [Mareed \| مريض \(Piano Version\)](https://open.spotify.com/track/4obDYY1P5dRkxp6WOZpZZO) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Mareed \| مريض \(Piano Version\)](https://open.spotify.com/album/6ofuQiP910Yc3sg1lWmIx3) | 1:43 | 2026-01-08 |  |
+| [Mareed \| مريض \(Piano Version\)](https://open.spotify.com/track/4obDYY1P5dRkxp6WOZpZZO) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Mareed \| مريض \(Piano Version\)](https://open.spotify.com/album/6ofuQiP910Yc3sg1lWmIx3) | 1:43 | 2026-01-08 | 2026-01-22 |
 | [Marhala Saabah](https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Marhala Saabah](https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX) | 3:04 | 2023-07-01 | 2024-01-12 |
 | [Marrah Shukran](https://open.spotify.com/track/15nHtBKqeXFoMgZWk9jOAL) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Marrah Shukran](https://open.spotify.com/album/1HSVMXgW4TD6T0WOSKDLje) | 6:04 | 2024-01-31 | 2024-09-14 |
 | [Maskeen](https://open.spotify.com/track/6y8LpdByQROHKQMTNv7pPe) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Maskeen](https://open.spotify.com/album/6fn1Xqlur9ssQxrfSQKRdv) | 4:11 | 2022-10-10 | 2023-05-03 |
@@ -302,6 +302,7 @@
 | [Tbarak Galbe](https://open.spotify.com/track/5QGkol4xMYr3DgnOPx6jAz) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tbarak Galbe](https://open.spotify.com/album/7xkSwmQxStACNH2M68zsdT) | 4:35 | 2022-05-01 | 2022-09-15 |
 | [Tedfa Zain](https://open.spotify.com/track/5ABA5qxtBSIPMca4fg0Lqw) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Tedfa Zain](https://open.spotify.com/album/1kX3Pg3TlWXe0JJTHzRVWu) | 3:37 | 2024-01-11 | 2024-08-09 |
 | [Tedrin](https://open.spotify.com/track/3vD3gUwNGUOixb6Cg712sH) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tedrin](https://open.spotify.com/album/4JNuLecl8rCEeeR3gMznCr) | 4:47 | 2022-05-25 | 2022-09-15 |
+| [Tefargna](https://open.spotify.com/track/3Gur7pDzhyNS0TUhVMW7NJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Tefargna](https://open.spotify.com/album/1GTj4sjpcYCT1HotLQ1fOj) | 4:10 | 2026-01-21 |  |
 | [Tekfa La Tezaal](https://open.spotify.com/track/1PQUoFUEup1srdXYs589eX) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tekfa La Tezaal](https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO) | 4:10 | 2024-02-09 | 2024-10-03 |
 | [Temadeena](https://open.spotify.com/track/4kKbqhmWLX0wn3ZXk63EFB) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Temadeena](https://open.spotify.com/album/7cfR9cEVz8tfUDS7pvZPi5) | 4:24 | 2021-12-23 | 2021-12-31 |
 | [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 | 2023-09-22 | 2024-05-03 |
@@ -341,7 +342,7 @@
 | [Yedor Elroh](https://open.spotify.com/track/2Fj7CCqcJzQNS9e1ArnAxp) | [Eman AlShmety](https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd) | [Yedor Elroh](https://open.spotify.com/album/1tet3XkFW9xL8108hVfEmo) | 4:22 | 2023-09-30 | 2024-05-09 |
 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 | 2022-12-05 | 2023-05-03 |
 | [Yemkn Kheera](https://open.spotify.com/track/0Djyg3c83BhOexIq9J7gk1) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Yemkn Kheera](https://open.spotify.com/album/4T0PhQBdKUjd5hnWFR2gki) | 3:02 | 2022-03-11 | 2022-08-13 |
-| [Yeshbah lak Aljaw](https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeshbah lak Aljaw](https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy) | 3:16 | 2025-01-24 |  |
+| [Yeshbah lak Aljaw](https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeshbah lak Aljaw](https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy) | 3:16 | 2025-01-24 | 2026-01-22 |
 | [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 | 2022-05-19 | 2022-08-19 |
 | [Zenat Ayyami](https://open.spotify.com/track/2hWmBU0TymULSt7TRdqUce) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Zenat Ayyami](https://open.spotify.com/album/2G00nDqJCKplEavz7Z73nz) | 3:37 | 2023-09-07 | 2023-09-10 |
 | [Zilzal](https://open.spotify.com/track/5lIo6Uqv9tzArhAGSlp4Ch) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 4:16 | 2023-06-06 | 2023-06-10 |
@@ -443,6 +444,7 @@
 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 | 2021-12-23 | 2022-04-01 |
 | [وفر الأعذار](https://open.spotify.com/track/4U0DuUjKUOnRLrY7iBQ3kU) | [فرقة أبناء المزاريع الحربية](https://open.spotify.com/artist/3fs6zGBIqV7MzH4auGofUF) | [وفر الأعذار](https://open.spotify.com/album/1I5PJKpBsEyash9Yu3kqgz) | 5:24 | 2023-02-02 | 2023-07-28 |
 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 | 2022-05-25 | 2022-12-06 |
+| [وين قلبك](https://open.spotify.com/track/51w7NPC0rZaHixDItoaoGV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [وين قلبك](https://open.spotify.com/album/7paYp6SNBHD5klEnUVjx0H) | 3:23 | 2026-01-21 |  |
 | [وينه](https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [وينه](https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj) | 5:06 | 2023-02-07 | 2023-08-30 |
 | [يا حرام](https://open.spotify.com/track/0pQNzmaUQljZWycAUabOHj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [يا حرام](https://open.spotify.com/album/7uZmpAgIoN2DUUrfoFtLEH) | 6:17 | 2025-06-26 | 2025-07-01 |
 | [يا طر جيبي](https://open.spotify.com/track/6HWTsOTnlEBduQuK3Mh4vg) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥، جزء ١](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 4:15 | 2025-04-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 289193,
+  "num_followers": 289252,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1015,6 +999,22 @@
       "duration_ms": 224870,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "No Stranger to Shame",
-        "url": "https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 208106,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "No Stranger to Shame",
+        "url": "https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
-      },
-      "artists": [
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "Maybe It's Time",
-      "url": "https://open.spotify.com/track/4z2XPrpHz1raJibarWFY7Z"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 220626,
       "name": "Bright",
       "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "artists": [
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "Maybe It's Time",
+      "url": "https://open.spotify.com/track/4z2XPrpHz1raJibarWFY7Z"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Time Without Consequence",
-        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 297120,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 285120,
       "name": "a thousand years",
       "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Time Without Consequence",
+        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 297120,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Slow Hands",
-        "url": "https://open.spotify.com/album/6nkXOiymyczxK1XCZW5HEk"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/27vTihlWXiz9f9lJM3XGVU"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Patrick Droney",
         "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 223847,
       "name": "Stand and Deliver",
       "url": "https://open.spotify.com/track/26UtMfMsdOlhADitgUuqCG"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Slow Hands",
+        "url": "https://open.spotify.com/album/6nkXOiymyczxK1XCZW5HEk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/27vTihlWXiz9f9lJM3XGVU"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Golden Slumbers",
-        "url": "https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 144386,
-      "name": "Golden Slumbers",
-      "url": "https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "One Cell In The Sea",
         "url": "https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 154435,
       "name": "How Long Will I Love You - Bonus Track",
       "url": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Golden Slumbers",
+        "url": "https://open.spotify.com/album/4SsSg5WyleibuAwqXdhIgE"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 144386,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/6aVrw27a4INLfxTvbJF24k"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2567,18 +2567,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 211124,
-      "name": "Drivin",
-      "url": "https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF"
+      "duration_ms": 257813,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2599,18 +2599,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
         }
       ],
-      "duration_ms": 257813,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ"
+      "duration_ms": 211124,
+      "name": "Drivin",
+      "url": "https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Wax Wings",
-        "url": "https://open.spotify.com/album/0NdOAkRDjeYoAgYFmpqUa5"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 226982,
-      "name": "My My Love",
-      "url": "https://open.spotify.com/track/7p1AaaqPcj4iVIyXtopBHz"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/6qus6fQ4szOs1A2c1d16hP"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 256972,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/5HgYrY0MHqt5Iwd2aRR0xh"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Wax Wings",
+        "url": "https://open.spotify.com/album/0NdOAkRDjeYoAgYFmpqUa5"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 226982,
+      "name": "My My Love",
+      "url": "https://open.spotify.com/track/7p1AaaqPcj4iVIyXtopBHz"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3279,6 +3279,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/14SCnv027L0HidHq0URIDu"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/7vTkGDm4harI3j80FSvr2p"
       },
@@ -3291,22 +3307,6 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/7afSN5zhUhkbpRFpYKYztK"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Water Under the Bridge",
-      "url": "https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y"
     }
   ],
   "unique_name": "Mellow Drive",

@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 73620,
+  "num_followers": 78131,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAALlRxAobYtkKBUw6dRvUsUCh11Bf",
   "tracks": [
-    {
-      "added_at": "2026-01-09 19:36:49",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
     {
       "added_at": "2026-01-09 19:36:49",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2026-01-09 19:36:49",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
       "added_at": "2026-01-09 19:36:49",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-09 19:36:49",
       "album": {
-        "name": "Blanco Perla",
-        "url": "https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Manicomio",
-      "url": "https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo"
-    },
-    {
-      "added_at": "2026-01-09 19:36:49",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 347520,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
+    },
+    {
+      "added_at": "2026-01-09 19:36:49",
+      "album": {
+        "name": "Blanco Perla",
+        "url": "https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Manicomio",
+      "url": "https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo"
     },
     {
       "added_at": "2026-01-09 19:36:49",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-01-09 19:36:49",
       "album": {
+        "name": "New English",
+        "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
+    },
+    {
+      "added_at": "2026-01-09 19:36:49",
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-    },
-    {
-      "added_at": "2026-01-09 19:36:49",
-      "album": {
-        "name": "New English",
-        "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Panda",
-      "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
     },
     {
       "added_at": "2026-01-09 19:36:49",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-01-09 19:36:49",
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
-    },
-    {
-      "added_at": "2026-01-09 19:36:49",
-      "album": {
         "name": "Don't Mind",
         "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 198236,
       "name": "Don't Mind",
       "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
+    },
+    {
+      "added_at": "2026-01-09 19:36:49",
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
     },
     {
       "added_at": "2026-01-09 19:36:49",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-01-09 19:36:49",
       "album": {
+        "name": "Revival (Deluxe)",
+        "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Same Old Love",
+      "url": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59"
+    },
+    {
+      "added_at": "2026-01-09 19:36:49",
+      "album": {
         "name": "DUELE EL CORAZON (feat. Wisin)",
         "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 199693,
       "name": "DUELE EL CORAZON (feat. Wisin)",
       "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
-    },
-    {
-      "added_at": "2026-01-09 19:36:49",
-      "album": {
-        "name": "Revival (Deluxe)",
-        "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "Same Old Love",
-      "url": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59"
     },
     {
       "added_at": "2026-01-09 19:36:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-01-09 19:36:49",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
-    },
-    {
-      "added_at": "2026-01-09 19:36:49",
-      "album": {
         "name": "Tiimmy Turner",
         "url": "https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 239853,
       "name": "Tiimmy Turner",
       "url": "https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0"
+    },
+    {
+      "added_at": "2026-01-09 19:36:49",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2026-01-09 19:36:49",

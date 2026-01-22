@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,518 likes - 96 songs - 5 hr 27 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,518 likes - 97 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 94 | [New Wave](https://open.spotify.com/track/1NB1NajzztHLM3s1b6xNxb) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [New Wave](https://open.spotify.com/album/1sLMeUdZZFw0Jtn9haCuIl) | 4:04 |
 | 95 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
 | 96 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
+| 97 | [Steal My Sunshine \(feat\. merci, mercy\)](https://open.spotify.com/track/0W6qsjnGz8yRkbM6cX901c) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD), [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Steal My Sunshine \(feat\. merci, mercy\)](https://open.spotify.com/album/5OTOjS7yO1raYRtqD97RT5) | 2:44 |
 
-Snapshot ID: `AAAHt07d4DL6TptFuohkvbGipow30guh`
+Snapshot ID: `AAAHuPetXSxOTjpvL01RNidtolAfH3nF`

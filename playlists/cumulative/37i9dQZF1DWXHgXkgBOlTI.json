@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 318240,
       "name": "Golden Forest",
       "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 268660,
       "name": "Relativity",
       "url": "https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT"
@@ -2325,6 +2325,32 @@
     },
     {
       "album": {
+        "name": "Tomorrow\uff08feat.Gaku Kano\uff09",
+        "url": "https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Yuji Toriyama",
+          "url": "https://open.spotify.com/artist/183gGYMMBJVdNRVAxHzxn7"
+        },
+        {
+          "name": "Gaku Kano",
+          "url": "https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234775,
+      "name": "Tomorrow\uff08feat.Gaku Kano\uff09",
+      "url": "https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof"
+    },
+    {
+      "album": {
         "name": "Unbound feat.\u30e6\u30c3\u30b3\u30fb\u30df\u30e9\u30fc",
         "url": "https://open.spotify.com/album/2mHf5WhjpcxXhKf6Sld1LG"
       },
@@ -2642,6 +2668,24 @@
       "duration_ms": 241333,
       "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
       "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f"
+      },
+      "artists": [
+        {
+          "name": "Megapteras",
+          "url": "https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L"
     },
     {
       "album": {

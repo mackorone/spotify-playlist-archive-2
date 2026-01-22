@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Hot Glue
 
-4,404 songs - 10 day 2 hr 42 min
+4,405 songs - 10 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3427,6 +3427,7 @@
 | [Skin Deep](https://open.spotify.com/track/4LGDHY86YQ47xzIdzwMmj2) | [Talia Perese](https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c), [EDYONTHEBEAT](https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC) | [Skin Deep](https://open.spotify.com/album/3RotQTND2JndSEIZ9TprXd) | 3:01 | 2025-09-16 | 2025-10-22 |
 | [Skink](https://open.spotify.com/track/0RgyEVoJDUHlzHYLp4ulKY) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Skink](https://open.spotify.com/album/6AySP9LBx7FeRcJQ3d8WjV) | 4:35 | 2025-05-27 | 2025-07-23 |
 | [Skink](https://open.spotify.com/track/51yZTj0lmvakr1hE88cVSu) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 4:35 | 2025-12-03 | 2026-01-21 |
+| [skins](https://open.spotify.com/track/59JLmPHHjlpHZv9vIZeoIk) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [skins](https://open.spotify.com/album/1qwb3jaPuOSJ9EurJejqfL) | 2:11 | 2026-01-20 |  |
 | [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 | 2023-04-19 |
 | [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 | 2023-04-12 | 2023-05-04 |
 | [Skullcrusher](https://open.spotify.com/track/1exgGwxKIfHb9Ep3eftwW0) | [Feelds](https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W), [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Skullcrusher](https://open.spotify.com/album/2OIA6ZTqcMyfwXz2GQhZrg) | 3:42 | 2023-08-30 | 2023-09-21 |

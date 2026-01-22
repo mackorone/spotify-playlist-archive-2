@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Carolina Ross \ud83d\udcf8",
-  "num_followers": 366682,
+  "num_followers": 366681,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "En Las Cantinas (En vivo)",
-        "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 196377,
-      "name": "No Me Amenaces (En Vivo)",
-      "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "El Mexicano",
         "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 194452,
       "name": "Te Presento A Mi Amante",
       "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "En Las Cantinas (En vivo)",
+        "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 196377,
+      "name": "No Me Amenaces (En Vivo)",
+      "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "No Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "No Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "No Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "No Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
     },
     {
       "added_at": "2026-01-16 06:00:26",

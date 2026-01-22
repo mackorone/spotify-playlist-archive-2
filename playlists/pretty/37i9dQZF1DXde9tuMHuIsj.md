@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI, JC Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,364 likes - 99 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,350 likes - 99 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MVLAN](https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MVLAN](https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN) | 3:41 |
-| 2 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [svnti](https://open.spotify.com/artist/3FtKKNslTacsC8L0GymuMR) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
+| 2 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
 | 3 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
 | 4 | [BIENVENIDA](https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [No vuelve a suceder \(calentamiento pre álbum\)](https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB) | 1:45 |
 | 5 | [4x4](https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr), [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [4x4](https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7) | 4:48 |

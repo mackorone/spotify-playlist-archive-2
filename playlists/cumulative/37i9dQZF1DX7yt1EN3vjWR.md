@@ -4,7 +4,7 @@
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>の公式プレイリスト。
 
-967 songs - 2 day 2 hr 20 min
+968 songs - 2 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Do Well](https://open.spotify.com/track/1j1BVseFGBHHKWyGtmdnhm) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 3:25 | 2024-05-20 | 2025-01-24 |
 | [Dojo2](https://open.spotify.com/track/4gP2ziWo4P0B3n6hRQovrN) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [TOME](https://open.spotify.com/artist/118eRdycS98oyMFEl5xvbo) | [Hood Playaz](https://open.spotify.com/album/4WKOA0yQxVKfCTubD3mBau) | 2:39 | 2025-12-17 |  |
 | [Don't Judge Me](https://open.spotify.com/track/20FVZlSdlZGPL8HaUDiqq5) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [MACCHO](https://open.spotify.com/artist/2UgXaM5svmSrlO5lHU7SCe) | [Don't Judge Me](https://open.spotify.com/album/4FErbtTnwPij0OosM1gCZL) | 4:26 | 2026-01-08 |  |
-| [don't stop freestyle](https://open.spotify.com/track/5qRhSP9lDIS4sokxoPtU9i) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.4](https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236) | 1:53 | 2026-01-08 |  |
+| [don't stop freestyle](https://open.spotify.com/track/5qRhSP9lDIS4sokxoPtU9i) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.4](https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236) | 1:53 | 2026-01-08 | 2026-01-22 |
 | [Doors](https://open.spotify.com/track/0Mto7aKiY231f9Vc7NgpNf) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Radiant](https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW) | 4:38 | 2024-05-20 | 2025-01-24 |
 | [DOROBO](https://open.spotify.com/track/4kXrRA5IE2NlQeHzZfZTHp) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [FR FR](https://open.spotify.com/album/06QFmo4jPRBa3DJBeQazKx) | 3:09 | 2023-06-07 | 2024-01-25 |
 | [DOSHABURI](https://open.spotify.com/track/3mYO2S7o4kpIXVnhtYHhLL) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/61bA17oFLiO0GB2hVLJnUp) | 2:41 | 2024-01-24 | 2024-02-08 |
@@ -521,6 +521,7 @@
 | [MYPPL \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/0MmXuP8T9QQVoTc7FHytOI) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [EVERYTHING INSIDE](https://open.spotify.com/album/01vHNbfLgPmT4vIckImSzy) | 3:22 | 2024-05-20 | 2025-01-24 |
 | [MYSELF](https://open.spotify.com/track/3y4MntZ8wOti0QEvVhYTYC) | [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb) | [FREAKY](https://open.spotify.com/album/4DwJjRNgd1vPmwrPbmt9Gk) | 3:08 | 2023-06-07 | 2024-01-25 |
 | [N64](https://open.spotify.com/track/57ZEnKxB1ZOsahrd6nfqTQ) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [N64](https://open.spotify.com/album/67hqEMyPxnIVgmFDHXZJgn) | 3:08 | 2025-05-26 | 2025-10-01 |
+| [Nagoya Rich Boy](https://open.spotify.com/track/5x9MJQAX2KVuVErOgx6qTz) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Nagoya Rich Boy](https://open.spotify.com/album/5sFKUwooJI9QP3NUjVC2nP) | 2:36 | 2026-01-21 |  |
 | [Nah だ](https://open.spotify.com/track/6V2f3APqea1JU5g7c2Z3zr) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [IEGUMO](https://open.spotify.com/album/3IUORVpK7gvXnL1nG56cUJ) | 1:32 | 2026-01-08 |  |
 | [Nail Sounds](https://open.spotify.com/track/3hIFrVPnGTP98lrPw7OIvR) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pink Crocodile](https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr) | 2:43 | 2025-05-26 | 2025-10-01 |
 | [Nail Sounds](https://open.spotify.com/track/6keU4yW6CumdMtZr3yfWf9) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Nail Sounds](https://open.spotify.com/album/7yH8uRUagfl0PvRX6GtaMK) | 2:44 | 2024-05-20 | 2025-01-24 |

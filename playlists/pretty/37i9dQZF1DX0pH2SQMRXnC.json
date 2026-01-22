@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1512825,
+  "num_followers": 1513081,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Boulevard Of Broken Dreams",
-        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
-      },
-      "artists": [
-        {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Boulevard Of Broken Dreams",
-      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Don't Stop Believin' (Felix Harrer Remix)",
         "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 207061,
       "name": "Don't Stop Believin' - Felix Harrer Remix",
       "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "Boulevard Of Broken Dreams",
+        "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Boulevard Of Broken Dreams",
+      "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -683,6 +683,30 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/2TRU6ZD8yXFgBwJbL8VoK5"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 189521,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/4GlahyzF7G8xJnP7NpQirV"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/1m2EoGXSA9QtXdRawROTEZ"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/2TRU6ZD8yXFgBwJbL8VoK5"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 189521,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/4GlahyzF7G8xJnP7NpQirV"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
+        "name": "Anadrol",
+        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "duration_ms": 139947,
+      "name": "Anadrol",
+      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 190600,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
-        "name": "Anadrol",
-        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
-      },
-      "artists": [
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        }
-      ],
-      "duration_ms": 139947,
-      "name": "Anadrol",
-      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 233806,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Ruinen Dieser Welt",
         "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 233806,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Activation",
-        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Activation",
-      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 120937,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "Activation",
+        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Activation",
+      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 221578,
       "name": "Numb",
       "url": "https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "The Kids Aren't Alright",
-        "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "GPF",
-          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        }
-      ],
-      "duration_ms": 222408,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Blow Ya Mind",
         "url": "https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk"
       },
@@ -1847,6 +1823,30 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
+        "name": "The Kids Aren't Alright",
+        "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "duration_ms": 222408,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
       },
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Never Surrender",
         "url": "https://open.spotify.com/album/0b0G6oXqDgy5NQDxvuHh5B"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 159978,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/5WUi83oaFYgo7Y54mLlt5J"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 223213,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
+        "name": "DAS IST KEIN TECHNO",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "DAS IST KEIN TECHNO",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
-        "name": "DAS IST KEIN TECHNO",
-        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "DAS IST KEIN TECHNO",
-      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2115,6 +2115,30 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
+        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
+        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+      },
+      "artists": [
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
+      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
         "name": "Cornflakes",
         "url": "https://open.spotify.com/album/1lxsotpRESvh43wXTaHSfV"
       },
@@ -2139,30 +2163,6 @@
       "duration_ms": 167531,
       "name": "Cornflakes",
       "url": "https://open.spotify.com/track/0srjHiMVx5GWL3nIK6Gf56"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
-        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
-        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
-      },
-      "artists": [
-        {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "ANDY SVGE",
-          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
-      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2203,6 +2203,26 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
+        "name": "FACE 2 FACE",
+        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "FACE 2 FACE",
+      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
       },
@@ -2235,22 +2255,18 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "FACE 2 FACE",
-        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
+        "name": "I LIKE THE NOISE VOL.1",
+        "url": "https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe"
       },
       "artists": [
         {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
         }
       ],
-      "duration_ms": 167250,
-      "name": "FACE 2 FACE",
-      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
+      "duration_ms": 157500,
+      "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
+      "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2267,22 +2283,6 @@
       "duration_ms": 139500,
       "name": "Kann es sein\u2026 (dass Du dumm bist?)",
       "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
-        "name": "I LIKE THE NOISE VOL.1",
-        "url": "https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
-      "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2327,22 +2327,18 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
+        "name": "The Final Dose",
+        "url": "https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5"
       },
       "artists": [
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
         }
       ],
-      "duration_ms": 314348,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
+      "duration_ms": 168000,
+      "name": "POLIZEI",
+      "url": "https://open.spotify.com/track/20XN7Sr1wil6dvhPwR2FOe"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2379,18 +2375,22 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "The Final Dose",
-        "url": "https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5"
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
       },
       "artists": [
         {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "POLIZEI",
-      "url": "https://open.spotify.com/track/20XN7Sr1wil6dvhPwR2FOe"
+      "duration_ms": 314348,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2491,26 +2491,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "HIT THE GAS",
-        "url": "https://open.spotify.com/album/3mKDzsggXNwFdrLzztCiFB"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Wavehi",
-          "url": "https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "HIT THE GAS",
-      "url": "https://open.spotify.com/track/7Gjw1vTEFvEbmv5STIjHF3"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "Stuck In The Middle",
         "url": "https://open.spotify.com/album/7Jkxwy6alSRbaYRx0BXEUG"
       },
@@ -2527,6 +2507,26 @@
       "duration_ms": 232215,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/2vpH5Pr0e8YuuRv4YLHB6V"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "HIT THE GAS",
+        "url": "https://open.spotify.com/album/3mKDzsggXNwFdrLzztCiFB"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Wavehi",
+          "url": "https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "HIT THE GAS",
+      "url": "https://open.spotify.com/track/7Gjw1vTEFvEbmv5STIjHF3"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2963,18 +2963,18 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
+        "name": "The Alarm",
+        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
       },
       "artists": [
         {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
+      "duration_ms": 193500,
+      "name": "The Alarm",
+      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
     },
     {
       "added_at": "2026-01-19 12:56:12",
@@ -2999,22 +2999,6 @@
     {
       "added_at": "2026-01-19 12:56:12",
       "album": {
-        "name": "The Alarm",
-        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "The Alarm",
-      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
-    },
-    {
-      "added_at": "2026-01-19 12:56:12",
-      "album": {
         "name": "RUNNIN",
         "url": "https://open.spotify.com/album/5e23jQwbHR0ijCzjGT5Omb"
       },
@@ -3027,6 +3011,22 @@
       "duration_ms": 168000,
       "name": "RUNNIN",
       "url": "https://open.spotify.com/track/3TyG2pszbmZwMX3rX6FWnS"
+    },
+    {
+      "added_at": "2026-01-19 12:56:12",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
     }
   ],
   "unique_name": "Hardstyle Bangers",

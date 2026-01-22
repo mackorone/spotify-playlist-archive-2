@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7230,
+  "num_followers": 7239,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADcBC7fIRzJpFbHgKI4ex/a",
+  "snapshot_id": "aW7FgAAAAADSoUJYn5GsElnnDau/EIp5",
   "tracks": [
     {
       "added_at": null,
@@ -390,11 +390,15 @@
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 131592,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
+      "duration_ms": 214187,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5VNKIfEcwpb6zcU28V0GNP"
     },
     {
       "added_at": null,
@@ -470,15 +474,11 @@
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 214187,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/5VNKIfEcwpb6zcU28V0GNP"
+      "duration_ms": 131592,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
     },
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Help Is On The Way",
         "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 176183,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sick Six",
+        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 128429,
+      "name": "Say No to Big Fall",
+      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
         "url": "https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 157935,
       "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
       "url": "https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sick Six",
-        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 128429,
-      "name": "Say No to Big Fall",
-      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lock up",
+        "url": "https://open.spotify.com/album/0L1CwOjfxxtrVmubuDGQnR"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 235496,
+      "name": "Lock up",
+      "url": "https://open.spotify.com/track/1mlNCvGpnoYL7D01U9g3vx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABALI",
         "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 227663,
       "name": "El Sucio Guapo",
       "url": "https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lock up",
-        "url": "https://open.spotify.com/album/0L1CwOjfxxtrVmubuDGQnR"
-      },
-      "artists": [
-        {
-          "name": "Davolee",
-          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 235496,
-      "name": "Lock up",
-      "url": "https://open.spotify.com/track/1mlNCvGpnoYL7D01U9g3vx"
     }
   ],
   "unique_name": "This Is Zlatan",

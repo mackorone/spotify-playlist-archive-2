@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Calibre 50 en portada.",
-  "num_followers": 524953,
+  "num_followers": 525035,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Supercargada",
-        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 175616,
-      "name": "Supercargada",
-      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 155885,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/3Yh0y714GOrQYyV0eZWAyE"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Supercargada",
+        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 175616,
+      "name": "Supercargada",
+      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Pongase Bien Chula",
-        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pongase Bien Chula",
-      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "TENGO MI VICIO",
         "url": "https://open.spotify.com/album/68E1jikzWOcDFNbkeYQYxe"
       },
@@ -955,18 +935,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Si Me Sue\u00f1as (En Vivo)",
-        "url": "https://open.spotify.com/album/0XSzgt5KX9uLFLwz136sL4"
+        "name": "Pongase Bien Chula",
+        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 160768,
-      "name": "Si Me Sue\u00f1as (En Vivo)",
-      "url": "https://open.spotify.com/track/6nLrfnFHH0fYfrTDbJjuEa"
+      "duration_ms": 164000,
+      "name": "Pongase Bien Chula",
+      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -983,6 +967,22 @@
       "duration_ms": 193843,
       "name": "Mami",
       "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Si Me Sue\u00f1as (En Vivo)",
+        "url": "https://open.spotify.com/album/0XSzgt5KX9uLFLwz136sL4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 160768,
+      "name": "Si Me Sue\u00f1as (En Vivo)",
+      "url": "https://open.spotify.com/track/6nLrfnFHH0fYfrTDbJjuEa"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
+        "name": "Prision De Amor",
+        "url": "https://open.spotify.com/album/74JcszRMjbUxbMxjG90MPe"
+      },
+      "artists": [
+        {
+          "name": "La Novedad Norte\u00f1a de Israel Leyva",
+          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Prision De Amor",
+      "url": "https://open.spotify.com/track/1dn9QUFZYRdBJG4wVQs1rG"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -1115,38 +1131,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Prision De Amor",
-        "url": "https://open.spotify.com/album/74JcszRMjbUxbMxjG90MPe"
-      },
-      "artists": [
-        {
-          "name": "La Novedad Norte\u00f1a de Israel Leyva",
-          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Prision De Amor",
-      "url": "https://open.spotify.com/track/1dn9QUFZYRdBJG4wVQs1rG"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
-        "name": "#TB...Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "Estoy Enamorado De Ti",
-      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "LO LOGRAMOS",
         "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
+        "name": "Honky Tonk Tunes, Vol. 2",
+        "url": "https://open.spotify.com/album/6oONNMEpnk13JfLTixU7jO"
+      },
+      "artists": [
+        {
+          "name": "Petroleros Del Bravo",
+          "url": "https://open.spotify.com/artist/0SN6x6YIRqbchVQRuuDfUJ"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Un Enga\u0144o Mas",
+      "url": "https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Honky Tonk Tunes, Vol. 2",
-        "url": "https://open.spotify.com/album/6oONNMEpnk13JfLTixU7jO"
+        "name": "#TB...Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
       },
       "artists": [
         {
-          "name": "Petroleros Del Bravo",
-          "url": "https://open.spotify.com/artist/0SN6x6YIRqbchVQRuuDfUJ"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 203500,
-      "name": "Un Enga\u0144o Mas",
-      "url": "https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ"
+      "duration_ms": 187578,
+      "name": "Estoy Enamorado De Ti",
+      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Tus \u00daltimas Palabras",
-        "url": "https://open.spotify.com/album/0uYIdbKBmuUxCmZQuUQnKF"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Tus \u00daltimas Palabras",
-      "url": "https://open.spotify.com/track/2jrQM8Yrd97q6eUvRZm1X0"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "CHE CHE",
         "url": "https://open.spotify.com/album/3i1uH1OCtUBdgX05Y637Ad"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 180805,
       "name": "CHE CHE",
       "url": "https://open.spotify.com/track/2GUApVyQ3yGKW5W2NH2DjA"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Tus \u00daltimas Palabras",
+        "url": "https://open.spotify.com/album/0uYIdbKBmuUxCmZQuUQnKF"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Tus \u00daltimas Palabras",
+      "url": "https://open.spotify.com/track/2jrQM8Yrd97q6eUvRZm1X0"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Hecha Pa' M\u00ed",
-        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Hecha Pa' M\u00ed",
+        "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "\u00bfAs\u00ed o M\u00e1s?",
         "url": "https://open.spotify.com/album/3DQWLHvgCZSYUiI91OrLH2"
       },
@@ -1699,22 +1679,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Algo Para Siempre",
-        "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
-      },
-      "artists": [
-        {
-          "name": "Destino",
-          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
-        }
-      ],
-      "duration_ms": 152088,
-      "name": "Algo Para Siempre",
-      "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "El Autobus",
         "url": "https://open.spotify.com/album/26zikaDQiAxzllZ0K7SQKL"
       },
@@ -1727,6 +1691,42 @@
       "duration_ms": 288005,
       "name": "El Autobus",
       "url": "https://open.spotify.com/track/4TCQNMUgKddn5nRYxViP9e"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "Algo Para Siempre",
+        "url": "https://open.spotify.com/album/0XQsWCJWTWconBMYIirUrL"
+      },
+      "artists": [
+        {
+          "name": "Destino",
+          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+        }
+      ],
+      "duration_ms": 152088,
+      "name": "Algo Para Siempre",
+      "url": "https://open.spotify.com/track/2n3dABKKWhOCNcLIjTY4Vn"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1763,38 +1763,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "VI : Venimos X M\u00e1s",
-        "url": "https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB"
-      },
-      "artists": [
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
-        }
-      ],
-      "duration_ms": 156789,
-      "name": "Ahora Estoy De M\u00e1s",
-      "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
-        "name": "Cajeta",
-        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Cajeta",
-      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "Vete Con \u00c9l",
         "url": "https://open.spotify.com/album/19o9B2318STGKlz6msTJ0h"
       },
@@ -1815,6 +1783,22 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
+        "name": "Cajeta",
+        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Cajeta",
+      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
         "name": "Las Canciones Bonitas",
         "url": "https://open.spotify.com/album/04j47PSf6e3Djxog2tq4JW"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 184172,
       "name": "40 Cartas",
       "url": "https://open.spotify.com/track/5heZVAODMb1T9KbCVvUBMU"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "VI : Venimos X M\u00e1s",
+        "url": "https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "duration_ms": 156789,
+      "name": "Ahora Estoy De M\u00e1s",
+      "url": "https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "Valiendo VRG",
-        "url": "https://open.spotify.com/album/0YQ8FtBpAn3CgzOK68Q4v6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Delta Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "Valiendo VRG",
-      "url": "https://open.spotify.com/track/1v2ZTWxQdzWK9c6CmndvYk"
-    },
-    {
-      "added_at": "2026-01-09 06:00:20",
-      "album": {
         "name": "En Vivo Desde El Norte De Amarillo Tx (En vivo)",
         "url": "https://open.spotify.com/album/6nlQm6z056f83MA3datYEG"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2026-01-09 06:00:20",
       "album": {
-        "name": "El Viejo Fino",
-        "url": "https://open.spotify.com/album/6JV5WJH9zOwDK9NaWYtb0n"
+        "name": "Valiendo VRG",
+        "url": "https://open.spotify.com/album/0YQ8FtBpAn3CgzOK68Q4v6"
       },
       "artists": [
         {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+          "name": "Grupo Delta Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
         }
       ],
-      "duration_ms": 167353,
-      "name": "Cantan Las Ranas",
-      "url": "https://open.spotify.com/track/7r25PfAh14VrUEksFN4DUi"
+      "duration_ms": 153137,
+      "name": "Valiendo VRG",
+      "url": "https://open.spotify.com/track/1v2ZTWxQdzWK9c6CmndvYk"
     },
     {
       "added_at": "2026-01-09 06:00:20",
@@ -2039,6 +2023,22 @@
       "duration_ms": 199000,
       "name": "Tus Palabras",
       "url": "https://open.spotify.com/track/73UxSb6sM0SdvdhGQPM6wZ"
+    },
+    {
+      "added_at": "2026-01-09 06:00:20",
+      "album": {
+        "name": "El Viejo Fino",
+        "url": "https://open.spotify.com/album/6JV5WJH9zOwDK9NaWYtb0n"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 167353,
+      "name": "Cantan Las Ranas",
+      "url": "https://open.spotify.com/track/7r25PfAh14VrUEksFN4DUi"
     },
     {
       "added_at": "2026-01-09 06:00:20",

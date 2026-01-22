@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko, Michalis Karagkounis, Sin Laurent
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,059 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,049 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 23 | [PES KAI THA RTHW](https://open.spotify.com/track/0K6yas608Uqs2odowPedYS) | [Χρυσηίδα Γκαγκούτη](https://open.spotify.com/artist/3xDWs10E9We9lyVOZoZY4J) | [PES KAI THA RTHW](https://open.spotify.com/album/2LArog9P5cIveHydpRkcHv) | 2:20 |
 | 24 | [Eipes](https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Eipes](https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB) | 4:03 |
 | 25 | [MONCLER](https://open.spotify.com/track/11dvIukD3Xmk1WbDuisL82) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [HOME ALONE](https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa) | 1:54 |
-| 26 | [BABA](https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [BABA](https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu) | 2:24 |
+| 26 | [BABA](https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [BABA](https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu) | 2:24 |
 | 27 | [Prezi](https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Prezi](https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn) | 2:49 |
 | 28 | [FIDIA](https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [CAPO DEI CAPI \(Deluxe\)](https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50) | 3:04 |
 | 29 | [Non Stop](https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Non Stop](https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL) | 3:19 |

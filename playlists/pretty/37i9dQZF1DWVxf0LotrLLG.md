@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Young Cister
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,285 likes - 15 songs - 43 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 39,290 likes - 15 songs - 43 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

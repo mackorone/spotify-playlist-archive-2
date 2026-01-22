@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10132,
+  "num_followers": 10136,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABLozFk1bX592a5t4nlKvw+",
+  "snapshot_id": "aW7FgAAAAAAk+ACLYwqhzzlNj1Q65w+1",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 163796,
       "name": "Glo-Fi (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "M.I.A.",
-      "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
     },
     {
       "added_at": null,

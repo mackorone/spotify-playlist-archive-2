@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43215,
+  "num_followers": 43214,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Mentes Procesadas",
-        "url": "https://open.spotify.com/album/4zUom1xiED56afLoHAdSuG"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda Bossa",
-          "url": "https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/36sS8AVc5EG03p0j173yGU"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Gracias por Cuidar el Equipo",
         "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 227328,
       "name": "Directa",
       "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Mentes Procesadas",
+        "url": "https://open.spotify.com/album/4zUom1xiED56afLoHAdSuG"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Bossa",
+          "url": "https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/36sS8AVc5EG03p0j173yGU"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Perro de Playa (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
-      },
-      "artists": [
-        {
-          "name": "Man Ray",
-          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Sola en los Bares - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Mujer Contra Mujer",
         "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 229373,
       "name": "Mujer Contra Mujer",
       "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Perro de Playa (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
+      },
+      "artists": [
+        {
+          "name": "Man Ray",
+          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Sola en los Bares - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+        "name": "Cuando el sol est\u00e1 as\u00ed",
+        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
+      "duration_ms": 230988,
+      "name": "Cuando el sol est\u00e1 as\u00ed",
+      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed",
-        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 230988,
-      "name": "Cuando el sol est\u00e1 as\u00ed",
-      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "beso despedida",
+        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
+      },
+      "artists": [
+        {
+          "name": "Ernestina",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+        }
+      ],
+      "duration_ms": 136364,
+      "name": "beso despedida",
+      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "beso despedida",
-        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
+        "name": "El Ataque de Zorrita",
+        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
       },
       "artists": [
         {
-          "name": "Ernestina",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+          "name": "Venus",
+          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
         }
       ],
-      "duration_ms": 136364,
-      "name": "beso despedida",
-      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
+      "duration_ms": 158200,
+      "name": "Est\u00e1s Borracho",
+      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -923,22 +939,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "El Ataque de Zorrita",
-        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
-      },
-      "artists": [
-        {
-          "name": "Venus",
-          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Est\u00e1s Borracho",
-      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Esquizofrenia",
         "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 147772,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Epica & Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
+        "name": "Agitar",
+        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
       },
       "artists": [
         {
-          "name": "Marina Fages",
-          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
         }
       ],
-      "duration_ms": 245246,
-      "name": "Piedra Marea Fuego",
-      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+      "duration_ms": 127598,
+      "name": "Agitar",
+      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Agitar",
-        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
       "artists": [
         {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
         }
       ],
-      "duration_ms": 127598,
-      "name": "Agitar",
-      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Todo el mundo miente",
         "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Escapar",
         "url": "https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Suena En M\u00ed",
-        "url": "https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr"
-      },
-      "artists": [
-        {
-          "name": "Las Blacanblus",
-          "url": "https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Fuego Sobre Fuego",
-      "url": "https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Quieta",
         "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 175957,
       "name": "Quieta",
       "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Suena En M\u00ed",
+        "url": "https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr"
+      },
+      "artists": [
+        {
+          "name": "Las Blacanblus",
+          "url": "https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Fuego Sobre Fuego",
+      "url": "https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
       },
       "artists": [
         {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 197493,
-      "name": "Nada, Nadie",
-      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
+      "duration_ms": 240528,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
       },
       "artists": [
         {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
         }
       ],
-      "duration_ms": 240528,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
+      "duration_ms": 197493,
+      "name": "Nada, Nadie",
+      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 254092,
-      "name": "Excursiones",
-      "url": "https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "On\u00edrica",
         "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 254092,
+      "name": "Excursiones",
+      "url": "https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Sola y Feliz",
         "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 188861,
       "name": "Sola y Feliz",
       "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Marea Negra",
-        "url": "https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC"
-      },
-      "artists": [
-        {
-          "name": "Tranki Punki",
-          "url": "https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7"
-        }
-      ],
-      "duration_ms": 243722,
-      "name": "Proclama",
-      "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb"
+        "name": "Marea Negra",
+        "url": "https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC"
       },
       "artists": [
         {
-          "name": "HTML",
-          "url": "https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8"
+          "name": "Tranki Punki",
+          "url": "https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7"
         }
       ],
-      "duration_ms": 156108,
-      "name": "Vocales",
-      "url": "https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V"
+      "duration_ms": 243722,
+      "name": "Proclama",
+      "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "El lado sur de mi coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
+        "name": "17",
+        "url": "https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb"
       },
       "artists": [
         {
-          "name": "Cecilia Toussaint",
-          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+          "name": "HTML",
+          "url": "https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8"
         }
       ],
-      "duration_ms": 175235,
-      "name": "Te agradezco el amor",
-      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
+      "duration_ms": 156108,
+      "name": "Vocales",
+      "url": "https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1619,6 +1603,22 @@
       "duration_ms": 266020,
       "name": "Tanta Data",
       "url": "https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "El lado sur de mi coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "duration_ms": 175235,
+      "name": "Te agradezco el amor",
+      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
     },
     {
       "added_at": "2025-06-26 15:52:01",

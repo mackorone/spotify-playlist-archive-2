@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 438300,
+  "num_followers": 438305,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAipa9lmDy/OwEbVd851k5A",
+  "snapshot_id": "aW7FgAAAAAC1xHcASM1iQyDJaFRuRYQp",
   "tracks": [
     {
       "added_at": null,
@@ -502,15 +502,11 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Eurielle",
-          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
         }
       ],
-      "duration_ms": 295997,
-      "name": "Too Hotty",
-      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
     },
     {
       "added_at": null,
@@ -582,11 +578,15 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Eurielle",
+          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
         }
       ],
-      "duration_ms": 241505,
-      "name": "Bosses Don't Speak",
-      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+      "duration_ms": 295997,
+      "name": "Too Hotty",
+      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 222424,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 258741,
       "name": "Frosted Flakes",
       "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 222424,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Decided.",
-        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Sacrifices",
-      "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 308733,
       "name": "Blue Cheese",
       "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Decided.",
+        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
     },
     {
       "added_at": null,

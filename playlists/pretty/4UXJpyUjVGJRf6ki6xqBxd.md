@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UXJpyUjVGJRf6ki6xqBxd.md) - [plain]
 
 > 
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 21,736 likes - 71 songs - 3 hr 28 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 21,735 likes - 71 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

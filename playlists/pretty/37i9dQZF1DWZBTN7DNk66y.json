@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28194,
+  "num_followers": 28200,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Amanece (a Pepe Mujica)",
-        "url": "https://open.spotify.com/album/2xPQysNWJoN1R5obe7as9o"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Amanece (A Pepe Mujica)",
-      "url": "https://open.spotify.com/track/2HZBmHn8uajdtUWQt7MR5E"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "T\u00c1",
         "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 140500,
       "name": "Ana Mar\u00eda",
       "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Amanece (a Pepe Mujica)",
+        "url": "https://open.spotify.com/album/2xPQysNWJoN1R5obe7as9o"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 232318,
+      "name": "Amanece (A Pepe Mujica)",
+      "url": "https://open.spotify.com/track/2HZBmHn8uajdtUWQt7MR5E"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1035,22 +1035,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Otras Bocas, Otras Lenguas",
-        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
+        "name": "MALAMADOS",
+        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
       },
       "artists": [
         {
-          "name": "Alejo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
+          "name": "MALAMADOS",
+          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
         },
         {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "Joaquinx Merino",
+          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
         }
       ],
-      "duration_ms": 285375,
-      "name": "Otras Bocas, Otras Lenguas",
-      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
+      "duration_ms": 141011,
+      "name": "MALAMADOS",
+      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1075,18 +1079,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+        "name": "Otras Bocas, Otras Lenguas",
+        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Alejo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
         }
       ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+      "duration_ms": 285375,
+      "name": "Otras Bocas, Otras Lenguas",
+      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1111,26 +1119,18 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "MALAMADOS",
-        "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
       },
       "artists": [
         {
-          "name": "MALAMADOS",
-          "url": "https://open.spotify.com/artist/39zMQLfX1vraPc3MBoIgQO"
-        },
-        {
-          "name": "Joaquinx Merino",
-          "url": "https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 141011,
-      "name": "MALAMADOS",
-      "url": "https://open.spotify.com/track/1AAkfOx447WGFIEOUzxNkX"
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 237078,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Sampa",
         "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 269540,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "BOLERo LIBRA",
-        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 172687,
-      "name": "BOLERo LIBRA",
-      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Que siga el baile",
         "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 165059,
       "name": "Que siga el baile",
       "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "BOLERo LIBRA",
+        "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "BOLERo LIBRA",
+      "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Porcelana",
+        "url": "https://open.spotify.com/album/2zjde2ylSi2i2sTaZhia91"
+      },
+      "artists": [
+        {
+          "name": "Minco",
+          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
+        }
+      ],
+      "duration_ms": 139944,
+      "name": "Porcelana",
+      "url": "https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "La vida pasa",
         "url": "https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 228548,
       "name": "La vida pasa",
       "url": "https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Porcelana",
-        "url": "https://open.spotify.com/album/2zjde2ylSi2i2sTaZhia91"
-      },
-      "artists": [
-        {
-          "name": "Minco",
-          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
-        }
-      ],
-      "duration_ms": 139944,
-      "name": "Porcelana",
-      "url": "https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
         "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 277351,
       "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
       "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "UNDESASTRE delux: CERODRAMA",
-        "url": "https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "NOstas",
-      "url": "https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1627,6 +1611,22 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "UNDESASTRE delux: CERODRAMA",
+        "url": "https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "NOstas",
+      "url": "https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "AHORA QUE ME VOY",
         "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 184889,
       "name": "AHORA QUE ME VOY",
       "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1759,6 +1759,26 @@
       "duration_ms": 185666,
       "name": "\u00a1Juegue!",
       "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Fuera de mi lugar (a la medianoche)",
+        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "Fuera de mi lugar (a la medianoche)",
+      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1807,26 +1827,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Fuera de mi lugar (a la medianoche)",
-        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
-      },
-      "artists": [
-        {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "Fuera de mi lugar (a la medianoche)",
-      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
         "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
       },
@@ -1839,26 +1839,6 @@
       "duration_ms": 185853,
       "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
       "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "21 DE ENERo",
-        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 174954,
-      "name": "21 DE ENERo",
-      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1883,22 +1863,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Ba\u00f1era",
-        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
+        "name": "21 DE ENERo",
+        "url": "https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE"
       },
       "artists": [
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         },
         {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         }
       ],
-      "duration_ms": 152381,
-      "name": "Ba\u00f1era",
-      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
+      "duration_ms": 174954,
+      "name": "21 DE ENERo",
+      "url": "https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1915,6 +1895,26 @@
       "duration_ms": 228789,
       "name": "Inflexion - En Vivo",
       "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Ba\u00f1era",
+        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 152381,
+      "name": "Ba\u00f1era",
+      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
     }
   ],
   "unique_name": "Voces del Sur",

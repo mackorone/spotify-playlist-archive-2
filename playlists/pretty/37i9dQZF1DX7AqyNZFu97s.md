@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Shy One
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,975 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,983 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 9 | [Anna with the Silver Arrow](https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Anna with the Silver Arrow](https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8) | 3:44 |
 | 10 | [Intuition](https://open.spotify.com/track/1Cqx6wls7mVzwOTDtkEcyG) | [Kané](https://open.spotify.com/artist/1cG38HpSvnldVHb8fUt3rj) | [Intuition](https://open.spotify.com/album/044T84Jqpd4UX7u4BygzKF) | 2:31 |
 | 11 | [Blankspace](https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Blankspace](https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g) | 3:04 |
-| 12 | [Track 1](https://open.spotify.com/track/3JAYQjMRf4iw8GFFcfrwV0) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [cartoon network](https://open.spotify.com/track/3JAYQjMRf4iw8GFFcfrwV0) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [boy overboard](https://open.spotify.com/album/2OL6bx0KiB2MoBUO1EeWyi) | 2:31 |
 | 13 | [Cannonball](https://open.spotify.com/track/124vsp9vtlJXFaCHVx5Drd) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Cannonball](https://open.spotify.com/album/3eKDetuZBRAG8bBVNCgpyG) | 3:48 |
 | 14 | [Lucky Now](https://open.spotify.com/track/6Cn0MQUzbmmAlboRmcUTw4) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Lucky Now](https://open.spotify.com/album/4YTiD76fIsjvdttFu7moIE) | 3:33 |
 | 15 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 |
 | 16 | [ON MY BACK](https://open.spotify.com/track/1b8J6Yr0YjcdbxP5oixrQI) | [kfromkway](https://open.spotify.com/artist/6gbtmovwUI1lt5cOUHv1T2) | [ON MY BACK](https://open.spotify.com/album/4K2bSlPe6KAEvdW42TCuRl) | 2:01 |
 | 17 | [Crazy World](https://open.spotify.com/track/6PPqDI67fz24aIBB4EMfPs) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Crazy World](https://open.spotify.com/album/04BXSpQ5QdkXwqL8Bzr1Mm) | 3:05 |
 | 18 | [i\_aint\_fly \(G6\)](https://open.spotify.com/track/0gzF6cVbWR9pxvsLgC4wTi) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [i\_aint\_fly \(G6\)](https://open.spotify.com/album/6ItysXbWwK1JG0D4jLdnJi) | 1:57 |
-| 19 | [Generation Left On Read](https://open.spotify.com/track/1FEKoDnMyleXwNmHL7dTNQ) | [Murkage Dave](https://open.spotify.com/artist/4fTqtoSkTj4lcLHMANIs4C), [KONOPINKSY](https://open.spotify.com/artist/5xJTpXqLXoLoVzCAKbJKxR) | [Generation Left On Read](https://open.spotify.com/album/5ZmPO0tB2tvTWM1d5M5FxG) | 2:38 |
+| 19 | [Generation Left On Read](https://open.spotify.com/track/1FEKoDnMyleXwNmHL7dTNQ) | [Murkage Dave](https://open.spotify.com/artist/4fTqtoSkTj4lcLHMANIs4C), [KONOPINSKY](https://open.spotify.com/artist/0RXY3PBBzkkKpOPyeOrI5D) | [Generation Left On Read](https://open.spotify.com/album/5ZmPO0tB2tvTWM1d5M5FxG) | 2:38 |
 | 20 | [OBSESSED](https://open.spotify.com/track/2qvQ9lW0eM4A9PW7j8DXEQ) | [Pesolife](https://open.spotify.com/artist/7f9jDhglsest0HQ921acyT), [Mars Meddo](https://open.spotify.com/artist/7pC4Rmm7gHq5Ey2I7tvTtX) | [OBSESSED](https://open.spotify.com/album/7k9jMBX8ER5yYYOroNpY6g) | 2:22 |
 | 21 | [Final Light](https://open.spotify.com/track/62wHw2RelOeqmgKOmeD2GS) | [Jasper Hodges](https://open.spotify.com/artist/7ig7dWUsbcyoLeOUp0QvRU) | [Final Light](https://open.spotify.com/album/0Xa7EZjjtO1GznAsRHUx8h) | 3:26 |
 | 22 | [milk, blue](https://open.spotify.com/track/03ONwPHpyDhDhacV8U6DnJ) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [milk, blue](https://open.spotify.com/album/6WuVaDvM9SHv19qqVJiqyj) | 3:36 |

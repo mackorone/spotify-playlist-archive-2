@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 30223,
+  "num_followers": 30238,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADMDVcaadHAMAv7AWqxTjlW",
+  "snapshot_id": "aW7FgAAAAACf7ILpHqhK3n2wNOrzqwB/",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 233383,
       "name": "Tuve Hermano",
       "url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 135223,
+      "name": "JOHNNIE WALKER",
+      "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ahora Piden Paros",
         "url": "https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 139625,
       "name": "Ahora Piden Paros",
       "url": "https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 135223,
-      "name": "JOHNNIE WALKER",
-      "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Nadie Va Llorar",
-        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "Aqui Nadie Va Llorar",
-      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bola De Corrientes",
         "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 219697,
       "name": "Bola De Corrientes",
       "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqui Nadie Va Llorar",
+        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195311,
+      "name": "Aqui Nadie Va Llorar",
+      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sapo 777",
-        "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 196979,
-      "name": "Sapo 777",
-      "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Cruz",
         "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 173568,
       "name": "Una Cruz",
       "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sapo 777",
+        "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 196979,
+      "name": "Sapo 777",
+      "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 179882,
-      "name": "Muchos Se Burlaron",
-      "url": "https://open.spotify.com/track/0pV7q3SQa4c8C7etLHntxF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Andaban",
         "url": "https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 219562,
       "name": "Donde Andaban",
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 179882,
+      "name": "Muchos Se Burlaron",
+      "url": "https://open.spotify.com/track/0pV7q3SQa4c8C7etLHntxF"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 189589,
-      "name": "Corazon Vac\u00edo",
-      "url": "https://open.spotify.com/track/2oWKx76NlgTACqI6t6VDod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bulgari",
         "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 164115,
       "name": "Bulgari",
       "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 189589,
+      "name": "Corazon Vac\u00edo",
+      "url": "https://open.spotify.com/track/2oWKx76NlgTACqI6t6VDod"
     }
   ],
   "unique_name": "This Is Los Gemelos De Sinaloa",

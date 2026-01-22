@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Crankdat
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,499 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,519 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 4 | [Sh\*t's On F\*re](https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Sh\*t's On F\*re](https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS) | 4:04 |
 | 5 | [Tonight \(I’m Sorry\)](https://open.spotify.com/track/6cWBht0Kc3vcpYXOr6bUAL) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Tonight \(I’m Sorry\)](https://open.spotify.com/album/1T5VMVm8lBsjgnE8wdIufG) | 4:13 |
 | 6 | [Yo Yan](https://open.spotify.com/track/2DjUq9R1Paw9rXwFWWfrMH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sacred Family](https://open.spotify.com/artist/19q1gD7YQ3fqYYHCxWnhku) | [Yo Yan](https://open.spotify.com/album/4C0gmXP5lKZLj8rI9xsgF3) | 2:00 |
-| 7 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5UfAquClrpYa6G5Mw7a9Tl) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
+| 7 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
 | 8 | [A MILLI \(Zoey's Version\)](https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [A MILLI \(Zoey's Version\)](https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN) | 1:45 |
 | 9 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
 | 10 | [Nobody Else \(with Kaleena Zanders\)](https://open.spotify.com/track/2NuNzR5GVtL8nkJ0sxfGzs) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Nobody Else \(with Kaleena Zanders\)](https://open.spotify.com/album/5XpCrHqbZPPBWSGOmct0A0) | 3:12 |

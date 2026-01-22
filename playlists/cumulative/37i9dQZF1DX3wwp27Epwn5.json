@@ -239,6 +239,32 @@
     },
     {
       "album": {
+        "name": "Babbar Sherni (From \"Mardaani 3\")",
+        "url": "https://open.spotify.com/album/2WydBr8xxYbdH1ugw0CLHu"
+      },
+      "artists": [
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "Dee MC",
+          "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
+        },
+        {
+          "name": "Shruti Shukla",
+          "url": "https://open.spotify.com/artist/7mvIMEb1n9wNBSz26wgPXm"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191588,
+      "name": "Babbar Sherni (From \"Mardaani 3\")",
+      "url": "https://open.spotify.com/track/4fTRgKv4pvvuCysdPJDjVJ"
+    },
+    {
+      "album": {
         "name": "Ragini Mms 2",
         "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
       },

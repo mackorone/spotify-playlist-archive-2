@@ -3821,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "Lies (Acoustic Piano)",
+        "url": "https://open.spotify.com/album/5itEPqoXNem3qWRtPiRC2V"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283618,
+      "name": "Lies - Acoustic Piano",
+      "url": "https://open.spotify.com/track/19tlQPgqiFl964Vuz5tOGB"
+    },
+    {
+      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },

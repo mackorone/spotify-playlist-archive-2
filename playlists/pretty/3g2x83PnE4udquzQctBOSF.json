@@ -6,8 +6,24 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARSRnmP28yLnVa8u2d9oba9nFYoIyi",
+  "snapshot_id": "AAARSpQJDtDxBCnbJijA2BygqlruGB/H",
   "tracks": [
+    {
+      "added_at": "2026-01-21 16:20:22",
+      "album": {
+        "name": "Tuci Taci",
+        "url": "https://open.spotify.com/album/7w7DYreWyk8sJ3iQiSMEid"
+      },
+      "artists": [
+        {
+          "name": "TR3 Sound",
+          "url": "https://open.spotify.com/artist/5pvDXe2gZvEZgxv2l2fHtf"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Tuci Taci",
+      "url": "https://open.spotify.com/track/08MT55tciHqmnVY8upiHFJ"
+    },
     {
       "added_at": "2026-01-19 16:48:39",
       "album": {

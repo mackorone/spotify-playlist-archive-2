@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "In A World We Don't Belong (Pt.1)",
+        "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216148,
+      "name": "About Last Night",
+      "url": "https://open.spotify.com/track/7GkwXNjyUnScwInFroo9lW"
+    },
+    {
+      "album": {
         "name": "KO",
         "url": "https://open.spotify.com/album/0IqaSMtnRFN7F7m58XCVZy"
       },
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -5338,6 +5356,24 @@
       "duration_ms": 187200,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/68BsUOVteRYSFRQK830ciG"
+    },
+    {
+      "album": {
+        "name": "In A World We Don't Belong (Pt.1)",
+        "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176054,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4"
     },
     {
       "album": {

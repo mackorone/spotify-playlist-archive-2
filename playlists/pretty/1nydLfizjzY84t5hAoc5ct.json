@@ -6,7 +6,7 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AABvMKvJ98mJNZrZ2XNmRl50SLsmWc1I",
+  "snapshot_id": "AABvMQMCyyNQMAZOmrAD13fGXfU3bGkx",
   "tracks": [
     {
       "added_at": "2026-01-16 11:21:11",
@@ -2999,6 +2999,22 @@
       "duration_ms": 198529,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ"
+    },
+    {
+      "added_at": "2026-01-21 15:41:25",
+      "album": {
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/4AZlDXLjSAeHRVM8VXq8nV"
+      },
+      "artists": [
+        {
+          "name": "The Demographic",
+          "url": "https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L"
+        }
+      ],
+      "duration_ms": 278625,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

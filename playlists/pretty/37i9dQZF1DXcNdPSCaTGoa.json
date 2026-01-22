@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 97701,
+  "num_followers": 97733,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+      },
+      "artists": [
+        {
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -963,50 +963,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 402093,
-      "name": "Zabalaza",
-      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
-      },
-      "artists": [
-        {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
-        }
-      ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Heads and Tales",
-        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
-      },
-      "artists": [
-        {
-          "name": "Pro Kid",
-          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Ungaphel' Umoya Son",
-      "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -1023,6 +991,38 @@
       "duration_ms": 231839,
       "name": "Doc Shebeleza",
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 402093,
+      "name": "Zabalaza",
+      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Heads and Tales",
+        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
+      },
+      "artists": [
+        {
+          "name": "Pro Kid",
+          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Ungaphel' Umoya Son",
+      "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
     }
   ],
   "unique_name": "SA Gold",

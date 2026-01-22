@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Pancho Barraza, Banda MS de Sergio Lizárraga
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,636 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,649 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 37 | [HAY PEDA](https://open.spotify.com/track/5KT3ilwVw114TnAMXUkwbJ) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [HAY PEDA](https://open.spotify.com/album/7xc9TC8sRO4pyJFPGKPfow) | 2:13 |
 | 38 | [Sombrero en Alto](https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca) | [Ximena ramos](https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD) | [Sombrero en Alto](https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb) | 2:41 |
 | 39 | [Creador](https://open.spotify.com/track/34gt4nXBNvMBA8xUOk6uDc) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Creador](https://open.spotify.com/album/0z1LrJKWxXJSAqBJnldFXU) | 2:35 |
-| 40 | [Que Me Está Pasando](https://open.spotify.com/track/52AIyDpzBmAKS9kAQMcm95) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Que Me Está Pasando](https://open.spotify.com/album/4oEfJl35svFcNjxWk2w6xy) | 2:25 |
+| 40 | [¿Qué Me Está Pasando?](https://open.spotify.com/track/52AIyDpzBmAKS9kAQMcm95) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [¿Qué Me Está Pasando?](https://open.spotify.com/album/4oEfJl35svFcNjxWk2w6xy) | 2:25 |
 | 41 | [Extasy Mode](https://open.spotify.com/track/5E30B4PAa3HQ2s849f1KRF) | [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S) | [Extasy Mode](https://open.spotify.com/album/5XSiLyb4PC5xwAsjD70naw) | 2:50 |
 | 42 | [Ilusionado](https://open.spotify.com/track/1sgoNVjV52YnAeLF0RBCUh) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Ilusionado](https://open.spotify.com/album/0drJGnCiRoIliCsZuMkJbr) | 2:26 |
 | 43 | [niña de CASA](https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [niña de CASA](https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP) | 3:33 |

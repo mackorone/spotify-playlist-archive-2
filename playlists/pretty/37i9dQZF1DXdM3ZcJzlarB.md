@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese & Folgar
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,540 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,784 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 99 | [Shimmer](https://open.spotify.com/track/0bnwqccKNwhB8ZXMuT39zV) | [Temple Gate](https://open.spotify.com/artist/7je5H8RIDzvzzJrpFsU6Cc) | [Shimmer](https://open.spotify.com/album/0oEjgYQ3pzJQwFyOil9bGB) | 4:20 |
 | 100 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 
-Snapshot ID: `AAAAABJEkLikHoCQqllGiY/s7M6rtx0E`
+Snapshot ID: `AAAAAOsiu8tsgXPTzEO1nji9lfDjBwzG`

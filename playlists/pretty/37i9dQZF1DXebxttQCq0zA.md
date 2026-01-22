@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,271 likes - 247 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,601 likes - 247 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 158 | [Vacancy](https://open.spotify.com/track/6xNmpMoqffJeYj54tdIjeZ) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Vacancy](https://open.spotify.com/album/5J9RfgiZD6cRQzMX8vZ8PH) | 2:28 |
 | 159 | [Itemized](https://open.spotify.com/track/1bZlCoTfq20bZh62fHZFOw) | [Holzer](https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy) | [Itemized](https://open.spotify.com/album/0le8AtWfFsqV2UB4U01ZcJ) | 2:50 |
 | 160 | [Stillness](https://open.spotify.com/track/3ylCviIKGVJpuoh7ElFguR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Stillness](https://open.spotify.com/album/64BfOoLD6TpTpwiQh5aE2T) | 3:37 |
-| 161 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
+| 161 | [Blind Stars](https://open.spotify.com/track/1MSxyodmJcge1ZtpnmeF8i) | [Tuscany Flow](https://open.spotify.com/artist/2I7UrIVsTUPBeK3JH8pXaE) | [Blind Stars](https://open.spotify.com/album/4vUygSK60OtSmOdfUfLHPb) | 2:44 |
 | 162 | [Circles](https://open.spotify.com/track/0OVprHBYn8CWiNwqlJDobw) | [Solar Collective](https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC) | [Circles](https://open.spotify.com/album/7cLHzFKZJE6oVaZ3Rc19Xl) | 2:24 |
 | 163 | [Heart Strings](https://open.spotify.com/track/4Qd3aMPKRUuTo2ZyD21hGr) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Heart Strings](https://open.spotify.com/album/4paf6UcoyN5XVjQcr7KUTE) | 2:39 |
 | 164 | [Community](https://open.spotify.com/track/0bWk4AyfrgCiAYNyJpvW7T) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Community](https://open.spotify.com/album/3YJsElodAkklrVP8dCMEkJ) | 2:08 |

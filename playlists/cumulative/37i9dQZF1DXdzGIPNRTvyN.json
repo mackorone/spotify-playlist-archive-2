@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 202570,
       "name": "Aras",
       "url": "https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "As Time Passes By",
       "url": "https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 218874,
       "name": "Bel Flusso",
       "url": "https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 187107,
       "name": "By The River",
       "url": "https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 187125,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn"
@@ -1082,6 +1082,24 @@
       "duration_ms": 170708,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/7M1jq7PiPbElU1P1n3SvPe"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg"
+      },
+      "artists": [
+        {
+          "name": "Eomir",
+          "url": "https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK"
     },
     {
       "album": {
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 140053,
       "name": "Erinqua",
       "url": "https://open.spotify.com/track/5BXODXcSiGC1U7U2UN616z"
@@ -1838,6 +1856,24 @@
       "duration_ms": 120754,
       "name": "Essence of Nature",
       "url": "https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB"
+    },
+    {
+      "album": {
+        "name": "Eternal Flute",
+        "url": "https://open.spotify.com/album/4gkE1IfZegtbbN4UUioubs"
+      },
+      "artists": [
+        {
+          "name": "Divine Isle",
+          "url": "https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "Eternal Flute",
+      "url": "https://open.spotify.com/track/3OsrEyvYcJvqCHlldDtz6t"
     },
     {
       "album": {
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 205390,
       "name": "Healing Stream (432 Hz)",
       "url": "https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi"
@@ -3116,7 +3152,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 202500,
       "name": "Jangal",
       "url": "https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4"
@@ -3984,7 +4020,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 168000,
       "name": "Natural Spirit",
       "url": "https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ"
@@ -4398,7 +4434,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 160416,
       "name": "Oran Beinne",
       "url": "https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX"
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 165000,
       "name": "Peaceful Nature",
       "url": "https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq"
@@ -5878,7 +5914,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 269696,
       "name": "Sostenuto",
       "url": "https://open.spotify.com/track/5qD6H1TpKDs9oHobHFymJw"
@@ -6155,6 +6191,24 @@
     },
     {
       "album": {
+        "name": "Taigara",
+        "url": "https://open.spotify.com/album/4vDUobGl0tDNkhC45JOZYD"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156641,
+      "name": "Taigara",
+      "url": "https://open.spotify.com/track/7K7ZAr3k3yiDTkBbYjTn3r"
+    },
+    {
+      "album": {
         "name": "Take A Breath",
         "url": "https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw"
       },
@@ -6418,7 +6472,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 156800,
       "name": "The Riddle of Dreams",
       "url": "https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp"
@@ -6544,7 +6598,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 197060,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/1ZSgm3HEOgKmFK5E1lNUTs"
@@ -6890,6 +6944,24 @@
       "duration_ms": 135234,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486"
+    },
+    {
+      "album": {
+        "name": "Zen state",
+        "url": "https://open.spotify.com/album/36ifWZCkWY9ZgkQlPVbIqd"
+      },
+      "artists": [
+        {
+          "name": "Knot Released",
+          "url": "https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146493,
+      "name": "Zen state",
+      "url": "https://open.spotify.com/track/1E2erK5SZ9QynxT000Wj7C"
     },
     {
       "album": {

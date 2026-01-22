@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 243809,
       "name": "Hey Radha",
       "url": "https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu"
@@ -970,6 +970,28 @@
       "duration_ms": 208679,
       "name": "Oh Prema",
       "url": "https://open.spotify.com/track/63NdWczrPCYGWKY1RV4Zbh"
+    },
+    {
+      "album": {
+        "name": "Sakhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Clinton",
+          "url": "https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361666,
+      "name": "Pachchadanamey",
+      "url": "https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf"
     },
     {
       "album": {

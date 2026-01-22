@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 107355,
+  "num_followers": 107414,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEoz+Ut8yh1ryaeIP4ytIR8lzbUi",
+  "snapshot_id": "AAAAAL0zq/7nQzlp4R43fJgcLK00g1Bu",
   "tracks": [
     {
       "added_at": "2026-01-14 01:53:36",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2026-01-14 01:53:36",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 165123,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2026-01-14 01:53:36",
+      "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2026-01-14 01:53:36",
@@ -2019,22 +2019,22 @@
     {
       "added_at": "2026-01-14 01:53:36",
       "album": {
-        "name": "Al Ritmo",
-        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+        "name": "Wataki",
+        "url": "https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU"
       },
       "artists": [
         {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
         },
         {
-          "name": "Allan Piziano",
-          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+          "name": "Jalal Ramdani",
+          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
         }
       ],
-      "duration_ms": 199838,
-      "name": "Al Ritmo",
-      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
+      "duration_ms": 218709,
+      "name": "Wataki",
+      "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"
     }
   ],
   "unique_name": "Latin House",

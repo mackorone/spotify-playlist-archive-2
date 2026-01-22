@@ -4,7 +4,7 @@
 
 > 
 
-892 songs - 2 day 21 hr 59 min
+893 songs - 2 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Water No Get Enemy](https://open.spotify.com/track/78ruRvasI4AEA3ibWwcV1v) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/5KsZEYcRsGrJFzBkubfNGb) | 9:51 | 2020-07-13 |  |
 | [Wayawaya](https://open.spotify.com/track/5QnnesgceFV87hjtMSziVO) | [Zoom](https://open.spotify.com/artist/3uEnrqJhFS6Bqb7EbCG8TH) | [Gumba Fire: Bubblegum Soul & Synth Boogie in 1980s South Africa](https://open.spotify.com/album/6kfhd0sOcKOOK3bC4IWdBj) | 5:31 | 2020-07-28 |  |
 | [Wede Harer Guzo](https://open.spotify.com/track/7Ihi6UcJKndJKlsm0A4hjZ) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [Dahlak Band](https://open.spotify.com/artist/1JZiZjpnchiZ4mqs5nJggA) | [Wede Harer Guzo](https://open.spotify.com/album/5i6yMY4F7UoOuJD6wRV6NN) | 6:35 | 2023-04-16 |  |
+| [Wenu Wenu](https://open.spotify.com/track/7kzhdwCg36NR0WphxVkorA) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 7:00 | 2026-01-21 |  |
 | [White Sands](https://open.spotify.com/track/5xLzGWWwVcIzFb5bL8eU84) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [Panoramic Feelings \(Mellow Carefree Lounge Music\)](https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu) | 2:58 | 2022-09-19 |  |
 | [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 | 2024-01-09 |  |
 | [Woody's Blue](https://open.spotify.com/track/4paWz4k4HFXrdnmxm1ECYw) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Future](https://open.spotify.com/album/1Fv6H1R3c0qlujTi74i9p9) | 5:04 | 2024-04-11 |  |

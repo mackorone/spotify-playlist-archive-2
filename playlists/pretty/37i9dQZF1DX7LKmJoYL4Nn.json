@@ -1,12 +1,12 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62219,
+  "num_followers": 62226,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0cOagTMrYJvSA1Wn8RFC4Ue6i2",
+  "snapshot_id": "AAAAALzW+whQ4mZxyPTR12O1i9D43AnI",
   "tracks": [
     {
       "added_at": "2026-01-13 16:06:44",
@@ -647,42 +647,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 219170,
-      "name": "Wish upon a MUSIC!!",
-      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "\u7d05\u6708 with \u6edd \u7dad\u5439\u300c\u5929\u7fd4KAGETSU\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R"
       },
@@ -703,6 +667,42 @@
       "duration_ms": 244805,
       "name": "\u5929\u7fd4KAGETSU",
       "url": "https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 219170,
+      "name": "Wish upon a MUSIC!!",
+      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Switch\u300cSwitching Journey\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/0tY29k3k1KEipb5uR4NrQq"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 217239,
-      "name": "Switching Journey",
-      "url": "https://open.spotify.com/track/2UvlKKola0spjTZ23VvuOY"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "\u98a8\u65e9 \u5dfd\u300c\u4e16\u754c\u306e\u7247\u9685\u304b\u3089\u541b\u3078\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/51fUEWprZ7HCEqoDmzVz5o"
       },
@@ -783,26 +763,6 @@
       "duration_ms": 232155,
       "name": "\u4e16\u754c\u306e\u7247\u9685\u304b\u3089\u541b\u3078",
       "url": "https://open.spotify.com/track/2VysPXOrqKBmwwESkBvc8i"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
-      },
-      "artists": [
-        {
-          "name": "Jin & Akiomi",
-          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
-      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -827,6 +787,26 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "Switch\u300cSwitching Journey\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/0tY29k3k1KEipb5uR4NrQq"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 217239,
+      "name": "Switching Journey",
+      "url": "https://open.spotify.com/track/2UvlKKola0spjTZ23VvuOY"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 212359,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
+      },
+      "artists": [
+        {
+          "name": "Jin & Akiomi",
+          "url": "https://open.spotify.com/artist/3ZF3KhNQq8uXuQul8EJVC6"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
+      "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u6df1\u6d77 \u594f\u6c70\u300c\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/2DuJ3oE4Q97Ol4uF0X4nSZ"
-      },
-      "artists": [
-        {
-          "name": "\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/3PUI9fMDUgKZrS7SZgnPsW"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9",
-      "url": "https://open.spotify.com/track/2BXV3mTxHwA2n4lDAMj7HQ"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 211976,
       "name": "SunnyTrip Summer",
       "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "\u6df1\u6d77 \u594f\u6c70\u300c\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/2DuJ3oE4Q97Ol4uF0X4nSZ"
+      },
+      "artists": [
+        {
+          "name": "\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/3PUI9fMDUgKZrS7SZgnPsW"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/2BXV3mTxHwA2n4lDAMj7HQ"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "KING (feat. \u5929\u99ac \u53f8 & \u795e\u4ee3 \u985e) [Cover]",
-        "url": "https://open.spotify.com/album/07GBFJ9UU7NiHaZRxXBjYM"
-      },
-      "artists": [
-        {
-          "name": "Crazy:B",
-          "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        },
-        {
-          "name": "\u5929\u99ac \u53f8",
-          "url": "https://open.spotify.com/artist/4lM25aUglzEOZZ1m3QakT1"
-        },
-        {
-          "name": "\u795e\u4ee3\u985e",
-          "url": "https://open.spotify.com/artist/3J01UZ1E4tT6DKOVOvqqRb"
-        },
-        {
-          "name": "\u6cb3\u5408 \u6cf0\u5fd7\uff08Arte Refact\uff09",
-          "url": "https://open.spotify.com/artist/1gAPXMC0GMdFTrj5SyVEQi"
-        }
-      ],
-      "duration_ms": 135607,
-      "name": "KING - Cover",
-      "url": "https://open.spotify.com/track/2PSBGf4NHDYZy8DGav5IGm"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "\u300c\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/6b9EPx8j0LIjKGOVrfVqPc"
       },
@@ -1187,22 +1155,34 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
+        "name": "KING (feat. \u5929\u99ac \u53f8 & \u795e\u4ee3 \u985e) [Cover]",
+        "url": "https://open.spotify.com/album/07GBFJ9UU7NiHaZRxXBjYM"
       },
       "artists": [
         {
-          "name": "PIKAPIKA",
-          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
+          "name": "Crazy:B",
+          "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
         },
         {
           "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        },
+        {
+          "name": "\u5929\u99ac \u53f8",
+          "url": "https://open.spotify.com/artist/4lM25aUglzEOZZ1m3QakT1"
+        },
+        {
+          "name": "\u795e\u4ee3\u985e",
+          "url": "https://open.spotify.com/artist/3J01UZ1E4tT6DKOVOvqqRb"
+        },
+        {
+          "name": "\u6cb3\u5408 \u6cf0\u5fd7\uff08Arte Refact\uff09",
+          "url": "https://open.spotify.com/artist/1gAPXMC0GMdFTrj5SyVEQi"
         }
       ],
-      "duration_ms": 249173,
-      "name": "\u77ac\u304dSign\u2606",
-      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
+      "duration_ms": 135607,
+      "name": "KING - Cover",
+      "url": "https://open.spotify.com/track/2PSBGf4NHDYZy8DGav5IGm"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
+      },
+      "artists": [
+        {
+          "name": "PIKAPIKA",
+          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "\u77ac\u304dSign\u2606",
+      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "\u4e59\u72e9 \u30a2\u30c9\u30cb\u30b9\u300cFar Away Song\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/3Mo2KFdXOZeP7cuwZE9fNx"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 235959,
       "name": "Far Away Song",
       "url": "https://open.spotify.com/track/2xN8r5MIGrMjbJ3IZV1x2s"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "MaM\u300c\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa"
-      },
-      "artists": [
-        {
-          "name": "MaM",
-          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 230317,
-      "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc",
-      "url": "https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1303,6 +1283,26 @@
       "duration_ms": 205990,
       "name": "OWN",
       "url": "https://open.spotify.com/track/2OoPeFUl5cVpemSwYasVzN"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "MaM\u300c\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/05TqJzyb4R2ShnKHmiEcqa"
+      },
+      "artists": [
+        {
+          "name": "MaM",
+          "url": "https://open.spotify.com/artist/5haPsx8AiGH7BAgWdWKl74"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 230317,
+      "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30fb\u30e9\u30f3\u30c7\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/5flbNqi1DBVQkTZR1SALCY"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
+        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/46nckR9Qrx1XdIQpMttfZD"
+        }
+      ],
+      "duration_ms": 201560,
+      "name": "\u30e6\u30cb\u30be\u30f3\u304c\u805e\u3053\u3048\u308b",
+      "url": "https://open.spotify.com/track/6NxR8TLh8p7xilpxP2eyWG"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
         "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 343532,
       "name": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5ouz6eWbjO2FP8bQIu1VIj"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
-        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
-      },
-      "artists": [
-        {
-          "name": "\u6d41\u661f\u968a/\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "NEW DAYBREAK",
-      "url": "https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

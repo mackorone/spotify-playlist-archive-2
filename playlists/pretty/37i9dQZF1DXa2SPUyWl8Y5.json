@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 555119,
+  "num_followers": 555147,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
-      },
-      "artists": [
-        {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
-        }
-      ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
     },
     {
       "added_at": "2025-12-19 20:10:28",
@@ -579,6 +563,22 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
         "name": "Lyra",
         "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 375483,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2025-12-19 20:10:28",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
         "name": "The Duty",
         "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 194610,
       "name": "The Duty",
       "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
-      },
-      "artists": [
-        {
-          "name": "Benzsoul",
-          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
-        }
-      ],
-      "duration_ms": 404532,
-      "name": "Solid",
-      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "added_at": "2025-12-19 20:10:28",
@@ -923,6 +907,22 @@
       "duration_ms": 478560,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
+      },
+      "artists": [
+        {
+          "name": "Benzsoul",
+          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
+        }
+      ],
+      "duration_ms": 404532,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "added_at": "2025-12-19 20:10:28",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+      },
+      "artists": [
+        {
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+        }
+      ],
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
-      },
-      "artists": [
-        {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
-        }
-      ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     },
     {
       "added_at": "2025-12-19 20:10:28",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-19 20:10:28",
       "album": {
-        "name": "Known",
-        "url": "https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk"
-      },
-      "artists": [
-        {
-          "name": "Visual Impact",
-          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Known",
-      "url": "https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg"
-    },
-    {
-      "added_at": "2025-12-19 20:10:28",
-      "album": {
         "name": "Mera",
         "url": "https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 431879,
       "name": "Polymid",
       "url": "https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl"
+    },
+    {
+      "added_at": "2025-12-19 20:10:28",
+      "album": {
+        "name": "Known",
+        "url": "https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk"
+      },
+      "artists": [
+        {
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Known",
+      "url": "https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg"
     },
     {
       "added_at": "2025-12-19 20:10:28",

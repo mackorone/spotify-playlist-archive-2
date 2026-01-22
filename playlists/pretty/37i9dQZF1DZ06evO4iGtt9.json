@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8980,
+  "num_followers": 8981,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABAc/UAX70wtT7IoO3hZvj3",
+  "snapshot_id": "aW7FgAAAAADQWhGPopLb2GyjUFHtB4QX",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u0219e",
-        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Ma\u0219e",
-      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLADIATOR",
         "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 155121,
       "name": "Dey Your Dey",
       "url": "https://open.spotify.com/track/1zUxNj07FZ7wJOLQax3aU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma\u0219e",
+        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Ma\u0219e",
+      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Concur",
         "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 245960,
       "name": "I Concur",
       "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M.O.N.E.Y",
         "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 231106,
       "name": "M.O.N.E.Y",
       "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
       },
       "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 161889,
-      "name": "A Night to Remember (ANTR)",
-      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
     },
     {
       "added_at": null,
@@ -775,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 161889,
+      "name": "A Night to Remember (ANTR)",
+      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 223080,
       "name": "Win",
       "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Tollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DX14rZPczlTBh)
 
-> Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
+> Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
 162 songs - 8 hr 42 min
 

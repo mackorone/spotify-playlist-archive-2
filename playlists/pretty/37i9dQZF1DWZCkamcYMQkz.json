@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 493836,
+  "num_followers": 493999,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-01-16 09:20:23",
       "album": {
-        "name": "A Boy Named Charlie Brown",
-        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Oh, Good Grief",
-      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
-    },
-    {
-      "added_at": "2026-01-16 09:20:23",
-      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 152531,
       "name": "Back in Your Own Back Yard",
       "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
+    },
+    {
+      "added_at": "2026-01-16 09:20:23",
+      "album": {
+        "name": "A Boy Named Charlie Brown",
+        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 142680,
+      "name": "Oh, Good Grief",
+      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
     },
     {
       "added_at": "2026-01-16 09:20:23",
@@ -379,22 +379,18 @@
     {
       "added_at": "2026-01-16 09:20:23",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
       "artists": [
         {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+      "duration_ms": 163026,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
     },
     {
       "added_at": "2026-01-16 09:20:23",
@@ -419,18 +415,22 @@
     {
       "added_at": "2026-01-16 09:20:23",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 163026,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
+      "duration_ms": 238120,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
     },
     {
       "added_at": "2026-01-16 09:20:23",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-01-16 09:20:23",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Harry James & Harry James' Orchestra",
-          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
-      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
-    },
-    {
-      "added_at": "2026-01-16 09:20:23",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 249480,
       "name": "Stompin' At The Savoy - 1956 Version",
       "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
+    },
+    {
+      "added_at": "2026-01-16 09:20:23",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "Harry James & Harry James' Orchestra",
+          "url": "https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
+      "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
     },
     {
       "added_at": "2026-01-16 09:20:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-16 09:20:23",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
-    },
-    {
-      "added_at": "2026-01-16 09:20:23",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 263444,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
+    },
+    {
+      "added_at": "2026-01-16 09:20:23",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
     },
     {
       "added_at": "2026-01-16 09:20:23",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2026-01-16 09:20:23",
       "album": {
-        "name": "Why'd You Have To Go and Lie To Me Boy",
-        "url": "https://open.spotify.com/album/2Dqtu0iBpv2YdpUam2awCq"
-      },
-      "artists": [
-        {
-          "name": "Brian Charette",
-          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
-        },
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        },
-        {
-          "name": "John Lee",
-          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Why'd You Have To Go and Lie To Me Boy",
-      "url": "https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr"
-    },
-    {
-      "added_at": "2026-01-16 09:20:23",
-      "album": {
         "name": "Happy Song No.2",
         "url": "https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj"
       },
@@ -1451,6 +1427,30 @@
       "duration_ms": 181306,
       "name": "Happy Song No. 2",
       "url": "https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was"
+    },
+    {
+      "added_at": "2026-01-16 09:20:23",
+      "album": {
+        "name": "Why'd You Have To Go and Lie To Me Boy",
+        "url": "https://open.spotify.com/album/2Dqtu0iBpv2YdpUam2awCq"
+      },
+      "artists": [
+        {
+          "name": "Brian Charette",
+          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        },
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Why'd You Have To Go and Lie To Me Boy",
+      "url": "https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr"
     },
     {
       "added_at": "2026-01-16 09:20:23",

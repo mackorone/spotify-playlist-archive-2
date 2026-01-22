@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 177196,
       "name": "20",
       "url": "https://open.spotify.com/track/09Sx8zvif6LpQU43c1NiPf"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 261000,
       "name": "All YOU DO",
       "url": "https://open.spotify.com/track/4XwSH77CuWSLj1dFapNkD4"
@@ -13206,7 +13206,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 201201,
       "name": "Buffalo Road",
       "url": "https://open.spotify.com/track/2T4SooBrjDN65je9dGioDi"
@@ -18084,7 +18084,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 210001,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/0wwIPdelOGqyUTBkH2lxyO"
@@ -34883,6 +34883,24 @@
     },
     {
       "album": {
+        "name": "Jewelers Row Presents: History of the Future",
+        "url": "https://open.spotify.com/album/4UCWwF4J03CIIcTYNqLmhP"
+      },
+      "artists": [
+        {
+          "name": "Jewelers Row",
+          "url": "https://open.spotify.com/artist/4OYJO71pCxmjhPSyE2yMFd"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "Garland of Letters",
+      "url": "https://open.spotify.com/track/6GdlKjBDHxdEy1ohGrbGuv"
+    },
+    {
+      "album": {
         "name": "GasLight",
         "url": "https://open.spotify.com/album/5G5kB19zCm2671L0FNXMUt"
       },
@@ -49468,6 +49486,28 @@
       "duration_ms": 291000,
       "name": "Keep Tell'n Myself",
       "url": "https://open.spotify.com/track/0c98MR80N4dhEJCIpUxwjW"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4ia0GKjjEFXmRFNCDQpDeM"
+      },
+      "artists": [
+        {
+          "name": "Jelly Billy",
+          "url": "https://open.spotify.com/artist/2g1zI7bBXj0acZ6xeP5Asp"
+        },
+        {
+          "name": "wockydeuce",
+          "url": "https://open.spotify.com/artist/2La76XR0Jn01Wl6wj8NWFE"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Keep The Noise Down",
+      "url": "https://open.spotify.com/track/3r8mAbOc3OPhEWsNKDmXUq"
     },
     {
       "album": {
@@ -72594,7 +72634,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 139218,
       "name": "Power",
       "url": "https://open.spotify.com/track/3IZWjZdBedCLxEFElCZNrX"
@@ -73626,6 +73666,24 @@
       "duration_ms": 151989,
       "name": "Punk Ass",
       "url": "https://open.spotify.com/track/6kV3ziIHE6gIg4tbgoZIEF"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234151,
+      "name": "PUNK ROCKY",
+      "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
     },
     {
       "album": {
@@ -76890,7 +76948,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 160153,
       "name": "Roads Not Taken",
       "url": "https://open.spotify.com/track/77fwHgGNMB1ayLvQZNf24C"
@@ -81420,7 +81478,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 261280,
       "name": "Si tu Vois Ma M\u00e8re",
       "url": "https://open.spotify.com/track/0ZzPwtN1UdX7sARH05TMH2"
@@ -91658,7 +91716,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 229538,
       "name": "The Habit Machine",
       "url": "https://open.spotify.com/track/4WcsXz04Jdjoi3dMjR4sj5"
@@ -99028,7 +99086,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
@@ -105456,7 +105514,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 164444,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/0OM3XN8LkLJaBrEAMwUuNF"
@@ -106508,7 +106566,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 149774,
       "name": "You Said You Love Me",
       "url": "https://open.spotify.com/track/2NldeRBHIkTtwWVP5TkMHR"
@@ -106616,7 +106674,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 149515,
       "name": "You're On My Mind",
       "url": "https://open.spotify.com/track/0pXkOY4iQOw6P6GbvDOTfv"

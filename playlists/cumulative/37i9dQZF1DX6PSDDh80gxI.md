@@ -4,7 +4,7 @@
 
 > un misterioso prima stanza a destra in cover di una \(misteriosa?\) indie italia
 
-451 songs - 1 day 0 hr 8 min
+452 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [CHINA](https://open.spotify.com/track/0qlH49l549jbi95gDyFUC6) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [CHINA](https://open.spotify.com/album/5oAVYwSrA0hKq46YBmZOIA) | 2:41 | 2024-09-24 | 2024-10-11 |
 | [Chissà \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Chissà](https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA) | 2:59 | 2024-10-24 | 2025-10-31 |
 | [Chiudi Gli Occhi](https://open.spotify.com/track/4weWv31OiUBR6AYOvHwul0) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Chiudi Gli Occhi](https://open.spotify.com/album/3vUswFnIJghC1rv8ICaeEi) | 3:36 | 2024-10-17 | 2024-11-08 |
+| [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 | 2026-01-21 |  |
 | [Ciao tristezza \(con Lucia Manca\)](https://open.spotify.com/track/3IdXaqn8Ca271O4PIUr9VM) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S), [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Ciao tristezza \(con Lucia Manca\)](https://open.spotify.com/album/1ExwneIDBZ7f93PebiLc1C) | 2:44 | 2024-11-28 | 2025-01-24 |
 | [Cielo](https://open.spotify.com/track/3HQVk0f6cZMChC82l3N66a) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Teatro](https://open.spotify.com/album/7cr7rD9YJ7b53kleNSGeyk) | 4:05 | 2025-01-16 | 2025-03-21 |
 | [Cielo Aperto](https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Cielo Aperto](https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe) | 3:21 | 2024-11-28 | 2025-02-21 |

@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 175600,
       "name": "A Little Old Church In England",
       "url": "https://open.spotify.com/track/2cltUHVl8nUXTcjDCZyoLG"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 177000,
       "name": "A Little Old Church In England",
       "url": "https://open.spotify.com/track/3dl5MRdpb7srWY2vxZ8YTp"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "At the President's Birthday Ball",
       "url": "https://open.spotify.com/track/72BXSxzvk3vc0fLxuMupQo"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 196080,
       "name": "At The President's Birthday Ball",
       "url": "https://open.spotify.com/track/3PRKaQT7Rc22WZlCJkMnzz"
@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Doll",
+        "url": "https://open.spotify.com/album/42qPXGYgA3GpgWc6RIM9j2"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "He's a Devil In His Own Home Town",
+      "url": "https://open.spotify.com/track/2ON1yW7tvLFqHxj5GcvTAp"
+    },
+    {
+      "album": {
         "name": "Foolish Questions",
         "url": "https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7"
       },
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 166948,
       "name": "He's a Devil In His Own Home Town (Recorded 1914)",
       "url": "https://open.spotify.com/track/2bBWFa7vnwhixRaTmsG2Io"
@@ -3295,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Doll",
+        "url": "https://open.spotify.com/album/42qPXGYgA3GpgWc6RIM9j2"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178653,
+      "name": "I'll See You in C-U-B-A",
+      "url": "https://open.spotify.com/track/64jjK4vScIJ2ttWc3h0OW7"
+    },
+    {
+      "album": {
         "name": "Annie Get Your Gun (Original Broadway Cast / Bonus Tracks)",
         "url": "https://open.spotify.com/album/1IDWNeKQAJWJL2ysC2k1u2"
       },
@@ -3502,7 +3538,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 213786,
       "name": "I'm Playing With Fire",
       "url": "https://open.spotify.com/track/4dUOJyekEUCsi7zcBin5py"
@@ -3650,7 +3686,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 178700,
       "name": "I`ll See You In C-U-B-A",
       "url": "https://open.spotify.com/track/6vOGNoROmFnQZ369cBghpk"
@@ -6259,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Miss You Already",
+        "url": "https://open.spotify.com/album/6TSbO35IMKlwIFt5w3SUd7"
+      },
+      "artists": [
+        {
+          "name": "Rudy Vallee",
+          "url": "https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Same Old Moon",
+      "url": "https://open.spotify.com/track/4NT3OX8XteNgOWEHyS8eSY"
+    },
+    {
+      "album": {
         "name": "Chip Deffaa's an Irving Berlin Travelogue",
         "url": "https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr"
       },
@@ -7985,6 +8039,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Doll",
+        "url": "https://open.spotify.com/album/42qPXGYgA3GpgWc6RIM9j2"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "They Were All Out of Step But Jim",
+      "url": "https://open.spotify.com/track/4zC4J7UVNYbG5YnJmb8SgT"
+    },
+    {
+      "album": {
         "name": "Presenting Billy Murray",
         "url": "https://open.spotify.com/album/4Br2d8eVvEQPk9GPSG6eWO"
       },
@@ -8014,7 +8086,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 177084,
       "name": "They Were All Out of Step But Jim (World War 1) [Recorded 1918]",
       "url": "https://open.spotify.com/track/3ahMxjkWRiCzBDfTlGg2MN"
@@ -8674,7 +8746,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 159893,
       "name": "When That Man Is Dead And Gone",
       "url": "https://open.spotify.com/track/3GDVRhZV7YRVlY50mA9I0l"
@@ -8692,7 +8764,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 161133,
       "name": "When That Man Is Dead And Gone",
       "url": "https://open.spotify.com/track/6HEE1RmkMtrvUXbDwE4LIB"

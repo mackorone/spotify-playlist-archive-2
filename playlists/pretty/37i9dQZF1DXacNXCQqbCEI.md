@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,382 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,371 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 53 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
 | 54 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 |
 | 55 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
-| 56 | [Baquiné](https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Baquiné](https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG) | 4:32 |
-| 57 | [La rama de tamarindo \(Dengue Dengue Dengue Remix\)](https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY) | [Magín Díaz](https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Y el Sexteto Gamerano](https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy) | 4:00 |
-| 58 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
-| 59 | [La Añoranza \- Original Version](https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Will Love](https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu) | [La Añoranza](https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj) | 3:43 |
+| 56 | [La rama de tamarindo \(Dengue Dengue Dengue Remix\)](https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY) | [Magín Díaz](https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Y el Sexteto Gamerano](https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy) | 4:00 |
+| 57 | [Baquiné](https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Baquiné](https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG) | 4:32 |
+| 58 | [La Añoranza \- Original Version](https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Will Love](https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu) | [La Añoranza](https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj) | 3:43 |
+| 59 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
 | 60 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 |
 
 Snapshot ID: `AAAAAFBaofeEF39ABXwsbBYV2wV94SMl`

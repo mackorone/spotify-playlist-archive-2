@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,183 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,219 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 20 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
 | 21 | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ), [Chunti](https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb) | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k) | 2:37 |
 | 22 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
-| 23 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
-| 24 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
+| 23 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
+| 24 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
 | 25 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
 | 26 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 27 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 47 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 48 | [Sickhead](https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc) | [Joelito](https://open.spotify.com/artist/0XWWsuP4oeVCSaQyiter7E) | [Jeffree's Volume 2](https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx) | 4:00 |
 | 49 | [BATEA](https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [BATEA](https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp) | 2:23 |
-| 50 | [Hybrid](https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE) | [DJ Sadyer](https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs), [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Ecos del Pasado](https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG) | 3:49 |
+| 50 | [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 |
 
 Snapshot ID: `AAAAALtFeFvwHQkxqj3q7puF3PrlH/Nd`

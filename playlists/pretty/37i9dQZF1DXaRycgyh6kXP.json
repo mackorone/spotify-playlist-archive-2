@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 281238,
+  "num_followers": 281311,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Good Night Baby",
+        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 261884,
+      "name": "Good Night Baby",
+      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Nothing Is Still",
         "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 231640,
       "name": "Movements (Chapter III)",
       "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 252929,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Good Night Baby",
-        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 261884,
-      "name": "Good Night Baby",
-      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -315,42 +315,6 @@
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "JOY (Back on 74)",
-        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 271395,
-      "name": "JOY (Back On 74)",
-      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Girl/Sleep Sound",
-        "url": "https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 383309,
-      "name": "Sleep Sound",
-      "url": "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -375,6 +339,42 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Girl/Sleep Sound",
+        "url": "https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 383309,
+      "name": "Sleep Sound",
+      "url": "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "JOY (Back on 74)",
+        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 271395,
+      "name": "JOY (Back On 74)",
+      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Late Night Tales: Floating Points",
         "url": "https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t"
       },
@@ -387,38 +387,6 @@
       "duration_ms": 563427,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "The Colour In Anything",
-        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 213620,
-      "name": "The Colour In Anything",
-      "url": "https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -439,22 +407,34 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+        "name": "The Colour In Anything",
+        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
       "artists": [
         {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+      "duration_ms": 213620,
+      "name": "The Colour In Anything",
+      "url": "https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -475,6 +455,26 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+        }
+      ],
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "WHERE DOES THE NIGHT GO?",
+        "url": "https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN"
+      },
+      "artists": [
+        {
+          "name": "Mokado",
+          "url": "https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw"
+        }
+      ],
+      "duration_ms": 260293,
+      "name": "THE PARK // 6:42AM",
+      "url": "https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "WHERE DOES THE NIGHT GO?",
-        "url": "https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN"
-      },
-      "artists": [
-        {
-          "name": "Mokado",
-          "url": "https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw"
-        }
-      ],
-      "duration_ms": 260293,
-      "name": "THE PARK // 6:42AM",
-      "url": "https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 342604,
       "name": "Lonely Romance",
       "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Sun_3hd",
-        "url": "https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1"
-      },
-      "artists": [
-        {
-          "name": "Rein",
-          "url": "https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "Sun_3hd",
-      "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
         "name": "keepsakeFM",
         "url": "https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 136320,
       "name": "locket",
       "url": "https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
+        "name": "Sun_3hd",
+        "url": "https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1"
+      },
+      "artists": [
+        {
+          "name": "Rein",
+          "url": "https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Sun_3hd",
+      "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+    },
+    {
+      "added_at": "2026-01-16 05:00:24",
+      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2026-01-16 05:00:24",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2026-01-16 05:00:24",
@@ -1623,22 +1639,6 @@
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2026-01-16 05:00:24",
-      "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2026-01-16 05:00:24",

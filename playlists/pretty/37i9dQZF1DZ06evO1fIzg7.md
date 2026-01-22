@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,542 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,541 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 12 | [Me And My Imagination](https://open.spotify.com/track/10RfzowOof7q87hZki17Xu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 |
 | 13 | [Heartbreak \(Make Me a Dancer\)](https://open.spotify.com/track/4By3KHnU2rwtFyIJXLrjFj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 3:26 |
 | 14 | [Music Gets The Best Of Me](https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:38 |
-| 15 | [\(Christmas\) Time](https://open.spotify.com/track/4v1wmXjnoEo26dQtgeyWpO) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/3AsH3xPvymtp24ViMjdUz5) | 3:34 |
+| 15 | [Glamorous](https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:21 |
 | 16 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/57QfhJgEDYYJkFXPX8KZpm) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:59 |
 | 17 | [Mixed Up World](https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:43 |
 | 18 | [Bittersweet](https://open.spotify.com/track/2ThTvDTm6pkB0Upc8orpjz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 3:26 |
-| 19 | [Glamorous](https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:21 |
+| 19 | [\(Christmas\) Time](https://open.spotify.com/track/4v1wmXjnoEo26dQtgeyWpO) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/3AsH3xPvymtp24ViMjdUz5) | 3:34 |
 | 20 | [The Calming](https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF) | [Andy Bell](https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [The Crown Jewels \- Ten Crowns \(DELUXE\)](https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R) | 3:24 |
 | 21 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 |
 | 22 | [Fuck With You](https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Gilbere Forté](https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK) | [Disco Crash](https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 49 | [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 |
 | 50 | [The Deer & the Wolf](https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 3:54 |
 
-Snapshot ID: `aW10AAAAAAAkGJ+RoIMUeRvlTimMYimE`
+Snapshot ID: `aW7FgAAAAAA2LOZuZZMHFb1v+Nl/46jC`

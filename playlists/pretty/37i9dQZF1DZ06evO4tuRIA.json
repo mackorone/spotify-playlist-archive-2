@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 101260,
+  "num_followers": 101286,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAADQ5Apih4jxMviMfJ9K3p7Z",
+  "snapshot_id": "aW7FgAAAAADa8O8JzPaxazA3suRPKgN9",
   "tracks": [
     {
       "added_at": null,
@@ -143,42 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Hijos de Garcia",
-          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "18 Libras (feat. Hijos de Garcia)",
-      "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 185860,
-      "name": "El Chinito",
-      "url": "https://open.spotify.com/track/7rT06fxWaVQX5pJZE7Bwgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -199,6 +163,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 185860,
+      "name": "El Chinito",
+      "url": "https://open.spotify.com/track/7rT06fxWaVQX5pJZE7Bwgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Hijos de Garcia",
+          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "18 Libras (feat. Hijos de Garcia)",
+      "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -215,6 +215,26 @@
       "duration_ms": 174205,
       "name": "Plata",
       "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 207184,
+      "name": "Soy la Suerte",
+      "url": "https://open.spotify.com/track/5XhEmjrN0XylAfyXpSIoTA"
     },
     {
       "added_at": null,
@@ -251,26 +271,6 @@
       "duration_ms": 138432,
       "name": "Cosas De La Clica (feat. Legado 7)",
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 207184,
-      "name": "Soy la Suerte",
-      "url": "https://open.spotify.com/track/5XhEmjrN0XylAfyXpSIoTA"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 144359,
-      "name": "F\u00e1cil no Fue",
-      "url": "https://open.spotify.com/track/4biS410o7EfGBrKc5eTmVM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Modo",
         "url": "https://open.spotify.com/album/7LlceSqFxeLBrJgIMkDo0n"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 154375,
       "name": "A Mi Modo",
       "url": "https://open.spotify.com/track/3wgDR3jj9elv01jGkBiVzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 144359,
+      "name": "F\u00e1cil no Fue",
+      "url": "https://open.spotify.com/track/4biS410o7EfGBrKc5eTmVM"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7 BESOS",
+        "url": "https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 201604,
+      "name": "7 BESOS",
+      "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 170672,
       "name": "En La Bola (feat. El De La Guitarra)",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7 BESOS",
-        "url": "https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 201604,
-      "name": "7 BESOS",
-      "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 126249,
       "name": "Bien Tumbado",
       "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 147197,
-      "name": "EL QUE LA MUEVE",
-      "url": "https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAKABELICOS",
         "url": "https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 187904,
       "name": "MAKABELICOS",
       "url": "https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 147197,
+      "name": "EL QUE LA MUEVE",
+      "url": "https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE"
     },
     {
       "added_at": null,

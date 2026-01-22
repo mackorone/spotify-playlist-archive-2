@@ -4,11 +4,11 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Sassy 009
 
-218 songs - 12 hr 44 min
+220 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [11](https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:53 | 2025-03-21 |  |
+| [11](https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:53 | 2025-03-21 | 2026-01-22 |
 | [14 Rue d'Abbeville](https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [punk cake](https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b) | 2:22 | 2025-03-31 | 2025-10-18 |
 | [2Tru](https://open.spotify.com/track/3FNqzfajzraT8aP5TuwL8N) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/0XV4H8McfOxCVsx145tRkd) | 3:51 | 2025-03-13 |  |
 | [4th of July](https://open.spotify.com/track/68ZkOZydnQY3ROFXM5PRZC) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [4th of July](https://open.spotify.com/album/1j5yIefEe1FhrxdJ6PI3EU) | 2:59 | 2025-03-13 | 2025-10-18 |
@@ -94,6 +94,7 @@
 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 |  |
 | [Habits](https://open.spotify.com/track/4e1kPElO9MSRiyE7QGHZuF) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Habits](https://open.spotify.com/album/5RlpuOflr8i0c989tds0vx) | 4:26 | 2025-09-26 |  |
 | [Haircuts](https://open.spotify.com/track/5pXrgtPk7YQOIwGvakglnk) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Haircuts](https://open.spotify.com/album/1EtG8S1NEVLTUrx3G8teB7) | 3:38 | 2025-09-05 |  |
+| [Halftime Dream Dome](https://open.spotify.com/track/4c0mww51628TfyDyFYPUPy) | [Rogergoon](https://open.spotify.com/artist/6wLdaFwOKydBughkGExqUd) | [Halftime Dream Dome](https://open.spotify.com/album/0oJJtHOTzJn6rWIvQFNRMu) | 3:26 | 2026-01-21 |  |
 | [HARDLY EVER SMILE\(without you\)](https://open.spotify.com/track/6dwCn6DV1Fbw46BC7VDZqp) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [MELTING MOMENT](https://open.spotify.com/album/6asP1OdgPUjc7fSTvZxnaM) | 6:54 | 2025-07-21 |  |
 | [Harsh Love](https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Close To The Knife](https://open.spotify.com/album/3av2n4bZhUwbSL54kdV0th) | 3:29 | 2025-05-29 |  |
 | [Heights](https://open.spotify.com/track/6fFJ6p5FqYalQDiBxw1TTS) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/4YBVLF2U6r5aKKi5so7Jah) | 4:13 | 2025-11-21 |  |
@@ -219,6 +220,7 @@
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 |  |
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-17 |  |
 | [Yamaha Dreaming](https://open.spotify.com/track/2mZb0hEM8VUEHICuwUfZls) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Keep Talking / Yamaha Dreaming](https://open.spotify.com/album/6uuxoe0aGuCAXaNWlr2rVO) | 3:23 | 2025-07-11 | 2025-11-08 |
+| [You Could Have It](https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [You Could Have It](https://open.spotify.com/album/3QYStaiTa85i7UOFQEst2f) | 2:47 | 2026-01-21 |  |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-21 |  |
 | [You got time and I got money \- VVTZJ EDIT](https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [VVTZJ](https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 5:22 | 2025-11-07 |  |
 | [You Know I Hate it \(How The World Moves On\)](https://open.spotify.com/track/0d7Gjq2qwvcaoXpeLWFtnf) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO) | 3:58 | 2025-11-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from A$AP Rocky, Madison Beer, Charli xcx, Mitski, Megan Moroney, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,499,325 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,498,975 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 73 | [energy!](https://open.spotify.com/track/4RKcZqAw4IwAReaDGoOne6) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [energy!](https://open.spotify.com/album/4SYq5g75SlsFdR0njSGopV) | 3:32 |
 | 74 | [Slid Off](https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Slid Off](https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH) | 2:20 |
 | 75 | [Ass Match The Legs](https://open.spotify.com/track/0h2jIyHrcK0cBymMj568Ob) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Ass Match The Legs](https://open.spotify.com/album/1sNHtQFhH4f5dSdQiFwIzz) | 3:09 |
-| 76 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5UfAquClrpYa6G5Mw7a9Tl) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
+| 76 | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A), [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Answer All My Prayers \(feat\. Nick Smith\)](https://open.spotify.com/album/5rkojuBYuhooxWINJM5gXZ) | 3:28 |
 | 77 | [Dogfish](https://open.spotify.com/track/38G45tr5jBQA1Y7HP5o4x3) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Oxis 8](https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx) | 3:12 |
 | 78 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 |
 | 79 | [Roommates](https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Roommates](https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v) | 2:52 |

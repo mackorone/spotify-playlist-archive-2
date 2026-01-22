@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 29 | [Déjà Vu](https://open.spotify.com/track/7ipXvWl43mmCl2kgBZg9FR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:56 |
 | 30 | [I Would](https://open.spotify.com/track/3RmMJsu61de81IF81mMLhl) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [I Would](https://open.spotify.com/album/37VisWjdFZUOuWuqAAe466) | 3:44 |
 | 31 | [Keeping Love Alive](https://open.spotify.com/track/7kCCdSNqB49oplJe3vnc19) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Endurance](https://open.spotify.com/album/0k1VF4vzODNMUQageIc3j5) | 2:03 |
-| 32 | [Beautiful Life](https://open.spotify.com/track/7riLWN8xJpulvAYzvFcKS4) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Union J \(Deluxe\)](https://open.spotify.com/album/3uUmVrNEI2rGGeaREn3zlE) | 4:03 |
-| 33 | [Die For You](https://open.spotify.com/track/1GXHrSWqqFvFgWdV6xGhWX) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:06 |
+| 32 | [Die For You](https://open.spotify.com/track/1GXHrSWqqFvFgWdV6xGhWX) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:06 |
+| 33 | [Beautiful Life](https://open.spotify.com/track/7riLWN8xJpulvAYzvFcKS4) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Union J \(Deluxe\)](https://open.spotify.com/album/3uUmVrNEI2rGGeaREn3zlE) | 4:03 |
 | 34 | [Beautiful to Me](https://open.spotify.com/track/7fa1oiFqQFhlO8ghtLIGpR) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:33 |
 | 35 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
 | 36 | [Hole in My Heart](https://open.spotify.com/track/6KOCCvjH3DEyUPhjjfOsP3) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Hole in My Heart](https://open.spotify.com/album/1vKIu5jM2MeRMo6aCfNvIi) | 3:08 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 87 | [One More Time](https://open.spotify.com/track/03cXcevjjmVaR4IU13XMRZ) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 2:32 |
 | 88 | [Avenoir](https://open.spotify.com/track/1nMplJAQWqee9xNj8qvlfl) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 1:26 |
 | 89 | [Set You Free](https://open.spotify.com/track/1kwRo02wdqiv1qEIlHMZcF) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Set You Free](https://open.spotify.com/album/5HFGUJW2d6XtDF2AFziY51) | 2:50 |
-| 90 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
-| 91 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 90 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 91 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
 | 92 | [Together](https://open.spotify.com/track/03akDaEjjNtl4o4Rb702IW) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:03 |
 | 93 | [Top Of Your Lungs](https://open.spotify.com/track/2mXL4ltEI05p2866aBSfbA) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [Honey I'm Home](https://open.spotify.com/album/70cuqfQu9OeAkTqspVDCoO) | 3:56 |
 | 94 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 108 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 109 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcHewgAAAAA3VPRGNv4Yk2ozCrI+3AUu`
+Snapshot ID: `AcHkngAAAACGFg9rfBnP27PG17m3taCD`

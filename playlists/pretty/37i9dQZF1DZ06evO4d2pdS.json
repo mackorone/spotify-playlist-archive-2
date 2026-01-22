@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3759,
+  "num_followers": 3758,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABN/1LzSSsKYAiL3BcqejsY",
+  "snapshot_id": "aW7FgAAAAACpSwJ0uZY9X1Xc9WwnjCIt",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DTF (Different Type Freak)",
-        "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
-      },
-      "artists": [
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "DTF (Different Type Freak)",
-      "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Distractions",
         "url": "https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 105359,
       "name": "Buss It Open (feat. Lakeyah)",
       "url": "https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DTF (Different Type Freak)",
+        "url": "https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "DTF (Different Type Freak)",
+      "url": "https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a"
     },
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Ratchet",
         "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
       },
@@ -607,18 +583,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
       },
       "artists": [
         {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
         }
       ],
-      "duration_ms": 145233,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
+      "duration_ms": 217731,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 176744,
       "name": "INDECISIVE",
       "url": "https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 145233,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Papa",
-        "url": "https://open.spotify.com/album/53wK6OWLvlkNwt7fYOhX6i"
-      },
-      "artists": [
-        {
-          "name": "Papa Jay",
-          "url": "https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Girl friend",
-      "url": "https://open.spotify.com/track/4JX2QWZkfaevdrY62MQb04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIVATE STUFF - (ROUND III) [Remix]",
         "url": "https://open.spotify.com/album/7mRJpQTCgIYsC4mqnEdO8v"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 238049,
       "name": "PRIVATE STUFF - (ROUND III) - Remix",
       "url": "https://open.spotify.com/track/6VHhhu1x6uPgxoQb2cYCJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Papa",
+        "url": "https://open.spotify.com/album/53wK6OWLvlkNwt7fYOhX6i"
+      },
+      "artists": [
+        {
+          "name": "Papa Jay",
+          "url": "https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Girl friend",
+      "url": "https://open.spotify.com/track/4JX2QWZkfaevdrY62MQb04"
     },
     {
       "added_at": null,

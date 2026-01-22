@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 134612,
+  "num_followers": 134675,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQLj6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MQQ1aAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "DIO KARDIES",
         "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
@@ -33,23 +33,7 @@
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4PzGHLAWauBPBPfJx9ZAbk"
-      },
-      "artists": [
-        {
-          "name": "Manos",
-          "url": "https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6"
-        }
-      ],
-      "duration_ms": 192486,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7tRutCwvwteHMWaxtHUKsj"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "Lete Lete",
         "url": "https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/676OyMHIOfootgShTPbJgC"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4PzGHLAWauBPBPfJx9ZAbk"
+      },
+      "artists": [
+        {
+          "name": "Manos",
+          "url": "https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6"
+        }
+      ],
+      "duration_ms": 192486,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7tRutCwvwteHMWaxtHUKsj"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "CHOCO FRESH",
         "url": "https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/2a0hMD2XGea5eYLL7lOlYv"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "Hey Shawty",
         "url": "https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC"
@@ -141,27 +141,7 @@
       "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "90th FLOOR",
         "url": "https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq"
@@ -185,7 +165,91 @@
       "url": "https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Eipes",
+        "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 243936,
+      "name": "Eipes",
+      "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "HOME ALONE",
+        "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww"
+        }
+      ],
+      "duration_ms": 155422,
+      "name": "K9",
+      "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Prezi",
+        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Prezi",
+      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
@@ -217,47 +281,43 @@
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "HOME ALONE",
-        "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ"
       },
       "artists": [
         {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
         },
         {
-          "name": "HermesHermes",
-          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
-        },
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww"
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
         }
       ],
-      "duration_ms": 155422,
-      "name": "K9",
-      "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
+      "duration_ms": 185400,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "Eipes",
-        "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
+        "name": "PALI",
+        "url": "https://open.spotify.com/album/3FDTzSFy37xMGR7VgYPRaa"
       },
       "artists": [
         {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
         }
       ],
-      "duration_ms": 243936,
-      "name": "Eipes",
-      "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
+      "duration_ms": 167251,
+      "name": "PALI",
+      "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "XWRA TOU POTE",
         "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
@@ -277,7 +337,23 @@
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/3u9Rvw4L844wtiuKXqGgrS"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/4Sp2yyp8BbY0nIYrsbEqOz"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "CAPO DEI CAPI (Deluxe)",
         "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
@@ -301,59 +377,7 @@
       "url": "https://open.spotify.com/track/4h0JJJ0UOr7XR5zRz3nd4e"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "PALI",
-        "url": "https://open.spotify.com/album/3FDTzSFy37xMGR7VgYPRaa"
-      },
-      "artists": [
-        {
-          "name": "Kareem Kalokoh",
-          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "PALI",
-      "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/3u9Rvw4L844wtiuKXqGgrS"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/4Sp2yyp8BbY0nIYrsbEqOz"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Margarita",
-        "url": "https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ"
-      },
-      "artists": [
-        {
-          "name": "Christos Mastoras",
-          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
-        },
-        {
-          "name": "ARCADE",
-          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "COMERCIO",
         "url": "https://open.spotify.com/album/4GnNeMtDe5LLSs0kYwZyXI"
@@ -377,23 +401,7 @@
       "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Alkoolikes I Nihtes",
-        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
-      },
-      "artists": [
-        {
-          "name": "Pantelis Pantelidis",
-          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
-        }
-      ],
-      "duration_ms": 184598,
-      "name": "Isos Isoun Kiria",
-      "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "Fthina Tricks 3",
         "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
@@ -413,7 +421,23 @@
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Alkoolikes I Nihtes",
+        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
+      },
+      "artists": [
+        {
+          "name": "Pantelis Pantelidis",
+          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
+        }
+      ],
+      "duration_ms": 184598,
+      "name": "Isos Isoun Kiria",
+      "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "GYALINOS KOSMOS",
         "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
@@ -437,7 +461,23 @@
       "url": "https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Pou Theleis Na Ftaseis?",
+        "url": "https://open.spotify.com/album/3sizAQppKn85ImWzJ6ZLBk"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "Ti Kaname...",
+      "url": "https://open.spotify.com/track/1N2nsQjWX4Jg3rrZDZLnbS"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE"
@@ -457,67 +497,7 @@
       "url": "https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "BAD BOY 3",
-        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "MANDELA EFFECT",
-      "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 218647,
-      "name": "Xeiroteri Genia",
-      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Prezi",
-        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Prezi",
-      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "EMMONI IDEA",
         "url": "https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb"
@@ -541,79 +521,23 @@
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "Pou Theleis Na Ftaseis?",
-        "url": "https://open.spotify.com/album/3sizAQppKn85ImWzJ6ZLBk"
+        "name": "BAD BOY 3",
+        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
       },
       "artists": [
         {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         }
       ],
-      "duration_ms": 196453,
-      "name": "Ti Kaname...",
-      "url": "https://open.spotify.com/track/1N2nsQjWX4Jg3rrZDZLnbS"
+      "duration_ms": 195000,
+      "name": "MANDELA EFFECT",
+      "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "CAPO DEI CAPI (Deluxe)",
-        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Destiny",
-          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "RAMBO",
-      "url": "https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "INEBONUS",
-        "url": "https://open.spotify.com/album/7dgZbBtC1lPFYyTW0liY1R"
-      },
-      "artists": [
-        {
-          "name": "HermesHermes",
-          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
-        },
-        {
-          "name": "Tr4cer",
-          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "INEBONUS",
-      "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
@@ -629,63 +553,39 @@
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "XWRA TOU POTE",
-        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
+        "name": "Oneiro Tha 'Nai Ksana (Kounia)",
+        "url": "https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB"
       },
       "artists": [
         {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
         }
       ],
-      "duration_ms": 186122,
-      "name": "FWTIA",
-      "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
+      "duration_ms": 244922,
+      "name": "Oneiro Tha 'Nai Ksana - Kounia",
+      "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "KAKO",
-        "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "ObieDaz",
-          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 186947,
-      "name": "KAKO",
-      "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "MONO ESY",
-        "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
-      },
-      "artists": [
-        {
-          "name": "YungKapa",
-          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "MONO ESY",
-      "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
@@ -709,7 +609,143 @@
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 269314,
+      "name": "Ores Mikres",
+      "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "RAMBO",
+      "url": "https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "KATO",
+          "url": "https://open.spotify.com/artist/0AhOwQ26N0W0Q3TlaB9yPK"
+        },
+        {
+          "name": "M\u00e0du",
+          "url": "https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "OPWS EGW",
+      "url": "https://open.spotify.com/track/0Sr2dBNlujbvwSk29BiGA9"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "INEBONUS",
+        "url": "https://open.spotify.com/album/7dgZbBtC1lPFYyTW0liY1R"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "INEBONUS",
+      "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 218647,
+      "name": "Xeiroteri Genia",
+      "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Inopnevma Ftino",
+      "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "KAKO",
+        "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "ObieDaz",
+          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "KAKO",
+      "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
@@ -733,7 +769,99 @@
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "SOSA",
+        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "SOSA",
+      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Alitiki Agapi",
+      "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "duration_ms": 184966,
+      "name": "FIDIA",
+      "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "5 AM",
+        "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "duration_ms": 195345,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 186122,
+      "name": "FWTIA",
+      "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "HOME ALONE",
         "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
@@ -761,31 +889,7 @@
       "url": "https://open.spotify.com/track/11dvIukD3Xmk1WbDuisL82"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "XWRA TOU POTE",
-        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
-      },
-      "artists": [
-        {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
-        },
-        {
-          "name": "KATO",
-          "url": "https://open.spotify.com/artist/0AhOwQ26N0W0Q3TlaB9yPK"
-        },
-        {
-          "name": "M\u00e0du",
-          "url": "https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "OPWS EGW",
-      "url": "https://open.spotify.com/track/0Sr2dBNlujbvwSk29BiGA9"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "CAPO DEI CAPI (Deluxe)",
         "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
@@ -805,183 +909,47 @@
       "url": "https://open.spotify.com/track/0KnJoDgarcQbGVdYozh9ED"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
+        "name": "H MASKA",
+        "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
       },
       "artists": [
         {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
         }
       ],
-      "duration_ms": 195345,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
+      "duration_ms": 247346,
+      "name": "KSEHORISTO",
+      "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/3u9Rvw4L844wtiuKXqGgrS"
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/5xf1dRIxVDVBeFIJfSj2fu"
       },
       "artists": [
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 257647,
-      "name": "Peta Ta",
-      "url": "https://open.spotify.com/track/0UFPiis9uHJcYbTVp0hmkB"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Oneiro Tha 'Nai Ksana (Kounia)",
-        "url": "https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 244922,
-      "name": "Oneiro Tha 'Nai Ksana - Kounia",
-      "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "CAPO DEI CAPI (Deluxe)",
-        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
         },
         {
-          "name": "Mad Clip",
-          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
-        }
-      ],
-      "duration_ms": 184966,
-      "name": "FIDIA",
-      "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "SOSA",
-        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "SOSA",
-      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
-        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 305263,
-      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
-      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
         }
       ],
-      "duration_ms": 217110,
-      "name": "Alitiki Agapi",
-      "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
+      "duration_ms": 144000,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Agapo Simeni",
-        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 269314,
-      "name": "Ores Mikres",
-      "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "ICE C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "Arab",
-          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "PERCO",
-      "url": "https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
-      "album": {
-        "name": "Agapo Simeni",
-        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Inopnevma Ftino",
-      "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
-    },
-    {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk"
@@ -1005,20 +973,56 @@
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
     },
     {
-      "added_at": "2026-01-20 13:39:12",
+      "added_at": "2026-01-21 13:51:42",
       "album": {
-        "name": "Money and Drugs Can't Live in Poverty (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN"
+        "name": "Fthina Tricks 2",
+        "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
       },
       "artists": [
         {
-          "name": "Mad Clip",
-          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
         }
       ],
-      "duration_ms": 260209,
-      "name": "Sinthikes",
-      "url": "https://open.spotify.com/track/3aMmyk82Hs36APmNoEM0ZJ"
+      "duration_ms": 210000,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "MONO ESY",
+        "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "MONO ESY",
+      "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
+    },
+    {
+      "added_at": "2026-01-21 13:51:42",
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
     }
   ],
   "unique_name": "Top 50 - Greece",

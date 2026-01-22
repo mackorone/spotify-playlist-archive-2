@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Diosque y Juliana Gattas",
-  "num_followers": 61490,
+  "num_followers": 61487,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
       },
       "artists": [
         {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -607,18 +603,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
       "artists": [
         {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
         }
       ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA SEGURA",
+          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "De Ballenas",
         "url": "https://open.spotify.com/album/3ocfV6SaW9x6NPF5sD6DQ0"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 221200,
       "name": "De Ballenas",
       "url": "https://open.spotify.com/track/17GAhyPJ1N3QB0bLf8kdoW"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA SEGURA",
-          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "En una",
+        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 219647,
+      "name": "En una",
+      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Me Gustas Tanto (Remix)",
         "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "En una",
-        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 219647,
-      "name": "En una",
-      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 170353,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "todo es luz",
         "url": "https://open.spotify.com/album/7vWQ4mxTjNwxFhSCawpTeG"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 253141,
       "name": "todo es luz",
       "url": "https://open.spotify.com/track/1ShA7GuWcYnxrKuwXxilqF"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "volver a verme",
-        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
-      },
-      "artists": [
-        {
-          "name": "Franco Masciarelli",
-          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 228363,
-      "name": "volver a verme",
-      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "volver a verme",
+        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 228363,
+      "name": "volver a verme",
+      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
     },
     {
       "added_at": "2025-10-27 16:45:31",

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 인성 \(INSEONG\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,105 songs - 2 day 19 hr 15 min
+1,107 songs - 2 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-24 | 2022-06-21 |
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
 | [Diary](https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040) | [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [Diary](https://open.spotify.com/album/284VUSuILmOtajZTNXjpeq) | 2:53 | 2024-04-09 | 2024-05-10 |
-| [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 |  |
+| [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 | 2026-01-22 |
 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2025-06-05 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
@@ -492,7 +492,7 @@
 | [KENJI](https://open.spotify.com/track/6GYpTFTsD8nEkCOFHZ6S6i) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [KENJI](https://open.spotify.com/album/2rGBoestOQnAIjKsmAHo7X) | 3:54 | 2024-09-18 | 2024-12-03 |
 | [KICK OUT](https://open.spotify.com/track/1Gww9PNkelaMkdqpXQeYmW) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [AURUM](https://open.spotify.com/album/2BiQgShCtUiXsh0wZSrein) | 3:42 | 2025-09-18 | 2025-10-10 |
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-03 | 2025-09-11 |
-| [Kidult](https://open.spotify.com/track/1My1uY7NNNkeEGBqMENGoz) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Kidult](https://open.spotify.com/album/0FV6J2eoZ4t6bUksrfRQG5) | 2:55 | 2026-01-19 |  |
+| [Kidult](https://open.spotify.com/track/1My1uY7NNNkeEGBqMENGoz) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Kidult](https://open.spotify.com/album/0FV6J2eoZ4t6bUksrfRQG5) | 2:55 | 2026-01-19 | 2026-01-22 |
 | [Killer Joy](https://open.spotify.com/track/4QAALgs6KkeklDwg4UeuzP) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [3LOGY](https://open.spotify.com/album/3IY5HE1P7GADh5Ojpe5PZU) | 3:00 | 2026-01-15 | 2026-01-19 |
 | [Knife](https://open.spotify.com/track/0UYcMcJXEFhM0m04i8LIC6) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Knife](https://open.spotify.com/album/0Rm8DxRN9bLmyMoIIs7r5p) | 3:51 | 2024-03-21 | 2024-05-10 |
 | [Knight \(Knight for Fight\)](https://open.spotify.com/track/1GgqaOfzfi0Aa3xWfcFATl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Tales Runner \[Multiverse and Dimension Authority\] O.S.T PART\. 1 Knight \(Knight for Fight\)](https://open.spotify.com/album/2a1E4ATdnm2vvhrliXtg6g) | 3:05 | 2022-12-22 | 2023-01-11 |
@@ -825,6 +825,7 @@
 | [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 | 2025-12-03 |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-07-02 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-22 | 2023-03-04 |
+| [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 | 2026-01-21 |  |
 | [Shoulda Loved You Less \(with LEE HONG GI of FTISLAND\)](https://open.spotify.com/track/1HDEDQDYnWBwyD8ynf4Uux) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Shoulda Loved You Less](https://open.spotify.com/album/5TFPshhDOxqLtkx5TKDZB7) | 3:30 | 2025-06-23 | 2025-06-26 |
 | [Silent rainfalls](https://open.spotify.com/track/1FG8L8QhCB2QoG9dwpWhec) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [History of Nerds](https://open.spotify.com/album/4ZusrPbu6N5ObAayvhz5Yq) | 3:35 | 2025-03-24 | 2025-04-01 |
 | [Simply](https://open.spotify.com/track/3IvsJEIrYbhS92dmycyDmN) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 3:39 | 2022-04-12 | 2022-07-29 |
@@ -1010,6 +1011,7 @@
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-06 |
 | [We're destined to meet someday](https://open.spotify.com/track/6YgVmvaDpMIIeBCYog2wkx) | [BLVN](https://open.spotify.com/artist/5YpY8ifnZKsV99rZqwYMGF) | [B\-SIDE](https://open.spotify.com/album/2xfhZvZmpCsTmS3vyT8Pdu) | 4:40 | 2022-05-11 | 2022-06-04 |
 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-18 |  |
+| [We′re Never Going Back](https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [OVER//DRIVE](https://open.spotify.com/album/0eddSmD2hjsYT7cHsYcQOd) | 3:00 | 2026-01-21 |  |
 | [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 | 2022-04-12 | 2023-08-28 |
 | [What I Want To Say](https://open.spotify.com/track/7uJTJ5dlGhPeQ9IS8VReF6) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [What I Want To Say \(Police University OST Part.6\)](https://open.spotify.com/album/0i1PtAZNjiF9IIxm4i0N2m) | 3:18 | 2022-06-13 | 2022-06-15 |
 | [What the Ggang?](https://open.spotify.com/track/0YedxsBCjTOvmcWnNo2lmT) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Again my life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09NmQllkYN634Ft01Vde3i) | 3:00 | 2022-04-21 | 2022-06-23 |

@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "43",
+        "url": "https://open.spotify.com/album/5p3Gt7tiozbNs2CHboymVn"
+      },
+      "artists": [
+        {
+          "name": "yanichka Nushi",
+          "url": "https://open.spotify.com/artist/34cg9oiyDYaDNYS2ZAomAZ"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332701,
+      "name": "43",
+      "url": "https://open.spotify.com/track/3AU1hQRcO30GdHLwemSOGO"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -5680,6 +5698,24 @@
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/7rbWFdSpf8wyUpkOb7vvD6"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104427,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
     },
     {
       "album": {
@@ -12574,7 +12610,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 178604,
       "name": "Gagica-ta - Golden Cypher",
       "url": "https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY"
@@ -13034,7 +13070,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 188600,
       "name": "girl, get up. (feat. SZA)",
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
@@ -26306,7 +26342,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 221269,
       "name": "Pe peronul de la gara",
       "url": "https://open.spotify.com/track/0rcTHUi7TO1To1g4KefKVA"
@@ -38801,6 +38837,24 @@
     },
     {
       "album": {
+        "name": "X Gon' Give It To Ya (1950s Soul)",
+        "url": "https://open.spotify.com/album/5Vum2jvLPIQYv9bJsO74Ac"
+      },
+      "artists": [
+        {
+          "name": "19s Soulers",
+          "url": "https://open.spotify.com/artist/5r5ZNNW0zseFzKcGR9ThIi"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "X Gon' Give It To Ya - 1950s Soul",
+      "url": "https://open.spotify.com/track/5jtuNQWGByEkBzBUlN4rWS"
+    },
+    {
+      "album": {
         "name": "X-SLIDE",
         "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
       },
@@ -44534,7 +44588,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "\u0421\u043b\u044a\u043d\u0447\u043e\u0433\u043b\u0435\u0434",
       "url": "https://open.spotify.com/track/6QXckGVukUJFUIX6wCtOCN"
@@ -45298,7 +45352,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 230123,
       "name": "\u0425\u043e\u0442\u0435\u043b",
       "url": "https://open.spotify.com/track/0JLwDgYbf88hOMIf3S0kqv"

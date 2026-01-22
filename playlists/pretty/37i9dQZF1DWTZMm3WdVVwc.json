@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27318,
+  "num_followers": 27336,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/1Rvh5RimhF3ndpclBmIdeJ"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "1999",
@@ -379,6 +363,22 @@
       "duration_ms": 289060,
       "name": "1999",
       "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
-        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
-      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u30ac\u30a4\u30a2",
@@ -539,6 +523,22 @@
       "duration_ms": 367306,
       "name": "\u9732",
       "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
+        "url": "https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
+      "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
     },
     {
       "added_at": "2025-12-24 00:34:11",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "POP LIFE",
+        "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
+      },
+      "artists": [
+        {
+          "name": "JUDY AND MARY",
+          "url": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
+        }
+      ],
+      "duration_ms": 361080,
+      "name": "LOVER SOUL",
+      "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Gen",
@@ -915,22 +931,6 @@
       "duration_ms": 235096,
       "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "POP LIFE",
-        "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
-      },
-      "artists": [
-        {
-          "name": "JUDY AND MARY",
-          "url": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "LOVER SOUL",
-      "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
     },
     {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u305d\u3046\u304b\u306a",
+        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "\u307e\u3063\u767d",
+      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
+    },
+    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
@@ -1267,22 +1283,6 @@
       "duration_ms": 311946,
       "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u305d\u3046\u304b\u306a",
-        "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "\u307e\u3063\u767d",
-      "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
@@ -1385,38 +1401,6 @@
       "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u30cf\u30d4\u30cd\u30b9EP",
-        "url": "https://open.spotify.com/album/4JdDkmXQA7RkwMkirHCsKb"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "\u30cf\u30d4\u30cd\u30b9",
-      "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "OH MY LITTLE GIRL",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "BIBLE",
-        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+        "name": "\u30cf\u30d4\u30cd\u30b9EP",
+        "url": "https://open.spotify.com/album/4JdDkmXQA7RkwMkirHCsKb"
       },
       "artists": [
         {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
         }
       ],
-      "duration_ms": 280093,
-      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
+      "duration_ms": 257746,
+      "name": "\u30cf\u30d4\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1463,6 +1447,22 @@
       "duration_ms": 241810,
       "name": "Slow time lover",
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "BIBLE",
+        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
       "added_at": "2025-10-24 07:45:46",

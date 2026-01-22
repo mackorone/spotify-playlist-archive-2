@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 413253,
+  "num_followers": 413266,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "El Fin del Mundo",
-        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Fin del Mundo",
-      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Si Quieres",
         "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El Fin del Mundo",
+        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "El Fin del Mundo",
+      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 119632,
-      "name": "Pel\u00edcula",
-      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 222573,
       "name": "Baila",
       "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 119632,
+      "name": "Pel\u00edcula",
+      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Como puedes vivir contigo mismo",
-      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 204585,
       "name": "Explotar Contigo",
       "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Como puedes vivir contigo mismo",
+      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 295800,
-      "name": "Pesadilla",
-      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 268280,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+      "duration_ms": 295800,
+      "name": "Pesadilla",
+      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rey Pila",
-        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "No Longer Fun",
-      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Rey Pila",
+        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "No Longer Fun",
+      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Run... The Sun Is Burning All Your Hopes",
         "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 189693,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
         }
       ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+      "duration_ms": 216566,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 213040,
       "name": "Como Vez Primera",
       "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

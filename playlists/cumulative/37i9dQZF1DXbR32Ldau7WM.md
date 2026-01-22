@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Tatsuya Kitani キタニタツヤ
 
-1,474 songs - 4 day 0 hr 29 min
+1,476 songs - 4 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [FINAL PIECE](https://open.spotify.com/track/09sCgFLpjQPfEqVcPzUlx3) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [FINAL PIECE](https://open.spotify.com/album/4dh31llaEE8hkDH1W3jb1E) | 4:34 | 2022-05-17 | 2022-07-22 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 | 2023-05-10 |
 | [Fledgling](https://open.spotify.com/track/5tvaEwIBqMrbKPIzfIRzMQ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fledgling](https://open.spotify.com/album/4PW3M0r0Zs8msRppMWuNn9) | 2:24 | 2025-03-25 | 2025-04-09 |
-| [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 | 2025-11-04 |  |
+| [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 | 2025-11-04 | 2026-01-22 |
 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 | 2022-07-05 | 2023-06-28 |
 | [for never end](https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l) | [dip](https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD) | [HOLLOWGALLOW](https://open.spotify.com/album/0NERpROreFPwF4zpxDYGhL) | 4:00 | 2023-12-12 | 2023-12-20 |
 | [Forbidden tale](https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Epic Narratives](https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO) | 4:34 | 2024-09-24 | 2024-12-04 |
@@ -368,6 +368,7 @@
 | [Kare Wa 3.0](https://open.spotify.com/track/1mUtOoCbeit3MkMCUWIPSe) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Kare Wa 3.0](https://open.spotify.com/album/3GskQdudpnahBmVyTcnjxw) | 4:33 | 2025-04-08 | 2025-07-09 |
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-18 |  |
+| [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 | 2026-01-21 |  |
 | [KiLLKiSS](https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [KiLLKiSS](https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p) | 3:28 | 2025-01-07 | 2025-06-06 |
 | [Kirifuda \(feat\. TAKUMA from 10\-FEET\)](https://open.spotify.com/track/5vL44zUh8BW1BNJsE5TV45) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [Wabi Sabi \-Sabi\-](https://open.spotify.com/album/4rXzqtHbEYt1UyMQjFLRCR) | 2:29 | 2025-03-18 | 2025-04-02 |
 | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/album/47fiiDihH7dce4HLaz9c57) | 7:02 | 2023-12-05 | 2023-12-13 |
@@ -851,7 +852,7 @@
 | [Vertigo](https://open.spotify.com/track/5WqrUkIkSR3MWcJq18bJ6Y) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [XV e.p.](https://open.spotify.com/album/3XovZ522dgqvzUynQ1Ja9u) | 4:18 | 2025-03-11 | 2025-04-09 |
 | [Very Special](https://open.spotify.com/track/3LXHBMFOo9h9BemsSp9NDq) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Very Special](https://open.spotify.com/album/2QzJ56blkzDzS50a9xZcNa) | 3:03 | 2022-11-29 | 2022-12-21 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 | 2024-07-03 |
-| [Vibrato \- Live Ver.](https://open.spotify.com/track/0WsprMCRa6H1DS2USsSIUT) | [TENBLANK](https://open.spotify.com/artist/7oOEez2der8GAv2uDddxbr), [OVER CHROME](https://open.spotify.com/artist/4EANfsJmak9hRenFqK8tq4) | [Vibrato \(Live Ver.\)](https://open.spotify.com/album/6cTZI2zp4ZxECyNHMOK72Q) | 4:33 | 2025-10-08 |  |
+| [Vibrato \- Live Ver.](https://open.spotify.com/track/0WsprMCRa6H1DS2USsSIUT) | [TENBLANK](https://open.spotify.com/artist/7oOEez2der8GAv2uDddxbr), [OVER CHROME](https://open.spotify.com/artist/4EANfsJmak9hRenFqK8tq4) | [Vibrato \(Live Ver.\)](https://open.spotify.com/album/6cTZI2zp4ZxECyNHMOK72Q) | 4:33 | 2025-10-08 | 2026-01-22 |
 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 | 2023-07-18 | 2024-09-28 |
 | [Virtual Sky](https://open.spotify.com/track/4KFK58UKUZicOf3PN1XFUc) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Virtual Sky](https://open.spotify.com/album/2B2hj1ljDOESPxOX8JtPXB) | 2:46 | 2025-01-07 | 2025-01-15 |
 | [VOID](https://open.spotify.com/track/4tERIq3TiKh2ryd7nbyT5d) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [VOID](https://open.spotify.com/album/1LR4rH18eBZ9KgPQRARRal) | 2:12 | 2024-12-03 | 2025-01-08 |
@@ -1452,6 +1453,7 @@
 | [雀の子](https://open.spotify.com/track/3CnqHdUx0nEZ6Sq4rFFmBL) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [雀の子](https://open.spotify.com/album/1MzgYIiGByI7YdHKGCr4xG) | 3:11 | 2023-07-25 | 2023-07-27 |
 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-04-29 |  |
 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 | 2025-06-24 | 2025-09-17 |
+| [雨天続行](https://open.spotify.com/track/7rvOdxBFy7fqQPPhPTN8rC) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [雨天続行](https://open.spotify.com/album/5yXRr9TXfAlCIdasDldiif) | 3:05 | 2026-01-21 |  |
 | [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-02-25 | 2025-04-02 |
 | [青い、濃い、橙色の日](https://open.spotify.com/track/7uiQ13BUmIi3nGauGXhmM6) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [ワールドイズユアーズ](https://open.spotify.com/album/32nGxwasSzebXuZiVUfxDl) | 4:42 | 2024-12-03 | 2025-08-20 |
 | [青いの。](https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk) | 4:05 | 2024-04-03 | 2024-10-09 |

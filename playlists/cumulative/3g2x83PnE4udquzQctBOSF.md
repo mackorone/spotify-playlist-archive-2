@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-465 songs - 1 day 3 hr 58 min
+466 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Toxic](https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Toxic](https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP) | 3:00 | 2023-03-19 | 2023-04-10 |
 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 | 2023-05-14 | 2023-06-12 |
 | [Trees](https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Trees](https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg) | 3:02 | 2023-05-12 | 2024-07-02 |
+| [Tuci Taci](https://open.spotify.com/track/08MT55tciHqmnVY8upiHFJ) | [TR3 Sound](https://open.spotify.com/artist/5pvDXe2gZvEZgxv2l2fHtf) | [Tuci Taci](https://open.spotify.com/album/7w7DYreWyk8sJ3iQiSMEid) | 3:59 | 2026-01-21 |  |
 | [Turn Up Da Bassline](https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Turn Up Da Bassline](https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8) | 3:11 | 2024-10-13 |  |
 | [Twentyk](https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv) | [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Break The Roof EP](https://open.spotify.com/album/5gxHkVyxMaMXsoZKcYfntZ) | 3:35 | 2023-12-10 | 2024-02-19 |
 | [Un vacío en el ser me dejaste](https://open.spotify.com/track/2v3K6Y1Z9SMhsapgvae9IU) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [House latino por un mundo mejor](https://open.spotify.com/album/5gsQQyh19aGYDGvNzfdY2K) | 3:48 | 2026-01-19 |  |

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: can’t be blue \(캔트비블루\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,215 songs - 3 day 1 hr 41 min
+1,217 songs - 3 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [FOREST \(Mountain and Elevator\)](https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [XYRUP](https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly) | 5:16 | 2024-10-30 | 2025-01-10 |
 | [Forest Child](https://open.spotify.com/track/3ZYA1mcWApBhykEVNKd7N4) | [Kimhwol](https://open.spotify.com/artist/0drtwnlS4Jp6tK06xTFhIq) | [Beautiful World](https://open.spotify.com/album/1AMe7at0N1uF600T7bV7c0) | 4:00 | 2024-09-19 | 2024-10-05 |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2022-06-19 |
+| [forevermore](https://open.spotify.com/track/293NQ732MJvaNPAWyhrCia) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [forevermore](https://open.spotify.com/album/6m164XNbKX32JztcdUpPYp) | 2:38 | 2026-01-21 |  |
 | [Forget\-me\-not](https://open.spotify.com/track/2v6kKJwW5yBtEKOXTGa2nW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Forget\-me\-not](https://open.spotify.com/album/0xKTK2nfIJNp3pswdDArhF) | 3:57 | 2025-03-04 | 2025-04-11 |
 | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/track/1qj9iKSLJ8MPHKcmn4B0YS) | [Kim Doeon](https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/album/1jIH9KeCzSSnfge1KEtb45) | 3:12 | 2022-05-11 | 2022-05-18 |
 | [Fortune Teller \(feat\. Stella Jang\)](https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [I'll see you when I see you](https://open.spotify.com/album/0Tg70L8Bneo43Ml3chP19k) | 2:47 | 2021-12-21 | 2022-07-27 |
@@ -400,7 +401,7 @@
 | [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 | 2025-07-23 | 2025-08-05 |
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-07-08 | 2022-07-13 |
 | [Green we shared](https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Green we shared](https://open.spotify.com/album/22NNNFWoomy7QanPqnkKwr) | 3:39 | 2025-05-13 | 2025-05-23 |
-| [Greeting](https://open.spotify.com/track/0PuAO3tjHQmjT8ezdeTzqb) | [Room306](https://open.spotify.com/artist/7ENWxUjyJ2dMkhA6M0JXH3) | [Leaving](https://open.spotify.com/album/6HlWclGfDBveITmU7xcrHT) | 3:18 | 2025-11-10 |  |
+| [Greeting](https://open.spotify.com/track/0PuAO3tjHQmjT8ezdeTzqb) | [Room306](https://open.spotify.com/artist/7ENWxUjyJ2dMkhA6M0JXH3) | [Leaving](https://open.spotify.com/album/6HlWclGfDBveITmU7xcrHT) | 3:18 | 2025-11-10 | 2026-01-22 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 | 2025-07-30 |
 | [Guitar Pick](https://open.spotify.com/track/3RZwNqLYaZInBhnWmRiHBD) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [M3MI](https://open.spotify.com/album/58oTIGEYaR2zXeDNxgIG8K) | 2:28 | 2023-12-12 | 2023-12-19 |
 | [Gut Feeling](https://open.spotify.com/track/2sB6NQ3hZIbbXkk6Wz0JZZ) | [Boo So\-jeong](https://open.spotify.com/artist/1hpGzIEQidijpOaREckGXH) | [Gut Feeling](https://open.spotify.com/album/0xhhDrQFca3Zfr1aUg6QTk) | 2:51 | 2025-07-29 | 2025-09-02 |
@@ -552,6 +553,7 @@
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-04 | 2025-10-30 |
 | [Kids Return](https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Kids Return](https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl) | 4:06 | 2025-10-20 | 2025-11-14 |
 | [King Carp](https://open.spotify.com/track/6Vy5hcBcUylOESHdetifDh) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Tales From A Wanderer](https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU) | 3:29 | 2024-11-29 | 2024-12-11 |
+| [King of the New World](https://open.spotify.com/track/5Jx7Z2gn3qsYmP0pbvLtCZ) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Brave New World](https://open.spotify.com/album/2L35hn411crur8GTV59aAl) | 3:01 | 2026-01-21 |  |
 | [Knife](https://open.spotify.com/track/4O04LPUW3X7m1R6SKenajy) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Knife](https://open.spotify.com/album/59ziHXG8JXVfWWAFSGVIa3) | 5:45 | 2024-04-30 | 2024-05-10 |
 | [Koh](https://open.spotify.com/track/46Lj7x56cblascUpt0gDIr) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1ALovj4cwwGaVMgXxEzO5G) | 4:56 | 2025-04-11 | 2025-05-21 |
 | [Koh](https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM) | 4:59 | 2021-12-12 | 2022-07-27 |
@@ -948,7 +950,7 @@
 | [STARS](https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:32 | 2024-03-15 | 2024-04-07 |
 | [Stars](https://open.spotify.com/track/2n7Nx1FGB3kMnN9C3OYQbB) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [STARS](https://open.spotify.com/album/6VAof7sDeEJlWNpL6uc7ze) | 3:32 | 2024-04-30 | 2024-05-10 |
 | [Starting With You ❍](https://open.spotify.com/track/2bXfRqleAnaby2h4F6SnHR) | [Park Da Hye](https://open.spotify.com/artist/3USv3ctdZFPKt8qMpzbnca), [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ❍ ハジマリのコ Starting With You : ♡](https://open.spotify.com/album/7Ibu5MOhSbrqrrQ9NPjgZV) | 4:17 | 2025-08-11 | 2025-10-02 |
-| [Starving](https://open.spotify.com/track/18JFKESC4ZJTiydyE0LIot) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Hm\( \)mm](https://open.spotify.com/album/64GxXeRzSTe0NHIdwL8Xo0) | 3:14 | 2025-11-10 |  |
+| [Starving](https://open.spotify.com/track/18JFKESC4ZJTiydyE0LIot) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Hm\( \)mm](https://open.spotify.com/album/64GxXeRzSTe0NHIdwL8Xo0) | 3:14 | 2025-11-10 | 2026-01-22 |
 | [Stay](https://open.spotify.com/track/3Fjk6CiT6vSZsAaujFR8zz) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Winter](https://open.spotify.com/album/1BOy3rPbjmkYMRFLTG2fmb) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Stay \(Prod\. DAUL\)](https://open.spotify.com/track/3yK9Ogqib9SUDUhFLH79Wm) | [Evy](https://open.spotify.com/artist/44OgeGpGaQMX5KtmK4kTbN) | [Stay](https://open.spotify.com/album/2wQSS9wBUj62VWsVgahFxt) | 2:40 | 2022-06-18 | 2022-06-21 |
 | [Stay, there](https://open.spotify.com/track/52r4FaIzEa9VGSi1ftzIzc) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [Stay, there](https://open.spotify.com/album/1vPQqRYXMxU1HPy1VTABWC) | 4:04 | 2024-11-20 | 2025-01-31 |

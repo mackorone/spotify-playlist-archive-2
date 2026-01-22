@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: My Hair is Bad
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,410 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,425 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 93 | [だから](https://open.spotify.com/track/21dky7Zy9161CixqiB8C7p) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [だから](https://open.spotify.com/album/3ZRkvbOZX9KUBZdTptGHs2) | 3:34 |
 | 94 | [居心地のいい部屋](https://open.spotify.com/track/5jUrtH6i5ttE536S2Qv99D) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [LOSTAGE](https://open.spotify.com/artist/0abSsUUjX1N3vBM72GdFAk) | [居心地のいい部屋](https://open.spotify.com/album/3Om0aSDNAMDL3NAJNnFndL) | 4:58 |
 | 95 | [A Day to See You](https://open.spotify.com/track/4fcpCUkXh8WBoS1slJEWfM) | [shifukuponcho](https://open.spotify.com/artist/0jGAznw2F6sZBJZpIRMYwP) | [Feels Like a Good Day](https://open.spotify.com/album/0LHyi27E09f9saUuiOWevO) | 4:32 |
-| 96 | [unique](https://open.spotify.com/track/0fPVV9zzInfCZiUdDmID13) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [](https://open.spotify.com/album/null) | 4:04 |
+| 96 | [unique](https://open.spotify.com/track/0fPVV9zzInfCZiUdDmID13) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl) | [kodomo to otona](https://open.spotify.com/album/39M764Ws5mswE6rmQclT3o) | 4:04 |
 | 97 | [The More We Fight](https://open.spotify.com/track/7cKKC5JB5Ca9orbxSwjI4G) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [The More We Fight](https://open.spotify.com/album/2NZHk517nocz9qJOy8T7Tt) | 2:35 |
 | 98 | [ニャロメ！ \- 2026 ver.](https://open.spotify.com/track/6KLsOhzI8XNiuWhrurgFN2) | [I was born](https://open.spotify.com/artist/06mhRcKAyG22X6wKdMhUhv) | [ニャロメ！ \(2026 ver.\)](https://open.spotify.com/album/0xHD4twcgztXZB7yhuIK6Z) | 5:10 |
 | 99 | [Sugar](https://open.spotify.com/track/3EKCcQAUSZSfPEFCyhZnWJ) | [えんどあ。](https://open.spotify.com/artist/29uOlu0ohC4qm2yOMCreDn) | [Sugar](https://open.spotify.com/album/1QnC8SFNRBDbrhQN1zv6wa) | 2:45 |

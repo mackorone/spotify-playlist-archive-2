@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 260785,
+  "num_followers": 260798,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -147,8 +147,8 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
       "artists": [
         {
@@ -158,11 +158,15 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Hawayein",
-      "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
+      "duration_ms": 237896,
+      "name": "Janam Janam",
+      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -259,8 +263,8 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+        "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
       },
       "artists": [
         {
@@ -270,15 +274,11 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
         }
       ],
-      "duration_ms": 237896,
-      "name": "Janam Janam",
-      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
+      "duration_ms": 290000,
+      "name": "Hawayein",
+      "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -987,30 +987,6 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Ravi \"Rags\" Khote",
-          "url": "https://open.spotify.com/artist/7jhqJGN86YT2lS3i1HgO13"
-        }
-      ],
-      "duration_ms": 353880,
-      "name": "Pretty Woman",
-      "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
-    },
-    {
-      "added_at": "2025-11-17 05:43:40",
-      "album": {
         "name": "Don",
         "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 368480,
       "name": "Aaj Ki Raat",
       "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
+    },
+    {
+      "added_at": "2025-11-17 05:43:40",
+      "album": {
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Ravi \"Rags\" Khote",
+          "url": "https://open.spotify.com/artist/7jhqJGN86YT2lS3i1HgO13"
+        }
+      ],
+      "duration_ms": 353880,
+      "name": "Pretty Woman",
+      "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
     },
     {
       "added_at": "2025-11-17 05:43:40",

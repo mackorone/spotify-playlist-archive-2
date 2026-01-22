@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Maha Ftouni is co\-curating EQUAL Arabia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 54 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,576 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

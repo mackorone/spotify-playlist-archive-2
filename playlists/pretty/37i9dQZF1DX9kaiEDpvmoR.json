@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93759,
+  "num_followers": 93755,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Mother's Love Conquers All",
-        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Mother's Love Conquers All",
-      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "T\u00e5rar",
         "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 182567,
       "name": "T\u00e5rar",
       "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Mother's Love Conquers All",
+        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Mother's Love Conquers All",
+      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Til the music starts again",
         "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
         "name": "Den k\u00e4nslan",
         "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 166963,
       "name": "Den k\u00e4nslan",
       "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
-        "name": "Skebokvarnsv. 209 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 213115,
-      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
-      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -879,6 +863,22 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Skebokvarnsv. 209 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
+      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
       "artists": [
         {
-          "name": "Pernilla Andersson",
-          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
         }
       ],
-      "duration_ms": 224168,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
       "artists": [
         {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
         }
       ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+      "duration_ms": 224168,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Andetag (Man m\u00e5ste leva nu)",
         "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 215546,
       "name": "Andetag (Man m\u00e5ste leva nu)",
       "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
-      },
-      "artists": [
-        {
-          "name": "Sannex",
-          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Stanna tiden",
         "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 192875,
       "name": "Stanna tiden",
       "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
+      },
+      "artists": [
+        {
+          "name": "Sannex",
+          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
     },
     {
       "added_at": "2026-01-15 23:00:40",

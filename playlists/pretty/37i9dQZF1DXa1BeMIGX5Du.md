@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,538 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,575 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Into The Sea](https://open.spotify.com/track/36r6ZFk91Xr3lWwVpWOqg3) | [Southey](https://open.spotify.com/artist/6Lgj14UUAFQTnRFATVYS91) | [Into The Sea](https://open.spotify.com/album/72ak14O7dP4u4ThRNHrFHU) | 4:10 |
 | 100 | [Don't Run Away From Hurt](https://open.spotify.com/track/4a2lOWOBuXHGsCk34fmZnO) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [Don't Run Away From Hurt](https://open.spotify.com/album/5APKvXRcs5YvdLY2AKlSjh) | 3:44 |
 
-Snapshot ID: `AAAAAGkvlgBVD7kRueqQtmkhp/KnaA9x`
+Snapshot ID: `AAAAALLRdRCEQA10tGhQlw4Z9Luj2PJ9`

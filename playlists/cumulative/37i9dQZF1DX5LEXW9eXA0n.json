@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \ud558\uc131\uc6b4 (HA SUNG WOON)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uc804\uc0c1\uadfc (Jeon Sang Keun)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -6416,6 +6416,24 @@
       "duration_ms": 229000,
       "name": "Even If the World Ends",
       "url": "https://open.spotify.com/track/7kWZS3Xgz28xmkfEWFlvli"
+    },
+    {
+      "album": {
+        "name": "Even If This Love Disappears Tonight",
+        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Even If This Love Disappears Tonight",
+      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
     },
     {
       "album": {
@@ -14586,7 +14604,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 194000,
       "name": "Long trip",
       "url": "https://open.spotify.com/track/1tKNzLT0SRoK6wpZKz6S9r"
@@ -21795,6 +21813,28 @@
     },
     {
       "album": {
+        "name": "Ballad of Us Radio Episode 2",
+        "url": "https://open.spotify.com/album/59vuL7rUy7kG0O7DpXjwws"
+      },
+      "artists": [
+        {
+          "name": "Choi Eunbin",
+          "url": "https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC"
+        },
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274050,
+      "name": "Song of the Wind (feat. Sohyang)",
+      "url": "https://open.spotify.com/track/1OuCrIb9nUsTBT8Teo9ywY"
+    },
+    {
+      "album": {
         "name": "#FILM Soonri",
         "url": "https://open.spotify.com/album/3Rp8hJ0ybSCDBbm3NQzljC"
       },
@@ -27532,7 +27572,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 239000,
       "name": "Wind that blows",
       "url": "https://open.spotify.com/track/71ApV2H6XkyZtrKxB6WIod"

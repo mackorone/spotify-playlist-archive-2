@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 659513,
+  "num_followers": 659560,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "CLA$$IC",
         "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
       },
@@ -543,26 +527,6 @@
       "duration_ms": 226186,
       "name": "CLA$$IC",
       "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -587,6 +551,42 @@
       "duration_ms": 153146,
       "name": "Ol\u00e9 Ol\u00e9",
       "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2025-12-19 20:12:08",

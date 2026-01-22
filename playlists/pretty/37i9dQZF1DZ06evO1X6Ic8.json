@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 826835,
+  "num_followers": 826862,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAABRcA9shsJ2eMgJprPMC1hE",
+  "snapshot_id": "aW7FgAAAAAAkgjQzE+tUcautOJz5mhZt",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 303903,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/2FAEca7UOU3w6AqwQ0eSqi"
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D"
+      "duration_ms": 303903,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/2FAEca7UOU3w6AqwQ0eSqi"
     },
     {
       "added_at": null,

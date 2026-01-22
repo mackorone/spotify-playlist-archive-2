@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39554,
+  "num_followers": 39556,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAD3tSsClwPqqqIZr1Qswxj7",
+  "snapshot_id": "aW7FgAAAAAARjaKXBZHhLBaUsA0v0CBh",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+        "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
+        "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
         },
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 218332,
-      "name": "Pussy Talk",
-      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+      "duration_ms": 211609,
+      "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) - Remix",
+      "url": "https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ"
     },
     {
       "added_at": null,
@@ -171,26 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
-        "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
       "artists": [
         {
-          "name": "BRS Kash",
-          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 211609,
-      "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) - Remix",
-      "url": "https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ"
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
     },
     {
       "added_at": null,

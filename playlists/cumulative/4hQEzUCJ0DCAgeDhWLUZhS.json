@@ -8019,6 +8019,28 @@
     },
     {
       "album": {
+        "name": "Steal My Sunshine (feat. merci, mercy)",
+        "url": "https://open.spotify.com/album/5OTOjS7yO1raYRtqD97RT5"
+      },
+      "artists": [
+        {
+          "name": "Bakers Eddy",
+          "url": "https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD"
+        },
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164224,
+      "name": "Steal My Sunshine (feat. merci, mercy)",
+      "url": "https://open.spotify.com/track/0W6qsjnGz8yRkbM6cX901c"
+    },
+    {
+      "album": {
         "name": "Steppin",
         "url": "https://open.spotify.com/album/5GxbscGXCHsyXe7vNEwcnD"
       },

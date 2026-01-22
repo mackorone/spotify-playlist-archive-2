@@ -4,7 +4,7 @@
 
 > All of it
 
-1,099 songs - 2 day 19 hr 21 min
+1,100 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [FRIENDZONE](https://open.spotify.com/track/2hfgkOEA953iVmpcbJpjzG) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [MEMORIES FOR SALE \-\-\-AT\-\-\-> 66 GREENE ST SOHO NY](https://open.spotify.com/album/2IABxMR9VTFgVcY9PGiLVZ) | 3:30 | 2025-12-20 | 2025-12-22 |
 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/43eWbl5dX7pM4EYqe5Lfgf) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:24 | 2025-08-08 |  |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2025-06-02 |  |
+| [Funeralopolis](https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 8:43 | 2026-01-21 |  |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/6VTPnqwtoRpLAMeks5slpp) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/album/2yFUY0P4ie8NDZYgBRZuTA) | 3:04 | 2025-06-02 |  |
 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2025-06-02 |  |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2025-06-02 |  |

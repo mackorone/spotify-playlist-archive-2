@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,130 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,126 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 22 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 |
 | 23 | [Ciao Bella](https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Ciao Bella](https://open.spotify.com/album/2MzLZLVOPd3SoGuqGAEMwT) | 2:43 |
 | 24 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 |
-| 25 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
-| 26 | [One Kiss in Space](https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [One Kiss in Space](https://open.spotify.com/album/2kia7MpDdIf89Oh9mqtK3n) | 4:48 |
+| 25 | [One Kiss in Space](https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [One Kiss in Space](https://open.spotify.com/album/2kia7MpDdIf89Oh9mqtK3n) | 4:48 |
+| 26 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
 | 27 | [Brich mich](https://open.spotify.com/track/6Dvm3ZzyF7fXeHg4KBNJUB) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:45 |
 | 28 | [Meteor](https://open.spotify.com/track/2OkB8iSkiFPgKuDKT5Bara) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2pr4jK4HNc7ESD1TrcK3UX) | 2:26 |
 | 29 | [mein zimmer](https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [mein zimmer](https://open.spotify.com/album/3VwUQRuzAq3tza5OVCpse5) | 3:09 |

@@ -8233,6 +8233,28 @@
     },
     {
       "album": {
+        "name": "Nie ta droga",
+        "url": "https://open.spotify.com/album/3PNcatifNjh1LoCmvEhfyv"
+      },
+      "artists": [
+        {
+          "name": "Asia Nawojska",
+          "url": "https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3"
+        },
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205594,
+      "name": "Nie ta droga",
+      "url": "https://open.spotify.com/track/2T1s9Or8z0zQhYbxQyjH0y"
+    },
+    {
+      "album": {
         "name": "Nie ten czas",
         "url": "https://open.spotify.com/album/7leW2u65l1HB3GQOoSZ6fR"
       },
@@ -11094,7 +11116,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-22",
       "duration_ms": 137000,
       "name": "silver and gold",
       "url": "https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: céro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,209 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,211 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 38 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
 | 39 | [T'enxules](https://open.spotify.com/track/4nvcsK1OktR14NLO1LxJPC) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.II : EUGA DE NIT](https://open.spotify.com/album/1cTRqFtdSOrfhAl5VygR5E) | 2:44 |
 | 40 | [PRESIDENTE](https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [PRESIDENTE](https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8) | 2:26 |
-| 41 | [DARRY RING](https://open.spotify.com/track/1SvHtMM1KWiH9HLf5NjtAO) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [DARRY RING](https://open.spotify.com/album/17tIbvyzZZwS4eG3f1a6PI) | 2:16 |
+| 41 | [VEINTIPICO](https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [VEINTIPICO](https://open.spotify.com/album/6YW7PgtKhCjphEhYgOpS9Q) | 2:26 |
 | 42 | [Joga Bonito](https://open.spotify.com/track/5LEMwbRY353rXCH2KqivIR) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Joga Bonito](https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf) | 2:42 |
 | 43 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
 | 44 | [Enamorada de tu](https://open.spotify.com/track/6YKh9DusNfJJcLgfEv72b9) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.III : COM AQUELL AGOST](https://open.spotify.com/album/4GBj3aiTw8fXmShzPoe5CI) | 3:09 |
 | 45 | [Ça Va? BBY](https://open.spotify.com/track/3WudgNqzn2HxnyaATSaHha) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Ça Va? BBY](https://open.spotify.com/album/0JOqlJW7vIg6tEuRmoQujg) | 2:35 |
-| 46 | [VEINTIPICO](https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [VEINTIPICO](https://open.spotify.com/album/6YW7PgtKhCjphEhYgOpS9Q) | 2:26 |
+| 46 | [DARRY RING](https://open.spotify.com/track/1SvHtMM1KWiH9HLf5NjtAO) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [DARRY RING](https://open.spotify.com/album/17tIbvyzZZwS4eG3f1a6PI) | 2:16 |
 | 47 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 |
 | 48 | [NOVIO GOLDEN](https://open.spotify.com/track/7HlNux6hxyop8Dws2mxRsY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [NOVIO GOLDEN](https://open.spotify.com/album/2EQKi80GtJoeeGdYC7S8sR) | 2:37 |
 

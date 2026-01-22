@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 91444,
+  "num_followers": 91462,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2026-01-19 12:45:56",
       "album": {
+        "name": "Trip to Old England",
+        "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Captain Core",
+          "url": "https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Trip to Old England",
+      "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
+    },
+    {
+      "added_at": "2026-01-19 12:45:56",
+      "album": {
         "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 162375,
       "name": "PSSY MTHRFCKRZ - Chaos Project & Sakyra Remix",
       "url": "https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz"
-    },
-    {
-      "added_at": "2026-01-19 12:45:56",
-      "album": {
-        "name": "Trip to Old England",
-        "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Captain Core",
-          "url": "https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Trip to Old England",
-      "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
     },
     {
       "added_at": "2026-01-19 12:45:56",

@@ -1,13 +1,29 @@
 {
   "description": "#fyp\n",
-  "num_followers": 843071,
+  "num_followers": 843226,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEM+zTz5JjqCIfFj9D2IhsQ1x8g3",
+  "snapshot_id": "AAAAALjab2f+nLCbTbuiLtuxQlTv/Lnr",
   "tracks": [
+    {
+      "added_at": "2026-01-07 09:43:15",
+      "album": {
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
+    },
     {
       "added_at": "2025-12-23 13:46:48",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 164986,
       "name": "OG",
       "url": "https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87"
-    },
-    {
-      "added_at": "2026-01-07 09:43:15",
-      "album": {
-        "name": "B.M.S (by my side)",
-        "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
-      },
-      "artists": [
-        {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "B.M.S (by my side)",
-      "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
     },
     {
       "added_at": "2025-10-22 14:54:39",
@@ -239,6 +239,22 @@
       "duration_ms": 140487,
       "name": "BTRD",
       "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
+    },
+    {
+      "added_at": "2026-01-21 16:22:07",
+      "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
       "added_at": "2025-08-01 20:50:24",
@@ -1383,26 +1399,6 @@
       "duration_ms": 201230,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs"
-    },
-    {
-      "added_at": "2025-11-27 23:00:22",
-      "album": {
-        "name": "Do You Mind (Crazy Cousins Remix)",
-        "url": "https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx"
-      },
-      "artists": [
-        {
-          "name": "Paleface",
-          "url": "https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8"
-        },
-        {
-          "name": "Crazy Cousins",
-          "url": "https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Do You Mind - Crazy Cousinz Remix",
-      "url": "https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN"
     },
     {
       "added_at": "2026-01-09 14:27:59",

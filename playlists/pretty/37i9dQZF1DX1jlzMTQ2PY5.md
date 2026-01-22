@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,443 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,463 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 33 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
 | 34 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 35 | [Out Of My Mind](https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Lupole](https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl) | [Dopamine](https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU) | 3:01 |
-| 36 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
-| 37 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
+| 36 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
+| 37 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
 | 38 | [When You Love Me](https://open.spotify.com/track/6D4TwT0ObxCojXj0TMGTZu) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V) | [When You Love Me](https://open.spotify.com/album/5AigHrexTX5dQI9RbNlwQx) | 4:34 |
 | 39 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
 | 40 | [Visions](https://open.spotify.com/track/1cUMjhHLPqZv7JVepLWx0I) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Visions](https://open.spotify.com/album/2eUc1a27dfnotXM45YipvI) | 4:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 45 | [You](https://open.spotify.com/track/1ZXuKEuTuptd2iuJXPrEF5) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [You / Someday](https://open.spotify.com/album/5x08zzrVrfGVNIfbVa8OMB) | 4:38 |
 | 46 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
 | 47 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
-| 48 | [Be Your Girl](https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [LADY KIM](https://open.spotify.com/artist/7hRNnqrDLe8mtGVfHHkdch) | [Be Your Girl](https://open.spotify.com/album/65E5O3o7unNpPrLaw1h5Gm) | 3:40 |
-| 49 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
-| 50 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
+| 48 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 49 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
+| 50 | [Be Your Girl](https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [LADY KIM](https://open.spotify.com/artist/7hRNnqrDLe8mtGVfHHkdch) | [Be Your Girl](https://open.spotify.com/album/65E5O3o7unNpPrLaw1h5Gm) | 3:40 |
 
 Snapshot ID: `AAAAAL4dhm/xe4Z2t5nzXomP7k6hCFT8`

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-546 songs - 1 day 7 hr 55 min
+547 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2025-06-03 |  |
 | [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 | 2025-06-03 |  |
 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:26 | 2024-11-15 | 2025-06-04 |
+| [Steal My Sunshine \(feat\. merci, mercy\)](https://open.spotify.com/track/0W6qsjnGz8yRkbM6cX901c) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD), [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Steal My Sunshine \(feat\. merci, mercy\)](https://open.spotify.com/album/5OTOjS7yO1raYRtqD97RT5) | 2:44 | 2026-01-21 |  |
 | [Steppin](https://open.spotify.com/track/4OcivrO8Jufc7avQPuPc60) | [Bootleg Rascal](https://open.spotify.com/artist/2cScEQkwCAObAfeFX4CYr4) | [Steppin](https://open.spotify.com/album/5GxbscGXCHsyXe7vNEwcnD) | 3:24 | 2025-06-03 |  |
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10\* | 2021-02-25 |
 | [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 | 2025-06-04 |

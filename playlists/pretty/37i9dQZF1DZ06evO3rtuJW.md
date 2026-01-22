@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,513 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,516 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 33 | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rookie Of The Year](https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB) | 2:55 |
 | 34 | [One Blood](https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 2:08 |
 | 35 | [Where Would I Be?](https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 3:01 |
-| 36 | [Reason](https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Reason](https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6) | 3:13 |
-| 37 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
+| 36 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
+| 37 | [Reason](https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Reason](https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6) | 3:13 |
 | 38 | [Honestly \(feat\. Juice WRLD\)](https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 3:34 |
 | 39 | [Same Me](https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 4:16 |
 | 40 | [Nu Devils](https://open.spotify.com/track/05LERuwwJC1kG4r9THLAah) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [You Can't Kill God With Bullets](https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG) | 5:21 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 47 | [Facetime \(feat\. G Herbo\)](https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:36 |
 | 48 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
 | 49 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
-| 50 | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 |
+| 50 | [Sneaky Link Chicago](https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX) | [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Chicago](https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk) | 2:00 |
 
-Snapshot ID: `aW10AAAAAACUba+8fY+Adyjk2YL+bUVG`
+Snapshot ID: `aW7FgAAAAACpIDjWE/yMouye/8BLQiz6`

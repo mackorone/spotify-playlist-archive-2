@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35513,
+  "num_followers": 35516,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAACUba+8fY+Adyjk2YL+bUVG",
+  "snapshot_id": "aW7FgAAAAACpIDjWE/yMouye/8BLQiz6",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193852,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193852,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp"
     },
     {
       "added_at": null,
@@ -967,22 +967,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Childhood Trauma",
-        "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
+        "name": "Sneaky Link Chicago",
+        "url": "https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk"
       },
       "artists": [
         {
-          "name": "1up Tee",
-          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+          "name": "HXLLYWOOD",
+          "url": "https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
         }
       ],
-      "duration_ms": 150600,
-      "name": "GooD KarMa (feat. G Herbo) (Remix)",
-      "url": "https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu"
+      "duration_ms": 120852,
+      "name": "Sneaky Link Chicago",
+      "url": "https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX"
     }
   ],
   "unique_name": "This Is G Herbo",

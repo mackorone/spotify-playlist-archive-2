@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 92664,
+  "num_followers": 92681,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 222044,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 222044,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Lemon Glow",
+      "url": "https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 312346,
       "name": "Four Out Of Five",
       "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Lemon Glow",
-      "url": "https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/1NAmvOOfwFLfOFmpX7Suh8"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/0ksLGbDH7R769GrbCarbBs"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Better (SG Lewis x Clairo)",
         "url": "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 193761,
       "name": "Better",
       "url": "https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/1NAmvOOfwFLfOFmpX7Suh8"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/0ksLGbDH7R769GrbCarbBs"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 239010,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
+      "duration_ms": 239010,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1507,6 +1507,22 @@
       "duration_ms": 184693,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Let's Go Sunshine",
+        "url": "https://open.spotify.com/album/6W5NMoXsloO4Kz16ANeSAb"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 216617,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/3Dgm3Eaw7mBjYrGxdZxfjl"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1579,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Comeback Kid",
+        "url": "https://open.spotify.com/album/6Z48o28hTfnTImZtcCX2Vf"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Comeback Kid",
+      "url": "https://open.spotify.com/track/5nUVtL9EgUDCsjZT2Hcy9H"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "nightmares",
         "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
@@ -1591,22 +1623,6 @@
       "duration_ms": 207003,
       "name": "nightmares",
       "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1627,6 +1643,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH"
       },
@@ -1639,38 +1671,6 @@
       "duration_ms": 208760,
       "name": "Calm",
       "url": "https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Let's Go Sunshine",
-        "url": "https://open.spotify.com/album/6W5NMoXsloO4Kz16ANeSAb"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 216617,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/3Dgm3Eaw7mBjYrGxdZxfjl"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
     }
   ],
   "unique_name": "Best of Indie 2018",

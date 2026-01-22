@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,241 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,353 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 | 3 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 |
 | 4 | [i don't know you anymore](https://open.spotify.com/track/5FCMqNc9fodjQRIXbG7Ld1) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [i don't know you anymore](https://open.spotify.com/album/4lih3eiFN9LVskoAk8FDWm) | 3:47 |
 | 5 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
-| 6 | [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 |
-| 7 | [makes me want you](https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [makes me want you](https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx) | 2:40 |
+| 6 | [makes me want you](https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [makes me want you](https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx) | 2:40 |
+| 7 | [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 |
 | 8 | [perfume](https://open.spotify.com/track/4l0CzhzfGxQBPTbknrq427) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [perfume](https://open.spotify.com/album/7FUdBkpRnlJxHYxlkzka5i) | 3:11 |
 | 9 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 |
 | 10 | [caroline](https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/5KYKojZe2Kx6lRcUdvNTkp) | 3:18 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 | 29 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 |
 | 30 | [why are we like this](https://open.spotify.com/track/7D5f7W4CYGBrqXBF1jDyqR) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 2:34 |
 
-Snapshot ID: `aW10AAAAAABCPlzWPf2+sUW1cY1hdpzh`
+Snapshot ID: `aW7FgAAAAADzzuy6j2lpmUuK2bdqtpt8`

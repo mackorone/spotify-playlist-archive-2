@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Trending rn\. Cover: Danpapa GTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,012 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,101 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
 | 50 | [CYK BADDIE](https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq) | [Luwa.Mp4](https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [CYK BADDIE](https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ) | 2:14 |
 
-Snapshot ID: `AAAAAPQnbS5a1MIIiC3LmbNgzZhUXuK9`
+Snapshot ID: `AAAAAM4JVGA3fOjUkrbOv4jNRbXRSE6D`

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 32299,
+  "num_followers": 32312,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Qui\u00e9reme Tal Como Soy - Live",
+      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -811,38 +827,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Qui\u00e9reme Tal Como Soy - Live",
-      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
-        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
           "name": "Oscar D'Le\u00f3n",
           "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        },
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 238813,
-      "name": "Me Voy Pa' Cali - Live",
-      "url": "https://open.spotify.com/track/3URgs3mIvNlsHEnfj6ZaQS"
+      "duration_ms": 338093,
+      "name": "Mi Bajo y Yo - Live Version",
+      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
       "artists": [
         {
           "name": "Oscar D'Le\u00f3n",
           "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 338093,
-      "name": "Mi Bajo y Yo - Live Version",
-      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
+      "duration_ms": 238813,
+      "name": "Me Voy Pa' Cali - Live",
+      "url": "https://open.spotify.com/track/3URgs3mIvNlsHEnfj6ZaQS"
     },
     {
       "added_at": "2024-09-24 20:35:55",

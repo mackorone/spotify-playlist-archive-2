@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > mylena drague quente demais pra sua pressão 🥇
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,408 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,429 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 40 | [Descarga](https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M) | [Mana Bella](https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Descarga](https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx) | 3:03 |
 | 41 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
-| 42 | [Uma Palavra](https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Alta Rec](https://open.spotify.com/artist/4S88NckzXHTMwvXw7kY0Ii) | [Uma Palavra](https://open.spotify.com/album/3JHviWUiHa0KjaenAiVZqK) | 2:11 |
-| 43 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
+| 42 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
+| 43 | [Uma Palavra](https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Alta Rec](https://open.spotify.com/artist/4S88NckzXHTMwvXw7kY0Ii) | [Uma Palavra](https://open.spotify.com/album/3JHviWUiHa0KjaenAiVZqK) | 2:11 |
 | 44 | [Excesso de liberdade](https://open.spotify.com/track/3WhCwoOIWoHBiMvljmP54T) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [Excesso de liberdade](https://open.spotify.com/album/1lL3h9qTidET81l9H0JqJK) | 2:58 |
 | 45 | [Original](https://open.spotify.com/track/2mxXZMEsOT93txYtkHmWLb) | [Deeplick](https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY) | [Original](https://open.spotify.com/album/02VAL1s8Pv6lY8y2OrvC7E) | 3:32 |
 | 46 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
-| 47 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
-| 48 | [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 |
+| 47 | [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 |
+| 48 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 49 | [Porque não](https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [S3X!](https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG) | [Porque não](https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq) | 2:45 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 

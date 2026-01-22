@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20542,
+  "num_followers": 20541,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW10AAAAAAAkGJ+RoIMUeRvlTimMYimE",
+  "snapshot_id": "aW7FgAAAAAA2LOZuZZMHFb1v+Nl/46jC",
   "tracks": [
     {
       "added_at": null,
@@ -260,7 +260,7 @@
       "added_at": null,
       "album": {
         "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/3AsH3xPvymtp24ViMjdUz5"
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 214498,
-      "name": "(Christmas) Time",
-      "url": "https://open.spotify.com/track/4v1wmXjnoEo26dQtgeyWpO"
+      "duration_ms": 201422,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg"
     },
     {
       "added_at": null,
@@ -324,7 +324,7 @@
       "added_at": null,
       "album": {
         "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+        "url": "https://open.spotify.com/album/3AsH3xPvymtp24ViMjdUz5"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 201422,
-      "name": "Glamorous",
-      "url": "https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg"
+      "duration_ms": 214498,
+      "name": "(Christmas) Time",
+      "url": "https://open.spotify.com/track/4v1wmXjnoEo26dQtgeyWpO"
     },
     {
       "added_at": null,
