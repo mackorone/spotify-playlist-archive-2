@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Balara",
-  "num_followers": 435998,
+  "num_followers": 435991,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Vir\u00e1",
-        "url": "https://open.spotify.com/album/6YF9dLezXott7Cpol6pgwC"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 148838,
-      "name": "Vir\u00e1",
-      "url": "https://open.spotify.com/track/3aG2xzddFstxfy7sYNCsa2"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Vir\u00e1",
+        "url": "https://open.spotify.com/album/6YF9dLezXott7Cpol6pgwC"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 148838,
+      "name": "Vir\u00e1",
+      "url": "https://open.spotify.com/track/3aG2xzddFstxfy7sYNCsa2"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -291,18 +291,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Beija-me",
-        "url": "https://open.spotify.com/album/1aXkJXS54W9l4ormaGbdRe"
+        "name": "Cada Linha",
+        "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        },
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 186278,
-      "name": "Beija-me",
-      "url": "https://open.spotify.com/track/5Jmolq9XN50Zv1Qc7g3Pbr"
+      "duration_ms": 162339,
+      "name": "Cada Linha",
+      "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -327,42 +331,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Cada Linha",
-        "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
+        "name": "Beija-me",
+        "url": "https://open.spotify.com/album/1aXkJXS54W9l4ormaGbdRe"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        },
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
         }
       ],
-      "duration_ms": 162339,
-      "name": "Cada Linha",
-      "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Inimagin\u00e1vel II",
-        "url": "https://open.spotify.com/album/1SFfnWqjIpSUbf10CZ7vbn"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Mar\u00e9 De Sorte",
-      "url": "https://open.spotify.com/track/4B2NcHn1NnWjMAC2hBOe8k"
+      "duration_ms": 186278,
+      "name": "Beija-me",
+      "url": "https://open.spotify.com/track/5Jmolq9XN50Zv1Qc7g3Pbr"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -383,6 +363,26 @@
       "duration_ms": 168097,
       "name": "Amor Inteiro",
       "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "Inimagin\u00e1vel II",
+        "url": "https://open.spotify.com/album/1SFfnWqjIpSUbf10CZ7vbn"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Mar\u00e9 De Sorte",
+      "url": "https://open.spotify.com/track/4B2NcHn1NnWjMAC2hBOe8k"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
         }
       ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
       "artists": [
         {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
         }
       ],
-      "duration_ms": 186465,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 227906,
       "name": "Prece",
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "NEM SE O MUNDO ACABAR",
-        "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 152450,
-      "name": "NEM SE O MUNDO ACABAR",
-      "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
         "name": "Meu Corpo Pede",
         "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 173365,
       "name": "Meu corpo pede",
       "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
+        "name": "NEM SE O MUNDO ACABAR",
+        "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 152450,
+      "name": "NEM SE O MUNDO ACABAR",
+      "url": "https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI"
     },
     {
       "added_at": "2026-01-09 03:01:26",

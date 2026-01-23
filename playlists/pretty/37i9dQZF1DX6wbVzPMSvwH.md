@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,674 likes - 92 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,675 likes - 92 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 6 | [TAGULING\-GULING](https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Zeran](https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp), [Ecko Show](https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u) | [TAGULING\-GULING](https://open.spotify.com/album/2PEL4HwjE2RMwLCnqZvjna) | 4:41 |
 | 7 | [Tak Ada Yang Sepertimu](https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:11 |
 | 8 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 |
-| 9 | [Miliaran Manusia](https://open.spotify.com/track/0DzNESLoRyoSA481GAh08B) | [Original Cast Musikal Perahu Kertas](https://open.spotify.com/artist/2AW9GTVvrGp0tx1E6RLaNk), [Dewara Zaqqi](https://open.spotify.com/artist/4WG4L2FpRNNabX0jjpERk5), [Alya Syahrani](https://open.spotify.com/artist/7LCjqfhaRyGm6tS6pMntnR), [Trust Collective](https://open.spotify.com/artist/5Cc1Cd0MgxNIcfSeGcXbzn) | [Original Cast Recording Musikal Perahu Kertas](https://open.spotify.com/album/0N7Gcu2OCc9n4suzDNSRO7) | 3:29 |
+| 9 | [Miliaran Manusia](https://open.spotify.com/track/0DzNESLoRyoSA481GAh08B) | [Original Cast Musikal Perahu Kertas](https://open.spotify.com/artist/2AW9GTVvrGp0tx1E6RLaNk), [DewaRa](https://open.spotify.com/artist/1Dck0Gh9IYk2r83zhOC8Bg), [Alya Syahrani](https://open.spotify.com/artist/7LCjqfhaRyGm6tS6pMntnR), [Trust Collective](https://open.spotify.com/artist/5Cc1Cd0MgxNIcfSeGcXbzn) | [Original Cast Recording Musikal Perahu Kertas](https://open.spotify.com/album/0N7Gcu2OCc9n4suzDNSRO7) | 3:29 |
 | 10 | [Adu Bola Mata](https://open.spotify.com/track/7wsle0lIudoJaGDAXfwHjm) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Adu Bola Mata](https://open.spotify.com/album/2yANwUmtQhdZpq98mcBN73) | 4:00 |
 | 11 | [Precious Time](https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [Precious Time](https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M) | 3:23 |
 | 12 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 |

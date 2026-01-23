@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80493,
+  "num_followers": 80499,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAAA84Bsu/6SFf/S7/fdH2qoR",
+  "snapshot_id": "aXAXAAAAAACGnSNhX8LLVSCcczwwrC96",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Oak",
-        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "He Moved Through the Fair",
-      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Very Special Christmas 2",
-        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 338733,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
+      "duration_ms": 262933,
+      "name": "He Moved Through the Fair",
+      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 181280,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Very Special Christmas 2",
+        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
     },
     {
       "added_at": null,

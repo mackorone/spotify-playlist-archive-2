@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 234860,
+  "num_followers": 234996,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 130363,
-      "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Puras Selecciones",
         "url": "https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 188999,
       "name": "El 90 Menor",
       "url": "https://open.spotify.com/track/397Y4fmU5NK4nKPgtX5Hun"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 130363,
+      "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
     },
     {
       "added_at": "2025-11-07 18:00:12",

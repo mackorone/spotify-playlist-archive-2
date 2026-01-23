@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-320 songs - 18 hr 23 min
+322 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Gangsta Lean](https://open.spotify.com/track/6cCUTFJ2uRzTO205PGTkhS) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS), [KnowaKing](https://open.spotify.com/artist/44eWN07lp9iM3yRGnjqWuZ) | [Gangsta Lean](https://open.spotify.com/album/0hgmt43uuaYXt5xcd3vBmF) | 3:23 | 2024-05-20 | 2024-11-08 |
 | [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2024-05-20 | 2024-10-04 |
 | [Ghost](https://open.spotify.com/track/5kHdsgUGfFEQRgxSHybWss) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Ghost](https://open.spotify.com/album/02ZquFod2IdjAxRJRIk3Sv) | 2:49 | 2024-05-20 | 2024-08-16 |
+| [Ghost in Your Bed](https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Ghost in Your Bed](https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J) | 2:48 | 2026-01-22 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-05-20 |  |
 | [Glory](https://open.spotify.com/track/2h03aCUR0z5fKu5a26NGSt) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Glory](https://open.spotify.com/album/5G0tooiZgZU0RaroMA0FZK) | 4:46 | 2025-03-20 | 2025-05-01 |
 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-08-15 | 2025-02-14 |
@@ -127,6 +128,7 @@
 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 | 2024-08-22 | 2026-01-06 |
 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 | 2024-05-20 |  |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 | 2024-05-20 |  |
+| [Hazy Daisy](https://open.spotify.com/track/08FbJk7kI27f7lLwCQomQ9) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Hazy Daisy](https://open.spotify.com/album/5NPTjHmYFakbHC25TMGZEf) | 2:52 | 2026-01-22 |  |
 | [HEI MOKIMOKI](https://open.spotify.com/track/6YavHRjzWTSmluidd3N0h2) | [MAJIC](https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB) | [HEI MOKIMOKI](https://open.spotify.com/album/5JbtOtuunDlxNFmr7PdxnP) | 3:45 | 2024-05-20 | 2024-11-08 |
 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 | 2024-05-20 |  |
 | [Help Myself](https://open.spotify.com/track/03CHPSpb16gkupgNbmmaTT) | [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Help Myself](https://open.spotify.com/album/0Jcq9dK8GdEc2UYmBEWZ4P) | 2:31 | 2024-05-20 | 2024-11-08 |
@@ -144,7 +146,7 @@
 | [I like to be alone](https://open.spotify.com/track/1uRbVZEtpRYJG8meiezRKR) | [Mermaidens](https://open.spotify.com/artist/5R7higOEVGXOdv9Uqbn8M8) | [Mermaidens](https://open.spotify.com/album/2rBhR0wIXKyiQ0cHRewnQv) | 3:47 | 2024-05-20 | 2024-11-08 |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-27 |  |
 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 | 2024-05-20 |  |
-| [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 | 2025-01-30 |  |
+| [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 | 2025-01-30 | 2026-01-23 |
 | [In Light of Everything](https://open.spotify.com/track/4Tut8Avf3TvUrvkxjorHO2) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Ceremony](https://open.spotify.com/album/5weOtEa4giqwaGzrqVASTW) | 3:02 | 2024-05-20 | 2024-11-08 |
 | [It's You](https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL) | [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You](https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X) | 3:41 | 2024-05-20 | 2025-02-21 |
 | [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 | 2024-05-20 | 2025-07-18 |
@@ -276,7 +278,7 @@
 | [Stop](https://open.spotify.com/track/5AF1ZAzQrCfIZKnboup3zq) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Want You Back](https://open.spotify.com/album/1umHmNKwp7GZlMz7aQrRhX) | 2:59 | 2024-05-20 | 2024-08-16 |
 | [strange](https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [small love](https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB) | 3:24 | 2024-08-15 | 2024-11-08 |
 | [Stylee \(Pep The Conqueror Riddim\)](https://open.spotify.com/track/4Pvrz2VnG8H89EV5jYFTZL) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [The Mighty Asterix](https://open.spotify.com/artist/03jqvlizUBVqzRrqgesVYA) | [Stylee](https://open.spotify.com/album/67FdrrZuIi5gyaxNHSDhqo) | 3:31 | 2024-12-12 | 2024-12-20 |
-| [Suckerpunch](https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Suckerpunch](https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx) | 2:34 | 2025-10-09 |  |
+| [Suckerpunch](https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Suckerpunch](https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx) | 2:34 | 2025-10-09 | 2026-01-23 |
 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 | 2024-05-20 | 2025-01-06 |
 | [Sunday Stitches](https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunday Stitches](https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK) | 3:03 | 2024-09-12 | 2025-03-17 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-24 |  |

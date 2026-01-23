@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 187200,
       "name": "Mtoto Wa Mfalme",
       "url": "https://open.spotify.com/track/14YcZqpGB5iO1W3AQGRue8"
@@ -2786,6 +2786,24 @@
       "duration_ms": 197052,
       "name": "Nakupa Utukufu (feat. Zoe)",
       "url": "https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB"
+    },
+    {
+      "album": {
+        "name": "Nakupenda (Live)",
+        "url": "https://open.spotify.com/album/1lj8OzHxosFnVOahWkk6Xp"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kubuya",
+          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 878716,
+      "name": "Nakupenda - Live",
+      "url": "https://open.spotify.com/track/7FhBF3erXmu9EwpIw2Wr3V"
     },
     {
       "album": {

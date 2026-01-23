@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: LILA
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Tamta x BARBZ
 
-234 songs - 12 hr 4 min
+235 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [DEN PERNAEI](https://open.spotify.com/track/4Lcl5RNUF5jlMcrPBbxK3b) | [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [DEN PERNAEI](https://open.spotify.com/album/75CkPkXxgv6NWqzwj0OThQ) | 3:01 | 2024-10-10 | 2024-10-25 |
 | [Den Yparxei \- 2025 Edition](https://open.spotify.com/track/1GY4WYWJSi6Ylmjyx4tAON) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1) | [7](https://open.spotify.com/album/3bNTq5F18iOH311qc1A1dG) | 3:32 | 2025-05-08 | 2025-05-30 |
 | [Diafanis](https://open.spotify.com/track/0cJQO2o81NwOtjlJOJiEGV) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM), [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Diafanis](https://open.spotify.com/album/3s9yB9xtjDn6NGLHpwpEvS) | 2:55 | 2025-04-10 | 2025-11-14 |
-| [Diamond Baby](https://open.spotify.com/track/49iAHAHWqjUi7IlRfb7PPw) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno \(Deluxe\)](https://open.spotify.com/album/2ygB0UYWAZAo3tsUInSHw4) | 2:23 | 2025-07-31 |  |
+| [Diamond Baby](https://open.spotify.com/track/49iAHAHWqjUi7IlRfb7PPw) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno \(Deluxe\)](https://open.spotify.com/album/2ygB0UYWAZAo3tsUInSHw4) | 2:23 | 2025-07-31 | 2026-01-23 |
 | [DIO KARDIES](https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Michalis Karagkounis](https://open.spotify.com/artist/2pyJFxIC4rry7PluWUSiBD), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [DIO KARDIES](https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z) | 3:20 | 2026-01-15 |  |
 | [Disco Boy](https://open.spotify.com/track/4ee7heyCvxcuffx9XMwMXO) | [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes), [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Disco Boy](https://open.spotify.com/album/4CeM3rFBJTiF2pWxrLd9o3) | 3:12 | 2025-11-27 |  |
 | [Disco\-Tech](https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Disco\-Tech](https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x) | 3:19 | 2025-05-22 | 2025-10-17 |
@@ -220,6 +220,7 @@
 | [To Sagapw](https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [To Sagapw](https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS) | 3:16 | 2025-12-04 |  |
 | [To Tango Tis Nefelis \- ONEMANSHOW & Ralf Mag Remix](https://open.spotify.com/track/4dODtxnCE3YB7dP8lvK55d) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [Ralf Mag](https://open.spotify.com/artist/0z7vh522N8W5SBlvtRL2WR), [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR) | [To Tango Tis Nefelis](https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9) | 6:10 | 2024-07-04 | 2025-03-21 |
 | [To Velos](https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [To Velos](https://open.spotify.com/album/3BxWWqlUWJ0551CLIJBD2H) | 2:49 | 2025-01-30 | 2025-02-14 |
+| [TOP](https://open.spotify.com/track/0IJrMuRsw30NKa1d5KzNBw) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [TOP](https://open.spotify.com/album/2satLXIf7PYPV6pqg69168) | 2:36 | 2026-01-22 |  |
 | [Tourísta](https://open.spotify.com/track/2XTxnII8KE0wRoIqyf3nsx) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno](https://open.spotify.com/album/3rqiucHK1cixqLeXd7I6A2) | 2:57 | 2025-06-13 | 2025-08-01 |
 | [Tragoudao Dinata](https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1) | [Stelios Rokkos](https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG) | [Tragoudao Dinata](https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK) | 3:09 | 2025-12-04 |  |
 | [Trelane Mas](https://open.spotify.com/track/5CnaKQEtOPnY8jf1npotRQ) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Trelane Mas](https://open.spotify.com/album/5q5Yc64p2GhKiM2deSXvBi) | 3:18 | 2025-06-19 |  |

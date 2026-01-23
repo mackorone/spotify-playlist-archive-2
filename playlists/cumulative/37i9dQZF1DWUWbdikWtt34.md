@@ -4,7 +4,7 @@
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Maulana Ardiansyah
 
-290 songs - 23 hr 6 min
+292 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ada Rindu](https://open.spotify.com/track/4lTELaWuppMIZVkwp9Wg2S) | [OM Adella](https://open.spotify.com/artist/4AyqsAJtq9WJR8J1v1eZWg), [Difarina Indra](https://open.spotify.com/artist/5XIRSzjzxVZRrUnOYd8L4V) | [Ada Rindu](https://open.spotify.com/album/3ejVb2oUzdJiGRjMqaA2Zj) | 5:24 | 2024-10-04 |  |
 | [Ada Yang Punya](https://open.spotify.com/track/3l6pWg1lq08PH5QrlviCJC) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Ada Yang Punya](https://open.spotify.com/album/1KbX92WGlqW6jqozBnC0Y3) | 4:03 | 2025-07-24 |  |
 | [Ai \- Live At Ska Reggae](https://open.spotify.com/track/4aevNieoEkoxUAAb1lGlvA) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Ai \(Live At Ska Reggae\)](https://open.spotify.com/album/0MgqwUSGW9kIctoK9w2eiX) | 3:29 | 2024-05-10 | 2024-07-19 |
+| [Aishiteru 2 \- Ska Reggae Version](https://open.spotify.com/track/7G2rRlze2uBUEs5iXcywuZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Aishiteru 2 \(Ska Reggae Version\)](https://open.spotify.com/album/50PexMJd2oUxPK3COh9oLZ) | 5:07 | 2026-01-23 |  |
 | [Akhir Cerita Cinta](https://open.spotify.com/track/6p8zr8fyGBWtRZsVp2cc4d) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Akhir Cerita Cinta](https://open.spotify.com/album/0JMTGUWGp2V5u233WV7AsT) | 6:24 | 2023-04-28 | 2023-09-15 |
 | [Aku Cah Kerjo](https://open.spotify.com/track/5lFBEfhO3S846OWXoF8kgH) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Bojoku Galak](https://open.spotify.com/album/2PF24cRBneDg0TBN2WKTh3) | 6:16 | 2021-08-23 | 2023-02-03 |
 | [Aku Tenang](https://open.spotify.com/track/75lsA8cwe9Pa7AhkFlgMMF) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Aku Tenang](https://open.spotify.com/album/1m7WB75FF5bN5IsijB996S) | 5:16 | 2021-08-23 | 2024-02-09 |
@@ -114,6 +115,7 @@
 | [Jaga Baik Baik Dirimu](https://open.spotify.com/track/20l3dN01poeIczrt01QFTY) | [Syahriyadi](https://open.spotify.com/artist/7ec9HBl5JRTo77gSz4O6gH) | [Jaga Baik Baik Dirimu](https://open.spotify.com/album/16EXJEtvb1H06mhgHx0PEj) | 4:29 | 2023-07-13 | 2023-10-06 |
 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 | 2021-08-23 | 2023-02-17 |
 | [Jangan Tanggung Tanggung \- Live Ska Reggae](https://open.spotify.com/track/0glpTL0L63qt1CrCNuyJRi) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Jangan Tanggung Tanggung \(Live Ska Reggae\)](https://open.spotify.com/album/35Ynip23CA1h0oVV7smcKR) | 6:09 | 2024-11-28 | 2025-06-27 |
+| [Jangan Tinggalkan Aku](https://open.spotify.com/track/3NUcAoCf70gCawsrp26QRg) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Jangan Tinggalkan Aku](https://open.spotify.com/album/6sAgU3iI0XWwKZlzHAeECz) | 3:20 | 2026-01-23 |  |
 | [Jatuh Bangun](https://open.spotify.com/track/5WGytp59Sk5j7Pzh3ejBjN) | [SMAN 1 Jampangkulon \(Gitsara\)](https://open.spotify.com/artist/1pS59gd0VO1Qw2NjNDYrXe) | [Jatuh Bangun](https://open.spotify.com/album/2pcm5hzGChyqTYah12auu4) | 5:22 | 2024-09-06 | 2024-09-27 |
 | [Kamar Kost Kenangan](https://open.spotify.com/track/2HKjpUsflqYo0kOxQLXKTw) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Kamar Kost Kenangan](https://open.spotify.com/album/0vjf1NPMQ4nglpqEBRr7mV) | 4:11 | 2025-07-17 |  |
 | [Kamu Istimewa](https://open.spotify.com/track/3JpeCd8KuebcR6HQa2vNZP) | [Melly Lee](https://open.spotify.com/artist/5YOtsqr05boEcIj0NpewaF) | [Kamu Istimewa](https://open.spotify.com/album/1P7MH3HaX3EesUbX8pxtk0) | 4:34 | 2025-11-06 |  |

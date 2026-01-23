@@ -4,7 +4,7 @@
 
 > Tutto è possibile è qua, Geolier in cover.
 
-570 songs - 1 day 1 hr 54 min
+571 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [JACQUEMUS BLU](https://open.spotify.com/track/4gkEnpK3NVo3mTQ2cBjgE0) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [giuzzybeatz](https://open.spotify.com/artist/1YIUIPS32PJNx62ymMfrDz) | [Jacquemus Blu](https://open.spotify.com/album/3c2pAKv5vVzHoQaNN5I9jK) | 2:44 | 2024-06-27 | 2024-11-15 |
 | [Jeep](https://open.spotify.com/track/2ZH8L9c8uH1nDV6ro7LKUP) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Jeep](https://open.spotify.com/album/5TYYBSF7XaljaxC1dpKnhO) | 1:51 | 2023-07-13 | 2023-08-11 |
 | [JET PRIVATO \(feat\. Luchè\)](https://open.spotify.com/track/3aB5SuXdCdibhAFpjqrJ0c) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [JET PRIVATO \(feat\. Luchè\)](https://open.spotify.com/album/3BqSfkcTRosNZQ4LrJHQ48) | 3:03 | 2024-10-17 | 2025-01-24 |
+| [John Dillinger \(feat\. Dipinto & Frezza\)](https://open.spotify.com/track/4GYgPGC8aGcnNRM1xSRGX1) | [DDM 80146](https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [John Dillinger \(feat\. Dipinto & Frezza\)](https://open.spotify.com/album/7ebs1vlI6Tu6LbbgevK8BR) | 3:07 | 2026-01-22 |  |
 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 | 2022-05-26 | 2023-04-07 |
 | [JUMPIN'](https://open.spotify.com/track/4TWDmtrmkcCMxL4e8CGCoV) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [JUMPIN'](https://open.spotify.com/album/3yfmPXs58bqVE1dL90uxWe) | 2:21 | 2022-12-08 | 2023-01-13 |
 | [Justin Bieber \(feat\. Side Baby\)](https://open.spotify.com/track/62Oxen6MqYesOGcIz7K5s2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [HOTEL MONTANA \(Deluxe\)](https://open.spotify.com/album/55BeUFIdOnQjBEPnrvFyDy) | 2:52 | 2024-07-04 | 2024-07-27 |

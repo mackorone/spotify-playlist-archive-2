@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 145649,
+  "num_followers": 145678,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Taste and See",
-        "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
+        "name": "10,000 Reasons Kids Worship",
+        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
       },
       "artists": [
         {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        },
-        {
-          "name": "Little Praise Party",
-          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
+          "name": "Worship Together Kids",
+          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
         }
       ],
-      "duration_ms": 174613,
-      "name": "My God Is Number One",
-      "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
+      "duration_ms": 338000,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -95,18 +91,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "10,000 Reasons Kids Worship",
-        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
+        "name": "Taste and See",
+        "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
       },
       "artists": [
         {
-          "name": "Worship Together Kids",
-          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        },
+        {
+          "name": "Little Praise Party",
+          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
         }
       ],
-      "duration_ms": 338000,
-      "name": "10,000 Reasons (Bless The Lord)",
-      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
+      "duration_ms": 174613,
+      "name": "My God Is Number One",
+      "url": "https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "100 Songs from the Bible",
-        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 134773,
-      "name": "Books of the Bible (New Testament)",
-      "url": "https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Top 25 Kids' Praise Songs 2012",
         "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 213400,
       "name": "Let It Rise",
       "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Just as I Am",
-        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
-      },
-      "artists": [
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "What a Friend We Have in Jesus",
-      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -871,6 +839,38 @@
       "duration_ms": 131633,
       "name": "Bible Verses",
       "url": "https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Just as I Am",
+        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
+      },
+      "artists": [
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "What a Friend We Have in Jesus",
+      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "100 Songs from the Bible",
+        "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 134773,
+      "name": "Books of the Bible (New Testament)",
+      "url": "https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc"
     },
     {
       "added_at": "2025-12-14 00:08:40",

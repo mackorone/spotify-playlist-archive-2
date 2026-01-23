@@ -12701,6 +12701,28 @@
     },
     {
       "album": {
+        "name": "TURNING AROUND",
+        "url": "https://open.spotify.com/album/7lHTGlnInHz6Hw0mJTqyW8"
+      },
+      "artists": [
+        {
+          "name": "Femi Ogebule",
+          "url": "https://open.spotify.com/artist/0eKCZj4LYXRaOqPyZ6aWDI"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322255,
+      "name": "TURNING AROUND",
+      "url": "https://open.spotify.com/track/6hrLilhSwvVNplz9aV6QAE"
+    },
+    {
+      "album": {
         "name": "Turning Around",
         "url": "https://open.spotify.com/album/7yCyLvm84zgKjH6Rfl8I8Z"
       },
@@ -13768,7 +13790,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 272500,
       "name": "Worship Chant",
       "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"

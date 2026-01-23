@@ -6945,6 +6945,24 @@
     },
     {
       "album": {
+        "name": "Dolomiti Soul",
+        "url": "https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232839,
+      "name": "Dolomiti Soul",
+      "url": "https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG"
+    },
+    {
+      "album": {
         "name": "Reggae Sunjam",
         "url": "https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2"
       },
@@ -30658,6 +30676,24 @@
       "duration_ms": 240000,
       "name": "Vanny",
       "url": "https://open.spotify.com/track/4YCGxrke0xWayFb87lutWo"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica incidental para teatro",
+        "url": "https://open.spotify.com/album/28CBQ2x1QyFzGixal6eWXo"
+      },
+      "artists": [
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260349,
+      "name": "Variaciones Sobre El Ana Becoaj",
+      "url": "https://open.spotify.com/track/7345YRwYg0D0hA8hohOIKD"
     },
     {
       "album": {

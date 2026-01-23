@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Dario Jacque e Lauryyn in cover della playlist dell'R&B italiano 🫀
+> Siddy in cover della playlist dell'R&B italiano 🫀
 
-966 songs - 1 day 23 hr 37 min
+970 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ali](https://open.spotify.com/track/0zoRAgfpjJJaZigyCAcuV3) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [NHP+](https://open.spotify.com/album/4b8b3XF7WiMNaUXQ8Kf5Yi) | 3:27 | 2022-10-06 | 2023-03-10 |
 | [Alice](https://open.spotify.com/track/5zQZLyhTWu7sOWni4HrFrJ) | [Alisdipity](https://open.spotify.com/artist/6X0tGU82DndjmjzFFlATCI) | [Alice](https://open.spotify.com/album/5yBXRbEwojENjfqDonTFGK) | 3:46 | 2022-06-16 | 2022-07-29 |
 | [All You Can Eat](https://open.spotify.com/track/1JISjw9u6PFosBSdiwiiXo) | [4Calamano](https://open.spotify.com/artist/3MpK9E2ckddVDhX0f5ZKxY) | [All You Can Eat](https://open.spotify.com/album/0tMSQLYbAKneNcsE7TjObp) | 3:17 | 2025-01-16 | 2025-05-23 |
+| [All You Can Eat](https://open.spotify.com/track/7IBgMAE48sydRRyyqpQDS6) | [Angel Names](https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1) | [All You Can Eat](https://open.spotify.com/album/3UK4WUexTpAxyG7wpFakwS) | 3:33 | 2026-01-22 |  |
 | [Alla Follia](https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Alla Follia](https://open.spotify.com/album/14po1TeMD3PoErpWdl5Jcj) | 3:09 | 2022-12-01 | 2023-02-03 |
 | [alta marea](https://open.spotify.com/track/2s2l1nnWgeDFGoBU2jYVIO) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [alta marea](https://open.spotify.com/album/5UQJsVIVesdaly18hPgz3D) | 2:54 | 2025-10-09 | 2025-11-14 |
 | [Alter Ego](https://open.spotify.com/track/7HiVEN2qbdkAJI9cM3c6MR) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Aritmia](https://open.spotify.com/album/64OFnYN9MqorVX2fpHQpTN) | 3:39 | 2025-05-22 |  |
@@ -455,6 +456,7 @@
 | [Last Night](https://open.spotify.com/track/4ZedKxVWDVsKwp6cEMxsh8) | [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw) | [Last Night](https://open.spotify.com/album/34AA6adf7MYb5Jnp6PeNWo) | 3:30 | 2025-06-26 | 2025-10-03 |
 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-06-27 | 2025-04-18 |
 | [le risposte che mi dai](https://open.spotify.com/track/5BBl0bzp73sCTHOEN4yYRl) | [Micol Criss](https://open.spotify.com/artist/0njvhsjBGa2ZnFzE5ydlYB), [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [le risposte che mi dai](https://open.spotify.com/album/6nhRu60ugRbVXffZnCTdzN) | 2:46 | 2024-01-25 | 2024-04-16 |
+| [LE STORIE DEGLI ALTRI](https://open.spotify.com/track/77JflGtg6RqMX54rXZiEX5) | [Kandischi](https://open.spotify.com/artist/19OV4FdebODC4oWgHUW8BO) | [LE STORIE DEGLI ALTRI](https://open.spotify.com/album/1Nj0Kx7ikDq7zc42VdVz82) | 3:11 | 2026-01-22 |  |
 | [LEGAMI](https://open.spotify.com/track/6gcyCL36qTfCo3bsqDRtvf) | [COBALTO](https://open.spotify.com/artist/61X1lMtIfYeX91D3s8ouov), [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M) | [LEGAMI](https://open.spotify.com/album/0Ezh3mPa9ZzDGpNAM2mdGG) | 2:29 | 2024-04-04 | 2024-04-16 |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-05-05 | 2024-01-05 |
 | [Lentamente](https://open.spotify.com/track/0GQy6gngMYEX1WADbJ9u6J) | [CousCous a colazione](https://open.spotify.com/artist/7MYQXldcidrhmg0Uw0PQBZ) | [Alma](https://open.spotify.com/album/3D447qEo17TYXOscz5PYGN) | 2:44 | 2026-01-08 |  |
@@ -501,6 +503,7 @@
 | [Ma non adesso](https://open.spotify.com/track/7LVIJLuM7agM4C32LivEYX) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Ma non adesso](https://open.spotify.com/album/5c5y9fkL7WNktLPPQLvQ8k) | 2:59 | 2023-10-26 | 2024-02-02 |
 | [MA' \(feat\. Tormento\)](https://open.spotify.com/track/6v73Nrui5JfgAVGlis1pct) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [MA' \(feat\. Tormento\)](https://open.spotify.com/album/5dcpfTZ1NHNrj3A7F5i32K) | 2:53 | 2023-12-14 | 2024-02-02 |
 | [macchina da corsa](https://open.spotify.com/track/5LAsCISaBOOS60uNlVvdUI) | [gnvra](https://open.spotify.com/artist/0HdDGvPohyWskzqRBOWU4S) | [macchina da corsa](https://open.spotify.com/album/1WgOQY2LAfMnOrQRgpRQix) | 2:19 | 2025-07-03 | 2025-09-19 |
+| [magari quando nevica](https://open.spotify.com/track/1zybqxhlEeE9zr4brg31sy) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [IL BELLO E IL CATTIVO TEMPO](https://open.spotify.com/album/0owK9lmz98Xgi0GXj5ZO5K) | 2:37 | 2026-01-22 |  |
 | [Mai](https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Mai](https://open.spotify.com/album/15yYnAkNRCm31esmGNf6ew) | 2:36 | 2023-06-08 | 2024-05-10 |
 | [MaiMai](https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MaiMai](https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7) | 2:38 | 2023-06-01 | 2023-07-14 |
 | [Mal di testa](https://open.spotify.com/track/3CXbnnGSNSBZ4cBhHdnVc5) | [Sofia](https://open.spotify.com/artist/4T5t1RTDYfbyshE3hGlb4D) | [Mal di testa](https://open.spotify.com/album/3UhrMNEvpct8rQ3CHbQae1) | 2:54 | 2025-09-18 | 2025-11-14 |
@@ -832,6 +835,7 @@
 | [Sparami \(feat\. Inoki\)](https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Sparami \(feat\. Inoki\)](https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ) | 3:13 | 2022-05-05 | 2023-07-07 |
 | [Sparring Partner](https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Sparring Partner](https://open.spotify.com/album/6zB8hy11G0P75DYhXPTrir) | 3:04 | 2022-05-19 | 2023-06-09 |
 | [Specchi](https://open.spotify.com/track/5M4zuk2CV31ataWytyHyul) | [Foudre](https://open.spotify.com/artist/5kx2DaxI4fGesXqK8kcKZI), [Paco6x](https://open.spotify.com/artist/07XOQTC2IEP8nI0NPvmjtK) | [Specchi](https://open.spotify.com/album/7bnDMHPpd8DrNDjlSsJC5j) | 2:22 | 2023-06-22 | 2023-07-21 |
+| [Specchio](https://open.spotify.com/track/6wbYbRt4K5C37RN8na3Lq6) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Luntano](https://open.spotify.com/album/0MzERUt2a3DyHOsy0z3bsY) | 2:12 | 2026-01-22 |  |
 | [Specchio](https://open.spotify.com/track/3WmVyDDXpxFFR0fEIGTjZg) | [Taoma](https://open.spotify.com/artist/0aLwoMVln0XlsVY3A2UI04) | [Specchio](https://open.spotify.com/album/609VpTgRMxIjizyhuYeipg) | 3:36 | 2023-11-23 | 2024-01-05 |
 | [Specchio \(ultimo quarto di luna\)](https://open.spotify.com/track/2mJx6pmaeHlAAyF3pzOmFK) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Specchio \(ultimo quarto di luna\)](https://open.spotify.com/album/0OCOa40pTG9j1tW6ZIf58O) | 2:45 | 2025-12-18 |  |
 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [Tokyo](https://open.spotify.com/artist/2e7A8E2x4SssvoClbchX0Q), [ORLVNDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 | 2023-06-01 | 2024-03-22 |

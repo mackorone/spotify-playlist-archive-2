@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-5,659 songs - 12 day 10 hr 30 min
+5,661 songs - 12 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2660,6 +2660,7 @@
 | [Kelly Row](https://open.spotify.com/track/38ngA9UTYDCQgCoXhWmoQA) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Kirky](https://open.spotify.com/artist/2fzNiCEzgdhft2I2PiaB8h) | [Kelly Row](https://open.spotify.com/album/0gLJY5nPNRVHaVx7M2eqDV) | 2:52 | 2025-07-11 | 2025-09-06 |
 | [Kengele](https://open.spotify.com/track/4MMhyuw288vZRSobNhAvvE) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Kengele](https://open.spotify.com/album/2VbK3eBGxKKjZRlRkYBSaU) | 2:39 | 2021-12-11 | 2022-01-21 |
 | [ketchup](https://open.spotify.com/track/0AJzOQAckxk4RmXvvIv0Sb) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [ketchup](https://open.spotify.com/album/4da6m5vSRwQYAwPyAbvmGL) | 3:28 | 2025-02-14 | 2025-03-15 |
+| [Kettle Song \(Yama Yama\)](https://open.spotify.com/track/1FUvwYxYuZBbo51xGeGRjd) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Waiting for You](https://open.spotify.com/album/3roYW2wFjeqPjRWp9HTho9) | 2:36 | 2026-01-22 |  |
 | [KG](https://open.spotify.com/track/2QEbCXh48doiyaOxgbEpmf) | [GOULAG](https://open.spotify.com/artist/0J0DL0a9oP16Eu4AhEEsim), [Def Prod](https://open.spotify.com/artist/2FJVZCC5iWc2VkCewYilOI) | [KG](https://open.spotify.com/album/6L7Zs4d6S0iERIQbhbGsWR) | 2:32 | 2023-05-19 | 2023-06-10 |
 | [Khala Ngani](https://open.spotify.com/track/0k9w95YMnVRkcqV85NkXwN) | [NaCo](https://open.spotify.com/artist/7nigJqtAVhlLKcR8qhLxkv), [KNOWLEY\-D](https://open.spotify.com/artist/4tY3pt1z6b3I5pdcROYVEV), [Mpoet](https://open.spotify.com/artist/0fLNw74QyoLO3hCBfhgNGU), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Khala Ngani](https://open.spotify.com/album/6G1TvHXGFxTzsHSWIXPfS1) | 7:01 | 2024-08-02 | 2024-08-31 |
 | [KIAEESHA](https://open.spotify.com/track/78HHK0cJZIZQZVcXUmYcIR) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [KIAEESHA](https://open.spotify.com/album/2ylboHl2iEffXfO0cAHEHy) | 3:26 | 2025-03-28 | 2025-05-03 |
@@ -5532,6 +5533,7 @@
 | [With The 4's](https://open.spotify.com/track/6TJFCmrgQ2xS9L4bZoKQRW) | [Skengdo](https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg), [AM](https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm), [D Proffit](https://open.spotify.com/artist/1yPUttnkZ82L1DQ6dHlk5o) | [With The 4's](https://open.spotify.com/album/3ihlBwNJysu9P4eRWUKx0T) | 2:42 | 2025-01-24 | 2025-03-01 |
 | [Without a Warning](https://open.spotify.com/track/4dnsh7qQVvxoB9HoBQfBlG) | [Nic Billington](https://open.spotify.com/artist/0upmBN9fllZJBgez7wmCtb) | [Without a Warning](https://open.spotify.com/album/7gncX7EoX2UmAwC0yQ729U) | 2:52 | 2021-06-05 | 2021-06-26 |
 | [Woh Ladka](https://open.spotify.com/track/4d6JwfhVEVxF9HvVhjG9yc) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Woh Ladka](https://open.spotify.com/album/48pPTKLp4pgpTY7foQkfk9) | 2:05 | 2025-03-21 | 2025-04-19 |
+| [woke up new](https://open.spotify.com/track/5zoe1kIG0AjpMUVw0roGk9) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [woke up new](https://open.spotify.com/album/2EfmBblF8vMoMKZevCkDMT) | 2:51 | 2026-01-22 |  |
 | [Wolf Tickets Feat\. Terminal Sleep](https://open.spotify.com/track/3HHLEgP5IoUtPa8ZTkysEL) | [Fever Shack](https://open.spotify.com/artist/7bi8Q4lCnTM9nWlnjQICaD), [Terminal Sleep](https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN) | [Wolf Tickets Feat\. Terminal Sleep](https://open.spotify.com/album/4m5SMZGJxFpBldpwTOh9Vq) | 2:42 | 2024-10-25 | 2024-11-16 |
 | [Woman](https://open.spotify.com/track/2do7EZWlFSIPX0ejHMU0f6) | [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [Woman](https://open.spotify.com/album/3hLgb2H4ygTRh4dA50xQwr) | 3:21 | 2024-05-10 | 2024-05-25 |
 | [Woman I Am](https://open.spotify.com/track/3frIwY5X2XXjgTGAYgWaiJ) | [Libby Steel](https://open.spotify.com/artist/7rzGDjPsqbIPuMfoo5cBrS) | [Woman I Am](https://open.spotify.com/album/5nyzpX2jScNuzXKbJsgcNm) | 3:16 | 2022-07-29 | 2022-08-27 |

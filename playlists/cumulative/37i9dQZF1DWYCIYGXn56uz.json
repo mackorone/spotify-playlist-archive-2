@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: eroCaddeo",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: 22simba e Rkomi",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 181301,
       "name": "100 Sigarette",
       "url": "https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM"
+    },
+    {
+      "album": {
+        "name": "16 ANNI",
+        "url": "https://open.spotify.com/album/5FrL7UoJGs5hHKLKE3BSze"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "16 ANNI",
+      "url": "https://open.spotify.com/track/1Wenaz8dPS0oMEkkCOXCFS"
     },
     {
       "album": {
@@ -908,6 +926,24 @@
       "duration_ms": 145625,
       "name": "Am\u00e9lie",
       "url": "https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS"
+    },
+    {
+      "album": {
+        "name": "Anche a vent\u2019anni si muore",
+        "url": "https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Anche a vent\u2019anni si muore",
+      "url": "https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1"
     },
     {
       "album": {
@@ -4104,7 +4140,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148000,
       "name": "CUPIDO",
       "url": "https://open.spotify.com/track/6Q6FcQxKhsSUNwAPjaaycD"
@@ -4368,7 +4404,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192000,
       "name": "Dentro Lo Store (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/3UsRu2Mcr28wcHrsHypBWM"
@@ -4745,6 +4781,28 @@
     },
     {
       "album": {
+        "name": "DOLCE VERIT\u00c0",
+        "url": "https://open.spotify.com/album/7AYGP0foEBuG6qgvP98ItX"
+      },
+      "artists": [
+        {
+          "name": "Spampy",
+          "url": "https://open.spotify.com/artist/3OrFZXaCLSMFGIoYvTHQOL"
+        },
+        {
+          "name": "Sofia Zone",
+          "url": "https://open.spotify.com/artist/2hYywLx4oC9MRNAaelcaQM"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160908,
+      "name": "DOLCE VERIT\u00c0",
+      "url": "https://open.spotify.com/track/6l89I4DfjXTj3JKBPbbqbe"
+    },
+    {
+      "album": {
         "name": "dolcedolcemente",
         "url": "https://open.spotify.com/album/64INTSUD6AbrOQRy9f47P5"
       },
@@ -4995,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Duemila Volte",
+        "url": "https://open.spotify.com/album/0m6nCoxYMijyNHejdnFCYF"
+      },
+      "artists": [
+        {
+          "name": "PATRIK",
+          "url": "https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150274,
+      "name": "Duemila Volte",
+      "url": "https://open.spotify.com/track/4PGZ6lRx8dFhaJdPdeS5rh"
+    },
+    {
+      "album": {
         "name": "D\u00c9SOL\u00c9E",
         "url": "https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi"
       },
@@ -5166,7 +5242,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 140281,
       "name": "Eii",
       "url": "https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken"
@@ -6353,6 +6429,28 @@
     },
     {
       "album": {
+        "name": "La Cura, in nome di Miria",
+        "url": "https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201182,
+      "name": "Girasole (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
+    },
+    {
+      "album": {
         "name": "Giugno",
         "url": "https://open.spotify.com/album/4k0QU4YrOmHl1kfBqfD3wH"
       },
@@ -7290,6 +7388,24 @@
       "duration_ms": 155866,
       "name": "IL PASSO",
       "url": "https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m"
+    },
+    {
+      "album": {
+        "name": "il ponte dell'arcobaleno",
+        "url": "https://open.spotify.com/album/5rLnO7NXQqTBueE4QrZzfc"
+      },
+      "artists": [
+        {
+          "name": "GionnyScandal",
+          "url": "https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175572,
+      "name": "il ponte dell'arcobaleno",
+      "url": "https://open.spotify.com/track/2tHizGPJG1anePrnrby0qB"
     },
     {
       "album": {
@@ -8427,6 +8543,28 @@
     },
     {
       "album": {
+        "name": "Re lucertola tiranna",
+        "url": "https://open.spotify.com/album/6jr88gNttvHXfJdHpTDqfr"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "LIBERT\u00c0",
+      "url": "https://open.spotify.com/track/5FYBw3MoIwlTlsMKDO9Rve"
+    },
+    {
+      "album": {
         "name": "LINGERIE",
         "url": "https://open.spotify.com/album/18XkozvJyk6ZvqiECks6G0"
       },
@@ -8862,7 +9000,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 152752,
       "name": "MADAME LABELLE (feat. Ascanio)",
       "url": "https://open.spotify.com/track/3ilAKwvylFO5zwqiBuEUtX"
@@ -10912,7 +11050,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 159100,
       "name": "Non sono un mostro",
       "url": "https://open.spotify.com/track/2hW2Vj3q1zY4jxFWL4iIb6"
@@ -11468,7 +11606,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 146086,
       "name": "ocean drive (con Tormento, Jasley)",
       "url": "https://open.spotify.com/track/41Rk7FwNXS0WlAgnm7Ebxz"
@@ -11943,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "Parcheggio a ore",
+        "url": "https://open.spotify.com/album/0UOu5Bp9LL93TvfDYUEnys"
+      },
+      "artists": [
+        {
+          "name": "Trigno",
+          "url": "https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203114,
+      "name": "Parcheggio a ore",
+      "url": "https://open.spotify.com/track/5KmTqT6ge16FNylMiKzNXK"
+    },
+    {
+      "album": {
         "name": "Pari o Dispari",
         "url": "https://open.spotify.com/album/10Kjjz2O6Nzj5ciQ9KylKN"
       },
@@ -12042,6 +12198,24 @@
       "duration_ms": 202193,
       "name": "Part Of Me (with Matteo Romano)",
       "url": "https://open.spotify.com/track/0yz540gbpL0uOrKGGzQlrZ"
+    },
+    {
+      "album": {
+        "name": "PARTE DI ME",
+        "url": "https://open.spotify.com/album/7i78QqkMNNfT2t58UkD8HH"
+      },
+      "artists": [
+        {
+          "name": "GUSA",
+          "url": "https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167978,
+      "name": "PARTE DI ME",
+      "url": "https://open.spotify.com/track/4xTZ1gUtrhW8CEau53MMoL"
     },
     {
       "album": {
@@ -12329,6 +12503,28 @@
     },
     {
       "album": {
+        "name": "PERDONAMI (feat. Mim\u00ec)",
+        "url": "https://open.spotify.com/album/6zAGkYS3Gu0GjdqmRoA3uM"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        },
+        {
+          "name": "Mim\u00ec",
+          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189679,
+      "name": "PERDONAMI (feat. Mim\u00ec)",
+      "url": "https://open.spotify.com/track/0XcjiGgeFhOwH1F5ObwQAD"
+    },
+    {
+      "album": {
         "name": "PERDONIAMOCI LO STESSO",
         "url": "https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08"
       },
@@ -12604,7 +12800,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 112173,
       "name": "pienoinverno",
       "url": "https://open.spotify.com/track/0zICsLsnwk8WiIdWxTq29x"
@@ -13788,7 +13984,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 171034,
       "name": "RICORDO DI ME",
       "url": "https://open.spotify.com/track/644i6Ea82ZCcYJTUSt18AP"
@@ -14985,6 +15181,24 @@
     },
     {
       "album": {
+        "name": "Sognatori",
+        "url": "https://open.spotify.com/album/5AJNpRTLeeSYXw9WPC1c6q"
+      },
+      "artists": [
+        {
+          "name": "Briga",
+          "url": "https://open.spotify.com/artist/4FTMyLkoEE9oEUpCv3Dr4p"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Sognatori",
+      "url": "https://open.spotify.com/track/07F68NoJOoqP18T56L8LsK"
+    },
+    {
+      "album": {
         "name": "equilibrio (deluxe)",
         "url": "https://open.spotify.com/album/3ZNhQlkrhbw7aHLp9qA0pV"
       },
@@ -15139,6 +15353,28 @@
     },
     {
       "album": {
+        "name": "SOLE NERO",
+        "url": "https://open.spotify.com/album/2PrNcMotYDuwQNezEndee9"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "SOLE NERO",
+      "url": "https://open.spotify.com/track/0G1NSUjo8yDcHSzh1vyPIG"
+    },
+    {
+      "album": {
         "name": "SOLO GUAI",
         "url": "https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY"
       },
@@ -15186,7 +15422,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161979,
       "name": "Solo tu",
       "url": "https://open.spotify.com/track/5zSrFCj8rSimcPwdtqNg28"
@@ -16916,7 +17152,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 170237,
       "name": "Un Giorno D'infanzia",
       "url": "https://open.spotify.com/track/1mcyMFCT86cJDf3e3ny3t6"
@@ -18202,6 +18438,24 @@
       "duration_ms": 165194,
       "name": "zenit",
       "url": "https://open.spotify.com/track/0Xj196mmvLILopHMSN20S1"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/7aImQtFJjjWSO8kh9Vk15C"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1VuQnyUvKCe7ydmdBP8mxW"
     },
     {
       "album": {

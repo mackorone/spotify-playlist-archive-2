@@ -1,12 +1,12 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 2447,
+  "num_followers": 2490,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/eOxRa5MfcX1I4/J2p5aT0PO/9",
+  "snapshot_id": "AAAAABX6e0ZR/qubZ/MC3TYdYQrRoqL6",
   "tracks": [
     {
       "added_at": "2026-01-14 06:51:19",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-01-14 06:51:19",
       "album": {
+        "name": "\u7de9\u308a\u3089\u3089",
+        "url": "https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv"
+      },
+      "artists": [
+        {
+          "name": "\u7b20\u539f\u7460\u6597",
+          "url": "https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr"
+        }
+      ],
+      "duration_ms": 240506,
+      "name": "\u7de9\u308a\u3089\u3089",
+      "url": "https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73"
+    },
+    {
+      "added_at": "2026-01-14 06:51:19",
+      "album": {
         "name": "FAKE feat\uff0e \u5b89\u5ba4\u5948\u7f8e\u6075",
         "url": "https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 255773,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL"
-    },
-    {
-      "added_at": "2026-01-14 06:51:19",
-      "album": {
-        "name": "\u7de9\u308a\u3089\u3089",
-        "url": "https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv"
-      },
-      "artists": [
-        {
-          "name": "\u7b20\u539f\u7460\u6597",
-          "url": "https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr"
-        }
-      ],
-      "duration_ms": 240506,
-      "name": "\u7de9\u308a\u3089\u3089",
-      "url": "https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73"
     },
     {
       "added_at": "2026-01-14 06:51:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-01-14 06:51:19",
       "album": {
-        "name": "Slow brew morning",
-        "url": "https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
-          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Slow brew morning",
-      "url": "https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb"
-    },
-    {
-      "added_at": "2026-01-14 06:51:19",
-      "album": {
         "name": "Chosen One",
         "url": "https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 151891,
       "name": "Chosen One",
       "url": "https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB"
+    },
+    {
+      "added_at": "2026-01-14 06:51:19",
+      "album": {
+        "name": "Slow brew morning",
+        "url": "https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Slow brew morning",
+      "url": "https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb"
     },
     {
       "added_at": "2026-01-14 06:51:19",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi x Nono La Grinta",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 158253,
       "name": "Al\u00e9atoire",
       "url": "https://open.spotify.com/track/3bJMgoBmqRGFr8LCUqtBBz"
@@ -1546,6 +1546,24 @@
       "duration_ms": 223073,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+    },
+    {
+      "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/6LGwndM2PTIdnBv1Z5u6Pc"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250280,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/2cjFC5JLBSwAx5iHiJ71HI"
     },
     {
       "album": {
@@ -3272,6 +3290,28 @@
     {
       "album": {
         "name": "Elle veut",
+        "url": "https://open.spotify.com/album/2ROX9u2tbFJj1CPp9oSh30"
+      },
+      "artists": [
+        {
+          "name": "Melvin Coser",
+          "url": "https://open.spotify.com/artist/4LKQaEZjxdgN1r1W8q6t01"
+        },
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160109,
+      "name": "Elle veut",
+      "url": "https://open.spotify.com/track/482WP6RcNool7kwN1RT7lD"
+    },
+    {
+      "album": {
+        "name": "Elle veut",
         "url": "https://open.spotify.com/album/6TQcNoAiXIBJBjVqSpT0Fn"
       },
       "artists": [
@@ -4590,7 +4630,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150019,
       "name": "intemporel",
       "url": "https://open.spotify.com/track/4e5KAgdRth25lpdaScjP66"
@@ -7364,7 +7404,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 214895,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/3vYKnqj1DEt7WEBk2mPzPH"
@@ -8227,6 +8267,24 @@
     },
     {
       "album": {
+        "name": "Pas Trouv\u00e9",
+        "url": "https://open.spotify.com/album/4BWyIVXIgF3lyj9iZ2bxnK"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160094,
+      "name": "Pas Trouv\u00e9",
+      "url": "https://open.spotify.com/track/6hXM94JroC6WK9Ahcx3Ats"
+    },
+    {
+      "album": {
         "name": "Passionn\u00e9",
         "url": "https://open.spotify.com/album/5jLAtJNOtIRTOfe0DEPjyX"
       },
@@ -8682,7 +8740,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 172941,
       "name": "Priv\u00e9",
       "url": "https://open.spotify.com/track/3UnFyMSzH3wFKgMX3jskiE"
@@ -8888,6 +8946,24 @@
       "duration_ms": 242225,
       "name": "Que toi",
       "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
+    },
+    {
+      "album": {
+        "name": "Que tu m'aimes",
+        "url": "https://open.spotify.com/album/4C8EQR6Q8v21XgGhgvkn5w"
+      },
+      "artists": [
+        {
+          "name": "Eleen",
+          "url": "https://open.spotify.com/artist/6CYv60Iqe5ZLiWYtImqoHp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "Que tu m'aimes",
+      "url": "https://open.spotify.com/track/36YCjb2EaQZXidmTy5bkpI"
     },
     {
       "album": {
@@ -10105,6 +10181,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4mH41orxWy7tWPqpgyjckC"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6Yoxcu3q5HJf0Vt0cO9JZ7"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/52xFZbg2Fsvn1s6AjpJIjb"
       },
@@ -10512,7 +10606,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 168840,
       "name": "T'\u00e9tais pas l\u00e0",
       "url": "https://open.spotify.com/track/6HMCEFxtIeXUtlFVX6fzpj"
@@ -11012,7 +11106,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 176470,
       "name": "Too close (feat. Rsko)",
       "url": "https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV"
@@ -11244,6 +11338,24 @@
       "duration_ms": 127058,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2wA8FxoYNLqnxEBUDNmbsD"
+    },
+    {
+      "album": {
+        "name": "TU PLEURES",
+        "url": "https://open.spotify.com/album/2Ggol0Wj9QgF4IzUKe16nN"
+      },
+      "artists": [
+        {
+          "name": "Clara Charlotte",
+          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170802,
+      "name": "TU PLEURES",
+      "url": "https://open.spotify.com/track/1KvhshQSvAtL9YXSBcQvWQ"
     },
     {
       "album": {

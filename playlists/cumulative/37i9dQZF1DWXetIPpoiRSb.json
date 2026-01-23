@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "the pop lab \ud83e\uddea cover: tove styrke",
+  "description": "the pop lab \ud83e\uddea cover: lucky iris",
   "name": "Evolver",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 296834,
       "name": "2026",
       "url": "https://open.spotify.com/track/0H03dWs6Z1RkvDsbmmuDFl"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 146865,
       "name": "3AM in San Francisco",
       "url": "https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226606,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
@@ -3874,7 +3874,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 152571,
       "name": "Big Dog",
       "url": "https://open.spotify.com/track/5CYLZR0WUIojJmNVuBmtRY"
@@ -5279,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Bullfight",
+        "url": "https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183252,
+      "name": "Bullfight",
+      "url": "https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU"
+    },
+    {
+      "album": {
         "name": "WITH LOVE FROM EVERYWHERE",
         "url": "https://open.spotify.com/album/1MrZtNdrQwWF1nu8HdmNEA"
       },
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 201927,
       "name": "CANDY CRUSHING",
       "url": "https://open.spotify.com/track/7lRoeQiX59PnZLCWhpN4dc"
@@ -7331,6 +7349,24 @@
     },
     {
       "album": {
+        "name": "crybby blue",
+        "url": "https://open.spotify.com/album/7FoWtdR8NB2OlD0kQpTrpu"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156874,
+      "name": "crybby blue",
+      "url": "https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs"
+    },
+    {
+      "album": {
         "name": "CRYSTAL FREAK",
         "url": "https://open.spotify.com/album/32tz5D6V5PZF4EjPzeNyyw"
       },
@@ -8256,7 +8292,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 180000,
       "name": "Denim",
       "url": "https://open.spotify.com/track/5tapvgf4O107pismPRlvyl"
@@ -9338,7 +9374,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
@@ -11096,6 +11132,24 @@
       "duration_ms": 146933,
       "name": "Faking Love (feat. Saweetie)",
       "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
+    },
+    {
+      "album": {
+        "name": "fall in love with the dj",
+        "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180778,
+      "name": "fall in love with the dj",
+      "url": "https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E"
     },
     {
       "album": {
@@ -14898,7 +14952,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177034,
       "name": "HERE 4 U",
       "url": "https://open.spotify.com/track/2mDeViKKUN1JnrH4492gmw"
@@ -16086,6 +16140,24 @@
       "duration_ms": 238095,
       "name": "Hurts Like This",
       "url": "https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
       "album": {
@@ -19360,7 +19432,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 168313,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP"
@@ -19382,7 +19454,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 152812,
       "name": "Kiss - Tropkillaz Remix",
       "url": "https://open.spotify.com/track/0pCtcTgPIb3mpQIIKPcJbN"
@@ -21875,6 +21947,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "LOVESONGS",
+      "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
+    },
+    {
+      "album": {
         "name": "Low and High",
         "url": "https://open.spotify.com/album/5vslcWdBXkBIQ4CLRlA74C"
       },
@@ -22220,7 +22310,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 196285,
       "name": "magic",
       "url": "https://open.spotify.com/track/5W5PwXbMWgqoVPxZuJvYgi"
@@ -22238,7 +22328,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226080,
       "name": "Magic 8 Ball",
       "url": "https://open.spotify.com/track/05E3D2Cr17KOb62OnsZwZ9"
@@ -22260,6 +22350,24 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138897,
+      "name": "MAIN QUEST GIRL",
+      "url": "https://open.spotify.com/track/3izfXttfacD09wumtm92Bj"
     },
     {
       "album": {
@@ -23364,7 +23472,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150614,
       "name": "Miss Erotica",
       "url": "https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI"
@@ -27262,7 +27370,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189519,
       "name": "play me like a speaker",
       "url": "https://open.spotify.com/track/2Db4ymX1AivTU8lUJbT8F6"
@@ -30029,6 +30137,28 @@
     },
     {
       "album": {
+        "name": "Serious (feat. The Teenagers)",
+        "url": "https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162917,
+      "name": "Serious (feat. The Teenagers)",
+      "url": "https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT"
+    },
+    {
+      "album": {
         "name": "Set Me Free Pt.2",
         "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
       },
@@ -30604,7 +30734,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 239653,
       "name": "Silent War",
       "url": "https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok"
@@ -32206,7 +32336,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -38258,7 +38388,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 221960,
       "name": "Windows",
       "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"

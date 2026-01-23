@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICE",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -3617,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "So Blue",
+        "url": "https://open.spotify.com/album/1glJl6KpvOWoXxHoMK9QlB"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212936,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/2yWjkStHfK0BYmV1HdexvX"
+    },
+    {
+      "album": {
         "name": "so good so bad",
         "url": "https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb"
       },
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 228631,
       "name": "YOU OF THE YEAR",
       "url": "https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 204000,
       "name": "\u0e04\u0e31\u0e1a\u0e43\u0e08(\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e14\u0e49) - Only You",
       "url": "https://open.spotify.com/track/3b6Jdk5uc3jjsvPrkYaARM"
@@ -13704,7 +13722,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 153786,
       "name": "\u0e40\u0e2d\u0e32\u0e22\u0e31\u0e07\u0e44\u0e07? (Stay or Leave)",
       "url": "https://open.spotify.com/track/6wEVZBCQNPgfXl6k9x6wYg"
@@ -14339,6 +14357,28 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e2a\u0e19\u0e27\u0e34\u0e40\u0e28\u0e29 (Gifted) (feat. BLVCKHEART)",
+        "url": "https://open.spotify.com/album/3b6QBlJNSCAf3MR5jEX9Wj"
+      },
+      "artists": [
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226411,
+      "name": "\u0e41\u0e2a\u0e19\u0e27\u0e34\u0e40\u0e28\u0e29 (Gifted) (feat. BLVCKHEART)",
+      "url": "https://open.spotify.com/track/3Xm4DmLWJ2M8btMdcW1mIJ"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e2a\u0e23\u0e49\u0e07 (ALL FAKE)",
         "url": "https://open.spotify.com/album/6Oky5zfZ5VnsxDr1r7M2A8"
       },
@@ -14570,6 +14610,24 @@
       "duration_ms": 161076,
       "name": "\u0e43\u0e04\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u2026 (Millions People)",
       "url": "https://open.spotify.com/track/1SA1i9nvKnHPnXLAypWn0P"
+    },
+    {
+      "album": {
+        "name": "Grow With The Flow",
+        "url": "https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258643,
+      "name": "\u0e43\u0e04\u0e23\u0e08\u0e30\u0e23\u0e39\u0e49 (Silent Blue)",
+      "url": "https://open.spotify.com/track/30rV6UdNAKRLu6he7Qw7oS"
     },
     {
       "album": {
@@ -15087,6 +15145,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e35\u0e1a\u0e07\u0e31\u0e1a\u0e1b\u0e4b\u0e21 (Don't Rush!)",
+        "url": "https://open.spotify.com/album/5tajIbSBc7ZxjWw4TXQAwT"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e35\u0e1a\u0e07\u0e31\u0e1a\u0e1b\u0e4b\u0e21 (Don't Rush!)",
+      "url": "https://open.spotify.com/track/6V5mI4Ey65xUpPR7iJi0zn"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
         "url": "https://open.spotify.com/album/6nOlq9tM6xoeF3iHi9KO3H"
       },
@@ -15210,7 +15286,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 254482,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e31\u0e19\u0e2a\u0e31\u0e01\u0e2b\u0e19\u0e48\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/4ZiiWvC2gZdWCFfE5q2Keb"

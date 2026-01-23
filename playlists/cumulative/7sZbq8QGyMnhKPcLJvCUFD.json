@@ -7929,6 +7929,36 @@
     },
     {
       "album": {
+        "name": "ISORIA",
+        "url": "https://open.spotify.com/album/2ZcLKXUyxEJugsJFhiLoR0"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        },
+        {
+          "name": "kellapsage",
+          "url": "https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4"
+        },
+        {
+          "name": "glossier",
+          "url": "https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145090,
+      "name": "ISORIA",
+      "url": "https://open.spotify.com/track/20FC2sm506KUAmJaDOLLQw"
+    },
+    {
+      "album": {
         "name": "ITTY BITTY",
         "url": "https://open.spotify.com/album/13wVrN3VAiCg96SdahR25m"
       },

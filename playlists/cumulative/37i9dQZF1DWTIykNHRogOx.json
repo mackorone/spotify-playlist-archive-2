@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Coline Rio",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Laelou",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 231080,
       "name": "15 octobre",
       "url": "https://open.spotify.com/track/0cCYUTsihAYCk7SnD4XPea"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 169247,
       "name": "Haut les coeurs",
       "url": "https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 245739,
       "name": "L'homme \u00e0 la rivi\u00e8re",
       "url": "https://open.spotify.com/track/6QuZZAr8mMz9JDTm4rSRtd"
@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Les gens",
+        "url": "https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX"
+      },
+      "artists": [
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202292,
+      "name": "Les gens",
+      "url": "https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk"
+    },
+    {
+      "album": {
         "name": "les mots que j'aime",
         "url": "https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt"
       },
@@ -3340,6 +3358,24 @@
       "duration_ms": 172200,
       "name": "mes nuits \u00e0 toi",
       "url": "https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5"
+    },
+    {
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148834,
+      "name": "mieux",
+      "url": "https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK"
     },
     {
       "album": {
@@ -4227,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Le Disque Bleu",
+        "url": "https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "Soleil profond",
+      "url": "https://open.spotify.com/track/29kFcRcb57sJwNSpFs9HaL"
+    },
+    {
+      "album": {
         "name": "Les histoires tristes me collent au corps",
         "url": "https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe"
       },
@@ -4617,6 +4671,28 @@
     },
     {
       "album": {
+        "name": "Une minute encore",
+        "url": "https://open.spotify.com/album/5nvDbyAcX6x095hsA1fnOO"
+      },
+      "artists": [
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "Une minute encore",
+      "url": "https://open.spotify.com/track/1LpfdLXt8RjQKbjigw4mcx"
+    },
+    {
+      "album": {
         "name": "vestiaire",
         "url": "https://open.spotify.com/album/26Slz1vGSAqtp6eW2z2Lzp"
       },
@@ -4718,7 +4794,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 258013,
       "name": "\u00c0 cause ou gr\u00e2ce",
       "url": "https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG"

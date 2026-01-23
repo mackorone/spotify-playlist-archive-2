@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Haywood
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 93,434 likes - 100 songs - 5 hr 32 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 93,426 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

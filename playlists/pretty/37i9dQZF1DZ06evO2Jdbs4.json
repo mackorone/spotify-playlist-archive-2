@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31089,
+  "num_followers": 31092,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAAAJmawVngX3bMUaNGBCQ2L+",
+  "snapshot_id": "aXAXAAAAAAApKSHi7Ux7jCw9w+5fo4GW",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
         "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218886,
       "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
       "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Las Vegas",
-        "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
+        "name": "Enfermo De Amor",
+        "url": "https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 296256,
-      "name": "Intro/Se Muri\u00f3 El Amor - En Vivo",
-      "url": "https://open.spotify.com/track/6QjLsConPl64cDGHX2VRBh"
+      "duration_ms": 224173,
+      "name": "Desn\u00fadame Con La Boca",
+      "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

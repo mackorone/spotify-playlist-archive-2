@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: sh1t
 
-1,246 songs - 2 day 9 hr 35 min
+1,247 songs - 2 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1052,7 +1052,7 @@
 | [Trillion Boy](https://open.spotify.com/track/671NxL27d70z6Swh7W8Lno) | [REMY FOOL](https://open.spotify.com/artist/3lybRQKh1SjLKKG93F2Dq4) | [Trillion Boy](https://open.spotify.com/album/1ifh3vrjb0WEvesYkXg4j9) | 2:44 | 2025-07-29 | 2025-11-05 |
 | [Truth \(feat\. Loar\)](https://open.spotify.com/track/0o70bkIdZmJk2813jBwjnR) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Loar](https://open.spotify.com/artist/1x75eUguNz9MqxUp03iiPj) | [Truth \(feat\. Loar\)](https://open.spotify.com/album/36if7c33UgXJean7HyoEy1) | 3:25 | 2025-02-11 | 2025-02-26 |
 | [Try & Error](https://open.spotify.com/track/6vqHiscoH7PWnXvzFt2mxu) | [DJ SID](https://open.spotify.com/artist/4bGwpSOihSRnkKcZYyPSM5), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [Try & Error](https://open.spotify.com/album/6kouP6OtkeyHwuxkFWrDtB) | 2:46 | 2023-12-07 | 2024-01-24 |
-| [TSUKI](https://open.spotify.com/track/3OLdnkCLQB6WftuS9XyPSV) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq) | [UNVEIL](https://open.spotify.com/album/3yEgaoes6pOEcD6FA2wCnf) | 3:28 | 2025-09-30 |  |
+| [TSUKI](https://open.spotify.com/track/3OLdnkCLQB6WftuS9XyPSV) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq) | [UNVEIL](https://open.spotify.com/album/3yEgaoes6pOEcD6FA2wCnf) | 3:28 | 2025-09-30 | 2026-01-23 |
 | [Tsukutte tsukatte](https://open.spotify.com/track/0N0X18UMqEvueGaLTZ6QQt) | [BAD B](https://open.spotify.com/artist/07uvj3Ij0D7YyEzPalaOgZ) | [Tsukutte tsukatte](https://open.spotify.com/album/515qhlOOi9oPubU2iHWUFj) | 2:46 | 2023-12-07 | 2024-01-12 |
 | [Turnover](https://open.spotify.com/track/4hVFzFdLzZDVFINopJolmB) | [Doppelgänger](https://open.spotify.com/artist/2wIH5XiFjOPE5hxUU3609e) | [繋](https://open.spotify.com/album/1h1HzRtSVWBQ0vDCnKPwlr) | 2:55 | 2025-03-04 | 2025-04-09 |
 | [Tutankhamen](https://open.spotify.com/track/2SjkKZQ9xTUEwPAB7HoHmV) | [ethos](https://open.spotify.com/artist/4ZH9otdj5ekkVARSiDxoCV), [RUR01](https://open.spotify.com/artist/3Ehl2H3JOaz77OYQbbCXya), [NEOM](https://open.spotify.com/artist/4Dlckoy0KkvSo0x33O4Dlv) | [Tutankhamen](https://open.spotify.com/album/6HHAvNNATLyScfQ6MXeEU0) | 3:27 | 2024-05-28 | 2024-07-03 |
@@ -1163,6 +1163,7 @@
 | [いい感じ](https://open.spotify.com/track/3q2z6sxUzmk6UA5IzA9uOu) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [いい感じ](https://open.spotify.com/album/3M17P8h56sgp6Y3UUklYqd) | 2:41 | 2024-05-12 | 2024-07-17 |
 | [いごーよ](https://open.spotify.com/track/0mT1r5bewOTt8c2mvPjCHb) | [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb) | [LOVE HOOD SOMA](https://open.spotify.com/album/5GxmZu2RlwuH9sVr584TCm) | 2:09 | 2024-08-07 | 2024-09-25 |
 | [おしゃれ](https://open.spotify.com/track/2FfqCOkyJ4RO2d6YyGQSqq) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [MADE MA WHOLE HOOD SWAGED UP](https://open.spotify.com/album/4vqg35uTJkvuPGNaYHxx2Z) | 3:39 | 2025-03-18 | 2025-07-30 |
+| [おしゃれ \(feat\. MIKADO\)](https://open.spotify.com/track/5VPFoBO0pViHp1AkYhoVMy) | [six](https://open.spotify.com/artist/6sw6T0k1R1EftCvEXxi7km), [CanDy](https://open.spotify.com/artist/2AifgPuLsP9PTuXs2ffxvj), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [BROTHER2](https://open.spotify.com/album/3jZcP7v8w6Y9EK4rM06818) | 3:03 | 2026-01-22 |  |
 | [おだち](https://open.spotify.com/track/1u9MYtPBt81ZFcKApyxteF) | [XENO](https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA), [S4K.clear](https://open.spotify.com/artist/1e4sGAGa0MBi9b3UEbAPqs), [henrik](https://open.spotify.com/artist/6mDdDpQhGGcH26KydElubc) | [おだち](https://open.spotify.com/album/4tM4mq5sPPOy4k0bxRLvZE) | 4:19 | 2024-07-30 | 2024-09-25 |
 | [おっぱじめ！](https://open.spotify.com/track/3Fsob6FMxkNjupTQwA1Auo) | [Legal nerd boyz](https://open.spotify.com/artist/25ggylVPSvLtgpAZK66OVn) | [おっぱじめ！](https://open.spotify.com/album/5rs9EM6ZuzROU9NxyfRWky) | 2:50 | 2024-11-06 | 2025-02-05 |
 | [かかってこい](https://open.spotify.com/track/3hxxNZevvcy6DVYliyNgiK) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/3ARpKk257vA0zEzybcN4DB) | 2:39 | 2024-04-16 | 2024-05-15 |

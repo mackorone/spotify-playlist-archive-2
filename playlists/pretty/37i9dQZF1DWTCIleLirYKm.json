@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 205359,
+  "num_followers": 205425,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-10-08 18:07:38",
       "album": {
-        "name": "Morning Bail",
-        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
-      },
-      "artists": [
-        {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "Morning Bail",
-      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
-    },
-    {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
         "name": "Take This Job And Shove It",
         "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 157773,
       "name": "Take This Job and Shove It",
       "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW"
     },
     {
-      "added_at": "2025-10-08 18:07:38",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "I'm the Only Hell (Mama Ever Raised)",
-      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
-    },
-    {
       "added_at": "2026-01-09 05:00:37",
       "album": {
         "name": "Straw in the Wind",
@@ -951,6 +935,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2025-10-08 18:07:38",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "I'm the Only Hell (Mama Ever Raised)",
+      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -996,25 +996,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 275690,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
-        "name": "Fried Chicken & Evil Women",
-        "url": "https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "25 & Wastin' Time",
-      "url": "https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb"
+      "duration_ms": 147909,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1031,6 +1015,22 @@
       "duration_ms": 282293,
       "name": "Straw in the Wind",
       "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "Fried Chicken & Evil Women",
+        "url": "https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "25 & Wastin' Time",
+      "url": "https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb"
     },
     {
       "added_at": "2025-10-08 18:07:38",
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 147909,
-      "name": "Help Me Make It Through the Night",
-      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
+      "duration_ms": 275690,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
     },
     {
       "added_at": "2026-01-09 05:00:37",

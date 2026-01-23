@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 211687,
+  "num_followers": 211673,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -211,8 +211,8 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Ekko",
-        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
+        "name": "Sees Igjen",
+        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
       },
       "artists": [
         {
@@ -220,13 +220,17 @@
           "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         },
         {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
         }
       ],
-      "duration_ms": 156035,
-      "name": "Ekko",
-      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
+      "duration_ms": 163142,
+      "name": "Sees Igjen",
+      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -315,8 +319,8 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Sees Igjen",
-        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
+        "name": "Ekko",
+        "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
       "artists": [
         {
@@ -324,17 +328,13 @@
           "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         },
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        },
-        {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
         }
       ],
-      "duration_ms": 163142,
-      "name": "Sees Igjen",
-      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
+      "duration_ms": 156035,
+      "name": "Ekko",
+      "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Fredagsbarn",
-        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
+        "name": "Cut the shit",
+        "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Fredagsbarn",
-      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
+      "duration_ms": 153161,
+      "name": "Cut the shit",
+      "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
-        "name": "Cut the shit",
-        "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
+        "name": "Fredagsbarn",
+        "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
       },
       "artists": [
         {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 153161,
-      "name": "Cut the shit",
-      "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
+      "duration_ms": 190946,
+      "name": "Fredagsbarn",
+      "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
     },
     {
       "added_at": "2026-01-08 23:00:06",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-01-08 23:00:06",
       "album": {
+        "name": "Ps. Kanskje det g\u00e5r",
+        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Kanskje det g\u00e5r te helvete",
+      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
+    },
+    {
+      "added_at": "2026-01-08 23:00:06",
+      "album": {
         "name": "Sklir forbi",
         "url": "https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 184324,
       "name": "Sklir forbi",
       "url": "https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C"
-    },
-    {
-      "added_at": "2026-01-08 23:00:06",
-      "album": {
-        "name": "Ps. Kanskje det g\u00e5r",
-        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Kanskje det g\u00e5r te helvete",
-      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
     },
     {
       "added_at": "2026-01-08 23:00:06",

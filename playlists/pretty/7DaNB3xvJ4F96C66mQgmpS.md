@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from YoungBoy Never Broke Again, Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,742 likes - 216 songs - 11 hr 9 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,738 likes - 216 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 9 | [Harry Potter](https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harry Potter](https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO) | 5:35 |
 | 10 | [FDO](https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [FDO](https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be) | 5:19 |
 | 11 | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/14nMlxfvVkDWIN9xpUcO7m) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/album/56kJP9lfLUCpTAxcNlud28) | 2:39 |
-| 12 | [Letter To My YN](https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Letter To My YN](https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu) | 3:11 |
+| 12 | [LETTER TO MY YN](https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LETTER TO MY YN](https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu) | 3:11 |
 | 13 | [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 |
 | 14 | [Racks On Em](https://open.spotify.com/track/6pidOw0orXeClZsivWoEg9) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Racks On Em](https://open.spotify.com/album/1LTxKWRZgiwoAjtW1xUF1h) | 3:03 |
 | 15 | [Lil Baby\-Let’s do it V2\(ft\. Playboi Carti & Skooly\)](https://open.spotify.com/episode/0flwr556R7RMuOJMLEKKee) | [the goats show ](https://open.spotify.com/show/5dTGLLvVMNE3lOEPBhhHZM) | [the goats show ](https://open.spotify.com/album/5dTGLLvVMNE3lOEPBhhHZM) | 5:05 |

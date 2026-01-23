@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,601 likes - 247 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,927 likes - 247 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 246 | [Chamomile](https://open.spotify.com/track/4Nh9Vldi1F7JUdeYAfE7jl) | [Anajak](https://open.spotify.com/artist/4kmPtZBeyOUPWONvL0acI7) | [Chamomile](https://open.spotify.com/album/6prlknB8AkiETjVCKHY3Ar) | 3:26 |
 | 247 | [Purpose in Life](https://open.spotify.com/track/166eTJCM3CNu0qJUhYi5Dd) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Purpose in Life](https://open.spotify.com/album/46k364xuGzamIjH3b4BYh7) | 2:49 |
 
-Snapshot ID: `AAAAAMyb5xi80kscQ1tjRCfJhp7Secew`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

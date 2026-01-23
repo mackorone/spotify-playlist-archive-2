@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-1,164 songs - 3 day 9 hr 5 min
+1,165 songs - 3 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -987,6 +987,7 @@
 | [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 | 2025-01-30 |  |
 | [Take Me Back](https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Is this even real?](https://open.spotify.com/album/5HoqdkytdUrqRqn7sxLR25) | 3:56 | 2025-12-04 |  |
 | [Take Me To America \- Stuzzi Remix](https://open.spotify.com/track/2JAlP7vy7OoGMc6eWrXskM) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Take Me To America \(Stuzzi Remix\)](https://open.spotify.com/album/0rt5q4jo5izn8C70dLdALr) | 4:00 | 2024-05-30 | 2025-08-01 |
+| [Take My Loving](https://open.spotify.com/track/0skwsAt2nhficmOKDIcbKY) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK) | [Take My Loving](https://open.spotify.com/album/1Wfln5oGcTbq9VUazNpGSc) | 2:39 | 2026-01-22 |  |
 | [Take My Soul](https://open.spotify.com/track/6phgQswSRcZUp5vTOSGzqv) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Take My Soul](https://open.spotify.com/album/4ipFhUfKtqjGtioSnXAjaT) | 6:46 | 2025-03-27 |  |
 | [Take My Time](https://open.spotify.com/track/1AOOPFrGRGwqO1a8djtxdc) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 4:52 | 2023-08-17 | 2024-01-05 |
 | [Take My Time](https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:52 | 2023-05-11 | 2023-08-21 |

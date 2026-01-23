@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAABk0yCxRSoSHsolLnSNrcWM",
+  "snapshot_id": "aXAXAAAAAACjZJ4lTpst6YmTd76GE/yQ",
   "tracks": [
     {
       "added_at": null,
@@ -475,42 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemical Love",
-        "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
-      },
-      "artists": [
-        {
-          "name": "Poylow",
-          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 126490,
-      "name": "Chemical Love",
-      "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 230399,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
       },
@@ -531,6 +495,42 @@
       "duration_ms": 145728,
       "name": "Feels So Good (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/6oLwA7urPX5GGRXX59TYZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemical Love",
+        "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 126490,
+      "name": "Chemical Love",
+      "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What They Call Love",
         "url": "https://open.spotify.com/album/2QkCd6OsxojNwVckClVb5m"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167875,
       "name": "What They Call Love",
       "url": "https://open.spotify.com/track/28WxoTBlX3SJlbBJAnoZ8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nightales",
+        "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
+      },
+      "artists": [
+        {
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 195384,
+      "name": "Nightales",
+      "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clubland 27",
         "url": "https://open.spotify.com/album/1lpBT7xlHsaxUvVQthNDuG"
       },
@@ -867,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightales",
-        "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
-      },
-      "artists": [
-        {
-          "name": "Redfield",
-          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "Nightales",
-      "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just to Be with You",
         "url": "https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz"
       },
@@ -903,6 +903,26 @@
       "duration_ms": 209142,
       "name": "Just to Be with You",
       "url": "https://open.spotify.com/track/25AmXRjwGEHAXvETQhCIbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streets Of Gold",
+        "url": "https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo"
+      },
+      "artists": [
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 180593,
+      "name": "Streets Of Gold",
+      "url": "https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX"
     },
     {
       "added_at": null,
@@ -927,26 +947,6 @@
       "duration_ms": 149786,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/704qdWVSyxrFhoGTB0QWag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streets Of Gold",
-        "url": "https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo"
-      },
-      "artists": [
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 180593,
-      "name": "Streets Of Gold",
-      "url": "https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Dance",
-        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
       "artists": [
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Art Bastian",
-          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
         }
       ],
-      "duration_ms": 166080,
-      "name": "Can't Dance - Club Radio Edit",
-      "url": "https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe"
+      "duration_ms": 179070,
+      "name": "New Chic",
+      "url": "https://open.spotify.com/track/7b8kyPQiZeWeELLMZic9Uq"
     }
   ],
   "unique_name": "This Is Kelli-Leigh",

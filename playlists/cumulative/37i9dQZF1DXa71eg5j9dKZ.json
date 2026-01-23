@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Model Man",
+  "description": "The home for alternative electronic music. Cover: Honey Dijon",
   "name": "Altar",
   "tracks": [
     {
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 203195,
       "name": "ASCEND",
       "url": "https://open.spotify.com/track/20cOEyAbHE1aq1FUaPCs1N"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226222,
       "name": "Beto\u2019s Horns - fred remix",
       "url": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn"
@@ -3967,6 +3967,28 @@
     },
     {
       "album": {
+        "name": "Chala (My Soul Is On A Loop)",
+        "url": "https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Aster Aweke",
+          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162793,
+      "name": "Chala (My Soul Is On A Loop)",
+      "url": "https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk"
+    },
+    {
+      "album": {
         "name": "Stunt Doubles (Pt. 1)",
         "url": "https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA"
       },
@@ -4004,7 +4026,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 212000,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0GvCFasUqd63QhmvMUiWqN"
@@ -5016,7 +5038,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 253200,
       "name": "corinthia",
       "url": "https://open.spotify.com/track/1U5sIecZeRKhACJtqTf9mq"
@@ -7968,6 +7990,46 @@
       "duration_ms": 349455,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp"
+    },
+    {
+      "album": {
+        "name": "Fall In Sync",
+        "url": "https://open.spotify.com/album/5DJ3OJwGzanGw7fFifWZj9"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "shy tea",
+          "url": "https://open.spotify.com/artist/0hxiA4ubuoSCS0jLrwnlVP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Fall In Sync",
+      "url": "https://open.spotify.com/track/530gLdS9YQVP7LcRnMFQR8"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN"
     },
     {
       "album": {
@@ -11616,7 +11678,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 197999,
       "name": "I Luv U",
       "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
@@ -11670,7 +11732,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226048,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur"
@@ -15882,7 +15944,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 207906,
       "name": "MOVEMENT",
       "url": "https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t"
@@ -16950,6 +17012,28 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "album": {
+        "name": "Now That I Got You",
+        "url": "https://open.spotify.com/album/4L4FuUA8V3YEGaLB6KBIFa"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Now That I Got You",
+      "url": "https://open.spotify.com/track/4OXAFxJjeHjkg0wElaVPtT"
     },
     {
       "album": {
@@ -20507,6 +20591,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "scared",
+      "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
+    },
+    {
+      "album": {
         "name": "Guy",
         "url": "https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS"
       },
@@ -21394,6 +21500,28 @@
       "duration_ms": 222219,
       "name": "Slay The Beast",
       "url": "https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG"
+    },
+    {
+      "album": {
+        "name": "Slight Werk (Club Mix)",
+        "url": "https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Slight Werk - Club Mix",
+      "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
     },
     {
       "album": {
@@ -22418,7 +22546,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 263444,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/0qRD4K1NWx8WapgTDZvT28"
@@ -23525,6 +23653,24 @@
     },
     {
       "album": {
+        "name": "The Heart Wants a Heart",
+        "url": "https://open.spotify.com/album/5UggAj6U6qxCfwuOeYT9FI"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227541,
+      "name": "The Heart Wants a Heart",
+      "url": "https://open.spotify.com/track/1mdVXh491uJSCEQWhYJ3mV"
+    },
+    {
+      "album": {
         "name": "The Highest Level",
         "url": "https://open.spotify.com/album/7qna25Jn5ElGhZy76QCeEH"
       },
@@ -24076,6 +24222,24 @@
       "duration_ms": 155170,
       "name": "Thirst Day - Radio Edit",
       "url": "https://open.spotify.com/track/5jGLpmADscdE30FfRdvqru"
+    },
+    {
+      "album": {
+        "name": "This Is The Place",
+        "url": "https://open.spotify.com/album/3XPTdlBTpXlwP4ZdU9dgMN"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196407,
+      "name": "This Is The Place",
+      "url": "https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk"
     },
     {
       "album": {
@@ -24720,6 +24884,28 @@
       "duration_ms": 227730,
       "name": "True (feelings for you)",
       "url": "https://open.spotify.com/track/2xmFiiYZXgAJF9Eu3FOaYQ"
+    },
+    {
+      "album": {
+        "name": "True Desire",
+        "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
+      },
+      "artists": [
+        {
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155660,
+      "name": "True Desire",
+      "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
     },
     {
       "album": {
@@ -26912,7 +27098,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 202941,
       "name": "Yes, Honey?",
       "url": "https://open.spotify.com/track/6TTwkmSkt4bdEnxYEDr3MG"

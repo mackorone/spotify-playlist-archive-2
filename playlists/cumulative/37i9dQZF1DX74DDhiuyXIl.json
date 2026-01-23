@@ -4029,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "\u53ef\u60dc\u4e0d\u53ef\u4ee5",
+        "url": "https://open.spotify.com/album/3gUZbbkg7hN7FxACsQqVug"
+      },
+      "artists": [
+        {
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258020,
+      "name": "\u53ef\u60dc\u4e0d\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/4Gno77Ea5XRoZ4VPcqbCkd"
+    },
+    {
+      "album": {
         "name": "\u53ef\u60dc\u4e86 (\u96fb\u5f71\u300a\u5927\u7d04\u5728\u51ac\u5b63\u300b\u4e3b\u984c\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/6tjVDuKYuqubiBizWK4Asq"
       },
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 287514,
       "name": "\u56de\u4e0d\u5230\u90a3\u5929 - \u5f71\u8996\u5287\u300a\u6012\u98a8\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/1OIZ2UWPZPjNTaJr3l3qXq"
@@ -6281,6 +6299,24 @@
     },
     {
       "album": {
+        "name": "FRAGMENTS OF MY MIND",
+        "url": "https://open.spotify.com/album/5E6OnnIEurL6t9AG8jUDBf"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203136,
+      "name": "\u5f85\u8fa6\u4e8b\u9805",
+      "url": "https://open.spotify.com/track/6GgghlbnWdOxrD328ENHYi"
+    },
+    {
+      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF"
       },
@@ -6502,7 +6538,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 277007,
       "name": "\u5ff5\u5ff5 (feat. \u6234\u4f69\u59ae)",
       "url": "https://open.spotify.com/track/79hQrj9VSlUCaXlfMXSTzY"
@@ -9842,7 +9878,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 247391,
       "name": "\u6b64\u523b\u5531\u7d66\u4f60",
       "url": "https://open.spotify.com/track/2XKIOWXGpCv32q19AGaicK"
@@ -9936,6 +9972,24 @@
       "duration_ms": 186888,
       "name": "\u6c7a\u5b9a\u6211\u611b\u4f60 - \u300a\u57fa\u56e0\u6c7a\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/1kUltB305xl5iNqELL6Fsp"
+    },
+    {
+      "album": {
+        "name": "\u6c89\u9ed8\u90a3\u9ebc\u7684\u75db",
+        "url": "https://open.spotify.com/album/2HfDCPG9U0BzOoENaf7aT0"
+      },
+      "artists": [
+        {
+          "name": "\u5b8f\u5152 Kuan Hong",
+          "url": "https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192992,
+      "name": "\u6c89\u9ed8\u90a3\u9ebc\u7684\u75db",
+      "url": "https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM"
     },
     {
       "album": {
@@ -11438,6 +11492,24 @@
       "duration_ms": 295714,
       "name": "\u7b49\u5f85",
       "url": "https://open.spotify.com/track/255FcujoOdCZy133eApLe1"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u6708\u843d\u661f\u7a00",
+        "url": "https://open.spotify.com/album/7kgNENoj3b7ABU8e1Pi2zn"
+      },
+      "artists": [
+        {
+          "name": "\u5d14\u5b50\u683c",
+          "url": "https://open.spotify.com/artist/6UHbp6BjDzZtVMDLjJi1Bl"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "\u7b49\u6708\u843d\u661f\u7a00",
+      "url": "https://open.spotify.com/track/0EjOT2WkOcLDzlFfFKFcbF"
     },
     {
       "album": {
@@ -13572,7 +13644,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 255882,
       "name": "\u90a3\u4e9b\u4f60\u4e0d\u77e5\u9053\u7684\u6211 - \u5f71\u96c6\u300a\u90a3\u4e9b\u4f60\u4e0d\u77e5\u9053\u7684\u6211\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3vLKRmpFuHKGoA8S6yZkO6"

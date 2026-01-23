@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1530508,
+  "num_followers": 1530664,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "The Sound of Perseverance - Reissue",
         "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 223933,
       "name": "Voice of the Soul",
       "url": "https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 275212,
       "name": "Gone Away",
       "url": "https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "When The Children Cry - Greatest Hits",
-        "url": "https://open.spotify.com/album/45jAG1Yxe3gdYoTKRxu6vE"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 295426,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Destiny (Reissue 2016)",
         "url": "https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 359997,
       "name": "4000 Rainy Nights - Remastered 2016",
       "url": "https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "When The Children Cry - Greatest Hits",
+        "url": "https://open.spotify.com/album/45jAG1Yxe3gdYoTKRxu6vE"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 295426,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Hair of the Dog",
-        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Love Hurts - Single Edit",
-      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Balls To Picasso (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
       },
       "artists": [
         {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
         }
       ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
+      "duration_ms": 232120,
+      "name": "Love Hurts - Single Edit",
+      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+        "name": "Balls To Picasso (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
         }
       ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1455,6 +1439,22 @@
       "duration_ms": 283693,
       "name": "A Tale That Wasn't Right",
       "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Keep The Faith (Remastered)",
+        "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1507,38 +1507,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Keep The Faith (Remastered)",
-        "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Ritchie Blackmore's Rainbow (Remastered)",
         "url": "https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u"
       },
@@ -1555,18 +1523,34 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Vol. 4 (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 282493,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Deadly Sting: The Mercury Years",
         "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Detonator",
-        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
-      },
-      "artists": [
-        {
-          "name": "Ratt",
-          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Givin' Yourself Away",
-      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Rhino Hi-Five: Skid Row",
         "url": "https://open.spotify.com/album/26QZZyjOmrSVcFCuUK2CoA"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 314026,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/2kyDqWZoa2VVyrgtlx3yQT"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Apocalyptica",
+        "url": "https://open.spotify.com/album/6gWLb5vcuUzWzPli9ubIX4"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 333013,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7b71VGiqL6DdpzCyaaJEaD"
     }
   ],
   "unique_name": "Heavy Ballads",

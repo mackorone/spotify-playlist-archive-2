@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Guilherme Arantes",
-  "num_followers": 355430,
+  "num_followers": 355439,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "Uma cidade chamada eu mesmo",
+        "url": "https://open.spotify.com/album/61X5OP7xGcb2V1IYmckxFh"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Muda Tudo",
+      "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 297233,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Uma cidade chamada eu mesmo",
-        "url": "https://open.spotify.com/album/61X5OP7xGcb2V1IYmckxFh"
-      },
-      "artists": [
-        {
-          "name": "Dani Black",
-          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Muda Tudo",
-      "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-        "url": "https://open.spotify.com/album/3Vz9ULaHP29eA8QrlAIdxy"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        },
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-      "url": "https://open.spotify.com/track/3TVYMQwSxHsXp0di9etUWo"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+        "url": "https://open.spotify.com/album/3Vz9ULaHP29eA8QrlAIdxy"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+      "url": "https://open.spotify.com/track/3TVYMQwSxHsXp0di9etUWo"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Infinito em n\u00f3s",
+      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "Aprende Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2SkwqcvT93uSdOwFYcBnmD"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 166779,
       "name": "Aprende Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2gi9LwkbDXqfLdAclParYd"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Infinito em n\u00f3s",
-      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -551,6 +551,22 @@
       "duration_ms": 178142,
       "name": "Nosso Timing",
       "url": "https://open.spotify.com/track/2fWVWn1p7lSgJVQjbrH49x"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "Algo Me Diz (Acusticamente)",
+        "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "Algo Me Diz (Acusticamente)",
+      "url": "https://open.spotify.com/track/45sD7ZPV3rTYAN1dekDDL0"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -615,22 +631,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "JV30 Tour Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "Vila do Sossego",
-        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 249798,
-      "name": "Vila do Sossego",
-      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -707,34 +707,18 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "Algo Me Diz (Acusticamente)",
-        "url": "https://open.spotify.com/album/6kYYHDpVNwqkbOyQb0MHPx"
+        "name": "Vila do Sossego",
+        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
       },
       "artists": [
         {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 176012,
-      "name": "Algo Me Diz (Acusticamente)",
-      "url": "https://open.spotify.com/track/45sD7ZPV3rTYAN1dekDDL0"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Saudades, Elder",
-      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
+      "duration_ms": 249798,
+      "name": "Vila do Sossego",
+      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -763,6 +747,22 @@
       "duration_ms": 191281,
       "name": "\u00c2nima",
       "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Saudades, Elder",
+      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 265192,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 189589,
       "name": "FOI NO S\u00c3O JO\u00c3O",
       "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 265192,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "a natureza das coisas",
-        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 119702,
-      "name": "a natureza das coisas",
-      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "Uma Estrela Misteriosa",
         "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "a natureza das coisas",
+        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 119702,
+      "name": "a natureza das coisas",
+      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "50 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 263014,
-      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "Reencontro",
         "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 200500,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "50 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "duration_ms": 263014,
+      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "Baliza",
         "url": "https://open.spotify.com/album/5nhpYDjVLf9JkJO1cnFyT9"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 278803,
       "name": "Baliza",
       "url": "https://open.spotify.com/track/1hjAJBGxs8mYpvuiPW67Qk"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "Se Acabou",
+        "url": "https://open.spotify.com/album/3Wqq7nrFYkF6igVeA23YxH"
+      },
+      "artists": [
+        {
+          "name": "Luca Argel",
+          "url": "https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt"
+        }
+      ],
+      "duration_ms": 159258,
+      "name": "Se Acabou",
+      "url": "https://open.spotify.com/track/08LLtcRnpmGk0jXhO0yHvs"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1503,26 +1519,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "Fico a Fim",
-        "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        },
-        {
-          "name": "Milton Guedes",
-          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Fico a Fim",
-      "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "O Lado B da Bossa",
         "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
       },
@@ -1539,6 +1535,26 @@
       "duration_ms": 148762,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "Fico a Fim",
+        "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        },
+        {
+          "name": "Milton Guedes",
+          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Fico a Fim",
+      "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "Se Acabou",
-        "url": "https://open.spotify.com/album/3Wqq7nrFYkF6igVeA23YxH"
+        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
       "artists": [
         {
-          "name": "Luca Argel",
-          "url": "https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt"
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
         }
       ],
-      "duration_ms": 159258,
-      "name": "Se Acabou",
-      "url": "https://open.spotify.com/track/08LLtcRnpmGk0jXhO0yHvs"
+      "duration_ms": 247847,
+      "name": "Onde Deus possa me ouvir - Ao vivo",
+      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1647,22 +1663,6 @@
       "duration_ms": 181845,
       "name": "Te Vejo em Tudo",
       "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
-      },
-      "artists": [
-        {
-          "name": "Vander Lee",
-          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
-        }
-      ],
-      "duration_ms": 247847,
-      "name": "Onde Deus possa me ouvir - Ao vivo",
-      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
     },
     {
       "added_at": "2026-01-16 03:01:04",

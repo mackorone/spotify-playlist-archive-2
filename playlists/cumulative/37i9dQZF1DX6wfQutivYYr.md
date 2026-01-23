@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Ultimo sulla cover della playlist più grande in Italia 🔥
+> Geolier sulla cover della playlist più grande in Italia 🔥
 
 279 songs - 14 hr 26 min
 

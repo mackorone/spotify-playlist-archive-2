@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Luis Eduardo Aute.
 
-374 songs - 23 hr 56 min
+375 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-27 | 2023-02-17 |
 | [Lo que va pasando](https://open.spotify.com/track/6WHazEwJIzQ49Ced1Imn53) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Lo que va pasando](https://open.spotify.com/album/15LNBRPAD5TmA0hl68zqo9) | 3:16 | 2024-02-15 | 2024-03-16 |
 | [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 | 2023-10-26 | 2024-01-16 |
+| [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 | 2025-12-18 |  |
 | [Los Olvidados](https://open.spotify.com/track/7Grnf1nFlUgQFtTMsS0cU1) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Los Olvidados](https://open.spotify.com/album/005KXPPTUQwfgr8pIwTOes) | 3:31 | 2025-04-17 | 2025-05-31 |
 | [Los soñadores](https://open.spotify.com/track/0fay0oYGjnJUm0iLaExaxP) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Las Canciones](https://open.spotify.com/album/2PrzbAdSOI01AANMuKAMN6) | 3:26 | 2025-03-27 | 2025-05-02 |
 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 | 2022-06-09 |  |
@@ -381,6 +382,6 @@
 | [Zamba para Mi Padre](https://open.spotify.com/track/7yeasJCqoIBQ2UMZLbdDIW) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Zamba para Mi Padre](https://open.spotify.com/album/0xdUKqh6DfV3gj5q7mehJK) | 3:19 | 2022-06-09 | 2022-06-15 |
 | [Ámame como soy \- En Vivo](https://open.spotify.com/track/6lfF63n51JukdkhyJcWzHk) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Ámame como soy \(En Vivo\)](https://open.spotify.com/album/2MNT4N0bQWxgHY5pKn27ik) | 3:56 | 2025-09-11 | 2025-11-07 |
 | [Ángel para un Final](https://open.spotify.com/track/3zgZVIuSwVwMxMxvRN8yqO) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Tríptico \(Vol\. 2\)](https://open.spotify.com/album/3I2lIA10v8E2dHhOme3Xs6) | 3:42 | 2022-06-09 | 2022-07-28 |
-| [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 | 2022-06-09 |  |
+| [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 | 2022-06-09 | 2026-01-23 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

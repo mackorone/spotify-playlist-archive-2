@@ -21771,6 +21771,32 @@
     },
     {
       "album": {
+        "name": "Take My Loving",
+        "url": "https://open.spotify.com/album/1Wfln5oGcTbq9VUazNpGSc"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "LEWS",
+          "url": "https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL"
+        },
+        {
+          "name": "FIRSTCLASS",
+          "url": "https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159520,
+      "name": "Take My Loving",
+      "url": "https://open.spotify.com/track/0skwsAt2nhficmOKDIcbKY"
+    },
+    {
+      "album": {
         "name": "Take My Soul",
         "url": "https://open.spotify.com/album/4ipFhUfKtqjGtioSnXAjaT"
       },

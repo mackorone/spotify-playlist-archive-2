@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Méne e Ivana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,502 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,497 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 4 | [forgetyou:\(](https://open.spotify.com/track/61O1QuGxNPHb1jkesPDqmN) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [forgetyou:\(](https://open.spotify.com/album/6p9DZYw11XNJXLovSAgCpa) | 2:26 |
 | 5 | [No Quiero Recalentado](https://open.spotify.com/track/5pY8TexcepZaGIKFPfrfmU) | [El Muchacho de los Ojos Tristes](https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H) | [No Quiero Recalentado](https://open.spotify.com/album/1SwVQzpclr2oVzNV6GyGtN) | 3:33 |
 | 6 | [Sid & Nancy](https://open.spotify.com/track/791drWVgeXPnAbs02qVg4o) | [GRBR](https://open.spotify.com/artist/5wYPbUoEPm8ZuFQ3ERsctg) | [Sid & Nancy](https://open.spotify.com/album/34HJPRnYX7OBNgcfmyNuGZ) | 3:03 |
-| 7 | [El Tiempo](https://open.spotify.com/track/6hoEhGcH0Bq4r1LlM22oPm) | [Zoe del Olmos](https://open.spotify.com/artist/6ILwU6BnrRLuM4VvNNQTVJ), [Logan Lowe](https://open.spotify.com/artist/51hOX731r8dSq3dSU7uHZo) | [El Tiempo](https://open.spotify.com/album/4eA9ENmIrkRbpJoRu6WhCh) | 2:41 |
+| 7 | [El Tiempo](https://open.spotify.com/track/6hoEhGcH0Bq4r1LlM22oPm) | [Zoe Del Olmos](https://open.spotify.com/artist/5G0wpMp4ZGqDOcFCG4Ujph), [Logan Lowe](https://open.spotify.com/artist/51hOX731r8dSq3dSU7uHZo) | [El Tiempo](https://open.spotify.com/album/4eA9ENmIrkRbpJoRu6WhCh) | 2:41 |
 | 8 | [Magia](https://open.spotify.com/track/6X802Oflvx2dhW2s3yZgu3) | [Ola Magenta](https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo) | [Magia](https://open.spotify.com/album/3t3fjXIrpopQIg45GOoNMS) | 2:10 |
 | 9 | [Nothing in my pocket.](https://open.spotify.com/track/78nKt9sCrv7p5u4yhencAR) | [DEIIN](https://open.spotify.com/artist/3ChKSHdD8xLvHcPrt9lIS6) | [Never Done This Before](https://open.spotify.com/album/3AAgDdVUJO21MAkZR9UPzd) | 2:24 |
 | 10 | [QUÉ RICO](https://open.spotify.com/track/7ffAMkmub0c3jvHYfwkHYe) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [NOESUNAETAPA](https://open.spotify.com/artist/3WovYsWH9obL3GJCSndSwo) | [Para pasarla rico](https://open.spotify.com/album/6JTmmod8vn6NeWYIG3eND0) | 3:21 |

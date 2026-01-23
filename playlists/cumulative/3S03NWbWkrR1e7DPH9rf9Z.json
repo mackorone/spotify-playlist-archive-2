@@ -911,6 +911,36 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/5Irb3XrHKTTS43TlXexMxr"
+      },
+      "artists": [
+        {
+          "name": "Alex Mueller",
+          "url": "https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS"
+        },
+        {
+          "name": "Retrika",
+          "url": "https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z"
+        },
+        {
+          "name": "NYROK",
+          "url": "https://open.spotify.com/artist/4mkWUMA2i9eUXRoYaDVU0K"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4wkdcYogyRCz9Lv1Qcqgd1"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/7xpNIZZ6Dzrh6MnTOALAYO"
       },
@@ -3294,7 +3324,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 200281,
       "name": "Reality",
       "url": "https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk"

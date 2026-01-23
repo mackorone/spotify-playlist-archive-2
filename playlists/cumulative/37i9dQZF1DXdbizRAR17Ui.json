@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 226146,
       "name": "28 Eyes",
       "url": "https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 128461,
       "name": "Calm (feat. Jawnino)",
       "url": "https://open.spotify.com/track/18vf3zcNibtFSY3ubyYfyw"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 279067,
       "name": "Cruel Love",
       "url": "https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM"
@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Felt That Way",
+        "url": "https://open.spotify.com/album/7ygOO7ANWftT4cDj6iPjzB"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215817,
+      "name": "Felt That Way",
+      "url": "https://open.spotify.com/track/2z3dytnjRzPsv48UO7BqHP"
+    },
+    {
+      "album": {
         "name": "Final Credits",
         "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
       },
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 142663,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2CjAV5o0xbp9APj9WQ2gJZ"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 118911,
       "name": "Haunted by u",
       "url": "https://open.spotify.com/track/4IdgjyX2hEKJzdVrt1Vu11"
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 145515,
       "name": "ineedu",
       "url": "https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8"
@@ -4904,7 +4922,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 180956,
       "name": "Naive",
       "url": "https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D"
@@ -6425,6 +6443,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "scared",
+      "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5Ob703RJ1aBejG1VJMIuz2"
       },
@@ -6742,7 +6782,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 221848,
       "name": "So Far South",
       "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
@@ -7104,7 +7144,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 179538,
       "name": "Static on My Tongue",
       "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
@@ -7122,7 +7162,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 197174,
       "name": "STOP (what if you fly?)",
       "url": "https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj"
@@ -7480,7 +7520,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 187384,
       "name": "The Kind of Love",
       "url": "https://open.spotify.com/track/7CyStHLAihLyfUX738UElG"
@@ -7896,7 +7936,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 183322,
       "name": "Unknowable",
       "url": "https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa"

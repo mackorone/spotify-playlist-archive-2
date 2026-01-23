@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Theodora x GIMS",
+  "description": "Photo : Gambi",
   "name": "Best Life",
   "tracks": [
     {
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "CAPITANA",
+        "url": "https://open.spotify.com/album/7F0HJ3VNfpH4DsOQ8R4pW9"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130960,
+      "name": "CAPITANA",
+      "url": "https://open.spotify.com/track/7yJ2uhn6oqPPAjJfIRuuFC"
+    },
+    {
+      "album": {
         "name": "Caramelo (feat. Emkal)",
         "url": "https://open.spotify.com/album/2Kn3m9RLTjfBLKavTZFA7g"
       },
@@ -3079,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "FOLIE",
+      "url": "https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/6HCgLXR7FISyZ4n9689t26"
       },
@@ -3188,7 +3228,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 132019,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/5zvxfGtLqdSrHPuJ8iHLOH"
@@ -3968,7 +4008,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 139022,
       "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
       "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
@@ -4354,7 +4394,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 159680,
       "name": "M'EN ALLER",
       "url": "https://open.spotify.com/track/6dVo2Af8Qb8GiT8Akxjuxt"
@@ -5224,6 +5264,32 @@
       "duration_ms": 171537,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
+    },
+    {
+      "album": {
+        "name": "HYPERACTIF",
+        "url": "https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "D2",
+          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
+        },
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148193,
+      "name": "Mood (feat. D2 & kulturr)",
+      "url": "https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD"
     },
     {
       "album": {
@@ -8351,6 +8417,28 @@
     },
     {
       "album": {
+        "name": "TOUT DOUX",
+        "url": "https://open.spotify.com/album/0oNj0B8btUWAqbVRKDhiPg"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148013,
+      "name": "TOUT DOUX",
+      "url": "https://open.spotify.com/track/6vNelqGPn3g9PwKIv64xyo"
+    },
+    {
+      "album": {
         "name": "Tout g\u00e2ch\u00e9",
         "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
       },
@@ -8538,7 +8626,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 165714,
       "name": "TU ME RENDS B\u00caTE",
       "url": "https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK"

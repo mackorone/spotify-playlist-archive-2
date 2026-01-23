@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: BXKS",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fredo",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 114008,
       "name": "3AM IN SOUTH",
       "url": "https://open.spotify.com/track/4BSuRFnxC537ZEQICGhewt"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144737,
       "name": "Airing Calls (feat. Saint\u00e9)",
       "url": "https://open.spotify.com/track/2wER9J87WKcd22rLR6FL50"
@@ -4002,6 +4002,24 @@
       "duration_ms": 178983,
       "name": "Back To The Wave",
       "url": "https://open.spotify.com/track/1VVAhoJKMYCIZKIRNfp9C0"
+    },
+    {
+      "album": {
+        "name": "back two it",
+        "url": "https://open.spotify.com/album/4CiUB1H0CvjTLkpJMIYWvW"
+      },
+      "artists": [
+        {
+          "name": "Trtl",
+          "url": "https://open.spotify.com/artist/5hl4Ds8m0VaToEbZOQDE32"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90589,
+      "name": "back two it",
+      "url": "https://open.spotify.com/track/7ICiqqSwk8DpT8b1MweYmB"
     },
     {
       "album": {
@@ -6130,7 +6148,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 172000,
       "name": "Block Tales",
       "url": "https://open.spotify.com/track/6u1eEbXzBtEFxrSPOW90V5"
@@ -8677,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "Championship",
+        "url": "https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122159,
+      "name": "Championship",
+      "url": "https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/78lL6tJbAgvIHP2plIvkVM"
       },
@@ -10204,6 +10240,24 @@
       "duration_ms": 182040,
       "name": "CRG (feat. Dave)",
       "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
+    },
+    {
+      "album": {
+        "name": "CRIP",
+        "url": "https://open.spotify.com/album/7MM7BvNZ0hnM5Q7Y7xt14H"
+      },
+      "artists": [
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152582,
+      "name": "CRIP",
+      "url": "https://open.spotify.com/track/3woT2onx5jrFT5QYm9PAbD"
     },
     {
       "album": {
@@ -13324,7 +13378,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 181258,
       "name": "DSM",
       "url": "https://open.spotify.com/track/1SBssHqjExrLN8LexJ5Dqq"
@@ -19689,6 +19743,24 @@
     },
     {
       "album": {
+        "name": "Hundo",
+        "url": "https://open.spotify.com/album/1JcnI5PLedmyd94UPtf5CH"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132653,
+      "name": "Hundo",
+      "url": "https://open.spotify.com/track/192KH2aINQ0q3cdHvd7CSG"
+    },
+    {
+      "album": {
         "name": "Connecting Flights",
         "url": "https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv"
       },
@@ -22625,6 +22697,24 @@
     },
     {
       "album": {
+        "name": "Last Pound",
+        "url": "https://open.spotify.com/album/4tQnweQakGQkQA9Zukn8sA"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103200,
+      "name": "Last Pound",
+      "url": "https://open.spotify.com/track/61K1crraupVe0ozjRlPB42"
+    },
+    {
+      "album": {
         "name": "Noughts & Crosses, Vol. 2",
         "url": "https://open.spotify.com/album/77hUVaTjr5HgLcuQ1ovF4k"
       },
@@ -23670,7 +23760,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 125833,
       "name": "Linked In",
       "url": "https://open.spotify.com/track/0UgXV5N6yNZd3ZJMTjcF4t"
@@ -26572,6 +26662,24 @@
     {
       "album": {
         "name": "Money And Power",
+        "url": "https://open.spotify.com/album/1Q8Q8RGVNJXcef65DQYS1N"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Money And Power",
+      "url": "https://open.spotify.com/track/3pH4Si4NME7K5zTQl7boxa"
+    },
+    {
+      "album": {
+        "name": "Money And Power",
         "url": "https://open.spotify.com/album/5fQExZIsBJ3kFnIlvcaZZV"
       },
       "artists": [
@@ -28336,7 +28444,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 151489,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/2MRqf8LxAqeYOg9ZHOxy2q"
@@ -35311,6 +35419,24 @@
     },
     {
       "album": {
+        "name": "Runnin",
+        "url": "https://open.spotify.com/album/1JONmXIlIqJ8fVERyDTFVX"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0"
+    },
+    {
+      "album": {
         "name": "Runtz / Oh My",
         "url": "https://open.spotify.com/album/7AwfetXlPOKd8BkPbq8EEs"
       },
@@ -38589,6 +38715,24 @@
     },
     {
       "album": {
+        "name": "Straight Drop X6",
+        "url": "https://open.spotify.com/album/0DF8xP8yf2e8qkp28LdWjM"
+      },
+      "artists": [
+        {
+          "name": "Asco",
+          "url": "https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180202,
+      "name": "Straight Drop X6",
+      "url": "https://open.spotify.com/track/1glsTkHUf9IOL3XwlVCtLv"
+    },
+    {
+      "album": {
         "name": "Straight In",
         "url": "https://open.spotify.com/album/0LKKThcGk2k9g28fhneNFN"
       },
@@ -40588,7 +40732,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 185379,
       "name": "Thierry Henry",
       "url": "https://open.spotify.com/track/5pqLT31JcC7kwjqIsq74D2"
@@ -44368,7 +44512,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 132108,
       "name": "WHAT\u2019S THE REASON?",
       "url": "https://open.spotify.com/track/3B8ImluWjECLwyWi3Bd455"

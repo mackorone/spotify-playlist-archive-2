@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "It's giving those vibes. Cover: J Hus & Skepta",
+  "description": "It's giving those vibes. Cover: Gio",
   "name": "Vibes",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 165509,
       "name": "5 In De Nacht (feat. Ronnie Flex)",
       "url": "https://open.spotify.com/track/1RC3n8iZgTi3mb0yU619zq"
@@ -356,6 +356,28 @@
       "duration_ms": 173900,
       "name": "Anything",
       "url": "https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171"
+    },
+    {
+      "album": {
+        "name": "AVEC MOI",
+        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "AVEC MOI",
+      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
     },
     {
       "album": {
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 206510,
       "name": "Fersteri",
       "url": "https://open.spotify.com/track/45pXZ2l3wGs6WDzoohtx3s"
@@ -1296,6 +1318,24 @@
       "duration_ms": 113454,
       "name": "Geen Optie",
       "url": "https://open.spotify.com/track/1paoqM4S9a6X39SfZ9dK9R"
+    },
+    {
+      "album": {
+        "name": "Gemaakt Voor Mij",
+        "url": "https://open.spotify.com/album/2dDIq7YyMNlTDXoIyYFu4w"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "Gemaakt Voor Mij",
+      "url": "https://open.spotify.com/track/2FOegrUT1zY66GX91oQ6Bn"
     },
     {
       "album": {
@@ -1996,7 +2036,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148000,
       "name": "Koud",
       "url": "https://open.spotify.com/track/1cwRpIkyR9gFCDL0PVt0um"
@@ -2320,7 +2360,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 133043,
       "name": "Make U Mine",
       "url": "https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5"
@@ -2433,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/4yqZcI4ZeX3utV8w5Cq4Xh"
+      },
+      "artists": [
+        {
+          "name": "Roxy Rosa",
+          "url": "https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157570,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0B7kAhSMO9iR18kgy400F5"
+    },
+    {
+      "album": {
         "name": "deims deims deims",
         "url": "https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH"
       },
@@ -2473,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W"
+      },
+      "artists": [
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124337,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6"
+    },
+    {
+      "album": {
         "name": "Nice",
         "url": "https://open.spotify.com/album/6RjcfmQsezy67WOL5nQv81"
       },
@@ -2506,6 +2582,24 @@
       "duration_ms": 142037,
       "name": "Niemand",
       "url": "https://open.spotify.com/track/6LhKjSNQLuIZ56XaelC5ne"
+    },
+    {
+      "album": {
+        "name": "Niet Wat Het Was",
+        "url": "https://open.spotify.com/album/4Pgf06QZMuzY2j7rNRmKBc"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122931,
+      "name": "Niet Wat Het Was",
+      "url": "https://open.spotify.com/track/1M27sYhpE9DMwj9jeELE8D"
     },
     {
       "album": {
@@ -2816,7 +2910,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 98019,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0j6H85bkmXIiZOY2C1LNov"
@@ -2842,6 +2936,24 @@
       "duration_ms": 144489,
       "name": "PGLD (Pretty Girls Love Dammie)",
       "url": "https://open.spotify.com/track/34CRiWg4oKVmN5xAW8h9Xp"
+    },
+    {
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX"
+      },
+      "artists": [
+        {
+          "name": "Oykie",
+          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124031,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O"
     },
     {
       "album": {
@@ -3299,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224498,
+      "name": "Sofa Joy",
+      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1DUyfdokghPNMUBfhmWAo6"
       },
@@ -3596,7 +3726,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 195021,
       "name": "Tafel Voor 2",
       "url": "https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH"
@@ -3688,6 +3818,24 @@
       "duration_ms": 129761,
       "name": "Teleromeo (feat. Wally)",
       "url": "https://open.spotify.com/track/0G1kWcRXm6VVHjoPIEQF0f"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1UIdilpUe6APvWRqNtOy1w"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134561,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2pB1SUpDblBsmCLyt4RXan"
     },
     {
       "album": {
@@ -3906,7 +4054,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150638,
       "name": "VANAVOND",
       "url": "https://open.spotify.com/track/3jG8uhJ40CZernF9nHveqq"
@@ -3928,6 +4076,28 @@
       "duration_ms": 120517,
       "name": "VERSLAVEND",
       "url": "https://open.spotify.com/track/1FLbM1pumyR6P7eOkLtEf1"
+    },
+    {
+      "album": {
+        "name": "VERT3LLEN",
+        "url": "https://open.spotify.com/album/2sQWaHA4bqDVNYJ8GJIY9P"
+      },
+      "artists": [
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        },
+        {
+          "name": "Dammie",
+          "url": "https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "VERT3LLEN",
+      "url": "https://open.spotify.com/track/0BrRABx6pnEqoSQ1Tkmqw4"
     },
     {
       "album": {
@@ -4196,7 +4366,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177575,
       "name": "What\u2019s Love",
       "url": "https://open.spotify.com/track/3Oydm6UCELxS3EtXHPsXHQ"
@@ -4342,7 +4512,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 132244,
       "name": "Zonder Bedoeling",
       "url": "https://open.spotify.com/track/1TLmpC3FLXAxgP73mfUdJG"

@@ -6467,6 +6467,24 @@
     },
     {
       "album": {
+        "name": "Bl\u00e1u lj\u00f3sin",
+        "url": "https://open.spotify.com/album/60au1DjAwzLRiwQ86A0CsQ"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231277,
+      "name": "Bl\u00e1u lj\u00f3sin",
+      "url": "https://open.spotify.com/track/5t2kN1Dea0aaMHTHyFhkQv"
+    },
+    {
+      "album": {
         "name": "Lj\u00f3s og skuggar",
         "url": "https://open.spotify.com/album/6NyxqE7BTQI1QXLWTcDB3Q"
       },
@@ -21017,6 +21035,28 @@
     },
     {
       "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/2XRGOldxRUCJoXtFwrbv3H"
+      },
+      "artists": [
+        {
+          "name": "NonyKingz",
+          "url": "https://open.spotify.com/artist/1qrpULitiHw4tkC8TLXL3O"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162507,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/7IgI0CXpOUwz2RGecR9a2r"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -24942,7 +24982,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -29464,7 +29504,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "Leyndarm\u00e1l",
       "url": "https://open.spotify.com/track/1qQotEmOU1dyCYUlBKy9yP"
@@ -32780,7 +32820,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -40144,7 +40184,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 521866,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"

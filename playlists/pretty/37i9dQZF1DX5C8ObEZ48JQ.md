@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP?si=mFJS0fqxSRaiduyOBakQ3Q">Priesst</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,655 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,664 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Blurry Nights](https://open.spotify.com/track/0v7L4PS0CV3DXo2ZsD2eG9) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Blurry Nights](https://open.spotify.com/album/1wNbteaYJV9QaCixwcdfQA) | 3:11 |
 | 50 | [WHAT CAN WE DO?](https://open.spotify.com/track/2b4elKTFnT6cpDqpGsj8p6) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr), [Hollerdotun](https://open.spotify.com/artist/28enztbjcicO6gDgNROB8p), [Banging beats](https://open.spotify.com/artist/2sGkNuYqxsaYdeCmyX7d06) | [WHAT CAN WE DO](https://open.spotify.com/album/1NAuPMofsg6e2OchlOh54L) | 2:51 |
 
-Snapshot ID: `AAAAAMRt1vZZ3vzhTrb7gxpzlqOwvPOc`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

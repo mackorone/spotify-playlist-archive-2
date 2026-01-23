@@ -1,6 +1,6 @@
 {
   "description": "desce baby, o tz fez pra \ud83e\udef5\ud83c\udffe",
-  "num_followers": 1414135,
+  "num_followers": 1414069,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,34 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
       },
@@ -179,34 +207,6 @@
       "duration_ms": 191250,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Stick",
-          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Torelli",
-          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "Rap da Lealdade",
+        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Rap da Lealdade",
+      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "Discreto",
         "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 432000,
       "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP & Mc Neg\u00e3o Original)",
       "url": "https://open.spotify.com/track/1QB4ECV5w5xLZtbq6qGIwB"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Rap da Lealdade",
-        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Rap da Lealdade",
-      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
-        "name": "808 CLUB: AFTER",
-        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Mem\u00f3rias Sexuais (feat. Mc Rodrigo do CN)",
-      "url": "https://open.spotify.com/track/2HuoLn1XVy96eYDcTNwwOi"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 255000,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/2fUBYMrJ968lLDHH8o3ocg"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
+        "name": "808 CLUB: AFTER",
+        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Mem\u00f3rias Sexuais (feat. Mc Rodrigo do CN)",
+      "url": "https://open.spotify.com/track/2HuoLn1XVy96eYDcTNwwOi"
     },
     {
       "added_at": "2026-01-16 03:01:04",
@@ -1203,6 +1203,34 @@
     {
       "added_at": "2026-01-16 03:01:04",
       "album": {
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
+        }
+      ],
+      "duration_ms": 203244,
+      "name": "Sede de Vencer",
+      "url": "https://open.spotify.com/track/645YQL4pTFeA8Ob1bsPL42"
+    },
+    {
+      "added_at": "2026-01-16 03:01:04",
+      "album": {
         "name": "Desliga o flash",
         "url": "https://open.spotify.com/album/6PQVY8va7lczCba7f0QTCU"
       },
@@ -1235,34 +1263,6 @@
       "duration_ms": 183206,
       "name": "Desliga o flash",
       "url": "https://open.spotify.com/track/54Ls0NOUkYyOhkYAdNXFgn"
-    },
-    {
-      "added_at": "2026-01-16 03:01:04",
-      "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
-        }
-      ],
-      "duration_ms": 203244,
-      "name": "Sede de Vencer",
-      "url": "https://open.spotify.com/track/645YQL4pTFeA8Ob1bsPL42"
     },
     {
       "added_at": "2026-01-16 03:01:04",

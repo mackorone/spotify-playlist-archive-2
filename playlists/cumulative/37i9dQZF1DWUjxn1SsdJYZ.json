@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Miko Mal",
+  "description": "The best new AUS & NZ Rap. Cover: Walkerboy",
   "name": "Local Hype",
   "tracks": [
     {
@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "PAIDNFL",
+        "url": "https://open.spotify.com/album/7x0lJzsavkYFh35Wt7OLFx"
+      },
+      "artists": [
+        {
+          "name": "Ozer",
+          "url": "https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp"
+        },
+        {
+          "name": "Rob the Bank",
+          "url": "https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151118,
+      "name": "2 Flights",
+      "url": "https://open.spotify.com/track/3Z63tVBbxNnE27f3BxHNLF"
+    },
+    {
+      "album": {
         "name": "2 MANY MEN (feat. Shely210)",
         "url": "https://open.spotify.com/album/1bWqSzbMajcWTUR39AHBrE"
       },
@@ -82,6 +104,24 @@
       "duration_ms": 155597,
       "name": "2 MANY MEN (feat. Shely210)",
       "url": "https://open.spotify.com/track/0BNUspVwO9YxkXJBrXhR5L"
+    },
+    {
+      "album": {
+        "name": "2 Shots",
+        "url": "https://open.spotify.com/album/542rRvwCg06KXo9VNq14Up"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "2 Shots",
+      "url": "https://open.spotify.com/track/6FyFlGgQe6gLMAJza9CGpF"
     },
     {
       "album": {
@@ -366,6 +406,28 @@
       "duration_ms": 138901,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/2aDbC4CAVEMEVVmEjXOmP4"
+    },
+    {
+      "album": {
+        "name": "5 STAR GENERAL",
+        "url": "https://open.spotify.com/album/4VOxZlfG5mYMNrG4Q6HQHT"
+      },
+      "artists": [
+        {
+          "name": "Nauti",
+          "url": "https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ"
+        },
+        {
+          "name": "Wunmilli",
+          "url": "https://open.spotify.com/artist/25uc0BQFpDZGauNmQuf9tw"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "5 STAR GENERAL",
+      "url": "https://open.spotify.com/track/4EJpPG6PoPdttDNpJznUs3"
     },
     {
       "album": {
@@ -1120,6 +1182,24 @@
       "duration_ms": 187982,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/6FPv80kCnwBhE5vozW4iJn"
+    },
+    {
+      "album": {
+        "name": "Always Was",
+        "url": "https://open.spotify.com/album/4kLGsifJgXpx04RwfjQMZb"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Always Was",
+      "url": "https://open.spotify.com/track/7oeF9QZEmNiAtslGRYUNHd"
     },
     {
       "album": {
@@ -2554,7 +2634,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 206329,
       "name": "Betterman",
       "url": "https://open.spotify.com/track/1vZZqlp7KUorrbTrBGtPVo"
@@ -4236,7 +4316,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 166140,
       "name": "Can't Hold Us [Feat. Mwanj\u00e9]",
       "url": "https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP"
@@ -6410,7 +6490,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161679,
       "name": "DOA",
       "url": "https://open.spotify.com/track/0oaTclwusWN7OgXhl7kr1d"
@@ -6432,6 +6512,28 @@
       "duration_ms": 183093,
       "name": "Dog The Boys",
       "url": "https://open.spotify.com/track/65hs75Cjy693S0RW7uoAjw"
+    },
+    {
+      "album": {
+        "name": "Doin a lot",
+        "url": "https://open.spotify.com/album/0a91TA9mk7imBpVPD0diZN"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        },
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202384,
+      "name": "Doin a lot",
+      "url": "https://open.spotify.com/track/310TXARN1k8ovjL63h1qLu"
     },
     {
       "album": {
@@ -7956,7 +8058,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 274375,
       "name": "Father",
       "url": "https://open.spotify.com/track/3WpDy6InhwaoOJKTUW87Uz"
@@ -14324,7 +14426,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 165918,
       "name": "Lights",
       "url": "https://open.spotify.com/track/5Yl4OiAIKubOR4Prw07W5m"
@@ -14714,7 +14816,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163730,
       "name": "LMK",
       "url": "https://open.spotify.com/track/7oV1u72fWvvPLIKPwcyHD6"
@@ -15916,7 +16018,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 130133,
       "name": "MILKSHAKES",
       "url": "https://open.spotify.com/track/0VqVxeI7NA6AjlznSdz5Ho"
@@ -15938,6 +16040,28 @@
       "duration_ms": 134579,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/1vBJfOXGFx63YZcrYwq7ZR"
+    },
+    {
+      "album": {
+        "name": "MILLIONS",
+        "url": "https://open.spotify.com/album/6Int6wlSXSArZaHMuNaikC"
+      },
+      "artists": [
+        {
+          "name": "BARAKA THE KID",
+          "url": "https://open.spotify.com/artist/632zuYvAmSbcN7oXlck1DF"
+        },
+        {
+          "name": "Kapsize",
+          "url": "https://open.spotify.com/artist/5oqZMFZ8sWe46xsIp8HF6t"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/2VmzVHBUhv0XZFspuSCMBO"
     },
     {
       "album": {
@@ -16988,7 +17112,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 245731,
       "name": "Never Coming Home (feat. SIX60)",
       "url": "https://open.spotify.com/track/7f8vUzOeVBeKdm7d9Miis0"
@@ -19137,6 +19261,24 @@
     },
     {
       "album": {
+        "name": "Paralysed",
+        "url": "https://open.spotify.com/album/3qtOfeYSODAVDbUrZJUvsB"
+      },
+      "artists": [
+        {
+          "name": "Sereen",
+          "url": "https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168007,
+      "name": "Paralysed",
+      "url": "https://open.spotify.com/track/0cvdVKaBxxEeSrNsz1bo6K"
+    },
+    {
+      "album": {
         "name": "Super Cool Tree House 2",
         "url": "https://open.spotify.com/album/0zknu7nRjjKduPZIDlOnPh"
       },
@@ -19968,7 +20110,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 155628,
       "name": "prIDe",
       "url": "https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX"
@@ -21854,7 +21996,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 173400,
       "name": "Same as before",
       "url": "https://open.spotify.com/track/64tuUEMv7BZktKqZ3U2hKl"
@@ -21966,6 +22108,24 @@
       "duration_ms": 130076,
       "name": "Say So",
       "url": "https://open.spotify.com/track/1zW1Zjf8qNSc0Kv6zFOv62"
+    },
+    {
+      "album": {
+        "name": "Say What I Mean",
+        "url": "https://open.spotify.com/album/2IpVK2SbA0sLifaI2qAN0I"
+      },
+      "artists": [
+        {
+          "name": "ABRZY",
+          "url": "https://open.spotify.com/artist/0GIxnPuJrbOyBfyYkMzJRo"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109506,
+      "name": "Say What I Mean",
+      "url": "https://open.spotify.com/track/0MgJu8E60EWYGsxatzkQ5S"
     },
     {
       "album": {
@@ -22424,7 +22584,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161711,
       "name": "She Want A Gangster",
       "url": "https://open.spotify.com/track/3Dc7GbJ05S8CxwrYP70F5x"
@@ -24200,6 +24360,24 @@
       "duration_ms": 152561,
       "name": "Sway",
       "url": "https://open.spotify.com/track/4b6PF6INUHpeoYtEQTWOxD"
+    },
+    {
+      "album": {
+        "name": "Swear Mums",
+        "url": "https://open.spotify.com/album/5K5vM1aJBKrbLthAZJFoJn"
+      },
+      "artists": [
+        {
+          "name": "That Kid Kearve",
+          "url": "https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196990,
+      "name": "Swear Mums",
+      "url": "https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az"
     },
     {
       "album": {
@@ -26835,6 +27013,24 @@
     },
     {
       "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/0rM7IHPsdrnn5V3QcGDcBS"
+      },
+      "artists": [
+        {
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "UNSTOPPABLE",
+      "url": "https://open.spotify.com/track/5ROYSS4Y1nt3Ey8Y5WnmVS"
+    },
+    {
+      "album": {
         "name": "The Undisputed EP",
         "url": "https://open.spotify.com/album/4nUTqLpk01xsUmjZOVZeMr"
       },
@@ -27164,6 +27360,28 @@
       "duration_ms": 152775,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/3fdVYPuolN7ReRZPwXhfi1"
+    },
+    {
+      "album": {
+        "name": "VILLIAN",
+        "url": "https://open.spotify.com/album/4WxcIluC0fBrKH6rwdv7Bz"
+      },
+      "artists": [
+        {
+          "name": "Cutty Vibez",
+          "url": "https://open.spotify.com/artist/1UkCLh64SVsVv3oSjPlzGQ"
+        },
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127468,
+      "name": "VILLIAN",
+      "url": "https://open.spotify.com/track/4wA7ZC3HkPAGsc1ZHYfP0a"
     },
     {
       "album": {

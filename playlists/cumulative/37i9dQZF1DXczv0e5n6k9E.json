@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos & SNIK & CHEKKIS",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -3777,6 +3777,32 @@
     },
     {
       "album": {
+        "name": "EMMONES",
+        "url": "https://open.spotify.com/album/3SApP4cpnKOUVweSQIcCz4"
+      },
+      "artists": [
+        {
+          "name": "Smuggler",
+          "url": "https://open.spotify.com/artist/7fyyicH0HcrSE4GC6UmzEr"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "EMMONES",
+      "url": "https://open.spotify.com/track/1XuAW8Y6p01efYAUxv76Mf"
+    },
+    {
+      "album": {
         "name": "EMMONI IDEA",
         "url": "https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb"
       },
@@ -4258,7 +4284,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 173142,
       "name": "Fetos Ta Xristougenna",
       "url": "https://open.spotify.com/track/6mGuiiyR7mSIgTpNcrWrIt"
@@ -4294,7 +4320,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 124148,
       "name": "Fidi Kolovo",
       "url": "https://open.spotify.com/track/06jZgwM3jv45sItuCKk8Rz"
@@ -5388,7 +5414,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 119194,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/2wEOegecPhTBtz8iEutO9P"
@@ -7910,6 +7936,24 @@
       "duration_ms": 134766,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0rWIlMaivrU7sGtU1G6pIa"
+    },
+    {
+      "album": {
+        "name": "Min Rotas",
+        "url": "https://open.spotify.com/album/0bLTgeLE1MAWstuWkecADW"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111333,
+      "name": "Min Rotas",
+      "url": "https://open.spotify.com/track/4q3ZJbvVEIFnZLW4x6wldZ"
     },
     {
       "album": {
@@ -10622,7 +10666,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 198666,
       "name": "Pyrricheio",
       "url": "https://open.spotify.com/track/6abFZcYaCuwT2HLcKCfDoG"
@@ -11498,7 +11542,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 213230,
       "name": "Sikw Na Fygoume",
       "url": "https://open.spotify.com/track/7J9tAhzAzLOuGEYfdjjYFm"
@@ -13481,6 +13525,28 @@
     },
     {
       "album": {
+        "name": "VIETNAM",
+        "url": "https://open.spotify.com/album/5ncvRWnEGgACHtFyJsnYtI"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "S9",
+          "url": "https://open.spotify.com/artist/7kiySLsA3bSb8BfkZOWsFK"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192174,
+      "name": "VIETNAM",
+      "url": "https://open.spotify.com/track/6ucqw4rZs6dXXGXffcDKIn"
+    },
+    {
+      "album": {
         "name": "VILLA",
         "url": "https://open.spotify.com/album/23baFzwKiREF162Q0qObue"
       },
@@ -13734,6 +13800,24 @@
       "duration_ms": 168000,
       "name": "WOLT",
       "url": "https://open.spotify.com/track/2udzvMtNBuBYyWqY29LJod"
+    },
+    {
+      "album": {
+        "name": "WOOO",
+        "url": "https://open.spotify.com/album/5qBmUiYiyP8FfL8ELZfBNN"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180700,
+      "name": "WOOO",
+      "url": "https://open.spotify.com/track/1GWM7OGnw8821PkyaAJU20"
     },
     {
       "album": {

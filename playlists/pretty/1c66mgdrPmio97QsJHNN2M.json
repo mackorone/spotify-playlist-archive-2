@@ -6,7 +6,7 @@
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAAz2O+7Mi4rwhDEMLBg0V3XA2s3hzw+",
+  "snapshot_id": "AAAz3JKEFHgmatzRwTzzSIa3Ye9E3jO0",
   "tracks": [
     {
       "added_at": "2025-12-27 18:36:22",
@@ -4355,6 +4355,74 @@
       "duration_ms": 286573,
       "name": "Just Me",
       "url": "https://open.spotify.com/track/0Rs63HNBA6VplT4eN3SyMS"
+    },
+    {
+      "added_at": "2026-01-22 09:53:45",
+      "album": {
+        "name": "Perfect To Me",
+        "url": "https://open.spotify.com/album/2HHywDDJkVEVdKeuXozKCS"
+      },
+      "artists": [
+        {
+          "name": "Joeca254",
+          "url": "https://open.spotify.com/artist/3zp5GhJGcifEF6mru0McZI"
+        },
+        {
+          "name": "Gersonn",
+          "url": "https://open.spotify.com/artist/4TE6xdOpcvv6Ji7zgRZevI"
+        }
+      ],
+      "duration_ms": 183855,
+      "name": "Perfect To Me",
+      "url": "https://open.spotify.com/track/1VURdDOQETkpdiYH2mNaHW"
+    },
+    {
+      "added_at": "2026-01-22 09:54:12",
+      "album": {
+        "name": "My Time Will Come",
+        "url": "https://open.spotify.com/album/5N3l2oGblFCvzO48iOEybP"
+      },
+      "artists": [
+        {
+          "name": "Jess Solimene",
+          "url": "https://open.spotify.com/artist/5fTbLdpAk10rXChINbThrO"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "My Time Will Come",
+      "url": "https://open.spotify.com/track/13FStepSomUD6JJGVFiKMN"
+    },
+    {
+      "added_at": "2026-01-22 09:57:33",
+      "album": {
+        "name": "God Won't Take Me Slow",
+        "url": "https://open.spotify.com/album/3IuEBrTIrF2gEiJPZaGeqe"
+      },
+      "artists": [
+        {
+          "name": "Asphalt Socialites",
+          "url": "https://open.spotify.com/artist/178fSbCZZY16FMch6OjqmS"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "God Won't Take Me Slow",
+      "url": "https://open.spotify.com/track/1yDazpky5cVLrvbEd7tIq4"
+    },
+    {
+      "added_at": "2026-01-22 12:02:59",
+      "album": {
+        "name": "In Between The Covers",
+        "url": "https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3"
+      },
+      "artists": [
+        {
+          "name": "Every Other Thursday",
+          "url": "https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR"
+        }
+      ],
+      "duration_ms": 229495,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/1GLDFep0Ua0EOzist1mgHZ"
     }
   ],
   "unique_name": "30 Days of New Unsigned Music",

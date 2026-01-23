@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Be My Baby",
+        "url": "https://open.spotify.com/album/1r91kkdev6guxPTTzzDuwf"
+      },
+      "artists": [
+        {
+          "name": "Goa",
+          "url": "https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh"
+        },
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/6XdlL0kLygauuf5JDeDrMC"
+    },
+    {
+      "album": {
         "name": "Soul Blackout (Remixes)",
         "url": "https://open.spotify.com/album/6LobJXIH6G9lspYdmxAuHa"
       },
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161842,
       "name": "EL BUCLE",
       "url": "https://open.spotify.com/track/3iEr05cAQkpL23f7xHPaL6"
@@ -4204,7 +4226,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 141546,
       "name": "ESPEJISMOS",
       "url": "https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY"
@@ -9977,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "PANCHO",
+        "url": "https://open.spotify.com/album/5LGEZbPUr41WATHt2iCGkl"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170332,
+      "name": "PANCHO",
+      "url": "https://open.spotify.com/track/2c0hlILpnsO32fCRSJRkwT"
+    },
+    {
+      "album": {
         "name": "PANDORA",
         "url": "https://open.spotify.com/album/6rwkSd3khdleqKMOmmJLRP"
       },
@@ -10064,7 +10104,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 175384,
       "name": "paranormal",
       "url": "https://open.spotify.com/track/5sNJ4okiWlOOYP4I66Qhuv"
@@ -11310,6 +11350,28 @@
       "duration_ms": 155200,
       "name": "Rituales",
       "url": "https://open.spotify.com/track/7vZ4cZWrkapkEP31EobmyU"
+    },
+    {
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ"
+      },
+      "artists": [
+        {
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        },
+        {
+          "name": "SEYSEY",
+          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161059,
+      "name": "ROADTRIP",
+      "url": "https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC"
     },
     {
       "album": {
@@ -13076,7 +13138,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 116000,
       "name": "TIGUERON",
       "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
@@ -14046,6 +14108,24 @@
       "duration_ms": 157750,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/76509L8F0tfkf0sg1SpeSw"
+    },
+    {
+      "album": {
+        "name": "Echo Mom EP",
+        "url": "https://open.spotify.com/album/7f05Ui3r0O8zrgBzfNPGXC"
+      },
+      "artists": [
+        {
+          "name": "Acidgigi",
+          "url": "https://open.spotify.com/artist/03Xxncm2uN2R54ztFbFVIB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236363,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/0go8KhcgV8ok4R9DKlwXf4"
     },
     {
       "album": {

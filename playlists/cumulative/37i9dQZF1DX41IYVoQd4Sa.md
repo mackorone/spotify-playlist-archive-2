@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסף אמדורסקי
 
-361 songs - 21 hr 12 min
+362 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [חלליות \- Bonus Track](https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [Live 2022](https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP) | 4:32 | 2024-06-27 | 2025-03-21 |
 | [חלק לא נפרד מאחרים](https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN) | [Ivri Lider](https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [חלק לא נפרד מאחרים](https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL) | 3:28 | 2024-12-19 |  |
 | [חתול ועכבר](https://open.spotify.com/track/70zpgj4c2NFnHlQ3GRwmMD) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [חתול ועכבר](https://open.spotify.com/album/4f8rjwbhxLzdOnsUrNlVTV) | 3:53 | 2025-04-10 | 2025-05-09 |
+| [טבע](https://open.spotify.com/track/7HNLTGplfBTSEM4oxcvXPF) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [טבע](https://open.spotify.com/album/0MJ1EgY7SOK9RTON6y6DHc) | 3:15 | 2026-01-22 |  |
 | [טפו טפו](https://open.spotify.com/track/379bhCgYGmQm7OhIGfRsb5) | [Ofiri](https://open.spotify.com/artist/4d0qotNvTkO3McH3WWpUg6), [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [מושלמדי](https://open.spotify.com/album/0cqZpntWMsPS3q4E40a6lk) | 2:22 | 2025-01-09 | 2025-01-24 |
 | [יהלום שחור](https://open.spotify.com/track/4mh3gz698j7UB2VBiSaDba) | [Ilai Ashdot](https://open.spotify.com/artist/17hPAjtRLK0X3JHXFnd5Sy) | [יהלום שחור](https://open.spotify.com/album/0cBpAxJKNhIUTSrVvV6SkW) | 2:58 | 2025-10-23 | 2025-11-07 |
 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 | 2025-01-30 | 2025-05-14 |
@@ -287,7 +288,7 @@
 | [מזכירה אלקטרונית](https://open.spotify.com/track/5yjtnWYFhvCbxS8eW8dDCI) | [Reines Girls](https://open.spotify.com/artist/2qW8QMeCVtQWaQNFFAIVgu) | [קשה לאהוב](https://open.spotify.com/album/6Z2xYbXLyl6n25jhfGqCiV) | 3:07 | 2025-07-10 | 2025-08-01 |
 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 | 2025-01-09 |  |
 | [מים על הסלע](https://open.spotify.com/track/60gGs8Qm93hUwLLjkXgTJX) | [Yali Sobol](https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa) | [מים על הסלע](https://open.spotify.com/album/5fTwKWtWPzu2zVp9rPSpn2) | 2:48 | 2025-01-02 | 2025-01-31 |
-| [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 |  |
+| [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 | 2026-01-23 |
 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 | 2024-06-27 | 2025-02-28 |
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 | 2025-08-16 |
 | [מראה שבורה \- לייב](https://open.spotify.com/track/6T1jIQSlwvQ7L3uHIX2PgJ) | [איתי דלומי](https://open.spotify.com/artist/0aCKA0bYDFN7BIt7v2YJrB), [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h), [Eran Weitz](https://open.spotify.com/artist/3D99a797NmPrmX4s9WA750) | [מראה שבורה \(לייב\)](https://open.spotify.com/album/6NupFAXRVQ7qw2VrJwf1AE) | 3:46 | 2024-06-27 | 2024-07-12 |

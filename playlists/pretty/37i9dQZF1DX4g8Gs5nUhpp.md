@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: \(S\)TRONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,117 likes - 53 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,121 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 33 | [Em Còn Nhớ Anh Không \- Remastered](https://open.spotify.com/track/7q1qYSyRkGT4ZaCc2ZQihP) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq) | [Em Còn Nhớ Anh Không \(Remastered\)](https://open.spotify.com/album/0XTxzgpmtvXu1B1vJ2dKJt) | 4:11 |
 | 34 | [Còn Gì Đẹp Hơn \- Mưa Đỏ Original Soundtrack](https://open.spotify.com/track/5zXCoF69UxPNLrpar8Rk7e) | [Nguyễn Hùng](https://open.spotify.com/artist/7oxw8G3qB7DwjCs18JWJt5) | [Còn Gì Đẹp Hơn \(Mưa Đỏ Original Soundtrack\)](https://open.spotify.com/album/3Ao9JM14LnPabEUT4UQDK5) | 4:41 |
 | 35 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 |
-| 36 | [Mơ](https://open.spotify.com/track/2a5hng9yXtbjtTVVm9UviC) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Mơ](https://open.spotify.com/album/57xAPI8kl43QolYkjfVdb2) | 4:22 |
+| 36 | [Mơ](https://open.spotify.com/track/2a5hng9yXtbjtTVVm9UviC) | [VCT](https://open.spotify.com/artist/2XlX3AXAm221yqXOsTQmwE) | [Mơ](https://open.spotify.com/album/57xAPI8kl43QolYkjfVdb2) | 4:22 |
 | 37 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
 | 38 | [Dù Cho Tận Thế](https://open.spotify.com/track/0oSc7X1uRQGuEqNRtXEeQL) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Dù Cho Tận Thế](https://open.spotify.com/album/5QDR0OiGmansGUC3umc6db) | 3:53 |
 | 39 | [Love is](https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Love is](https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m) | 4:26 |

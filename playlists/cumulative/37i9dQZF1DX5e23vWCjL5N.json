@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Gu\u00e8 in cover.",
+  "description": "Punchline, storytelling, rap italiano. Leon Faun in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Buia Melodia",
+        "url": "https://open.spotify.com/album/7IqDWiuqOmtjXiTflSUKWF"
+      },
+      "artists": [
+        {
+          "name": "Leon Faun",
+          "url": "https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139833,
+      "name": "Buia Melodia",
+      "url": "https://open.spotify.com/track/0tGDxDW4XYjxOOAk1yfQB4"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
       },
@@ -1736,6 +1754,28 @@
       "duration_ms": 203859,
       "name": "CHANELINA SOUBRETTE (feat. Disme & Ele A)",
       "url": "https://open.spotify.com/track/5CZOHxLhZohdhmUotp8SHR"
+    },
+    {
+      "album": {
+        "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/54aMJQ88Vyua8UeKijirW1"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Zef",
+          "url": "https://open.spotify.com/artist/7JL4DyVnKVldvwWoSnLtCM"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/7yhNfdwemomRUQjgSOcgw8"
     },
     {
       "album": {
@@ -2969,6 +3009,32 @@
     },
     {
       "album": {
+        "name": "7/8 EP (feat. 18K)",
+        "url": "https://open.spotify.com/album/144Whqoe6XZY8fBze4CBwg"
+      },
+      "artists": [
+        {
+          "name": "Real Talk",
+          "url": "https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW"
+        },
+        {
+          "name": "d/rose",
+          "url": "https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114350,
+      "name": "Grillz col tartaro (feat. 18K)",
+      "url": "https://open.spotify.com/track/4nLLm1ZPxmD9BSvfRUmlhw"
+    },
+    {
+      "album": {
         "name": "GTA VI (feat. Mattak & Madman) \u2013 Prod. Kanesh",
         "url": "https://open.spotify.com/album/2JWFD9RO4oRIVU8hxASgoA"
       },
@@ -3530,6 +3596,36 @@
       "duration_ms": 182937,
       "name": "Ivan Zucco (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/51C7PZgzmYpBHwWQtq8bK4"
+    },
+    {
+      "album": {
+        "name": "J.T.V.",
+        "url": "https://open.spotify.com/album/5aLQOr41NWjwzXQ2rmT8mK"
+      },
+      "artists": [
+        {
+          "name": "Antonovvi",
+          "url": "https://open.spotify.com/artist/5SshEJRVNV8Ej47WWTD1DF"
+        },
+        {
+          "name": "Tusco",
+          "url": "https://open.spotify.com/artist/05CwufDEj0CYA4grRjTXLd"
+        },
+        {
+          "name": "Blo/B",
+          "url": "https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH"
+        },
+        {
+          "name": "Erma",
+          "url": "https://open.spotify.com/artist/5Yw5neICxJeJ6Czmz54fCo"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210009,
+      "name": "J.T.V.",
+      "url": "https://open.spotify.com/track/4WPRYGxGEB55aRpwKCmusB"
     },
     {
       "album": {
@@ -4784,6 +4880,24 @@
       "duration_ms": 163362,
       "name": "Morto di fame (feat. Lazza)",
       "url": "https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI"
+    },
+    {
+      "album": {
+        "name": "HOT MINUTE, Vol. 3",
+        "url": "https://open.spotify.com/album/1dtFQg1na1XpfhbMHJZyUK"
+      },
+      "artists": [
+        {
+          "name": "KLAUS NOIR",
+          "url": "https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134022,
+      "name": "MQCDT",
+      "url": "https://open.spotify.com/track/7taFUvTNO7ysupo7wBD8wn"
     },
     {
       "album": {
@@ -6530,6 +6644,28 @@
       "duration_ms": 178624,
       "name": "Solo Per Me (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC"
+    },
+    {
+      "album": {
+        "name": "SOLO POLLO 2",
+        "url": "https://open.spotify.com/album/66pHoQZyIq67rkuEZQxi10"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "SOLO POLLO 2",
+      "url": "https://open.spotify.com/track/2d3nv5bAE7385kdTtVr2b8"
     },
     {
       "album": {

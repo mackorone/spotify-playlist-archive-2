@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Sindika",
+  "description": "Le meilleur du rap africain francophone. Photo : Paterne Maestro",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 175500,
       "name": "ANITCHE",
       "url": "https://open.spotify.com/track/5p9vr4UFtcVdR2iYgMdJbw"
@@ -559,7 +559,7 @@
     },
     {
       "album": {
-        "name": "Bonjour !",
+        "name": "BONJOUR!",
         "url": "https://open.spotify.com/album/0KvUY62Vyqj2gh5qrFKqT3"
       },
       "artists": [
@@ -572,7 +572,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121846,
-      "name": "Bonjour !",
+      "name": "BONJOUR!",
       "url": "https://open.spotify.com/track/4GsqboRNcCJUt1jhYBu4nw"
     },
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192640,
       "name": "Charger",
       "url": "https://open.spotify.com/track/5LoG4nhfVuHeWFvBAePU52"
@@ -986,6 +986,24 @@
       "duration_ms": 182400,
       "name": "Coco",
       "url": "https://open.spotify.com/track/6tgh9OuEO11QgstLGl8KJm"
+    },
+    {
+      "album": {
+        "name": "COCO",
+        "url": "https://open.spotify.com/album/2LlQhd1JWZN9eY13NZfAHE"
+      },
+      "artists": [
+        {
+          "name": "Skulio",
+          "url": "https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164795,
+      "name": "COCO",
+      "url": "https://open.spotify.com/track/0BiAWtwGN5rNSjoq9WD5Qs"
     },
     {
       "album": {
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150000,
       "name": "EBOKOBOKO",
       "url": "https://open.spotify.com/track/4EzyTEqa2phD8zP268NkpK"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 135187,
       "name": "Eza Dega",
       "url": "https://open.spotify.com/track/0jU0RuqVfQqeznl4u9eeLA"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 190774,
       "name": "Farotement",
       "url": "https://open.spotify.com/track/4Eh9KjiUbkdgGAvKk9Bp4Z"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 171446,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw"
@@ -2200,6 +2218,24 @@
       "duration_ms": 129647,
       "name": "GOD BLESS",
       "url": "https://open.spotify.com/track/3vYAjy2MQ1D4sZnvOoLvuh"
+    },
+    {
+      "album": {
+        "name": "Golden Boy 2",
+        "url": "https://open.spotify.com/album/4Bzxe4QbF5q3NQ0tz7AD94"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164170,
+      "name": "Golden Boy 2",
+      "url": "https://open.spotify.com/track/6HqtDBTRdLKHJJlz3LpQLz"
     },
     {
       "album": {
@@ -2338,7 +2374,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 140617,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/74Ii9tHNc3wIOf8PoAIUYv"
@@ -2722,6 +2758,28 @@
       "duration_ms": 200080,
       "name": "Le succ\u00e8s",
       "url": "https://open.spotify.com/track/1GWStOSyW9wxtIzn6CUa4d"
+    },
+    {
+      "album": {
+        "name": "LEGVLLY",
+        "url": "https://open.spotify.com/album/6Kp6qTHCWvEZuhSvbwwjKE"
+      },
+      "artists": [
+        {
+          "name": "Joe Kingston",
+          "url": "https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc"
+        },
+        {
+          "name": "AKIM PAPICHULO",
+          "url": "https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148067,
+      "name": "LEGVLLY",
+      "url": "https://open.spotify.com/track/73icOqJHxZFid0aOVryukf"
     },
     {
       "album": {
@@ -3437,6 +3495,28 @@
     },
     {
       "album": {
+        "name": "De Kabo \u00e0 Brazza",
+        "url": "https://open.spotify.com/album/2MpliIz6SCEjmX8CH4xHmH"
+      },
+      "artists": [
+        {
+          "name": "Paterne Maestro",
+          "url": "https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Nuit \u00e0 nuit (feat. Genezio)",
+      "url": "https://open.spotify.com/track/3ZyePpKFYf1rRxqjhKXkhs"
+    },
+    {
+      "album": {
         "name": "Numero 10",
         "url": "https://open.spotify.com/album/2GqMjOpm8NvQ3TIsU38aou"
       },
@@ -3452,6 +3532,24 @@
       "duration_ms": 156951,
       "name": "Numero 10",
       "url": "https://open.spotify.com/track/407HIkHf9AwjUAjd6I9MoO"
+    },
+    {
+      "album": {
+        "name": "NYAMIEN SON NO FALL",
+        "url": "https://open.spotify.com/album/4DnrsqSTZ6rkselYQfKwFz"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lion",
+          "url": "https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112315,
+      "name": "NYAMIEN SON NO FALL",
+      "url": "https://open.spotify.com/track/1HT0W65VKtVBG9wodAVqVo"
     },
     {
       "album": {
@@ -3484,7 +3582,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 215080,
       "name": "Okplononko 1",
       "url": "https://open.spotify.com/track/24N5q8Jeh1MZGDVDXCJFHX"
@@ -4242,7 +4340,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 127294,
       "name": "TAKE & TCHOLI",
       "url": "https://open.spotify.com/track/6ve1Fi1NuXbHJelvSXUrap"
@@ -4452,6 +4550,24 @@
       "duration_ms": 201290,
       "name": "Tous les jours",
       "url": "https://open.spotify.com/track/0ArHTnG4N8IOUeI1A7XfvT"
+    },
+    {
+      "album": {
+        "name": "Tout ira mieux (Faut pas m'appeler)",
+        "url": "https://open.spotify.com/album/5yRMGyukQkl1CCIMMbnKyy"
+      },
+      "artists": [
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195291,
+      "name": "Tout ira mieux (Faut pas m'appeler)",
+      "url": "https://open.spotify.com/track/4UcUlUTjsGxfcYYupM4PTy"
     },
     {
       "album": {
@@ -4735,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Voil\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/4F30SO9JH6YwZKMYoabqxx"
+      },
+      "artists": [
+        {
+          "name": "Blackiller",
+          "url": "https://open.spotify.com/artist/3uaDqkEgY0dGzMHwawGOXu"
+        },
+        {
+          "name": "Mr Behi",
+          "url": "https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116619,
+      "name": "Voil\u00e0 \u00e7a",
+      "url": "https://open.spotify.com/track/6dDI4QZ66y36EPsgMT1fiO"
+    },
+    {
+      "album": {
         "name": "Waka waka",
         "url": "https://open.spotify.com/album/7jtTudk8BcffL31aWK1qrW"
       },
@@ -4819,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "Ye Wanda",
+        "url": "https://open.spotify.com/album/6fOpiq1geGRailuT7OPCrA"
+      },
+      "artists": [
+        {
+          "name": "LiFkA",
+          "url": "https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136956,
+      "name": "Ye Wanda",
+      "url": "https://open.spotify.com/track/4uQMxL1rGFNzprVxIBF8TW"
+    },
+    {
+      "album": {
         "name": "YPM",
         "url": "https://open.spotify.com/album/7n3iaSiyFvU172FHDEYCjM"
       },
@@ -4838,6 +4994,28 @@
       "duration_ms": 155200,
       "name": "YPM",
       "url": "https://open.spotify.com/track/4wgHqq6QkVdAC9ElkBegdC"
+    },
+    {
+      "album": {
+        "name": "De Kabo \u00e0 Brazza",
+        "url": "https://open.spotify.com/album/2MpliIz6SCEjmX8CH4xHmH"
+      },
+      "artists": [
+        {
+          "name": "Paterne Maestro",
+          "url": "https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Zigi Zaga (feat. Bol\u00e9mvn)",
+      "url": "https://open.spotify.com/track/4ULxqd5Fbx3LszKJLBgPCG"
     },
     {
       "album": {

@@ -6,8 +6,40 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABKKCl0tBqPUiBCofQBeV02ydobjcoZ",
+  "snapshot_id": "AABKK3Dpg71A8xNaA3aNmGtHQ0Oz+Axr",
   "tracks": [
+    {
+      "added_at": "2026-01-22 09:23:23",
+      "album": {
+        "name": "Relay",
+        "url": "https://open.spotify.com/album/4azvA3lCr4eSkrNYb4AhCC"
+      },
+      "artists": [
+        {
+          "name": "Gooooose",
+          "url": "https://open.spotify.com/artist/6LrVvnuJQLN3IcpXN6BObi"
+        }
+      ],
+      "duration_ms": 229350,
+      "name": "Relay",
+      "url": "https://open.spotify.com/track/3PL4dUCR9RlAPpZ26xTtdr"
+    },
+    {
+      "added_at": "2026-01-22 09:23:35",
+      "album": {
+        "name": "How On Earth? (Acoustic)",
+        "url": "https://open.spotify.com/album/6dJgK1qALDjfciVNaGAtlq"
+      },
+      "artists": [
+        {
+          "name": "Dirty Beau",
+          "url": "https://open.spotify.com/artist/15oHVmIiMlj0GPW1WqNKrh"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "How On Earth? - Acoustic",
+      "url": "https://open.spotify.com/track/43KsBI1IRPudTYmPXxDgJe"
+    },
     {
       "added_at": "2026-01-16 11:21:07",
       "album": {

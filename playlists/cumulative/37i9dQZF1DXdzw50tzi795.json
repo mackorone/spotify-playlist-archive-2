@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Season Five",
+  "description": "\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ASIA7, \u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 272700,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 365538,
       "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e15\u0e31\u0e27\u0e40\u0e18\u0e2d\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5"
@@ -1740,6 +1740,24 @@
       "duration_ms": 219878,
       "name": "\u0e0a\u0e2d\u0e1a\u0e44\u0e1b\u0e2b\u0e21\u0e14 (Way Too Cute)",
       "url": "https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e2d\u0e22\u0e02\u0e48\u0e2d\u0e22\u0e41\u0e19",
+        "url": "https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL"
+      },
+      "artists": [
+        {
+          "name": "YONIA",
+          "url": "https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193285,
+      "name": "\u0e0b\u0e2d\u0e22\u0e02\u0e48\u0e2d\u0e22\u0e41\u0e19",
+      "url": "https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC"
     },
     {
       "album": {
@@ -3184,6 +3202,28 @@
       "duration_ms": 202105,
       "name": "\u0e2a\u0e31\u0e21\u0e20\u0e40\u0e27\u0e0b\u0e35\u0e49 (GFF Ghost Friend Forever) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye"
+    },
+    {
+      "album": {
+        "name": "DEEPMIND",
+        "url": "https://open.spotify.com/album/6E2hWewCYErAbNZjz8eiCF"
+      },
+      "artists": [
+        {
+          "name": "ASIA7",
+          "url": "https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz"
+        },
+        {
+          "name": "\u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23",
+          "url": "https://open.spotify.com/artist/5UtsnPxhjHtOM6cyv8iqVN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "\u0e2a\u0e32\u0e18\u0e38 (Sathu) [feat. \u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23]",
+      "url": "https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo"
     },
     {
       "album": {

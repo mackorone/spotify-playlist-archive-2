@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,403 songs - 2 day 22 hr 59 min
+1,404 songs - 2 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,7 +909,7 @@
 | [METEOR](https://open.spotify.com/track/4LsPjyty35CPGnvgy4aybJ) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [METEOR](https://open.spotify.com/album/7zzqGk0dc86AYRtcLE532V) | 2:10 | 2021-04-18 | 2021-04-19 |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-21 | 2025-02-09 |
 | [Mey](https://open.spotify.com/track/2Tv2XmPGs0A8esmc4gBkX4) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Mey](https://open.spotify.com/album/6qYDQRSCjOS6apFVKrYKEd) | 4:47 | 2025-03-07 | 2025-03-09 |
-| [Meğerse](https://open.spotify.com/track/5YWSiU0ouDolW864L6HDJh) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE) | [Anlat](https://open.spotify.com/album/1BYkVloGTIQZ8AQ2lhdBF1) | 2:32 | 2026-01-15 |  |
+| [Meğerse](https://open.spotify.com/track/5YWSiU0ouDolW864L6HDJh) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE) | [Anlat](https://open.spotify.com/album/1BYkVloGTIQZ8AQ2lhdBF1) | 2:32 | 2026-01-15 | 2026-01-23 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
 | [Milyoner](https://open.spotify.com/track/5k3Exf5ZlAtDUZnK9cTv3D) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Milyoner](https://open.spotify.com/album/5v7WVyZbgdp8pEwvVYMm5W) | 4:01 | 2021-04-18 | 2021-05-03 |
 | [Mimoza Çiçeğim](https://open.spotify.com/track/2wlxHcLNLqxg8UQT4n8yGh) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Mimoza](https://open.spotify.com/album/3RWkbmmWBeUzPFrXuTV4n7) | 4:48 | 2025-04-01 | 2025-04-17 |
@@ -1104,6 +1104,7 @@
 | [Sana El Pençe Durmam](https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Sana El Pençe Durmam](https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j) | 3:31 | 2024-05-28 | 2024-10-15 |
 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-02 |  |
 | [sana söz yine baharlar gelecek](https://open.spotify.com/track/0gEo5eyqUlq7XkgPMTtUy1) | [nezexous](https://open.spotify.com/artist/2jFc0gwjzIe1klTCZF8BDH), [CASH INC.](https://open.spotify.com/artist/6SlwDPsViVqnsWqQerbZH8), [samet aka spud](https://open.spotify.com/artist/3qrVFzmsmq7upWkunEfrKc) | [sana söz yine baharlar gelecek](https://open.spotify.com/album/1N4J6AD7zAMnZlD6C1NfKV) | 3:29 | 2023-05-15 | 2023-05-17 |
+| [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k) | 3:48 | 2026-01-22 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-05-10 | 2024-08-11 |
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-02-15 | 2023-06-18 |
 | [Sar Zamanımızı Geriye](https://open.spotify.com/track/5BuvzVuw5Y6h6dXseOJZSn) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Sar Zamanımızı Geriye](https://open.spotify.com/album/4Hbsjy5vfXCQG1YeNvXJQL) | 3:28 | 2025-09-23 | 2026-01-20 |

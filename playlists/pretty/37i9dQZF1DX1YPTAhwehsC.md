@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Max B and French Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,181 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,179 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 23 | [GiT Ready](https://open.spotify.com/track/2TWEKZOpQAs1iXEmbrYw9S) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Light\-Years](https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B) | 2:51 |
 | 24 | [LiFE 4 A LiFE](https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [LiFE 4 A LiFE](https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ) | 2:59 |
 | 25 | [BUMBAA \- Remix](https://open.spotify.com/track/1COqNxZoDMbrA5qLi3xmfY) | [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [BUMBAA Remix](https://open.spotify.com/album/6FXPk8DBxIov6R0yBFFk5a) | 2:51 |
-| 26 | [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:34 |
+| 26 | [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:21 |
 | 27 | [Basketball \(Roll Call\)](https://open.spotify.com/track/2sw7CUhGI0TBNrFcHGQ8Xq) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Basketball \(Roll Call\)](https://open.spotify.com/album/3vci1G4jxx8INZ97kLb3ds) | 2:33 |
 | 28 | [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 |
 | 29 | [I Don’t Know](https://open.spotify.com/track/7EeFl9kqfO0x1rkh8lWGoF) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Dame Grease](https://open.spotify.com/artist/24IeQOkTkPI6N4Kdin5dZS) | [Coke Wave 3.5: Narcos](https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE) | 3:13 |

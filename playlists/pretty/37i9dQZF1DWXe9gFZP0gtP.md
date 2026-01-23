@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,801,325 likes - 233 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,802,066 likes - 233 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 232 | [Dorma](https://open.spotify.com/track/1jF98bFbddOY8YqUo3lawO) | [Muqamar](https://open.spotify.com/artist/7gsxvS8Av0NLwn6VwaJR1f) | [Dorma](https://open.spotify.com/album/4CaG6K6ojSCt3q2UHfA1mN) | 2:39 |
 | 233 | [Brumae](https://open.spotify.com/track/6OcnAVoL2EnBfQLhuqgevT) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Brumae](https://open.spotify.com/album/33qjJHL5eeNyIqGfTyYdAg) | 2:26 |
 
-Snapshot ID: `AAAAAPvba49ZaqLfTAF3oY+qBjOy977T`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

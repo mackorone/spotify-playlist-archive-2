@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Max B and French Montana
 
-1,898 songs - 3 day 14 hr 4 min
+1,898 songs - 3 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1504,7 +1504,7 @@
 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 | 2023-09-08 | 2024-02-17 |
 | [SEX LOVE DEMONS \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6i0nVCYnZy24212rvQ2syy) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [BIG DIOR](https://open.spotify.com/album/2cU7wfkSDMKR35tlC5ThIR) | 2:42 | 2024-08-30 | 2024-11-09 |
 | [sex u up!](https://open.spotify.com/track/7kp7xq16IoJHLpfY1O5fmS) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [2300](https://open.spotify.com/artist/3ZAzTEVd7httmdQCUvqRUi) | [sex u up!](https://open.spotify.com/album/11bz0ZYd8aZ1dE7c1OzPHF) | 2:37 | 2025-10-10 | 2025-10-18 |
-| [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:34 | 2026-01-16 |  |
+| [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:21 | 2026-01-16 |  |
 | [Shake](https://open.spotify.com/track/6Q7zllogAOEWMh0f0N4M1j) | [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr) | [Shake](https://open.spotify.com/album/4g3Ke09cSiGKtw2F2JEjG9) | 2:24 | 2022-09-30 | 2022-10-22 |
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-04-15 | 2022-06-18 |
 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 | 2023-09-29 | 2024-03-23 |

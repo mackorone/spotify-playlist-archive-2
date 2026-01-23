@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Pocho in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Over Lapa, Latrelle e Lubi in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 138591,
       "name": "Acqua Ebbasta",
       "url": "https://open.spotify.com/track/10oqo3o8hpDD5UEHJsrgVn"
@@ -2436,6 +2436,28 @@
       "duration_ms": 156250,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/7pT26uheHUHvjXhTz1UdVe"
+    },
+    {
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/3oir9buMp21F092UZPGvzr"
+      },
+      "artists": [
+        {
+          "name": "Naima Blood",
+          "url": "https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9"
+        },
+        {
+          "name": "LXX Blood",
+          "url": "https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/5Mqk4iT77728xEz86ivl5Q"
     },
     {
       "album": {
@@ -3824,7 +3846,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 118153,
       "name": "ARRIVO IN HOTEL",
       "url": "https://open.spotify.com/track/2x44dgk1lZzeNP9rlvYQNt"
@@ -7407,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "Cacciavite",
+        "url": "https://open.spotify.com/album/09oZjSZO4DooWlguQZqHr1"
+      },
+      "artists": [
+        {
+          "name": "SABRI DERO",
+          "url": "https://open.spotify.com/artist/6WdkL2tDPviFRoZxZjmUME"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Cacciavite",
+      "url": "https://open.spotify.com/track/1yGI2xhbkSYIh0PruknYzL"
+    },
+    {
+      "album": {
         "name": "Cadere nel vuoto",
         "url": "https://open.spotify.com/album/3tLqqbEwA0O7zUidQ97Msl"
       },
@@ -9722,6 +9762,32 @@
       "duration_ms": 154449,
       "name": "Come Sempre (feat. Harmann & MBOSS)",
       "url": "https://open.spotify.com/track/1OCuHow0d6AtcQiZm8R4FZ"
+    },
+    {
+      "album": {
+        "name": "COME STO (feat. Latrelle, Lubi)",
+        "url": "https://open.spotify.com/album/2raTFA9YUaDgQjinhlK6U1"
+      },
+      "artists": [
+        {
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        },
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158317,
+      "name": "COME STO (feat. Latrelle, Lubi)",
+      "url": "https://open.spotify.com/track/6KiLVkGr1QdIPFeq39d2Ed"
     },
     {
       "album": {
@@ -13397,6 +13463,28 @@
     },
     {
       "album": {
+        "name": "Eremita in Herm\u00e8s",
+        "url": "https://open.spotify.com/album/5IiZpTvIiMXqkQSZRAWD41"
+      },
+      "artists": [
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        },
+        {
+          "name": "YD Teddy",
+          "url": "https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Eremita in Herm\u00e8s",
+      "url": "https://open.spotify.com/track/3H1ZhIJoeoTatBUaaPzb1d"
+    },
+    {
+      "album": {
         "name": "Erling Haaland",
         "url": "https://open.spotify.com/album/7nbhR3LUN5AqhSXSlDyZqD"
       },
@@ -16318,7 +16406,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 134579,
       "name": "Garage Ballas (feat. Diss Gacha)",
       "url": "https://open.spotify.com/track/2oBgbyprULWPaE5wWmW7Az"
@@ -25998,7 +26086,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161809,
       "name": "Milanese al nord",
       "url": "https://open.spotify.com/track/0kbnLWDKjttmnrhkCbKaWD"
@@ -26768,6 +26856,36 @@
       "duration_ms": 139888,
       "name": "MOLLY ROSA",
       "url": "https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG"
+    },
+    {
+      "album": {
+        "name": "Molly water",
+        "url": "https://open.spotify.com/album/16osBFA2Iit6jjRfOFMVOj"
+      },
+      "artists": [
+        {
+          "name": "tretrempire",
+          "url": "https://open.spotify.com/artist/4EHBbsN95ELZC8nHKxNOZn"
+        },
+        {
+          "name": "tretreaura",
+          "url": "https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN"
+        },
+        {
+          "name": "Arson",
+          "url": "https://open.spotify.com/artist/3w8E37Gzpxtp7X4Wuixeav"
+        },
+        {
+          "name": "Olli",
+          "url": "https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Molly water",
+      "url": "https://open.spotify.com/track/6Oinh0AY0RT5Wde98yart7"
     },
     {
       "album": {
@@ -28418,7 +28536,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 105365,
       "name": "Nn \u00e8 un gioco",
       "url": "https://open.spotify.com/track/2w8ejXsrVLaPDNvICPPqN4"
@@ -29692,7 +29810,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 153684,
       "name": "Notte E Giorno",
       "url": "https://open.spotify.com/track/0f6RQnxOTnKHeSvgQ1ABoh"
@@ -33908,7 +34026,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 158210,
       "name": "PRIMO PASSO",
       "url": "https://open.spotify.com/track/41Z3rWsV6ng2aI20bYKM29"
@@ -40830,7 +40948,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 124800,
       "name": "Supercar",
       "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
@@ -41767,6 +41885,24 @@
     },
     {
       "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/2tanCOV74q4wP2Bm7WUNZD"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137032,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp"
+    },
+    {
+      "album": {
         "name": "BIG FRRR",
         "url": "https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL"
       },
@@ -41946,6 +42082,24 @@
       "duration_ms": 137673,
       "name": "TiP TAP TOE",
       "url": "https://open.spotify.com/track/7w7aSYmcpQcQlLWhAC07fe"
+    },
+    {
+      "album": {
+        "name": "TIRITERA",
+        "url": "https://open.spotify.com/album/6JOqmwl3BnI2JqbhtWVp6S"
+      },
+      "artists": [
+        {
+          "name": "Peter Napo",
+          "url": "https://open.spotify.com/artist/78gBgd0qhvqdG79UAS3mj4"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "TIRITERA",
+      "url": "https://open.spotify.com/track/4GxyydS0s5RTRZCiQlgAww"
     },
     {
       "album": {
@@ -42494,7 +42648,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150329,
       "name": "TOUR",
       "url": "https://open.spotify.com/track/7rXxRfe0ozlR5MeFr5yzEd"
@@ -42820,6 +42974,28 @@
       "duration_ms": 154806,
       "name": "TRAPPOLA",
       "url": "https://open.spotify.com/track/4lHEOZd10pXduOORcSdAgu"
+    },
+    {
+      "album": {
+        "name": "Trasparente",
+        "url": "https://open.spotify.com/album/4fuGusHKvbAaWo7gzOLxfb"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "ilovethisbeat",
+          "url": "https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Trasparente",
+      "url": "https://open.spotify.com/track/7xwHgva8vHxL0dYJ3xaQva"
     },
     {
       "album": {
@@ -44950,7 +45126,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 126545,
       "name": "VITE FAIT",
       "url": "https://open.spotify.com/track/6srX6GuQBcaj7x8nfEKR7B"
@@ -45340,7 +45516,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 120794,
       "name": "WBTM",
       "url": "https://open.spotify.com/track/1X881Sbr0paAQ5p0VYZFz6"
@@ -46534,6 +46710,32 @@
       "duration_ms": 150461,
       "name": "Zin Zin (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3QpfAGCWS5owDwtTzTQzlj"
+    },
+    {
+      "album": {
+        "name": "Zito (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/39zSm1mMMQVifQYKua4A0P"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128983,
+      "name": "Zito (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/6ma8HWG078Nvkkic4GduNq"
     },
     {
       "album": {

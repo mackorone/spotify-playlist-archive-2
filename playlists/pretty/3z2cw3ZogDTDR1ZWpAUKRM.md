@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Truth Is a Cave](https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through the Deep, Dark Valley](https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R) | 4:00 |
+| 1 | [The Truth Is a Cave \- 2022 Remaster](https://open.spotify.com/track/1Q6kGgSzazhgdVaaoUpCdf) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through The Deep, Dark Valley \(Ten Year Anniversary Remaster\)](https://open.spotify.com/album/65VoSsmtmE2b7VwEvni4D8) | 4:00 |
 | 2 | [Can't Win For Nothing](https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY) | [Symba](https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD) | [Results Take Time](https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP) | 3:50 |
 | 3 | [Don't Forget Me](https://open.spotify.com/track/5tlXwZ4m7dbRZyG4natJZ1) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:25 |
 | 4 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/6P8bxNBbTGozvidJV9fjrG) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:36 |
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 | 11 | [One Less Set Of Footsteps](https://open.spotify.com/track/0DVXEokERn31HSPcV2UPcy) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Photographs & Memories: His Greatest Hits](https://open.spotify.com/album/6aSizHsXgnBoMYzkzwb36s) | 2:47 |
 | 12 | [heart pt\. 6](https://open.spotify.com/track/1x95pL62pLkxgPprH9ONkQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 4:52 |
 
-Snapshot ID: `AAAAehrUJaM7/+WyvPJkPrdN497Sp7EB`
+Snapshot ID: `AAAAfWNxZ/3TNbPLZaizu90VEKfH5B7N`

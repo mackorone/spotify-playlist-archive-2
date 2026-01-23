@@ -109,6 +109,28 @@
     },
     {
       "album": {
+        "name": "Echoes of a Romantic Soul",
+        "url": "https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klemens Klein",
+          "url": "https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358283,
+      "name": "3 Romances, Op. 11: II. Andante",
+      "url": "https://open.spotify.com/track/2Leset1JLeEAq2WluLz5c2"
+    },
+    {
+      "album": {
         "name": "Eternal Clara",
         "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
       },
@@ -522,6 +544,28 @@
       "duration_ms": 165045,
       "name": "Piano Sonata in G Minor: II. Adagio",
       "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
+    },
+    {
+      "album": {
+        "name": "Echoes of a Romantic Soul",
+        "url": "https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klemens Klein",
+          "url": "https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181487,
+      "name": "Piano Sonata in G Minor: II. Adagio con Espressione e Ben Legato",
+      "url": "https://open.spotify.com/track/0kaWzIuVRan4Ihk4PKLfxd"
     },
     {
       "album": {
@@ -1504,7 +1548,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 164188,
       "name": "\u201cDie Stille Lotosblume\u201d (Geibel)",
       "url": "https://open.spotify.com/track/4o5Jl9hPkY6pBxuxqFamnn"

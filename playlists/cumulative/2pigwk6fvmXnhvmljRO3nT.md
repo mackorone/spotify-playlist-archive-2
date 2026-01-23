@@ -4,7 +4,7 @@
 
 > 
 
-8,306 songs - 21 day 2 hr 37 min
+8,307 songs - 21 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2223,6 +2223,7 @@
 | [Freeee \(Ghost Town Pt\. 2\)](https://open.spotify.com/track/7GRTrWsP3yo2Fx8umJfA1X) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 3:26 | 2025-01-03 |  |
 | [fReeStyLE](https://open.spotify.com/track/6ZYe0uEsjicceCNDSFEqEY) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [文驰](https://open.spotify.com/artist/1XKaKXOLbf4S4kZnLPGo5B) | [Honkai: Star Rail \- Out of Control \(Original Game Soundtrack\)](https://open.spotify.com/album/6sIFNh8l8p7cAYvW2RJrTM) | 1:26 | 2025-09-28 |  |
 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 | 2025-01-03 |  |
+| [Freestyle](https://open.spotify.com/track/33YwdmM6I1hBOT0ZQHSQW6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flyest Nigga In Charge, Vol\. 1](https://open.spotify.com/album/0h7HHLlC9uaaxhJOaKBLvr) | 3:29 | 2026-01-22 |  |
 | [Freestyle Shit](https://open.spotify.com/track/2cHbaJXQcw14NzfplQoUWi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 2:28 | 2025-01-03 |  |
 | [Freeze Tag \(feat\. Cordae & Phoelix\)](https://open.spotify.com/track/0rjvlFcg4QVi9dDzctDDGD) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party: Dessert](https://open.spotify.com/album/6qqa1vvE1Q3qj2k8Gc3iEY) | 3:11 | 2025-01-15 |  |
 | [Frequency](https://open.spotify.com/track/0O6jl8Zamz6TGF0nUwMQsF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Passion, Pain & Demon Slayin'](https://open.spotify.com/album/5bCk3kWAy2JbbTfHqzZCII) | 4:58 | 2025-01-03 |  |
@@ -7007,7 +7008,7 @@
 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 | 2024-12-14 |  |
 | [Who Hurt You?](https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B) | 3:51 | 2025-05-17 |  |
 | [Who I Smoke](https://open.spotify.com/track/2fujhLR4zhDRPbYDhI0xRr) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe), [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [FastMoney Goon](https://open.spotify.com/artist/6VdfJb2OJp9dbZz0t5bedv), [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Who I Smoke](https://open.spotify.com/album/7LaQjIGOJbEQrPLSdmVSG1) | 2:14 | 2025-01-15 |  |
-| [Who Knew](https://open.spotify.com/track/15joiMls8SpP1VtGivYh6i) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 3:47 | 2025-01-03 |  |
+| [Who Knew](https://open.spotify.com/track/15joiMls8SpP1VtGivYh6i) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 3:47 | 2025-01-03 | 2026-01-23 |
 | [Who Needs Love](https://open.spotify.com/track/2ktxr00GpTtbMNeBjNeY8D) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 2:38 | 2025-01-15 | 2025-12-06 |
 | [Who Wanna](https://open.spotify.com/track/54tMeXFIIQOq2SynjgS5ed) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:32 | 2025-03-07 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2025-01-04 |  |

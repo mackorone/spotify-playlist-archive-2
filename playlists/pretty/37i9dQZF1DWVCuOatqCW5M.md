@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Bismil, Shaan,  Anweshaa and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,457 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,486 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jaan Kehte They](https://open.spotify.com/track/5Ii8bwz1KikZUouVHtBJJX) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Jaan Kehte They](https://open.spotify.com/album/3du5cYbyEVF2LYEnZyvzZx) | 4:03 |
+| 1 | [Jaan Kehte They](https://open.spotify.com/track/5Ii8bwz1KikZUouVHtBJJX) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Jaan Kehte They](https://open.spotify.com/album/3du5cYbyEVF2LYEnZyvzZx) | 4:03 |
 | 2 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
 | 3 | [Zara Zara Sa](https://open.spotify.com/track/0gZ51rSozAPhKwPJxNvPH5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Zara Zara Sa](https://open.spotify.com/album/4haQvp5sXbnZUeo6E126n5) | 4:48 |
 | 4 | [Aise Na Humko](https://open.spotify.com/track/5PZyPpc0GfYfMTx6KmFK5i) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aise Na Humko](https://open.spotify.com/album/03B5hEkHkzXmE9nWaHWMZ3) | 3:16 |

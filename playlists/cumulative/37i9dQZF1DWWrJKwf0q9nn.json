@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Wekelijkse update! Cover: Korolova",
+  "description": "Wekelijkse update! Cover: Dimitri Vegas & Like Mike, Marlon Hoffstadt",
   "name": "New Dance 2026",
   "tracks": [
     {
@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "Acid Thunderdome",
+        "url": "https://open.spotify.com/album/7f0vMcoPn4owu8jhGESsfZ"
+      },
+      "artists": [
+        {
+          "name": "Amber Broos",
+          "url": "https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198539,
+      "name": "Acid Thunderdome",
+      "url": "https://open.spotify.com/track/7ihnfFj39aNhGyOPufQnWy"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/0t6BynGppLtuUWXwJStk2I"
       },
@@ -242,6 +260,24 @@
       "duration_ms": 235084,
       "name": "Activate",
       "url": "https://open.spotify.com/track/2ol3m3QuLmRqovHv4w6KgF"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "album": {
@@ -732,6 +768,28 @@
       "duration_ms": 124444,
       "name": "Anne-Fleur",
       "url": "https://open.spotify.com/track/4RlqKMDmgqRKHXkDvKYGxW"
+    },
+    {
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165214,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz"
     },
     {
       "album": {
@@ -1306,6 +1364,28 @@
       "duration_ms": 149500,
       "name": "Be Yours",
       "url": "https://open.spotify.com/track/0PQxcSlYopV4goPlzUn1Jg"
+    },
+    {
+      "album": {
+        "name": "Beat Is Jumping",
+        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139436,
+      "name": "Beat Is Jumping",
+      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
       "album": {
@@ -2312,7 +2392,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 172727,
       "name": "Can't Deny It",
       "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
@@ -2373,6 +2453,32 @@
     },
     {
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/4kyndnNaZKAmvWgYJ3hBYw"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        },
+        {
+          "name": "Marco Generani",
+          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180369,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0mOjngRyUSSq47QUa0KLBI"
+    },
+    {
+      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/5YiBCPRcNTx2IlppsZzJf7"
       },
@@ -2426,7 +2532,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 174799,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/2cLYgEd3tGRcQ9WJDvWc20"
@@ -2729,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "Come To Dubai",
+        "url": "https://open.spotify.com/album/3PJsojIN2J6StXxcU4Fr2J"
+      },
+      "artists": [
+        {
+          "name": "LER\u00d8Y",
+          "url": "https://open.spotify.com/artist/5PcSFzvJdyE1hClGz9Q5rm"
+        },
+        {
+          "name": "Le Modo",
+          "url": "https://open.spotify.com/artist/5e717AzUl7w8jTjKyUY0om"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Come To Dubai",
+      "url": "https://open.spotify.com/track/38RJaM1ZkOwnfC1YcELHN4"
+    },
+    {
+      "album": {
         "name": "Come to me",
         "url": "https://open.spotify.com/album/5QNf61Bz2dhFoahqmqDkoW"
       },
@@ -2818,7 +2946,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 170826,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/29jEDQRVko0BA60dVk6FOr"
@@ -2840,7 +2968,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 159973,
       "name": "Crazy Crazy",
       "url": "https://open.spotify.com/track/1dKniAOvNaElbWgpVUI0Mx"
@@ -2980,7 +3108,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144888,
       "name": "DA BASS",
       "url": "https://open.spotify.com/track/4A7MPZCy7rVSCdIePZzJUb"
@@ -3430,7 +3558,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 267480,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2vspMuZBc4AQ3bmDzp8om1"
@@ -3696,7 +3824,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192957,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/18TnCQ3tnJVvvF2KdACTgE"
@@ -3999,6 +4127,32 @@
     },
     {
       "album": {
+        "name": "Everytime (Benwal Remix)",
+        "url": "https://open.spotify.com/album/75I4t52u8ni3TYDh45ONtp"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        },
+        {
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+        },
+        {
+          "name": "Benwal",
+          "url": "https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Everytime - Benwal Remix",
+      "url": "https://open.spotify.com/track/0yIPoVH7SD4tIMguxBVVAn"
+    },
+    {
+      "album": {
         "name": "Eyes On U",
         "url": "https://open.spotify.com/album/30M9IARVnynUPcUjV6PjLM"
       },
@@ -4128,7 +4282,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 331026,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/2WT6GKGDjx6v22XNlnpvpP"
@@ -5026,7 +5180,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163902,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/1xQpwS0JePQbRNbt0wshNp"
@@ -5074,6 +5228,32 @@
       "duration_ms": 183111,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/0uRM3jr19grNMs6q77upWV"
+    },
+    {
+      "album": {
+        "name": "Greece 2000 (Max Styler Rework)",
+        "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Greece 2000 - Max Styler Rework",
+      "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
     },
     {
       "album": {
@@ -5708,7 +5888,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 181940,
       "name": "How This Ends",
       "url": "https://open.spotify.com/track/2sBmi7DdkifJWgCDpuF6YL"
@@ -7265,6 +7445,36 @@
     },
     {
       "album": {
+        "name": "Latinamerica (feat. Vika) [Afro Remix]",
+        "url": "https://open.spotify.com/album/10vsO34MqPy27SXCDxW1VK"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Jayie",
+          "url": "https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG"
+        },
+        {
+          "name": "Vika",
+          "url": "https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140682,
+      "name": "Latinamerica (feat. Vika) - Afro Remix",
+      "url": "https://open.spotify.com/track/3TaOG1jRsnjGWhTPtWtfnb"
+    },
+    {
+      "album": {
         "name": "Lazers (I Can't Stop Dancing)",
         "url": "https://open.spotify.com/album/1fxstnAo7RMGP1P09EEzCO"
       },
@@ -7758,6 +7968,32 @@
       "duration_ms": 209654,
       "name": "Live Together",
       "url": "https://open.spotify.com/track/3zk5JgFAFu8l6pNJ6p5ouI"
+    },
+    {
+      "album": {
+        "name": "Locked In (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168923,
+      "name": "Locked In (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
     },
     {
       "album": {
@@ -8429,6 +8665,36 @@
     },
     {
       "album": {
+        "name": "Makina Time",
+        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
+    },
+    {
+      "album": {
         "name": "Archangel",
         "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
       },
@@ -8558,6 +8824,24 @@
       "duration_ms": 195000,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
+    },
+    {
+      "album": {
+        "name": "Straf (Soundtrack)",
+        "url": "https://open.spotify.com/album/6RMfVRj6ZOkfALZPJqlzgI"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254620,
+      "name": "Melchior\u2019s Dance",
+      "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
     },
     {
       "album": {
@@ -8818,6 +9102,28 @@
       "duration_ms": 129951,
       "name": "More Of The Same",
       "url": "https://open.spotify.com/track/0ce4nqi9EevtwI1keTBa07"
+    },
+    {
+      "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
     },
     {
       "album": {
@@ -9348,7 +9654,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 126926,
       "name": "Nobody (Like You)",
       "url": "https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs"
@@ -9552,7 +9858,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 212000,
       "name": "obvious",
       "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
@@ -10981,6 +11287,24 @@
     },
     {
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/5ypfZgQoCAANGQxHSfHgPW"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243768,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1CiXbMSxc4kpStUFkIFu0s"
+    },
+    {
+      "album": {
         "name": "RELOAD",
         "url": "https://open.spotify.com/album/7g8sxS3WQzcxfEGEJKLp7E"
       },
@@ -11496,6 +11820,28 @@
       "duration_ms": 221917,
       "name": "Scandalous (feat. DOOLIE)",
       "url": "https://open.spotify.com/track/4gXgtfDJQ59VI3d2lz0ZKO"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "scared",
+      "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
     },
     {
       "album": {
@@ -12112,7 +12458,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 228099,
       "name": "Somebody Knows",
       "url": "https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc"
@@ -12434,7 +12780,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 190939,
       "name": "Starz",
       "url": "https://open.spotify.com/track/2EfjTWWyAlXwGPxkzagYe1"
@@ -12895,6 +13241,24 @@
     },
     {
       "album": {
+        "name": "Take A Step Back",
+        "url": "https://open.spotify.com/album/1kjf9ZpkgUR4MT6zNEppSC"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Take A Step Back",
+      "url": "https://open.spotify.com/track/3MDgnjyoPGEFYBxpM6v1ay"
+    },
+    {
+      "album": {
         "name": "Is this even real?",
         "url": "https://open.spotify.com/album/5HoqdkytdUrqRqn7sxLR25"
       },
@@ -12906,7 +13270,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 236097,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz"

@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabriel Borges, Luiza Martins",
-  "num_followers": 482583,
+  "num_followers": 482592,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
-      },
-      "artists": [
-        {
-          "name": "Augusto & At\u00edlio",
-          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
-        }
-      ],
-      "duration_ms": 156443,
-      "name": "Morena do Paran\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Trenz\u00e3o",
         "url": "https://open.spotify.com/album/0eae7DFMxNR1POOCEPPfp3"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 154607,
       "name": "Trenz\u00e3o",
       "url": "https://open.spotify.com/track/2aJNpEOjTGtHrX34e76FXl"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
+      },
+      "artists": [
+        {
+          "name": "Augusto & At\u00edlio",
+          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
+        }
+      ],
+      "duration_ms": 156443,
+      "name": "Morena do Paran\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
+        "name": "Susto",
+        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 190513,
+      "name": "Susto",
+      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
         "name": "Flash (Ao Vivo)",
         "url": "https://open.spotify.com/album/52tMxfqf7kMQPbMDWkSIzm"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 198460,
       "name": "Amor em Segredo - Mod\u00e3o e Paix\u00e3o, Ao Vivo",
       "url": "https://open.spotify.com/track/4QosdnFeLI1n5zfktyZVMp"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
-        "name": "Susto",
-        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 190513,
-      "name": "Susto",
-      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Aqui N\u00e3o Passarinho",
-        "url": "https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e"
-      },
-      "artists": [
-        {
-          "name": "Thauane",
-          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Aqui N\u00e3o Passarinho",
-      "url": "https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Bate-Volta",
         "url": "https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 199375,
       "name": "Eu Posso Ser - Ao Vivo",
       "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Aqui N\u00e3o Passarinho",
+        "url": "https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Aqui N\u00e3o Passarinho",
+      "url": "https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -667,6 +667,42 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
+        "name": "NuDoze (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Fabiano",
+          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "duration_ms": 189379,
+      "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Suor de Ontem",
+        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
+        }
+      ],
+      "duration_ms": 161747,
+      "name": "Suor de Ontem",
+      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
         "name": "Tomara Que Caia",
         "url": "https://open.spotify.com/album/2S46cBo0ffDBVK1WvJscGO"
       },
@@ -719,42 +755,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "NuDoze (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Fabiano",
-          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        }
-      ],
-      "duration_ms": 189379,
-      "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
-        "name": "Suor de Ontem",
-        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
-      },
-      "artists": [
-        {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        }
-      ],
-      "duration_ms": 161747,
-      "name": "Suor de Ontem",
-      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Carioca",
         "url": "https://open.spotify.com/album/69V5hFmFuc9tC34V1491V4"
       },
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Atitude (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
-      },
-      "artists": [
-        {
-          "name": "Renan e Ray",
-          "url": "https://open.spotify.com/artist/0CMhks6EQXEKjZvL0iF2zJ"
-        },
-        {
-          "name": "Val\u00e9ria Barros",
-          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
-        }
-      ],
-      "duration_ms": 193891,
-      "name": "Atitude - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Vou Ou N\u00e3o Vou",
         "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 171526,
       "name": "Vou ou N\u00e3o Vou",
       "url": "https://open.spotify.com/track/5MbLwOO7IGcDSD3r7NYSJQ"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Atitude (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
+      },
+      "artists": [
+        {
+          "name": "Renan e Ray",
+          "url": "https://open.spotify.com/artist/0CMhks6EQXEKjZvL0iF2zJ"
+        },
+        {
+          "name": "Val\u00e9ria Barros",
+          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
+        }
+      ],
+      "duration_ms": 193891,
+      "name": "Atitude - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -867,6 +867,22 @@
       "duration_ms": 146613,
       "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
       "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Resenha Do Interior (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
+      },
+      "artists": [
+        {
+          "name": "Heitor",
+          "url": "https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW"
+        }
+      ],
+      "duration_ms": 138816,
+      "name": "Resenha Do Interior (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -939,22 +955,6 @@
       "duration_ms": 160234,
       "name": "Rodeios Da Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/3cvE7L04DUCTEQr9Ug1MtN"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
-        "name": "Resenha Do Interior (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KNtxYtVX0pK3h4z8hUSxh"
-      },
-      "artists": [
-        {
-          "name": "Heitor",
-          "url": "https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW"
-        }
-      ],
-      "duration_ms": 138816,
-      "name": "Resenha Do Interior (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS"
     },
     {
       "added_at": "2026-01-16 03:03:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-16 03:03:25",
       "album": {
-        "name": "Quarto Escuro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4cYmEhZZlG2QjGsuIGovhq"
-      },
-      "artists": [
-        {
-          "name": "Thayn\u00e1 Vasconcelos",
-          "url": "https://open.spotify.com/artist/7GgeeUpJBE0HsHbpkHTq2l"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "Quarto Escuro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qdJvgmh0HOmJ6c8Fwp2cr"
-    },
-    {
-      "added_at": "2026-01-16 03:03:25",
-      "album": {
         "name": "Grudou (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ArnOR10VCCEwwNzYyyjRp"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 157403,
       "name": "Grudou - Ao Vivo",
       "url": "https://open.spotify.com/track/7hM96sLZRhP0nSjYWeFDO6"
+    },
+    {
+      "added_at": "2026-01-16 03:03:25",
+      "album": {
+        "name": "Quarto Escuro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4cYmEhZZlG2QjGsuIGovhq"
+      },
+      "artists": [
+        {
+          "name": "Thayn\u00e1 Vasconcelos",
+          "url": "https://open.spotify.com/artist/7GgeeUpJBE0HsHbpkHTq2l"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "Quarto Escuro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qdJvgmh0HOmJ6c8Fwp2cr"
     },
     {
       "added_at": "2026-01-16 03:03:25",

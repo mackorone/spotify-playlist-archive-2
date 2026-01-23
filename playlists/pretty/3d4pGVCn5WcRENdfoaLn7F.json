@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 444,
+  "num_followers": 448,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACZ0qu1VCbsPwN35WASCvlTPVczp+2",
+  "snapshot_id": "AAACbNcZ6ailFhiM2QDnZh6s8hLJliUe",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -775,6 +775,86 @@
       "duration_ms": 149144,
       "name": "No One Speaks",
       "url": "https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx"
+    },
+    {
+      "added_at": "2026-01-22 03:54:39",
+      "album": {
+        "name": "Fly Eagle Fly",
+        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Fly Eagle Fly",
+      "url": "https://open.spotify.com/track/3hPCPkc3F0Sho1x08IJ4SD"
+    },
+    {
+      "added_at": "2026-01-22 04:24:48",
+      "album": {
+        "name": "Fading Silhouette",
+        "url": "https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk"
+      },
+      "artists": [
+        {
+          "name": "Indie Indie",
+          "url": "https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa"
+        }
+      ],
+      "duration_ms": 246658,
+      "name": "I knew for the first time",
+      "url": "https://open.spotify.com/track/02Sp5xLnuv0Fz8r8XKmriq"
+    },
+    {
+      "added_at": "2026-01-22 04:26:07",
+      "album": {
+        "name": "It's Not Much But It's Honest",
+        "url": "https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI"
+      },
+      "artists": [
+        {
+          "name": "Chase Cavanaugh",
+          "url": "https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "It's Not Much But It's Honest",
+      "url": "https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC"
+    },
+    {
+      "added_at": "2026-01-22 15:33:20",
+      "album": {
+        "name": "Catnip Stun",
+        "url": "https://open.spotify.com/album/3IfmMhNxkyo4dmSXqOOZtK"
+      },
+      "artists": [
+        {
+          "name": "Margarida The Cat",
+          "url": "https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ"
+        }
+      ],
+      "duration_ms": 279121,
+      "name": "Catnip Stun",
+      "url": "https://open.spotify.com/track/4bcfDYa8s0gHGMcGsySJne"
+    },
+    {
+      "added_at": "2026-01-22 15:35:18",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj"
+      },
+      "artists": [
+        {
+          "name": "Claudia Ferri",
+          "url": "https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

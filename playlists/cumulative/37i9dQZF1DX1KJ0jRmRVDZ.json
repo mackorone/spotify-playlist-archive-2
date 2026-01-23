@@ -23303,6 +23303,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u7f6a",
+        "url": "https://open.spotify.com/album/3QeR04Owa7pEGnADPqEoHZ"
+      },
+      "artists": [
+        {
+          "name": "\u7f6a\u5341\u7f70",
+          "url": "https://open.spotify.com/artist/0DiLMcWEBw0ibunNvLZkR3"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203718,
+      "name": "\u5927\u7f6a",
+      "url": "https://open.spotify.com/track/4owQhVTHDu57a02yIo0IcI"
+    },
+    {
+      "album": {
         "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
         "url": "https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx"
       },

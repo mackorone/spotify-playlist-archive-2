@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Organoclorados, Jon Drake and more",
+  "description": "With AlligatorX, Jon Drake, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 241223,
       "name": "A-DAY - Remaster",
       "url": "https://open.spotify.com/track/7t1MTQdvPlQdus0lAhXSx1"
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Bait of fate",
+        "url": "https://open.spotify.com/album/448XTbAt6UPSo83dLGqMVR"
+      },
+      "artists": [
+        {
+          "name": "Jyri Kannisto",
+          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Bait of fate",
+      "url": "https://open.spotify.com/track/33TCxoLnemJ2mBfBu4p9Um"
+    },
+    {
+      "album": {
         "name": "Baltas \u0161erk\u0161nas",
         "url": "https://open.spotify.com/album/2PhtyCZegS0K9wsJt9EMxv"
       },
@@ -380,7 +398,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -434,7 +452,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 295546,
       "name": "Born Enemies",
       "url": "https://open.spotify.com/track/3JjK6ksNhxw8u2EzhHKrnz"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 327000,
       "name": "Burning Inside",
       "url": "https://open.spotify.com/track/57etxlzcczpFq845M5O6ln"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 175034,
       "name": "Campana de Gauss",
       "url": "https://open.spotify.com/track/6xcnKsDtCmYNS67cbUq8sz"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 190096,
       "name": "Honey don't you cry - Radio Edit",
       "url": "https://open.spotify.com/track/5lsAly8g0gIdwmup8n6oGn"
@@ -1924,6 +1942,24 @@
       "duration_ms": 293013,
       "name": "How Are You Long Island?",
       "url": "https://open.spotify.com/track/2wmiE2q3SLAKkeqFpklHEF"
+    },
+    {
+      "album": {
+        "name": "How Are You Long Island?",
+        "url": "https://open.spotify.com/album/2xNCO16tuij8DZoJRTgaQD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Sing & The 31 Days",
+          "url": "https://open.spotify.com/artist/1tDfUZR8uXrOlzGIw14COY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "How Are You Long Island?",
+      "url": "https://open.spotify.com/track/7EQI6JwI7qVaXWwaBLtIsx"
     },
     {
       "album": {
@@ -2064,7 +2100,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 271226,
       "name": "Ilaanningooq",
       "url": "https://open.spotify.com/track/6JJzChNf3xDCvpnIuZTNKl"
@@ -2154,7 +2190,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 193000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2nWIIAhtejQ3dr5mR7WHWg"
@@ -2580,7 +2616,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 238200,
       "name": "Look at the Violence",
       "url": "https://open.spotify.com/track/50zDVDwhXmzaszuoMAe20L"
@@ -2670,7 +2706,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2894,7 +2930,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 250197,
       "name": "Mortel",
       "url": "https://open.spotify.com/track/1cUwqleCN1M33zrnDCyGqU"
@@ -3172,7 +3208,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "Nothin' Like Me",
       "url": "https://open.spotify.com/track/3IohhjorbBKXEVmet4HJDQ"
@@ -3356,7 +3392,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 230008,
       "name": "Ophelia Knows",
       "url": "https://open.spotify.com/track/0uTQ8UL3YrcpIPRv8HbUEP"
@@ -3504,7 +3540,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -3540,7 +3576,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Prohibition",
       "url": "https://open.spotify.com/track/2wzREpiY1XCECOrVtfA194"
@@ -3576,7 +3612,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 183080,
       "name": "Quick, Fast And In A Hurry",
       "url": "https://open.spotify.com/track/7kYt80QO4Pficzg8OdogNP"
@@ -3908,7 +3944,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -3980,7 +4016,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 298903,
       "name": "Snijeg",
       "url": "https://open.spotify.com/track/5hN7JhizAin1GqUfT8vWGH"
@@ -4178,7 +4214,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
@@ -4240,7 +4276,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 202000,
       "name": "Strak Saltomortale",
       "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
@@ -4258,7 +4294,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -4366,7 +4402,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 318974,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/2uEwxHziGu3yz3YSf6oBkd"
@@ -4456,7 +4492,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 200267,
       "name": "Takk f\u00f8r alt",
       "url": "https://open.spotify.com/track/2ajW4vIKBOEPE83qwspXFx"
@@ -4604,7 +4640,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -4694,7 +4730,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 255435,
       "name": "The Perfect Clown",
       "url": "https://open.spotify.com/track/7xTywMmLuhj3hgB93jdVe3"
@@ -5210,7 +5246,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 286750,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/4f2s8tjc9RB3yDkLnyWdbG"
@@ -5228,7 +5264,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 346259,
       "name": "Waker Trace",
       "url": "https://open.spotify.com/track/12O1Iub7g4aipJhH75akR0"

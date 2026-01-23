@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Charles Dor\u00e9",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Helena",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Je dors",
+        "url": "https://open.spotify.com/album/0EeVZMmm0FkrsiDkHCMI9D"
+      },
+      "artists": [
+        {
+          "name": "Tumulte",
+          "url": "https://open.spotify.com/artist/3ot5afmxg2m0UcMaw6SaOg"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Je dors",
+      "url": "https://open.spotify.com/track/2gtBiMhgr0reYXn2CAoXGP"
+    },
+    {
+      "album": {
         "name": "Je ne pense qu'\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2ZfeZxtZoDt1R6MY1LPD4Z"
       },
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 138181,
       "name": "L'ann\u00e9e prochaine",
       "url": "https://open.spotify.com/track/79OwFPC1StV7OVi6CSd1ww"
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 175346,
       "name": "L'idylle",
       "url": "https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD"
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 183171,
       "name": "La Fille",
       "url": "https://open.spotify.com/track/76eh5U2VpwTUtyCrziMtf9"
@@ -3609,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Vivre... Encore",
+        "url": "https://open.spotify.com/album/0WgiE58DiPwPyAfn8uKMHi"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/7ysVNnjg2Grayml3fkh7u3"
+    },
+    {
+      "album": {
         "name": "Le c\u0153ur des gens",
         "url": "https://open.spotify.com/album/3SPP126rpN5T8KyOMyP0PY"
       },
@@ -3852,6 +3888,24 @@
       "duration_ms": 179000,
       "name": "Lentement",
       "url": "https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ"
+    },
+    {
+      "album": {
+        "name": "Sinc\u00e8re",
+        "url": "https://open.spotify.com/album/77sVqb7mCGYz8dJRB5a7BB"
+      },
+      "artists": [
+        {
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161269,
+      "name": "Les autres",
+      "url": "https://open.spotify.com/track/0iAZ27myFIUjZySlCPuZmW"
     },
     {
       "album": {
@@ -4709,6 +4763,24 @@
     },
     {
       "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/2i5x2wHf6PsiVfvM5aiex1"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185046,
+      "name": "Mon paradis",
+      "url": "https://open.spotify.com/track/758expDDK3WThsnyCMtrYl"
+    },
+    {
+      "album": {
         "name": "Ycare",
         "url": "https://open.spotify.com/album/6bWO1X7Juo4OwfyQIW6e9e"
       },
@@ -5262,7 +5334,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 175000,
       "name": "Par coeur (feat. Joseph Kamel)",
       "url": "https://open.spotify.com/track/1grONqhU4gXxscprACJbzW"
@@ -5685,6 +5757,28 @@
     },
     {
       "album": {
+        "name": "Pourquoi ?",
+        "url": "https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP"
+      },
+      "artists": [
+        {
+          "name": "Patxi",
+          "url": "https://open.spotify.com/artist/0gSwb8hjVjngaLSPYOcpy9"
+        },
+        {
+          "name": "Sylvain Duthu",
+          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178106,
+      "name": "Pourquoi ?",
+      "url": "https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm"
+    },
+    {
+      "album": {
         "name": "Pourquoi c'est ma faute",
         "url": "https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a"
       },
@@ -5754,6 +5848,24 @@
       "duration_ms": 158506,
       "name": "probl\u00e8me probl\u00e8me",
       "url": "https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI"
+    },
+    {
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "Pr\u00eat \u00e0 t'aimer",
+      "url": "https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13"
     },
     {
       "album": {
@@ -6746,7 +6858,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 179040,
       "name": "Tant qu\u2019on est libre",
       "url": "https://open.spotify.com/track/3JfZt68oNagPAtTPHuoPD1"
@@ -7096,7 +7208,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 168400,
       "name": "Toxic et Chic",
       "url": "https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP"

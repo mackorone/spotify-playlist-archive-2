@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Converge
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,127 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,163 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 92 | [Scream](https://open.spotify.com/track/3gUqdFcilOuLCU5xOY1JY2) | [Lead Horizon](https://open.spotify.com/artist/5iF3nNoHv3gEm9mobCwdxC) | [Scream](https://open.spotify.com/album/7qihvpNchX2omO7b23XZp8) | 2:52 |
 | 93 | [The Fire of Yore](https://open.spotify.com/track/1CSdhH0UN34FoMZ0sxH0yw) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [The Fire of Yore](https://open.spotify.com/album/7kzwE3n3PVNPfNnuQsPb23) | 3:19 |
 | 94 | [Not Alone \[EVOLVED\]](https://open.spotify.com/track/2I6S0eyVgjsTMYTAGgSrcB) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [Not Alone \[EVOLVED\]](https://open.spotify.com/album/4vG5UZ0kj6764ER5e3extj) | 4:12 |
-| 95 | [Crowned In Crimson](https://open.spotify.com/track/3tBDA9r3tKMV1y3wv0H9Ls) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Crowned In Crimson](https://open.spotify.com/album/4rBMBnxWbUxuHKIEN7ydBT) | 4:35 |
+| 95 | [Crowned In Crimson \(From “Son of Revenge \- The Story of Kalevala”\)](https://open.spotify.com/track/3tBDA9r3tKMV1y3wv0H9Ls) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Crowned In Crimson \(From “Son of Revenge \- The Story of Kalevala”\)](https://open.spotify.com/album/4rBMBnxWbUxuHKIEN7ydBT) | 4:35 |
 | 96 | [My Remedy](https://open.spotify.com/track/7cnnpla32R8lHOG7iOmgR9) | [Wake Me](https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj) | [Self Destruct EP](https://open.spotify.com/album/2WDF9RGf8QFgREhpr0QOK6) | 3:32 |
 | 97 | [Not Metal Enough](https://open.spotify.com/track/6O7fwuO42BlyPJMxxkomTz) | [Soulbound](https://open.spotify.com/artist/77iKiudWCr75l34XsQAVpl) | [Not Metal Enough](https://open.spotify.com/album/7AMk8z0Xe5FsbhW7EV09H5) | 3:57 |
 | 98 | [Tears In Rain](https://open.spotify.com/track/5mPDM0SyZmOWsGr7Z6xZgz) | [TAILGUNNER](https://open.spotify.com/artist/6Wl6VXLasmiON3BDiha6e1) | [Tears In Rain](https://open.spotify.com/album/1Bplt6lBp1FMDdrO7UefbY) | 3:28 |

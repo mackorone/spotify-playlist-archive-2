@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del momento en Centroam\u00e9rica. Portada: Ryan Castro, Kapo, Gangsta",
-  "num_followers": 356509,
+  "num_followers": 356503,
   "original_name": "\u00c9xitos Centroam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/6eJgkjqBphZi6C9CuyuC9U"
         }
       ],
       "duration_ms": 192111,

@@ -6286,7 +6286,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 217560,
       "name": "Ayer Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/1QsRXToHGvathPoMPWnwaN"
@@ -8346,7 +8346,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -10230,7 +10230,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 221904,
       "name": "Bonita Bonita - 1950's Soul Jazz",
       "url": "https://open.spotify.com/track/6T8rd4DtgOXFNhPjkfwEH1"
@@ -15912,7 +15912,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -17006,7 +17006,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -38952,6 +38952,10 @@
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/6eJgkjqBphZi6C9CuyuC9U"
         }
       ],
       "date_added": "2025-11-11",
@@ -45932,6 +45936,28 @@
       "duration_ms": 295413,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x"
+    },
+    {
+      "album": {
+        "name": "Mer\u00e9",
+        "url": "https://open.spotify.com/album/6VaqMsjW9Yb9vGC2GBqk8k"
+      },
+      "artists": [
+        {
+          "name": "Dimelo Sam",
+          "url": "https://open.spotify.com/artist/7dleWaQQaQVi1ZqbSoXjJy"
+        },
+        {
+          "name": "DJ Luigi",
+          "url": "https://open.spotify.com/artist/5w2OgsMvAlXcsBNeZ91bqU"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214399,
+      "name": "Mer\u00e9",
+      "url": "https://open.spotify.com/track/7m2ZdJo5lzQ9tDwDcymFcb"
     },
     {
       "album": {
@@ -60818,7 +60844,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 147719,
       "name": "Quiero paz nada m\u00e1s",
       "url": "https://open.spotify.com/track/5ioSXhqg7ViPekWDnQuga7"
@@ -66134,7 +66160,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 278973,
       "name": "Si Me Topas - Remix",
       "url": "https://open.spotify.com/track/7wC3PXTW2za4fXJznW0cod"

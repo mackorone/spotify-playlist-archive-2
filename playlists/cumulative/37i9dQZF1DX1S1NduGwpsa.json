@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabi Hartmann",
+  "description": "The best jazz new releases. Cover: The Getdown",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 300938,
       "name": "Angel Dust - Kyoto Jazz Massive Remix",
       "url": "https://open.spotify.com/track/777KS3sCp5SkizGM5LmXOA"
@@ -1232,6 +1232,24 @@
       "duration_ms": 150076,
       "name": "around the world",
       "url": "https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU"
+    },
+    {
+      "album": {
+        "name": "As",
+        "url": "https://open.spotify.com/album/4XxaxELTGozCzIJsasoG8q"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299303,
+      "name": "As",
+      "url": "https://open.spotify.com/track/3H6rGdvid0cBQDvluU8lFj"
     },
     {
       "album": {
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163315,
       "name": "deja vu (feat. Joe la panic)",
       "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
@@ -6958,7 +6976,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 381053,
       "name": "Huckabuck Garden",
       "url": "https://open.spotify.com/track/4kVx0Ed7BqAgXp1r9qyOQl"
@@ -8372,7 +8390,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 238640,
       "name": "Joydance",
       "url": "https://open.spotify.com/track/6rv22k06Q8G2z6azJJAt3K"
@@ -9074,7 +9092,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
@@ -10931,6 +10949,28 @@
     },
     {
       "album": {
+        "name": "Moonshadow",
+        "url": "https://open.spotify.com/album/03krhuEDwV1JmVUTI7SYHV"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Moonshadow",
+      "url": "https://open.spotify.com/track/42XjekxUZwW4zksq1af7YF"
+    },
+    {
+      "album": {
         "name": "More Understanding Than A Man",
         "url": "https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE"
       },
@@ -11260,7 +11300,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 356217,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/5CIU0VYLwZyIo7hwolhWph"
@@ -12162,6 +12202,24 @@
       "duration_ms": 160400,
       "name": "One Week",
       "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
+    },
+    {
+      "album": {
+        "name": "West of Broadway (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Pu7oGvOi4CoTnSUQqLlrZ"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203446,
+      "name": "One Wonders Why - deluxe bonus track",
+      "url": "https://open.spotify.com/track/1dhHKhItoJoBPe4ewDdTjj"
     },
     {
       "album": {
@@ -14845,6 +14903,28 @@
     },
     {
       "album": {
+        "name": "Strange Magic",
+        "url": "https://open.spotify.com/album/6jN7NCBUgbPezubxOkCt3u"
+      },
+      "artists": [
+        {
+          "name": "Shai Maestro",
+          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264698,
+      "name": "Strange Magic",
+      "url": "https://open.spotify.com/track/7BBJGgySjfGRFtEqDWEPUl"
+    },
+    {
+      "album": {
         "name": "Radio Paradise",
         "url": "https://open.spotify.com/album/75bmxd1pTLhprMSVuxg9tw"
       },
@@ -16232,6 +16312,24 @@
       "duration_ms": 271911,
       "name": "The Quest Begins",
       "url": "https://open.spotify.com/track/3pbRUWgefMDCVY0DBFoNkK"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293601,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX"
     },
     {
       "album": {
@@ -18154,6 +18252,24 @@
       "duration_ms": 337065,
       "name": "What We Are and What We Are Meant to Be",
       "url": "https://open.spotify.com/track/6vWyxdcmw1wpXiqU0CtSJc"
+    },
+    {
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6"
     },
     {
       "album": {

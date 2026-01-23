@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-483 songs - 1 day 0 hr 25 min
+484 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Roof Garden \- Drum Crazy Reprise](https://open.spotify.com/track/4DZ40512IFfVjjK7Xf6V3O) | [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 1:06 | 2024-07-26 |  |
 | [Roses Of Yesterday](https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:53 | 2025-09-10 |  |
 | [S Wonderful](https://open.spotify.com/track/2IYGMvHtyXgaS8sOr73woD) | [Jazz Players](https://open.spotify.com/artist/4pbQ3zvr3psUdWXteE6rLH) | [1920s Jazz: Sweet Georgia Brown](https://open.spotify.com/album/2oGLs5TXzAWBLynybH13xI) | 1:36 | 2024-07-26 |  |
-| [Same Old Moon](https://open.spotify.com/track/4NT3OX8XteNgOWEHyS8eSY) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [Miss You Already](https://open.spotify.com/album/6TSbO35IMKlwIFt5w3SUd7) | 3:07 | 2026-01-21 |  |
+| [Same Old Moon](https://open.spotify.com/track/4NT3OX8XteNgOWEHyS8eSY) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [Miss You Already](https://open.spotify.com/album/6TSbO35IMKlwIFt5w3SUd7) | 3:07 | 2026-01-21 | 2026-01-23 |
+| [Same Old Moon](https://open.spotify.com/track/1fNtz0Iux3raxxojewNyZa) | [Rudy Vallee and His Connecticut Yankees](https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj) | [Crazy For You!](https://open.spotify.com/album/2UMBmpRIJUh7NmRUPj81JB) | 3:07 | 2026-01-22 |  |
 | [San Francisco Bound](https://open.spotify.com/track/2sN3x6FoTmgMSzHqr6xauy) | [Charlie Franklin](https://open.spotify.com/artist/21fXTMS53M924eIrXSqRwo) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 1:55 | 2024-07-26 |  |
 | [Say It With Music](https://open.spotify.com/track/2H4vYBcC0eiYDNc5wCNlaR) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 2:25 | 2024-07-26 |  |
 | [Send a Lot of Jazzbands over There](https://open.spotify.com/track/0iJPOzU4l5hCRjsi8zRYAH) | [Jerry Dixon](https://open.spotify.com/artist/3xA83ekBDkCQRt9WiNGe3x) | [Chip Deffaa's Irving Berlin: Sweet and Hot](https://open.spotify.com/album/5uzr4VbJR04zFvWgoK3Zc2) | 2:37 | 2024-07-26 |  |

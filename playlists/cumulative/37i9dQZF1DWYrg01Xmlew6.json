@@ -4767,6 +4767,32 @@
     },
     {
       "album": {
+        "name": "John Dillinger (feat. Dipinto & Frezza)",
+        "url": "https://open.spotify.com/album/7ebs1vlI6Tu6LbbgevK8BR"
+      },
+      "artists": [
+        {
+          "name": "DDM 80146",
+          "url": "https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV"
+        },
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "John Dillinger (feat. Dipinto & Frezza)",
+      "url": "https://open.spotify.com/track/4GYgPGC8aGcnNRM1xSRGX1"
+    },
+    {
+      "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
       },

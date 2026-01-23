@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,255 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,251 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 90 | [Alegre Vengo](https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1) | [Jorge Morel](https://open.spotify.com/artist/4UInbVItXnUwebTiUjN9mP) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:42 |
 | 91 | [Lamento Jíbaro](https://open.spotify.com/track/03oKH38TtT7vfyRfgZVRBE) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Salsa Gorda..\. En Navidad](https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF) | 3:16 |
 | 92 | [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 |
-| 93 | [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 |
-| 94 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 |
+| 93 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 |
+| 94 | [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 |
 | 95 | [Navidad , Navidad](https://open.spotify.com/track/6HbzRvIncheZaMjHVaZOge) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 3:51 |
 | 96 | [Diciembre \(feat\. Ismael Miranda & Oscar Serrano\)](https://open.spotify.com/track/62tBftJvdBsJWnF7FRJYts) | [Julio César Sanabria](https://open.spotify.com/artist/7mSNsfodgXzpuYNl7qucXN), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Oscar Serrano](https://open.spotify.com/artist/3JVWQ7QMUhs9WZW6dC3Fqc) | [Navidad a Lo Boricua](https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM) | 3:09 |
 | 97 | [Aguinaldo Antillano](https://open.spotify.com/track/4cSb2YhIADVMTrJPjxIPBp) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:56 |

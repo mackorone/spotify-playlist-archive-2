@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: \u79e6 \u57fa\u535a",
-  "num_followers": 64751,
+  "num_followers": 64783,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "Laugh",
-        "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
-      },
-      "artists": [
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Latata",
-      "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
         "name": "\u975e\u5e38\u53e3 \u9003\u3052\u3066\u307f\u305f",
         "url": "https://open.spotify.com/album/59TRLFMumqYTvUagnwi6Zh"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 183917,
       "name": "\u975e\u5e38\u53e3 \u9003\u3052\u3066\u307f\u305f",
       "url": "https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Latata",
+      "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -807,8 +807,8 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "TOGE",
-        "url": "https://open.spotify.com/album/7lFfHjC3q539cmhX71Dlhz"
+        "name": "\u7206\u901f\u8ad6\u7406ness",
+        "url": "https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
         }
       ],
-      "duration_ms": 252352,
-      "name": "TOGE",
-      "url": "https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN"
+      "duration_ms": 152871,
+      "name": "\u7206\u901f\u8ad6\u7406ness",
+      "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "frozen",
-        "url": "https://open.spotify.com/album/0KmwumEoRrnixx6CS5zjsp"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 197630,
-      "name": "frozen",
-      "url": "https://open.spotify.com/track/2DDBkH4P2gJE7JFUb2B4sV"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
+        "name": "frozen",
+        "url": "https://open.spotify.com/album/0KmwumEoRrnixx6CS5zjsp"
       },
       "artists": [
         {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
         }
       ],
-      "duration_ms": 224812,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
+      "duration_ms": 197630,
+      "name": "frozen",
+      "url": "https://open.spotify.com/track/2DDBkH4P2gJE7JFUb2B4sV"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
         "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
         "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 227538,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
       "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
-        "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
-        "url": "https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5"
-      },
-      "artists": [
-        {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
-        }
-      ],
-      "duration_ms": 215115,
-      "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
-      "url": "https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "LALALA (Baby it takes two)",
-        "url": "https://open.spotify.com/album/74Zy5Q7uB8BjuLaHJFBQlK"
+        "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
+        "url": "https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
         }
       ],
-      "duration_ms": 182794,
-      "name": "LALALA (Baby it takes two)",
-      "url": "https://open.spotify.com/track/3xUMHTsZA4iU1azQcz6RJO"
+      "duration_ms": 215115,
+      "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
+      "url": "https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1083,6 +1067,38 @@
       "duration_ms": 252501,
       "name": "pink",
       "url": "https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
+        "name": "f.r.i.e.n.d.s",
+        "url": "https://open.spotify.com/album/2kjfpvzHgWyebfwEDsrWFb"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 191804,
+      "name": "f.r.i.e.n.d.s",
+      "url": "https://open.spotify.com/track/38vY7iWD9wUeelZOGhogIN"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
+        "name": "Sonare",
+        "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203712,
+      "name": "Sonare",
+      "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1135,8 +1151,8 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "f.r.i.e.n.d.s",
-        "url": "https://open.spotify.com/album/2kjfpvzHgWyebfwEDsrWFb"
+        "name": "LALALA (Baby it takes two)",
+        "url": "https://open.spotify.com/album/74Zy5Q7uB8BjuLaHJFBQlK"
       },
       "artists": [
         {
@@ -1144,25 +1160,25 @@
           "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 191804,
-      "name": "f.r.i.e.n.d.s",
-      "url": "https://open.spotify.com/track/38vY7iWD9wUeelZOGhogIN"
+      "duration_ms": 182794,
+      "name": "LALALA (Baby it takes two)",
+      "url": "https://open.spotify.com/track/3xUMHTsZA4iU1azQcz6RJO"
     },
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "Sonare",
-        "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
+        "name": "Fly You to the Moon",
+        "url": "https://open.spotify.com/album/7gW16al5pBDDotYTidON1P"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "\u6620\u79c0\u3002",
+          "url": "https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k"
         }
       ],
-      "duration_ms": 203712,
-      "name": "Sonare",
-      "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
+      "duration_ms": 164502,
+      "name": "Fly You to the Moon",
+      "url": "https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "Fly You to the Moon",
-        "url": "https://open.spotify.com/album/7gW16al5pBDDotYTidON1P"
+        "name": "\u6ce1\u6cab",
+        "url": "https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU"
       },
       "artists": [
         {
-          "name": "\u6620\u79c0\u3002",
-          "url": "https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k"
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
         }
       ],
-      "duration_ms": 164502,
-      "name": "Fly You to the Moon",
-      "url": "https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM"
+      "duration_ms": 231724,
+      "name": "\u6ce1\u6cab",
+      "url": "https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "\u6ce1\u6cab",
-        "url": "https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU"
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS"
       },
       "artists": [
         {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
         }
       ],
-      "duration_ms": 231724,
-      "name": "\u6ce1\u6cab",
-      "url": "https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY"
+      "duration_ms": 216571,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1259,22 +1275,6 @@
       "duration_ms": 251179,
       "name": "\u4eca\u5bb5\u306e\u6708\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/2uNtAVjQCow6urms1E73C0"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Quartus",
-          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "GRAY",
-        "url": "https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw"
-      },
-      "artists": [
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
-        }
-      ],
-      "duration_ms": 300830,
-      "name": "GRAY",
-      "url": "https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
         "name": "Watakushigoto",
         "url": "https://open.spotify.com/album/0yluVTD3TFRTJugt6gNt87"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
+        "name": "GRAY",
+        "url": "https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 300830,
+      "name": "GRAY",
+      "url": "https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
         "name": "Like Gravity",
         "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
       },
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
-        "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
+        "name": "glauben",
+        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 189533,
-      "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
-      "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
+      "duration_ms": 175666,
+      "name": "\u98db\u884c\u8239",
+      "url": "https://open.spotify.com/track/5ZQjLxRk8jNdkRtqyb3HaJ"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "Wormhole / Yumi AraI",
-        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 269881,
-      "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
         "name": "3%\u3068\u79c1\u3002",
         "url": "https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi"
       },
@@ -1475,8 +1459,24 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "glauben",
-        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
+        "name": "Wormhole / Yumi AraI",
+        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 269881,
+      "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
+      "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
+        "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
+        "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
       },
       "artists": [
         {
@@ -1484,25 +1484,9 @@
           "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 175666,
-      "name": "\u98db\u884c\u8239",
-      "url": "https://open.spotify.com/track/5ZQjLxRk8jNdkRtqyb3HaJ"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
-        "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
-        "url": "https://open.spotify.com/album/4DvueRc4WXWvWWCx60bH47"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u8c37 \u7409\u559c",
-          "url": "https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P"
-        }
-      ],
-      "duration_ms": 251452,
-      "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
-      "url": "https://open.spotify.com/track/6BMZmxMoaysa5BVFlFWQGa"
+      "duration_ms": 189533,
+      "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
+      "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
     },
     {
       "added_at": "2026-01-20 17:02:20",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
+        "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
+        "url": "https://open.spotify.com/album/4DvueRc4WXWvWWCx60bH47"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u8c37 \u7409\u559c",
+          "url": "https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P"
+        }
+      ],
+      "duration_ms": 251452,
+      "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
+      "url": "https://open.spotify.com/track/6BMZmxMoaysa5BVFlFWQGa"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
         "name": "\u5915\u65e5",
         "url": "https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-20 17:02:20",
       "album": {
-        "name": "I see you",
-        "url": "https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL"
-      },
-      "artists": [
-        {
-          "name": "Fukase",
-          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
-        }
-      ],
-      "duration_ms": 227632,
-      "name": "I see you",
-      "url": "https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR"
-    },
-    {
-      "added_at": "2026-01-20 17:02:20",
-      "album": {
         "name": "Quest",
         "url": "https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 185106,
       "name": "\u30d6\u30e9\u30f3\u30b3",
       "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"
+    },
+    {
+      "added_at": "2026-01-20 17:02:20",
+      "album": {
+        "name": "I see you",
+        "url": "https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL"
+      },
+      "artists": [
+        {
+          "name": "Fukase",
+          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
+        }
+      ],
+      "duration_ms": 227632,
+      "name": "I see you",
+      "url": "https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR"
     },
     {
       "added_at": "2026-01-20 17:02:20",

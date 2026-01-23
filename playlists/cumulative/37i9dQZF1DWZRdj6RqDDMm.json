@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Center",
+        "url": "https://open.spotify.com/album/5sd7y84zbttW2VFnFMG6yo"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Center",
+      "url": "https://open.spotify.com/track/5zWUDobAvmQoLh4VcJZruJ"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/6esd3NqoJEU7lT86DQIVLX"
       },
@@ -7131,6 +7149,28 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/3pz3S4AkRpWOy3xx4o9QSl"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117462,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/0NjeULB2jjKCSCqnoTCyOf"
+    },
+    {
+      "album": {
         "name": "My God",
         "url": "https://open.spotify.com/album/5hORp9mTcI86b8trPRmaVU"
       },
@@ -11063,6 +11103,28 @@
     },
     {
       "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/5PGdjlbAPmrYJX0nmcge3q"
+      },
+      "artists": [
+        {
+          "name": "KIMAH",
+          "url": "https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191044,
+      "name": "Theory",
+      "url": "https://open.spotify.com/track/6i8L0850DnPijrerHUn5gq"
+    },
+    {
+      "album": {
         "name": "There For Me",
         "url": "https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t"
       },
@@ -11294,6 +11356,24 @@
       "duration_ms": 160000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
       "album": {

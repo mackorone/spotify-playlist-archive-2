@@ -1,111 +1,59 @@
 {
-  "description": "Trending rn. Cover: Danpapa GTA ",
-  "num_followers": 82101,
+  "description": "Trending rn. Cover: Priesst, Victony, Shoday",
+  "num_followers": 82175,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4JVGA3fOjUkrbOv4jNRbXRSE6D",
+  "snapshot_id": "AAAAAChkqU3/bZuVLdlCvzoLsJSPdVz4",
   "tracks": [
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
-      },
-      "artists": [
-        {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
-        }
-      ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
-    },
-    {
-      "added_at": "2026-01-14 12:14:54",
-      "album": {
-        "name": "Akonuche",
-        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+        "name": "Akonuche (Remix)",
+        "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
       },
       "artists": [
         {
           "name": "Priesst",
           "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Akonuche",
-      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
+      "duration_ms": 176530,
+      "name": "Akonuche - Remix",
+      "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
-        "name": "Munachi",
-        "url": "https://open.spotify.com/album/0Po5K4XzLDkEnlLvKmmCVD"
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
       "artists": [
         {
-          "name": "Agb\u00e1",
-          "url": "https://open.spotify.com/artist/6sKiadRicEKCCjyrbzzbmE"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "Munachi",
-      "url": "https://open.spotify.com/track/32eZBRzpOlfJewW9Ih0tu2"
-    },
-    {
-      "added_at": "2026-01-14 12:14:54",
-      "album": {
-        "name": "IDI AMIN",
-        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
-      },
-      "artists": [
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
         {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
         }
       ],
-      "duration_ms": 136470,
-      "name": "IDI AMIN",
-      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
-      "album": {
-        "name": "Lord Faku - The Life Of A Dyan",
-        "url": "https://open.spotify.com/album/0ZEMOVswIWO9Hp3nLcolRK"
-      },
-      "artists": [
-        {
-          "name": "Yanga Chief",
-          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "What If? (Mngani)",
-      "url": "https://open.spotify.com/track/7Ez1p7fKxXISiD4bEwo57E"
-    },
-    {
-      "added_at": "2026-01-14 12:14:54",
-      "album": {
-        "name": "Gimbiyar Hausa",
-        "url": "https://open.spotify.com/album/6o41ZRA8PN1VvXmOA3dVoy"
-      },
-      "artists": [
-        {
-          "name": "Boyskido",
-          "url": "https://open.spotify.com/artist/7xodrwn8b6PBIJMCJwzh5w"
-        }
-      ],
-      "duration_ms": 171337,
-      "name": "Gimbiyar Hausa",
-      "url": "https://open.spotify.com/track/6UJiEG1Dnv7qXzSJXsq97j"
-    },
-    {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Mmmn",
         "url": "https://open.spotify.com/album/6KHUZ6Kw6qohMw6aalUcsb"
@@ -121,7 +69,7 @@
       "url": "https://open.spotify.com/track/0QiUFqWBC5Qzho0Oh0c8U9"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Ukanigbe",
         "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
@@ -137,7 +85,7 @@
       "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -153,7 +101,103 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
+        "name": "Munachi",
+        "url": "https://open.spotify.com/album/0Po5K4XzLDkEnlLvKmmCVD"
+      },
+      "artists": [
+        {
+          "name": "Agb\u00e1",
+          "url": "https://open.spotify.com/artist/6sKiadRicEKCCjyrbzzbmE"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "Munachi",
+      "url": "https://open.spotify.com/track/32eZBRzpOlfJewW9Ih0tu2"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
+        "name": "IDI AMIN",
+        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "IDI AMIN",
+      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
+        "name": "Lord Faku - The Life Of A Dyan",
+        "url": "https://open.spotify.com/album/0ZEMOVswIWO9Hp3nLcolRK"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "What If? (Mngani)",
+      "url": "https://open.spotify.com/track/7Ez1p7fKxXISiD4bEwo57E"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
+        "name": "Gimbiyar Hausa",
+        "url": "https://open.spotify.com/album/6o41ZRA8PN1VvXmOA3dVoy"
+      },
+      "artists": [
+        {
+          "name": "Boyskido",
+          "url": "https://open.spotify.com/artist/7xodrwn8b6PBIJMCJwzh5w"
+        }
+      ],
+      "duration_ms": 171337,
+      "name": "Gimbiyar Hausa",
+      "url": "https://open.spotify.com/track/6UJiEG1Dnv7qXzSJXsq97j"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
+        "name": "Akonuche",
+        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Akonuche",
+      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
@@ -189,7 +233,7 @@
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Love Egbugomo",
         "url": "https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt"
@@ -209,7 +253,7 @@
       "url": "https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Shima / No Love in Lagos",
         "url": "https://open.spotify.com/album/7KiQtAZS3tOKdIX5lwajkH"
@@ -229,7 +273,7 @@
       "url": "https://open.spotify.com/track/0QCusnq4eFoWHPuS05LSko"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -245,7 +289,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Balenciaga kuti",
         "url": "https://open.spotify.com/album/0PqGRliV320NaB8Uqgqeqy"
@@ -261,7 +305,7 @@
       "url": "https://open.spotify.com/track/7iQM0bDeeuZIFP7D4E2hkU"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "+TO THE MAX\u00b0",
         "url": "https://open.spotify.com/album/4NLHpWBztZRw49smO3RwYE"
@@ -277,7 +321,7 @@
       "url": "https://open.spotify.com/track/0kEZrXq0fOzNQYXYto9G9v"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
@@ -297,7 +341,7 @@
       "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
@@ -321,7 +365,7 @@
       "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Galorizzy",
         "url": "https://open.spotify.com/album/7K7xjE4WLt5qg2rbvBQQLq"
@@ -361,7 +405,7 @@
       "url": "https://open.spotify.com/track/5DuhLCBVuGRYVoV64ucaWh"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
@@ -385,7 +429,7 @@
       "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/5DxR3lqaovRan5jG5aP4r2"
@@ -401,7 +445,7 @@
       "url": "https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "ON YOU",
         "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
@@ -417,7 +461,7 @@
       "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
@@ -445,7 +489,7 @@
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -465,7 +509,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
@@ -481,7 +525,7 @@
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Welele",
         "url": "https://open.spotify.com/album/1g7TQXFRWNM36V4Z9XwSBo"
@@ -529,7 +573,7 @@
       "url": "https://open.spotify.com/track/11OYE0acEZL5GVOd9xphwh"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
@@ -549,7 +593,7 @@
       "url": "https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "IMMORTAL JOLLOF",
         "url": "https://open.spotify.com/album/1hcidK06QOjoiXiDi1kiwW"
@@ -569,27 +613,7 @@
       "url": "https://open.spotify.com/track/0nUtVI615Cfu0hi3NqJNLN"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
-      "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Nkemakonam",
         "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Kilometer",
         "url": "https://open.spotify.com/album/5WzkRWevqE598wUgLOqO9J"
@@ -621,7 +645,7 @@
       "url": "https://open.spotify.com/track/56gViJLT1uMBD1uHx3A8Xl"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "SNOKONOKO",
         "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
@@ -661,7 +685,7 @@
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
@@ -681,7 +705,7 @@
       "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "CELINE DION",
         "url": "https://open.spotify.com/album/1hj1CYfh0mOLzUxkxwl7n8"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/0D1vNTcDR3SuZtPFUoTGej"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Who\u2019s Dat Girl",
         "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
@@ -761,7 +785,7 @@
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Shakespopi",
         "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
@@ -777,7 +801,7 @@
       "url": "https://open.spotify.com/track/7t5lmOZhDrZa4GtAfL7GH7"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/01lI217l9g8yjVDt2bsI6u"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -829,7 +853,7 @@
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
@@ -845,7 +869,7 @@
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -861,7 +885,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -921,7 +945,7 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
@@ -937,7 +961,7 @@
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
@@ -953,23 +977,7 @@
       "url": "https://open.spotify.com/track/4hv7GT5g9qNnrxlocsOSYt"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
-      "album": {
-        "name": "Good People Do Bad Things",
-        "url": "https://open.spotify.com/album/4o1K6DAkofuXUNg0aoxofq"
-      },
-      "artists": [
-        {
-          "name": "The Ting Tings",
-          "url": "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Good People Do Bad Things",
-      "url": "https://open.spotify.com/track/493EqYnNogT9DZcEyq4cXS"
-    },
-    {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
@@ -989,7 +997,7 @@
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
     },
     {
-      "added_at": "2026-01-14 12:14:54",
+      "added_at": "2026-01-23 00:01:20",
       "album": {
         "name": "CYK BADDIE",
         "url": "https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ"

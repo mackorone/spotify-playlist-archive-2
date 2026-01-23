@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Veeze ft\. Lil Baby & Rylo Rodriguez, A$AP Rocky, BunnaB and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,885 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,980 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 17 | [Crack \(Remix\)](https://open.spotify.com/track/2G4cGw6VQMeOxhAthZBxaj) | [3Dcam](https://open.spotify.com/artist/0Ug8XunJs2uhubTHdELnG4), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Crack \(Remix\)](https://open.spotify.com/album/5Ux5OC07KszrhZs0DQlH4l) | 2:39 |
 | 18 | [Fuck I'm Tired](https://open.spotify.com/track/7BTwWY4cJficQQksGTLOtA) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Fuck I'm Tired](https://open.spotify.com/album/7EzWM9ZfCrJTrw1ThnmJpT) | 2:49 |
 | 19 | [Ass Match The Legs](https://open.spotify.com/track/0h2jIyHrcK0cBymMj568Ob) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Ass Match The Legs](https://open.spotify.com/album/1sNHtQFhH4f5dSdQiFwIzz) | 3:09 |
-| 20 | [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:34 |
+| 20 | [Sexy](https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sexy](https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW) | 3:21 |
 | 21 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 |
 | 22 | [Golden Gooses](https://open.spotify.com/track/2flLsWTnsEKy0mCBSpBUp4) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Golden Gooses](https://open.spotify.com/album/5vtEOHxWOGgnftqyDtQlTG) | 2:45 |
 | 23 | [Rather Have You](https://open.spotify.com/track/7L4QL5xbIlQAWEBCARnNlr) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Rather Have You](https://open.spotify.com/album/3fCTszug6sllIOp65W1WH3) | 3:46 |

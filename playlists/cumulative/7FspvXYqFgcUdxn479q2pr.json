@@ -1095,6 +1095,28 @@
     },
     {
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165214,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/3DqxOSufAWWVVAXiba6oiZ"
       },
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 331547,
       "name": "Arava",
       "url": "https://open.spotify.com/track/0k2ZUVgUDvrVlXBOpnrcRA"
@@ -5800,7 +5822,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 207396,
       "name": "Feuerzeug & Benzin",
       "url": "https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK"
@@ -6919,6 +6941,28 @@
     },
     {
       "album": {
+        "name": "Hafla",
+        "url": "https://open.spotify.com/album/4wqN2vrOLF8mlXQ7Gnco2D"
+      },
+      "artists": [
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "T-Puse",
+          "url": "https://open.spotify.com/artist/015GbNLBf6vKVstww5m8ch"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Hafla",
+      "url": "https://open.spotify.com/track/60vvoHw9QQpJW6gtzBSEW0"
+    },
+    {
+      "album": {
         "name": "Hands Up, Hands High",
         "url": "https://open.spotify.com/album/6s2f09EJI26AuIl95RTrJ7"
       },
@@ -6952,6 +6996,32 @@
       "duration_ms": 195942,
       "name": "Hangin' On",
       "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
+    },
+    {
+      "album": {
+        "name": "Hard Techno Love",
+        "url": "https://open.spotify.com/album/6H7MamYPP8OBK9c5czBt2F"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "PHOROS",
+          "url": "https://open.spotify.com/artist/3mAGi2CAWTnF7t6CUGJN9q"
+        },
+        {
+          "name": "Church of Molly",
+          "url": "https://open.spotify.com/artist/7uTmmx6Ta5g0KvtxeeFrrn"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Hard Techno Love",
+      "url": "https://open.spotify.com/track/6DH5mdtGpAnQaATeirJeeF"
     },
     {
       "album": {
@@ -8613,6 +8683,28 @@
     },
     {
       "album": {
+        "name": "Insomnia (feat. Andy Ruiz)",
+        "url": "https://open.spotify.com/album/18ApwaaAHJTTgqJnmbMQnY"
+      },
+      "artists": [
+        {
+          "name": "Daxson",
+          "url": "https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW"
+        },
+        {
+          "name": "Andy Ruiz",
+          "url": "https://open.spotify.com/artist/37pBslHk1fKmn3RaMofHhQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147964,
+      "name": "Insomnia (feat. Andy Ruiz)",
+      "url": "https://open.spotify.com/track/3OHKZwLhlW83PqLAUmkr75"
+    },
+    {
+      "album": {
         "name": "Instant Moments",
         "url": "https://open.spotify.com/album/68cGLDtCErPa05dgfbFg0D"
       },
@@ -10070,6 +10162,32 @@
       "duration_ms": 140192,
       "name": "LIVIN' LIFE",
       "url": "https://open.spotify.com/track/5CPWbPYPIpHYv5PRQyijHb"
+    },
+    {
+      "album": {
+        "name": "Locked In (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168923,
+      "name": "Locked In (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
     },
     {
       "album": {
@@ -13500,7 +13618,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 151410,
       "name": "Positive Mental Attitude",
       "url": "https://open.spotify.com/track/12uk73TLnkvQlueSNLLlZM"
@@ -15118,7 +15236,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 333988,
       "name": "Sinai",
       "url": "https://open.spotify.com/track/0xSPANMuiyzybY35CTGAc0"
@@ -17758,7 +17876,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"

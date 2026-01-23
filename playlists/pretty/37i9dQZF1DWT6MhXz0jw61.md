@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,365 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,406 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 3 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |
 | 4 | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/track/4LGl61eELLpzdyWLqizDwF) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Anna Field](https://open.spotify.com/artist/79Xtc3AxtVKZiItuc9Xioo) | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/album/0tGuXDZD9eHvn5b7HXHomz) | 4:23 |
 | 5 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |
-| 6 | [Paper Low](https://open.spotify.com/track/3xZT6OEmmI8bpMKkmGIlwt) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Paper Low](https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl) | 2:42 |
+| 6 | [PAPER LOW](https://open.spotify.com/track/3xZT6OEmmI8bpMKkmGIlwt) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [PAPER LOW](https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl) | 2:42 |
 | 7 | [LiFE 4 A LiFE](https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [LiFE 4 A LiFE](https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ) | 2:59 |
 | 8 | [Pressure](https://open.spotify.com/track/5pOmARmNVJ3fSIOoNbaOrO) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Pressure](https://open.spotify.com/album/3F70A8z0qKYlUTNw8DGWuw) | 2:56 |
 | 9 | [Dos Uvas \- PJ's Flip](https://open.spotify.com/track/5czfp4hTYMr0W7JFTjAKrZ) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Dos Uvas \(PJ's Flip\)](https://open.spotify.com/album/6uPTpysbCOXLo0aEwtEtwI) | 3:41 |

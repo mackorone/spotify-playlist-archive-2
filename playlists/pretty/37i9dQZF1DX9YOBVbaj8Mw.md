@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,301 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,299 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 20 | [Trucizna](https://open.spotify.com/track/5wYOm2m2AhsdTyY3N39Guq) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 2:38 |
 | 21 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 22 | [Kochaj](https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [ZGŁOWY](https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u) | 3:22 |
-| 23 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [DJ CRACK\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
-| 24 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
+| 23 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
+| 24 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [DJ CRACK\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
 | 25 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
 | 26 | [Together \- Pejzaż Remix](https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Pejzaż](https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH) | [Recut](https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7) | 4:10 |
 | 27 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 |

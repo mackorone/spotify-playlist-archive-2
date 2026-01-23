@@ -4,7 +4,7 @@
 
 > Check out our latest Cargo Distribution approved tracks! Updated weekly
 
-528 songs - 1 day 14 hr 40 min
+530 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Hoshi o Atsumete](https://open.spotify.com/track/47QrxLeaB7w84BiWRt1ZEI) | [CxBxT](https://open.spotify.com/artist/6b3mAMqETY2saNhbieaKur), [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l), [Adrian Corker](https://open.spotify.com/artist/0vGBRguVWc2xLgn6crZtQH) | [Hoshi o Atsumete](https://open.spotify.com/album/3Z0Xh6UpfyWmsGkiSHnJR1) | 3:02 | 2025-10-17 | 2025-11-08 |
 | [Hot Topic](https://open.spotify.com/track/3tWXOJwVChbAC2V3JE7EWq) | [Lori](https://open.spotify.com/artist/7tiABCwKiKnwTJhNyE6lRp) | [Hot Topic](https://open.spotify.com/album/7dEYzj6aSNhIbJ7KPBdjeC) | 2:33 | 2025-07-25 | 2025-09-20 |
 | [House Outside The World](https://open.spotify.com/track/2nHlthAyrRYbh7pB2jGSjL) | [Your Heterosexual Violence](https://open.spotify.com/artist/6mXtWDYuOfwLdMyabKDhKn) | [House Outside The World](https://open.spotify.com/album/0881KrjUcygQOu7CRJeiLj) | 2:34 | 2025-06-16 | 2025-07-26 |
+| [How On Earth? \- Acoustic](https://open.spotify.com/track/43KsBI1IRPudTYmPXxDgJe) | [Dirty Beau](https://open.spotify.com/artist/15oHVmIiMlj0GPW1WqNKrh) | [How On Earth? \(Acoustic\)](https://open.spotify.com/album/6dJgK1qALDjfciVNaGAtlq) | 3:37 | 2026-01-22 |  |
 | [Hug of Gravity I](https://open.spotify.com/track/1KwO9jUhEoYVIhJH4bF2j5) | [Raphael Loher](https://open.spotify.com/artist/7eapH2aIjltVH4GI1BucxS) | [Hug of Gravity I](https://open.spotify.com/album/1SL9nbQYANRi5CWdBT4eTH) | 18:05 | 2025-10-17 | 2025-11-08 |
 | [Hug of Gravity I \- Excerpt](https://open.spotify.com/track/73tq6uCyW5oVXJsFmCKsI9) | [Raphael Loher](https://open.spotify.com/artist/7eapH2aIjltVH4GI1BucxS) | [Hug of Gravity I \(Excerpt\)](https://open.spotify.com/album/0tiDEhW3oqbkO6eAWf5K3O) | 5:23 | 2025-09-11 | 2025-09-27 |
 | [Hurricane Spiral](https://open.spotify.com/track/61gWWKmQXrLDz3HYWPBzU3) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [The Visible Light of Other Worlds](https://open.spotify.com/album/0iUDxKe5T5BBX0lm0VPyiC) | 3:10 | 2025-09-11 | 2025-10-04 |
@@ -358,6 +359,7 @@
 | [Rain \- Live](https://open.spotify.com/track/0rle4Um9hwAszLOmohU5K1) | [Maxine](https://open.spotify.com/artist/1WpdH8GantLWjuzhm1kWQT) | [Rain \(Live at Offramp 1991\)](https://open.spotify.com/album/1Vz6S39JTmhtJfXlBq7Psa) | 4:08 | 2025-09-12 | 2025-10-04 |
 | [Regresar / Recordar](https://open.spotify.com/track/3ttYq3fKuP2LlePRmFUmgU) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Regresar / Recordar](https://open.spotify.com/album/45ch5xoIZ9ay3HhR0wVvZF) | 5:56 | 2025-07-02 | 2025-08-09 |
 | [Regresar / Recordar \- Jagz Kooner Remix](https://open.spotify.com/track/1xAdXf9F0wOPaJLqPl3Vq8) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP), [Jagz Kooner](https://open.spotify.com/artist/3SN6EWQeA35CQctMefRkcd) | [Regresar / Recordar \(Jagz Kooner Remix\)](https://open.spotify.com/album/5OoRv6v13VzUEuaK6QsWSY) | 6:31 | 2025-08-01 | 2025-09-20 |
+| [Relay](https://open.spotify.com/track/3PL4dUCR9RlAPpZ26xTtdr) | [Gooooose](https://open.spotify.com/artist/6LrVvnuJQLN3IcpXN6BObi) | [Relay](https://open.spotify.com/album/4azvA3lCr4eSkrNYb4AhCC) | 3:49 | 2026-01-22 |  |
 | [Reticulum D](https://open.spotify.com/track/0kmjzloYdRM22xM8vk3FkX) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Extra Grush](https://open.spotify.com/album/4AkgiJhTMDGQFriWcpkpbL) | 3:32 | 2025-07-25 | 2025-09-20 |
 | [Revolution of the Mind](https://open.spotify.com/track/293H99WZpucMCJtUV698lB) | [Paul Fishman](https://open.spotify.com/artist/639EC1492yFwKsE4q7BAwE) | [Revolution of The Mind](https://open.spotify.com/album/4wRY3OAI9mRi2K0UwZmsij) | 8:10 | 2025-09-11 | 2025-10-04 |
 | [Rex](https://open.spotify.com/track/7o6KdQGNoXn7XZM0nUqV07) | [Jo Quail](https://open.spotify.com/artist/6GvPPPN2Ph0WrBndU8dNWh) | [Rex](https://open.spotify.com/album/2ZvSJL6dKIRn9IrzCZ2EPS) | 9:36 | 2025-07-25 | 2025-09-20 |

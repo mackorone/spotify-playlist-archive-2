@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24811,
+  "num_followers": 24808,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAAAG/08KZJdLFNlngSr9fg6i",
+  "snapshot_id": "aXAXAAAAAACifQJOCTuH6USBz1K7PH8D",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
-      },
-      "artists": [
-        {
-          "name": "Channing Tatum",
-          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 132173,
-      "name": "Wonderful Questions",
-      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 232216,
       "name": "X (feat. Zendaya)",
       "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smallfoot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
+      },
+      "artists": [
+        {
+          "name": "Channing Tatum",
+          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Wonderful Questions",
+      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
     },
     {
       "added_at": null,
@@ -603,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Soul",
-        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
       },
       "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 268973,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
+      "duration_ms": 146186,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
     },
     {
       "added_at": null,
@@ -643,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
+        "name": "Silver Soul",
+        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
       },
       "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        },
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 146186,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
+      "duration_ms": 268973,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
     }
   ],
   "unique_name": "This Is Zendaya",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS, Karina Rose",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Rowli, Edb",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 174503,
       "name": "bei mir",
       "url": "https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr"
@@ -3876,6 +3876,24 @@
       "duration_ms": 178453,
       "name": "Blume",
       "url": "https://open.spotify.com/track/4VyFbOZL9Ovx3DDopa4gcc"
+    },
+    {
+      "album": {
+        "name": "blume (aus dem garten gegen\u00fcber)",
+        "url": "https://open.spotify.com/album/5OV8UFxZEcdG410WlP44zD"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180582,
+      "name": "blume (aus dem garten gegen\u00fcber)",
+      "url": "https://open.spotify.com/track/2vQowEF3P6bCrZpaVeCdy8"
     },
     {
       "album": {
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 141200,
       "name": "Das Leben ist schon ernst genug",
       "url": "https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H"
@@ -5208,7 +5226,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148880,
       "name": "Dass ich gerade traurig bin",
       "url": "https://open.spotify.com/track/2UyMGtgY1gYF9LaaQjkb6K"
@@ -10174,7 +10192,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 236584,
       "name": "GIB MIR DEIN GELD!",
       "url": "https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H"
@@ -11601,6 +11619,24 @@
     },
     {
       "album": {
+        "name": "Herzerw\u00e4rmend",
+        "url": "https://open.spotify.com/album/1TVhg8z7fzwxfr2x1RDpvr"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138688,
+      "name": "Herzerw\u00e4rmend",
+      "url": "https://open.spotify.com/track/05GvJcVS8Opytkl0jhu3uu"
+    },
+    {
+      "album": {
         "name": "Verlieren/Gefunden",
         "url": "https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi"
       },
@@ -11745,6 +11781,24 @@
     },
     {
       "album": {
+        "name": "Homeoffice",
+        "url": "https://open.spotify.com/album/5tEkdC6uH9xeHXfffxwt4d"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160702,
+      "name": "Homeoffice",
+      "url": "https://open.spotify.com/track/3NpyAqRGkJDVZheN2TjrZC"
+    },
+    {
+      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/0BEYVr5AOJOeHXacY43Yeu"
       },
@@ -11760,6 +11814,24 @@
       "duration_ms": 111635,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4kLwfENnQENSKNR3NOQ8PH"
+    },
+    {
+      "album": {
+        "name": "Hotpants f\u00fcr M\u00e4nner",
+        "url": "https://open.spotify.com/album/6N3VSdxhHt49086zeaXWXK"
+      },
+      "artists": [
+        {
+          "name": "Udo West",
+          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198305,
+      "name": "Hotpants f\u00fcr M\u00e4nner",
+      "url": "https://open.spotify.com/track/57XpvVXfjprVjh16b2i1Nw"
     },
     {
       "album": {
@@ -11796,6 +11868,24 @@
       "duration_ms": 162552,
       "name": "Hunde",
       "url": "https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1"
+    },
+    {
+      "album": {
+        "name": "hundertmal",
+        "url": "https://open.spotify.com/album/1jpokMXofqPwMYAVrU8I1x"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165203,
+      "name": "hundertmal",
+      "url": "https://open.spotify.com/track/588NRYHtOiBb2ERT0KIUGf"
     },
     {
       "album": {
@@ -14790,7 +14880,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 187005,
       "name": "konntenwirnichtfliegen",
       "url": "https://open.spotify.com/track/6xOFr6FtDtU9ZmnLBixctc"
@@ -15804,7 +15894,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163325,
       "name": "Liebe & Entzug",
       "url": "https://open.spotify.com/track/5DVxN3e2q8D1TUzCYqH5J9"
@@ -16492,6 +16582,24 @@
       "duration_ms": 158319,
       "name": "Lungenfl\u00fcgel",
       "url": "https://open.spotify.com/track/6toQ6T0tXZm6XZy1dKHrEF"
+    },
+    {
+      "album": {
+        "name": "L\u00e4rm",
+        "url": "https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ"
+      },
+      "artists": [
+        {
+          "name": "Haus F",
+          "url": "https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154856,
+      "name": "L\u00e4rm",
+      "url": "https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf"
     },
     {
       "album": {
@@ -18428,6 +18536,24 @@
       "duration_ms": 179172,
       "name": "Nie gesagt",
       "url": "https://open.spotify.com/track/3fBcQ5j3Z3HJRfSizJZF9E"
+    },
+    {
+      "album": {
+        "name": "Nie gleich",
+        "url": "https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk"
+      },
+      "artists": [
+        {
+          "name": "COSIE",
+          "url": "https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181056,
+      "name": "Nie gleich",
+      "url": "https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR"
     },
     {
       "album": {
@@ -23406,7 +23532,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 142777,
       "name": "spa\u00df am glas",
       "url": "https://open.spotify.com/track/6l2mUaALK4zninxazzwFTN"
@@ -24201,6 +24327,28 @@
     },
     {
       "album": {
+        "name": "Tanz",
+        "url": "https://open.spotify.com/album/6LsH8DF5BbuPUKavpdlw70"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        },
+        {
+          "name": "Edb",
+          "url": "https://open.spotify.com/artist/6HsOYlhc6djdiv6ikVfrGE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118896,
+      "name": "Tanz",
+      "url": "https://open.spotify.com/track/1nkfgSVuYolXFq8OEj2Y7K"
+    },
+    {
+      "album": {
         "name": "tanz allein",
         "url": "https://open.spotify.com/album/36wSwmi16oGugAdfJvGPHT"
       },
@@ -24588,7 +24736,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 315630,
       "name": "Therapieplatz",
       "url": "https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W"
@@ -28271,6 +28419,24 @@
     },
     {
       "album": {
+        "name": "womit hab ich das verdient?",
+        "url": "https://open.spotify.com/album/4nTy8qxD1wzebjM2sVwaGu"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152347,
+      "name": "womit hab ich das verdient?",
+      "url": "https://open.spotify.com/track/3IFK0CM2GijSLzbQpD1Ahw"
+    },
+    {
+      "album": {
         "name": "Woran liegts?",
         "url": "https://open.spotify.com/album/6fO8xpodayYBAUW0W6B0MB"
       },
@@ -28912,7 +29078,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 120000,
       "name": "Zuhause",
       "url": "https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf"

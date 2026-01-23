@@ -1,13 +1,33 @@
 {
-  "description": "Only the hottest South African rap. \nCover: Usimamane",
-  "num_followers": 111514,
+  "description": "Only the hottest South African rap. \nCover: Herc Cut The Lights",
+  "num_followers": 111568,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMw9fKISzYRnpjnBEqDhNJI8QW7",
+  "snapshot_id": "AAAAAGxbs8y/imAjVQv4o1u/MCT36j3H",
   "tracks": [
+    {
+      "added_at": "2026-01-22 22:00:26",
+      "album": {
+        "name": "AKIES, ASKIES",
+        "url": "https://open.spotify.com/album/2EoTA6josoEKcUhXjVC1VF"
+      },
+      "artists": [
+        {
+          "name": "Herc Cut The Lights",
+          "url": "https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "duration_ms": 153363,
+      "name": "AKIES, ASKIES",
+      "url": "https://open.spotify.com/track/44nCEL0ISsDqvGV8cLb4uo"
+    },
     {
       "added_at": "2026-01-16 03:47:54",
       "album": {
@@ -61,6 +81,22 @@
       "url": "https://open.spotify.com/track/0vFR18K6osJ8zhHWGWObk4"
     },
     {
+      "added_at": "2026-01-22 22:00:26",
+      "album": {
+        "name": "SDAKWA",
+        "url": "https://open.spotify.com/album/3iGycbRcfsjuidAlxnQr0M"
+      },
+      "artists": [
+        {
+          "name": "Nino Fresko",
+          "url": "https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK"
+        }
+      ],
+      "duration_ms": 157230,
+      "name": "SDAKWA",
+      "url": "https://open.spotify.com/track/62zh5Y89gYq0rOYAGSJpF8"
+    },
+    {
       "added_at": "2026-01-16 03:47:54",
       "album": {
         "name": "Leftie (Dlala Ngcobo)",
@@ -99,6 +135,22 @@
       "duration_ms": 200000,
       "name": "BENITHINI NGAM'",
       "url": "https://open.spotify.com/track/20J5QpNUHHumTHljwzmF2E"
+    },
+    {
+      "added_at": "2026-01-22 22:00:26",
+      "album": {
+        "name": "Ballon d'Or",
+        "url": "https://open.spotify.com/album/2diZVIzn65rUxIaEEt4c7b"
+      },
+      "artists": [
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        }
+      ],
+      "duration_ms": 153163,
+      "name": "Ballon d'Or",
+      "url": "https://open.spotify.com/track/4Aux9GuuSwAsR8IJfug8Y1"
     },
     {
       "added_at": "2026-01-16 03:47:54",
@@ -2059,62 +2111,6 @@
       "duration_ms": 198095,
       "name": "NGCWELE (feat. K.Keed & Horid The Messiah)",
       "url": "https://open.spotify.com/track/7Ip4THS09pyHRTvrYgirjA"
-    },
-    {
-      "added_at": "2026-01-16 03:47:54",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/6tiniFk2nzrYIHNjgE0yn5"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        },
-        {
-          "name": "Jay Jody",
-          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/7sopysSZT7mUipbIcwOZ97"
-    },
-    {
-      "added_at": "2026-01-16 03:47:54",
-      "album": {
-        "name": "Grapevines (feat. Ca$h Khali)",
-        "url": "https://open.spotify.com/album/2fkroXvwb7DDRiP2fKK0Fr"
-      },
-      "artists": [
-        {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
-        },
-        {
-          "name": "Ca$h Khali",
-          "url": "https://open.spotify.com/artist/0Gs5hrEypi3Ep1UCOfXuSY"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Grapevines (feat. Ca$h Khali)",
-      "url": "https://open.spotify.com/track/2WLhUQhk6FXCPm3Gji1C1q"
-    },
-    {
-      "added_at": "2026-01-16 03:47:54",
-      "album": {
-        "name": "CUT ME OFF",
-        "url": "https://open.spotify.com/album/33MB7XGAi6B5xElHmOEsWt"
-      },
-      "artists": [
-        {
-          "name": "PatricKxxLee",
-          "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "CUT ME OFF",
-      "url": "https://open.spotify.com/track/19qz8Wy3jZoIlA3zPFnROC"
     }
   ],
   "unique_name": "Mzansi Raps",

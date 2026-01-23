@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,860 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,996 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 95 | [Soy Meño](https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt) | [Soy Meño](https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no) | 2:22 |
 | 96 | [La Tropa Del Infierno](https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Tropa Del Infierno](https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx) | 2:42 |
 | 97 | [Recuerdos Del 1](https://open.spotify.com/track/6eSTG6L6FIGIuzO02eWLll) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [El Hombre De Las 3 Décadas](https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L) | 3:16 |
-| 98 | [Soy Don Joaquín Guzmán](https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Soy Don Joaquín Guzmán](https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz) | 2:10 |
-| 99 | [El 90 Menor](https://open.spotify.com/track/397Y4fmU5NK4nKPgtX5Hun) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:08 |
+| 98 | [El 90 Menor](https://open.spotify.com/track/397Y4fmU5NK4nKPgtX5Hun) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:08 |
+| 99 | [Soy Don Joaquín Guzmán](https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Soy Don Joaquín Guzmán](https://open.spotify.com/album/6oW9jPxK2amaYGU3f7XKcz) | 2:10 |
 | 100 | [Eddiecho Adios](https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Eddiecho Adios](https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81) | 4:00 |
 
 Snapshot ID: `AAAAANMhBe2kwaEYWzFTVEhC4J8Vm9h5`

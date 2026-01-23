@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷\. La Fiera de Ojinaga en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,869 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,889 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 25 | [Cambias O Me Pierdes](https://open.spotify.com/track/1d9jP5F4QzEVVL7r88aXV1) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Maldito Corazón](https://open.spotify.com/album/5vZnkMXH16Uk4SYXtYn07f) | 2:48 |
 | 26 | [Acá También Hace Aire](https://open.spotify.com/track/1IsOkXNOApFqLwBc2CPelX) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Acá También Hace Aire](https://open.spotify.com/album/0ta5G4m9XSq522Orx17pzY) | 3:17 |
 | 27 | [Necesito Decirte](https://open.spotify.com/track/7A2q0QaLWjnH3ufI4WFzM9) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Necesito Decirte](https://open.spotify.com/album/2BKwFzzxiMOEbzckGX6aY8) | 3:44 |
-| 28 | [Doña Juana \- Huapango](https://open.spotify.com/track/7chXMhihh8QPthkDUOWmpQ) | [Conjunto Bravo de Marcelo Vega](https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU) | [Doña Juana](https://open.spotify.com/album/6DurAAmduojuwozoW2CFMT) | 3:12 |
+| 28 | [Doña Juana \- Huapango](https://open.spotify.com/track/7chXMhihh8QPthkDUOWmpQ) | [Conjunto Bravo de Marcelo Vega](https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU) | [Doña Juana \(Huapango\)](https://open.spotify.com/album/6DurAAmduojuwozoW2CFMT) | 3:12 |
 | 29 | [Te Diran](https://open.spotify.com/track/2JwUfti3BFcfbuag4Bt64s) | [Nueva Pradera](https://open.spotify.com/artist/020AiDrZJgVabE3TCb0OX5) | [El Inicio](https://open.spotify.com/album/4JIegSSZ6WBx5Fg3lCilx6) | 3:30 |
 | 30 | [CUANDO PIENSO EN TI](https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:22 |
 | 31 | [Un Engańo Mas](https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ) | [Petroleros Del Bravo](https://open.spotify.com/artist/0SN6x6YIRqbchVQRuuDfUJ) | [Honky Tonk Tunes, Vol\. 2](https://open.spotify.com/album/6oONNMEpnk13JfLTixU7jO) | 3:23 |

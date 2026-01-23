@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-582 songs - 1 day 14 hr 30 min
+583 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Get Close](https://open.spotify.com/track/1OmTOm3sl7YAe8fJSVCtrK) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Get Close](https://open.spotify.com/album/16dFWwANoVShEiO04HyZRG) | 3:37 | 2022-08-01 | 2023-01-17 |
 | [Ghost](https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Ghost](https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn) | 3:15 | 2024-04-04 | 2024-09-13 |
 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 | 2023-09-01 | 2023-11-22 |
-| [Girl I Need You](https://open.spotify.com/track/7CpDxtefpHuLK2Ln36kDw7) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Girl I Need You](https://open.spotify.com/album/36c2zF04unQDkjznfvEhHK) | 3:47 | 2025-09-11 |  |
+| [Girl I Need You](https://open.spotify.com/track/7CpDxtefpHuLK2Ln36kDw7) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Girl I Need You](https://open.spotify.com/album/36c2zF04unQDkjznfvEhHK) | 3:47 | 2025-09-11 | 2026-01-23 |
 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 | 2025-09-11 |  |
 | [Girl Like You](https://open.spotify.com/track/5ZsuhbdQSRS4wqggUrCz9e) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/5AvXDmY5RxKlCgdWFNaS72) | 3:43 | 2022-04-06 | 2022-04-18 |
 | [Give Me Night](https://open.spotify.com/track/4fF5HxauEt54IYSKW1rEMt) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [Give Me Night](https://open.spotify.com/album/4OM6g573k9ww2iJlRN7Thn) | 3:12 | 2022-04-06 | 2022-04-16 |
@@ -547,6 +547,7 @@
 | [Transcendental Access Point](https://open.spotify.com/track/1fnMYDBnE8EvDtAqm7dtVh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Fluids of Emotion](https://open.spotify.com/album/2QKwnysUYSxmob2CLQTMMh) | 6:13 | 2022-04-06 | 2022-04-14 |
 | [Trippin'](https://open.spotify.com/track/1yvrUbu1SHG3EHm3ZIVFt9) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Ryahn](https://open.spotify.com/artist/5Jy9GTHj3hkaEhsJQfCVAX) | [Trippin'](https://open.spotify.com/album/5b78Gr6BnjBAb2sg49uSVN) | 2:40 | 2022-04-06 | 2022-04-08 |
 | [Trouble to Share](https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/1RbB0Hxt0Yb0al0DSMBQJF) | 4:00 | 2021-12-03 | 2022-07-27 |
+| [True Desire](https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [True Desire](https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w) | 2:35 | 2026-01-23 |  |
 | [Turn Around](https://open.spotify.com/track/3aSdp4rrcCXa1omO9rzDrV) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Turn Around](https://open.spotify.com/album/2lE8Ik8rLu59yhGY77rKWF) | 2:25 | 2024-09-12 | 2024-10-04 |
 | [U Already Know](https://open.spotify.com/track/5sUWfe7eSoapj9d6zgjJEe) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:12 | 2021-12-03 | 2022-07-22 |
 | [U Never Know](https://open.spotify.com/track/6ngfBeWnkydrBRrhqvxiXu) | [isle&fever](https://open.spotify.com/artist/6R4zlGQMWytAfkCpYdumKh) | [U Never Know](https://open.spotify.com/album/4FGT6kv2JmZS4ZU5SHgJ9P) | 4:10 | 2021-12-03 | 2022-07-13 |

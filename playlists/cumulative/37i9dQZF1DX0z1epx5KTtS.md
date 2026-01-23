@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Bebi Philip
 
-274 songs - 15 hr 2 min
+276 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [J'aime ça](https://open.spotify.com/track/4ujwTkq3yZ2NtPIIqpnG6b) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J), [AK Binks](https://open.spotify.com/artist/5VVLZ1ViFB6h8EMR0Ja0br) | [J'aime ça](https://open.spotify.com/album/1qlPAplZUgWxx5ZJi7Ch9V) | 2:22 | 2025-01-30 | 2025-02-14 |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
 | [Je suis pas dedans](https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Dangereux Junior](https://open.spotify.com/artist/16igpWquNmXepso7WsP6Lp), [Marco](https://open.spotify.com/artist/60nAdAQcRbgQ3JVdYODRzB) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 3:18 | 2025-10-02 |  |
+| [Jersey Biama](https://open.spotify.com/track/6cWMNjt5AM2ZSIEGU1ydZI) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Jersey Biama](https://open.spotify.com/album/1pLqEiCbIcAFO4Zlm5I1fn) | 2:23 | 2026-01-22 |  |
 | [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |
 | [Kabato](https://open.spotify.com/track/0umgit0awfo3yy5qy1wmqA) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/0fbnFf6YWQa9blwHrvMh1v) | 3:25 | 2023-04-13 | 2023-05-19 |
@@ -263,7 +264,7 @@
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt) | 2:59 | 2025-12-18 |  |
 | [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 | 2024-08-30 |
-| [Tui Tui](https://open.spotify.com/track/3iH43p8bTxZCYReFtkj4Lp) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Tui Tui](https://open.spotify.com/album/0oFUxlJkZJVhED9kdQw5hv) | 2:45 | 2025-09-11 |  |
+| [Tui Tui](https://open.spotify.com/track/3iH43p8bTxZCYReFtkj4Lp) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Tui Tui](https://open.spotify.com/album/0oFUxlJkZJVhED9kdQw5hv) | 2:45 | 2025-09-11 | 2026-01-23 |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [WA WA DÉ DÉ](https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [WA WA DÉ DÉ](https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e) | 2:44 | 2024-06-06 | 2025-03-07 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |
@@ -280,6 +281,7 @@
 | [Zendaka](https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zendaka](https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP) | 3:03 | 2021-12-20 | 2022-07-22 |
 | [Zozo](https://open.spotify.com/track/1Syhx5tRxvICLuxeDVwHIp) | [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg), [Revolution](https://open.spotify.com/artist/0psAr2Os4y9mRbgas7mHpk) | [Tresor](https://open.spotify.com/album/70u6kE9EXGjpNdjtPiqRJ6) | 3:56 | 2023-02-23 | 2023-03-25 |
 | [Ça me fait](https://open.spotify.com/track/621YkVNvsCKXHh45xfsewd) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Ça me fait](https://open.spotify.com/album/44cCWmdLfoYuYLmWfhPfzE) | 3:42 | 2022-08-25 | 2023-02-24 |
+| [Ça Va Chauffer](https://open.spotify.com/track/1yWnkDKdzmvnIFxP86IVxa) | [MNK OYEBI](https://open.spotify.com/artist/3KDz3PsFWd87NRPtvOmlky), [JD LSK](https://open.spotify.com/artist/6sYvVtA9vuxirfgrRZZxgJ) | [Ça Va Chauffer](https://open.spotify.com/album/5xKaOcdKFw8CEwQKGVOKgF) | 2:34 | 2026-01-22 |  |
 | [Ça'a te dégoûter](https://open.spotify.com/track/02DUGJxrCBUh7fUNBPad59) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Ça'a te dégoûter](https://open.spotify.com/album/2lRHcHdMLLaGeKjVx8HFcI) | 3:25 | 2023-11-16 | 2024-03-15 |
 | [Échauffement \- Remix](https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Échauffement \(Remix\)](https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR) | 2:08 | 2022-06-02 | 2024-09-27 |
 

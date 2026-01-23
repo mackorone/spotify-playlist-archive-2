@@ -4,7 +4,7 @@
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-58 songs - 3 hr 0 min
+59 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Navidad](https://open.spotify.com/track/0Nnw7TrVyaG6MlU7neAQAi) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Los Más Famosos Cantamos Villancicos](https://open.spotify.com/album/66SdA3KT1K5f2FGW7pEU7X) | 3:07 | 2023-12-21 |  |
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2023-12-21 |  |
 | [Noche de Luz](https://open.spotify.com/track/1cwf6DegvbNTGVHGeXw2Fi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Villancicos Flamencos](https://open.spotify.com/album/354ZGNN6TKgIAgwSVOF4rZ) | 4:59 | 2023-12-21 | 2024-04-19 |
-| [Noche de Luz](https://open.spotify.com/track/7ik5Jy4AHMiyeVa0gjTZiv) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Navidad Gitana](https://open.spotify.com/album/4QWtS8yZ9BwRuml4umrkax) | 5:02 | 2023-12-21 |  |
+| [Noche de Luz](https://open.spotify.com/track/7ik5Jy4AHMiyeVa0gjTZiv) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Navidad Gitana](https://open.spotify.com/album/4QWtS8yZ9BwRuml4umrkax) | 5:02 | 2023-12-21 | 2026-01-23 |
 | [Noche De Paz](https://open.spotify.com/track/45f3AIqqnAhf6EDiFbYFcJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:40 | 2023-12-21 |  |
+| [Palillos y Panderos](https://open.spotify.com/track/57ND119bD1fI0pkxH8sH05) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Feliz Navidad](https://open.spotify.com/album/5WxZdGRhTGZRn31ICBBN6l) | 2:51 | 2026-01-22 |  |
 | [Para Pedir y Dar Posada](https://open.spotify.com/track/0CMQzEOe1BsgHkkunUSqXB) | [Belen](https://open.spotify.com/artist/5zocvwXTEiIrmsGZiBuTAh) | [Villancicos Navideños](https://open.spotify.com/album/29fY1rkQ62Ht2jHVyiM2es) | 6:17 | 2023-12-21 | 2024-04-19 |
 | [Para Pedir y Dar Posada](https://open.spotify.com/track/4QOXTmelduKKz5dYO4t7XQ) | [Coro Niños De Belen](https://open.spotify.com/artist/6525Hue8wEdzOaAcEGDO6k) | [Villancicos Navideños](https://open.spotify.com/album/5IsVYhS1DirK6mnzQhIJNh) | 6:17 | 2023-12-21 |  |
 | [Rodolfo el reno](https://open.spotify.com/track/5Z3hzul2EcIOU9y8xgKXhn) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 2:41 | 2023-12-21 |  |

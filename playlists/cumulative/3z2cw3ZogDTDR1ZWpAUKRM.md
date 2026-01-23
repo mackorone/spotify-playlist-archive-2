@@ -4,7 +4,7 @@
 
 > 
 
-42 songs - 3 hr 2 min
+43 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [The Mighty Rio Grande](https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 11:16 | 2024-05-02 |  |
 | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 | 2024-06-02 | 2024-07-19 |
 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/6P8bxNBbTGozvidJV9fjrG) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:36 | 2024-07-17 |  |
-| [The Truth Is a Cave](https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through the Deep, Dark Valley](https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R) | 4:00 | 2024-07-17 |  |
+| [The Truth Is a Cave](https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through the Deep, Dark Valley](https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R) | 4:00 | 2024-07-17 | 2026-01-23 |
+| [The Truth Is a Cave \- 2022 Remaster](https://open.spotify.com/track/1Q6kGgSzazhgdVaaoUpCdf) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through The Deep, Dark Valley \(Ten Year Anniversary Remaster\)](https://open.spotify.com/album/65VoSsmtmE2b7VwEvni4D8) | 4:00 | 2026-01-22 |  |
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-30 | 2025-03-06 |
 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 | 2024-05-10 |  |
 | [Universal Sound](https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:41 | 2024-04-08 | 2024-04-16 |

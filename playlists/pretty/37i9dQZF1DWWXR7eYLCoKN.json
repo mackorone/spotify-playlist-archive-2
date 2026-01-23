@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 166835,
+  "num_followers": 166850,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "A Voz Do Samba",
-        "url": "https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "A Tabua De Esmeralda",
         "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 177200,
       "name": "Menina Mulher Da Pele Preta",
       "url": "https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "A Voz Do Samba",
+        "url": "https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Alerta Geral",
-        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "Sufoco",
-      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Adoniran Barbosa",
         "url": "https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 143666,
       "name": "Saudosa Maloca",
       "url": "https://open.spotify.com/track/2lWmqGC70SKMebW1HgPGkA"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Alerta Geral",
+        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "E a\u00ed?",
-        "url": "https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Partido alto",
-      "url": "https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Alvorecer",
         "url": "https://open.spotify.com/album/0qUIkMMgwIfJGNazMU8Ux4"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 222354,
       "name": "Conto De Areia",
       "url": "https://open.spotify.com/track/3dEfGt5Ml97FQBeHngn4YA"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "E a\u00ed?",
+        "url": "https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Partido alto",
+      "url": "https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
+        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Qualquer Lugar",
-      "url": "https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG"
+      "duration_ms": 206541,
+      "name": "Vaso Quebrado",
+      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -919,18 +919,18 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
-        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
       },
       "artists": [
         {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
         }
       ],
-      "duration_ms": 206541,
-      "name": "Vaso Quebrado",
-      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
+      "duration_ms": 238133,
+      "name": "Qualquer Lugar",
+      "url": "https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
+        "name": "Beba-Me Ao Vivo",
+        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Exagero",
+      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
         "name": "Urucungo",
         "url": "https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Beba-Me Ao Vivo",
-        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Exagero",
-      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "At\u00e9 Depois do Fim",
         "url": "https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 190904,
       "name": "Mercado das Flores",
       "url": "https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Carioca da Gema (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Malandro - Ao Vivo",
+      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Carioca da Gema (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Malandro - Ao Vivo",
-      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "A Chave do Sucesso",
         "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
       },
@@ -1123,6 +1123,26 @@
       "duration_ms": 142000,
       "name": "Jura",
       "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Pagode da Dand\u00e1",
+        "url": "https://open.spotify.com/album/5Bq1aOjaQ7hp1wTMIWtvmj"
+      },
+      "artists": [
+        {
+          "name": "Dand\u00e1 Costa",
+          "url": "https://open.spotify.com/artist/7CjGOEIFoeID5Jz2j6fi0a"
+        },
+        {
+          "name": "Pagode da Dand\u00e1",
+          "url": "https://open.spotify.com/artist/1t7QHcFkYl3nhY9xVf0MGJ"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "Pagode da Dand\u00e1",
+      "url": "https://open.spotify.com/track/3pPsoMcmUHCDApoqyIgfYp"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1163,22 +1183,18 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Pagode da Dand\u00e1",
-        "url": "https://open.spotify.com/album/5Bq1aOjaQ7hp1wTMIWtvmj"
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
       "artists": [
         {
-          "name": "Dand\u00e1 Costa",
-          "url": "https://open.spotify.com/artist/7CjGOEIFoeID5Jz2j6fi0a"
-        },
-        {
-          "name": "Pagode da Dand\u00e1",
-          "url": "https://open.spotify.com/artist/1t7QHcFkYl3nhY9xVf0MGJ"
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
         }
       ],
-      "duration_ms": 219300,
-      "name": "Pagode da Dand\u00e1",
-      "url": "https://open.spotify.com/track/3pPsoMcmUHCDApoqyIgfYp"
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1195,22 +1211,6 @@
       "duration_ms": 258228,
       "name": "Amor Segredo",
       "url": "https://open.spotify.com/track/28FOKdMnKbvcR5J6LGSOhp"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2025-11-25 18:58:58",

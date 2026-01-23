@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Fcukers",
+  "description": "New music off the beaten track. Cover: FILLY, The Teenagers",
   "name": "OFF POP",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "Appetite (Digitalism Remix)",
         "url": "https://open.spotify.com/album/6ZB8OrnANZukqIcs28bzMX"
       },
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 270549,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/5Pcc7dUxSWJBMkdbR3mu2O"
@@ -2918,6 +2936,24 @@
       "duration_ms": 271939,
       "name": "Brushcutter",
       "url": "https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp"
+    },
+    {
+      "album": {
+        "name": "Bullfight",
+        "url": "https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183252,
+      "name": "Bullfight",
+      "url": "https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU"
     },
     {
       "album": {
@@ -5029,6 +5065,24 @@
     },
     {
       "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "album": {
         "name": "Decimal",
         "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
       },
@@ -6144,7 +6198,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 267693,
       "name": "Dream Night",
       "url": "https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv"
@@ -6714,7 +6768,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
@@ -8328,6 +8382,32 @@
       "duration_ms": 313043,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/3Ck3phtoHyzsCZL7AQ7oI0"
+    },
+    {
+      "album": {
+        "name": "For The Time Being (Steve Bug Remix)",
+        "url": "https://open.spotify.com/album/2YlZeLS3PJO1t91bjqveM2"
+      },
+      "artists": [
+        {
+          "name": "Phonique",
+          "url": "https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "For The Time Being - Steve Bug Remix",
+      "url": "https://open.spotify.com/track/6zZulZTOGu2sgvoP107mIX"
     },
     {
       "album": {
@@ -9968,7 +10048,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 245297,
       "name": "Herbs & Wine",
       "url": "https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX"
@@ -10636,7 +10716,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 225500,
       "name": "Hooked - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/3saYflaCHSKLsESoFLQZ8T"
@@ -10654,7 +10734,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 281510,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/0lsUhcGYv8eQW1tP8pjfKo"
@@ -12303,6 +12383,24 @@
     },
     {
       "album": {
+        "name": "inside.",
+        "url": "https://open.spotify.com/album/7iXBqnZ3b7bTiDoLTJG36D"
+      },
+      "artists": [
+        {
+          "name": "KANTEREIT",
+          "url": "https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227116,
+      "name": "inside.",
+      "url": "https://open.spotify.com/track/7yM3fKmkliSikJJQIQ0RhS"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
       },
@@ -12380,6 +12478,28 @@
       "duration_ms": 165978,
       "name": "Into You - Vienna Nights Mix",
       "url": "https://open.spotify.com/track/461hznkAq17ywDHFzqA34b"
+    },
+    {
+      "album": {
+        "name": "Intro (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/6xALSzrzr2p49MZ5dmHAKd"
+      },
+      "artists": [
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356106,
+      "name": "Intro - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/5nxJbZFIHf8iGndx8eOJMa"
     },
     {
       "album": {
@@ -13571,6 +13691,24 @@
     },
     {
       "album": {
+        "name": "Last of a Dying Breed",
+        "url": "https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI"
+    },
+    {
+      "album": {
         "name": "Catching feelings",
         "url": "https://open.spotify.com/album/23a1PGqGITDhfPf8aWC91a"
       },
@@ -14534,7 +14672,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 225361,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
@@ -17743,6 +17881,28 @@
     },
     {
       "album": {
+        "name": "Now That I Got You",
+        "url": "https://open.spotify.com/album/4L4FuUA8V3YEGaLB6KBIFa"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Now That I Got You",
+      "url": "https://open.spotify.com/track/4OXAFxJjeHjkg0wElaVPtT"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/0whsMMavHPlWZiWO4uipZH"
       },
@@ -17758,7 +17918,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 152542,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3eYZL4ZmfvqJdGGVWOdTcv"
@@ -18572,6 +18732,24 @@
       "duration_ms": 263111,
       "name": "Over the World",
       "url": "https://open.spotify.com/track/5rNZMfhBFBn0U187d3hpZD"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284339,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
     },
     {
       "album": {
@@ -20829,6 +21007,28 @@
     },
     {
       "album": {
+        "name": "Serious (feat. The Teenagers)",
+        "url": "https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162917,
+      "name": "Serious (feat. The Teenagers)",
+      "url": "https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT"
+    },
+    {
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -22270,7 +22470,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 164216,
       "name": "start a fire",
       "url": "https://open.spotify.com/track/7b5PeWkobrlZki3JxmtQ4L"

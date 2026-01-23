@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 
 > <a href="spotify:artist:4nhvb6x9ZhPiYCzrHDNia9">Daphni</a>'s track IDs\. Updated regularly\. Curated by Daphni\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,724 likes - 95 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,728 likes - 95 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 94 | [DSTOP](https://open.spotify.com/track/0txvUETI4RkHwYZRAXjPxc) | [Mees Javois](https://open.spotify.com/artist/7uVxTsqUyst5JPQIM5FKZu) | [DSTOP](https://open.spotify.com/album/5VjQ6Y86ADV3yXVkZOgsYv) | 5:27 |
 | 95 | [Honey Badger](https://open.spotify.com/track/6cZDdw8yLZ66zhFRhIIDSV) | [Rhyw](https://open.spotify.com/artist/6ULFedYQFwKRcD1V2rngtO) | [Honey Badger](https://open.spotify.com/album/1cpcLbOkddHBG5QapDrpYG) | 6:53 |
 
-Snapshot ID: `AAAAAD4vF8fCgxlBnR23hIKV+emxL01d`
+Snapshot ID: `AAAAAFXT0TIaifx2vuMRKrL6dpTCJZYL`

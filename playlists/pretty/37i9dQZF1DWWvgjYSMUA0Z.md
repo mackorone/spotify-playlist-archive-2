@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,247 likes - 166 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,379 likes - 166 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 165 | [Silhouettes of Life](https://open.spotify.com/track/7DzPB5vFhzxbFeN2VXg1jt) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Silhouettes of Life](https://open.spotify.com/album/5FqD43pSxsaZQh3FnTo3Nc) | 2:31 |
 | 166 | [Spirit Link](https://open.spotify.com/track/3CDtAXgB3isSIkQpVAkXQX) | [Zen Portal](https://open.spotify.com/artist/5eedNZsISJXCHZyaHXebd4) | [Spirit Link](https://open.spotify.com/album/4ntkXfhBAZKv0ZRzdR0pV3) | 2:56 |
 
-Snapshot ID: `AAAAAMSRlQOyhHDHhvlr1FKPN+QOc7Sv`
+Snapshot ID: `AAAAAAQimVenzehraf1UfMlRK/BEEJq7`

@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "All Time High",
+        "url": "https://open.spotify.com/album/032oNTjsNmg0MzBQQm0sfK"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164082,
+      "name": "All Time High",
+      "url": "https://open.spotify.com/track/0xzNHxUokk8JS5ou6ZsnVE"
+    },
+    {
+      "album": {
         "name": "All Your Exes",
         "url": "https://open.spotify.com/album/1yo1w1CBfPMLaXycgfNj70"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"

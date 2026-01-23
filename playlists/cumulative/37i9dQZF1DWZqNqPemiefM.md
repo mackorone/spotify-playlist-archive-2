@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: yanaco
 
-870 songs - 2 day 18 hr 37 min
+871 songs - 2 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Hong\-Kong Rhapsody](https://open.spotify.com/track/6aid8eSGIO5DM5Rc8aZ8QX) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [The New World](https://open.spotify.com/album/6ghFhFh2XJtfthkrphhilA) | 4:14 | 2022-03-31 | 2022-04-14 |
 | [hope](https://open.spotify.com/track/2c21wiDxJ1lZM5vgwAsSFQ) | [Aoki Takamasa](https://open.spotify.com/artist/7bjmjTh6nb3Sslb0AHWhJP) | [indigo rose](https://open.spotify.com/album/6QVv6bIWtwXGHd3ig75OlS) | 6:38 | 2022-04-07 | 2022-06-17 |
 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 | 2024-06-07 | 2025-02-08 |
+| [Hoshi no Jikan](https://open.spotify.com/track/6U2oocUrAiMp9F8k4Khaa3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [](https://open.spotify.com/album/null) | 3:52 | 2026-01-22 |  |
 | [hoshisayuru](https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 5:55 | 2022-04-07 | 2022-07-16 |
 | [Hototogisu](https://open.spotify.com/track/13ag57Rbl0teWiuNRNSrLM) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [ENN](https://open.spotify.com/album/295swnu0NF7Vaf4CtKWzuM) | 5:09 | 2022-04-07 | 2022-07-22 |
 | [Houseplants While You Are Away on Vacation](https://open.spotify.com/track/4JmuiBI4ERgjUq5VuQpceX) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Houseplant Music](https://open.spotify.com/album/0G7hXY1pGBG7ZbhciEhZyo) | 3:23 | 2022-03-30 | 2022-07-29 |
@@ -837,7 +838,7 @@
 | [リメンバー](https://open.spotify.com/track/2O6YzqNprO5OasRGHkQwJX) | [Emerson Kitamura](https://open.spotify.com/artist/2oDfZI1woLIypoYM53lv72) | [ロックンロールのはじまりは](https://open.spotify.com/album/3izQRdFJTfJ0NkWhew7nP2) | 5:37 | 2022-04-16 | 2022-07-29 |
 | [リンゴ追分](https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [CHO CO PA：EAST ASIA oldies EP](https://open.spotify.com/album/0D8fkxFhJiJR6EkKMMAZlC) | 2:53 | 2025-08-20 | 2025-10-11 |
 | [ヴェニス風縞模様](https://open.spotify.com/track/4ov5ZrFBeUhXZ8mJ3lXpM6) | [柴野さつき](https://open.spotify.com/artist/3ZEZtytFUtMhTrjr5LK9qR) | [ランデ・ヴ](https://open.spotify.com/album/5NisOSPqxx4ApGyO2efQNb) | 3:24 | 2022-03-31 | 2022-07-21 |
-| [井戸\(well\)](https://open.spotify.com/track/0H8xAysWqLKS2BGJ36jVtz) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [井戸\(well\)](https://open.spotify.com/album/7F3WWTU0p7O4OyCzXmi02C) | 2:44 | 2026-01-09 |  |
+| [井戸\(well\)](https://open.spotify.com/track/0H8xAysWqLKS2BGJ36jVtz) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [井戸\(well\)](https://open.spotify.com/album/7F3WWTU0p7O4OyCzXmi02C) | 2:44 | 2026-01-09 | 2026-01-23 |
 | [傷つきやすくて](https://open.spotify.com/track/4mIWz0pIJ9Svto6arLLfps) | [Shiho Yabuki](https://open.spotify.com/artist/7duimCZBx2z090JINWDE5V) | [Kanebo Sound Esthetique 1 「きっと、すなおになれる。」](https://open.spotify.com/album/3Ir5KdZhcpyFvHm8QeuzmU) | 3:52 | 2022-04-07 | 2022-07-21 |
 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 | 2024-09-06 |  |
 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 | 2024-06-15 |  |

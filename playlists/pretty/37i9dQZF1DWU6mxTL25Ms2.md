@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,328 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,365 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 | 74 | [Just a little bit](https://open.spotify.com/track/3L7ukWmoI3tg5ZQVFbA6Ok) | [メジロドーベル \(CV\. 久保田ひかり\)](https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc) | [『ウマ娘 プリティーダービー』WINNING LIVE 03](https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO) | 4:12 |
 | 75 | [Special Record! \- 2021 Remastered Version](https://open.spotify.com/track/1BJiiYGFS0CgRpdYjnOO4r) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY 03 Special Record!/Find My Only Way \(2021 Remastered Version\)](https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK) | 4:20 |
 
-Snapshot ID: `AAAAAAV8YUm4ZIbCUgjhDLhKKuoIhfV+`
+Snapshot ID: `AAAAAHVd6MqRXe2fb96ocs+AaGj3Naeh`

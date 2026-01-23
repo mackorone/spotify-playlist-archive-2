@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jeng Phuchit. Artwork: Isu Kim",
-  "num_followers": 11767,
+  "num_followers": 11776,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-01-15 17:53:54",
       "album": {
-        "name": "Switch It Up",
-        "url": "https://open.spotify.com/album/0d9GGNk8eJQxXOo5gaMavJ"
-      },
-      "artists": [
-        {
-          "name": "CIR*CRL",
-          "url": "https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL"
-        }
-      ],
-      "duration_ms": 171482,
-      "name": "Switch It Up",
-      "url": "https://open.spotify.com/track/2ywzV7tZPvczDPPRGevBtt"
-    },
-    {
-      "added_at": "2026-01-15 17:53:54",
-      "album": {
         "name": "\u0e04\u0e07\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01 (Endless)",
         "url": "https://open.spotify.com/album/36RggyGvhlKKf6mNPyXP1g"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 251767,
       "name": "\u0e04\u0e07\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01 (Endless)",
       "url": "https://open.spotify.com/track/7rZQkTLTBHYpcenf427jQK"
+    },
+    {
+      "added_at": "2026-01-15 17:53:54",
+      "album": {
+        "name": "Switch It Up",
+        "url": "https://open.spotify.com/album/0d9GGNk8eJQxXOo5gaMavJ"
+      },
+      "artists": [
+        {
+          "name": "CIR*CRL",
+          "url": "https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL"
+        }
+      ],
+      "duration_ms": 171482,
+      "name": "Switch It Up",
+      "url": "https://open.spotify.com/track/2ywzV7tZPvczDPPRGevBtt"
     },
     {
       "added_at": "2026-01-15 17:53:54",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-01-15 17:53:54",
       "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
+      },
+      "artists": [
+        {
+          "name": "SWANOVFIELD",
+          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
+        }
+      ],
+      "duration_ms": 236691,
+      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
+    },
+    {
+      "added_at": "2026-01-15 17:53:54",
+      "album": {
         "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/2as6VxkIr64nV6iLAxzSJu"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 241978,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5tuPUaPMjfw8GHxIFt1Fr8"
-    },
-    {
-      "added_at": "2026-01-15 17:53:54",
-      "album": {
-        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
-      },
-      "artists": [
-        {
-          "name": "SWANOVFIELD",
-          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
-        }
-      ],
-      "duration_ms": 236691,
-      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
     },
     {
       "added_at": "2026-01-15 17:53:54",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-01-15 17:53:54",
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
+        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
+      },
+      "artists": [
+        {
+          "name": "mita.",
+          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
+      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
+    },
+    {
+      "added_at": "2026-01-15 17:53:54",
+      "album": {
         "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/2mmAa58aKg0njzI6UPdL5W"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 230117,
       "name": "\u0e02\u0e35\u0e14\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
       "url": "https://open.spotify.com/track/37YshlPTZ1Mt3YuNX11nC9"
-    },
-    {
-      "added_at": "2026-01-15 17:53:54",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
-        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
-      },
-      "artists": [
-        {
-          "name": "mita.",
-          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
-      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
     },
     {
       "added_at": "2026-01-15 17:53:54",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-01-15 17:53:54",
       "album": {
-        "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e2d\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/0upzWgOieLMGBtPzIfp2jE"
-      },
-      "artists": [
-        {
-          "name": "Something Sweet",
-          "url": "https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX"
-        }
-      ],
-      "duration_ms": 255125,
-      "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e2d\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/0OXeiSXQbQdJ50fn1nHutE"
-    },
-    {
-      "added_at": "2026-01-15 17:53:54",
-      "album": {
         "name": "\u0e25\u0e32(\u0e44\u0e21\u0e48)\u0e08\u0e32\u0e01 (Farewell)",
         "url": "https://open.spotify.com/album/1qIbDFhqBOF7IfakgupoYX"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 154479,
       "name": "Hold Tight*",
       "url": "https://open.spotify.com/track/2hjVnqw95Q1wvI91506gNi"
+    },
+    {
+      "added_at": "2026-01-15 17:53:54",
+      "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e2d\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/0upzWgOieLMGBtPzIfp2jE"
+      },
+      "artists": [
+        {
+          "name": "Something Sweet",
+          "url": "https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX"
+        }
+      ],
+      "duration_ms": 255125,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e2d\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0OXeiSXQbQdJ50fn1nHutE"
     },
     {
       "added_at": "2026-01-15 17:53:54",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-01-15 17:53:54",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Self Love)",
-        "url": "https://open.spotify.com/album/4EFOE5FMusLGMbW3lVajpv"
-      },
-      "artists": [
-        {
-          "name": "CONFUSE",
-          "url": "https://open.spotify.com/artist/3dZcqi57QvlvGrMUPPork4"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Self Love)",
-      "url": "https://open.spotify.com/track/1ZwCvuANDaQhG0aZxJKWYW"
-    },
-    {
-      "added_at": "2026-01-15 17:53:54",
-      "album": {
         "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
         "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2026-01-15 17:53:54",
       "album": {
-        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 (Before)",
-        "url": "https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge"
+        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Self Love)",
+        "url": "https://open.spotify.com/album/4EFOE5FMusLGMbW3lVajpv"
       },
       "artists": [
         {
-          "name": "RATTHEE",
-          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+          "name": "CONFUSE",
+          "url": "https://open.spotify.com/artist/3dZcqi57QvlvGrMUPPork4"
         }
       ],
-      "duration_ms": 226192,
-      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 - Before",
-      "url": "https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w"
+      "duration_ms": 245853,
+      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Self Love)",
+      "url": "https://open.spotify.com/track/1ZwCvuANDaQhG0aZxJKWYW"
     },
     {
       "added_at": "2026-01-15 17:53:54",
@@ -811,6 +795,22 @@
       "duration_ms": 168305,
       "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e39\u0e49 (girls)",
       "url": "https://open.spotify.com/track/208ytupDO4G0s7YARJwndO"
+    },
+    {
+      "added_at": "2026-01-15 17:53:54",
+      "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 (Before)",
+        "url": "https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge"
+      },
+      "artists": [
+        {
+          "name": "RATTHEE",
+          "url": "https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh"
+        }
+      ],
+      "duration_ms": 226192,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 - Before",
+      "url": "https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w"
     }
   ],
   "unique_name": "Fresh Finds Thailand",

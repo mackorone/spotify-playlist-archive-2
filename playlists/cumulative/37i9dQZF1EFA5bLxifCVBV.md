@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-284 songs - 14 hr 45 min
+285 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Water Under the Bridge](https://open.spotify.com/track/1aZTEwlHUCkuJswWgsbIqU) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Dawn Upshaw](https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74) | [Dawn Upshaw Sings Vernon Duke](https://open.spotify.com/album/3iGXOiy5OSuJAahFNDABoH) | 3:04 | 2024-07-24 |  |
 | [We're in the Same Boat, Brother](https://open.spotify.com/track/0pijKqIXcp92qpGMezrRx6) | [Purabi Mukherjee](https://open.spotify.com/artist/1ZK07plVLCXL2ZhLaQ8Isd) | [Ek Noukar Jatri](https://open.spotify.com/album/08Gn41sNVTKA7oDUXTSJ8n) | 3:54 | 2024-07-24 | 2025-06-01 |
 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 | 2024-07-24 |  |
-| [What Can You Say In A Love Song](https://open.spotify.com/track/0t1nlXv6c59jcQdRbCS32N) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Complete Richard Himber Vol\. 2 \(1934\)](https://open.spotify.com/album/126prJaj8WhjhmUVd8mZzP) | 3:14 | 2025-12-17 |  |
+| [What Can You Say In A Love Song](https://open.spotify.com/track/0t1nlXv6c59jcQdRbCS32N) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Complete Richard Himber Vol\. 2 \(1934\)](https://open.spotify.com/album/126prJaj8WhjhmUVd8mZzP) | 3:14 | 2025-12-17 | 2026-01-23 |
+| [What Can You Say In a Love Song](https://open.spotify.com/track/0dutXTt9OSbI5aG7XKWr77) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [Big Bad Wolf](https://open.spotify.com/album/5VX0VwAsAT2hYV5tDexiBw) | 3:14 | 2026-01-22 |  |
 | [What Can You Say in a Love Song](https://open.spotify.com/track/1SMtVcwHYWEvCWsHaFwb2Q) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [The Incredible Richard Himber & His Orchestra](https://open.spotify.com/album/7EVN1JHWkDsPzxPkmmsFQm) | 3:14 | 2024-07-24 | 2024-12-27 |
 | [What Can You Say In A Love Song](https://open.spotify.com/track/5CsT1NY94gGCpqfC67P3OG) | [Richard Himber and his Orchestra](https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN), [Joey Nash](https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha) | [It's Psychological](https://open.spotify.com/album/2HkHr535cDoHhH65n1Kj3d) | 3:14 | 2024-12-26 | 2025-12-18 |
 | [What Good Does It Do](https://open.spotify.com/track/4WNQLcFZlZsrDx4oYAg9bC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Tony Bennett Sings A String Of Harold Arlen](https://open.spotify.com/album/6MYMgEXvAzClsDSFRaKDNr) | 4:08 | 2024-07-24 |  |

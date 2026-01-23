@@ -791,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Catatan Kita",
+        "url": "https://open.spotify.com/album/11kPpap9chXLlLHgDFcyEu"
+      },
+      "artists": [
+        {
+          "name": "Caffeine",
+          "url": "https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG"
+        },
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Catatan Kita",
+      "url": "https://open.spotify.com/track/7GeCsDAdyO6SZGn6BjII4n"
+    },
+    {
+      "album": {
         "name": "Cemburu",
         "url": "https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO"
       },
@@ -4750,6 +4772,28 @@
       "duration_ms": 250666,
       "name": "what would it take?",
       "url": "https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f"
+    },
+    {
+      "album": {
+        "name": "who u gon luv?",
+        "url": "https://open.spotify.com/album/4tGLytQBWinIda9HFKqtm9"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        },
+        {
+          "name": "Aditya Ojha",
+          "url": "https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "who u gon luv?",
+      "url": "https://open.spotify.com/track/20nhihuA7KeXmCUI6qFoHw"
     },
     {
       "album": {

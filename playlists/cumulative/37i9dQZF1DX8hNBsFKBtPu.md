@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-774 songs - 1 day 15 hr 35 min
+780 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All This Love](https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [All This Love](https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4) | 3:25 | 2025-08-14 | 2025-09-12 |
 | [All We Need \(Lete Ambo\)](https://open.spotify.com/track/63jZYEg7VnqW5JUGWx1BHP) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm), [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [All We Need \(Lete Ambo\)](https://open.spotify.com/album/2lVBaTLSlkIcEQG9NO9zfl) | 3:34 | 2025-01-30 | 2025-06-06 |
 | [Alle Mine Engle \(feat\. Niko Blonde\)](https://open.spotify.com/track/77vgzL7CqmdS4Lp0N0iyl5) | [Sara Vita](https://open.spotify.com/artist/0NL4k9oswvKfTgIYxoRQG4), [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Alle Mine Engle \(feat\. Niko Blonde\)](https://open.spotify.com/album/5IgyUuIWTJ9ZUWLCdQ1UPE) | 2:56 | 2025-01-16 | 2025-01-24 |
+| [Alle Pigerne Herinde](https://open.spotify.com/track/5RtYUyVHXiAchhXT8i99YE) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Alle Pigerne Herinde](https://open.spotify.com/album/0XXFSpRpYNzk0GBWvpDZXl) | 2:17 | 2026-01-22 |  |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 | 2025-11-07 |
 | [Alt Jeg Ville Have Sagt \(feat\. Peter Smith\)](https://open.spotify.com/track/2nV9TdQNJNmwYs9tptsKhT) | [ROSÉL](https://open.spotify.com/artist/68qzFAN4togCedlRiLWshZ), [Peter Smith](https://open.spotify.com/artist/6qh9sju49yWkUNF3RnLuNO) | [Alt Jeg Ville Have Sagt \(feat\. Peter Smith\)](https://open.spotify.com/album/4AKVO49bN6EjqXGRsPyupl) | 3:08 | 2024-11-14 | 2025-01-17 |
 | [Alt På Rød](https://open.spotify.com/track/65C7dJuAI8JjOSA6vCfuK2) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Alt På Rød](https://open.spotify.com/album/24TMuhiWwpIBN2oPvuqwha) | 2:44 | 2025-05-22 | 2025-06-27 |
@@ -129,6 +130,7 @@
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 | 2025-04-18 |
 | [Dagen Derpå](https://open.spotify.com/track/1ngvhTyQx8phZgiFCMAd97) | [Åh Buster](https://open.spotify.com/artist/7lwPdcXKZJGDOEXAQCnIHQ) | [Dagen Derpå](https://open.spotify.com/album/05YLb831nThqKElAjQvueg) | 2:50 | 2025-11-21 | 2025-11-28 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
+| [Daisy](https://open.spotify.com/track/6hGF2oWMqqYRLcdbGKqyet) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [Daisy](https://open.spotify.com/album/4wDD429xJaFrrytQyYD9RL) | 3:24 | 2026-01-22 |  |
 | [Dancing Around The Truth](https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Dancing Around The Truth](https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe) | 3:50 | 2025-03-20 | 2025-04-11 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-01-17 |
 | [Dancing in the Smoke \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dancing in the Smoke \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK) | 3:42 | 2025-10-02 | 2025-10-17 |
@@ -136,6 +138,7 @@
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 | 2025-04-11 |
 | [Day & Night](https://open.spotify.com/track/3GeaYrqVpgZvTDIz7L6BW7) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Day & Night](https://open.spotify.com/album/16JG83fJ82wz6Rb88BsebO) | 3:24 | 2024-06-27 | 2024-08-30 |
 | [Dead To Me](https://open.spotify.com/track/0HtKDTDBOQwOdCX24OymzO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Dead To Me](https://open.spotify.com/album/5SY0bDrwMoMZqqbumGDjkn) | 2:21 | 2025-11-13 |  |
+| [Death Of Me](https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Death Of Me](https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW) | 3:00 | 2026-01-22 |  |
 | [Deep Waters](https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Deep Waters](https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V) | 2:36 | 2025-09-05 | 2025-11-07 |
 | [Deeper Love](https://open.spotify.com/track/3pWkrUzfdUIY94072pVTts) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Deeper Love](https://open.spotify.com/album/1GuFpHlMWa9OmSdKPYat5Y) | 3:20 | 2026-01-08 |  |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-27 | 2025-04-11 |
@@ -569,6 +572,7 @@
 | [Rene Hjerter](https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 2:49 | 2025-05-01 | 2025-07-11 |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-06-27 | 2024-10-04 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-27 | 2024-08-30 |
+| [Roaring Heart](https://open.spotify.com/track/0HrEAbXFCH0pBUtVlRvG9f) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Roaring Heart](https://open.spotify.com/album/6AZRR8WCneRZBJtv3uSIuX) | 3:03 | 2026-01-22 |  |
 | [Rubber Boots](https://open.spotify.com/track/1v0reAiUn4qZx9yqORRzVz) | [RoseeLu](https://open.spotify.com/artist/0z6AS7aXaXqveKFus4AV9E) | [Rubber Boots](https://open.spotify.com/album/3o7UxakcUmQrDcSvO5rQy2) | 3:04 | 2024-11-07 | 2025-01-17 |
 | [run for your life](https://open.spotify.com/track/2vEAVtWeZBX7TnF47gWsfk) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [run for your life](https://open.spotify.com/album/6KpKTONPJevIJztZXZIyX0) | 3:30 | 2025-11-13 |  |
 | [Runaway Man](https://open.spotify.com/track/5egC8BOeaB6CgPU8vbTUJs) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Runaway Man](https://open.spotify.com/album/5rNfQeQQfKks5EQauvu9Mu) | 4:21 | 2025-05-29 | 2025-08-29 |
@@ -693,6 +697,7 @@
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-09-25 | 2025-10-10 |
 | [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-24 | 2025-10-03 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2025-01-17 |
+| [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
@@ -702,6 +707,7 @@
 | [Try Your Luck](https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 2:43 | 2025-05-22 | 2025-07-04 |
 | [Tsunami](https://open.spotify.com/track/2284BwyOtA8wI3jeObBlM0) | [NOAH](https://open.spotify.com/artist/1M0dufGcezQSWNroSSQcK5) | [Tsunami](https://open.spotify.com/album/4wmGfmi5xkEO6wZUOrIrqa) | 3:18 | 2025-01-09 | 2025-07-25 |
 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 | 2025-07-17 | 2025-09-06 |
+| [tusind tanker](https://open.spotify.com/track/6T5dJLZEkwFjEHo8gDkGZJ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [](https://open.spotify.com/album/null) | 2:50 | 2026-01-22 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-06-13 |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 | 2025-06-20 |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-04-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 422 songs - 21 hr 27 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 437 songs - 22 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -430,5 +430,20 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 420 | [Breathe Into Me](https://open.spotify.com/track/1wEVk17vHuOxVMmI9rAzHZ) | [Braddock Lee](https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB) | [Breathe Into Me](https://open.spotify.com/album/3M92Rivd1rI3n00bqY0oXk) | 3:23 |
 | 421 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 |
 | 422 | [ROADHOUSE](https://open.spotify.com/track/6n6bH3lTr45O2qC9swwqR8) | [itssmill](https://open.spotify.com/artist/2eSprHb8LG5MdnXHwzBCsX) | [ROADHOUSE](https://open.spotify.com/album/1GNltz9y1DpzZSme38OnN5) | 1:47 |
+| 423 | [Espinas y Claveles](https://open.spotify.com/track/20CTeOidoXflPO8Vfm2S2h) | [Moraless](https://open.spotify.com/artist/0wB3MqSDgYZBZLlcAHgusN) | [Espinas y Claveles](https://open.spotify.com/album/3U4hNWjJ2LQBQjteMUTvfk) | 2:39 |
+| 424 | [Quintal](https://open.spotify.com/track/4wP4e4lmPPRH7SnnSHvuCq) | [AI MAFA](https://open.spotify.com/artist/3wu35Yk8nur6ZLqFwH7WSL) | [Vivo Na Noite](https://open.spotify.com/album/56c7CDKilzsO8VdjSnMwUY) | 2:33 |
+| 425 | [Corvette](https://open.spotify.com/track/2f00jSGdTKm1YE8BxQWcBj) | [Dunkan](https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky) | [Corvette](https://open.spotify.com/album/3C09GULk61FzBBdHWW6ylt) | 2:50 |
+| 426 | [Wonder Why](https://open.spotify.com/track/4NLhC4qN9hagEV5LFYhCZY) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Wonder Why](https://open.spotify.com/album/56AFzt3kCvJJS0APSBrZK8) | 1:30 |
+| 427 | [Mi Edén](https://open.spotify.com/track/59CowHaip6C9pya8XUEH3t) | [Benjamin Pujols](https://open.spotify.com/artist/4MElKrdyigZbArae4Na3TS) | [Mi Edén](https://open.spotify.com/album/3IavyfgrRUhmqolFSAsbwC) | 3:44 |
+| 428 | [NOT MISSIN U](https://open.spotify.com/track/32VebCSm6A9rvjmBKgvpVL) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [NOT MISSIN U](https://open.spotify.com/album/23NoaCfiIJdO4zg7BWWewq) | 2:37 |
+| 429 | [Sem Nada](https://open.spotify.com/track/3glO6TWZiGfgoWEm3jKL6b) | [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4) | [Sem Nada](https://open.spotify.com/album/4711zgfJ2vdH52jgijCSgF) | 3:11 |
+| 430 | [Switch](https://open.spotify.com/track/0qV4WgZ88Z8OocJhbbZhEf) | [Mvingo](https://open.spotify.com/artist/7uJH5I3vDXcinEKi633si2), [Harshit Datta](https://open.spotify.com/artist/4OnrXxKdWoyI3KLCdOhMl9) | [Switch](https://open.spotify.com/album/4wI46lj7hTIK42R2nh0noV) | 2:30 |
+| 431 | [Il neige sur Liège \(feat Oster\)](https://open.spotify.com/track/0MOX27C1SE71BjiuMhtQEu) | [KOFA La Dictature](https://open.spotify.com/artist/6HMbRDcQtrJ4P3PI7hEY8N), [Oster](https://open.spotify.com/artist/0zju6OFZzVKiqI21znLbp9) | [Il neige sur Liège \(feat Oster\)](https://open.spotify.com/album/02gm7UYa1noSso6YQgjfUW) | 3:08 |
+| 432 | [No Luxury](https://open.spotify.com/track/5RzLN9hxj9dcyili2TW2AP) | [Kraym](https://open.spotify.com/artist/7kETGUR36tXAbUSWp9MbcP) | [No Luxury](https://open.spotify.com/album/20iQ08Z7hOEkkgzMyetWus) | 2:43 |
+| 433 | [SAFE SPACE](https://open.spotify.com/track/5inf6KBpzOAEjEJLeJf0jH) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:00 |
+| 434 | [Changé](https://open.spotify.com/track/5vcGc7X0vWcRwn1qKbN668) | [Ssba](https://open.spotify.com/artist/67PGP6fO4LbiwvNtm6Ggdf), [Polo Cortez](https://open.spotify.com/artist/555iIvNAQ1vlfXVNa4Kxu6) | [Flashback](https://open.spotify.com/album/41KNDwICv2kFBaVmYPZn8R) | 3:00 |
+| 435 | [Up & Down](https://open.spotify.com/track/3F26QKXnR3aP0DwrSE4oFP) | [Tsilla](https://open.spotify.com/artist/0XFGLPbtLa5gspkrLw3xoF), [LOCSAIN](https://open.spotify.com/artist/0x4AIjN5tzcoBzeqpUKWkt) | [Up & Down](https://open.spotify.com/album/4OtnbdvtY81fN7Izc7Z3n3) | 3:16 |
+| 436 | [Double Vision](https://open.spotify.com/track/6teK4Tc58MLP0gxoHLpucF) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Double Vision](https://open.spotify.com/album/2hNv9pKB5qgTQ2VQIutREo) | 3:18 |
+| 437 | [Знаешь](https://open.spotify.com/track/2WWq6Cee2K8J6FR4Ba1rEC) | [BAZIV](https://open.spotify.com/artist/4WoH2DA8I9TsUBc9YcoQLO) | [Знаешь](https://open.spotify.com/album/6uQtYlfxjZKpL5hHRnHNSt) | 3:31 |
 
-Snapshot ID: `AAAZFZNuLcT/gxxDeBY+OaSQS1xBUYWo`
+Snapshot ID: `AAAZJId86HitEwZ/Pmi6lgsvD6E5whpU`

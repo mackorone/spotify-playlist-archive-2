@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste releases Hollands & Volks. Cover: Yves Berendse",
+  "description": "De nieuwste releases Hollands & Volks. Cover: Afro Bros, Billy Dans, Brace & Jeffrey Heesen",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1855,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "De Tapster Uit Tijuana",
+        "url": "https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186911,
+      "name": "De Tapster Uit Tijuana",
+      "url": "https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9"
+    },
+    {
+      "album": {
         "name": "De Tent Moet Op Z'n Kop",
         "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
       },
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 182371,
       "name": "Elize",
       "url": "https://open.spotify.com/track/7GM2Kw9ljFkWCATZlXs9t6"
@@ -2888,6 +2906,24 @@
       "duration_ms": 156000,
       "name": "Gekke Henkie",
       "url": "https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK"
+    },
+    {
+      "album": {
+        "name": "Gekke Makelaar",
+        "url": "https://open.spotify.com/album/6aZp52KbGn66Dy1gb0TItf"
+      },
+      "artists": [
+        {
+          "name": "Richell",
+          "url": "https://open.spotify.com/artist/7aLeCI1mEhWe4jOJRjADV2"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131155,
+      "name": "Gekke Makelaar",
+      "url": "https://open.spotify.com/track/1619tucbCv9JfHFHrglvaN"
     },
     {
       "album": {
@@ -3847,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Ik Kan Niet Zonder Jou",
+        "url": "https://open.spotify.com/album/3pidvIjA9VGuaBonE9x2d4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Stricker",
+          "url": "https://open.spotify.com/artist/3tdgnZyx1pSSe4XrLg7RnB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203957,
+      "name": "Ik Kan Niet Zonder Jou",
+      "url": "https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9"
+    },
+    {
+      "album": {
         "name": "Ik Kom Van Ver",
         "url": "https://open.spotify.com/album/42ayaYI1ibzsRSt2gI8jXt"
       },
@@ -4357,6 +4411,28 @@
     },
     {
       "album": {
+        "name": "In Mijn Hart (Kroegversie)",
+        "url": "https://open.spotify.com/album/1troD6T0nGN6eOR9C30Sti"
+      },
+      "artists": [
+        {
+          "name": "Opgeblazen",
+          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
+        },
+        {
+          "name": "Roosy",
+          "url": "https://open.spotify.com/artist/3ZxaiXxGpiqIWX6zoyRF1U"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "In Mijn Hart (Kroegversie)",
+      "url": "https://open.spotify.com/track/4z8HbFg43M9B2e1gU64ixE"
+    },
+    {
+      "album": {
         "name": "In Ons Stamcafe",
         "url": "https://open.spotify.com/album/5qMmRvHha0W0RUpZg6ZYvu"
       },
@@ -4682,7 +4758,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144043,
       "name": "Jij Hoort bij Mij",
       "url": "https://open.spotify.com/track/4y7OOwS7pnbzyzyu8EbUJu"
@@ -5958,7 +6034,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 143333,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/58E6lsFPYoF5v9HocPBzUY"
@@ -6016,6 +6092,36 @@
       "duration_ms": 133557,
       "name": "Mee Met Mij",
       "url": "https://open.spotify.com/track/3O61iHhJXBqS14VWdn4CE5"
+    },
+    {
+      "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128014,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
     },
     {
       "album": {
@@ -6772,7 +6878,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161662,
       "name": "Op m'n ziel getrapt",
       "url": "https://open.spotify.com/track/5ltzcGOJCuP7wV7J2WpbXL"
@@ -7499,6 +7605,28 @@
     },
     {
       "album": {
+        "name": "Spijt",
+        "url": "https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        },
+        {
+          "name": "SHQQ",
+          "url": "https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
+    },
+    {
+      "album": {
         "name": "Spijt Is Voor Later",
         "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
       },
@@ -7936,7 +8064,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 174682,
       "name": "Van boer tot zigeuner",
       "url": "https://open.spotify.com/track/4wNi9oHhYPMJhRXyhLvjA9"
@@ -8030,7 +8158,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 152380,
       "name": "Vanaf Vandaag",
       "url": "https://open.spotify.com/track/1doSpLKE5WQq8WWkaADG5I"

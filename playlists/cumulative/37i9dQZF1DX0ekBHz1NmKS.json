@@ -6141,6 +6141,24 @@
     },
     {
       "album": {
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210292,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
+    },
+    {
+      "album": {
         "name": "Dansa min docka",
         "url": "https://open.spotify.com/album/3apXK1KdvKPgaiaa1asVju"
       },
@@ -9658,6 +9676,24 @@
       "duration_ms": 219046,
       "name": "Ett silverhj\u00e4rtas sista slag",
       "url": "https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6"
+    },
+    {
+      "album": {
+        "name": "Ett varv till",
+        "url": "https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177376,
+      "name": "Ett varv till",
+      "url": "https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D"
     },
     {
       "album": {
@@ -14531,6 +14567,28 @@
     },
     {
       "album": {
+        "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
+        "url": "https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN"
+      },
+      "artists": [
+        {
+          "name": "Division 7",
+          "url": "https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
+      "url": "https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ"
+    },
+    {
+      "album": {
         "name": "Himlen kan v\u00e4nta",
         "url": "https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO"
       },
@@ -16880,7 +16938,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 113454,
       "name": "Ikv\u00e4ll handlar det om oss (en drink)",
       "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
@@ -21030,6 +21088,24 @@
       "duration_ms": 187760,
       "name": "Lovely Weather",
       "url": "https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "LOVESONGS",
+      "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
     },
     {
       "album": {
@@ -25474,7 +25550,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163269,
       "name": "om vi f\u00f6rsvann",
       "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
@@ -26990,7 +27066,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 181386,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
@@ -33972,7 +34048,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 217321,
       "name": "The 64",
       "url": "https://open.spotify.com/track/34HvxIlrCngqaA00cHKtfd"
@@ -34720,7 +34796,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 173043,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"
@@ -36112,6 +36188,24 @@
       "duration_ms": 204913,
       "name": "Utan dina andetag - Spotify Singles",
       "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
+    },
+    {
+      "album": {
+        "name": "VA INTE DUM",
+        "url": "https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "VA INTE DUM",
+      "url": "https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3"
     },
     {
       "album": {

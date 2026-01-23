@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 21 Jan 19:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Jan 19:04 UTC.
 
-6,066 songs - 14 day 1 hr 31 min
+6,068 songs - 14 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 | 2024-12-06 | 2024-12-11 |
 | [Ain't Nobody](https://open.spotify.com/track/1WfDfbqh7WUIknOdZPO5XP) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI), [Hanna Tembo](https://open.spotify.com/artist/1P5OWAouHeNB4aEhFeCVzt) | [Ain't Nobody](https://open.spotify.com/album/2p8qKlTOB9Qv9Wrs9oRz0V) | 4:40 | 2024-06-05 | 2024-06-07 |
 | [Aired out](https://open.spotify.com/track/4Up5MhH38mjJmfQOsT7lMN) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Aired out](https://open.spotify.com/album/06R6LROCs7sicD9RmUzHAv) | 3:08 | 2025-05-13 | 2025-05-22 |
-| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-10 |  |
+| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-10 | 2026-01-23 |
 | [AK47](https://open.spotify.com/track/3PyuAlvHJbv1qFl9LzStFl) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI) | [AK47](https://open.spotify.com/album/59I5TQ7KEZ6AlkC5SQFzZ5) | 3:36 | 2024-09-17 | 2024-09-20 |
 | [Akadiddy](https://open.spotify.com/track/7JnSJsvEsjAxDv3W3iYbjl) | [Scru Face Jean](https://open.spotify.com/artist/0zspuZLm1rglTb82ZVaU7p) | [Akadiddy](https://open.spotify.com/album/4i6KnPklvROrpVLN0dvSpF) | 4:20 | 2025-01-31 | 2025-02-08 |
 | [AL ARBA3](https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [AL ARBA3](https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp) | 3:20 | 2024-06-20 | 2024-06-22 |
@@ -1322,6 +1322,7 @@
 | [Death Can't Save You](https://open.spotify.com/track/6z5wfyQStfAPUwnibZdwuY) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Death Can't Save You](https://open.spotify.com/album/2wOBFEzfZUxyd5Cgo1klnT) | 4:54 | 2024-07-01 | 2024-07-04 |
 | [DEATH CULT ZOMBIE](https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [DEATH CULT ZOMBIE](https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je) | 3:36 | 2025-10-31 | 2025-11-11 |
 | [Death Grips](https://open.spotify.com/track/2xXgWlANgNbcuFZhD7NFSc) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Death Grips](https://open.spotify.com/album/0fK8Tmhs1ku4p3XAxJJrXd) | 3:33 | 2024-06-13 | 2024-06-15 |
+| [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-22 |  |
 | [Death of me](https://open.spotify.com/track/6CsJx2dpKXuWoEOf6YLhOn) | [msliterate](https://open.spotify.com/artist/3992qm16HTlVo3TXmegC4h) | [Death of me](https://open.spotify.com/album/1clHWd7EbQ3cR9H8cHto5J) | 3:34 | 2024-12-03 | 2024-12-06 |
 | [Death of the Party](https://open.spotify.com/track/2VUi7RJrMOf9VgQ3WwGHLO) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Death of the Party](https://open.spotify.com/album/4HkMwpGaFKkuP2FmmdVpeC) | 2:43 | 2024-07-05 | 2024-07-07 |
 | [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 | 2025-02-07 | 2025-02-14 |
@@ -2248,7 +2249,7 @@
 | [HARD2TELL](https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [HARD2TELL](https://open.spotify.com/album/4aJGlUg8Cms9VtzKS4OrqA) | 2:59 | 2025-12-05 | 2025-12-27 |
 | [Harder to Kill](https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Harder to Kill](https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu) | 2:58 | 2024-06-05 | 2024-06-07 |
 | [HARDHEAD](https://open.spotify.com/track/60pXpNEqw1GfwSGxU3n7c5) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [HARDHEAD](https://open.spotify.com/album/1jg65OhOKrAftMrnKJWqfg) | 2:30 | 2025-09-21 | 2025-09-27 |
-| [Harry Potter](https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harry Potter](https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO) | 5:35 | 2026-01-09 |  |
+| [Harry Potter](https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harry Potter](https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO) | 5:35 | 2026-01-09 | 2026-01-23 |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 3:53 | 2024-10-16 | 2024-10-19 |
 | [Hash Ketama](https://open.spotify.com/track/4VzekhXawWFZyry0hND4nx) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [Hash Ketama](https://open.spotify.com/album/09pkNG8uHgSIcG43lD5uck) | 2:03 | 2024-08-09 | 2024-08-12 |
 | [HASHTAG](https://open.spotify.com/track/6DHJ7CzCwPNRNPnsc7CiMt) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HASHTAG](https://open.spotify.com/album/5sEDnzlwuQcVBlAC74aLKA) | 2:00 | 2025-12-05 | 2025-12-31 |
@@ -3010,7 +3011,7 @@
 | [Leprosy](https://open.spotify.com/track/2qxevIU1pfftKSN60MtkCD) | [Ghais Guevara](https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH) | [Leprosy](https://open.spotify.com/album/1Cp5nub0OaPjbasvcueGuK) | 2:47 | 2024-09-25 | 2024-09-28 |
 | [Lesbian Of The Year](https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Lesbian Of The Year](https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW) | 3:33 | 2025-08-20 | 2025-08-23 |
 | [Lesbians <3](https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Lesbians <3](https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9) | 2:06 | 2024-06-07 | 2024-06-11 |
-| [LET EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-01-19 |  |
+| [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-01-19 |  |
 | [Let Go](https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Let Go](https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV) | 3:52 | 2025-01-28 | 2025-02-03 |
 | [Let It Rain](https://open.spotify.com/track/11zgphiq5vlwjis2uFi271) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Let It Rain](https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC) | 3:29 | 2024-08-22 | 2024-08-24 |
 | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/track/5SsRe29Ua89yh6vVJHJC6x) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/album/24Ux2vjaotkgNhZvpn29Kk) | 3:09 | 2025-12-12 | 2026-01-03 |
@@ -3857,6 +3858,7 @@
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-17 | 2024-07-19 |
 | [Open The Pit](https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Open The Pit](https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6) | 3:46 | 2024-11-01 | 2024-11-06 |
 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-08 | 2024-12-12 |
+| [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 | 2026-01-22 |  |
 | [Operation "Misery"](https://open.spotify.com/track/2ls3pqStFLn2OAk2Kkytte) | [Marjorie \-W.C\. Sinclair](https://open.spotify.com/artist/112cbRcCg2YpqBQiB0g7dW) | [Operation "Misery"](https://open.spotify.com/album/67Qu5h5vdN1oQatk65qJR1) | 2:57 | 2024-07-30 | 2024-08-01 |
 | [Operation: Zenithfall](https://open.spotify.com/track/5l9LLkT21xeETTUPaIZaNH) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [Operation: Zenithfall](https://open.spotify.com/album/5bB1qJ1VvyB76dbGWbB3HU) | 5:55 | 2024-12-08 | 2024-12-13 |
 | [Opp Bxtch](https://open.spotify.com/track/5q4dODPiMNDqvTKktP7qqp) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13) | [Opp Bxtch](https://open.spotify.com/album/52SOrzFnMHvFmb4Z0oLCOA) | 1:55 | 2024-09-11 | 2024-09-13 |

@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 164000,
       "name": "BEFORE I EVER LOVED YOU",
       "url": "https://open.spotify.com/track/1tydPVe7fl2IqaAQVIO0fk"
@@ -22826,6 +22826,28 @@
       "duration_ms": 181995,
       "name": "It's What It Takes",
       "url": "https://open.spotify.com/track/6xbkrNVbiEbRDRUOXadqNV"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/67XGOBxBMPfepMXE4TuSIi"
+      },
+      "artists": [
+        {
+          "name": "Eden FM",
+          "url": "https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT"
+        },
+        {
+          "name": "Violet Grace",
+          "url": "https://open.spotify.com/artist/6fwGpGsmWu4kERmOrngO64"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236184,
+      "name": "It's You (feat. Violet Grace)",
+      "url": "https://open.spotify.com/track/1srjG6wKB9irCL3ZLmSBvV"
     },
     {
       "album": {

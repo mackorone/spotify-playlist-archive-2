@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "date_added": "2026-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx"
+    },
+    {
+      "album": {
         "name": "Black or White?",
         "url": "https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q"
       },
@@ -5039,7 +5057,7 @@
     },
     {
       "album": {
-        "name": "Chicken Crisp",
+        "name": "Chicken Crisp (FKD Remix)",
         "url": "https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek"
       },
       "artists": [
@@ -5056,7 +5074,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 266500,
-      "name": "Chicken Crisp",
+      "name": "Chicken Crisp - FKD Remix",
       "url": "https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8"
     },
     {
@@ -30358,7 +30376,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 254498,
       "name": "SWEATER",
       "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"

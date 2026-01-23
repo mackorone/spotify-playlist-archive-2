@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,585 songs - 3 day 17 hr 56 min
+1,586 songs - 3 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,6 +1225,7 @@
 | [大人になれない](https://open.spotify.com/track/69wF6z70ctlhcCzKFEyKs1) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [大人になれない](https://open.spotify.com/album/6fk621ch2cHi1kty7B7dNg) | 3:37 | 2025-02-11 | 2025-02-26 |
 | [大団円](https://open.spotify.com/track/5lumhR5tNMgCGM51BXqX6Q) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [大団円](https://open.spotify.com/album/3ugpIq1Eo29IBYxCswiQvM) | 3:10 | 2025-03-04 | 2025-03-12 |
 | [大正毛断嬢](https://open.spotify.com/track/1BMYTegDArEvTu6OtRTm3F) | [真壁寂室](https://open.spotify.com/artist/1jHAyENmIKAznYXh2FONXc) | [大正毛断嬢](https://open.spotify.com/album/4eYZH8ZeWOxiLC44RqUEe6) | 3:28 | 2022-07-19 | 2022-07-21 |
+| [大罪](https://open.spotify.com/track/4owQhVTHDu57a02yIo0IcI) | [罪十罰](https://open.spotify.com/artist/0DiLMcWEBw0ibunNvLZkR3) | [大罪](https://open.spotify.com/album/3QeR04Owa7pEGnADPqEoHZ) | 3:23 | 2026-01-20 |  |
 | [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 | 2024-04-23 | 2024-07-31 |
 | [天ノ弱](https://open.spotify.com/track/34qfGndmeLECaqkzrU3rzO) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [【ボカロ曲を原キーで】高音厨で有名な総再生数1億超えのうみくんがベストアルバムを出した件について【歌ってみた】\#略してうみくんベスト](https://open.spotify.com/album/1vSU30hiVRoci2fIoAvQee) | 3:10 | 2022-10-18 | 2022-10-28 |
 | [天使になりたいっ！](https://open.spotify.com/track/62mwhk2L8YIIm4hKJc2mpC) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN), [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [天使になりたいっ！](https://open.spotify.com/album/3gJeGw06bJDAzKGCi7AV4v) | 3:01 | 2025-03-11 | 2025-04-02 |

@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        },
+        {
+          "name": "Helio Baiano",
+          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176517,
+      "name": "Ate Quando II",
+      "url": "https://open.spotify.com/track/6mgz2WqzjwzAFmMlpNsPHx"
+    },
+    {
+      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6xL4r0BUvTQ0QmNQiK4fwo"
       },
@@ -1756,7 +1778,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 211584,
       "name": "Buqu\u00ea",
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
@@ -2635,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Cul\u00fa",
+        "url": "https://open.spotify.com/album/7Jzj9nx5EY9hWmGVGS6f8i"
+      },
+      "artists": [
+        {
+          "name": "Danny Peezy",
+          "url": "https://open.spotify.com/artist/1XMHvR1wcH5bgiLGljmc1T"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200181,
+      "name": "Cul\u00fa",
+      "url": "https://open.spotify.com/track/0zO1Bl9nciYG6PRnQKmtQY"
+    },
+    {
+      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
       },
@@ -2800,6 +2840,28 @@
       "duration_ms": 218845,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6AwrhWNb5rkvDibLSniMGK"
+    },
+    {
+      "album": {
+        "name": "Demais",
+        "url": "https://open.spotify.com/album/1Mebq7xsk6gAf9eyffWii2"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Tony Z",
+          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207640,
+      "name": "Demais",
+      "url": "https://open.spotify.com/track/3ejyOEPtBcDCdqKQPlw0IT"
     },
     {
       "album": {
@@ -6318,7 +6380,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 258062,
       "name": "Mbina",
       "url": "https://open.spotify.com/track/1RsifgY1c5nNm4SxN8cbLw"
@@ -10237,6 +10299,24 @@
     },
     {
       "album": {
+        "name": "Sodadi",
+        "url": "https://open.spotify.com/album/6yGZtar5VkZZsSTcBMPXAW"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189621,
+      "name": "Sodadi",
+      "url": "https://open.spotify.com/track/1LBVatFYRDSfosUCsdPJjb"
+    },
+    {
+      "album": {
         "name": "Sodadi Bo",
         "url": "https://open.spotify.com/album/6NwZfTWURa1MQB0afWQkPb"
       },
@@ -11090,7 +11170,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 164636,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
@@ -11428,7 +11508,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"

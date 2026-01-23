@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: jeniverse
 
-705 songs - 1 day 17 hr 34 min
+709 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Chasing Butterflies](https://open.spotify.com/track/5Nk9c15biVx9nLcdyLjxly) | [Midwinter](https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J) | [CHAPTER TWO: Over Again](https://open.spotify.com/album/4p39V2HEjd3tLwdCPkXNZZ) | 4:45 | 2025-11-05 | 2025-12-04 |
 | [Chemicals](https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP) | [The Dark](https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6) | [Chemicals](https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh) | 3:03 | 2024-09-25 | 2025-02-06 |
 | [Chokehold](https://open.spotify.com/track/2FzNACyJzijrf96PlErgQp) | [Druid](https://open.spotify.com/artist/1yXkQMMIVLkHxUCwl8RhXC) | [Chokehold](https://open.spotify.com/album/0rlbSWArxZLzNDpfxk05ng) | 3:02 | 2024-10-02 | 2024-11-09 |
+| [Circle of Liars](https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq) | [Bitter Breath](https://open.spotify.com/artist/0VLqB4hfiXERxxCE2OaVLp) | [Circle of Liars](https://open.spotify.com/album/4LoOj00v0nitF2ZYkTQeJe) | 3:50 | 2026-01-22 |  |
 | [Close My Eyes](https://open.spotify.com/track/352tjDFtih6N6NlMruFaYX) | [A Sense of Purpose](https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM) | [Close My Eyes](https://open.spotify.com/album/4TXHLpK3eKmH7U3SbRopa4) | 3:36 | 2025-08-20 | 2025-10-02 |
 | [Close Your Eyes](https://open.spotify.com/track/7sxNMD1pJTmGDx5xftYZZL) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Close Your Eyes](https://open.spotify.com/album/7seWR9BS10N3K8FOyaIuUF) | 2:56 | 2024-11-13 | 2024-12-05 |
 | [Code Of Silence](https://open.spotify.com/track/5O2SMJwgnK1wB8qzp91pdb) | [Into The Vein](https://open.spotify.com/artist/1FklvdgEAAOBSuwd9jSOjw) | [Code Of Silence](https://open.spotify.com/album/3GPfCNQXnrUmkslt16BVpj) | 3:52 | 2025-02-19 | 2025-03-20 |
@@ -274,6 +275,7 @@
 | [Go Ask Alice](https://open.spotify.com/track/1IAkmmhG1HSYtRQxBU1HuE) | [Soulkeeper](https://open.spotify.com/artist/6sg8lduBgtJr5l4jMJBxLq) | [Go Ask Alice](https://open.spotify.com/album/148Xiywsm1Qx94EyvTtuGw) | 2:43 | 2025-08-27 | 2025-09-25 |
 | [God Nothing](https://open.spotify.com/track/67h31umRDAoJ1DtnDxtt12) | [Anti\-Clone](https://open.spotify.com/artist/1HOMnXEJsC8SHTEMcP0NVJ) | [God Nothing](https://open.spotify.com/album/1d5eyDk0LFD8FBs6CpcYzc) | 3:51 | 2024-10-02 | 2024-12-05 |
 | [God of Oblivion](https://open.spotify.com/track/05k5d65mfc78PpwmiUwwf4) | [Slow Fall](https://open.spotify.com/artist/4wI8Ft8TbUPXruGiEtEtCg) | [God of Oblivion](https://open.spotify.com/album/636gyDuXwtLMRuPKLE68v6) | 4:07 | 2024-08-14 | 2025-02-06 |
+| [Godhood](https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Godhood](https://open.spotify.com/album/7FLprZptdVc6uWnpvnbiPR) | 3:17 | 2026-01-22 |  |
 | [Gold](https://open.spotify.com/track/5IhoCZoKUNBcJKKeJwHDql) | [Watch Out Stampede](https://open.spotify.com/artist/4l7aT8cxtdfmUoxd2s7A94) | [Gold](https://open.spotify.com/album/1CJzR5mo9qWVjXAbXvtgdr) | 2:46 | 2025-01-29 | 2025-03-13 |
 | [Good Looking Girl Awful Music](https://open.spotify.com/track/5zP4KmtesGzZcn2pizzty6) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Good Looking Girl, Awful Music](https://open.spotify.com/album/0xcaGlXFe2nN2k5IwJCyDT) | 3:22 | 2025-12-03 | 2026-01-15 |
 | [Good Looking Girl Awful Music](https://open.spotify.com/track/7jEynwea4AAEDzujzp4Zsj) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Good Looking Girl, Awful Music](https://open.spotify.com/album/7wfN3HxHcFQU5ILA4yOnnK) | 3:22 | 2025-06-06 | 2025-09-11 |
@@ -344,6 +346,7 @@
 | [Inquietude](https://open.spotify.com/track/3pk4zL5pqs45sCE2ZlwPLj) | [Tenue](https://open.spotify.com/artist/4lHTvhSBYET8vaavUNzps0) | [Inquietude](https://open.spotify.com/album/6L5AslxYQ9S5UpjsuqW9CW) | 9:10 | 2024-08-07 | 2024-12-05 |
 | [INSIDE!](https://open.spotify.com/track/5dbZuCTC7uJjGqXzrVKBtS) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F), [Bama](https://open.spotify.com/artist/5gqsRSYn3qhkhY9FzZupVZ) | [INSIDE!](https://open.spotify.com/album/0srSxt1GdSdBSiWvLaqVIt) | 1:49 | 2026-01-14 |  |
 | [Internal Threat](https://open.spotify.com/track/7uOjLOmbTFbaBb9yHJ71VU) | [Open Kasket](https://open.spotify.com/artist/5SMXhyH6Z377dagl3oh8cq), [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [Internal Threat](https://open.spotify.com/album/108Se3SVvwNJCuA4bQftc5) | 2:32 | 2025-01-29 | 2025-05-10 |
+| [Intimate Torment](https://open.spotify.com/track/58WpFnfbEFFawUgkypU02l) | [Foreword](https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY) | [Intimate Torment](https://open.spotify.com/album/4YYduQ22BVq08CnVHgPNnN) | 3:26 | 2026-01-22 |  |
 | [Into Quiet](https://open.spotify.com/track/6SSsbFDPLDlkxUFA1DAdMI) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Coma](https://open.spotify.com/album/4VoGQTGPqFoQxkt60oM2TA) | 3:22 | 2025-09-10 | 2025-11-20 |
 | [Iron Gate](https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Labyrinthine](https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev) | 4:01 | 2025-09-10 | 2025-11-20 |
 | [It's All Been Done Before](https://open.spotify.com/track/5dsHIhDV51xJOUCx6dFrLZ) | [Flat Party](https://open.spotify.com/artist/0LEQNISkhGE62KwVeheQ4p) | [It's All Been Done Before](https://open.spotify.com/album/573XbUtpLlMcUyoVBuNSTm) | 3:43 | 2024-09-25 | 2024-10-17 |
@@ -609,6 +612,7 @@
 | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/album/2yaFrFB0fmseL2s5maXwBO) | 2:47 | 2024-10-02 | 2025-02-20 |
 | [THE END OF EVERYTHING](https://open.spotify.com/track/4r5JlxHcqmSXarddrnauT5) | [Wake Me](https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj) | [THE END OF EVERYTHING](https://open.spotify.com/album/3Iti1LR377P8GOrwtAiCae) | 3:38 | 2025-08-06 | 2025-10-02 |
 | [The Evil Order](https://open.spotify.com/track/48TmBJGVr5l6jvpSsivK1m) | [Violator](https://open.spotify.com/artist/0lFI9B2QSbFVqS6gAZzg1a) | [The Evil Order](https://open.spotify.com/album/6ounycR6CwdkgvJRH3ecUq) | 5:28 | 2025-08-27 | 2025-10-02 |
+| [THE FIRE IN MY NAME](https://open.spotify.com/track/2mhf3Gou2ifwxXwG3VIHYp) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [THE FIRE IN MY NAME](https://open.spotify.com/album/35j2MCL7aM8PgvugKb0vZB) | 2:53 | 2026-01-22 |  |
 | [The First Wound](https://open.spotify.com/track/6pYM2VZw7Kg2myiDqIS6iT) | [Sunrot](https://open.spotify.com/artist/7c0RYfybXbQZJHzVCMROQR), [Dylan Walker](https://open.spotify.com/artist/4qkOSBrxz6jcBqcDayhmBg) | [Passages](https://open.spotify.com/album/5peARHyQfrCC4wkD6MejWI) | 5:00 | 2025-01-29 | 2026-01-15 |
 | [THE FRAY](https://open.spotify.com/track/3PGIwo1RjFVlhlmUvInbyw) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [THE FRAY](https://open.spotify.com/album/2J4qdzLXr3grY1SzJ95RJ0) | 3:18 | 2024-10-16 | 2024-12-05 |
 | [The Great Attractor](https://open.spotify.com/track/1QPlwUrQnpe9qgm21rqbjH) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [The Great Attractor](https://open.spotify.com/album/0jegoX0kueF0NQwWr2XK4Y) | 4:00 | 2025-10-29 | 2025-12-04 |

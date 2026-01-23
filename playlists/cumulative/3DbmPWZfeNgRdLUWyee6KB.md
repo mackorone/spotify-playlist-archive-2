@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-514 songs - 1 day 6 hr 48 min
+515 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Missed Calls](https://open.spotify.com/track/50VTmqNLyAXwYYEdh2KCRi) | [BlvckRxps](https://open.spotify.com/artist/5WDAZVk9StpnQCSiuhyrxF), [OwzA](https://open.spotify.com/artist/0JEsKWALln7rmGs7ObjVzy) | [Missed Calls](https://open.spotify.com/album/6n7EEwr3SPFplknmlsc4UW) | 3:10 | 2025-12-17 | 2026-01-05 |
 | [Mitch](https://open.spotify.com/track/4ywimcJa2DVRV4WYX4FJq7) | [Older Future](https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa) | [The Captains](https://open.spotify.com/album/0FzNiMxsvNVX9TXpQL4oMZ) | 2:58 | 2025-12-20 |  |
 | [Moon Dance](https://open.spotify.com/track/0A8ioyDhryFjhSjJbGoqyp) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG) | [Moon Dance](https://open.spotify.com/album/3A9Ui4JbhRTsynnWPB6B8q) | 4:07 | 2024-08-09 | 2025-12-28 |
+| [Moonlight](https://open.spotify.com/track/54FrWbWsjclNiCTUbWrUsU) | [Craig Cordwell](https://open.spotify.com/artist/1LGKYIglmZVkinGQyFftre) | [Changes](https://open.spotify.com/album/6WOWq0jUHVn5PNicgdQNlr) | 3:27 | 2026-01-22 |  |
 | [Moonlight](https://open.spotify.com/track/0Mo5Ew2MjIgmjCKl1gzqS8) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Moonlight](https://open.spotify.com/album/4X4zHAPSmIQKbq3jIALsD4) | 5:04 | 2025-12-22 |  |
 | [Move On](https://open.spotify.com/track/1EPqUZPqydfMgpQq6GSZQz) | [Kamar Jay](https://open.spotify.com/artist/5MJa7l5xlyf9N6G6R5AcnN) | [Move On](https://open.spotify.com/album/6wEE7ONTk649bbsv5DdpCG) | 3:27 | 2025-12-26 |  |
 | [Mr Thunder \- Remastered 2023](https://open.spotify.com/track/0E1zeBDwwmvdWBGtCEbKgd) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:40 | 2023-11-16 | 2025-11-29 |

@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Dry Cleaning",
-  "num_followers": 294170,
+  "num_followers": 294180,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 201236,
-      "name": "GUTS",
-      "url": "https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq"
-    },
-    {
-      "added_at": "2026-01-14 16:07:18",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn"
+    },
+    {
+      "added_at": "2026-01-14 16:07:18",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 201236,
+      "name": "GUTS",
+      "url": "https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq"
     },
     {
       "added_at": "2026-01-14 16:07:18",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
+        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
+        "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "BLACK COUNTRY GOTHIC",
+      "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
+    },
+    {
+      "added_at": "2026-01-14 16:07:18",
+      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
-        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
-        "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 177597,
-      "name": "BLACK COUNTRY GOTHIC",
-      "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
-    },
-    {
-      "added_at": "2026-01-14 16:07:18",
-      "album": {
         "name": "The Clip",
         "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 165346,
       "name": "Barn Boiler",
       "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
-    },
-    {
-      "added_at": "2026-01-14 16:07:18",
-      "album": {
-        "name": "One More Trip Around The Sun",
-        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "One More Trip Around The Sun",
-      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
     },
     {
       "added_at": "2026-01-14 16:07:18",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
-        "name": "77 (Pt. 1)",
-        "url": "https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk"
+        "name": "One More Trip Around The Sun",
+        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
       },
       "artists": [
         {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ"
+      "duration_ms": 272800,
+      "name": "One More Trip Around The Sun",
+      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
     },
     {
       "added_at": "2026-01-14 16:07:18",
@@ -1063,6 +1047,22 @@
       "duration_ms": 199376,
       "name": "Like A Lesson",
       "url": "https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ"
+    },
+    {
+      "added_at": "2026-01-14 16:07:18",
+      "album": {
+        "name": "77 (Pt. 1)",
+        "url": "https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ"
     },
     {
       "added_at": "2026-01-14 16:07:18",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
-      "added_at": "2026-01-14 16:07:18",
-      "album": {
         "name": "How To Be Cool At Parties/Circe",
         "url": "https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 200653,
       "name": "Circe",
       "url": "https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW"
+    },
+    {
+      "added_at": "2026-01-14 16:07:18",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
     },
     {
       "added_at": "2026-01-14 16:07:18",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
-        "name": "Be A Big Girl",
-        "url": "https://open.spotify.com/album/3M48990TSLoCplWuNssAAs"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 170944,
-      "name": "Be A Big Girl",
-      "url": "https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto"
-    },
-    {
-      "added_at": "2026-01-14 16:07:18",
-      "album": {
         "name": "Dreamachine",
         "url": "https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-01-14 16:07:18",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay"
+        "name": "Be A Big Girl",
+        "url": "https://open.spotify.com/album/3M48990TSLoCplWuNssAAs"
       },
       "artists": [
         {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
         }
       ],
-      "duration_ms": 181540,
-      "name": "Worship The Whip",
-      "url": "https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan"
+      "duration_ms": 170944,
+      "name": "Be A Big Girl",
+      "url": "https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto"
     },
     {
       "added_at": "2026-01-14 16:07:18",
@@ -1335,6 +1319,22 @@
       "duration_ms": 286029,
       "name": "Mind's a Lie",
       "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
+    },
+    {
+      "added_at": "2026-01-14 16:07:18",
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 181540,
+      "name": "Worship The Whip",
+      "url": "https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan"
     },
     {
       "added_at": "2026-01-14 16:07:18",

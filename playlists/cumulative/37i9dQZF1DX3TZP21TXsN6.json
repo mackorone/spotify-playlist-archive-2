@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuwe tracks elke week!",
+  "description": "Nieuwe tracks elke week! Nieuw: Oykie, Rz, MRD en meer...",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/0X30EwgT0OaGGBTPJgYYGy"
+      },
+      "artists": [
+        {
+          "name": "Karma K",
+          "url": "https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199823,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/20hJR3U7Ar0WE7vQrl3iWp"
+    },
+    {
+      "album": {
         "name": "Brikka",
         "url": "https://open.spotify.com/album/4Va5iVnzRs7O7rqkoPw9uY"
       },
@@ -1581,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
+      },
+      "artists": [
+        {
+          "name": "Gilly",
+          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+    },
+    {
+      "album": {
         "name": "Verloren archieven",
         "url": "https://open.spotify.com/album/3mfhx97UKf8MKbwBBhY6Yb"
       },
@@ -1804,7 +1840,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 132276,
       "name": "De Schuld",
       "url": "https://open.spotify.com/track/6JDJYHbHy5Q8s9LDST5z80"
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 176851,
       "name": "decided",
       "url": "https://open.spotify.com/track/5whkgrYDmmJu0LMAk1pxRT"
@@ -2618,7 +2654,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144869,
       "name": "Gesprekken Van Toen",
       "url": "https://open.spotify.com/track/3eE2RpiI7aIQZHSeQRrLHd"
@@ -2894,7 +2930,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 167866,
       "name": "Hard Times Never Humbled Us",
       "url": "https://open.spotify.com/track/5OjzE7bkdSItwIIuzsZ0LN"
@@ -3280,7 +3316,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 209706,
       "name": "Jaloezie",
       "url": "https://open.spotify.com/track/4K5oAJfyaPjszfJXUJNGf6"
@@ -3436,6 +3472,24 @@
       "duration_ms": 123296,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/1bN1FoCeBkFaPWcF8V4Cmo"
+    },
+    {
+      "album": {
+        "name": "Kick Off",
+        "url": "https://open.spotify.com/album/2Yqe0wEoNM71Z5LshVBaFI"
+      },
+      "artists": [
+        {
+          "name": "Madzz",
+          "url": "https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Kick Off",
+      "url": "https://open.spotify.com/track/5RKMrtFuJT4KENJ09RmKzv"
     },
     {
       "album": {
@@ -3616,6 +3670,24 @@
       "duration_ms": 141176,
       "name": "Kofferbak",
       "url": "https://open.spotify.com/track/4B1t36IVEN5Ms4ai3X6zId"
+    },
+    {
+      "album": {
+        "name": "Kom correct",
+        "url": "https://open.spotify.com/album/0QorCmhYyhVW8GiRu2QvUA"
+      },
+      "artists": [
+        {
+          "name": "Rz",
+          "url": "https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Kom correct",
+      "url": "https://open.spotify.com/track/0c1lETzSe3B2csrWFgSQCQ"
     },
     {
       "album": {
@@ -3933,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Liever Alleen",
+        "url": "https://open.spotify.com/album/4Yamfa5h6uuFgs6xJtClDf"
+      },
+      "artists": [
+        {
+          "name": "Gior",
+          "url": "https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Liever Alleen",
+      "url": "https://open.spotify.com/track/0DwZRtAdpj1LXx7U3m3oko"
+    },
+    {
+      "album": {
         "name": "Life Changed",
         "url": "https://open.spotify.com/album/1sPya0t7Ht9gPSUyaM0i71"
       },
@@ -4212,7 +4302,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 173076,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/0lNTugnPWC8ZMy4UXLWFFl"
@@ -4336,7 +4426,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 145355,
       "name": "MEER DAN EEN TON",
       "url": "https://open.spotify.com/track/0jZHLdDg4E8n9fV83qKHXE"
@@ -4588,7 +4678,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 133333,
       "name": "Money up",
       "url": "https://open.spotify.com/track/2fIl1Dr9o6m99bDQemYa0V"
@@ -4640,6 +4730,24 @@
       "duration_ms": 143895,
       "name": "NACHT",
       "url": "https://open.spotify.com/track/4btnwHkreHQsLHJHT9KSHa"
+    },
+    {
+      "album": {
+        "name": "Nachtrust",
+        "url": "https://open.spotify.com/album/0O8aITPyV9FqMp1DuLIrbX"
+      },
+      "artists": [
+        {
+          "name": "Nafas",
+          "url": "https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120821,
+      "name": "Nachtrust",
+      "url": "https://open.spotify.com/track/3e4O0LSgGgqyggG3NW7mbG"
     },
     {
       "album": {
@@ -4720,7 +4828,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144516,
       "name": "Niemand was daar",
       "url": "https://open.spotify.com/track/4YQOmdaiHS9kNPhYUGkvW5"
@@ -4798,6 +4906,24 @@
       "duration_ms": 120048,
       "name": "Niet Thuis Kom",
       "url": "https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N"
+    },
+    {
+      "album": {
+        "name": "Niet Wat Het Was",
+        "url": "https://open.spotify.com/album/4Pgf06QZMuzY2j7rNRmKBc"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122931,
+      "name": "Niet Wat Het Was",
+      "url": "https://open.spotify.com/track/1M27sYhpE9DMwj9jeELE8D"
     },
     {
       "album": {
@@ -5163,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/5SYnYcGipW5R4kh1mpwhQt"
+      },
+      "artists": [
+        {
+          "name": "Joella T",
+          "url": "https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/3EQ8F3JNlCPvbmNgu2pwlb"
+    },
+    {
+      "album": {
         "name": "Papa Is Een Crip II",
         "url": "https://open.spotify.com/album/6cNSly47JHGCMAizhtUFiG"
       },
@@ -5283,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX"
+      },
+      "artists": [
+        {
+          "name": "Oykie",
+          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124031,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O"
+    },
+    {
+      "album": {
         "name": "Piece of me",
         "url": "https://open.spotify.com/album/5XmkKi4gOenQnMTUquv1VF"
       },
@@ -5345,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Pijn",
+        "url": "https://open.spotify.com/album/3Th66I2VQTNGcRu9iAOnED"
+      },
+      "artists": [
+        {
+          "name": "B4RKIE",
+          "url": "https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160851,
+      "name": "Pijn",
+      "url": "https://open.spotify.com/track/37hpsU1zaEpt6DJtsMrQk6"
+    },
+    {
+      "album": {
         "name": "Pina",
         "url": "https://open.spotify.com/album/4ruwzPvyM7ZxqHBALWcu4j"
       },
@@ -5360,7 +5540,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 134685,
       "name": "Pina",
       "url": "https://open.spotify.com/track/0k1HWigJL5VNgdVhb40DbD"
@@ -5440,7 +5620,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163083,
       "name": "Probleem",
       "url": "https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw"
@@ -5908,7 +6088,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 167639,
       "name": "Stapelen",
       "url": "https://open.spotify.com/track/3UEk6AKJ7IikcSSJlW0Y2P"
@@ -5966,7 +6146,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150508,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1H67XnaSzdAxHiT7LsM7Wi"
@@ -6393,6 +6573,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/27kceRNL5SVqdDISGA1Pcy"
+    },
+    {
+      "album": {
         "name": "Trap & Dance 12 (Alors Bonne Chance)",
         "url": "https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA"
       },
@@ -6682,7 +6880,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 146666,
       "name": "Verwacht",
       "url": "https://open.spotify.com/track/0LpKmjuGFroDUysJtKEdPR"
@@ -6820,7 +7018,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 136901,
       "name": "Waarom Zou Ik Stressen ?",
       "url": "https://open.spotify.com/track/0niEfxzA2WsW5vbMJnKpYk"
@@ -7018,7 +7216,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148000,
       "name": "Wit",
       "url": "https://open.spotify.com/track/6DgGB23tGmTyZ7KRsTzb8R"

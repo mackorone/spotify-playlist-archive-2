@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>YOUNGJOO\(영주\)\)
 
-889 songs - 1 day 22 hr 59 min
+890 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Chantepleure](https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Chantepleure](https://open.spotify.com/album/6Fx1xlTCQNFEoNfRExjrXt) | 3:42 | 2025-03-13 | 2025-03-18 |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-19 | 2023-03-19 |
 | [Cheese In The Trap \(Feat\. Jay Park\)](https://open.spotify.com/track/3g5OvwknrbqgOuCsi7z5Ap) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [American Gothic](https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ) | 3:10 | 2022-07-07 | 2022-07-09 |
-| [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 | 2025-01-20 |  |
+| [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 | 2025-01-20 | 2026-01-23 |
 | [choco \(Prod\. DPR CREAM / Feat\. SOLE\)](https://open.spotify.com/track/1dVYsWzYzBDGCmxpZz9D0p) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:54 | 2022-07-07 | 2022-07-13 |
 | [Chocolate](https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Chocolate](https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa) | 3:04 | 2025-05-16 | 2025-06-16 |
 | [Christmas Last Awhile \(feat\. paulkyte\)](https://open.spotify.com/track/69XPghJUtT6wPhDqwQllz3) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Christmas Last Awhile \(feat\. paulkyte\)](https://open.spotify.com/album/2HXPiOMyatUG4nQrGVJKlw) | 3:06 | 2022-12-20 | 2022-12-27 |
@@ -243,6 +243,7 @@
 | [EARLY \(feat\. DUT2\)](https://open.spotify.com/track/4WZUZ7izRSUYhocujt9uDh) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:02 | 2023-02-12 | 2023-02-25 |
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2022-07-15 |
 | [ECHO](https://open.spotify.com/track/6OSFO9R4wCNxksLMSzNEQx) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [ECHO](https://open.spotify.com/album/5KAcFgmvcwii4tQM0RxDfo) | 3:18 | 2022-05-31 | 2022-06-01 |
+| [Ejeh](https://open.spotify.com/track/0SfFCjldRnnbsIL65yqaEd) | [WOOJIN of LNGSHOT](https://open.spotify.com/artist/03EbJpxyuSdoxVkaOr7gKY) | [4SHOBOIZ MIXTAPE](https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O) | 2:15 | 2026-01-21 |  |
 | [Elena Coda](https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [New Edition 34](https://open.spotify.com/album/6V3qsD3AcGwyXtDxcG9fAj) | 4:23 | 2022-04-19 | 2022-04-21 |
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-20 |  |
 | [Empty cup \(feat\. OLNL\)](https://open.spotify.com/track/0aFtrI1ULAEx7F5Xw1WhoL) | [Baneul 바늘](https://open.spotify.com/artist/5xIzk6DGZeavSBU8iI9vrW), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Empty cup \(feat\. OLNL\)](https://open.spotify.com/album/143JvNY8kNbp0NPfpLlpL6) | 4:20 | 2022-04-19 | 2022-04-21 |

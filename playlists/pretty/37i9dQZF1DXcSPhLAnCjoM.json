@@ -1,15 +1,15 @@
 {
   "description": "\" Respire fort\" de Jeanne est le Grand Hit de la semaine.  ",
-  "num_followers": 1026091,
+  "num_followers": 1026084,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAodSqdMLZCa/Yeh4u+4HAKzPvdY",
+  "snapshot_id": "AAAAANr94q/R57oNr/sznJDoJKGef/91",
   "tracks": [
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Respire fort",
         "url": "https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
+      "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "L'horizon",
+      "url": "https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6"
+    },
+    {
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "melodrama",
         "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
@@ -45,55 +61,7 @@
       "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "L'horizon",
-      "url": "https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Dis-moi oui",
-        "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 236119,
-      "name": "Dis-moi oui",
-      "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Autrement",
-        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
-      },
-      "artists": [
-        {
-          "name": "Julien Lieb",
-          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
-        }
-      ],
-      "duration_ms": 164578,
-      "name": "Autrement",
-      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "H\u00e9l\u00e9",
         "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
@@ -109,39 +77,23 @@
       "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
-        "name": "La fuite en avant",
-        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
+        "name": "Autrement",
+        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
       },
       "artists": [
         {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
         }
       ],
-      "duration_ms": 192128,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
+      "duration_ms": 164578,
+      "name": "Autrement",
+      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Tant pis pour elle",
-        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 158185,
-      "name": "Tant pis pour elle",
-      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Par coeur (feat. Joseph Kamel)",
         "url": "https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze"
@@ -161,7 +113,71 @@
       "url": "https://open.spotify.com/track/1grONqhU4gXxscprACJbzW"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
+      "album": {
+        "name": "Mill\u00e9nium",
+        "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "duration_ms": 158544,
+      "name": "Virile",
+      "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
+    },
+    {
+      "added_at": "2026-01-22 23:00:35",
+      "album": {
+        "name": "Dis-moi oui",
+        "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 236119,
+      "name": "Dis-moi oui",
+      "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
+    },
+    {
+      "added_at": "2026-01-22 23:00:35",
+      "album": {
+        "name": "La fuite en avant",
+        "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "duration_ms": 192128,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
+    },
+    {
+      "added_at": "2026-01-22 23:00:35",
+      "album": {
+        "name": "Tant pis pour elle",
+        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 158185,
+      "name": "Tant pis pour elle",
+      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
+    },
+    {
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "particule",
         "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Etincelles",
         "url": "https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB"
@@ -197,23 +213,7 @@
       "url": "https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Mill\u00e9nium",
-        "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
-      },
-      "artists": [
-        {
-          "name": "Suzane",
-          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
-        }
-      ],
-      "duration_ms": 158544,
-      "name": "Virile",
-      "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Mille fois",
         "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Chiens",
         "url": "https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/51qMciprNwFso3R3XioUUu"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Viens on essaie",
         "url": "https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "En boucle",
         "url": "https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "C amir\u00b2",
         "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Coeur maladroit",
         "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "MINUIT UNE",
         "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "\u00c0 qui le tour",
         "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "grandir",
         "url": "https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "SENTIMENTAL",
         "url": "https://open.spotify.com/album/6yWYL1AlHmkWVbuHKppErm"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "La Camisa Negra",
         "url": "https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "HORS DU TEMPS",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Adieu Musique",
         "url": "https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Mon sang",
         "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Mieux que moi",
         "url": "https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Restes d'averses (Regretting You Version)",
         "url": "https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Gamin des sables",
         "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
@@ -553,23 +553,7 @@
       "url": "https://open.spotify.com/track/6TxZK3SClZIkrdE89ZoYFJ"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
-      "album": {
-        "name": "Bouquet final",
-        "url": "https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bouquet final",
-      "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
-    },
-    {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Comme toutes les filles",
         "url": "https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B"
@@ -585,23 +569,23 @@
       "url": "https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
-        "name": "MAGNIFICAT",
-        "url": "https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1"
+        "name": "Bouquet final",
+        "url": "https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA"
       },
       "artists": [
         {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 145454,
-      "name": "Abysses",
-      "url": "https://open.spotify.com/track/3Lgri1rcCPb99ezlE0SWTB"
+      "duration_ms": 193106,
+      "name": "Bouquet final",
+      "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Oublier",
         "url": "https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec"
@@ -617,7 +601,7 @@
       "url": "https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/3ndlLOz5cBu4KpgqMqc5sH"
@@ -633,7 +617,23 @@
       "url": "https://open.spotify.com/track/0LUiwvQMAKngway2t7Bpcz"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
+      "album": {
+        "name": "MAGNIFICAT",
+        "url": "https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Abysses",
+      "url": "https://open.spotify.com/track/3Lgri1rcCPb99ezlE0SWTB"
+    },
+    {
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/513s60DKMknigRNGVzSORD"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Toi jamais",
         "url": "https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL"
     },
     {
-      "added_at": "2026-01-15 23:00:41",
+      "added_at": "2026-01-22 23:00:35",
       "album": {
         "name": "Millions de c\u0153urs",
         "url": "https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u"

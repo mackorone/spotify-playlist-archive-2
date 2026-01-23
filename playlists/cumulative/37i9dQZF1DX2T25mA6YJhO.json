@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Wet Iguanas.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Cora Yako.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -396,6 +396,28 @@
       "duration_ms": 165180,
       "name": "Alba",
       "url": "https://open.spotify.com/track/4J9bAIwyQTMRwkVirnnXBH"
+    },
+    {
+      "album": {
+        "name": "Aliado",
+        "url": "https://open.spotify.com/album/6sk1Kfv9JcQg7Y4XccDcMi"
+      },
+      "artists": [
+        {
+          "name": "Carrera Blanca",
+          "url": "https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A"
+        },
+        {
+          "name": "Adela Por Dios",
+          "url": "https://open.spotify.com/artist/41WTKzjzfuCIin6HAIqwSi"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137508,
+      "name": "Aliado",
+      "url": "https://open.spotify.com/track/405AJ1sfXntMk6pPltPw8o"
     },
     {
       "album": {
@@ -992,7 +1014,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 206876,
       "name": "Bandera Blanca",
       "url": "https://open.spotify.com/track/15nbQJ3D7ACWRrPNrGcHiB"
@@ -2357,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/6cg5rXqnpSJoDhO4CvFwAu"
+      },
+      "artists": [
+        {
+          "name": "el diablo de shanghai",
+          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216747,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/02pvTwwSXCebarnipv3m9z"
+    },
+    {
+      "album": {
         "name": "Di\u00e9sel",
         "url": "https://open.spotify.com/album/0B7OU9zyt4Abh6V7eIGdDG"
       },
@@ -2874,7 +2914,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192705,
       "name": "EL PILLA PILLA",
       "url": "https://open.spotify.com/track/3u17dIDqW6O4yvXFveIHIQ"
@@ -3376,7 +3416,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 200332,
       "name": "Fin de a\u00f1o",
       "url": "https://open.spotify.com/track/2wvrPXDGbUxZXhVLL7neYI"
@@ -3702,7 +3742,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 240218,
       "name": "Gente pasar",
       "url": "https://open.spotify.com/track/5YPHG7FBN0kP48c9trm8UJ"
@@ -5021,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/6ZkWKq5hKSuGg5fTYlLCiT"
+      },
+      "artists": [
+        {
+          "name": "Volavent",
+          "url": "https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180556,
+      "name": "Llegar a lo m\u00e1s alto",
+      "url": "https://open.spotify.com/track/69PPkQ17l0vwXuTbJTe3CF"
+    },
+    {
+      "album": {
         "name": "Ll\u00e9vame M\u00e1s Lejos",
         "url": "https://open.spotify.com/album/2Ur3sb6K1VElD5PJz8uOLI"
       },
@@ -6077,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "Mil peque\u00f1os cortes",
+        "url": "https://open.spotify.com/album/4YkAVofjMDZ448u3fo6BGN"
+      },
+      "artists": [
+        {
+          "name": "Cora Yako",
+          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186932,
+      "name": "Mil peque\u00f1os cortes",
+      "url": "https://open.spotify.com/track/6iYN2H0tO9W3tcoHExxYXh"
+    },
+    {
+      "album": {
         "name": "Minibar",
         "url": "https://open.spotify.com/album/7rjtLYLElzQAmUVg2J5G84"
       },
@@ -6514,6 +6590,28 @@
       "duration_ms": 196851,
       "name": "No era esto a lo que ven\u00edamos",
       "url": "https://open.spotify.com/track/19yuL7xgX4vYVPh4mdImWG"
+    },
+    {
+      "album": {
+        "name": "No es nuestro momento",
+        "url": "https://open.spotify.com/album/4GETD7KLayIIyJTR6CEcPT"
+      },
+      "artists": [
+        {
+          "name": "Filtro",
+          "url": "https://open.spotify.com/artist/7ciFx1MOd6KSEErGqzkgwV"
+        },
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "No es nuestro momento",
+      "url": "https://open.spotify.com/track/38fegshSXjJkOUUVTczvuk"
     },
     {
       "album": {
@@ -7038,7 +7136,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 99560,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/2ymr2d8Uu3lNRCArxtbxjX"
@@ -8250,7 +8348,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 159186,
       "name": "sabes tan bien",
       "url": "https://open.spotify.com/track/32weZn2PvlMTSdyXpALOqF"
@@ -8322,7 +8420,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 199973,
       "name": "Salir a Ganar",
       "url": "https://open.spotify.com/track/70etMlxRMquUw95FunfxWx"
@@ -8546,6 +8644,24 @@
       "duration_ms": 234819,
       "name": "Si se muere tu perro",
       "url": "https://open.spotify.com/track/2oFveyq4ZI1qyG69qqOsVk"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Si Todo Se Tuerce",
+      "url": "https://open.spotify.com/track/4Z5prSEhWbfD7QOgkEisCd"
     },
     {
       "album": {
@@ -9274,6 +9390,24 @@
       "duration_ms": 170571,
       "name": "Todos menos t\u00fa",
       "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
+    },
+    {
+      "album": {
+        "name": "TONTO",
+        "url": "https://open.spotify.com/album/52D92moSlvosJjb2StIvMY"
+      },
+      "artists": [
+        {
+          "name": "TRONKAS!",
+          "url": "https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233220,
+      "name": "TONTO",
+      "url": "https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn"
     },
     {
       "album": {

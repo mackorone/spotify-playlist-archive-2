@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Barto & Zaan Sonnekus",
+  "description": "The best new and classic South African Rock. Cover: JaeXlynne",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 230000,
       "name": "Agtergelaat",
       "url": "https://open.spotify.com/track/09Qgw5YbAg6lGejFfQDDHO"
@@ -434,6 +434,24 @@
       "duration_ms": 240880,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/5SjBDY0gQLncLdDGy99Iwk"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2um0bykHiDI9SEqWj50lCG"
+      },
+      "artists": [
+        {
+          "name": "MAR.Z",
+          "url": "https://open.spotify.com/artist/5JAMkaOdqx718QL2ssWKxx"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209087,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6po8vnWdLeQMnh0S3wUlQP"
     },
     {
       "album": {
@@ -528,6 +546,24 @@
       "duration_ms": 145694,
       "name": "Almal Baklei",
       "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
+    },
+    {
+      "album": {
+        "name": "almal in die straat",
+        "url": "https://open.spotify.com/album/5Y6hfPPdKBvALh1V8ZDZHx"
+      },
+      "artists": [
+        {
+          "name": "TWO",
+          "url": "https://open.spotify.com/artist/0lPCLnqch0At4pU5dgRShl"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163459,
+      "name": "almal in die straat",
+      "url": "https://open.spotify.com/track/70IOraagarnLfk1HqoEckn"
     },
     {
       "album": {
@@ -2082,7 +2118,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 172945,
       "name": "By Die See (feat. Vreemd)",
       "url": "https://open.spotify.com/track/4xAVIM3kla3rH8gaBg4IZq"
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 213456,
       "name": "Club Evolution",
       "url": "https://open.spotify.com/track/5gRv4Bo1Fu9l43iPoXKw2J"
@@ -3003,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Damp",
+        "url": "https://open.spotify.com/album/346ARwCkck8Ir70t3cyxaJ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337391,
+      "name": "Damp",
+      "url": "https://open.spotify.com/track/2xitvOthYS3nfCrW6aoY4Z"
+    },
+    {
+      "album": {
         "name": "Damwal",
         "url": "https://open.spotify.com/album/5aTy7ndoDNzd2ndsfbQ1I2"
       },
@@ -3440,7 +3494,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 171257,
       "name": "DIE HERE WEET",
       "url": "https://open.spotify.com/track/7DH9a4NZwWu291bWXrHLrT"
@@ -4885,6 +4939,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/77UUUqsEB3wMrYyfKukJVx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Stemmett",
+          "url": "https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "Fever - Single Edit",
+      "url": "https://open.spotify.com/track/3RNjKE7fPD4YrBu1B3qKn5"
+    },
+    {
+      "album": {
         "name": "Fight For Me",
         "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
       },
@@ -5188,6 +5260,24 @@
       "duration_ms": 163200,
       "name": "Friendly Romancer",
       "url": "https://open.spotify.com/track/5BB4IGZq6J32vsnXehSpQO"
+    },
+    {
+      "album": {
+        "name": "Friends Like You",
+        "url": "https://open.spotify.com/album/5YVXCkYnYhkdkzeZ3lrEb6"
+      },
+      "artists": [
+        {
+          "name": "JaeXlynne",
+          "url": "https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "Friends Like You",
+      "url": "https://open.spotify.com/track/2ITbuEDOj1hel1w9dU4xxO"
     },
     {
       "album": {
@@ -5966,7 +6056,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 212796,
       "name": "Hande",
       "url": "https://open.spotify.com/track/2HHKOscq7nDWDW5uJhr8LD"
@@ -6288,6 +6378,24 @@
       "duration_ms": 184769,
       "name": "High Roller",
       "url": "https://open.spotify.com/track/4UOYQpDkGR2mdU5X2WUOog"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1t0ITGospV4NHS2QlKH4UZ"
+      },
+      "artists": [
+        {
+          "name": "4am",
+          "url": "https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217564,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/38UsWqBx6EFAfKCrlWOxhd"
     },
     {
       "album": {
@@ -6780,7 +6888,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 225357,
       "name": "Huistoe",
       "url": "https://open.spotify.com/track/3BXo6bYGZPRaqrnk4e7u1r"
@@ -8920,7 +9028,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 252746,
       "name": "Mia",
       "url": "https://open.spotify.com/track/1ZPeSzZF4QEJGzoRvUYCsD"
@@ -9616,7 +9724,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 381418,
       "name": "Namaquawestern",
       "url": "https://open.spotify.com/track/42HxUqkyfvZaA3dgGqQ210"
@@ -9858,6 +9966,28 @@
       "duration_ms": 180000,
       "name": "No Surprise",
       "url": "https://open.spotify.com/track/1L7JDJ5604RkYN2k3czATE"
+    },
+    {
+      "album": {
+        "name": "Noorderlig",
+        "url": "https://open.spotify.com/album/3sNkWwLJrdkiDsIBMTdEus"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273267,
+      "name": "Noorderlig",
+      "url": "https://open.spotify.com/track/0A8LsxXyzdpFlkRQoChoUo"
     },
     {
       "album": {
@@ -10644,7 +10774,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 252935,
       "name": "Parasosiaal",
       "url": "https://open.spotify.com/track/0WnjsPbyZ3xJew4XLJtJQH"
@@ -11102,6 +11232,24 @@
       "duration_ms": 251600,
       "name": "Push Me to the Floor",
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+    },
+    {
+      "album": {
+        "name": "Behind My Eyes",
+        "url": "https://open.spotify.com/album/3lN5IquiYjZlWKgfutlYsr"
+      },
+      "artists": [
+        {
+          "name": "Liam Chester",
+          "url": "https://open.spotify.com/artist/6vgWf8AfTekhJ0DPSknUey"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236100,
+      "name": "Put Me In Drive",
+      "url": "https://open.spotify.com/track/5fw2DPgLzi7uT3pub77xto"
     },
     {
       "album": {
@@ -11827,6 +11975,24 @@
     },
     {
       "album": {
+        "name": "SELFBEWUS",
+        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192794,
+      "name": "SELFBEWUS",
+      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+    },
+    {
+      "album": {
         "name": "Shelter Of Bones",
         "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
       },
@@ -12456,7 +12622,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 274076,
       "name": "Soet Somer",
       "url": "https://open.spotify.com/track/3yqvZAb4ezEvaypkouKsFm"
@@ -12694,7 +12860,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 178758,
       "name": "Sonskyn",
       "url": "https://open.spotify.com/track/7s0fN4Sljj4SyicBbZ9lwC"
@@ -13300,6 +13466,24 @@
       "duration_ms": 169285,
       "name": "Sunrise on the River",
       "url": "https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA"
+    },
+    {
+      "album": {
+        "name": "Sunshine Sister",
+        "url": "https://open.spotify.com/album/6DfGHcIXvtGsQ2WQBnOqP1"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211635,
+      "name": "Sunshine Sister",
+      "url": "https://open.spotify.com/track/1z8DIO6ZJiRFAa8mapMIuf"
     },
     {
       "album": {
@@ -14254,6 +14438,24 @@
       "duration_ms": 304853,
       "name": "Tienduisend Gode #3",
       "url": "https://open.spotify.com/track/4KKP6mRKgctel0HgR7Y6ds"
+    },
+    {
+      "album": {
+        "name": "Till I Find You",
+        "url": "https://open.spotify.com/album/0WgU8riLczb0fKbquaQa9W"
+      },
+      "artists": [
+        {
+          "name": "The Tone Ramblers",
+          "url": "https://open.spotify.com/artist/77JxW0bf2I85IuBblHT7gI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298808,
+      "name": "Till I Find You",
+      "url": "https://open.spotify.com/track/6HzLD3A9tt2tE2fjT1V2J3"
     },
     {
       "album": {
@@ -15673,6 +15875,24 @@
     },
     {
       "album": {
+        "name": "World Peace",
+        "url": "https://open.spotify.com/album/4Sle8PnsDn2yWK8UxntDd7"
+      },
+      "artists": [
+        {
+          "name": "Mercury's in the Microwave",
+          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "World Peace",
+      "url": "https://open.spotify.com/track/3oJegHHhJXxQrTcMeZDMRU"
+    },
+    {
+      "album": {
         "name": "Generation Bored",
         "url": "https://open.spotify.com/album/62qllVlsSubfxk690MmXGG"
       },
@@ -15756,7 +15976,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 333760,
       "name": "Yellow Banana",
       "url": "https://open.spotify.com/track/46oAuHs7nOWN2GBQft0o59"

@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Descent//WorldOfMine Redux",
+        "url": "https://open.spotify.com/album/2Src0qqKBoln8eLkkXk1h0"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Descent//WorldOfMine Redux",
+      "url": "https://open.spotify.com/track/0mMRe4dOUOjTIPFVT9lrfn"
+    },
+    {
+      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 184000,
       "name": "Give it up",
       "url": "https://open.spotify.com/track/4XaaW3qfaXeHqbFfazrJnj"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 220996,
       "name": "Outlaw - 2021 Version",
       "url": "https://open.spotify.com/track/3mXHDTc9NAkNcsi6KFWzUh"
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 219130,
       "name": "Racing",
       "url": "https://open.spotify.com/track/4SaFfwKQ3ulyg9YfMnxATB"
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 151014,
       "name": "Square - 2021 Version",
       "url": "https://open.spotify.com/track/6RLolhTFuwRYW1erhineq5"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 332149,
       "name": "The End of the World As We Know",
       "url": "https://open.spotify.com/track/6B5ylNQNgtzp4VH7RDNcPb"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 217312,
       "name": "Wings!!!",
       "url": "https://open.spotify.com/track/20JJTYM69TGEJkS9aghe61"

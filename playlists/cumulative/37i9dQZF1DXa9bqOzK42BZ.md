@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-306 songs - 1 day 2 hr 33 min
+307 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Mshukuru Mungu Tu](https://open.spotify.com/track/0gs4w9EFOQw2cJR36QPfN8) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Mshukuru Mungu Tu](https://open.spotify.com/album/2r9C2PqJ7ZP5lFgzrE4YqI) | 6:58 | 2025-02-14 | 2025-05-30 |
 | [Mtawala](https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2) | 4:54 | 2022-06-24 | 2025-02-21 |
 | [Mtawala](https://open.spotify.com/track/6mTzTzJsOWZr4Bcq7tMyzS) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/7iHK1lv1MRBlkFR1BBsYai) | 4:54 | 2022-06-24 | 2024-04-19 |
-| [Mtoto Wa Mfalme](https://open.spotify.com/track/14YcZqpGB5iO1W3AQGRue8) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Mtoto Wa Mfalme](https://open.spotify.com/album/2AUJLWjCCriz55MI3uJPfn) | 3:07 | 2025-10-17 |  |
+| [Mtoto Wa Mfalme](https://open.spotify.com/track/14YcZqpGB5iO1W3AQGRue8) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Mtoto Wa Mfalme](https://open.spotify.com/album/2AUJLWjCCriz55MI3uJPfn) | 3:07 | 2025-10-17 | 2026-01-23 |
 | [Mungu Mkuu](https://open.spotify.com/track/5DUQaHEFbmfTl1DJvzzaN5) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/0aYwMvoRxWOj7XHqjuBlTi) | 5:04 | 2024-04-19 |  |
 | [Mungu Mmoja \- Live](https://open.spotify.com/track/71FXICK2kMMLCCW7JQTGiy) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK), [Neema Gospel Choir](https://open.spotify.com/artist/0Rj46magWSjvL3hnxTaNGy) | [Mungu Mmoja \(Live\)](https://open.spotify.com/album/0dc3Brta6vhGPl09I6RT4I) | 9:09 | 2024-04-19 |  |
 | [Mungu Mwenye Nguvu](https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR) | [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Mungu Mwenye Nguvu](https://open.spotify.com/album/2rNVMn4XGUtZewH3WfZNGm) | 7:32 | 2022-06-24 |  |
@@ -150,6 +150,7 @@
 | [Mwenye Uwezo \- Live](https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Mwenye Uwezo](https://open.spotify.com/album/1vuXnAygU80Nr9hRTAvgjW) | 8:39 | 2025-04-18 | 2025-05-30 |
 | [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 | 2024-12-20 | 2025-03-28 |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 | 2025-09-20 |
+| [Nakupenda \- Live](https://open.spotify.com/track/7FhBF3erXmu9EwpIw2Wr3V) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Nakupenda \(Live\)](https://open.spotify.com/album/1lj8OzHxosFnVOahWkk6Xp) | 14:38 | 2026-01-23 |  |
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 | 2025-03-28 |
 | [Nangoja](https://open.spotify.com/track/6J5VuHsRitkeGk8jZC5WK0) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Nangoja](https://open.spotify.com/album/2xFzZjxc6ULZEOv1JPTk9M) | 4:08 | 2024-11-29 |  |
 | [Nani Kama Wewe \- Live](https://open.spotify.com/track/4wmzfhXJUHLrpukA5lNoSB) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Nani Kama Wewe \(Live\)](https://open.spotify.com/album/4RqgouMK4iWcUNFQdeIQTm) | 9:12 | 2025-10-10 |  |

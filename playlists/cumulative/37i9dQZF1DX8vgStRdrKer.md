@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-701 songs - 2 day 10 hr 47 min
+702 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-01-14 |
 | [Trust](https://open.spotify.com/track/5VkiTD85sZbjqfBwTilPN1) | [Ebells](https://open.spotify.com/artist/26kwu3Si2L4Cdaq3gQYIjr), [Essemm.](https://open.spotify.com/artist/28rB1ItIc2RESyqo2jdmBJ), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA) | [TRUST](https://open.spotify.com/album/5wjpOAbzhBder8I6KfVHgB) | 5:59 | 2025-06-27 | 2025-07-11 |
 | [TRUST ISSUES](https://open.spotify.com/track/1nDOuuy6VBxuN8GwD6F0It) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [TRUST ISSUES](https://open.spotify.com/album/6saZDU6x1tDjBmOAvJwKFX) | 2:54 | 2025-06-13 | 2025-06-20 |
+| [TURNING AROUND](https://open.spotify.com/track/6hrLilhSwvVNplz9aV6QAE) | [Femi Ogebule](https://open.spotify.com/artist/0eKCZj4LYXRaOqPyZ6aWDI), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [TURNING AROUND](https://open.spotify.com/album/7lHTGlnInHz6Hw0mJTqyW8) | 5:22 | 2026-01-16 |  |
 | [Turning Around](https://open.spotify.com/track/2SCSzVBRw96OpLCHHXMWOU) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Turning Around](https://open.spotify.com/album/7yCyLvm84zgKjH6Rfl8I8Z) | 5:16 | 2025-06-06 | 2025-06-27 |
 | [Twakulumba \(We Praise You\)](https://open.spotify.com/track/6ygbkOBN2EhCb6k4c4ABMY) | [Overland Missions Music](https://open.spotify.com/artist/3p3D7GwSbpQHvzw7nUz8cf), [Racheal](https://open.spotify.com/artist/2HjgUAOfmS92knyncXjXYJ) | [Twakulumba \(We Praise You\)](https://open.spotify.com/album/3bmZg76PXA1B4NpduLENDX) | 4:06 | 2025-06-27 | 2025-07-13 |
 | [Ukhona \(Live\)](https://open.spotify.com/track/3q0L78ewhexARzasmYb2Na) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Ukhona \(Live\)](https://open.spotify.com/album/5GVDz9NH7RVdWuP5sFeI0H) | 15:32 | 2025-09-26 |  |
@@ -674,7 +675,7 @@
 | [WONDERFUL](https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [WONDERFUL](https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe) | 3:43 | 2024-07-26 | 2024-09-13 |
 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 | 2024-06-14 | 2025-03-10 |
 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-01-12 | 2024-05-24 |
-| [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 |  |
+| [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 | 2026-01-23 |
 | [Worship Him](https://open.spotify.com/track/4Ev3u4Uyy03eTn1JS5sdfk) | [Adegrace](https://open.spotify.com/artist/3ycO6fT2nSoiIiXuo2Omoe) | [Worship Him](https://open.spotify.com/album/1ymg70A7GMt3FwTJVf6rbO) | 10:49 | 2025-11-14 | 2026-01-15 |
 | [Worship Medley](https://open.spotify.com/track/33WHn1LRXdtLZfMN04rwRb) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Medley](https://open.spotify.com/album/4oXBqPiUw56WoVhh6aZKz0) | 4:26 | 2025-09-12 | 2025-10-11 |
 | [Worship Medley 16](https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 16](https://open.spotify.com/album/6wkRwNf3cbMXLnKxEV746g) | 6:45 | 2025-07-11 |  |

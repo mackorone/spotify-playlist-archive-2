@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Cam Kahin, Artwork: Isu Kim
 
-2,880 songs - 6 day 4 hr 18 min
+2,881 songs - 6 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Been A Long Time](https://open.spotify.com/track/5NsxUxjCJpxi5Sw0u7J3i3) | [Beatox](https://open.spotify.com/artist/0F8OU3gInLIG9P3jsPk5uT) | [Been A Long Time](https://open.spotify.com/album/1xhYME3bWNQ4FElbvB5ruj) | 3:14 | 2024-06-12 | 2024-07-04 |
 | [Been Through](https://open.spotify.com/track/62pDmVvsn7u2iefmt0ZbT9) | [Avery Raquel](https://open.spotify.com/artist/25HZTdg7P10cgqtsslURun) | [Been Through](https://open.spotify.com/album/4LymN04dG5zN0nzkxJrytD) | 3:15 | 2024-04-24 | 2024-05-09 |
 | [Beer Therapy](https://open.spotify.com/track/40H4xuauW7mL7b8MKp29Vy) | [Bobby Garcia](https://open.spotify.com/artist/55b0an3T9HL4pTpUq120lx) | [The Man I Never Knew](https://open.spotify.com/album/1mXLscr9V5CZ3GVUo2rWXo) | 3:17 | 2025-03-12 | 2025-03-20 |
-| [BEFORE I EVER LOVED YOU](https://open.spotify.com/track/1tydPVe7fl2IqaAQVIO0fk) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [BEFORE I EVER LOVED YOU](https://open.spotify.com/album/19ptVfzYovW0kr04Qvq9vT) | 2:44 | 2026-01-14 |  |
+| [BEFORE I EVER LOVED YOU](https://open.spotify.com/track/1tydPVe7fl2IqaAQVIO0fk) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [BEFORE I EVER LOVED YOU](https://open.spotify.com/album/19ptVfzYovW0kr04Qvq9vT) | 2:44 | 2026-01-14 | 2026-01-23 |
 | [BEGGAR'S PLEAD! \(feat\. Clairmont The Second\)](https://open.spotify.com/track/29hLik8zJRjUB1KXnbSJC6) | [4sante](https://open.spotify.com/artist/2GJUNhi3knOQjYM9OPq8yD), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [BEGGAR'S PLEAD! \(feat\. Clairmont The Second\)](https://open.spotify.com/album/7FSKU15SSxXVWzoI1hIbqZ) | 3:29 | 2025-03-12 | 2025-03-27 |
 | [Beige](https://open.spotify.com/track/6cq566hbCrdtYAw8bG1SaZ) | [No Tourists](https://open.spotify.com/artist/0uBsS9dLSDqjW04F66Q6uI) | [Beige](https://open.spotify.com/album/61rts8D2aLJnKtYo3RvNH8) | 2:44 | 2024-01-10 | 2024-01-18 |
 | [Believe](https://open.spotify.com/track/7wLRMDHfpSiNEVxqr670Fn) | [Snoww](https://open.spotify.com/artist/6Ob3fM7xs48ckrO8dhXVyX) | [Believe](https://open.spotify.com/album/3wfI8dpLZMP0YxCeMTOj3M) | 2:31 | 2023-09-13 | 2023-09-21 |
@@ -1228,6 +1228,7 @@
 | [It's Love](https://open.spotify.com/track/7aXk6enAhE7BdqGjnFnnxG) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [It's Love](https://open.spotify.com/album/6RMw1VbqilbFcXuBeVf5H0) | 4:26 | 2025-02-12 | 2025-02-20 |
 | [it's okay](https://open.spotify.com/track/35ZVgf7OZuI8t5ANkamVab) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [it's okay](https://open.spotify.com/album/1aWGyom8u7GZ6zdR86rDib) | 2:50 | 2025-04-23 | 2025-05-01 |
 | [It's What It Takes](https://open.spotify.com/track/6xbkrNVbiEbRDRUOXadqNV) | [Mountain Head](https://open.spotify.com/artist/1Wyrho9gXU38NlI2b3lO0O) | [It's What It Takes](https://open.spotify.com/album/7DhYha16rinW30ioaFwiLQ) | 3:01 | 2024-04-17 | 2024-05-02 |
+| [It's You \(feat\. Violet Grace\)](https://open.spotify.com/track/1srjG6wKB9irCL3ZLmSBvV) | [Eden FM](https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT), [Violet Grace](https://open.spotify.com/artist/6fwGpGsmWu4kERmOrngO64) | [It's You](https://open.spotify.com/album/67XGOBxBMPfepMXE4TuSIi) | 3:56 | 2026-01-23 |  |
 | [It’s Calling Me](https://open.spotify.com/track/2xBl8i3GTM7Mi2PpW7dY5W) | [Maliik](https://open.spotify.com/artist/1wfglSUwjk7OX4hSAvkVar), [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Stretch](https://open.spotify.com/artist/00U0HbJG22MTCTLc6WvsHr) | [It’s Calling Me](https://open.spotify.com/album/4YxzAUXk5NaHxpmrAgtmgQ) | 3:09 | 2025-04-09 | 2025-04-17 |
 | [Ivy](https://open.spotify.com/track/5uGV200qycqBDfgDSiPMvo) | [Ezekyel & Lionex](https://open.spotify.com/artist/08PIQfmkSBWd53Pjdp9nZo) | [Ivy](https://open.spotify.com/album/4SNAmaMhYwB4h89DZJ1v0c) | 2:54 | 2024-06-26 | 2024-07-11 |
 | [IYFB](https://open.spotify.com/track/76R0dhRt5MkboiYqesHQpU) | [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [IYFB](https://open.spotify.com/album/3GBj4aNHeGpOkmvVAGj7Xd) | 2:45 | 2023-08-16 | 2023-09-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: eleventwelfth",
-  "num_followers": 212422,
+  "num_followers": 212462,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "We've Been Talking",
-        "url": "https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO"
-      },
-      "artists": [
-        {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
-        }
-      ],
-      "duration_ms": 254320,
-      "name": "Backaches & Cardigans",
-      "url": "https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 183286,
       "name": "Saint Loser",
       "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "We've Been Talking",
+        "url": "https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Backaches & Cardigans",
+      "url": "https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Route One or Die",
-        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
-      },
-      "artists": [
-        {
-          "name": "Three Trapped Tigers",
-          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Cramm",
-      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 196077,
       "name": "Name",
       "url": "https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Route One or Die",
+        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+      },
+      "artists": [
+        {
+          "name": "Three Trapped Tigers",
+          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Cramm",
+      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Morbid Curiosity",
-        "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
+        "name": "ARUKAS",
+        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
       },
       "artists": [
         {
-          "name": "Thingy",
-          "url": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
         }
       ],
-      "duration_ms": 126789,
-      "name": "Not To Follow",
-      "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
+      "duration_ms": 341613,
+      "name": "ARUKAS",
+      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "ARUKAS",
-        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
+        "name": "Morbid Curiosity",
+        "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "Thingy",
+          "url": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
         }
       ],
-      "duration_ms": 341613,
-      "name": "ARUKAS",
-      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
+      "duration_ms": 126789,
+      "name": "Not To Follow",
+      "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Kiev",
-        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
-      },
-      "artists": [
-        {
-          "name": "The Polar Dream",
-          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
-        }
-      ],
-      "duration_ms": 303516,
-      "name": "Caballos (Horses)",
-      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 245290,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Kiev",
+        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
+      },
+      "artists": [
+        {
+          "name": "The Polar Dream",
+          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
+        }
+      ],
+      "duration_ms": 303516,
+      "name": "Caballos (Horses)",
+      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
     },
     {
       "added_at": "2025-12-15 09:28:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-15 09:28:58",
       "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
-      },
-      "artists": [
-        {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2025-12-15 09:28:58",
-      "album": {
         "name": "I left work on my way home december 1st 1955",
         "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 228440,
       "name": "Hornet Vision",
       "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
+    },
+    {
+      "added_at": "2025-12-15 09:28:58",
+      "album": {
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
+      },
+      "artists": [
+        {
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
+        }
+      ],
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2025-12-15 09:28:58",

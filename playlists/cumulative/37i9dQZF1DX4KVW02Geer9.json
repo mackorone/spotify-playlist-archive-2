@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u4e0a\u539f\u3072\u308d\u307f, Hiromi's Sonicwonder",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: DJ Harrison",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 250842,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/5e7ZCWH5cXrGcm8QmpqgIH"
@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Call to the Void",
+        "url": "https://open.spotify.com/album/1j9ZTeKQURsabBeEDHZ1fh"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301810,
+      "name": "Call to the Void",
+      "url": "https://open.spotify.com/track/0ncPxlgGwoVH4CkPrpviIq"
+    },
+    {
+      "album": {
         "name": "Cannon Ball",
         "url": "https://open.spotify.com/album/6DgzCNKmsEyZVTAQykmWEL"
       },
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 230636,
       "name": "Chili Chili (feat. Yucco Miller)",
       "url": "https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 217526,
       "name": "Crash Brain",
       "url": "https://open.spotify.com/track/1RQNYSoKh0SjvKcVRHAVFr"
@@ -2582,6 +2600,24 @@
       "duration_ms": 220221,
       "name": "Endless Gray",
       "url": "https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9"
+    },
+    {
+      "album": {
+        "name": "Eternal Orbit",
+        "url": "https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD"
+      },
+      "artists": [
+        {
+          "name": "ASOUND",
+          "url": "https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287011,
+      "name": "Eternal Orbit",
+      "url": "https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU"
     },
     {
       "album": {
@@ -3370,7 +3406,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 291040,
       "name": "Go around in circles",
       "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
@@ -4296,6 +4332,28 @@
       "duration_ms": 262846,
       "name": "It's Ok, B U",
       "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
+    },
+    {
+      "album": {
+        "name": "It\u2019s All Love (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/17CNXUhZwnrfgAO7LXqSLx"
+      },
+      "artists": [
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208355,
+      "name": "It\u2019s All Love (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/4E3KtwZMFrikOc4k0mQToP"
     },
     {
       "album": {
@@ -7123,6 +7181,32 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/2LxGGThhhbFhyHkaZySaty"
+    },
+    {
+      "album": {
         "name": "Respond/React (Live at Blue Note NYC)",
         "url": "https://open.spotify.com/album/3LSSQ25aSyN7JhteAY8CCF"
       },
@@ -8072,7 +8156,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 158760,
       "name": "Taito City Hideout",
       "url": "https://open.spotify.com/track/4XjaJ35W8w9Fj404LgUvA8"
@@ -8350,7 +8434,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 208696,
       "name": "The Present",
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
@@ -8794,7 +8878,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 124407,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y"
@@ -9072,7 +9156,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 188415,
       "name": "Wake Up (feat. MMYYKK) - Flipped by MMYYKK",
       "url": "https://open.spotify.com/track/3IzOTC89cQcLBfptnDpoRY"

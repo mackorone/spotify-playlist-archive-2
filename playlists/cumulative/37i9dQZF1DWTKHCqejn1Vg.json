@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226841,
       "name": "CIRCLE",
       "url": "https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 237106,
       "name": "Droppa (Feat. GRAY)",
       "url": "https://open.spotify.com/track/25knVBbk3p6iW3sQan9TaK"
@@ -1572,6 +1572,28 @@
       "duration_ms": 158000,
       "name": "En'dorphin",
       "url": "https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD"
+    },
+    {
+      "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "ERYKAH BADU (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
     },
     {
       "album": {
@@ -1996,7 +2018,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 122000,
       "name": "Get Over Me",
       "url": "https://open.spotify.com/track/3Bt8QgyF1ScD26tb5zXybD"
@@ -3247,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "THE UNSEEN",
+        "url": "https://open.spotify.com/album/3uFZR4hYwBwhockBYzUgj2"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Love Me A Little",
+      "url": "https://open.spotify.com/track/1k8tfXPA4TMciO7ul8K9Vb"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -3543,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "Moan",
+        "url": "https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144480,
+      "name": "Moan",
+      "url": "https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/5xAfHVVvl1wbolDNpEk5h7"
       },
@@ -3572,7 +3630,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 147333,
       "name": "More",
       "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
@@ -4605,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170124,
+      "name": "Show Off",
+      "url": "https://open.spotify.com/track/557fLf5fpbGkvsDugVg5vV"
+    },
+    {
+      "album": {
         "name": "shy girl",
         "url": "https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh"
       },
@@ -4616,7 +4692,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163681,
       "name": "shy girl",
       "url": "https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP"
@@ -5281,6 +5357,46 @@
     },
     {
       "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Touch\u00e9 (Feat. MOON)",
+      "url": "https://open.spotify.com/track/3byyICTPVU79WZQj6H6m8w"
+    },
+    {
+      "album": {
+        "name": "Trophy Girl",
+        "url": "https://open.spotify.com/album/1EuI9BHxpLYIgfMtfZSmmq"
+      },
+      "artists": [
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Trophy Girl",
+      "url": "https://open.spotify.com/track/6ylX6AKRS9hZ5NZbpjYBzz"
+    },
+    {
+      "album": {
         "name": "[ Rorschach ] Part 1",
         "url": "https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ"
       },
@@ -5376,7 +5492,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 240794,
       "name": "Two Bourbon Rock",
       "url": "https://open.spotify.com/track/0ov6JhUBz6MHouL7wLUSmq"

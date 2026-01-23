@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 222508,
       "name": "Beautiful Complex",
       "url": "https://open.spotify.com/track/77PpVzVdCxstWlSYXOE9xu"
@@ -7142,7 +7142,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 223098,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5J3tmPXDvzQfCMtYAmq6cy"
@@ -18047,6 +18047,28 @@
     },
     {
       "album": {
+        "name": "New Babe",
+        "url": "https://open.spotify.com/album/0ImDEqYg2Mc8T3c6q7DvdP"
+      },
+      "artists": [
+        {
+          "name": "yawn",
+          "url": "https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc"
+        },
+        {
+          "name": "min",
+          "url": "https://open.spotify.com/artist/66gNzDwsUTdKBVcq1cZg5g"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "New Babe",
+      "url": "https://open.spotify.com/track/2XHO4Qu3rfqt8WgPulBwCu"
+    },
+    {
+      "album": {
         "name": "news from you",
         "url": "https://open.spotify.com/album/17SCPOlbs5IJj41fcpGeok"
       },
@@ -19272,6 +19294,28 @@
       "duration_ms": 137419,
       "name": "One For The Old School (feat. twlv)",
       "url": "https://open.spotify.com/track/0kTPtHLqy09LxqYwiSsqRV"
+    },
+    {
+      "album": {
+        "name": "One-way Love (Feat. h3hyeon)",
+        "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
+      },
+      "artists": [
+        {
+          "name": "Ryeojin",
+          "url": "https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156976,
+      "name": "One-way Love (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
     },
     {
       "album": {
@@ -22644,6 +22688,24 @@
       "duration_ms": 183231,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/5YxoJzZTVwtms0E9Kp1234"
+    },
+    {
+      "album": {
+        "name": "Prussian Blue",
+        "url": "https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Should be you",
+      "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
     },
     {
       "album": {
@@ -26843,6 +26905,24 @@
     },
     {
       "album": {
+        "name": "Trace",
+        "url": "https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H"
+      },
+      "artists": [
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261462,
+      "name": "Trace",
+      "url": "https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt"
+    },
+    {
+      "album": {
         "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
         "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
       },
@@ -29266,7 +29346,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 167000,
       "name": "Worry Monster",
       "url": "https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT"
@@ -30050,7 +30130,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 167826,
       "name": "You\u2019re the Reason",
       "url": "https://open.spotify.com/track/48wYje02AVFcCe2tKGZKOe"

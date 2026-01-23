@@ -1,13 +1,93 @@
 {
   "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: jeniverse",
-  "num_followers": 30415,
+  "num_followers": 30455,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMb4P2KIb6dX2olg1twkDLu7eh4",
+  "snapshot_id": "AAAAAI+8qNIyhQne08ljumICfruKIyHZ",
   "tracks": [
+    {
+      "added_at": "2026-01-22 04:57:47",
+      "album": {
+        "name": "Godhood",
+        "url": "https://open.spotify.com/album/7FLprZptdVc6uWnpvnbiPR"
+      },
+      "artists": [
+        {
+          "name": "Humanity's Last Breath",
+          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
+        }
+      ],
+      "duration_ms": 197986,
+      "name": "Godhood",
+      "url": "https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C"
+    },
+    {
+      "added_at": "2026-01-22 04:57:47",
+      "album": {
+        "name": "Intimate Torment",
+        "url": "https://open.spotify.com/album/4YYduQ22BVq08CnVHgPNnN"
+      },
+      "artists": [
+        {
+          "name": "Foreword",
+          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
+        }
+      ],
+      "duration_ms": 206564,
+      "name": "Intimate Torment",
+      "url": "https://open.spotify.com/track/58WpFnfbEFFawUgkypU02l"
+    },
+    {
+      "added_at": "2026-01-22 04:57:47",
+      "album": {
+        "name": "THE FIRE IN MY NAME",
+        "url": "https://open.spotify.com/album/35j2MCL7aM8PgvugKb0vZB"
+      },
+      "artists": [
+        {
+          "name": "Avalanche Effect",
+          "url": "https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "THE FIRE IN MY NAME",
+      "url": "https://open.spotify.com/track/2mhf3Gou2ifwxXwG3VIHYp"
+    },
+    {
+      "added_at": "2026-01-22 04:57:47",
+      "album": {
+        "name": "Circle of Liars",
+        "url": "https://open.spotify.com/album/4LoOj00v0nitF2ZYkTQeJe"
+      },
+      "artists": [
+        {
+          "name": "Bitter Breath",
+          "url": "https://open.spotify.com/artist/0VLqB4hfiXERxxCE2OaVLp"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Circle of Liars",
+      "url": "https://open.spotify.com/track/3AGfjSfQMK02ny0lDU8Anq"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "FREAK OF NATURE",
+        "url": "https://open.spotify.com/album/3mm8UQ9P6w3udbGNWUkKQQ"
+      },
+      "artists": [
+        {
+          "name": "jeniverse",
+          "url": "https://open.spotify.com/artist/2ADl3zHSatV1uTr1EzsRRg"
+        }
+      ],
+      "duration_ms": 174883,
+      "name": "FREAK OF NATURE",
+      "url": "https://open.spotify.com/track/2be6HvtRsVhz3UMPHRMqMt"
+    },
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
@@ -43,18 +123,38 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "FREAK OF NATURE",
-        "url": "https://open.spotify.com/album/3mm8UQ9P6w3udbGNWUkKQQ"
+        "name": "Beg Your Pardon",
+        "url": "https://open.spotify.com/album/3Jb97iLf3Zi4PN6144RRuR"
       },
       "artists": [
         {
-          "name": "jeniverse",
-          "url": "https://open.spotify.com/artist/2ADl3zHSatV1uTr1EzsRRg"
+          "name": "Dead Air Divine",
+          "url": "https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS"
+        },
+        {
+          "name": "Myke Terry",
+          "url": "https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw"
         }
       ],
-      "duration_ms": 174883,
-      "name": "FREAK OF NATURE",
-      "url": "https://open.spotify.com/track/2be6HvtRsVhz3UMPHRMqMt"
+      "duration_ms": 222544,
+      "name": "Beg Your Pardon",
+      "url": "https://open.spotify.com/track/2TeKDtYLb3DeLxlgAzrYR7"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "THIS POISON",
+        "url": "https://open.spotify.com/album/0fuqd9C0rA9qDsgYGhEy8r"
+      },
+      "artists": [
+        {
+          "name": "DECAINE",
+          "url": "https://open.spotify.com/artist/1u3p06hNORVVO5kCOaUGv8"
+        }
+      ],
+      "duration_ms": 199315,
+      "name": "THIS POISON",
+      "url": "https://open.spotify.com/track/2auwcdNj8Qm7PaEHeIaF9C"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -91,26 +191,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Beg Your Pardon",
-        "url": "https://open.spotify.com/album/3Jb97iLf3Zi4PN6144RRuR"
-      },
-      "artists": [
-        {
-          "name": "Dead Air Divine",
-          "url": "https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS"
-        },
-        {
-          "name": "Myke Terry",
-          "url": "https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw"
-        }
-      ],
-      "duration_ms": 222544,
-      "name": "Beg Your Pardon",
-      "url": "https://open.spotify.com/track/2TeKDtYLb3DeLxlgAzrYR7"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
       },
@@ -123,38 +203,6 @@
       "duration_ms": 186944,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/5YLa2A1uqX3v556WIKdTlm"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Zerfall",
-        "url": "https://open.spotify.com/album/4kVVMwcVvfDY4sBrxOrPBK"
-      },
-      "artists": [
-        {
-          "name": "Ellende",
-          "url": "https://open.spotify.com/artist/1iLdVM2KFAHUbpaC5wpMbO"
-        }
-      ],
-      "duration_ms": 429508,
-      "name": "Reise",
-      "url": "https://open.spotify.com/track/3twB6G4r6fubgV2B3BCPTB"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "THIS POISON",
-        "url": "https://open.spotify.com/album/0fuqd9C0rA9qDsgYGhEy8r"
-      },
-      "artists": [
-        {
-          "name": "DECAINE",
-          "url": "https://open.spotify.com/artist/1u3p06hNORVVO5kCOaUGv8"
-        }
-      ],
-      "duration_ms": 199315,
-      "name": "THIS POISON",
-      "url": "https://open.spotify.com/track/2auwcdNj8Qm7PaEHeIaF9C"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -175,34 +223,18 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1wFW3Bvsj7mDuoewt2IJED"
+        "name": "Zerfall",
+        "url": "https://open.spotify.com/album/4kVVMwcVvfDY4sBrxOrPBK"
       },
       "artists": [
         {
-          "name": "Nylist",
-          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+          "name": "Ellende",
+          "url": "https://open.spotify.com/artist/1iLdVM2KFAHUbpaC5wpMbO"
         }
       ],
-      "duration_ms": 223529,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/3a2MQcU8Vn4O8yntS5THop"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Dip Down",
-        "url": "https://open.spotify.com/album/4HOY1thoSZUSYEwcxCpMPu"
-      },
-      "artists": [
-        {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Dip Down",
-      "url": "https://open.spotify.com/track/5iIdTZzmqOWQtjMmugrLS4"
+      "duration_ms": 429508,
+      "name": "Reise",
+      "url": "https://open.spotify.com/track/3twB6G4r6fubgV2B3BCPTB"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -255,6 +287,38 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
+        "name": "Bastard Hymns",
+        "url": "https://open.spotify.com/album/7MArk2Th9cUnucBRan1dez"
+      },
+      "artists": [
+        {
+          "name": "Excide",
+          "url": "https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh"
+        }
+      ],
+      "duration_ms": 155558,
+      "name": "Worth Your Salt",
+      "url": "https://open.spotify.com/track/5p4GyBJAUB6e4PSy39q70l"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "YOU LIE (Extended Truth)",
+        "url": "https://open.spotify.com/album/0T561pdQQwBFM2Xo5EWRnA"
+      },
+      "artists": [
+        {
+          "name": "GAI \u8344",
+          "url": "https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org"
+        }
+      ],
+      "duration_ms": 183882,
+      "name": "LADDER CLIMBER",
+      "url": "https://open.spotify.com/track/0THbi4xIW7C6NsJAcENapE"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
         "name": "...And the Sunlight Spoke",
         "url": "https://open.spotify.com/album/24hHa5nJDqy84KlesiWLJf"
       },
@@ -267,6 +331,86 @@
       "duration_ms": 242681,
       "name": "...And the Sunlight Spoke",
       "url": "https://open.spotify.com/track/5KVG7rrCsqwNbTnOBQIKzF"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "TAKE MY LIFE",
+        "url": "https://open.spotify.com/album/0b0p8L28EfJwQQVirKKtc0"
+      },
+      "artists": [
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+        }
+      ],
+      "duration_ms": 159901,
+      "name": "TAKE MY LIFE",
+      "url": "https://open.spotify.com/track/5QOULHPrCXMrsDT1wzs4Xf"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/7qihvpNchX2omO7b23XZp8"
+      },
+      "artists": [
+        {
+          "name": "Lead Horizon",
+          "url": "https://open.spotify.com/artist/5iF3nNoHv3gEm9mobCwdxC"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3gUqdFcilOuLCU5xOY1JY2"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/0qr3Gsy2w0DtRXwh0k9yKk"
+      },
+      "artists": [
+        {
+          "name": "Doomcrusher",
+          "url": "https://open.spotify.com/artist/6B1THJjcbzlc0NNj2o7fPZ"
+        }
+      ],
+      "duration_ms": 210914,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2qxgwkqVifVPun9HlQ9890"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1wFW3Bvsj7mDuoewt2IJED"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        }
+      ],
+      "duration_ms": 223529,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/3a2MQcU8Vn4O8yntS5THop"
+    },
+    {
+      "added_at": "2026-01-14 05:00:01",
+      "album": {
+        "name": "Dip Down",
+        "url": "https://open.spotify.com/album/4HOY1thoSZUSYEwcxCpMPu"
+      },
+      "artists": [
+        {
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Dip Down",
+      "url": "https://open.spotify.com/track/5iIdTZzmqOWQtjMmugrLS4"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -323,38 +467,6 @@
       "duration_ms": 183829,
       "name": "FRACTURED",
       "url": "https://open.spotify.com/track/4MCCpfDaNdyzaLrTh9pXxY"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "YOU LIE (Extended Truth)",
-        "url": "https://open.spotify.com/album/0T561pdQQwBFM2Xo5EWRnA"
-      },
-      "artists": [
-        {
-          "name": "GAI \u8344",
-          "url": "https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org"
-        }
-      ],
-      "duration_ms": 183882,
-      "name": "LADDER CLIMBER",
-      "url": "https://open.spotify.com/track/0THbi4xIW7C6NsJAcENapE"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "TAKE MY LIFE",
-        "url": "https://open.spotify.com/album/0b0p8L28EfJwQQVirKKtc0"
-      },
-      "artists": [
-        {
-          "name": "CRYBLOOD",
-          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
-        }
-      ],
-      "duration_ms": 159901,
-      "name": "TAKE MY LIFE",
-      "url": "https://open.spotify.com/track/5QOULHPrCXMrsDT1wzs4Xf"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -439,22 +551,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/7qihvpNchX2omO7b23XZp8"
-      },
-      "artists": [
-        {
-          "name": "Lead Horizon",
-          "url": "https://open.spotify.com/artist/5iF3nNoHv3gEm9mobCwdxC"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3gUqdFcilOuLCU5xOY1JY2"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "Source (Demo)",
         "url": "https://open.spotify.com/album/2eZ5t5y7n7XX3LflOiGRHq"
       },
@@ -527,22 +623,6 @@
       "duration_ms": 257812,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0mApdky0sB8RKVzpF7RG02"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/0qr3Gsy2w0DtRXwh0k9yKk"
-      },
-      "artists": [
-        {
-          "name": "Doomcrusher",
-          "url": "https://open.spotify.com/artist/6B1THJjcbzlc0NNj2o7fPZ"
-        }
-      ],
-      "duration_ms": 210914,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2qxgwkqVifVPun9HlQ9890"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -879,22 +959,6 @@
       "duration_ms": 286415,
       "name": "Ikigai",
       "url": "https://open.spotify.com/track/5Q3KhpAK7a3Kvz2nYypNoV"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Bastard Hymns",
-        "url": "https://open.spotify.com/album/7MArk2Th9cUnucBRan1dez"
-      },
-      "artists": [
-        {
-          "name": "Excide",
-          "url": "https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh"
-        }
-      ],
-      "duration_ms": 155558,
-      "name": "Worth Your Salt",
-      "url": "https://open.spotify.com/track/5p4GyBJAUB6e4PSy39q70l"
     },
     {
       "added_at": "2026-01-14 05:00:01",

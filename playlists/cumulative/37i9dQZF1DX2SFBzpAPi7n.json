@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 215000,
       "name": "Ferris wheel",
       "url": "https://open.spotify.com/track/1Sn7DtIloV3CNuGO3Uok8K"
@@ -7255,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/5NGYA2dC6lWkghIcxzdHUm"
+      },
+      "artists": [
+        {
+          "name": "M.O.N.T",
+          "url": "https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/6NBoJY5N8IkkOLFTy6Yt06"
+    },
+    {
+      "album": {
         "name": "HOLA!",
         "url": "https://open.spotify.com/album/3hV4UVXS8ijrebLmwFKvo6"
       },
@@ -8592,6 +8610,24 @@
       "duration_ms": 322723,
       "name": "It Rains",
       "url": "https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9"
+    },
+    {
+      "album": {
+        "name": "It Was Love",
+        "url": "https://open.spotify.com/album/2qjvoVAffzOULgzu8b4up5"
+      },
+      "artists": [
+        {
+          "name": "LATENCY",
+          "url": "https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "It Was Love",
+      "url": "https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD"
     },
     {
       "album": {
@@ -12721,6 +12757,24 @@
     },
     {
       "album": {
+        "name": "Amplify My Way",
+        "url": "https://open.spotify.com/album/7IuDZgFQceNCdHLYNUGCZD"
+      },
+      "artists": [
+        {
+          "name": "AxMxP",
+          "url": "https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "PASS",
+      "url": "https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz"
+    },
+    {
+      "album": {
         "name": "Password 486",
         "url": "https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1"
       },
@@ -13316,7 +13370,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 179386,
       "name": "Pump Up The Volume!",
       "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
@@ -14694,7 +14748,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 255998,
       "name": "seasons",
       "url": "https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF"
@@ -17696,7 +17750,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 151403,
       "name": "Trippin\u2032 (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/6QCzWMWJSSRk671GThuYlt"
@@ -19432,6 +19486,24 @@
       "duration_ms": 275500,
       "name": "You Are My Universe",
       "url": "https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs"
+    },
+    {
+      "album": {
+        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
+      },
+      "artists": [
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "You Are Spring",
+      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
     },
     {
       "album": {

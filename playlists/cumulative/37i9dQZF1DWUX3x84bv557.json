@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148642,
       "name": "Antiheld",
       "url": "https://open.spotify.com/track/4ucruKSRIODEfPW0ms0OYV"
@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 208695,
       "name": "Blauwe Vlinder",
       "url": "https://open.spotify.com/track/7eRBj566M7ypmzaHurJCfG"
@@ -4433,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Dansvloer Dilemma",
+        "url": "https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF"
+      },
+      "artists": [
+        {
+          "name": "Roeland Beelen",
+          "url": "https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Dansvloer Dilemma",
+      "url": "https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC"
+    },
+    {
+      "album": {
         "name": "Dat Ene Bankje",
         "url": "https://open.spotify.com/album/6dV14pVCHqYdt1kwe5WjVL"
       },
@@ -5558,6 +5576,24 @@
       "duration_ms": 160695,
       "name": "Doen",
       "url": "https://open.spotify.com/track/6hKLaBGGh3Q4HohBByoQYC"
+    },
+    {
+      "album": {
+        "name": "Dokter",
+        "url": "https://open.spotify.com/album/2KCeJ8YSapF0k9yOtEiw5I"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146132,
+      "name": "Dokter",
+      "url": "https://open.spotify.com/track/25Vcw9JrYrUf9I2jKIQcST"
     },
     {
       "album": {
@@ -7734,7 +7770,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 143172,
       "name": "Hart Zonder Krassen",
       "url": "https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe"
@@ -9924,7 +9960,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 181413,
       "name": "Ik Mis Je Nu Wel Hier",
       "url": "https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt"
@@ -10210,7 +10246,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 219958,
       "name": "Illusionist",
       "url": "https://open.spotify.com/track/0nyuMI9Gz3bdPu69fiVhpN"
@@ -14796,7 +14832,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150120,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo"
@@ -16806,7 +16842,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 166950,
       "name": "Samen",
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
@@ -20542,7 +20578,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 154186,
       "name": "Waarom Moet Ze Nou Een DJ Zijn",
       "url": "https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH"
@@ -21288,7 +21324,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 216003,
       "name": "Wilde Haren",
       "url": "https://open.spotify.com/track/43dR27JJXlHXChYAn1GzCU"

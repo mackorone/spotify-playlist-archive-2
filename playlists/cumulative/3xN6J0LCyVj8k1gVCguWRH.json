@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 230400,
       "name": "About Us",
       "url": "https://open.spotify.com/track/3FwQnUHKPfLq1OE3dUluRq"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 244039,
       "name": "Beautiful Disasters",
       "url": "https://open.spotify.com/track/6qNdXXIxJs9DveFjGWQuq0"
@@ -11418,7 +11418,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 255710,
       "name": "Blue Haze",
       "url": "https://open.spotify.com/track/5IHaYlnSGP5rGMWGZjkr9i"
@@ -15608,7 +15608,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 181279,
       "name": "Cart Path Cold Ones",
       "url": "https://open.spotify.com/track/0FvViKU6cH2Un6BZ94IkL8"
@@ -19080,7 +19080,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 195000,
       "name": "Con Hielo X Favor",
       "url": "https://open.spotify.com/track/2El6lIPTYtXMLMSbpfPPZg"
@@ -25153,6 +25153,24 @@
     },
     {
       "album": {
+        "name": "Dont play shy",
+        "url": "https://open.spotify.com/album/5k8um2O3BNlWZpRKF0yzWL"
+      },
+      "artists": [
+        {
+          "name": "Bolo The Assassin",
+          "url": "https://open.spotify.com/artist/3Ur4Kk821HaTUpr80QNW6v"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154999,
+      "name": "Dont play shy",
+      "url": "https://open.spotify.com/track/4dbLWR6inAGUyhPyVIZOC6"
+    },
+    {
+      "album": {
         "name": "Don't You Want It?",
         "url": "https://open.spotify.com/album/3aiUMxJFEI2Awlmq1i8QgA"
       },
@@ -28242,7 +28260,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 266113,
       "name": "Erth Got Shot",
       "url": "https://open.spotify.com/track/6YFPJO1Jq08H8UYy5SnzOo"
@@ -37943,6 +37961,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5M8174KaiK1AdGbsFuqGYP"
+      },
+      "artists": [
+        {
+          "name": "Brenique Adams",
+          "url": "https://open.spotify.com/artist/3HiexeKs4pF7jho1Oaay8a"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252206,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/5ChNQASJKT0LsqrUGHhHlJ"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2MXcx4iqQgFgO5c4MbJxqI"
       },
@@ -45206,6 +45242,24 @@
       "duration_ms": 181666,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "album": {
+        "name": "I've Been Saved",
+        "url": "https://open.spotify.com/album/66CdtGQhzJuh5zDys3TIrg"
+      },
+      "artists": [
+        {
+          "name": "Moving Mountain Worship",
+          "url": "https://open.spotify.com/artist/0VvncN47PANXJBtrLvIPcP"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274756,
+      "name": "I've Been Saved",
+      "url": "https://open.spotify.com/track/2a4tZg1sHEfxfkCbjTBlSh"
     },
     {
       "album": {
@@ -63704,7 +63758,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 221164,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/7kmS0gvIi58hjyqy3T2tFV"
@@ -68486,7 +68540,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 194042,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/3UvVRI3owJd7X36vuLUl7v"
@@ -70946,7 +71000,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 143132,
       "name": "People Pleaser",
       "url": "https://open.spotify.com/track/0XsIaVlnO8JwOJrKbzVuXp"
@@ -92896,7 +92950,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 213438,
       "name": "The Way It Makes Me Feel",
       "url": "https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk"

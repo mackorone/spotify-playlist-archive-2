@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 9m88
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: STUTS x Julia Wu x Phum Viphurit
 
-596 songs - 1 day 12 hr 16 min
+597 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [EXX](https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [EXX](https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS) | 2:20 | 2025-05-15 | 2025-06-20 |
 | [EYE\(S\)](https://open.spotify.com/track/7cwPW0K5O41TJ2BABBrtKG) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 4:02 | 2024-06-13 | 2024-07-01 |
 | [eyes off u.](https://open.spotify.com/track/0hRXZJO5rCxvWfcUXHPTmN) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [eyes off u.](https://open.spotify.com/album/1SRNucLep8uyNsQXnIOceh) | 2:58 | 2025-04-10 | 2025-12-05 |
-| [Eyes On Me](https://open.spotify.com/track/4SgMTZDCsVGrXQzdHVIuSp) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [Into The Toxicity / Eyes On Me](https://open.spotify.com/album/5UjzDykoSqhl2PA4MFQnrg) | 2:09 | 2026-01-01 |  |
+| [Eyes On Me](https://open.spotify.com/track/4SgMTZDCsVGrXQzdHVIuSp) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [Into The Toxicity / Eyes On Me](https://open.spotify.com/album/5UjzDykoSqhl2PA4MFQnrg) | 2:09 | 2026-01-01 | 2026-01-23 |
 | [Face Down \(Hands Up\)](https://open.spotify.com/track/1yt4lFQALSV3rqKM9x9nIv) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Face Down \(Hands Up\)](https://open.spotify.com/album/7uOjUD3alf1a7nMuJdWmhC) | 2:41 | 2024-06-06 | 2024-07-27 |
 | [Fading Out](https://open.spotify.com/track/5wx5zQCpsVOxUWJf5XxWjp) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 4:37 | 2025-08-07 |  |
 | [Fall Apart](https://open.spotify.com/track/5o6lyYNKQC0CL7gQhu78lb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Fall Apart](https://open.spotify.com/album/71BjHLtPV2Pw8NAT5doOGN) | 2:59 | 2024-09-19 | 2024-10-18 |
@@ -262,6 +262,7 @@
 | [Never Cared](https://open.spotify.com/track/4ffXYtI1nWJ09AnZszP1h0) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Never Cared](https://open.spotify.com/album/1pcYcC4PeCtzFiczkTdOwv) | 2:43 | 2025-10-02 | 2025-12-05 |
 | [Never Know](https://open.spotify.com/track/213vfj5F7G3K9boSZwFwPf) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Brogs](https://open.spotify.com/artist/0Zu5rxrWkTZlu2EcnZx7sz), [Adrian](https://open.spotify.com/artist/5CD1PlUn30ugYttLp1aQ99) | [Never Know](https://open.spotify.com/album/76BuuMSS3t9gBCZ25y5XMa) | 2:49 | 2024-01-25 | 2024-03-29 |
 | [NEW YORKER 3328](https://open.spotify.com/track/24HdA69ha5qzajGrO8BSdr) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [NEW YORKER 3328](https://open.spotify.com/album/6SUeuZpOxfiH42U836hV93) | 3:21 | 2025-01-23 | 2025-04-11 |
+| [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:26 | 2026-01-22 |  |
 | [Night Lotion「融」](https://open.spotify.com/track/1lMtUY5bgQMRmaFE99qaky) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Night Lotion「融」](https://open.spotify.com/album/2H6nissJW4xMV28LLWfrBy) | 3:43 | 2025-02-27 | 2025-03-07 |
 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2024-12-05 |  |
 | [No Escape](https://open.spotify.com/track/6GRjTnlquPIRQsUC0Qfti0) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [No Escape](https://open.spotify.com/album/02WRHy1TKcMtHNmx5wEJyp) | 2:24 | 2025-02-13 | 2025-04-04 |

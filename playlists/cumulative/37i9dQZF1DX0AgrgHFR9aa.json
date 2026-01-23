@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Relo",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : 2L",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 121600,
       "name": "BOTTEGA",
       "url": "https://open.spotify.com/track/3X81L8JeIULIE3ZEJoaRwY"
@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Enchant\u00e9e",
+        "url": "https://open.spotify.com/album/7sptntglnOlnYaIEB7fySz"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138391,
+      "name": "Enchant\u00e9e",
+      "url": "https://open.spotify.com/track/4HqhK1ouZ3L4TyAeVJZeUE"
+    },
+    {
+      "album": {
         "name": "ENCORE CHAUD",
         "url": "https://open.spotify.com/album/4EI7qgp3WrCK3wpBoYzViv"
       },
@@ -2721,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/5fDdCCTqe68952wVSqd8Xv"
+      },
+      "artists": [
+        {
+          "name": "Louvar",
+          "url": "https://open.spotify.com/artist/3gMXFPjg7pQViQAzc7Xslc"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166941,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/6KxooQdgFJxWXHMkkpyt2j"
+    },
+    {
+      "album": {
         "name": "IN PARIS",
         "url": "https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ"
       },
@@ -2928,7 +2964,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 131868,
       "name": "JACK SPARROW",
       "url": "https://open.spotify.com/track/48C2zgsX84qj3Or3H2oei8"
@@ -4097,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "Libanais 1 (Le One Piece)",
+        "url": "https://open.spotify.com/album/094SMV9UM8szfKJ9KyD0iy"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117506,
+      "name": "Libanais 1 (Le One Piece)",
+      "url": "https://open.spotify.com/track/1K9ENzfjquktRRcKJj9hXJ"
+    },
+    {
+      "album": {
         "name": "Libre-penseur",
         "url": "https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ"
       },
@@ -4642,7 +4696,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144000,
       "name": "MODE CRYPT\u00c9",
       "url": "https://open.spotify.com/track/0OOFzZxPzKeFIHvlJlmKPW"
@@ -4712,6 +4766,28 @@
       "duration_ms": 204600,
       "name": "Mourir pour rena\u00eetre",
       "url": "https://open.spotify.com/track/7Hzl1kYZYLsKZc7GMIMUro"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lancolique",
+        "url": "https://open.spotify.com/album/22eUqF16DhUDNfmrPjrQyA"
+      },
+      "artists": [
+        {
+          "name": "Udeyfa",
+          "url": "https://open.spotify.com/artist/42QbF5PHeJjfobVba55yco"
+        },
+        {
+          "name": "Souffrance",
+          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155559,
+      "name": "M\u00e9lancolique",
+      "url": "https://open.spotify.com/track/5um4nj9RUwgk1GTWjjYgkJ"
     },
     {
       "album": {
@@ -4875,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "OG SOON",
+        "url": "https://open.spotify.com/album/0fO1Ea0eXu1tIPMtGJ2zpS"
+      },
+      "artists": [
+        {
+          "name": "Secro Star",
+          "url": "https://open.spotify.com/artist/5g7d3qKSYYtn1srNEmRxLN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132881,
+      "name": "OG SOON",
+      "url": "https://open.spotify.com/track/5sWcWPw6JwQZo36doae058"
+    },
+    {
+      "album": {
         "name": "Okocha",
         "url": "https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC"
       },
@@ -5024,7 +5118,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 210633,
       "name": "paire polo assortis",
       "url": "https://open.spotify.com/track/0Gze15uCrpf2dYJb8FSFDG"
@@ -5715,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "R.A.S",
+        "url": "https://open.spotify.com/album/0UGp2VVnsBZhN5OCR9uvEO"
+      },
+      "artists": [
+        {
+          "name": "Kplevrai",
+          "url": "https://open.spotify.com/artist/4QDM8iS4hlDdYldMjg2dKt"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118298,
+      "name": "R.A.S",
+      "url": "https://open.spotify.com/track/0eEfnX1aGAvnjyeQhXufUi"
+    },
+    {
+      "album": {
         "name": "RB10 (Antipasto)",
         "url": "https://open.spotify.com/album/5KCTslR9vTRjaREY28ZJm4"
       },
@@ -5730,7 +5842,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 140666,
       "name": "RB10 (Antipasto)",
       "url": "https://open.spotify.com/track/4RzeW7DRTfMmYA2ZEc7Wwl"
@@ -5828,7 +5940,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 226901,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/0RFHvc890tXRQxt7ozH7tK"
@@ -6034,7 +6146,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 187756,
       "name": "Scotch Coquelicot",
       "url": "https://open.spotify.com/track/0GIoGrf3be4CZqQ2QRxbTW"
@@ -6623,6 +6735,24 @@
     },
     {
       "album": {
+        "name": "LE MARATHON",
+        "url": "https://open.spotify.com/album/7wrOJkVMFBUl2UINwDUSlS"
+      },
+      "artists": [
+        {
+          "name": "N3MS",
+          "url": "https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137061,
+      "name": "U13",
+      "url": "https://open.spotify.com/track/11AxDEtgJg0EEBYlVTnUWJ"
+    },
+    {
+      "album": {
         "name": "PANDEMONIUM",
         "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
       },
@@ -7029,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "ZZ",
+        "url": "https://open.spotify.com/album/4qF7VBZX2WZfp8fUCQp8Ib"
+      },
+      "artists": [
+        {
+          "name": "SKOW",
+          "url": "https://open.spotify.com/artist/4ijI1WbD3YObcjEmxKFQz5"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "ZZ",
+      "url": "https://open.spotify.com/track/7tj0Qb4cKubWEkfrCcERsG"
+    },
+    {
+      "album": {
         "name": "Z\u00e9ro joy",
         "url": "https://open.spotify.com/album/6uSzJtairD1ZEjQDdsLPXQ"
       },
@@ -7208,7 +7356,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 167276,
       "name": "\u200bLe Cigare d'Oxmo",
       "url": "https://open.spotify.com/track/2991L78KOJC4up6Xny4UcI"

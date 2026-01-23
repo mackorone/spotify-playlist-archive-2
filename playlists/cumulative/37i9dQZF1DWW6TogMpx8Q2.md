@@ -2,7 +2,7 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Phil Lam
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Terence Lam
 
 140 songs - 8 hr 52 min
 

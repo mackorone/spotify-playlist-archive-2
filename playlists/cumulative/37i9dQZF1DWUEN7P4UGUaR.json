@@ -286,6 +286,24 @@
     {
       "album": {
         "name": "Aseda",
+        "url": "https://open.spotify.com/album/1GWFNX3RLjCYveWd5Y7jwK"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193934,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5JOw9e0lY7jOZBqJkQRobz"
+    },
+    {
+      "album": {
+        "name": "Aseda",
         "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
       },
       "artists": [
@@ -566,7 +584,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 195164,
       "name": "Come and See (Remix)",
       "url": "https://open.spotify.com/track/15D677rtBhHsiLiva3Wjv3"
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 341400,
       "name": "He Reigns",
       "url": "https://open.spotify.com/track/0lCysHEilSagB1wvg2IW4S"
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 371305,
       "name": "I Carry Fire",
       "url": "https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "Man on a Mission",
       "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 307921,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/2XEnKPHU13Jyz95z8rETwv"

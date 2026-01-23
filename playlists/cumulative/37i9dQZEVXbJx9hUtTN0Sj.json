@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 292646,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6Gl8SCiFnaZLD53TwLA96S"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189798,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/4sQRdcGkzlTL6zHGZH1RZt"
@@ -10612,7 +10612,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 160645,
       "name": "Cry for Me WA WA WA - Live Version",
       "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
@@ -20381,6 +20381,24 @@
     },
     {
       "album": {
+        "name": "\u00c0 l'\u00e9quilibre",
+        "url": "https://open.spotify.com/album/5AeUvJC0Dv46ZXYD5i2yIR"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "Hypersensible",
+      "url": "https://open.spotify.com/track/7vIwGMdPMqmSZ0HmxQIWE3"
+    },
+    {
+      "album": {
         "name": "Hypnagogic",
         "url": "https://open.spotify.com/album/3iSkxhQOLekkgwijdOGMo3"
       },
@@ -20418,6 +20436,24 @@
       "duration_ms": 180540,
       "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191687,
+      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
     },
     {
       "album": {
@@ -22200,7 +22236,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163831,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
@@ -27166,7 +27202,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -33094,6 +33130,24 @@
     {
       "album": {
         "name": "NOUS#2",
+        "url": "https://open.spotify.com/album/04Cs901jNckwnRVBIrff8o"
+      },
+      "artists": [
+        {
+          "name": "K2_sp",
+          "url": "https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177743,
+      "name": "NOUS#2",
+      "url": "https://open.spotify.com/track/0TnrSFmoT09nbrh0lK0G7e"
+    },
+    {
+      "album": {
+        "name": "NOUS#2",
         "url": "https://open.spotify.com/album/2uIn7FWFyGs9mlPBvGa0NZ"
       },
       "artists": [
@@ -33104,7 +33158,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177745,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/0Uk6hWslV7htWKJJeXptG6"
@@ -44608,7 +44662,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 122188,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN"
@@ -44626,7 +44680,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -47704,6 +47758,32 @@
       "duration_ms": 183013,
       "name": "Voices In My Head x Freaks x Love Parade",
       "url": "https://open.spotify.com/track/70Ry4Tv5ulrSUsyoSwFvKc"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head x Freaks x Love Parade",
+        "url": "https://open.spotify.com/album/6BnrsLfj9A0pu4qvZ9mZnE"
+      },
+      "artists": [
+        {
+          "name": "HARDSTYLE CVNT",
+          "url": "https://open.spotify.com/artist/3TKwur6G4Q6z57u2ePEvuX"
+        },
+        {
+          "name": "Jakon Vedal",
+          "url": "https://open.spotify.com/artist/0YAt0bkFmShNQ2JPCheP1h"
+        },
+        {
+          "name": "EZO CASSIDY",
+          "url": "https://open.spotify.com/artist/3tU6i3BfTCHHEHpFTfCljw"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Voices In My Head x Freaks x Love Parade",
+      "url": "https://open.spotify.com/track/1s32LYJjkGv3U7VlAmWRG7"
     },
     {
       "album": {

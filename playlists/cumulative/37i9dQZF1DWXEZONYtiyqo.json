@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Olivia Addams",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Holy Molly",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Dac\u0103 mai vrei",
+        "url": "https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Dac\u0103 mai vrei",
+      "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
+    },
+    {
+      "album": {
         "name": "Dans nocturn",
         "url": "https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL"
       },
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 168774,
       "name": "Flori In Decembrie",
       "url": "https://open.spotify.com/track/154OMN2xW8NlAUuRCBIn5k"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177652,
       "name": "Greu s\u0103 fiu eu",
       "url": "https://open.spotify.com/track/6rfb7yQMf0VycQLoixk4vp"
@@ -3211,6 +3229,32 @@
     },
     {
       "album": {
+        "name": "Hau",
+        "url": "https://open.spotify.com/album/2THUfeaFPYPTO6Nik38OEj"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145090,
+      "name": "Hau",
+      "url": "https://open.spotify.com/track/0w6AqOWSM7yhaILAb32mPX"
+    },
+    {
+      "album": {
         "name": "Hearts in Stereo (Versions)",
         "url": "https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn"
       },
@@ -3244,6 +3288,28 @@
       "duration_ms": 144115,
       "name": "Hora fetelor",
       "url": "https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/7viStbwKpFlCREpVYhxuko"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        },
+        {
+          "name": "Yuka",
+          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182891,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/5gXQ82dVqEvhthOztYt9wd"
     },
     {
       "album": {
@@ -4386,7 +4452,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 111917,
       "name": "Money ($$$)",
       "url": "https://open.spotify.com/track/4ufyl0Cld1502X81sHKRAG"
@@ -6050,7 +6116,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 188000,
       "name": "R\u0103m\u00e2i cu bine",
       "url": "https://open.spotify.com/track/5YqOkAQnzo9ARRujZGFIIi"
@@ -7480,6 +7546,24 @@
       "duration_ms": 187704,
       "name": "Zenit",
       "url": "https://open.spotify.com/track/00llrwQRCYJnjXGco19kmy"
+    },
+    {
+      "album": {
+        "name": "Zile de uitat",
+        "url": "https://open.spotify.com/album/609wk3WAHW5aljliFAyDfY"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185041,
+      "name": "Zile de uitat",
+      "url": "https://open.spotify.com/track/57VJ1QBBboaKDz6tlOGB2D"
     },
     {
       "album": {

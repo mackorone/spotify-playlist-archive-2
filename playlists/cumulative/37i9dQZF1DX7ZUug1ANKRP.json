@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Just\u00e9, Jaxstyle",
+  "description": "The biggest Dance hits and the ones to come. Cover: YouNotUs",
   "name": "Main Stage",
   "tracks": [
     {
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/4eDc6rtAsoVIjSM8MAXxRb"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/5I97xVqU6oRY3ErMUVz4qB"
+    },
+    {
+      "album": {
         "name": "All Good Things (Come To An End) [Nelly Furtado x Quarterhead]",
         "url": "https://open.spotify.com/album/1l9bLeoG9TVEiT3dE8obNX"
       },
@@ -880,6 +898,24 @@
       "duration_ms": 111529,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb"
+    },
+    {
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
     },
     {
       "album": {
@@ -3077,6 +3113,28 @@
     },
     {
       "album": {
+        "name": "Can't Hold Us",
+        "url": "https://open.spotify.com/album/4PjpLMIB9Lre9adOcSzRr2"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141387,
+      "name": "Can't Hold Us",
+      "url": "https://open.spotify.com/track/2RGz9nulfSEwJHrMl4dB4W"
+    },
+    {
+      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -3212,7 +3270,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 166821,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/3i4cqv5kDL8yrtDh0nhLOt"
@@ -6916,7 +6974,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 193500,
       "name": "GIRLBOSS",
       "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
@@ -9732,7 +9790,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 136269,
       "name": "Just dance",
       "url": "https://open.spotify.com/track/4gzQJJ3rjXmnL0UhO8D29D"
@@ -13640,7 +13698,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 140202,
       "name": "Only One",
       "url": "https://open.spotify.com/track/576mVXUFpVKsvySHclibLU"
@@ -18024,7 +18082,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
@@ -18398,6 +18456,32 @@
       "duration_ms": 150736,
       "name": "Think About The Way",
       "url": "https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9"
+    },
+    {
+      "album": {
+        "name": "Think About Us",
+        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178148,
+      "name": "Think About Us",
+      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
     },
     {
       "album": {
@@ -19992,6 +20076,24 @@
       "duration_ms": 211058,
       "name": "What Took You so Long",
       "url": "https://open.spotify.com/track/5SpFKUNS16xxxQt6cSPaLh"
+    },
+    {
+      "album": {
+        "name": "What You Hiding?",
+        "url": "https://open.spotify.com/album/5HXJEf13KDdUYK5hMKow7A"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113555,
+      "name": "What You Hiding?",
+      "url": "https://open.spotify.com/track/3nD942ta7jpMXO0xyKWEav"
     },
     {
       "album": {

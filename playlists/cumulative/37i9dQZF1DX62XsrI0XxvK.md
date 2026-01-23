@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Aziz Hedra
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Canti
 
-205 songs - 12 hr 13 min
+207 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Again](https://open.spotify.com/track/1VyIAhJTXnOPH2tS0XmxTK) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Again](https://open.spotify.com/album/0Yea9WMntfl4PY8JdYfFqh) | 3:34 | 2025-08-07 |  |
 | [Against All The Odds](https://open.spotify.com/track/5HevQCX2dDxGXDmQOYDXkc) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 4:14 | 2025-05-16 |  |
 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 | 2025-05-29 | 2025-10-17 |
+| [Anggap Aku Ada](https://open.spotify.com/track/4zbLLlSlpQTixjfaSIWFd8) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Anggap Aku Ada](https://open.spotify.com/album/0MZfRSiHi1Uq2x2hziT0Bg) | 3:47 | 2026-01-22 |  |
 | [Apa Kabar](https://open.spotify.com/track/57AzzQHGqd9QO0eBCzfq0W) | [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU) | [Apa Kabar](https://open.spotify.com/album/3tQx2RPsvOKCJ02ETZ3hR9) | 3:11 | 2025-01-23 | 2025-10-17 |
 | [Arti Kehidupan](https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Loving You Like This](https://open.spotify.com/album/3davMx4cy50svq19sHjvhI) | 3:36 | 2025-11-27 |  |
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-14 | 2025-08-01 |
@@ -121,7 +122,7 @@
 | [Lelah](https://open.spotify.com/track/1fNw080eLrAFFJdH7VwEyB) | [Reggyf Lawalata](https://open.spotify.com/artist/7dcOPR1DccewnM6nwMa4EO), [Mor M.A.C](https://open.spotify.com/artist/7bvhAv1D7WAmKISSbTGnIu) | [Lelah](https://open.spotify.com/album/4ndTARa0clTFGf8DnNzuSO) | 3:36 | 2025-11-20 |  |
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 | 2025-10-24 |
 | [Like That](https://open.spotify.com/track/1w6FQsV3hhmE4qshMfb5yk) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Like That](https://open.spotify.com/album/2sklL9TXZl2I57onVPgSU1) | 3:20 | 2024-10-03 | 2025-05-30 |
-| [Long As](https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Long As](https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a) | 2:55 | 2025-10-02 |  |
+| [Long As](https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Long As](https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a) | 2:55 | 2025-10-02 | 2026-01-23 |
 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 | 2025-05-29 |  |
 | [love for u \(❤️4U\)](https://open.spotify.com/track/1cU7aqkCntWTZVcMusnHp1) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [love for u \(❤️4U\)](https://open.spotify.com/album/2mHmxlzaXf0yEuab0Up6wq) | 2:32 | 2024-10-03 | 2025-05-02 |
 | [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 | 2024-10-03 |  |
@@ -137,7 +138,7 @@
 | [Mulai](https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Mulai](https://open.spotify.com/album/2YKI1MqW9OCXphZCF7qWc4) | 3:26 | 2025-10-16 |  |
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 | 2025-10-03 |
 | [NONA](https://open.spotify.com/track/0PcA63FVAapebTvMoqHf2R) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A) | [NONA](https://open.spotify.com/album/44v4gUnWzb9N6qyzI3ou6V) | 2:08 | 2025-04-16 |  |
-| [Nona Manise](https://open.spotify.com/track/1Dy5Jx3Wqr44Po44mF6ePG) | [Pretty Rico](https://open.spotify.com/artist/4x0FfUwA06azGJXX8Kc59U) | [Nona Manise](https://open.spotify.com/album/5wYPstAbsv2TXDl3UgZe2K) | 2:47 | 2025-11-06 |  |
+| [Nona Manise](https://open.spotify.com/track/1Dy5Jx3Wqr44Po44mF6ePG) | [Pretty Rico](https://open.spotify.com/artist/4x0FfUwA06azGJXX8Kc59U) | [Nona Manise](https://open.spotify.com/album/5wYPstAbsv2TXDl3UgZe2K) | 2:47 | 2025-11-06 | 2026-01-23 |
 | [Nuansa Biru](https://open.spotify.com/track/30ITGq0XWFoa8lq7vCThBO) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Nuansa Biru](https://open.spotify.com/album/75SF4HGHWxSx6tBc9T8fde) | 3:35 | 2025-04-24 | 2025-10-03 |
 | [Nuansa Romansa](https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/0FbED58kWNrEd41ZGh4X9T) | 4:38 | 2025-05-08 | 2025-10-24 |
 | [Nyaman \(24/7\)](https://open.spotify.com/track/3H11yoJfR7kMkpqDC9Ef1s) | [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws) | [Nyaman \(24/7\)](https://open.spotify.com/album/24VfTPaMOtJ4EpDllK62Yl) | 3:16 | 2025-11-20 |  |
@@ -212,6 +213,7 @@
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-10-03 | 2025-05-02 |
 | [Will U?](https://open.spotify.com/track/37NHeXSJ86rPJoseHnR91V) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Will U?](https://open.spotify.com/album/7yW3BRzqcGO0yvSeKA6876) | 3:26 | 2024-10-03 |  |
 | [Wish You Alright](https://open.spotify.com/track/75lkpEnY3p0FzoLWBUz8K4) | [Chertapraja](https://open.spotify.com/artist/0vx1EzezTVTf0TytIqBEcc), [Sekardust](https://open.spotify.com/artist/29BLaYNcWCRhEuOz1oa5XV) | [Wish You Alright](https://open.spotify.com/album/2XkU05zpkBfdWC47Y9201h) | 4:12 | 2024-10-10 | 2025-05-02 |
+| [Ya Sudahlah](https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Ya Sudahlah](https://open.spotify.com/album/13YkBL0dwHpBgGAWNFI1mA) | 4:03 | 2026-01-22 |  |
 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 | 2025-05-29 | 2025-11-21 |
 
 \*This playlist was first scraped on 2025-04-26. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: HYE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JAOKHUN",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 234916,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/5dEoQjGDYstRpwuGSXmfaK"
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -6367,6 +6385,24 @@
     },
     {
       "album": {
+        "name": "\u0e0b\u0e2d\u0e22\u0e02\u0e48\u0e2d\u0e22\u0e41\u0e19",
+        "url": "https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL"
+      },
+      "artists": [
+        {
+          "name": "YONIA",
+          "url": "https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193285,
+      "name": "\u0e0b\u0e2d\u0e22\u0e02\u0e48\u0e2d\u0e22\u0e41\u0e19",
+      "url": "https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
         "url": "https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI"
       },
@@ -7634,7 +7670,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 206000,
       "name": "\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48\u0e1b\u0e35\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/2ewrA9zGxvXrWSt6sLkqZx"
@@ -7776,6 +7812,24 @@
       "duration_ms": 120000,
       "name": "\u0e1d\u0e32\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49 Kiss (feat. BLVCKHEART)",
       "url": "https://open.spotify.com/track/4psph4gNDqUnGvBSq6UwwE"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49 [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u201c\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 (\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e44\u0e27\u0e49\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32) HUMAN RESOURCE\u201d]",
+        "url": "https://open.spotify.com/album/6FQRPhRMHaza7PfckpFr0B"
+      },
+      "artists": [
+        {
+          "name": "\u0e1b\u0e31\u0e4a\u0e1a Potato",
+          "url": "https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e43\u0e1a\u0e19\u0e35\u0e49 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u201c\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 (\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e44\u0e27\u0e49\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32) HUMAN RESOURCE\u201d",
+      "url": "https://open.spotify.com/track/6OPeYC2yZ84Zl4cU2qVQVu"
     },
     {
       "album": {
@@ -8933,6 +8987,28 @@
     },
     {
       "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e37\u0e2d\u0e19 (Period)",
+        "url": "https://open.spotify.com/album/1jINUfnj8s4yYpejlhwbTR"
+      },
+      "artists": [
+        {
+          "name": "Goy Arachaporn",
+          "url": "https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e37\u0e2d\u0e19 (Period)",
+      "url": "https://open.spotify.com/track/0ZPCXZQlpyLJaN8f7wqtbH"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27 - Single",
         "url": "https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx"
       },
@@ -8998,7 +9074,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 356029,
       "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e04\u0e19\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/7tPOjHOaAkYHy0ki6vI8uA"
@@ -10424,7 +10500,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 166589,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e01\u0e35\u0e48\u0e42\u0e21\u0e07 (friend zone)",
       "url": "https://open.spotify.com/track/7Kf0DxAg3oodWqyiGlXQxV"
@@ -11097,6 +11173,28 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e2a\u0e19\u0e27\u0e34\u0e40\u0e28\u0e29 (Gifted) (feat. BLVCKHEART)",
+        "url": "https://open.spotify.com/album/3b6QBlJNSCAf3MR5jEX9Wj"
+      },
+      "artists": [
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226411,
+      "name": "\u0e41\u0e2a\u0e19\u0e27\u0e34\u0e40\u0e28\u0e29 (Gifted) (feat. BLVCKHEART)",
+      "url": "https://open.spotify.com/track/3Xm4DmLWJ2M8btMdcW1mIJ"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e04\u0e08\u0e23\u0e14\u0e49\u0e27\u0e22\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/5kQ5aqaOqQxzdRqVmB665s"
       },
@@ -11166,6 +11264,28 @@
       "duration_ms": 280952,
       "name": "\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e41\u0e1a\u0e01\u0e44\u0e27\u0e49",
       "url": "https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e2b\u0e25\u0e31\u0e07\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32 (feat. \u0e01\u0e49\u0e2d\u0e07 \u0e2b\u0e49\u0e27\u0e22\u0e44\u0e23\u0e48) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \"\u0e2a\u0e31\u0e1b\u0e40\u0e2b\u0e23\u0e48\u0e2d2\"]",
+        "url": "https://open.spotify.com/album/2ax1cUhyREKgkVvlNpp9BM"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        },
+        {
+          "name": "Kong Huayrai",
+          "url": "https://open.spotify.com/artist/0QStHUbJoIoaNtvHVaBMGK"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298750,
+      "name": "\u0e42\u0e25\u0e01\u0e2b\u0e25\u0e31\u0e07\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32 (feat. \u0e01\u0e49\u0e2d\u0e07 \u0e2b\u0e49\u0e27\u0e22\u0e44\u0e23\u0e48) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \"\u0e2a\u0e31\u0e1b\u0e40\u0e2b\u0e23\u0e48\u0e2d2\"",
+      "url": "https://open.spotify.com/track/3KlQLqqqPp2wNm5qR2TvAX"
     },
     {
       "album": {

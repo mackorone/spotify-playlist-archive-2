@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 전상근 \(Jeon Sang Keun\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,652 songs - 4 day 11 hr 19 min
+1,653 songs - 4 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Alone](https://open.spotify.com/track/6MY5Fg2ST4H30UziyT4mw8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Again my life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5hU1uvCRoM8R0dOzXgkLdq) | 3:24 | 2022-07-07 | 2022-07-27 |
 | [Alone](https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [The Witch's Diner \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/6Wi68SCcA5SfVOrNHkMyDL) | 3:46 | 2021-12-23 | 2022-07-07 |
 | [Alone](https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y) | [KI HYUN](https://open.spotify.com/artist/37aGvwOvSBT3UCkXBZ6nS6), [수빈](https://open.spotify.com/artist/1NrGKVkZ7SbOUIrtn9Zm8b) | [Alone](https://open.spotify.com/album/0OkfIH5BLiyic0hzd4oTsi) | 3:19 | 2023-11-02 | 2024-03-06 |
-| [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 | 2025-09-24 |  |
+| [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 | 2025-09-24 | 2026-01-23 |
 | [Alone](https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Alone](https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A) | 3:41 | 2024-10-30 | 2025-05-07 |
 | [Alone](https://open.spotify.com/track/0KkoFye9cvIeLRe3fQMeOK) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Alone](https://open.spotify.com/album/2wUZ7V5326P16ADyTdQpzL) | 4:02 | 2025-02-04 | 2025-02-07 |
 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 | 2025-02-21 |
@@ -1511,6 +1511,7 @@
 | [Wish](https://open.spotify.com/track/0omiswhwT71hQ8vM9jrrAJ) | [TAESEOK](https://open.spotify.com/artist/28Gt2fkGTjayT0qe1hxGMI) | [Wish](https://open.spotify.com/album/6w7WIJqxrATxF5hiII7k3I) | 3:26 | 2023-01-20 | 2023-03-28 |
 | [Wish I could tell you](https://open.spotify.com/track/38kJ3LV1n9dIBfs1hFksAI) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Wish I could tell you](https://open.spotify.com/album/1O02PUbV0l0kfpzcodoCNe) | 3:54 | 2022-11-28 | 2023-01-21 |
 | [Wish you](https://open.spotify.com/track/4e5XBJoGhq3BlO4B0PnOvo) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Wish you](https://open.spotify.com/album/4xWkIU0ycq2E5SbE16k2Ml) | 4:12 | 2023-11-15 | 2024-03-21 |
+| [With a smile \- Instrumental](https://open.spotify.com/track/2JxoO6NQ64wOHr1mBnyWmG) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy), [Gyeongseo\(GyeongseoYeji\)](https://open.spotify.com/artist/49XlgwPu5F9Pgv7NImAvKA), [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [With a smile X Sweet Sugar Project](https://open.spotify.com/album/7mMQ3E3J1onm2whjcOXUR4) | 4:21 | 2026-01-22 |  |
 | [With and Without You](https://open.spotify.com/track/5E8LKTFF9UpIiuyq1O1vJn) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [With and Without You](https://open.spotify.com/album/1Ixz7I4AEGQ1zJhrGbJr7x) | 3:51 | 2022-03-24 | 2022-04-19 |
 | [With me, with you](https://open.spotify.com/track/2lP9LVvWtexc3jZJ0WxdrZ) | [Ecobridge](https://open.spotify.com/artist/4ozyMZxydr2BsVslZEjkOB) | [With me, with you](https://open.spotify.com/album/5vkc6Qn5D3uPTOuGychur0) | 3:23 | 2023-11-02 | 2024-03-06 |
 | [With My Tears](https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA) | 4:13 | 2021-12-20 | 2022-07-08 |

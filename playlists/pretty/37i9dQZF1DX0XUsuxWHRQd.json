@@ -1,12 +1,12 @@
 {
   "description": "New music from A$AP Rocky. ",
-  "num_followers": 15806135,
+  "num_followers": 15805581,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8QBw8fP/l1obd2bdIrDMAKDWtZ",
+  "snapshot_id": "AAAAAPrryTtTQMaHUby2CrFpT6lghxYX",
   "tracks": [
     {
       "added_at": "2026-01-20 18:53:17",
@@ -171,6 +171,30 @@
       "duration_ms": 181739,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0CtG3VBxkHbEuIexLCyVcZ"
+    },
+    {
+      "added_at": "2026-01-22 05:00:04",
+      "album": {
+        "name": "Sweatsuit",
+        "url": "https://open.spotify.com/album/2HOe7ExqoZcdXPWfMlODR3"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Ali & Gipp",
+          "url": "https://open.spotify.com/artist/01ZpL2TZ4QxYNDLc70RIiT"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/3YQjgTpUVNWvpYeb2mtTF7"
     },
     {
       "added_at": "2026-01-20 18:53:17",

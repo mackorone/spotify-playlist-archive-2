@@ -1,28 +1,28 @@
 {
-  "description": "Global crossovers by/with Arab artists. Cover: Shargeeya",
-  "num_followers": 166600,
+  "description": "Global crossovers by Arab artists. Cover: YAZ",
+  "num_followers": 166608,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8Zt56Qt02qS/ovvgFyMqQPOHQO",
+  "snapshot_id": "AAAAAKgNUmONYz0BJq7/ttuZkmpm0ec/",
   "tracks": [
     {
-      "added_at": "2025-11-19 17:26:39",
+      "added_at": "2026-01-22 07:12:36",
       "album": {
-        "name": "Shargeeya!",
-        "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
+        "name": "Difficult",
+        "url": "https://open.spotify.com/album/4uoQJV8QsrJPQBNWLdreEs"
       },
       "artists": [
         {
-          "name": "Shargeeya",
-          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
         }
       ],
-      "duration_ms": 131179,
-      "name": "Shargeeya!",
-      "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
+      "duration_ms": 176802,
+      "name": "Difficult",
+      "url": "https://open.spotify.com/track/2F7lnGyuqAZWMyoN25qVqC"
     },
     {
       "added_at": "2026-01-21 08:38:39",
@@ -39,6 +39,22 @@
       "duration_ms": 131250,
       "name": "Dalou3a (Nari)",
       "url": "https://open.spotify.com/track/6uyHqVoPvzSySzDe2Famfl"
+    },
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "Shargeeya!",
+        "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
+      },
+      "artists": [
+        {
+          "name": "Shargeeya",
+          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
+        }
+      ],
+      "duration_ms": 131179,
+      "name": "Shargeeya!",
+      "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
     },
     {
       "added_at": "2025-11-19 17:26:39",
@@ -867,22 +883,6 @@
       "duration_ms": 166111,
       "name": "Ra2i2a",
       "url": "https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/400tCk424YR0fhAH3yj29v"
-      },
-      "artists": [
-        {
-          "name": "Moh Flow",
-          "url": "https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p"
-        }
-      ],
-      "duration_ms": 201192,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3"
     }
   ],
   "unique_name": "Arab X",

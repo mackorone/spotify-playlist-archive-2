@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 24261,
+  "num_followers": 24298,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAAAandKAl/XlNc61kfF+uMbH",
+  "snapshot_id": "aXAXAAAAAABpR+qGWhoz82fA4lKN2AYC",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9"
+        "name": "Gone Fishin",
+        "url": "https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH"
       },
       "artists": [
         {
+          "name": "Grieves",
+          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
+        },
+        {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Pants",
+          "url": "https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo"
+      "duration_ms": 117894,
+      "name": "Gone Fishin",
+      "url": "https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ"
     },
     {
       "added_at": null,
@@ -263,26 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Fishin",
-        "url": "https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH"
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9"
       },
       "artists": [
         {
-          "name": "Grieves",
-          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
-        },
-        {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Pants",
-          "url": "https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4"
         }
       ],
-      "duration_ms": 117894,
-      "name": "Gone Fishin",
-      "url": "https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ"
+      "duration_ms": 134400,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo"
     },
     {
       "added_at": null,

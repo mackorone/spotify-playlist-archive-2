@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,740 songs - 4 day 9 hr 12 min
+1,742 songs - 4 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Do Good](https://open.spotify.com/track/38UQXcKIImPXRiYjNfZARG) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Komadub](https://open.spotify.com/artist/5QSz1eRMvZIAkvBATsz4ob) | [Do Good](https://open.spotify.com/album/7zuEb5FEYogyGK6Ntjh2XE) | 4:10 | 2024-03-25 |  |
 | [Do Outro Lado da Rua](https://open.spotify.com/track/0ltwRdcobZeo4kEkgFQOYk) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Do Outro Lado da Rua](https://open.spotify.com/album/3BcEjngH9PV2W3L3mNDDYK) | 2:45 | 2025-05-25 |  |
 | [Doble lazo](https://open.spotify.com/track/4Z288tB6RJzge7RbPChNZ5) | [LOS PÁJAROSS](https://open.spotify.com/artist/1RcuUbplaqk6mZOdgy9fNN) | [Indescriptible](https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN) | 4:19 | 2025-07-14 |  |
+| [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 | 2026-01-23 |  |
 | [Don't Give Up](https://open.spotify.com/track/7FjhQCzRb6Gosec1DzVgCV) | [Bagjuice](https://open.spotify.com/artist/4oWnABl83YPO88wXnPflld) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:18 | 2024-03-23 |  |
 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 | 2025-12-20 |  |
 | [Don't Wanna Leave](https://open.spotify.com/track/0DgRl8r8V2I64OJHswUHTg) | [Matt B](https://open.spotify.com/artist/5UIhurWmSlzXbfilRY4DPd) | [Don't Wanna Leave](https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY) | 3:26 | 2025-10-07 |  |
@@ -1612,6 +1613,7 @@
 | [Vampires Dub](https://open.spotify.com/track/1KuHmNPCzIkCUHY7Q35AkB) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:46 | 2024-03-25 |  |
 | [Vanny](https://open.spotify.com/track/4LieRdl3CaUnh8kJindNTV) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B) | 3:59 | 2025-06-10 |  |
 | [Vanny](https://open.spotify.com/track/4YCGxrke0xWayFb87lutWo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 4:00 | 2022-08-13 |  |
+| [Variaciones Sobre El Ana Becoaj](https://open.spotify.com/track/7345YRwYg0D0hA8hohOIKD) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música incidental para teatro](https://open.spotify.com/album/28CBQ2x1QyFzGixal6eWXo) | 4:20 | 2026-01-22 |  |
 | [Veil of Conformity](https://open.spotify.com/track/4CwF9VIJAKUwa5wOXbzgp3) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 4:45 | 2024-09-25 |  |
 | [Velvet Coastline](https://open.spotify.com/track/4NqqrbgNXDsevemzHnpiM9) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Velvet Coastline](https://open.spotify.com/album/2lzSDfCayOvMXinKZHEUe5) | 3:09 | 2025-08-08 |  |
 | [VENEZUELA QUERIDA](https://open.spotify.com/track/0TFh5PqPUfRIfL6nKeHoCI) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [VENEZUELA QUERIDA](https://open.spotify.com/album/4oEzaEQtaLnY7FcXUyxpWD) | 4:22 | 2025-07-08 |  |

@@ -6898,6 +6898,24 @@
     {
       "album": {
         "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo"
+    },
+    {
+      "album": {
+        "name": "Fall Apart",
         "url": "https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal"
       },
       "artists": [

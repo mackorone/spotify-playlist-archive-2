@@ -1,6 +1,6 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Kapo, Ryan Castro",
-  "num_followers": 15482938,
+  "num_followers": 15482265,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/6eJgkjqBphZi6C9CuyuC9U"
         }
       ],
       "duration_ms": 192111,

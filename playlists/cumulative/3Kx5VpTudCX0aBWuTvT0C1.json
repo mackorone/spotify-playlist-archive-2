@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/66ZtlbDXrqXdR5hA6E6jHi"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gavl\u00e9n",
+          "url": "https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6ifINtDtWjUMtpr4jlzfQA"
+    },
+    {
+      "album": {
         "name": "Vur Kalbimden",
         "url": "https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V"
       },
@@ -2048,6 +2066,24 @@
       "duration_ms": 229034,
       "name": "World Of Thirds",
       "url": "https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk"
+    },
+    {
+      "album": {
+        "name": "You Got The Chops",
+        "url": "https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I"
+      },
+      "artists": [
+        {
+          "name": "Mark Rosal",
+          "url": "https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240085,
+      "name": "You Got The Chops",
+      "url": "https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw"
     },
     {
       "album": {

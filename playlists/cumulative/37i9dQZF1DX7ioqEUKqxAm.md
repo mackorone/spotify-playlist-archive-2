@@ -2,7 +2,7 @@
 
 ### [RADAR: Podcasters 2026](https://open.spotify.com/playlist/37i9dQZF1DX7ioqEUKqxAm)
 
-> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集
+> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: ぽこピーのゆめうつつ\)
 
 60 songs - 1 day 21 hr 51 min
 

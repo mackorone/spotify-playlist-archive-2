@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: NSG",
+  "description": "Tracks popping off in the Afro scene. Cover: Omah Lay x Seyi Vibez",
   "name": "Afro Station",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 157723,
       "name": "AMA",
       "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 143299,
       "name": "Bella",
       "url": "https://open.spotify.com/track/06dSzmXW7o2j2ik8sg8fsE"
@@ -3229,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Boussa",
+        "url": "https://open.spotify.com/album/18L1c5WeUvgf6fGUAGP6ZW"
+      },
+      "artists": [
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Boussa",
+      "url": "https://open.spotify.com/track/51yCebAzfKZWAiUnS5Khsl"
+    },
+    {
+      "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
       },
@@ -3412,6 +3430,24 @@
       "duration_ms": 196363,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "album": {
+        "name": "B\u00e9b\u00e9 s'en va",
+        "url": "https://open.spotify.com/album/5P0eU3HUkfZANG3W0ajbMx"
+      },
+      "artists": [
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "B\u00e9b\u00e9 s'en va",
+      "url": "https://open.spotify.com/track/1hHWdYKfUcLyuK4gE3i0sb"
     },
     {
       "album": {
@@ -3612,7 +3648,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161379,
       "name": "Calin",
       "url": "https://open.spotify.com/track/5eLkgfNN9tBUKtDYxs07SQ"
@@ -7813,6 +7849,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "FOLIE",
+      "url": "https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/3cVnkUmA5GSSWCrYDpKwoZ"
       },
@@ -7846,6 +7904,28 @@
       "duration_ms": 261428,
       "name": "Fondili",
       "url": "https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/2fAsi13z2Xne3Uke6cNDjr"
+      },
+      "artists": [
+        {
+          "name": "Paulo Chakal",
+          "url": "https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164458,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/3AQQQuvDhbER2K6a9ZajdE"
     },
     {
       "album": {
@@ -8496,7 +8576,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 174545,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/3FOkzNjrTsMePdCdqoxytk"
@@ -9068,7 +9148,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 153421,
       "name": "HIGHLIFE",
       "url": "https://open.spotify.com/track/3nqeJosWOH6X79QZqClwpA"
@@ -9264,6 +9344,32 @@
       "duration_ms": 139363,
       "name": "How Much",
       "url": "https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT"
+    },
+    {
+      "album": {
+        "name": "H\u00e9lico",
+        "url": "https://open.spotify.com/album/13yPcCUFqnPUhjg3NyqQuj"
+      },
+      "artists": [
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj"
+        },
+        {
+          "name": "DJ SEBB",
+          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
+        },
+        {
+          "name": "Busy Twist",
+          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "H\u00e9lico",
+      "url": "https://open.spotify.com/track/2BxIJsyjud3N1lC0JqP2lS"
     },
     {
       "album": {
@@ -9859,6 +9965,36 @@
     },
     {
       "album": {
+        "name": "Iz Hawt (French Version)",
+        "url": "https://open.spotify.com/album/0SAtApfGRQ0TeTI9Kac0TL"
+      },
+      "artists": [
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        },
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        },
+        {
+          "name": "SOSEY",
+          "url": "https://open.spotify.com/artist/1L4l4XFtPJv7LMwdcsNPxd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171628,
+      "name": "Iz Hawt - French Version",
+      "url": "https://open.spotify.com/track/6t6enwSBCMhwUS4jnrcOmr"
+    },
+    {
+      "album": {
         "name": "Iz Hawt 2.0",
         "url": "https://open.spotify.com/album/6QixrDHwVhpvXOafNWoUCQ"
       },
@@ -9878,10 +10014,28 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 162580,
       "name": "Iz Hawt 2.0",
       "url": "https://open.spotify.com/track/0Xec3fWLl3JWKx3BfbcV6Y"
+    },
+    {
+      "album": {
+        "name": "J'avance",
+        "url": "https://open.spotify.com/album/1Ca70zdyAOct8FdETXE3ir"
+      },
+      "artists": [
+        {
+          "name": "Louzio",
+          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158798,
+      "name": "J'avance",
+      "url": "https://open.spotify.com/track/7L5bn3oENMNf6IuuHNKyLx"
     },
     {
       "album": {
@@ -10674,7 +10828,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 155604,
       "name": "Kay Kay (feat. Jeeba)",
       "url": "https://open.spotify.com/track/2hdKGD5H2G2AaqGwFwHOJo"
@@ -13773,6 +13927,28 @@
     },
     {
       "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+    },
+    {
+      "album": {
         "name": "My Lady",
         "url": "https://open.spotify.com/album/6kEv1XGrBDr51rMFaAGXYt"
       },
@@ -14648,6 +14824,28 @@
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "album": {
+        "name": "NOUS 2 (feat. SenSey')",
+        "url": "https://open.spotify.com/album/7vBfFiwiQiGu8UluLFua26"
+      },
+      "artists": [
+        {
+          "name": "SEYSEY",
+          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127372,
+      "name": "NOUS 2 (feat. SenSey')",
+      "url": "https://open.spotify.com/track/0QtynC35E7FswfeHCN8xPT"
     },
     {
       "album": {
@@ -16572,7 +16770,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 117487,
       "name": "PRESIDENTIAL",
       "url": "https://open.spotify.com/track/2GDrvSBtD1SfNBa39kmcl0"
@@ -17524,7 +17722,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 159884,
       "name": "Sama Love",
       "url": "https://open.spotify.com/track/4KgN9W7ggYVWmg2inlVuu1"
@@ -18216,7 +18414,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148571,
       "name": "Smooth Boy",
       "url": "https://open.spotify.com/track/26vQYGNXtd4Qz3yavoq2J7"
@@ -19938,6 +20136,28 @@
       "duration_ms": 188160,
       "name": "Tout Donner",
       "url": "https://open.spotify.com/track/1HSZMFQHI8fsoz6nhKwy4L"
+    },
+    {
+      "album": {
+        "name": "ID.2",
+        "url": "https://open.spotify.com/album/1YWTMoNVq0qNuapp2XIndp"
+      },
+      "artists": [
+        {
+          "name": "Ralph Beaubrun",
+          "url": "https://open.spotify.com/artist/4qUeDaQIX2u2rXnPQr9yuP"
+        },
+        {
+          "name": "TMAN",
+          "url": "https://open.spotify.com/artist/4P3zTDvrAEBoleS4VscRla"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "TOUT DOUX",
+      "url": "https://open.spotify.com/track/4VqMiJYEojz1Q40qE40n26"
     },
     {
       "album": {

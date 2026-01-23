@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4686,
+  "num_followers": 4685,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MQQ1aAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MQWG6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "TVOJE O\u010cI",
         "url": "https://open.spotify.com/album/5yzjPwskfgaow94xwL68Ru"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/14sgVMJqy2XtkjrToAvtgS"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Predn\u00e9 Halny 10",
+        "url": "https://open.spotify.com/album/5MlcdSyGarZtgTFlzYTcV3"
+      },
+      "artists": [
+        {
+          "name": "XXXTRAKTOR",
+          "url": "https://open.spotify.com/artist/0K3HTzDJ8ojqiH9OjKJlYL"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "oblubene slovo",
+      "url": "https://open.spotify.com/track/6AsdWSmhPKdh0c5AjQhVqk"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk"
@@ -53,23 +69,7 @@
       "url": "https://open.spotify.com/track/76952ZbAHlgMqrIEMqYkgB"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Predn\u00e9 Halny 10",
-        "url": "https://open.spotify.com/album/5MlcdSyGarZtgTFlzYTcV3"
-      },
-      "artists": [
-        {
-          "name": "XXXTRAKTOR",
-          "url": "https://open.spotify.com/artist/0K3HTzDJ8ojqiH9OjKJlYL"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "oblubene slovo",
-      "url": "https://open.spotify.com/track/6AsdWSmhPKdh0c5AjQhVqk"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "EFN/ERN",
         "url": "https://open.spotify.com/album/7FAMrPCLKUKnrwjXwODU1c"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/3w1VYZ5dyKSKLRldAtHpsb"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Ear Blessers",
         "url": "https://open.spotify.com/album/5Ef1SpRIiJEMGdaT88Cty6"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/2p1DODTjdaMbARn6H8HuvS"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Predn\u00e9 Halny 10",
         "url": "https://open.spotify.com/album/5MlcdSyGarZtgTFlzYTcV3"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/1oOZcKUclrwkNoRh1EUs7S"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "BOYBAND",
         "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -161,10 +161,10 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "theclubrock",
-        "url": "https://open.spotify.com/album/4upEx9M0b73bqjeiej0Prp"
+        "url": "https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc"
       },
       "artists": [
         {
@@ -172,12 +172,12 @@
           "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
         }
       ],
-      "duration_ms": 122188,
+      "duration_ms": 122193,
       "name": "theclubrock",
-      "url": "https://open.spotify.com/track/1pC8k7AoP2uSDOgmNo0vHN"
+      "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Thong Song x Poker Face",
         "url": "https://open.spotify.com/album/5LoqqNBTxOpaTveOF5mv6X"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/07K8skqONaGHHXb8roY4u3"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
         "url": "https://open.spotify.com/album/6lJ6soZJ32CzhmXtRDeRv9"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/5mMY6AShezyO7zBsGwvvGt"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/4X7ZMiExZISasXdyxPJW9p"
@@ -229,7 +229,39 @@
       "url": "https://open.spotify.com/track/0ByJbHq3o1ssNSTSWZAZi9"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "LAZZKA",
+        "url": "https://open.spotify.com/album/0LMrVTVCKvFLrK23YkTiyf"
+      },
+      "artists": [
+        {
+          "name": "4rano",
+          "url": "https://open.spotify.com/artist/2yzKg373IWFA1nZINR8J8f"
+        }
+      ],
+      "duration_ms": 169959,
+      "name": "MAL SOM TO VEDIE\u0164 SK\u00d4R (COVER)",
+      "url": "https://open.spotify.com/track/6UViwVKOp3myZSbWaCBOoT"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/6GT1E8Qg3SazmTBzvm7kSo"
+      },
+      "artists": [
+        {
+          "name": "Miami XO",
+          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
+        }
+      ],
+      "duration_ms": 108121,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/045znbMKUOgc6SBI9fF8Z0"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "KATYUSHA",
         "url": "https://open.spotify.com/album/1N6ikNoOz1sKOVgj4RvzrT"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
@@ -265,51 +297,7 @@
       "url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Club Ironmouse",
-        "url": "https://open.spotify.com/album/009MgrZZmMCGmeZdkxwnZ4"
-      },
-      "artists": [
-        {
-          "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/7mP0yyVD9PFmjqWcXI1kFB"
-        },
-        {
-          "name": "shirobeats",
-          "url": "https://open.spotify.com/artist/6ikl2mKOYsek2fUhMj2CTW"
-        },
-        {
-          "name": "HalaCG",
-          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
-        },
-        {
-          "name": "Bubi",
-          "url": "https://open.spotify.com/artist/2LlDXTSoqYFe1viQSb3zw7"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Cry for Me WA WA WA - Live Version",
-      "url": "https://open.spotify.com/track/19aIw4f5D2bMsufW7lYFYO"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "LAZZKA",
-        "url": "https://open.spotify.com/album/0LMrVTVCKvFLrK23YkTiyf"
-      },
-      "artists": [
-        {
-          "name": "4rano",
-          "url": "https://open.spotify.com/artist/2yzKg373IWFA1nZINR8J8f"
-        }
-      ],
-      "duration_ms": 169959,
-      "name": "MAL SOM TO VEDIE\u0164 SK\u00d4R (COVER)",
-      "url": "https://open.spotify.com/track/6UViwVKOp3myZSbWaCBOoT"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "YOLO",
         "url": "https://open.spotify.com/album/3G83ab0oabDEdHoeEI5igU"
@@ -329,23 +317,7 @@
       "url": "https://open.spotify.com/track/1Gix5ydCHyeExbBvbmI7WH"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Bazooka",
-        "url": "https://open.spotify.com/album/6GT1E8Qg3SazmTBzvm7kSo"
-      },
-      "artists": [
-        {
-          "name": "Miami XO",
-          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
-        }
-      ],
-      "duration_ms": 108121,
-      "name": "Bazooka",
-      "url": "https://open.spotify.com/track/045znbMKUOgc6SBI9fF8Z0"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "THE SIN : VANISH",
         "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
@@ -365,7 +337,7 @@
       "url": "https://open.spotify.com/track/6u7J7OH56kiN2A7Pfv5D0i"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
@@ -381,7 +353,7 @@
       "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "ZA KATREM",
         "url": "https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN"
@@ -397,7 +369,7 @@
       "url": "https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Divok\u00e9 srdce",
         "url": "https://open.spotify.com/album/7Btg15knjoUSmDldVFVe2I"
@@ -413,55 +385,23 @@
       "url": "https://open.spotify.com/track/7LVDTqOz7TLNFgnKPt3qpu"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "Daj mi noc (koncertowa)",
-        "url": "https://open.spotify.com/album/2KVOScAlJiZ0cHFqG917Pl"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
       "artists": [
         {
-          "name": "MRD",
-          "url": "https://open.spotify.com/artist/1mDF3XPBpyv3pBiqLbhhVX"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 199541,
-      "name": "Daj mi noc - koncertowa",
-      "url": "https://open.spotify.com/track/1VyFG1CYeKm0CrTsEx50AI"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "I'm Not What Happened To Me",
-        "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
-      },
-      "artists": [
-        {
-          "name": "Good Vibes Tribe 11:11",
-          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "I'm Not What Happened To Me",
-      "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "My Moon My Man",
-      "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "DIG ON(A)",
         "url": "https://open.spotify.com/album/1W2WNZJHlrkxl9zQYkAsF4"
@@ -481,55 +421,39 @@
       "url": "https://open.spotify.com/track/3ltGfYpJA8svZLKybybTFB"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+        "name": "Daj mi noc (koncertowa)",
+        "url": "https://open.spotify.com/album/2KVOScAlJiZ0cHFqG917Pl"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1mDF3XPBpyv3pBiqLbhhVX"
         }
       ],
-      "duration_ms": 170333,
-      "name": "I Thought I Saw Your Face Today",
-      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+      "duration_ms": 199541,
+      "name": "Daj mi noc - koncertowa",
+      "url": "https://open.spotify.com/track/1VyFG1CYeKm0CrTsEx50AI"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Matovi\u010d (\u013dudov\u00e1 verzia)",
+        "url": "https://open.spotify.com/album/07rtpj4lkLNEq7XaL5rzay"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "holadrops",
+          "url": "https://open.spotify.com/artist/09D3xDeWkg9f4l7lodB2r0"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 210070,
+      "name": "Matovi\u010d (\u013dudov\u00e1 verzia)",
+      "url": "https://open.spotify.com/track/1Ny4syMsKXD37E8KhEtVnH"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "YOLO",
         "url": "https://open.spotify.com/album/3G83ab0oabDEdHoeEI5igU"
@@ -545,27 +469,55 @@
       "url": "https://open.spotify.com/track/2wxdaWPCQ71uewXjyfBUU0"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "Discolized",
-        "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
       "artists": [
         {
-          "name": "Kato",
-          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 177386,
-      "name": "Turn The Lights Off",
-      "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Hromy divo bij\u00fa",
+        "url": "https://open.spotify.com/album/1M6A5PLAtEKWhdriV7czIH"
+      },
+      "artists": [
+        {
+          "name": "Hrdza",
+          "url": "https://open.spotify.com/artist/4vkeCOKjyeqRMqgsT3gISN"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Hromy divo bij\u00fa",
+      "url": "https://open.spotify.com/track/4MjwhlwOADFRVI6w99oJ2W"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "I'm Not What Happened To Me",
+        "url": "https://open.spotify.com/album/1AcrorE2xHDPHu7Jx1kS0L"
+      },
+      "artists": [
+        {
+          "name": "Good Vibes Tribe 11:11",
+          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "I'm Not What Happened To Me",
+      "url": "https://open.spotify.com/track/5uP6vSMmfpqx2hYdeRGprt"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "BADMAN",
         "url": "https://open.spotify.com/album/3VLkDyzAVxeDCssoFMWXa6"
@@ -585,23 +537,27 @@
       "url": "https://open.spotify.com/track/6Gr422tLdeOWfVhFcfj8i7"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "Matovi\u010d (\u013dudov\u00e1 verzia)",
-        "url": "https://open.spotify.com/album/07rtpj4lkLNEq7XaL5rzay"
+        "name": "Discolized",
+        "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
       },
       "artists": [
         {
-          "name": "holadrops",
-          "url": "https://open.spotify.com/artist/09D3xDeWkg9f4l7lodB2r0"
+          "name": "Kato",
+          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
         }
       ],
-      "duration_ms": 210070,
-      "name": "Matovi\u010d (\u013dudov\u00e1 verzia)",
-      "url": "https://open.spotify.com/track/1Ny4syMsKXD37E8KhEtVnH"
+      "duration_ms": 177386,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "EAST SIDE SOUND 2",
         "url": "https://open.spotify.com/album/2E7GiYbR3kyklodNENSk9B"
@@ -625,7 +581,23 @@
       "url": "https://open.spotify.com/track/7IaMtCrTS0d9wZ6OFCXDyK"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Cig\u00e1ni Ma\u010fari Dobr\u00e1 hudba",
         "url": "https://open.spotify.com/album/0GuDL94l5zzxpAhSKOnl6S"
@@ -641,7 +613,23 @@
       "url": "https://open.spotify.com/track/48MFI7CDb3SE3bkKJEjnnA"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "BEZ TEBA",
         "url": "https://open.spotify.com/album/4zkkVFGaXt9P7yWJQWrmC2"
@@ -661,127 +649,7 @@
       "url": "https://open.spotify.com/track/6nB6kugyfd4BEm4j26ctYo"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Hromy divo bij\u00fa",
-        "url": "https://open.spotify.com/album/1M6A5PLAtEKWhdriV7czIH"
-      },
-      "artists": [
-        {
-          "name": "Hrdza",
-          "url": "https://open.spotify.com/artist/4vkeCOKjyeqRMqgsT3gISN"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Hromy divo bij\u00fa",
-      "url": "https://open.spotify.com/track/4MjwhlwOADFRVI6w99oJ2W"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Mia Martina",
-        "url": "https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R"
-      },
-      "artists": [
-        {
-          "name": "Mia Martina",
-          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Beast",
-      "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "X Gon' Give It To Ya (1950s Soul)",
-        "url": "https://open.spotify.com/album/5Vum2jvLPIQYv9bJsO74Ac"
-      },
-      "artists": [
-        {
-          "name": "19s Soulers",
-          "url": "https://open.spotify.com/artist/5r5ZNNW0zseFzKcGR9ThIi"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "X Gon' Give It To Ya - 1950s Soul",
-      "url": "https://open.spotify.com/track/5jtuNQWGByEkBzBUlN4rWS"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "Gachiakuta (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/41l3KGLex0bMehOuTjAyiA"
-      },
-      "artists": [
-        {
-          "name": "Taku Iwasaki",
-          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
-        }
-      ],
-      "duration_ms": 144627,
-      "name": "Outlaws Get No Entry",
-      "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 170891,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -801,63 +669,23 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "Fendi 2",
-        "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
+        "name": "X Gon' Give It To Ya (1950s Soul)",
+        "url": "https://open.spotify.com/album/5Vum2jvLPIQYv9bJsO74Ac"
       },
       "artists": [
         {
-          "name": "Rakhim",
-          "url": "https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0"
-        },
-        {
-          "name": "Khim",
-          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
-        },
-        {
-          "name": "ayv1o",
-          "url": "https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv"
+          "name": "19s Soulers",
+          "url": "https://open.spotify.com/artist/5r5ZNNW0zseFzKcGR9ThIi"
         }
       ],
-      "duration_ms": 90526,
-      "name": "Fendi 2",
-      "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
+      "duration_ms": 166533,
+      "name": "X Gon' Give It To Ya - 1950s Soul",
+      "url": "https://open.spotify.com/track/5jtuNQWGByEkBzBUlN4rWS"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "House with a Pool",
-        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
-      },
-      "artists": [
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
-      "album": {
-        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
-        "url": "https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n"
-      },
-      "artists": [
-        {
-          "name": "NEXTIME",
-          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
-      "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
-    },
-    {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Addicted!",
         "url": "https://open.spotify.com/album/7lQlSx8JyEHLKxkwsYCAus"
@@ -873,23 +701,183 @@
       "url": "https://open.spotify.com/track/19siE8vuZPzSBaj7OHmQ3h"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
       "album": {
-        "name": "Fire in My Heart",
-        "url": "https://open.spotify.com/album/2NOWqz17MC7S7NmvA2CWy8"
+        "name": "House with a Pool",
+        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
       },
       "artists": [
         {
-          "name": "Escape from New York",
-          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
         }
       ],
-      "duration_ms": 313638,
-      "name": "Fire In My Heart",
-      "url": "https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z"
+      "duration_ms": 216880,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
     },
     {
-      "added_at": "2026-01-21 14:00:10",
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Mia Martina",
+        "url": "https://open.spotify.com/album/0bvO9rYY63GNkEJdR2Zi5R"
+      },
+      "artists": [
+        {
+          "name": "Mia Martina",
+          "url": "https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/0R2GLcXqpDjj5pUxx3OBe5"
+      },
+      "artists": [
+        {
+          "name": "Red Village",
+          "url": "https://open.spotify.com/artist/0peThqnLn0V2rxo8pKsMPv"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        }
+      ],
+      "duration_ms": 342099,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/53qdXiuRiFr7ubXB4S7Ir1"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Gachiakuta (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/41l3KGLex0bMehOuTjAyiA"
+      },
+      "artists": [
+        {
+          "name": "Taku Iwasaki",
+          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
+        }
+      ],
+      "duration_ms": 144627,
+      "name": "Outlaws Get No Entry",
+      "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 170891,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/7bNNS0JCGCx74pt0APMoXc"
+      },
+      "artists": [
+        {
+          "name": "Red Village",
+          "url": "https://open.spotify.com/artist/0peThqnLn0V2rxo8pKsMPv"
+        },
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        }
+      ],
+      "duration_ms": 321278,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7Cy2r5XkvNVCWBLy4KtHVR"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-01-22 13:45:13",
       "album": {
         "name": "Young Italo",
         "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"

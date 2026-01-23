@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-926 songs - 2 day 3 hr 3 min
+930 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Glass Slipper](https://open.spotify.com/track/6CLvcTLTmJLrPyaIfH1zpK) | [Amithyst](https://open.spotify.com/artist/1JWIEpvdQrv3gkVslhbl7N) | [Glass Slipper](https://open.spotify.com/album/1w1Z2EINdTJETLcZtnDBc6) | 5:33 | 2025-12-30 |  |
 | [Gloria in Excelsis Deo](https://open.spotify.com/track/6CYfMo67f0xAbsO7Idpq4t) | [Even the Stones](https://open.spotify.com/artist/61fz1O255Ugkef2PIhI2gB) | [The Light We Follow](https://open.spotify.com/album/2Gu41B1tuwYhXmjeE2pHl4) | 3:32 | 2025-12-07 | 2026-01-15 |
 | [God First](https://open.spotify.com/track/7qLjzg1gzTq0UoXhRTzvB1) | [Secret Sermon](https://open.spotify.com/artist/5RONkuv8N68qyPJCE49QTZ) | [Saved](https://open.spotify.com/album/4JGZ2FZq90kHidYqdUvX3o) | 3:14 | 2026-01-16 |  |
+| [God Won't Take Me Slow](https://open.spotify.com/track/1yDazpky5cVLrvbEd7tIq4) | [Asphalt Socialites](https://open.spotify.com/artist/178fSbCZZY16FMch6OjqmS) | [God Won't Take Me Slow](https://open.spotify.com/album/3IuEBrTIrF2gEiJPZaGeqe) | 3:09 | 2026-01-22 |  |
 | [GOD'S CHILD](https://open.spotify.com/track/4pq0igOKeTD0MunPuxQcHR) | [Cristian Lin](https://open.spotify.com/artist/2rse6TXemx1r7yWiop21L8) | [GOD'S CHILD](https://open.spotify.com/album/4yPoozhvZDJl49q1D8g2SO) | 3:20 | 2025-11-24 | 2025-12-25 |
 | [Going to Take You Higher](https://open.spotify.com/track/0jfVoa1bv14eIFuh4oTQ1c) | [Calypso31](https://open.spotify.com/artist/3hVlyEHOGaORtOsTQZd4ET) | [Esoteric](https://open.spotify.com/album/3DbLkDLZK7Vy2jW1ArKLy2) | 3:40 | 2025-12-04 | 2026-01-05 |
 | [Golden Days](https://open.spotify.com/track/0ZhBFseueJltXIaGi6MaOn) | [Emmett1](https://open.spotify.com/artist/3L27EZZk7pHerigM5YoRx0), [Andres Garcete](https://open.spotify.com/artist/1FwIouNipBJUaiDrIJLyQ9) | [Golden Days](https://open.spotify.com/album/23AsHuLmt7wCIwn5RMeSx9) | 2:35 | 2026-01-06 |  |
@@ -503,6 +504,7 @@
 | [MATCHBOX BRIDGE](https://open.spotify.com/track/7vUqcgI02GSxQgKI8abyqC) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b), [R\-Tilla](https://open.spotify.com/artist/1UIANgWXQR40KfezILbrQR) | [MATCHBOX BRIDGE](https://open.spotify.com/album/1g95XKBS5WXRuf3g4gJTpY) | 3:30 | 2025-12-08 | 2026-01-15 |
 | [May Sunset](https://open.spotify.com/track/136Q1IiijFsB0dBKD3pLYa) | [Ilia Chkolnik](https://open.spotify.com/artist/020ktVWMg5BAOiYI5B9Ffa) | [May Sunset](https://open.spotify.com/album/6yZolKuA99kELUnkAGvEHt) | 3:37 | 2025-11-26 | 2025-12-28 |
 | [Maybe](https://open.spotify.com/track/2t9PVmla7BqnFdSqzjqYP4) | [Amelia](https://open.spotify.com/artist/4VpGlxlUhyKr5cBAkvmIDG) | [Meet Me in the Maybe](https://open.spotify.com/album/7sx92J3QcAUIagioL5pSIb) | 3:01 | 2025-12-13 | 2026-01-15 |
+| [Meant to Be](https://open.spotify.com/track/1GLDFep0Ua0EOzist1mgHZ) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 3:49 | 2026-01-22 |  |
 | [Meant to be me \(unplugged\)](https://open.spotify.com/track/2XZQOTMO2rsg3uK9nuOooR) | [greenVIOLET](https://open.spotify.com/artist/3dm73uJdkFTebai5DZNVnI) | [Meant to be me \(live\)](https://open.spotify.com/album/5DCfTqE5syV5iYZKuS3hV6) | 3:04 | 2026-01-17 |  |
 | [Medium Ugly](https://open.spotify.com/track/2hoQ1QWYFoHoxmMCNErCmt) | [Megan Burke](https://open.spotify.com/artist/6hyEvVAoREnUuUEfzOAG7C) | [Medium Ugly](https://open.spotify.com/album/6QAQWfuw2WH0VOXPNpgxm5) | 3:22 | 2025-11-10 | 2025-12-11 |
 | [Megalomaníacos](https://open.spotify.com/track/58HYvjRyjxKlxgFB2HlVqc) | [Hady](https://open.spotify.com/artist/2qGLXYYehyVLp2k2wfrtBt) | [Megalomaníacos](https://open.spotify.com/album/7lCVZ1ZfC0fC2nW5mp8lPf) | 3:29 | 2026-01-06 |  |
@@ -539,6 +541,7 @@
 | [My Last Try](https://open.spotify.com/track/3bN3oqXelplgY4VK3IY10J) | [Elecprote1n](https://open.spotify.com/artist/2xjeyiw2CsGHyVhT7SUapN) | [My Last Try](https://open.spotify.com/album/0KuInkHP4UcDP0OiLkd289) | 5:50 | 2025-10-23 | 2025-11-24 |
 | [My Mind Is a Sorcerer](https://open.spotify.com/track/4NNBfaLm1FYUZ0qfQ7iGkj) | [CARLA T](https://open.spotify.com/artist/6uXpD1sLYlXgngAjpupisy) | [My Mind Is a Sorcerer](https://open.spotify.com/album/6MnR5jA51yrNOKayuoIyiG) | 2:43 | 2025-10-31 | 2025-12-03 |
 | [My own skin](https://open.spotify.com/track/0RXshmRthd3xgRiGX4S3m9) | [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N), [Jessica Angiolini](https://open.spotify.com/artist/7vEQoJV5h17JPAKwJw15dj) | [My own skin](https://open.spotify.com/album/2NmkURIiYuI3nq8A8IlxfD) | 3:02 | 2025-10-30 | 2025-12-01 |
+| [My Time Will Come](https://open.spotify.com/track/13FStepSomUD6JJGVFiKMN) | [Jess Solimene](https://open.spotify.com/artist/5fTbLdpAk10rXChINbThrO) | [My Time Will Come](https://open.spotify.com/album/5N3l2oGblFCvzO48iOEybP) | 3:21 | 2026-01-22 |  |
 | [Mystery Feeling](https://open.spotify.com/track/0Ty0G7p65IDSTl0bVocC2S) | [ExFuture](https://open.spotify.com/artist/3B9PyWkRrzZWhy2f1gc9K7) | [Mystery Feeling](https://open.spotify.com/album/3MHRjXXQsji6ftXmLPjONm) | 3:55 | 2025-11-06 | 2025-12-07 |
 | [Mystical Dance](https://open.spotify.com/track/4gQpDl98QiybyAYsF6xM56) | [Javier Vegara](https://open.spotify.com/artist/4ElbxuwsGXyH2ddFVoQ7MO) | [Mystical Dance](https://open.spotify.com/album/5We8O78A1RZwCCm4u9PsV9) | 1:55 | 2025-11-03 | 2025-12-07 |
 | [Naloy You are my love](https://open.spotify.com/track/4aeFE6kqBXQRrYgyGZw8PM) | [HL WORLD MUSIC](https://open.spotify.com/artist/6SilR2FEqlPqmWAFUsE8F8) | [Naloy You are my love](https://open.spotify.com/album/3EDeopyFvv5kgyWWCgeewP) | 3:54 | 2025-10-21 | 2025-11-23 |
@@ -609,6 +612,7 @@
 | [Peace & Chill](https://open.spotify.com/track/369MRnqoMXFmhhigWixKo0) | [Big Novelty](https://open.spotify.com/artist/04Im84HJLjwYPu38tz5s9m) | [Peace & Chill](https://open.spotify.com/album/5yqmBtkWLBOEKFrjMdJfXN) | 3:51 | 2025-10-30 | 2025-12-01 |
 | [Peaceful Heart](https://open.spotify.com/track/3uihWvTZnBgGhMm0INqiCX) | [Vantalis](https://open.spotify.com/artist/2gHum2biYAe1RQbhblGuIl) | [Peaceful Heart](https://open.spotify.com/album/5FBgdNIWFa6uzWu6QhJmYn) | 2:48 | 2025-12-12 | 2026-01-15 |
 | [People You Become](https://open.spotify.com/track/41GRehbWpLErI8XSo4HSZD) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Before We Begin Again](https://open.spotify.com/album/7sB2aBjgXUojuK8n9MCdrQ) | 3:37 | 2025-12-18 | 2026-01-19 |
+| [Perfect To Me](https://open.spotify.com/track/1VURdDOQETkpdiYH2mNaHW) | [Joeca254](https://open.spotify.com/artist/3zp5GhJGcifEF6mru0McZI), [Gersonn](https://open.spotify.com/artist/4TE6xdOpcvv6Ji7zgRZevI) | [Perfect To Me](https://open.spotify.com/album/2HHywDDJkVEVdKeuXozKCS) | 3:03 | 2026-01-22 |  |
 | [Personne ne bouge](https://open.spotify.com/track/67bmnMJT5BTWoXc8XzgwC9) | [Baria](https://open.spotify.com/artist/7J0HdkDsGP2JxL8qHFJ4UJ) | [Crush & Crash](https://open.spotify.com/album/17spSAt8Oh42LBCPFi4ekA) | 2:45 | 2025-11-04 | 2025-12-07 |
 | [Phantom Limb \(Love\)](https://open.spotify.com/track/7BbRQuRCTqSzodrEbsFTJ6) | [DJ Tarantix](https://open.spotify.com/artist/5h11YG3qWIannsxOow8UWk) | [Phantom Limb \(Love\)](https://open.spotify.com/album/5ldjEDdyPVOAPCewkd9HOo) | 3:18 | 2025-11-20 | 2025-12-21 |
 | [Phone Tag \(Remix\)](https://open.spotify.com/track/0XtEEXqcOYXEPJNLLROXVT) | [JELATO](https://open.spotify.com/artist/7ziNkIExfJgbnWeYJd0vo6) | [Phone Tag \(Remix\)](https://open.spotify.com/album/6M8XLjSWFFjw22B8NjgHEX) | 1:13 | 2025-11-30 | 2025-12-10 |

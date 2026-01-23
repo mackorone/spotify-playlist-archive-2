@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/426tbd5DUDnIZKLeOmVELI"
+      },
+      "artists": [
+        {
+          "name": "Dave Lofts",
+          "url": "https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/5p8Wu0gEKeWit3FYgrDPWw"
+    },
+    {
+      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },

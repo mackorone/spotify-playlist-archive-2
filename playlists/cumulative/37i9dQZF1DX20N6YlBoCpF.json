@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Joshua Na Die Re\u00ebn, \nSeuns van Vlug, Louis van Lill, Justin Coetzee en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Zaan Sonnekus, Die Piesangskille, SENSASIE, Rudo Schwim  en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -4473,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Blou",
+        "url": "https://open.spotify.com/album/1Ow32tTOe7BrA5qUt4yj5K"
+      },
+      "artists": [
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125466,
+      "name": "Blou",
+      "url": "https://open.spotify.com/track/0jNxI8ARHCYIYxx6fqR7Ut"
+    },
+    {
+      "album": {
         "name": "Blou Diamant",
         "url": "https://open.spotify.com/album/3VXeNPLQoDdzKMuXRVSnsu"
       },
@@ -5431,6 +5449,24 @@
     },
     {
       "album": {
+        "name": "Bosveldnooi",
+        "url": "https://open.spotify.com/album/1EwuUEAJBMo15mgUVJ0bEl"
+      },
+      "artists": [
+        {
+          "name": "HKJK",
+          "url": "https://open.spotify.com/artist/2BPNIvdjCfa4kWT1PjDfW2"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Bosveldnooi",
+      "url": "https://open.spotify.com/track/3J9WFrc0fYg5x1oBd8b5SH"
+    },
+    {
+      "album": {
         "name": "Die Lot",
         "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
       },
@@ -6192,7 +6228,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 172945,
       "name": "By Die See (feat. Vreemd)",
       "url": "https://open.spotify.com/track/4xAVIM3kla3rH8gaBg4IZq"
@@ -6738,7 +6774,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 232153,
       "name": "Country Probeer",
       "url": "https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN"
@@ -11124,7 +11160,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 178706,
       "name": "Ek en Muis",
       "url": "https://open.spotify.com/track/0kf2cBXhFo17xWexjMJdIX"
@@ -15163,6 +15199,24 @@
     },
     {
       "album": {
+        "name": "Hemel In My Hande",
+        "url": "https://open.spotify.com/album/15gG4K8m4gLzGNN171geqp"
+      },
+      "artists": [
+        {
+          "name": "Rudo Schwim",
+          "url": "https://open.spotify.com/artist/0q8pZL0gSRc07NGegSdCGd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182374,
+      "name": "Hemel In My Hande",
+      "url": "https://open.spotify.com/track/4l9isFlMoWwBqLfFJfJYhU"
+    },
+    {
+      "album": {
         "name": "Hemel Op Die Aarde",
         "url": "https://open.spotify.com/album/3DiRpHm0a7V7UWZAMtS16Z"
       },
@@ -17350,6 +17404,28 @@
       "duration_ms": 221067,
       "name": "Inge 2",
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+    },
+    {
+      "album": {
+        "name": "Inge 2 (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/4uzB7peZ7PRhdmkRzjdipy"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197218,
+      "name": "Inge 2 - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/3bU6VYPHEnjSpvx6yIufp8"
     },
     {
       "album": {
@@ -24309,6 +24385,24 @@
     },
     {
       "album": {
+        "name": "Main Road Blues",
+        "url": "https://open.spotify.com/album/5pyF5II43TLUEeP4zuhqIa"
+      },
+      "artists": [
+        {
+          "name": "Coenie Keyser",
+          "url": "https://open.spotify.com/artist/3PepAYRb3DMY3Rt7VAndMd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272991,
+      "name": "Main Road Blues",
+      "url": "https://open.spotify.com/track/1CRZ89gDZKCSyimfBFd8te"
+    },
+    {
+      "album": {
         "name": "Maklike Wiskunde",
         "url": "https://open.spotify.com/album/5p9fzbfamUcur56ggADvpM"
       },
@@ -25110,7 +25204,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 246438,
       "name": "Mia",
       "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
@@ -25128,7 +25222,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 252746,
       "name": "Mia",
       "url": "https://open.spotify.com/track/1ZPeSzZF4QEJGzoRvUYCsD"
@@ -26128,6 +26222,24 @@
       "duration_ms": 183014,
       "name": "My Main Bra Tops",
       "url": "https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac"
+    },
+    {
+      "album": {
+        "name": "My Mens",
+        "url": "https://open.spotify.com/album/3WZc9JQ7OxUgpFAj1BNzxt"
+      },
+      "artists": [
+        {
+          "name": "Juliet Horne",
+          "url": "https://open.spotify.com/artist/16WPoMXZzkt3BG0VLNsKPl"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "My Mens",
+      "url": "https://open.spotify.com/track/1YbfOdzXyaatPHlFyfIt4z"
     },
     {
       "album": {
@@ -30260,7 +30372,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 252935,
       "name": "Parasosiaal",
       "url": "https://open.spotify.com/track/0WnjsPbyZ3xJew4XLJtJQH"
@@ -32040,7 +32152,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 195576,
       "name": "Rooi Ribbok Ram",
       "url": "https://open.spotify.com/track/1xpgKKay8alp5NlVNlVE0O"
@@ -33052,6 +33164,24 @@
       "duration_ms": 185268,
       "name": "Selfbeheer",
       "url": "https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX"
+    },
+    {
+      "album": {
+        "name": "SELFBEWUS",
+        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192794,
+      "name": "SELFBEWUS",
+      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
     },
     {
       "album": {
@@ -39287,6 +39417,24 @@
     },
     {
       "album": {
+        "name": "Vakansietyd",
+        "url": "https://open.spotify.com/album/1LAvPan0C7eRtvrlvL51u8"
+      },
+      "artists": [
+        {
+          "name": "Desmond Wells",
+          "url": "https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141636,
+      "name": "Vakansietyd",
+      "url": "https://open.spotify.com/track/5id5glJRqaUQU41u8HC2eC"
+    },
+    {
+      "album": {
         "name": "Val",
         "url": "https://open.spotify.com/album/0WTNjqB224KZmK3y3ZG3k9"
       },
@@ -40780,7 +40928,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177770,
       "name": "Vir Wie Jy Veg",
       "url": "https://open.spotify.com/track/2mrbswSj4gtttWrfpaJxhO"
@@ -41152,7 +41300,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 237073,
       "name": "Voel Jy Soms",
       "url": "https://open.spotify.com/track/6K6HYPBXtk6bQGLfgY22ck"
@@ -43410,6 +43558,24 @@
       "duration_ms": 206271,
       "name": "Winter In Die Kaap",
       "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
+    },
+    {
+      "album": {
+        "name": "Wintervlies",
+        "url": "https://open.spotify.com/album/5zxdhthjHpvrlt5i8ODMyt"
+      },
+      "artists": [
+        {
+          "name": "Tristin \u201cindigo\u201d Fulljoy",
+          "url": "https://open.spotify.com/artist/3QPbgRkjmU01YP8mnhYxRl"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Wintervlies",
+      "url": "https://open.spotify.com/track/2zvCE9nEmosePrmP4pnZKa"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Yukimi",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Flea",
   "name": "Rarities",
   "tracks": [
     {
@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/4otHv8Tqmwik7rpeAAGCfB"
+      },
+      "artists": [
+        {
+          "name": "FLOOR CRY",
+          "url": "https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/6HlND3N9eJ91D2WLhChC3m"
+    },
+    {
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -650,7 +672,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 217359,
       "name": "Better",
       "url": "https://open.spotify.com/track/0oiV5ehFmWGwWMQy5HKUg6"
@@ -1290,7 +1312,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 335186,
       "name": "Daddy's Gonna Tell You No Lie",
       "url": "https://open.spotify.com/track/25w1nwtRPI5ozR13AH7E5O"
@@ -2467,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/46QLzxv2nTdR9MwcOaEJ9z"
+      },
+      "artists": [
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/4YGLCXZTvDZjIPtjvC2u5s"
+    },
+    {
+      "album": {
         "name": "Synapse Confusion",
         "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
       },
@@ -2614,7 +2654,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 520078,
       "name": "Hypnagogic",
       "url": "https://open.spotify.com/track/19YzjlwTGVCoeCp4l38aXA"
@@ -2774,6 +2814,24 @@
       "duration_ms": 191120,
       "name": "I Look for You",
       "url": "https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU"
+    },
+    {
+      "album": {
+        "name": "The Long Way Round (Deluxe)",
+        "url": "https://open.spotify.com/album/0dnzHJaJXNEEgpBvpe4J0A"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211844,
+      "name": "I Love You, But",
+      "url": "https://open.spotify.com/track/4JXugjlzGFW1TALHNfTqOp"
     },
     {
       "album": {
@@ -3046,7 +3104,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 238659,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/5HjZ3j73t4eieR8D5cYBdB"
@@ -3874,7 +3932,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 188297,
       "name": "Night Charade",
       "url": "https://open.spotify.com/track/7hd8t7SjAaDdcoMjUVAeEN"
@@ -4056,7 +4114,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 254034,
       "name": "nothing to prove",
       "url": "https://open.spotify.com/track/1BL1fu0ToUrnrTh1M9wVRG"
@@ -4158,6 +4216,28 @@
       "duration_ms": 250750,
       "name": "On Land - Hugh B Dub",
       "url": "https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Time Today",
+        "url": "https://open.spotify.com/album/1RQJCkuHLuBDUJ8eZdqXjA"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276560,
+      "name": "Once Upon a Time Today",
+      "url": "https://open.spotify.com/track/568H8vEUSAjMqHFoYtyW4H"
     },
     {
       "album": {
@@ -4675,6 +4755,28 @@
     },
     {
       "album": {
+        "name": "Reno Silver",
+        "url": "https://open.spotify.com/album/3qBWPFkP0xElhegvIjB83b"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204546,
+      "name": "Reno Silver",
+      "url": "https://open.spotify.com/track/2jiyvp5dEUeGrBAvq2v8yM"
+    },
+    {
+      "album": {
         "name": "Chorus",
         "url": "https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS"
       },
@@ -4969,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Scared Of Loving Wild Again",
+        "url": "https://open.spotify.com/album/2N4U9Tkspa4lNhSb71zeXS"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168490,
+      "name": "Scared Of Loving Wild Again",
+      "url": "https://open.spotify.com/track/7FcTEvbElcmioUYPtc5bpj"
+    },
+    {
+      "album": {
         "name": "Searchin' For A Reason",
         "url": "https://open.spotify.com/album/0DHrhV7M5YBWSqhlELTwmV"
       },
@@ -5152,7 +5272,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
@@ -6256,6 +6376,28 @@
       "duration_ms": 236575,
       "name": "Touchh",
       "url": "https://open.spotify.com/track/2WEeIp1jR1jAN4T8rq4Ppc"
+    },
+    {
+      "album": {
+        "name": "Traffic Lights (feat. Thom Yorke)",
+        "url": "https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341066,
+      "name": "Traffic Lights (feat. Thom Yorke)",
+      "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
     },
     {
       "album": {

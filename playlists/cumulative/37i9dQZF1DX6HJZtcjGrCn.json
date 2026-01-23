@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
@@ -4161,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/62xtJQcZeUR9DWTrmO3wMA"
+      },
+      "artists": [
+        {
+          "name": "Alegriu",
+          "url": "https://open.spotify.com/artist/4bJaDvzvlDRz5OuzC7vqE3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213857,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/0D1UzwshNNkijn8ONOJys6"
+    },
+    {
+      "album": {
         "name": "Me Condena",
         "url": "https://open.spotify.com/album/0otaqMzz5BtElj5h7KbS9c"
       },
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
@@ -4632,6 +4650,24 @@
       "duration_ms": 201929,
       "name": "Night Or Day",
       "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
+    {
+      "album": {
+        "name": "Nikita Punk",
+        "url": "https://open.spotify.com/album/4iCrm7p0643hL9Fz7NxAfN"
+      },
+      "artists": [
+        {
+          "name": "Expresso Transatl\u00e2ntico",
+          "url": "https://open.spotify.com/artist/28CpaXrJBEFMEupemdtiGB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Nikita Punk",
+      "url": "https://open.spotify.com/track/4MTQYJnfUxrYGl2HLlIFkY"
     },
     {
       "album": {
@@ -5048,7 +5084,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 190944,
       "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
@@ -5262,6 +5298,24 @@
       "duration_ms": 159914,
       "name": "Porque N\u00e3o Dan\u00e7as",
       "url": "https://open.spotify.com/track/3MwPeBmUfcyjDDCaiKBTrN"
+    },
+    {
+      "album": {
+        "name": "Poseidon",
+        "url": "https://open.spotify.com/album/6LZejqEI1UiJK8CLTL0wbU"
+      },
+      "artists": [
+        {
+          "name": "Carl Karlsson",
+          "url": "https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249842,
+      "name": "Poseidon",
+      "url": "https://open.spotify.com/track/169ZqPo9y92j9fw2Kqip1t"
     },
     {
       "album": {
@@ -7420,6 +7474,24 @@
       "duration_ms": 228913,
       "name": "Volver a Despertar",
       "url": "https://open.spotify.com/track/7hlIwL37UxEG5O3JbewohD"
+    },
+    {
+      "album": {
+        "name": "EP 1",
+        "url": "https://open.spotify.com/album/0gdSPyvV2C8k4EKP6gN8Qb"
+      },
+      "artists": [
+        {
+          "name": "Bateu Matou",
+          "url": "https://open.spotify.com/artist/13PM7jFuPib2KDjzsnVD4q"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "Vou p\u00f3 Baile",
+      "url": "https://open.spotify.com/track/0tiAq775EGtjPT7ewMYPfi"
     },
     {
       "album": {

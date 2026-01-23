@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un inverno non proprio felice (rob in cover)",
+  "description": "musica per un inverno non proprio felice (ottobre in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 151129,
       "name": "amore artificiale",
       "url": "https://open.spotify.com/track/6Ox8OgHHFaVjxzUpkq1Csa"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 161724,
       "name": "ANSIA SOCIALE",
       "url": "https://open.spotify.com/track/4LzfT5r6i82TGEicB70hs6"
@@ -5878,10 +5878,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163870,
       "name": "come ti pare (feat. Sayf)",
       "url": "https://open.spotify.com/track/5gGA3UrPCVOPtAosqUl58J"
+    },
+    {
+      "album": {
+        "name": "Come ti voglio",
+        "url": "https://open.spotify.com/album/0ObiXMrEa1dQ17EUAH1Yfd"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163859,
+      "name": "Come ti voglio",
+      "url": "https://open.spotify.com/track/4Pnkgp0UW07tGo59g8dpJJ"
     },
     {
       "album": {
@@ -7498,7 +7516,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 174196,
       "name": "DIECI DITA",
       "url": "https://open.spotify.com/track/5VZTRC9wZ1MSJLVmF9NQsh"
@@ -8740,10 +8758,28 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 153931,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/1EZ4ID0wjGpsHcPq27J5oE"
+    },
+    {
+      "album": {
+        "name": "Duemila Volte",
+        "url": "https://open.spotify.com/album/0m6nCoxYMijyNHejdnFCYF"
+      },
+      "artists": [
+        {
+          "name": "PATRIK",
+          "url": "https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150274,
+      "name": "Duemila Volte",
+      "url": "https://open.spotify.com/track/4PGZ6lRx8dFhaJdPdeS5rh"
     },
     {
       "album": {
@@ -8984,7 +9020,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 171962,
       "name": "Elodie",
       "url": "https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV"
@@ -10288,6 +10324,24 @@
       "duration_ms": 168000,
       "name": "Finch\u00e9 Non Mi Seppelliscono",
       "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
+    },
+    {
+      "album": {
+        "name": "HOMO",
+        "url": "https://open.spotify.com/album/5QKEC7sTKcbFJepOJ9REoS"
+      },
+      "artists": [
+        {
+          "name": "Karakaz",
+          "url": "https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "FIORE A TESTA IN GI\u00d9",
+      "url": "https://open.spotify.com/track/1XNdMOwUjFoGHe6x28gm1Y"
     },
     {
       "album": {
@@ -13425,6 +13479,28 @@
     },
     {
       "album": {
+        "name": "IN BILICO (feat. Giaime)",
+        "url": "https://open.spotify.com/album/3VGlTHfBT68qj5QjuEjthv"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        },
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142397,
+      "name": "IN BILICO (feat. Giaime)",
+      "url": "https://open.spotify.com/track/30I701J61Fx1Brg48DUTWe"
+    },
+    {
+      "album": {
         "name": "IN PICCHIATA",
         "url": "https://open.spotify.com/album/1cSeU44EyYzGrvte9pZShD"
       },
@@ -15436,6 +15512,28 @@
       "duration_ms": 133348,
       "name": "Liberi X 1/4",
       "url": "https://open.spotify.com/track/6g5NxQUcSgXAgFSoxKX0hV"
+    },
+    {
+      "album": {
+        "name": "Re lucertola tiranna",
+        "url": "https://open.spotify.com/album/6jr88gNttvHXfJdHpTDqfr"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "LIBERT\u00c0",
+      "url": "https://open.spotify.com/track/5FYBw3MoIwlTlsMKDO9Rve"
     },
     {
       "album": {
@@ -18999,6 +19097,24 @@
     },
     {
       "album": {
+        "name": "FUORICORSO",
+        "url": "https://open.spotify.com/album/4DzvWWhXQGiqST9tA2sxb9"
+      },
+      "artists": [
+        {
+          "name": "SoDa",
+          "url": "https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190808,
+      "name": "NON PRENDO SONNO",
+      "url": "https://open.spotify.com/track/165wvF6dwjE4nFaCAw5Pmt"
+    },
+    {
+      "album": {
         "name": "non riesco a prendere il sonno",
         "url": "https://open.spotify.com/album/554HSRvaFMDzC8l2skDuHF"
       },
@@ -20412,6 +20528,24 @@
       "duration_ms": 212575,
       "name": "paranoie lowcost",
       "url": "https://open.spotify.com/track/4c7Uw6OhH5tYKw6W2LluQk"
+    },
+    {
+      "album": {
+        "name": "PARCHI VUOTI DI NOTTE",
+        "url": "https://open.spotify.com/album/3QjLIFfJZPo7bGcC2DEFoy"
+      },
+      "artists": [
+        {
+          "name": "Greta Grida",
+          "url": "https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "PARCHI VUOTI DI NOTTE",
+      "url": "https://open.spotify.com/track/7azQ08H91oeshJMPyFaTlf"
     },
     {
       "album": {
@@ -22901,6 +23035,24 @@
     },
     {
       "album": {
+        "name": "ragni",
+        "url": "https://open.spotify.com/album/37AexxtwnxdVEP2B9nPhyb"
+      },
+      "artists": [
+        {
+          "name": "OTTOBRE",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "ragni",
+      "url": "https://open.spotify.com/track/50pdIXnMcKjbDDBJq6WeZ5"
+    },
+    {
+      "album": {
         "name": "RAPPUNK BABY",
         "url": "https://open.spotify.com/album/7CtYnddTzZy5LKxQK1hFRn"
       },
@@ -24519,6 +24671,24 @@
     },
     {
       "album": {
+        "name": "SE TU SOLO VORRAI",
+        "url": "https://open.spotify.com/album/6B2npQSWIXTIr6me9buDEN"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170838,
+      "name": "SE TU SOLO VORRAI",
+      "url": "https://open.spotify.com/track/3gUyWHskD9TBOulf9pUuj9"
+    },
+    {
+      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -25460,7 +25630,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 166274,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/69SUppsyNWgrGfzXYhPp7M"
@@ -29881,6 +30051,24 @@
     },
     {
       "album": {
+        "name": "under pressure",
+        "url": "https://open.spotify.com/album/0UedFRyAY4eaBP8YvmhhKj"
+      },
+      "artists": [
+        {
+          "name": "nicotina",
+          "url": "https://open.spotify.com/artist/2nU09GjOfh4WVzCi57Fy5z"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165271,
+      "name": "under pressure",
+      "url": "https://open.spotify.com/track/3Cs2TD4KcDJm23XO9CbxOf"
+    },
+    {
+      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/3oD19FIRMi2CapEYwwhJ1I"
       },
@@ -30533,6 +30721,24 @@
     },
     {
       "album": {
+        "name": "VESPE",
+        "url": "https://open.spotify.com/album/2baDA6luY6HD9lEEQLFKZ7"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "VESPE",
+      "url": "https://open.spotify.com/track/1sPV5avz4Og5dwY7xlu4TB"
+    },
+    {
+      "album": {
         "name": "Vestita Di Fiori",
         "url": "https://open.spotify.com/album/5omJpBPuoNpIS39W6U7FzF"
       },
@@ -30606,6 +30812,24 @@
       "duration_ms": 186653,
       "name": "Vetro Rotto",
       "url": "https://open.spotify.com/track/70AevUVzQRMsIFGG5fYlse"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/17MGLrfOkmlNFk1aXkv6mp"
+      },
+      "artists": [
+        {
+          "name": "151515!",
+          "url": "https://open.spotify.com/artist/2Yi3CLx7EWKwzPnkDFz0GL"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Via d'Uscita",
+      "url": "https://open.spotify.com/track/3Qiw6L0zotXnqYDL3ZJJG0"
     },
     {
       "album": {
@@ -31505,6 +31729,24 @@
     },
     {
       "album": {
+        "name": "xxxvederti piangere",
+        "url": "https://open.spotify.com/album/5DOhktCkZJnYKxPH7mLOXy"
+      },
+      "artists": [
+        {
+          "name": "d!base",
+          "url": "https://open.spotify.com/artist/7CU478r5PRlwQLFN8Sg5ao"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "xxxvederti piangere",
+      "url": "https://open.spotify.com/track/4ZnM7OA8QqbUkdwQYzZWxJ"
+    },
+    {
+      "album": {
         "name": "you and i could never be friends",
         "url": "https://open.spotify.com/album/2sd7j0t9ceZAMZkXjgoPKM"
       },
@@ -31712,7 +31954,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"

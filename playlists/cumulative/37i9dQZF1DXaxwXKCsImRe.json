@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Spotify curators pick new and exciting artists. RADAR BNLX-artist: <a href=\"spotify:artist:67Hs92fNnRAgFBfL6EePwb\">Aaron Blommaert</a>",
+  "description": "Spotify editors pick new and exciting artists. RADAR BNLX-artist: <a href=\"spotify:artist:7a5xPqxWpIHk4tcdv7bDc6\">MICHA</a>",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 184424,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
@@ -3326,6 +3326,24 @@
       "duration_ms": 170945,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf"
+    },
+    {
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189550,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX"
     },
     {
       "album": {

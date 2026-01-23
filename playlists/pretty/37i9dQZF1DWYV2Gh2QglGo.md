@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,580 likes - 111 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,590 likes - 111 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

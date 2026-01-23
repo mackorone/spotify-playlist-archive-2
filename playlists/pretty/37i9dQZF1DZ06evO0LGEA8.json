@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 306428,
+  "num_followers": 306566,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAACFRb9TCvH3T9YL0eTLFP73",
+  "snapshot_id": "aXAXAAAAAACdwP912TRCMk7QaLkVRlzk",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Minuto",
-        "url": "https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 60116,
-      "name": "Un Minuto",
-      "url": "https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 201952,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 60116,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 300300,
-      "name": "Amor al Arte",
-      "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
+      "duration_ms": 210076,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 210076,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
+      "duration_ms": 300300,
+      "name": "Amor al Arte",
+      "url": "https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
       "duration_ms": 245562,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "Nos Fuimos por Ah\u00ed",
-      "url": "https://open.spotify.com/track/4slqlyEAIve2ZfeJS6iHDk"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 204800,
       "name": "Por Mi Zona",
       "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "Nos Fuimos por Ah\u00ed",
+      "url": "https://open.spotify.com/track/4slqlyEAIve2ZfeJS6iHDk"
     },
     {
       "added_at": null,

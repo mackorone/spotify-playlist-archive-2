@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144888,
       "name": "DA BASS",
       "url": "https://open.spotify.com/track/4A7MPZCy7rVSCdIePZzJUb"
@@ -1958,6 +1958,28 @@
       "duration_ms": 116521,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
+    },
+    {
+      "album": {
+        "name": "FULL POWER",
+        "url": "https://open.spotify.com/album/36RDtwdFZp3c1E7yZ74QzD"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        },
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        }
+      ],
+      "date_added": "2026-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "FULL POWER",
+      "url": "https://open.spotify.com/track/1lVOsllJHEsO9YIfzAaCmm"
     },
     {
       "album": {

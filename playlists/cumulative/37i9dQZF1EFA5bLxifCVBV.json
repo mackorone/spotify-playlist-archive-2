@@ -5238,10 +5238,32 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 194626,
       "name": "What Can You Say In A Love Song",
       "url": "https://open.spotify.com/track/0t1nlXv6c59jcQdRbCS32N"
+    },
+    {
+      "album": {
+        "name": "Big Bad Wolf",
+        "url": "https://open.spotify.com/album/5VX0VwAsAT2hYV5tDexiBw"
+      },
+      "artists": [
+        {
+          "name": "Richard Himber and his Orchestra",
+          "url": "https://open.spotify.com/artist/3Rj3lY5R1BIFD3527AlLSN"
+        },
+        {
+          "name": "Joey Nash",
+          "url": "https://open.spotify.com/artist/66gBsg5HOi1aavC6IyT2ha"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "What Can You Say In a Love Song",
+      "url": "https://open.spotify.com/track/0dutXTt9OSbI5aG7XKWr77"
     },
     {
       "album": {

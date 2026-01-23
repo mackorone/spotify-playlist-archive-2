@@ -10345,6 +10345,28 @@
     },
     {
       "album": {
+        "name": "Let's Take Our Time b/w Flower Moon",
+        "url": "https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223981,
+      "name": "Let's Take Our Time",
+      "url": "https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG"
+    },
+    {
+      "album": {
         "name": "kenopsia",
         "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
       },

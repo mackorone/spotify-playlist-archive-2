@@ -4,7 +4,7 @@
 
 > marrakech season
 
-116 songs - 7 hr 29 min
+118 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Mussulo \(feat\. Doddy\) \[unfazed Remix\]](https://open.spotify.com/track/4q79PsRndcpYTlRBd3PiKj) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Mussulo \(feat\. Doddy\) \[unfazed Remix\]](https://open.spotify.com/album/2EUd2HxVvlaqR6b3drEtnT) | 2:57 | 2025-08-23 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2025-06-27 |  |
 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 | 2025-06-27 |  |
+| [Need You](https://open.spotify.com/track/5XwZGxxs8I1kGA30wyVZyg) | [sentir](https://open.spotify.com/artist/6r4OBarMBELYcEnGXgyorW), [Guaved](https://open.spotify.com/artist/4UKTmKVCyMBoLKqQngeh8g) | [Need You](https://open.spotify.com/album/0FYxO7NpuXp3438qJ0nkHJ) | 2:41 | 2026-01-22 |  |
 | [NGWINO](https://open.spotify.com/track/6R3ew6CXW4vi59YLYcLHRi) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a) | [NGWINO](https://open.spotify.com/album/1O3Yzl0awm3N6kATjTwQgs) | 8:37 | 2025-06-27 | 2025-08-24 |
 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2025-08-13 |  |
 | [No More](https://open.spotify.com/track/2UZy2WD3j624e5a9pkeVuf) | [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs), [Kalyma](https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo) | [No More](https://open.spotify.com/album/30prUgNDVMLkSlHuNnug4t) | 4:42 | 2025-10-03 | 2025-10-14 |
@@ -103,6 +104,7 @@
 | [Soft](https://open.spotify.com/track/4NN84VDgdhviZawxbzZhhM) | [Ewerseen](https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG), [Jaquet](https://open.spotify.com/artist/36lN5NolUGQxNHcICDgOTu) | [Soft](https://open.spotify.com/album/6Qx319Km3bpBiHWuOtLszP) | 3:30 | 2025-07-07 |  |
 | [Special](https://open.spotify.com/track/3P8foaWa703hSuKls9vpMx) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Special](https://open.spotify.com/album/0ByeGJA6FaPfbgnpq7mD97) | 2:44 | 2025-10-23 |  |
 | [Stranger](https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Bautiii](https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9) | [Stranger](https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB) | 3:06 | 2025-08-02 |  |
+| [Sunrise \(Adam Ten Remix\)](https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Sunrise \(Remixes\)](https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1) | 3:48 | 2026-01-22 |  |
 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 | 2025-06-27 | 2025-08-03 |
 | [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 | 2025-06-27 | 2025-07-02 |
 | [Tayerza](https://open.spotify.com/track/3UmvxbHGLbl6WYjkkvbgvT) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [TASUTA N\-IMAL](https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz) | [Tayerza](https://open.spotify.com/album/4v7zMEJxR3PCu1pngljABi) | 4:22 | 2025-10-03 |  |

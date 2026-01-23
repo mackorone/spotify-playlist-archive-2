@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "my alt/pop could mean anything \u2694\ufe0f cover: Charli xcx",
+  "description": "my alt/pop could mean anything \u2694\ufe0f cover: hemlocke springs",
   "name": "alt/pop",
   "tracks": [
     {
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 216500,
       "name": "DAYLIGHT SAVINGS",
       "url": "https://open.spotify.com/track/1S2lOS0vWfI5nvSrCB6JjP"
@@ -4673,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "I Make Me Wanna Go Dancing With Me",
+        "url": "https://open.spotify.com/album/0IUEZnjM5xTmxFZQrc76tY"
+      },
+      "artists": [
+        {
+          "name": "SKINSHIP",
+          "url": "https://open.spotify.com/artist/1np9bHZkaVv1mtYva42QM7"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233740,
+      "name": "I Make Me Wanna Go Dancing With Me",
+      "url": "https://open.spotify.com/track/7n1LlN3SlJIrBV05GLCOet"
+    },
+    {
+      "album": {
         "name": "I Swear",
         "url": "https://open.spotify.com/album/7y07HAqwMMFkJS8kw5gEbf"
       },
@@ -5074,6 +5092,24 @@
       "duration_ms": 131134,
       "name": "infinyte",
       "url": "https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g"
+    },
+    {
+      "album": {
+        "name": "iNSOMNiAC",
+        "url": "https://open.spotify.com/album/6VAudXPDYWxC3kECysc8zw"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165047,
+      "name": "iNSOMNiAC",
+      "url": "https://open.spotify.com/track/1wl9sRI946fOxewS3k2ExF"
     },
     {
       "album": {
@@ -5734,6 +5770,28 @@
       "duration_ms": 159152,
       "name": "LCA",
       "url": "https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/0ha55i7NcC11bRLjQhFh80"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233486,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/2S5gnw0IFfABbzxlDyjlGG"
     },
     {
       "album": {
@@ -7326,7 +7384,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 174000,
       "name": "PARALYSED",
       "url": "https://open.spotify.com/track/7x5siS0kelqoM5nrAniNQb"
@@ -7832,7 +7890,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 168000,
       "name": "Rain in the Dark",
       "url": "https://open.spotify.com/track/3v269OrL2F3dEeqBDyi9Dv"
@@ -8410,7 +8468,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177754,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/6pwOKAqlSXT5fItVRXiqen"
@@ -9492,7 +9550,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 182557,
       "name": "The Olympics",
       "url": "https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU"
@@ -9959,6 +10017,24 @@
     },
     {
       "album": {
+        "name": "w-w-w-w-w",
+        "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "w-w-w-w-w",
+      "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
+    },
+    {
+      "album": {
         "name": "Blue Sky Mentality",
         "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
@@ -10082,6 +10158,24 @@
       "duration_ms": 128382,
       "name": "What If You're The Love of My Life?",
       "url": "https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn"
+    },
+    {
+      "album": {
+        "name": "What Kind of Man",
+        "url": "https://open.spotify.com/album/76GNBPdGwlWEZqpZwMO26W"
+      },
+      "artists": [
+        {
+          "name": "Ingrid",
+          "url": "https://open.spotify.com/artist/2hgF3e8mroWl4JbVP7zdjO"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "What Kind of Man",
+      "url": "https://open.spotify.com/track/0MID0fQyT7ExP2U0jXv3cO"
     },
     {
       "album": {

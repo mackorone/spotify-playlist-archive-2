@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Rubina
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Kris Dayanti
 
-564 songs - 1 day 9 hr 0 min
+569 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Books Of Life](https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Books Of Life](https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG) | 3:46 | 2024-11-07 | 2025-09-30 |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 | 2025-01-24 |
 | [Brave 2 Run](https://open.spotify.com/track/03DfXnXlswkzIiQICOqtb2) | [Bertrand Tio](https://open.spotify.com/artist/4QrtjZy2Cjn9QvciYwnFYY) | [Brave 2 Run](https://open.spotify.com/album/0NDODoqmatndV5vrHejfJU) | 2:56 | 2025-02-06 | 2025-04-18 |
+| [Breathless](https://open.spotify.com/track/0KvqkQRa7bPYDKjAv8jVwD) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Breathless](https://open.spotify.com/album/4YwP3HV6ZhSRhTkLBV9lv0) | 3:28 | 2026-01-22 |  |
 | [Bring It On](https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [A to Z](https://open.spotify.com/album/5Uwg2KxTq43qPGJkAYWrlR) | 4:08 | 2025-05-08 | 2025-07-11 |
 | [bruxism or, why i'm afraid of earthquakes](https://open.spotify.com/track/4UDkUxRu5l9BsMXeBPfF9I) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [bruxism or, why i'm afraid of earthquakes](https://open.spotify.com/album/2nKwkUjMCoqNyhUhK4PPCX) | 4:54 | 2024-07-25 | 2024-09-27 |
 | [Burning Room](https://open.spotify.com/track/5bHhl4whMW8AiKojst05Z8) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Burning Room](https://open.spotify.com/album/3p7A55YRoa176Cc3MhBNpG) | 3:17 | 2024-08-29 | 2025-01-24 |
@@ -208,6 +209,7 @@
 | [Going Up](https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Going Up](https://open.spotify.com/album/5WoZedpwDHzf7auzddAjLN) | 2:58 | 2024-10-03 | 2024-11-16 |
 | [Gone, Gone Again](https://open.spotify.com/track/3lLQXvcJwJezHqcnSSXvOk) | [Michael Rickard](https://open.spotify.com/artist/45Ci3JIPLftPkHA30hEH1b) | [Gone, Gone Again](https://open.spotify.com/album/6CuBCqYED6RUZdn3niCeeU) | 3:25 | 2025-05-15 | 2025-06-13 |
 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 | 2025-05-09 |
+| [Good Enough](https://open.spotify.com/track/3IVgjVRh8yWqIa1gLJ63MB) | [Dianya](https://open.spotify.com/artist/3NGC4lgVGHmuygxsUevckF) | [Not 21 Anymore](https://open.spotify.com/album/0XXq3IzO0k73sqxjggNaeJ) | 2:28 | 2026-01-22 |  |
 | [GOOD GIRL](https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [GOOD GIRL](https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi) | 2:53 | 2025-06-26 | 2025-08-08 |
 | [Good Morning, Goodbye](https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Good Morning, Goodbye](https://open.spotify.com/album/1BFvEfpMYM71nuRxbdANUA) | 3:21 | 2025-11-13 |  |
 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 | 2024-08-01 | 2024-09-27 |
@@ -262,6 +264,7 @@
 | [iamwhoiam](https://open.spotify.com/track/6tBpJD3UgzAw7LytOja8hd) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn) | [iamwhoiam](https://open.spotify.com/album/3dt2D11xSFiklfB9OK1jrZ) | 4:48 | 2025-05-01 | 2025-06-13 |
 | [Idea of You](https://open.spotify.com/track/4zfbfAmuxAD4Eevm1Kr7tN) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Idea of You](https://open.spotify.com/album/5PIXEonnpeD2zCG81NDXJn) | 2:39 | 2024-10-31 | 2025-01-24 |
 | [If I Try](https://open.spotify.com/track/0qIgVDoNehrhbtGxB5HOTr) | [Emma Elliott](https://open.spotify.com/artist/40XszRQeZirel3YEpF2SNp) | [If I Try](https://open.spotify.com/album/3RHZL0wgxQAg0uq1dQZ7cy) | 3:48 | 2025-03-13 | 2025-05-02 |
+| [If Only](https://open.spotify.com/track/10senvCSUmMPgm4Yg6rbZF) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [](https://open.spotify.com/album/null) | 3:46 | 2026-01-22 |  |
 | [If Only](https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI) | [The Skuy](https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z) | [If Only](https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL) | 4:01 | 2025-10-09 |  |
 | [if only...](https://open.spotify.com/track/3bP8ZYJTjTdy1o9bUt0js3) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [if only...](https://open.spotify.com/album/6GOpBfDK3f8H0gSi3eeGq1) | 3:35 | 2025-02-13 |  |
 | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1K2t17fCXJVxFleVhJ6t83) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q), [Dea Panendra](https://open.spotify.com/artist/3kv4PpsOBcljrFU6KIQCmN) | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ez23Xkb9bwDJ2TvswbQii) | 3:59 | 2024-11-07 | 2025-09-30 |
@@ -552,6 +555,7 @@
 | [What I Feel](https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [What I Feel](https://open.spotify.com/album/5at426bQhyBfRE6SoOf3X8) | 4:26 | 2025-11-06 |  |
 | [what if we both loved each other still?](https://open.spotify.com/track/7bTrKXKGFsfzBbFyEw1z5g) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [PISCEE](https://open.spotify.com/artist/0pLM4IyW9R8mqxe9t36ikW) | [what if we both loved each other still?](https://open.spotify.com/album/1h5jJC1l85dOW2UTXULsZ4) | 3:55 | 2025-12-04 |  |
 | [Where Are You Christmas?](https://open.spotify.com/track/2pCXRjuPLX8ZOtHqMzJY7X) | [Meda Kawu](https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr) | [Christmas According To...](https://open.spotify.com/album/5yMeGEZolGBWuiPIDZIi6K) | 2:44 | 2024-12-05 | 2025-03-14 |
+| [Where Do I Belong?](https://open.spotify.com/track/2YZ47x6E6vhgsWbr6YjlSY) | [Rivo Alfahrezy](https://open.spotify.com/artist/33vmHJJUmpOHeiPIHxeBJq), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Where Do I Belong?](https://open.spotify.com/album/6Ymsgm97FLAixeMQQ7kDjh) | 4:06 | 2026-01-23 |  |
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [Where the Wind Takes Me](https://open.spotify.com/track/1p7SGM0ojsAVGuWtXkgeTa) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Where the Wind Takes Me](https://open.spotify.com/album/6tpOkpi2e1pYqXGkZa6neQ) | 3:50 | 2025-02-28 | 2025-10-31 |
 | [Whisper of Chaos](https://open.spotify.com/track/7cil0TbMuwQJVW1VAcnUp2) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Whisper of Chaos](https://open.spotify.com/album/6MEH3djq944O9V9qtHQmQB) | 3:50 | 2025-07-03 | 2025-08-22 |
@@ -561,6 +565,7 @@
 | [wish](https://open.spotify.com/track/6b1vX7JCmPs0PJ9SiCUrfi) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [wish](https://open.spotify.com/album/518U4ClFTfd27cyWt0PU6a) | 3:13 | 2024-07-23 | 2024-09-27 |
 | [With You](https://open.spotify.com/track/5iqGjegieFX6k8mi8KmPu9) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj), [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [With You](https://open.spotify.com/album/6yNqjn10LSEtt9jtWy1qpG) | 3:02 | 2024-07-11 | 2024-09-27 |
 | [Work](https://open.spotify.com/track/1OSjWD47U8orLBna4Onysa) | [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD), [Jessica Sicillia](https://open.spotify.com/artist/0H80ce8otOHo4nW7YlcKRn), [Willy Winarko](https://open.spotify.com/artist/1ZF0HA5IH5YwG99h7RgYfI) | [Work](https://open.spotify.com/album/173NsD4rmW4wOh55fzQSSf) | 3:15 | 2025-01-30 | 2025-04-11 |
+| [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 | 2026-01-22 |  |
 | [World On Fire](https://open.spotify.com/track/3F3ZI125ELpWlJTSGV7rOy) | [Nicole Kyra](https://open.spotify.com/artist/65iMWFv4pQ3IaJbmIjkVt4) | [World On Fire](https://open.spotify.com/album/1TK3S2rxCh4XgMdBJ7IRYq) | 3:25 | 2025-05-08 | 2025-07-11 |
 | [Worth](https://open.spotify.com/track/2WSoAaoehLttG8QHoeFtrE) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Worth](https://open.spotify.com/album/3f7pCL5o6C6PsDJxrucVNz) | 2:55 | 2024-06-27 | 2024-08-02 |
 | [Would You Stay?](https://open.spotify.com/track/6eUJFyludmHQok1a4TBcOE) | [Jane Callista](https://open.spotify.com/artist/7CI7ZsOBkOkmB9Q1xl2uEl) | [Would You Stay?](https://open.spotify.com/album/5tgZ45JSsb1GWyLKOGBAwe) | 4:53 | 2024-10-10 | 2024-11-16 |

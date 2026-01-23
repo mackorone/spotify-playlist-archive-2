@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "un misterioso prima stanza a destra in cover di una (misteriosa?) indie italia ",
+  "description": "Ciao Cosmo vieni qui che ti abbracciamo \ud83d\udc4b\ud83c\udffb\ud83e\udec2\ud83d\udc96",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Luned\u00ec",
+        "url": "https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo"
+      },
+      "artists": [
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178772,
+      "name": "Col tuo nome",
+      "url": "https://open.spotify.com/track/04vbMHJkXt0kjPQoxdqvRf"
+    },
+    {
+      "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192838,
       "name": "Gente Intelligente (con Franco126)",
       "url": "https://open.spotify.com/track/4mJgnqp92FEPiyYKJnvv43"
@@ -4313,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "Luned\u00ec",
+        "url": "https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo"
+      },
+      "artists": [
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198540,
+      "name": "Mao",
+      "url": "https://open.spotify.com/track/3R9z5gVkW83FPI3b1yVlph"
+    },
+    {
+      "album": {
         "name": "LA VACANZA",
         "url": "https://open.spotify.com/album/3feilFBJs9Sth0r4BwizKX"
       },
@@ -4354,6 +4390,24 @@
       "duration_ms": 179405,
       "name": "Marco",
       "url": "https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u"
+    },
+    {
+      "album": {
+        "name": "Marzo Beige",
+        "url": "https://open.spotify.com/album/7fF6zXf4c4TXfBceajLRFL"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Marzo Beige",
+      "url": "https://open.spotify.com/track/2vOwmqcjNLQefZA1ckRlMy"
     },
     {
       "album": {
@@ -5844,7 +5898,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 205150,
       "name": "Piazzale degli Eroi",
       "url": "https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX"
@@ -7436,7 +7490,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 184995,
       "name": "Telephone Tango",
       "url": "https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9"
@@ -8474,7 +8528,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 153311,
       "name": "Voglia",
       "url": "https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct"

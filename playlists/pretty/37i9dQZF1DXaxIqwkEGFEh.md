@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,854 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,953 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 37 | [She In Love wit a Dumper](https://open.spotify.com/track/2442V7kNJlE7RkNIKX5Vhi) | [Ball Hog q](https://open.spotify.com/artist/6v2FZaFKiuy72FJBQn6xaC), [Tae](https://open.spotify.com/artist/6FnzsU2FLnsvPFHRAmivZ4) | [She In Love wit a Dumper](https://open.spotify.com/album/3tTIk7sHcUZQh55wkHzHbQ) | 1:59 |
 | 38 | [F\*\*k That Ni\*\*a \(feat\. YoungBoy Never Broke Again & Herm Tha Blacksheep\)](https://open.spotify.com/track/0FhYyC39xc3ueYuIdtO0ml) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Herm Tha Blacksheep](https://open.spotify.com/artist/6w0Iuyn54jO5fBsBDMvMH0) | [F\*\*k That Ni\*\*a](https://open.spotify.com/album/6kR6FGJOz73Ouv1etSqjSJ) | 2:28 |
 | 39 | [Thug Club](https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thug Club](https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2) | 2:16 |
-| 40 | [Letter To My YN](https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Letter To My YN](https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu) | 3:11 |
+| 40 | [LETTER TO MY YN](https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LETTER TO MY YN](https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu) | 3:11 |
 | 41 | [Reason](https://open.spotify.com/track/7J2qErp3ktumwqAKRwnck8) | [LIL 2K](https://open.spotify.com/artist/5wNxMbfvCSGHGTCA0XpuwH) | [Reason](https://open.spotify.com/album/7i0q4bZRZ96THexN1NIM40) | 2:55 |
 | 42 | [Decisions \- Remix](https://open.spotify.com/track/0Pxug7GU6Def6Vuibf6fAq) | [Big Ro6](https://open.spotify.com/artist/4Jucp7VkE23J0DndVXzJGM), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Decisions \(Remix\)](https://open.spotify.com/album/2KhdwfAr95i9rRW3YJdZ4O) | 3:02 |
 | 43 | [Epstein Files](https://open.spotify.com/track/7LrK2rrV2zvXci06oRLjIr) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Olympic Shit Talking](https://open.spotify.com/album/2StcMYF0c94euVHyEQX3Y9) | 3:54 |

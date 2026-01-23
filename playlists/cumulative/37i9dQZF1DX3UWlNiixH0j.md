@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 二階堂和美 Kazumi Nikaido
 
-2,949 songs - 7 day 16 hr 47 min
+2,950 songs - 7 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-10-31 | 2023-12-10 |
 | [BILLIE](https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [BILLIE](https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc) | 3:51 | 2025-12-16 |  |
 | [bit down](https://open.spotify.com/track/31VoBooxFfYM9m2MHegcsv) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [bit down](https://open.spotify.com/album/0aZnC1fyY8SJlx41rnzBdE) | 3:29 | 2024-05-28 | 2024-06-05 |
+| [BITTERSWEET](https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [BITTERSWEET](https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq) | 3:17 | 2026-01-20 |  |
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-11 | 2024-09-18 |
 | [Blank Agenda](https://open.spotify.com/track/0Vs1daACzZ37jRvkbKdKKD) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [Ancient Moods Mahollova Mind](https://open.spotify.com/album/1LgquUBsctr0v68Jh3fKpF) | 4:01 | 2024-06-25 | 2024-07-10 |
 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2023-01-12 | 2023-03-01 |
@@ -277,7 +278,7 @@
 | [chasing shadows](https://open.spotify.com/track/4WHz9iiduN9cJ3QysDrRSP) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Nature and Computers](https://open.spotify.com/album/2wkyePDEqzYoOoro3TvThK) | 3:40 | 2024-09-17 | 2024-10-09 |
 | [CHELSEA](https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [CHELSEA](https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7) | 3:31 | 2023-10-17 | 2023-12-14 |
 | [Cherry on Top](https://open.spotify.com/track/4bPPrzm53NFPn5pYpsBn3j) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Cherry on Top](https://open.spotify.com/album/1bbhJweeXN7bQrtRdsJ2DA) | 2:50 | 2023-03-28 | 2023-04-26 |
-| [Chicken Crisp](https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Chicken Crisp](https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek) | 4:26 | 2026-01-20 |  |
+| [Chicken Crisp \- FKD Remix](https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Chicken Crisp \(FKD Remix\)](https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek) | 4:26 | 2026-01-20 |  |
 | [Chikagoro](https://open.spotify.com/track/4i3K5TI8ue5mQYFZtfVpra) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Chikagoro](https://open.spotify.com/album/5K5ldJPDAH5WBvU0WT7YNL) | 3:54 | 2024-04-10 | 2024-04-19 |
 | [Cho\-chocolate drip](https://open.spotify.com/track/6mrv5bDHrD72t0nYwPKFLW) | [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Cho\-chocolate drip](https://open.spotify.com/album/3wDDXAgLY3IGNdHsX3imyf) | 2:56 | 2023-04-04 | 2023-04-12 |
 | [CICADA](https://open.spotify.com/track/2ukLH1to1c0fXxPd5GuKlv) | [Barrier Reef](https://open.spotify.com/artist/7jHjcuKk3tbyerXqvaZOWp) | [CICADA](https://open.spotify.com/album/4rNWrIDx478k8ds2quCDAW) | 3:47 | 2023-07-06 | 2023-07-12 |
@@ -1619,7 +1620,7 @@
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-02-14 |
 | [Sway](https://open.spotify.com/track/0cxHahki62Il8grUpVOymf) | [Barbara](https://open.spotify.com/artist/5L4cL58h70X4usTwKuvmQk) | [Sway](https://open.spotify.com/album/6No2MfukzpkiCBO0OWl00l) | 3:16 | 2024-04-30 | 2024-05-08 |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-03-22 |
-| [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 | 2025-11-18 |  |
+| [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 | 2025-11-18 | 2026-01-23 |
 | [Sweet Cherry](https://open.spotify.com/track/50yh6IKYA8b7y6ydZypdfj) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Sweet Cherry](https://open.spotify.com/album/7vjFmZN5LluhVrNAbysold) | 4:36 | 2024-07-16 | 2024-07-24 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-06-25 |
 | [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 | 2024-02-21 |

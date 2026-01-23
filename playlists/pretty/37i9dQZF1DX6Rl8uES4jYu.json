@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 233554,
+  "num_followers": 233531,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6TJFsl2pPJGsoJCKTiqoBr6eKG",
+  "snapshot_id": "AAAAAIBg9ZxWz7RrHva8W5pXjeTT+HFa",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:36",
@@ -1611,34 +1611,6 @@
       "duration_ms": 176340,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Sad Songs",
-        "url": "https://open.spotify.com/album/6Bq9U6Ka2k2un3KLqiLbOY"
-      },
-      "artists": [
-        {
-          "name": "Eric Hutchinson",
-          "url": "https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4"
-        },
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        },
-        {
-          "name": "Clyde Lawrence",
-          "url": "https://open.spotify.com/artist/6MvAhgguWcse6KN2pwv4MP"
-        },
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 238469,
-      "name": "Sad Songs (feat. Allen Stone, Clyde Lawrence, Huntertones)",
-      "url": "https://open.spotify.com/track/5Dn5BjKtgOdV38s9KWJqX6"
     },
     {
       "added_at": "2023-06-02 04:01:00",

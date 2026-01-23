@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Omoinotake
 
-1,517 songs - 3 day 14 hr 57 min
+1,518 songs - 3 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@
 | [Ms\. U](https://open.spotify.com/track/4pnqlhfJhGMVOY72NZdqaq) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Ms\. U](https://open.spotify.com/album/78mbgmakgs35BkiafqFNSU) | 3:34 | 2024-03-12 | 2024-04-10 |
 | [MUNSELL](https://open.spotify.com/track/62k0Cz5Fyvdu68fTw79NOc) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [FANDOM](https://open.spotify.com/album/75MlTuVdRhdfESa3VSv595) | 3:06 | 2025-09-09 | 2025-09-17 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-18 | 2025-04-16 |
-| [MUSEIGEN \(feat\. C6ix, Bonbero & ANI\)](https://open.spotify.com/track/0hK7m6uqTo0UVyTR1aztoa) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C6ix](https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [ani schadaraparr](https://open.spotify.com/artist/2pjD7lKQora5HlPSHihEsJ) | [MUSEIGEN](https://open.spotify.com/album/0b4RTaIpsu74RktCCwyAZD) | 5:27 | 2025-12-23 |  |
+| [MUSEIGEN \(feat\. C6ix, Bonbero & ANI\)](https://open.spotify.com/track/0hK7m6uqTo0UVyTR1aztoa) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C6ix](https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [ani schadaraparr](https://open.spotify.com/artist/2pjD7lKQora5HlPSHihEsJ) | [MUSEIGEN](https://open.spotify.com/album/0b4RTaIpsu74RktCCwyAZD) | 5:27 | 2025-12-23 | 2026-01-23 |
 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2025-10-14 | 2025-12-10 |
 | [My Life](https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I'll Be Cute When You See Me](https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg) | 3:21 | 2024-01-28 | 2024-03-20 |
 | [MY LIFE](https://open.spotify.com/track/1Fy3dclV9os643JfeEmNkz) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [MY LIFE](https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya) | 3:34 | 2024-04-30 | 2024-06-26 |
@@ -1203,6 +1203,7 @@
 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 | 2023-12-26 | 2024-01-24 |
 | [偉生人](https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [偉生人](https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw) | 3:28 | 2025-11-04 | 2025-12-24 |
 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 | 2024-01-16 | 2024-02-14 |
+| [傍らにて月夜](https://open.spotify.com/track/0o73gjLRlk3XPivSBvZGAV) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [傍らにて月夜](https://open.spotify.com/album/6Wxykt1HUiXg9UT438LVqJ) | 4:24 | 2026-01-22 |  |
 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2024-01-10 | 2024-04-24 |
 | [僕だけの矛盾](https://open.spotify.com/track/0JbdUM8Bx8ax24Q50EHzB4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [僕だけの矛盾](https://open.spotify.com/album/2H2lOVsdIvonip4PmKqFfW) | 4:14 | 2025-12-02 | 2026-01-15 |
 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 | 2025-04-29 | 2025-06-25 |

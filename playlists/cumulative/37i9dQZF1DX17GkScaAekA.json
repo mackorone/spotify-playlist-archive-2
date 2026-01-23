@@ -803,6 +803,36 @@
     },
     {
       "album": {
+        "name": "La passante du Sans-Souci",
+        "url": "https://open.spotify.com/album/5U3Q1jD2WhzAqOjEbK0yog"
+      },
+      "artists": [
+        {
+          "name": "Georges Delerue",
+          "url": "https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Les Si\u00e8cles",
+          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
+        },
+        {
+          "name": "Duncan Ward",
+          "url": "https://open.spotify.com/artist/39WxITwf1epxevcYQ4DbF1"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "Delerue: La passante du Sans-Souci",
+      "url": "https://open.spotify.com/track/0VgsJeslY176suMw8tZgou"
+    },
+    {
+      "album": {
         "name": "Debussy, Ravel: Piano Music",
         "url": "https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ"
       },
@@ -1382,36 +1412,6 @@
       "duration_ms": 119160,
       "name": "La catedral: I. Preludio (Saudade)",
       "url": "https://open.spotify.com/track/1N1zNKs5kVMIAzDDt6Thwc"
-    },
-    {
-      "album": {
-        "name": "La passante du Sans-Souci",
-        "url": "https://open.spotify.com/album/5U3Q1jD2WhzAqOjEbK0yog"
-      },
-      "artists": [
-        {
-          "name": "Georges Delerue",
-          "url": "https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Les Si\u00e8cles",
-          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
-        },
-        {
-          "name": "Duncan Ward",
-          "url": "https://open.spotify.com/artist/39WxITwf1epxevcYQ4DbF1"
-        }
-      ],
-      "date_added": "2024-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 260519,
-      "name": "La passante du Sans-Souci",
-      "url": "https://open.spotify.com/track/0VgsJeslY176suMw8tZgou"
     },
     {
       "album": {

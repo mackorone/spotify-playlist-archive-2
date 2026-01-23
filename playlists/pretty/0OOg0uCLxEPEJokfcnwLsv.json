@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 635,
+  "num_followers": 641,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEi1t2UOudUmjxvjIL46q7ml++xfkA",
+  "snapshot_id": "AAAElqnuwwUv7DvfUFAWyGdat8yLTb9s",
   "tracks": [
     {
       "added_at": "2026-01-17 03:53:38",
@@ -315,6 +315,22 @@
       "duration_ms": 253959,
       "name": "Another Road",
       "url": "https://open.spotify.com/track/240unn2aJKGurliwi6lJF2"
+    },
+    {
+      "added_at": "2026-01-22 04:29:57",
+      "album": {
+        "name": "GROWING",
+        "url": "https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW"
+      },
+      "artists": [
+        {
+          "name": "Lupo Prospero",
+          "url": "https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J"
+        }
+      ],
+      "duration_ms": 169734,
+      "name": "GROWING",
+      "url": "https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR"
     },
     {
       "added_at": "2025-11-09 13:57:43",
@@ -959,6 +975,166 @@
       "duration_ms": 236000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0gsnHqolhDY9SndsectfOQ"
+    },
+    {
+      "added_at": "2026-01-22 04:02:01",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ"
+    },
+    {
+      "added_at": "2026-01-22 04:03:35",
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6"
+      },
+      "artists": [
+        {
+          "name": "The Liquid",
+          "url": "https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp"
+        }
+      ],
+      "duration_ms": 160917,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD"
+    },
+    {
+      "added_at": "2026-01-22 04:15:39",
+      "album": {
+        "name": "Pale Face",
+        "url": "https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5"
+      },
+      "artists": [
+        {
+          "name": "Katrina",
+          "url": "https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o"
+        }
+      ],
+      "duration_ms": 262633,
+      "name": "Pale Face",
+      "url": "https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9"
+    },
+    {
+      "added_at": "2026-01-22 04:15:48",
+      "album": {
+        "name": "She's My Witch",
+        "url": "https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu"
+      },
+      "artists": [
+        {
+          "name": "Katrina",
+          "url": "https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o"
+        }
+      ],
+      "duration_ms": 146068,
+      "name": "She's My Witch",
+      "url": "https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ"
+    },
+    {
+      "added_at": "2026-01-22 04:26:02",
+      "album": {
+        "name": "It's Not Much But It's Honest",
+        "url": "https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI"
+      },
+      "artists": [
+        {
+          "name": "Chase Cavanaugh",
+          "url": "https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "It's Not Much But It's Honest",
+      "url": "https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC"
+    },
+    {
+      "added_at": "2026-01-22 15:18:31",
+      "album": {
+        "name": "Fading Silhouette",
+        "url": "https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk"
+      },
+      "artists": [
+        {
+          "name": "Indie Indie",
+          "url": "https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa"
+        }
+      ],
+      "duration_ms": 235153,
+      "name": "I'm not awake",
+      "url": "https://open.spotify.com/track/62rbl7R33LsdBWDaN2r8OV"
+    },
+    {
+      "added_at": "2026-01-22 15:23:19",
+      "album": {
+        "name": "Injustice For All",
+        "url": "https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt"
+      },
+      "artists": [
+        {
+          "name": "Barmy Rote",
+          "url": "https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W"
+        }
+      ],
+      "duration_ms": 317131,
+      "name": "Stunned & Confused",
+      "url": "https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si"
+    },
+    {
+      "added_at": "2026-01-22 15:30:20",
+      "album": {
+        "name": "Dreamscape Odyssey",
+        "url": "https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD"
+      },
+      "artists": [
+        {
+          "name": "CRAZY PARTY",
+          "url": "https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup"
+        }
+      ],
+      "duration_ms": 306565,
+      "name": "I Have No Fear",
+      "url": "https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr"
+    },
+    {
+      "added_at": "2026-01-22 15:30:43",
+      "album": {
+        "name": "Dreamscape Odyssey",
+        "url": "https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD"
+      },
+      "artists": [
+        {
+          "name": "CRAZY PARTY",
+          "url": "https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup"
+        }
+      ],
+      "duration_ms": 279673,
+      "name": "A Candle's Night",
+      "url": "https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5"
+    },
+    {
+      "added_at": "2026-01-22 15:34:26",
+      "album": {
+        "name": "VITRUM",
+        "url": "https://open.spotify.com/album/056vQabi5S1twEzRiW8o2y"
+      },
+      "artists": [
+        {
+          "name": "Delirio",
+          "url": "https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G"
+        }
+      ],
+      "duration_ms": 273927,
+      "name": "M\u00e1s Dulce que Gris",
+      "url": "https://open.spotify.com/track/2bvd7uARfmVQ1GDtuoQSlT"
     }
   ],
   "unique_name": "Unsigned Rock",

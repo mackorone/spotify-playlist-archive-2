@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 160880,
       "name": "Cinco e Meia",
       "url": "https://open.spotify.com/track/6KGVT9dt9Avdo3uKXWt2me"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 213040,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 214109,
       "name": "Give Me All",
       "url": "https://open.spotify.com/track/56uetQSeOmm7afx8sKrOyq"
@@ -4167,6 +4167,28 @@
     },
     {
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/0SLtiqiwvr96f5M7znVlVz"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194837,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/7nOfsfzqT11Ce31HXQ1Fqi"
+    },
+    {
+      "album": {
         "name": "Marcha",
         "url": "https://open.spotify.com/album/2bGlrBJqASDb7raOG7XB5I"
       },
@@ -4879,6 +4901,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Pedro Ricardo",
+          "url": "https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95361,
+      "name": "Num Dia de Manh\u00e3",
+      "url": "https://open.spotify.com/track/0u9si0zYGMesGWFx7Ns1XI"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Durmo Bem",
         "url": "https://open.spotify.com/album/5DqW9O0aEhcoyniBJYrHTo"
       },
@@ -5038,7 +5082,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 101599,
       "name": "O Sol Sangra",
       "url": "https://open.spotify.com/track/5bnpbLonAjSXl0npflo8iq"
@@ -5118,7 +5162,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 155483,
       "name": "Oh M\u00e3e Oh Pai",
       "url": "https://open.spotify.com/track/50W2B04EhZs2cxmD6tyIXJ"
@@ -5318,6 +5362,24 @@
       "duration_ms": 197647,
       "name": "Para Sempre",
       "url": "https://open.spotify.com/track/7qlZAnOdtuZnpG5iH46enD"
+    },
+    {
+      "album": {
+        "name": "Paracetamol",
+        "url": "https://open.spotify.com/album/40udlbaWhFIquxsn4yIPqg"
+      },
+      "artists": [
+        {
+          "name": "S. PEDRO",
+          "url": "https://open.spotify.com/artist/5k3R2vdBtoL88QHXGqZN56"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169892,
+      "name": "Paracetamol",
+      "url": "https://open.spotify.com/track/7hu5edQuJCTMEnKbox10mC"
     },
     {
       "album": {
@@ -5622,6 +5684,24 @@
       "duration_ms": 144000,
       "name": "pod\u00edamos ser n\u00f3s",
       "url": "https://open.spotify.com/track/7rWYvfOX3c6JoenZBxQFYI"
+    },
+    {
+      "album": {
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/1LWrPapQOUbhHKyPbEFhCF"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Cid",
+          "url": "https://open.spotify.com/artist/1oowLCcSBurZzYTpaR0Ep4"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203431,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/26W9LkNg5LebR0NyuphTa9"
     },
     {
       "album": {
@@ -6011,6 +6091,28 @@
     },
     {
       "album": {
+        "name": "Quem N\u00e3o Sabe Amar",
+        "url": "https://open.spotify.com/album/5a313XQkIxQyge1bETcJKJ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o S\u00f3",
+          "url": "https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he"
+        },
+        {
+          "name": "Tiago Nogueira",
+          "url": "https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Quem N\u00e3o Sabe Amar",
+      "url": "https://open.spotify.com/track/5DDNPnJZqUhH0qdau8R0jc"
+    },
+    {
+      "album": {
         "name": "Quem?",
         "url": "https://open.spotify.com/album/0b9TMwvS4N9kWOhVpeScG6"
       },
@@ -6160,6 +6262,24 @@
       "duration_ms": 240000,
       "name": "Re-Come\u00e7o (feat. BISPO)",
       "url": "https://open.spotify.com/track/37o3U6VTkiwlzKeIJAPvUn"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RHEt7a31vDEVM9jS1lpvE"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/1XDJv6oiATTKhMc5xwLXsJ"
     },
     {
       "album": {
@@ -7628,7 +7748,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 196874,
       "name": "Volta Atr\u00e1s",
       "url": "https://open.spotify.com/track/2kwVWRa2ZjOCeyhHbrX3VQ"

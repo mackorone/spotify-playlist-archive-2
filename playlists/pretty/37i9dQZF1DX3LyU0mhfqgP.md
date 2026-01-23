@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Luna Ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,272 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,247 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,18 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 34 | [Czerwone ledy](https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Czerwone ledy](https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7) | 4:21 |
 | 35 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
 | 36 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |
-| 37 | [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 |
-| 38 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
+| 37 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
+| 38 | [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 |
 | 39 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 | 40 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 |
-| 41 | [π\-NOQUIO](https://open.spotify.com/track/1WxBr0pDE5FEchxzhO5xxR) | [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [XENONEXO](https://open.spotify.com/album/2Xdj4c0dXShhLwoMNEzDky) | 2:52 |
-| 42 | [Running Home](https://open.spotify.com/track/27NFYSQxYnRVqEwuIaunqF) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 3:44 |
+| 41 | [Running Home](https://open.spotify.com/track/27NFYSQxYnRVqEwuIaunqF) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 3:44 |
+| 42 | [π\-NOQUIO](https://open.spotify.com/track/1WxBr0pDE5FEchxzhO5xxR) | [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [XENONEXO](https://open.spotify.com/album/2Xdj4c0dXShhLwoMNEzDky) | 2:52 |
 | 43 | [rosie](https://open.spotify.com/track/7ywAHrYeNA4afPreBAGzl2) | [FVNERAL](https://open.spotify.com/artist/2qmnL8WsvCaZ6sEicAJPkA), [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [rosie](https://open.spotify.com/album/6jaTtSdHybDAQb8RgjUIrL) | 4:24 |
 | 44 | [Kiss Kiss Goodbye](https://open.spotify.com/track/75vL0l01TYI8v5ggVykzo9) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:56 |
 | 45 | [LIVRE](https://open.spotify.com/track/7CFLoozGhdaqGeAaij6Gsr) | [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [LIVRE](https://open.spotify.com/album/7bAOw3FM77DBujnL1tesaP) | 3:14 |
-| 46 | [Peripheral Lover](https://open.spotify.com/track/6XxpwjLMDCb1szRBJgfMYe) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Like Plasticine](https://open.spotify.com/album/2lyFN2NEqihYP1tD3zISzt) | 3:15 |
+| 46 | [Una llamada de Satanás](https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Una llamada de Satanás](https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC) | 4:19 |
 | 47 | [Orrore!](https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Orrore!](https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ) | 2:38 |
-| 48 | [Una llamada de Satanás](https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Una llamada de Satanás](https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC) | 4:19 |
+| 48 | [Peripheral Lover](https://open.spotify.com/track/6XxpwjLMDCb1szRBJgfMYe) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Like Plasticine](https://open.spotify.com/album/2lyFN2NEqihYP1tD3zISzt) | 3:15 |
 | 49 | [watermelon juice](https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [watermelon juice](https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9) | 2:29 |
 | 50 | [Signed, Sealed, Delivered](https://open.spotify.com/track/1PEeKPfHjQgsTx646vXVy8) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [MONARCH](https://open.spotify.com/album/4zISc7rQ93tgBp3Htxc2vO) | 2:40 |
 

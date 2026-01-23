@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Bolivard",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Lilly Wood and The Prick",
   "name": "Indie France",
   "tracks": [
     {
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 196956,
       "name": "dans tes yeux",
       "url": "https://open.spotify.com/track/3flkd70LFK3kEqip0lo5Eo"
@@ -2876,6 +2876,24 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
     },
     {
       "album": {
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 207629,
       "name": "des excuses",
       "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 156394,
       "name": "Didn't Mean To",
       "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
@@ -4690,6 +4708,24 @@
       "duration_ms": 188635,
       "name": "Get to Me",
       "url": "https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF"
+    },
+    {
+      "album": {
+        "name": "Clausura",
+        "url": "https://open.spotify.com/album/2SViU35K5viodTzjhsORTk"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "getting used to.",
+      "url": "https://open.spotify.com/track/4qmUuQl2OShLQM9I7slB1e"
     },
     {
       "album": {
@@ -8531,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148834,
+      "name": "mieux",
+      "url": "https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK"
+    },
+    {
+      "album": {
         "name": "Mieux",
         "url": "https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N"
       },
@@ -9534,7 +9588,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 251773,
       "name": "Nuit Infinie",
       "url": "https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi"
@@ -9878,6 +9932,32 @@
       "duration_ms": 266455,
       "name": "Orange Mountains",
       "url": "https://open.spotify.com/track/45UT1NY9lpbJfdYp5Kdd1U"
+    },
+    {
+      "album": {
+        "name": "Orient Express",
+        "url": "https://open.spotify.com/album/0P5YIh9Lf83Ey4ERFPDAlC"
+      },
+      "artists": [
+        {
+          "name": "Corine",
+          "url": "https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ"
+        },
+        {
+          "name": "HabibiSly",
+          "url": "https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl"
+        },
+        {
+          "name": "Hareth Mehdi",
+          "url": "https://open.spotify.com/artist/16dgg1GkycsNVdNs0S3JYp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252353,
+      "name": "Orient Express",
+      "url": "https://open.spotify.com/track/67gEoObTZxg3tnzSA2R1vc"
     },
     {
       "album": {
@@ -13195,6 +13275,24 @@
     },
     {
       "album": {
+        "name": "Tout seul",
+        "url": "https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140827,
+      "name": "Tout seul",
+      "url": "https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy"
+    },
+    {
+      "album": {
         "name": "Tout tout",
         "url": "https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80"
       },
@@ -13272,6 +13370,24 @@
       "duration_ms": 226037,
       "name": "Toxic Sunny Delight",
       "url": "https://open.spotify.com/track/2xyn7wWJ7urittAvQXmPhI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0LoMlLQ5GyU9oXWMcHK0CQ"
     },
     {
       "album": {
@@ -13504,7 +13620,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 273971,
       "name": "UFO",
       "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
@@ -13826,7 +13942,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 195163,
       "name": "VHS",
       "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"

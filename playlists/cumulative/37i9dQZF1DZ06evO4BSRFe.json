@@ -1656,10 +1656,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 231453,
       "name": "Vivir sin ella",
       "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
+    },
+    {
+      "album": {
+        "name": "Vivir sin ella",
+        "url": "https://open.spotify.com/album/0CcVWEAEAyZiKxGRkcIOwE"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "Vivir sin ella",
+      "url": "https://open.spotify.com/track/2CAPJjivO1styJgQW0ukVP"
     },
     {
       "album": {

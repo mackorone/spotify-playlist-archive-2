@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,627 likes - 555 songs - 1 day 7 hr 13 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,630 likes - 555 songs - 1 day 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -556,12 +556,12 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 546 | [Hemlock](https://open.spotify.com/track/2dTfCDKmk4pZVYfJjlFZVA) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Hemlock](https://open.spotify.com/album/1TA7becOKvdD5vGsRLHTge) | 3:39 |
 | 547 | [Eternity Sunrise](https://open.spotify.com/track/0y6lM1S1dEqdPpVKnpFTb9) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC), [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [Anywhere](https://open.spotify.com/album/1vq309zi0LQUa0oEvoN3ou) | 4:26 |
 | 548 | [Hearsay](https://open.spotify.com/track/3Wd0CI7N5q36aeOQK2yLgC) | [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Abyss](https://open.spotify.com/album/0L5Z3YLCTykE0iFt2SX5wi) | 4:19 |
-| 549 | [50s song](https://open.spotify.com/track/3Scep8LvrQTVTBBLL4AjS0) | [Dorothy](https://open.spotify.com/artist/5GhDOUgyBZSFuYoRh0D1CP) | [50s song](https://open.spotify.com/album/0jdLeB3duzszjYYuIWYZU0) | 3:10 |
-| 550 | [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 |
+| 549 | [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 |
+| 550 | [50s song](https://open.spotify.com/track/3Scep8LvrQTVTBBLL4AjS0) | [Dorothy](https://open.spotify.com/artist/5GhDOUgyBZSFuYoRh0D1CP) | [50s song](https://open.spotify.com/album/0jdLeB3duzszjYYuIWYZU0) | 3:10 |
 | 551 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 |
 | 552 | [Yard Sale](https://open.spotify.com/track/1xyMO1QJJP0TdPbUeQSC4z) | [Lowne](https://open.spotify.com/artist/6wW9AbXNDhoR0ECNFMUosk) | [Did You Sleep All Right?](https://open.spotify.com/album/2QA9i9gSjLnDjajnL32vFD) | 2:41 |
 | 553 | [High Fashion](https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:18 |
 | 554 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 555 | [end times](https://open.spotify.com/track/5bMvNs6meJT1PdSh0RvqzA) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/079zqQhPZszlwoSCW4uRKj) | 4:50 |
 
-Snapshot ID: `AAAsn1/tFR5GN1Wi9VQfm28iMoR83lPa`
+Snapshot ID: `AAAsoCOQv8q/byJptXY4zOBkpd8WyCeF`

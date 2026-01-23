@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,127 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,116 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 61 | [C'est l'hiver](https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Nostalgia Noël](https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn) | 2:32 |
 | 62 | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/track/2gInVV124wC37PWHHh4DgQ) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3) | 3:24 |
 | 63 | [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 |
-| 64 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 |
+| 64 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
 | 65 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |
 | 66 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
-| 67 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
+| 67 | [Noël sur la 40](https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU) | [Funambule](https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE) | [Noël sur la 40](https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU) | 2:48 |
 | 68 | [Joyeux Noël](https://open.spotify.com/track/7JoMjFyugtJLLZuF1bxNzE) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Joyeux Noël](https://open.spotify.com/album/6KG96S8ocsbzBouNsfxcXP) | 3:07 |
 | 69 | [Song For A Winter’s Night](https://open.spotify.com/track/41MtmS1pfdstaHpcufTaqO) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Jeanick Fournier \(Deluxe\)](https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn) | 2:54 |
 | 70 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 93 | [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 |
 | 94 | [C'est l'hiver \- Live](https://open.spotify.com/track/75FP9LzNnCPxa8PnCgK46A) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Joyeux Noël \(Live\)](https://open.spotify.com/album/19kLfZz5niWnL35nzP6dXz) | 2:25 |
 | 95 | [Noël blanc](https://open.spotify.com/track/5wQPiG03UejeND0WSvwyVW) | [Léo Giroux](https://open.spotify.com/artist/3gfriMoTculhDU9RH3X5qi) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:38 |
-| 96 | [Encore Noël](https://open.spotify.com/track/4AIZfsh34WREIgo9TJMOUw) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Encore Noël](https://open.spotify.com/album/05ezFhL2RfHGwYFlLxU8WA) | 3:02 |
-| 97 | [Noël avant Noël](https://open.spotify.com/track/10Y6XQp9sIYfjg6dFGGqpR) | [Stéphane Moreau](https://open.spotify.com/artist/68kVtXeJTUzN3658yW2tyH) | [Noël avant Noël](https://open.spotify.com/album/4rEmmzSMQ08RZIxQy50R3t) | 3:25 |
+| 96 | [Noël avant Noël](https://open.spotify.com/track/10Y6XQp9sIYfjg6dFGGqpR) | [Stéphane Moreau](https://open.spotify.com/artist/68kVtXeJTUzN3658yW2tyH) | [Noël avant Noël](https://open.spotify.com/album/4rEmmzSMQ08RZIxQy50R3t) | 3:25 |
+| 97 | [Encore Noël](https://open.spotify.com/track/4AIZfsh34WREIgo9TJMOUw) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Encore Noël](https://open.spotify.com/album/05ezFhL2RfHGwYFlLxU8WA) | 3:02 |
 | 98 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
 | 99 | [Çà, bergers](https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:27 |
 | 100 | [Disco Noël](https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ) | [Guillaume Leclerc](https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX) | [Le temps des fêtes volume 2](https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp) | 2:34 |

@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-132 songs - 6 hr 42 min
+133 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Closer](https://open.spotify.com/track/5HxFnwZFcfwKo4fHW7n6Ry) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Closer](https://open.spotify.com/album/1HBumg2coiPeeEM2Gr3Naz) | 4:07 | 2023-06-22 | 2024-04-19 |
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-25 |  |
 | [Credit Card](https://open.spotify.com/track/1TJLM1A1zKZLQKdxrpmNUx) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Credit Card](https://open.spotify.com/album/1jM7Gl4l91pD3rlmmq1j3j) | 2:33 | 2023-06-22 | 2024-11-14 |
-| [Crook](https://open.spotify.com/track/44rBFPjeKA3IIYhLGqhBaA) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Taj Aulakh](https://open.spotify.com/artist/30LIEt0kX9a11tyu1Z46Qs) | [Crook](https://open.spotify.com/album/1rL3Hnua25rhjxSjwxyzj1) | 3:28 | 2025-11-06 |  |
+| [Crook](https://open.spotify.com/track/44rBFPjeKA3IIYhLGqhBaA) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Taj Aulakh](https://open.spotify.com/artist/30LIEt0kX9a11tyu1Z46Qs) | [Crook](https://open.spotify.com/album/1rL3Hnua25rhjxSjwxyzj1) | 3:28 | 2025-11-06 | 2026-01-23 |
 | [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 | 2025-01-09 |
 | [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 | 2025-01-08 |  |
 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 | 2025-07-25 |  |
@@ -81,6 +81,7 @@
 | [Lakk Shake](https://open.spotify.com/track/0f4TujezEkNaVWWjXyvBc8) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake](https://open.spotify.com/album/30LYhokyyNWQIZGVLKYnr4) | 3:27 | 2023-09-04 | 2024-04-19 |
 | [Lakk Shake](https://open.spotify.com/track/3cwaNsmpsL67zVXzCttY6J) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake](https://open.spotify.com/album/75QyRqP2a4MKuDZ3ayhoh5) | 3:27 | 2023-06-22 | 2023-11-02 |
 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 | 2025-01-08 |  |
+| [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 | 2026-01-19 |  |
 | [Level Up](https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f) | [Lucky Maan](https://open.spotify.com/artist/09nbL4fECiLx91JQc7iONs), [Mr Harry](https://open.spotify.com/artist/6Aik27VekUXuiW9xnuWlIg) | [Level Up](https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4) | 2:51 | 2024-11-13 | 2025-01-09 |
 | [Light Weight](https://open.spotify.com/track/7FeLqPl1Ds0QR8UOxyKLhp) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Light Weight \- Single](https://open.spotify.com/album/3XwTloJnC6Feq5pdfmhiQ6) | 3:36 | 2023-06-22 | 2025-01-09 |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2023-06-22 |  |

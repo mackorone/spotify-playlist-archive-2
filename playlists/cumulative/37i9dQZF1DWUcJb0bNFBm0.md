@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: We Are Imaginary \(Philippines\)
 
-317 songs - 21 hr 49 min
+318 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Candy \(Flashback\)](https://open.spotify.com/track/2pJ0He1anjlfESMrPLwHWv) | [Acidclank](https://open.spotify.com/artist/5F0j8hQsmTuCkgIkb0beLc) | [Candy \(Flashback\)](https://open.spotify.com/album/070X5WUhS7znCajGiJ7kMU) | 3:14 | 2024-06-27 | 2024-10-11 |
 | [Cats, Cats and Cats Again](https://open.spotify.com/track/20XKgs3K7NhhmLloOYc1Rb) | [Cosmic Child](https://open.spotify.com/artist/0AbaYCVaRtwCSxFuRCZHjr) | [Blue](https://open.spotify.com/album/5hWisNpBSw9AGfbDL7bZNf) | 4:58 | 2024-06-27 | 2025-07-25 |
 | [Chasing Time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [Chasing Time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 | 2024-06-27 | 2024-12-05 |
+| [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 | 2026-01-22 |  |
 | [Citylights and Moonlight](https://open.spotify.com/track/3qHYCSTTxPEbJkFZA5oFWe) | [Yüksen Buyers House](https://open.spotify.com/artist/02lJCDR0cRulPubuzOUt0l) | [Citylights and Moonlight](https://open.spotify.com/album/7LNsLMz985YhgFQZmGBSjJ) | 4:39 | 2025-09-19 | 2025-10-10 |
 | [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 4:32 | 2025-10-09 |  |
 | [Cold Memories](https://open.spotify.com/track/0FOvxRu8yGJDZCTnq2URja) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Cold Memories](https://open.spotify.com/album/5YTJMJamSw4YCZ2Iq4dXAS) | 3:58 | 2025-07-10 |  |

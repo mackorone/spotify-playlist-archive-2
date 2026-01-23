@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 36087,
+  "num_followers": 36100,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAABxWq7rzKS069Xfwd14rKY2",
+  "snapshot_id": "aXAXAAAAAACd50ralBtkalC6OHHVMFvM",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
     },
     {
       "added_at": null,

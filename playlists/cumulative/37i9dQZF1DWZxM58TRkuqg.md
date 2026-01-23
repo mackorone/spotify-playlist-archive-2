@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Nabila Taqiyyah
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Maudy Ayunda
 
-570 songs - 1 day 13 hr 9 min
+574 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,13 @@
 | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK) | 4:18 | 2025-05-15 | 2025-08-21 |
 | [Aku Berjanji](https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/4TpbJouqiWJsUGBZbxIdeW) | 3:59 | 2025-09-11 |  |
 | [Aku Bukan Untukmu](https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Bukan Untukmu](https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD) | 3:52 | 2025-01-16 |  |
+| [Aku Juga Manusia](https://open.spotify.com/track/75JjV3OxwhcCmOA4RZvmBI) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Aku Juga Manusia](https://open.spotify.com/album/2mYEZvkuYhHasChpxIVjc5) | 4:21 | 2026-01-22 |  |
 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 | 2024-01-26 | 2024-03-22 |
 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 | 2024-01-26 | 2024-05-03 |
 | [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 | 2024-06-27 | 2024-08-16 |
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-05-16 | 2024-09-06 |
 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 | 2024-11-21 | 2025-02-07 |
+| [Aku Yang Engkau Cari \(Original Soundtrack from ‘Para Perasuk’\)](https://open.spotify.com/track/3XvxZzhFcwYSJpGQ0GFeXm) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Aku Yang Engkau Cari \(Original Soundtrack from ‘Para Perasuk’\)](https://open.spotify.com/album/6TrUfugCUVS0Wrb6C0KatR) | 3:57 | 2026-01-22 |  |
 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-02 |  |
 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 | 2025-01-09 |  |
 | [Ambang Rindu](https://open.spotify.com/track/72zTmEfdntRbZMxivVALf8) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Ambang Rindu](https://open.spotify.com/album/27wzqnJ2yA8FnG6mWws5So) | 3:23 | 2025-04-24 |  |
@@ -92,6 +94,7 @@
 | [Boleh Kau Adu \- Live Version](https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Boleh Kau Adu \(Live Version\)](https://open.spotify.com/album/2ykSLjFXK5OfMtqgfprtMZ) | 3:41 | 2024-11-14 | 2025-01-10 |
 | [Boleh Merindu](https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Boleh Merindu](https://open.spotify.com/album/16tWz380soVodMC5yN9la7) | 4:08 | 2024-09-06 | 2025-02-14 |
 | [Bolehlah Ku Berharap](https://open.spotify.com/track/76JH2RV1kQYtelFgquVQty) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Manifestasi Hati](https://open.spotify.com/album/6CacR1AGVHK3YM32ui2J3q) | 4:13 | 2025-01-16 | 2025-05-30 |
+| [Breathless](https://open.spotify.com/track/0KvqkQRa7bPYDKjAv8jVwD) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Breathless](https://open.spotify.com/album/4YwP3HV6ZhSRhTkLBV9lv0) | 3:28 | 2026-01-22 |  |
 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 | 2024-02-09 | 2024-03-29 |
 | [Buang Waktu](https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 3:55 | 2024-07-11 | 2024-11-15 |
 | [Bukan Dengan Dia](https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Bukan Dengan Dia](https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC) | 4:01 | 2024-06-27 | 2024-09-06 |
@@ -179,6 +182,7 @@
 | [Hari Ini \(feat\. Hindia\)](https://open.spotify.com/track/7xyGT6XaM9rV4jIb62QvST) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Hari Ini](https://open.spotify.com/album/7zcuwtBduQbPYqPMhC2Oei) | 3:16 | 2025-05-01 | 2025-06-21 |
 | [Hari Itu](https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Hari Itu](https://open.spotify.com/album/52zM9Kzo8pzcXG8LJdt3Mo) | 4:07 | 2024-08-15 | 2024-11-15 |
 | [Hari Paling Spe\(sial\)](https://open.spotify.com/track/3BFw9sEMPNS7sF6TNoneR2) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Hari Paling Spe\(sial\)](https://open.spotify.com/album/0S5FhC43M9RkSVEkco5yny) | 4:43 | 2025-11-27 |  |
+| [Haru Biru](https://open.spotify.com/track/5gPAuoKgavyDFC2M2Gmwfp) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Haru Biru](https://open.spotify.com/album/6W7mPbdoCYtILFkWnJyBwZ) | 4:27 | 2026-01-22 |  |
 | [Harus Bahagia](https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Harus Bahagia](https://open.spotify.com/album/733Hrl429wfieKxjF6Dclk) | 2:48 | 2025-06-05 | 2025-08-22 |
 | [Hati Yang Inginkanmu](https://open.spotify.com/track/2PIWomWNmOLaP8NPROOPfa) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Irwan Simanjuntak](https://open.spotify.com/artist/1oC20EFDaM34fIP4hGQuDN) | [Hati Yang Inginkanmu](https://open.spotify.com/album/7cUZGMx6WIhz2Z0Q8kMLir) | 3:44 | 2025-01-30 | 2025-05-30 |
 | [Hentikan Aku Untuk Mencintaimu](https://open.spotify.com/track/5pOb779ujOzvYVi7uZEszT) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Hentikan Aku Untuk Mencintaimu](https://open.spotify.com/album/7AfrRqbqr4waHiAH3nJTtT) | 3:45 | 2025-07-03 | 2025-08-15 |

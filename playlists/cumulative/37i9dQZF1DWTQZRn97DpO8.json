@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : LYNN",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Bianca Costa",
   "name": "le miel",
   "tracks": [
     {
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Amber, mon amour",
+        "url": "https://open.spotify.com/album/6f8StdKADp1sTMLbsGgm9e"
+      },
+      "artists": [
+        {
+          "name": "Linda Helende",
+          "url": "https://open.spotify.com/artist/2vJG9GaLxkunJSu7oBh5mO"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211914,
+      "name": "Amber, mon amour",
+      "url": "https://open.spotify.com/track/7ERaCkdSRHkNdoTIrSctrT"
+    },
+    {
+      "album": {
         "name": "American Lover",
         "url": "https://open.spotify.com/album/3rmvnJO1F6ehtVPFoFTI6k"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 154715,
       "name": "attention",
       "url": "https://open.spotify.com/track/56qWdInzVg3YP6GvVvj5Vp"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 165333,
       "name": "Chambre",
       "url": "https://open.spotify.com/track/5p0yFqkNzdqjE7aYd5n9eZ"
@@ -1936,6 +1954,28 @@
       "duration_ms": 264853,
       "name": "Demain",
       "url": "https://open.spotify.com/track/5HXXbzpc8BIQioG1NAbokW"
+    },
+    {
+      "album": {
+        "name": "En Premier l'Amour",
+        "url": "https://open.spotify.com/album/5sTrbMpnS8Sw3qlbwK2Ibv"
+      },
+      "artists": [
+        {
+          "name": "Susano\u00f4",
+          "url": "https://open.spotify.com/artist/3IPF34odrFxmKBZUciuUyE"
+        },
+        {
+          "name": "Kynn",
+          "url": "https://open.spotify.com/artist/5OZiwRkXsFm4IMlCLf5h9G"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Dernier Verre",
+      "url": "https://open.spotify.com/track/0XwNHw60FTm0fM4JIaFZga"
     },
     {
       "album": {
@@ -2959,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "FLOU",
+        "url": "https://open.spotify.com/album/2QkXoGwgxzcWssBE0Udg96"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bringtown",
+          "url": "https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "FLOU",
+      "url": "https://open.spotify.com/track/01czP9FzVqljP6GfZFkahU"
+    },
+    {
+      "album": {
         "name": "CUXI BOY PART II (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr"
       },
@@ -3945,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "J'TE PARLERAI DE...",
+        "url": "https://open.spotify.com/album/68Uurg8ewnQvazI6PLRmPj"
+      },
+      "artists": [
+        {
+          "name": "Erwann",
+          "url": "https://open.spotify.com/artist/7JwYIB7nmV29E6Etk6crc1"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195964,
+      "name": "J'TE PARLERAI DE...",
+      "url": "https://open.spotify.com/track/0elyu4cJKMm5c2b6pQtKGK"
+    },
+    {
+      "album": {
         "name": "Jaloux",
         "url": "https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8"
       },
@@ -3956,7 +4032,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 168139,
       "name": "Jaloux",
       "url": "https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4"
@@ -5780,7 +5856,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189056,
       "name": "M\u00c2LE",
       "url": "https://open.spotify.com/track/5hcDdEW0Do38tgoYQMjTLT"
@@ -6346,7 +6422,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 210140,
       "name": "pas si bien",
       "url": "https://open.spotify.com/track/1k8E3rowxVRmLjHXWdQLbI"
@@ -6900,7 +6976,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 159230,
       "name": "Prie pour moi",
       "url": "https://open.spotify.com/track/6xohXEzSnrP1BVNgzV5FzZ"
@@ -8010,6 +8086,24 @@
       "duration_ms": 192000,
       "name": "Situationship (STTS)",
       "url": "https://open.spotify.com/track/6CbNlvB09OfLbb4Ln1WcTb"
+    },
+    {
+      "album": {
+        "name": "soir d'hiver",
+        "url": "https://open.spotify.com/album/7rpyGMaRq1dLYpWPtGc0pB"
+      },
+      "artists": [
+        {
+          "name": "HASNA",
+          "url": "https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "soir d'hiver",
+      "url": "https://open.spotify.com/track/3WKm0IoZr5mm4ISVgbG0Yz"
     },
     {
       "album": {
@@ -9224,6 +9318,24 @@
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
+    },
+    {
+      "album": {
+        "name": "V\u0153ux",
+        "url": "https://open.spotify.com/album/7cN18WXKIdsDizCN1Mz1K8"
+      },
+      "artists": [
+        {
+          "name": "D'Orion",
+          "url": "https://open.spotify.com/artist/0csAQTC43AL7SH64GJtE7d"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231541,
+      "name": "V\u0153ux",
+      "url": "https://open.spotify.com/track/64MCBEC3CdR6a3OcdNj7dw"
     },
     {
       "album": {

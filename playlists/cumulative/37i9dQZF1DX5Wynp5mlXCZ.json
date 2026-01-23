@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: DOROFEEVA & Elysees",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Harry Styles",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -266,6 +266,24 @@
       "duration_ms": 184000,
       "name": "Amore porfavor",
       "url": "https://open.spotify.com/track/6xfnBcyfkXpuuZzSjU8dPg"
+    },
+    {
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "album": {
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 166317,
       "name": "DVD",
       "url": "https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 169573,
       "name": "In the dark",
       "url": "https://open.spotify.com/track/4nucABfBIdolTxEy5LYzbO"
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -4481,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Vanil'",
+        "url": "https://open.spotify.com/album/0h6kM9zJLStRAZuCErOd3k"
+      },
+      "artists": [
+        {
+          "name": "KRYLATA",
+          "url": "https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Vanil'",
+      "url": "https://open.spotify.com/track/3oPdcS7621qGQGMTsLv8uv"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -4662,7 +4698,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 144426,
       "name": "Wall of Sound",
       "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
@@ -5424,7 +5460,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 163967,
       "name": "\u0412\u0441\u0435 \u043f\u043e \u043a\u043e\u043b\u0443",
       "url": "https://open.spotify.com/track/1QtvlaZUhEU5AxtiIxNrAa"
@@ -5634,6 +5670,28 @@
       "duration_ms": 204000,
       "name": "\u0413\u0456\u0440\u043a\u043e",
       "url": "https://open.spotify.com/track/7wVEFMpcYtDzqtIc40SGsT"
+    },
+    {
+      "album": {
+        "name": "\u0434\u0430\u043b\u0435\u043a\u0435 \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0454",
+        "url": "https://open.spotify.com/album/3eQAwhd7PP1IVhlsYa5mTz"
+      },
+      "artists": [
+        {
+          "name": "DENOMA",
+          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
+        },
+        {
+          "name": "Sofia Shanti",
+          "url": "https://open.spotify.com/artist/546wSi6Jl1aMJnQ7ACGrsE"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "\u0434\u0430\u043b\u0435\u043a\u0435 \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0454",
+      "url": "https://open.spotify.com/track/5MZc08wudCcGMAAVm6IzTV"
     },
     {
       "album": {
@@ -7625,6 +7683,42 @@
     },
     {
       "album": {
+        "name": "\u041f\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
+        "url": "https://open.spotify.com/album/1KwDuPszgCNdB6cSxYg1FB"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118983,
+      "name": "\u041f\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
+      "url": "https://open.spotify.com/track/1avWHX5Dy3Th7gz54MjFPL"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u0434\u0438\u0445\u043e\u043c",
+        "url": "https://open.spotify.com/album/6xUg7EmIim8cSAcK7OpMNd"
+      },
+      "artists": [
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "\u041f\u043e\u0434\u0438\u0445\u043e\u043c",
+      "url": "https://open.spotify.com/track/2CCzAJUZOrRbfNlblPwAyK"
+    },
+    {
+      "album": {
         "name": "\u041f\u041e\u0414\u041e\u041b\u042f\u041d\u041e\u0427\u041a\u0410 (GET UP)",
         "url": "https://open.spotify.com/album/0ZAHrT36fotzrEuhClUXhG"
       },
@@ -7999,6 +8093,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0435\u043a\u0441 \u0437\u0430 \u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/1hbOTCcu0q6tvBUmw0xqjD"
+      },
+      "artists": [
+        {
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229100,
+      "name": "\u0421\u0435\u043a\u0441 \u0437\u0430 \u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/5zPHBlvSFtCylMC3nweTEc"
+    },
+    {
+      "album": {
         "name": "\u0441\u0435\u0440\u0435\u043d\u0430\u0434\u0438",
         "url": "https://open.spotify.com/album/14B1PeFpAqmHhH5RnoeCOY"
       },
@@ -8368,7 +8480,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 193608,
       "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
       "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"

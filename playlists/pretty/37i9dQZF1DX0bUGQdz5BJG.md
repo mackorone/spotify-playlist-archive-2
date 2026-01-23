@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Larry Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,286 likes - 194 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,366 likes - 194 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

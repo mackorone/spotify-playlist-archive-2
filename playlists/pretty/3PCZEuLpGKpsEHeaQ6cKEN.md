@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Max Styler
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 261,140 likes - 339 songs - 17 hr 43 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 261,116 likes - 339 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 4 | [Sun Shines On Me](https://open.spotify.com/track/5fEgyoVKE07j5TGhnyr5Kq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i) | [Sun Shines On Me](https://open.spotify.com/album/0OcgpZcrgkBF95mareaXOh) | 3:30 |
 | 5 | [On the Run](https://open.spotify.com/track/0un5XSbkR8750CFRzOPau6) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [On the Run](https://open.spotify.com/album/6eiduOBVpVRU7ddSdTQTUd) | 2:49 |
 | 6 | [GET A JOB](https://open.spotify.com/track/24G6lVLkwnH6Bl8qd2C82f) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [GET A JOB](https://open.spotify.com/album/5hxEFrzzsk3yjdQ8Vdj4MW) | 3:20 |
-| 7 | [Feel It Coming](https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [TW3LVE](https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Feel It Coming](https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y) | 3:30 |
+| 7 | [Feel It Coming](https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [TW3LVE](https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A) | [Feel It Coming](https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y) | 3:30 |
 | 8 | [Mind Dimension \- Adam Sellouk Remix](https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mind Dimension \(Adam Sellouk Remix\)](https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz) | 3:39 |
 | 9 | [Right On, Right On \- Vocal Edit](https://open.spotify.com/track/7CTYYMeByDGnaCouojDp3I) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Silicone Soul](https://open.spotify.com/artist/6VPQvrpzt328DmG3dmLbhE) | [Right On, Right On](https://open.spotify.com/album/02AC8OE8Mb2RHA0mNdj8Xq) | 3:10 |
 | 10 | [Don't Be Sad](https://open.spotify.com/track/5IqjGCECLR4Rze7gAGLwUO) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Don't Be Sad](https://open.spotify.com/album/5mirV0tXJenRtAHEV4C9cr) | 3:24 |

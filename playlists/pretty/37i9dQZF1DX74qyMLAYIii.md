@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 
 > Psicodélica, eléctrica y amazónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,937 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,946 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 | 25 | [Lamento del Yacuruna](https://open.spotify.com/track/0YBjV5caM8a18bOjjpyTyK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [The Roots of Chicha 2](https://open.spotify.com/album/27W4MFIxPAAXGQnBlVVSnI) | 2:47 |
 | 26 | [Caramelo de Menta](https://open.spotify.com/track/3A74BvRNqYEEZt3RTgZYWP) | [Los Pakines](https://open.spotify.com/artist/13NXzwXxkMGhfAs8khbssr) | [Los Pakines](https://open.spotify.com/album/3WA47oSWTmi7ASEd9Ty8vW) | 2:42 |
 | 27 | [Mi Gran Noche](https://open.spotify.com/track/7BXaYhgzihosqcGVk72AK2) | [Aniceto y sus Fabulosos](https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:57 |
-| 28 | [Papelito Blanco](https://open.spotify.com/track/7AvzsHnucB4PKSbj4Zrhks) | [Cantaritos De Oro](https://open.spotify.com/artist/0X3pQnHeiAicYQvYAL84Z9) | [Éxitos Dorados](https://open.spotify.com/album/0LkW5Xr5CHnPGLqIbeD1Lk) | 3:27 |
+| 28 | [Papelito Blanco](https://open.spotify.com/track/7AvzsHnucB4PKSbj4Zrhks) | [Cantaritos de Oro de Fidel Ayala](https://open.spotify.com/artist/3kEZOifqvtlii4WKe7QgxO) | [Éxitos Dorados](https://open.spotify.com/album/0LkW5Xr5CHnPGLqIbeD1Lk) | 3:27 |
 | 29 | [Cumbia India](https://open.spotify.com/track/41zLzKPDvUuA6sIzC7DIpv) | [Los Rumbaguaya](https://open.spotify.com/artist/44C5Hy1Bxg37jaoscXYTwg) | [Los \# 1 de los Sonidos, Vol\. 3](https://open.spotify.com/album/5Zu5wwOKXbEh6Hyh0S2DTh) | 3:18 |
-| 30 | [Busco un Amor](https://open.spotify.com/track/4JQEs0ktgiPXLub6WWwnFK) | [Cantaritos De Oro](https://open.spotify.com/artist/0X3pQnHeiAicYQvYAL84Z9) | [Éxitos Dorados](https://open.spotify.com/album/0LkW5Xr5CHnPGLqIbeD1Lk) | 3:47 |
+| 30 | [Busco un Amor](https://open.spotify.com/track/4JQEs0ktgiPXLub6WWwnFK) | [Cantaritos de Oro de Fidel Ayala](https://open.spotify.com/artist/3kEZOifqvtlii4WKe7QgxO) | [Éxitos Dorados](https://open.spotify.com/album/0LkW5Xr5CHnPGLqIbeD1Lk) | 3:47 |
 | 31 | [Ramo de Rosas](https://open.spotify.com/track/5X79lVBqpJ8K8zkbFvsmPi) | [Los Pakines](https://open.spotify.com/artist/13NXzwXxkMGhfAs8khbssr) | [Los Pakines](https://open.spotify.com/album/3WA47oSWTmi7ASEd9Ty8vW) | 3:21 |
 | 32 | [Me Robaron Mi Runa Mula](https://open.spotify.com/track/2wIdlmUWNZP5ZYaxCdZEmp) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Leyenda Amazónica](https://open.spotify.com/album/1XBTiJCFR4XFvymIUlnkKE) | 3:06 |
 | 33 | [Sarita Colonia](https://open.spotify.com/track/34PdImQuqsjAqa4Sm3KszF) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:26 |

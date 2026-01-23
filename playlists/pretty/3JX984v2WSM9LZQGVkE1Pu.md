@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 
 > The Jazz of America is on Verve.
 
-[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 3,751 likes - 70 songs - 4 hr 18 min
+[Verve Records](https://open.spotify.com/user/vervemusicgroup) - 3,763 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 | 69 | [Honeysuckle Rose](https://open.spotify.com/track/41Wj6aJKyggH33OYBo3ezY) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 3:13 |
 | 70 | [Then I'll Be Tired Of You](https://open.spotify.com/track/48du1jL9ixYtp6sZRUdKSf) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:14 |
 
-Snapshot ID: `AAABN/1hXVmngcFUovbgxv+xICRIRCvL`
+Snapshot ID: `AAABOFjeXUd1WdWs1v9p53ZwkGy4BRkq`

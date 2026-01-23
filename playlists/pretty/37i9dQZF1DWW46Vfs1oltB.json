@@ -1,15 +1,15 @@
 {
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Dynamic Duo(\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624))",
-  "num_followers": 769076,
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Tiger JK & Yoon Mirae)",
+  "num_followers": 769059,
   "original_name": "KrOWN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhz2ZR587CQ/IYFSIOpbtKiPJs1",
+  "snapshot_id": "AAAAAACg63u7OKzbGddybChRSHhaDEoR",
   "tracks": [
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KrOWN: The Interview",
         "url": "https://open.spotify.com/album/3JrcIcYWyEUAp9gufWziSN"
@@ -20,240 +20,196 @@
           "url": "https://open.spotify.com/show/3JrcIcYWyEUAp9gufWziSN"
         }
       ],
-      "duration_ms": 346602,
-      "name": "KrOWN: Interview with Dynamicduo",
-      "url": "https://open.spotify.com/episode/6aV8LfejNJtVjJQKIHCSJO"
+      "duration_ms": 359859,
+      "name": "KrOWN: Interview with Yoon Mi-rae & Tiger JK",
+      "url": "https://open.spotify.com/episode/7r28l99rZVWtytStgsa9AG"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KrOWN Audio liner",
-        "url": "https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF"
+        "url": "https://open.spotify.com/album/3OfvCGuNRQFNlxU4Jx0mFT"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "Tiger JK, Yoon Mirae",
+          "url": "https://open.spotify.com/artist/4HcMimBMYDLM2iIxfrAIpE"
         }
       ],
-      "duration_ms": 3002,
-      "name": "KrOWN - Gaeko of Dynamic Duo",
-      "url": "https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV"
+      "duration_ms": 1874,
+      "name": "KrOWN_Tiger JK & Yoon Mirae",
+      "url": "https://open.spotify.com/track/6tzJNiVAvg8uX3I3nF2SKk"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
-        "name": "A Giant Step",
-        "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 233966,
+      "name": "\ub09c \ub110 \uc6d0\ud574",
+      "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "Year of The Tiger",
+        "url": "https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
+      "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "Sky Is The Limit",
+        "url": "https://open.spotify.com/album/7BfP9AvrYxSmxrXUpLxmMm"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "8:45 Heaven",
+      "url": "https://open.spotify.com/track/4P9K00Tn5xOfXc5AIHvD3I"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "\uc18c\uc678\ub41c \ubaa8\ub450, \uc67c\ubc1c\uc744 \ud55c \ubcf4 \uc55e\uc73c\ub85c!",
+      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "Drunken Tiger X: Rebirth of Tiger Jk",
+        "url": "https://open.spotify.com/album/0dSDs3V1AH4jANHJueedGV"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
         },
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         }
       ],
-      "duration_ms": 316944,
-      "name": "AEAO",
-      "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
+      "duration_ms": 215798,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3wRn6i5bOJPAUg9trFSRCN"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) Class Mission",
-        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "Yoon Mi Rae (T) the First Album (As Time Goes By)",
+        "url": "https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 236747,
+      "name": "The Scent of Life",
+      "url": "https://open.spotify.com/track/039K4B6V38d38WzSkchtyx"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         },
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Smoke (Prod. Dynamicduo, Padi)",
-      "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
-        "name": "LUCKYNUMBERS",
-        "url": "https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF"
+        "name": "Gemini 2",
+        "url": "https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Three Dopeboyz (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/74Q5gW006ZD5iIaVYB1EhO"
+      "duration_ms": 197533,
+      "name": "KawiBawiBo",
+      "url": "https://open.spotify.com/track/01vq87Iljp87jY3wg9730c"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
-        "name": "2 Kids On The Block - Part.3",
-        "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 206173,
-      "name": "PITAPA (Feat. pH-1, JUNNY)",
-      "url": "https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4"
+      "duration_ms": 225332,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/6i59KdhALPJ9GhjDwc89Pb"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "OFF DUTY",
-        "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "MSG (Feat. PENOMECO)",
-      "url": "https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "KrOWN Audio liner",
-        "url": "https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 4649,
-      "name": "KrOWN - Choiza of Dynamic Duo",
-      "url": "https://open.spotify.com/track/74KUxRJj4MnfEA0HYniXI0"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "Band Of Dynamic Brothers",
-        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "Last Days",
-        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Ra.D",
-          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
-        }
-      ],
-      "duration_ms": 249680,
-      "name": "Mother's Soulfood (Feat. Ra.D)",
-      "url": "https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "Double Dynamite",
-        "url": "https://open.spotify.com/album/2oHuPOq6vuhx8mJkaZUnae"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "I Know (Feat. Paloalto)",
-      "url": "https://open.spotify.com/track/1U7vLmcbfFZlON91MLXjxz"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Chool Check (Feat. Naul For Brown Eyed Soul)",
-      "url": "https://open.spotify.com/track/4ZF6Qks7QaEr0lxaLoCxQP"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "Resume Pt.2",
-      "url": "https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KrOWN Audio liner",
         "url": "https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm"
@@ -269,7 +225,7 @@
       "url": "https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Yin and Yang",
         "url": "https://open.spotify.com/album/4wEyDGNGZUVetM252x1D5W"
@@ -289,7 +245,7 @@
       "url": "https://open.spotify.com/track/6CyRYi1FXygOyejKcfZeJI"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "K-FLIP+",
         "url": "https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6"
@@ -317,7 +273,7 @@
       "url": "https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
@@ -333,7 +289,7 @@
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "DUET",
         "url": "https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA"
@@ -353,7 +309,7 @@
       "url": "https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "\u5149 (INSANITY)",
         "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
@@ -369,7 +325,7 @@
       "url": "https://open.spotify.com/track/1nxQ4sRjDXFAmTs98b20XV"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "ALLDAY PROJECT",
         "url": "https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA"
@@ -393,7 +349,7 @@
       "url": "https://open.spotify.com/track/6vfcaWsN8gBLpfpSCru0Co"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "AMBITION 1/10",
         "url": "https://open.spotify.com/album/01o6k7dxnn5nR7fJ6Zpdzv"
@@ -413,7 +369,7 @@
       "url": "https://open.spotify.com/track/5GNbzvcgrLny9ciBwKLCD4"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "AT H1GHR",
         "url": "https://open.spotify.com/album/4FxVsRxBjnKKCrHZ6YldQO"
@@ -461,7 +417,7 @@
       "url": "https://open.spotify.com/track/3CcOvobFZW42wJBh5oXd7Q"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "MY MAN (Remix)",
         "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
@@ -489,7 +445,23 @@
       "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "KrOWN Audio liner",
+        "url": "https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 2082,
+      "name": "KrOWN_pH-1",
+      "url": "https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
@@ -533,7 +505,7 @@
       "url": "https://open.spotify.com/track/3gGyzpBLb7pqOw5oC47QaV"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KC3",
         "url": "https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G"
@@ -565,7 +537,7 @@
       "url": "https://open.spotify.com/track/5ke7oRMl6To09sHJ9JzWfc"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "\u5149 (INSANITY)",
         "url": "https://open.spotify.com/album/7tZx0RBXbIsbrW1UwAH6sy"
@@ -585,7 +557,7 @@
       "url": "https://open.spotify.com/track/6uN4UEhJPpggGP8nzqnRy5"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SUJI",
         "url": "https://open.spotify.com/album/3MEafRR73bc02D1xhjlBnp"
@@ -609,23 +581,7 @@
       "url": "https://open.spotify.com/track/6QCzWMWJSSRk671GThuYlt"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "KrOWN Audio liner",
-        "url": "https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 2082,
-      "name": "KrOWN_pH-1",
-      "url": "https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "WHAT HAVE WE DONE",
         "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
@@ -645,7 +601,7 @@
       "url": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Ghostcity",
         "url": "https://open.spotify.com/album/1b52sbwZGKb9ojYHS8RQTe"
@@ -669,7 +625,7 @@
       "url": "https://open.spotify.com/track/4HuO81Aq0uPieJJp2I0dtD"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Saucin'",
         "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
@@ -685,7 +641,7 @@
       "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SONAGY",
         "url": "https://open.spotify.com/album/5YtI5reP48dYCUb3SQThex"
@@ -701,7 +657,7 @@
       "url": "https://open.spotify.com/track/2mwKAfgeDU3QfoEgafbX2n"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "WHAT HAVE WE DONE",
         "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
@@ -721,7 +677,23 @@
       "url": "https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "KrOWN Audio liner",
+        "url": "https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 3002,
+      "name": "KrOWN - Gaeko of Dynamic Duo",
+      "url": "https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SEOUL",
         "url": "https://open.spotify.com/album/0Rw1Rp1AqY2qEpSQpG4r3a"
@@ -737,7 +709,7 @@
       "url": "https://open.spotify.com/track/2mBHRSMBkz8tg6MoeBHW9G"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "ALLDAY PROJECT",
         "url": "https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA"
@@ -757,7 +729,7 @@
       "url": "https://open.spotify.com/track/0h92GAgmGAHkSVw4NrIhQ2"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "1393",
         "url": "https://open.spotify.com/album/4BlRPpY5kcRYwl8KsO6RyY"
@@ -773,7 +745,7 @@
       "url": "https://open.spotify.com/track/6WG2W94TmO97VsVdpn1duc"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KC3",
         "url": "https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G"
@@ -801,7 +773,7 @@
       "url": "https://open.spotify.com/track/2RTWBMwlKgMAV1PZNbBojj"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SS-POP 2",
         "url": "https://open.spotify.com/album/7ylTpFJWGkHMinsquioWsB"
@@ -825,7 +797,7 @@
       "url": "https://open.spotify.com/track/6pZrlAlX9ozBimNvdVHvuz"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KrOWN_Beenzino",
         "url": "https://open.spotify.com/album/5yffp1pwFAwmPBDAc34wmz"
@@ -841,7 +813,7 @@
       "url": "https://open.spotify.com/track/4slPMG63XcpWAOjUx8Ip8d"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Invasion (Deluxe)",
         "url": "https://open.spotify.com/album/3VvJiRCsJolwEVWUYuQ6YS"
@@ -861,7 +833,7 @@
       "url": "https://open.spotify.com/track/4h1PGdfuXPNzt21F2d6TeS"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "pullup to busan 4 morE hypEr summEr it\u2019s gonna bE a fuckin moviE",
         "url": "https://open.spotify.com/album/4TJQ4ze7fqMJIzGB1Y4vTy"
@@ -877,7 +849,7 @@
       "url": "https://open.spotify.com/track/12mcwm60QZRzTOCPv40AT8"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "MZ",
         "url": "https://open.spotify.com/album/0zAbsoJKJ1UlYTJpONyuVY"
@@ -893,7 +865,23 @@
       "url": "https://open.spotify.com/track/1TlxJTl12nTgCI0HxwRUpo"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "KrOWN Audio liner",
+        "url": "https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 4649,
+      "name": "KrOWN - Choiza of Dynamic Duo",
+      "url": "https://open.spotify.com/track/74KUxRJj4MnfEA0HYniXI0"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Kill The Night",
         "url": "https://open.spotify.com/album/5MIUy4hxo0EX9SXWcMvr43"
@@ -909,7 +897,7 @@
       "url": "https://open.spotify.com/track/2MCM8y1NIMBKIK2QLvdv72"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "LIFES LIKE (Feat. LEY)",
         "url": "https://open.spotify.com/album/1FGmCMQGmwl3AlS6OttUhI"
@@ -929,7 +917,7 @@
       "url": "https://open.spotify.com/track/20iyyFjIIZX36Psxj0SQyt"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Plan A-Z (feat. TOMMY YANG)",
         "url": "https://open.spotify.com/album/0o8tOqcK0CgIKxp4iyvsrr"
@@ -953,7 +941,7 @@
       "url": "https://open.spotify.com/track/2hDV7WwnfDee8vsqFmpSuQ"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "LIT",
         "url": "https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi"
@@ -969,7 +957,7 @@
       "url": "https://open.spotify.com/track/2IvMayUNvcBnQDQM0VQO7a"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "MZ",
         "url": "https://open.spotify.com/album/0zAbsoJKJ1UlYTJpONyuVY"
@@ -989,7 +977,7 @@
       "url": "https://open.spotify.com/track/4q5Y4TSM2pG0BAWLJnwP7I"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "GRANTED",
         "url": "https://open.spotify.com/album/6iKATce880GoSVyQdDwZh9"
@@ -1009,23 +997,7 @@
       "url": "https://open.spotify.com/track/68kxRiEjmwrPkBGVuZDORg"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "KrOWN Audio liner",
-        "url": "https://open.spotify.com/album/2B771JlCe7EZCzmdm5znrl"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 1484,
-      "name": "KrOWN_The Queitt",
-      "url": "https://open.spotify.com/track/1kiXwsc9Cin8qkwAIoDEI3"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SS-POP",
         "url": "https://open.spotify.com/album/2KqaJruJkE1lPcY4tFkk4E"
@@ -1045,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3b4YlIUpzYs3CZ6s9GVmzT"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KC3",
         "url": "https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G"
@@ -1077,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5eEDo5Um0Uk0b9wGoMaQsE"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv"
@@ -1093,7 +1065,23 @@
       "url": "https://open.spotify.com/track/7rxXBnYHNAmqVyX6pG3j0h"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
+      "album": {
+        "name": "KrOWN Audio liner",
+        "url": "https://open.spotify.com/album/2B771JlCe7EZCzmdm5znrl"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 1484,
+      "name": "KrOWN_The Queitt",
+      "url": "https://open.spotify.com/track/1kiXwsc9Cin8qkwAIoDEI3"
+    },
+    {
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "TUNE",
         "url": "https://open.spotify.com/album/3mLkcFbi2NdMolyo0TpPtC"
@@ -1121,7 +1109,7 @@
       "url": "https://open.spotify.com/track/3OiLJkTtaqqWjPxz6HNV2V"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "MAGIC STATION 3",
         "url": "https://open.spotify.com/album/5bfp65d5V6OsO28iSLGM0U"
@@ -1145,7 +1133,7 @@
       "url": "https://open.spotify.com/track/4W7gobReApuodhfQ9Qhi4B"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Wanna",
         "url": "https://open.spotify.com/album/2ougvzwHXimsjNfkc2YSSz"
@@ -1161,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7BKt9GKyWzJI9FkgnFJjfZ"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "ALLDAY PROJECT",
         "url": "https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA"
@@ -1185,7 +1173,7 @@
       "url": "https://open.spotify.com/track/0MTI88R1tdCE4vaVT0Rtg1"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Flaunt It",
         "url": "https://open.spotify.com/album/3HrgBPjUiDasVVSmzuN4JL"
@@ -1209,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4okfE89XctMbbLqf2dxB57"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "LIT",
         "url": "https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi"
@@ -1229,7 +1217,7 @@
       "url": "https://open.spotify.com/track/63JxE7DAQ7S8ZXoIj2V8VX"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Rich or Die ll",
         "url": "https://open.spotify.com/album/1VaiOIuMr3cpVXBKwyq2Gl"
@@ -1249,7 +1237,7 @@
       "url": "https://open.spotify.com/track/78Qkm2TAe2TxJZJUnoLmss"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "BANGING!",
         "url": "https://open.spotify.com/album/6tP3fsEnK5xnhsttWPXclb"
@@ -1269,7 +1257,7 @@
       "url": "https://open.spotify.com/track/4UQZhXSoEnuRXZHDRml5zl"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "CLUTCH",
         "url": "https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM"
@@ -1285,7 +1273,7 @@
       "url": "https://open.spotify.com/track/4PwpCXLyyBNvyTRSUEE0t8"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
@@ -1301,7 +1289,7 @@
       "url": "https://open.spotify.com/track/5S0QxfYABBoLI4sMk2aCa2"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "BOYCOLD 3",
         "url": "https://open.spotify.com/album/42zOIi0SBowNvOPa7VQi5N"
@@ -1321,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6F8LDvBMvRi8WasuiuSfvb"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "SCORPIO000-^",
         "url": "https://open.spotify.com/album/7LfaWJGHbqMxIcXRwMx4Bh"
@@ -1341,7 +1329,7 @@
       "url": "https://open.spotify.com/track/1pcgk6NU0pKKJDLzRcjxph"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Addicted Love (feat. Gist)",
         "url": "https://open.spotify.com/album/0HIwMeMGNxCdCnWo5AvMGp"
@@ -1365,7 +1353,7 @@
       "url": "https://open.spotify.com/track/7s5YVKQ1fj2PjP9ZWobqtl"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv"
@@ -1381,23 +1369,7 @@
       "url": "https://open.spotify.com/track/2MWbPP8RDmdFSKCvsw7Fyw"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
-      "album": {
-        "name": "KrOWN Audio liner",
-        "url": "https://open.spotify.com/album/3OfvCGuNRQFNlxU4Jx0mFT"
-      },
-      "artists": [
-        {
-          "name": "Tiger JK, Yoon Mirae",
-          "url": "https://open.spotify.com/artist/4HcMimBMYDLM2iIxfrAIpE"
-        }
-      ],
-      "duration_ms": 1874,
-      "name": "KrOWN_Tiger JK & Yoon Mirae",
-      "url": "https://open.spotify.com/track/6tzJNiVAvg8uX3I3nF2SKk"
-    },
-    {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/37FotBNUfhWIHHX0BVCYw7"
@@ -1429,7 +1401,7 @@
       "url": "https://open.spotify.com/track/5eC84hN3UbRhSfnJLdUNLv"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Woof",
         "url": "https://open.spotify.com/album/792IXu80qNMlTEKzgHWBOt"
@@ -1469,7 +1441,7 @@
       "url": "https://open.spotify.com/track/4lBovgReWT7psGKYdwWSl3"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "COD",
         "url": "https://open.spotify.com/album/5ssQa9mK2mDH8z0mwyx6HS"
@@ -1485,7 +1457,7 @@
       "url": "https://open.spotify.com/track/5VlypxNApg0yJOL4zuB7vt"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv"
@@ -1501,7 +1473,7 @@
       "url": "https://open.spotify.com/track/1jhu4DIgzxXzULoUWrGXAa"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "@whereissein",
         "url": "https://open.spotify.com/album/0Hl1JmHKfrerIT1v87HDbs"
@@ -1525,7 +1497,7 @@
       "url": "https://open.spotify.com/track/7lBwDlQdO4LM2uKGOIPQ1f"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "LIT",
         "url": "https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi"
@@ -1545,7 +1517,7 @@
       "url": "https://open.spotify.com/track/6XMcXLuIjssYamdsep7itb"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "MAGIC STATION 1",
         "url": "https://open.spotify.com/album/2dxvaQ3N7QBu51mnaLrV0Y"
@@ -1573,7 +1545,7 @@
       "url": "https://open.spotify.com/track/4LCNhbhOlXvR5P8tH6dSr4"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "CLUTCH",
         "url": "https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM"
@@ -1593,7 +1565,7 @@
       "url": "https://open.spotify.com/track/0deGjHATm7Hc1oJwqii1l3"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv"
@@ -1609,7 +1581,7 @@
       "url": "https://open.spotify.com/track/2eS89Cssm8OvWX9yRHgdug"
     },
     {
-      "added_at": "2026-01-19 14:53:10",
+      "added_at": "2026-01-22 09:00:17",
       "album": {
         "name": "KrOWN audio liner",
         "url": "https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn"

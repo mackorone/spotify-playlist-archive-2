@@ -3464,6 +3464,24 @@
     {
       "album": {
         "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic"
+    },
+    {
+      "album": {
+        "name": "B.M.S (by my side)",
         "url": "https://open.spotify.com/album/0f8ThJb81vjn9zQ5lQLS6w"
       },
       "artists": [
@@ -8704,7 +8722,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-19",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "De quoi",
       "url": "https://open.spotify.com/track/6q5NIbriDuG8MX9udQIbYq"
@@ -13728,7 +13746,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 206666,
       "name": "HADAK ZINE",
       "url": "https://open.spotify.com/track/5J4Vzfzs8r0og2EQW3dh96"
@@ -21798,7 +21816,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 224000,
       "name": "Medical",
       "url": "https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN"

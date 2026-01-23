@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "R&B and good vibe tracks for your current mood. Cover: Ella Mai",
+  "description": "R&B and good vibe tracks for your current mood. Cover: Gen Neo",
   "name": "mood. ",
   "tracks": [
     {
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 209599,
       "name": "B&B: TIGER EYES",
       "url": "https://open.spotify.com/track/6fExsa3A8ApTz9yeSJ8K6Q"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 221428,
       "name": "BACK 2 YOU",
       "url": "https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09"
@@ -4359,6 +4359,28 @@
     },
     {
       "album": {
+        "name": "Chicken Crisp (FKD Remix)",
+        "url": "https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek"
+      },
+      "artists": [
+        {
+          "name": "HALLEY",
+          "url": "https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2"
+        },
+        {
+          "name": "FKD",
+          "url": "https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "Chicken Crisp - FKD Remix",
+      "url": "https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8"
+    },
+    {
+      "album": {
         "name": "I Wish I Didn\u2019t Waste Your Time",
         "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
       },
@@ -5835,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
+    },
+    {
+      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -6846,7 +6886,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 156831,
       "name": "Easy (feat. Justin Vasquez)",
       "url": "https://open.spotify.com/track/0KiYhC8ZFrA8UwbUDdlqhe"
@@ -8040,6 +8080,24 @@
       "duration_ms": 242651,
       "name": "Feeling So Bright",
       "url": "https://open.spotify.com/track/51E8kKqDnLtbzCvdj1rtp5"
+    },
+    {
+      "album": {
+        "name": "Feeling You",
+        "url": "https://open.spotify.com/album/7Ih5TaB7SA4IZX0HAAZ4B4"
+      },
+      "artists": [
+        {
+          "name": "ABOY",
+          "url": "https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "Feeling You",
+      "url": "https://open.spotify.com/track/5JHFKtlj7J2TpRFCJmkl4b"
     },
     {
       "album": {
@@ -11764,6 +11822,24 @@
       "duration_ms": 240631,
       "name": "I Needed Love",
       "url": "https://open.spotify.com/track/1MPUuUI5bRntoFQFnsmiLV"
+    },
+    {
+      "album": {
+        "name": "i see red",
+        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176138,
+      "name": "i see red",
+      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
     },
     {
       "album": {
@@ -16592,7 +16668,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 200000,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b"
@@ -21278,7 +21354,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 120000,
       "name": "SAN ANDREAS",
       "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
@@ -22348,7 +22424,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 188437,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/1J3tvOCgipXOLEXQb21fbP"
@@ -22758,7 +22834,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 201034,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/7nY4LhLAJgzNRWvM82B5uH"
@@ -22888,6 +22964,24 @@
       "duration_ms": 209062,
       "name": "Sober",
       "url": "https://open.spotify.com/track/63XOmEjKXpqP6D8Xgn9Gf4"
+    },
+    {
+      "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224498,
+      "name": "Sofa Joy",
+      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
     },
     {
       "album": {
@@ -23163,6 +23257,24 @@
     },
     {
       "album": {
+        "name": "taste",
+        "url": "https://open.spotify.com/album/6fNbY74XzcyDYZsWN6Wq5m"
+      },
+      "artists": [
+        {
+          "name": "PYC",
+          "url": "https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182950,
+      "name": "Spider-Guy",
+      "url": "https://open.spotify.com/track/0vVes6HtFoIGzwqOBeMe32"
+    },
+    {
+      "album": {
         "name": "Spite",
         "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
       },
@@ -23352,7 +23464,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 200500,
       "name": "Stay the Whole Night",
       "url": "https://open.spotify.com/track/2IW0hvYpJ0mIknsNjTCuaB"
@@ -24148,6 +24260,24 @@
       "duration_ms": 205500,
       "name": "swan song",
       "url": "https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/3Jge97aDjxTviMZsnhI5J4"
+      },
+      "artists": [
+        {
+          "name": "Jamegolotus",
+          "url": "https://open.spotify.com/artist/4WJHHbKaR6ZuhBrenMOj41"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248746,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6XJkUNg0IJB014weMpIkcv"
     },
     {
       "album": {
@@ -26153,6 +26283,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/5Q9uXyP4fZpvyVPxnbi9zD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
+    },
+    {
+      "album": {
         "name": "BLONDE & BLUE",
         "url": "https://open.spotify.com/album/28o56S8zvYByZDg6MjGN9c"
       },
@@ -26738,7 +26904,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 188000,
       "name": "unsaid",
       "url": "https://open.spotify.com/track/52KCHvo4qZRGqiu3W7hk17"

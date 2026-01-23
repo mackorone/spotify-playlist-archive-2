@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-256 songs - 12 hr 36 min
+257 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Apologize \- Hardstyle Remix](https://open.spotify.com/track/089FqgSQaS1oacHI0jLHBP) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [DJ Ross](https://open.spotify.com/artist/70yj8eIE94z38CM2kfsXQL), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Apologize \(Hardstyle Remix\)](https://open.spotify.com/album/3wjGKwaZvfZnWqOfVgzkme) | 2:44 | 2023-04-06 | 2023-04-18 |
 | [Arabian Nights](https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Bram Boender](https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob) | [Arabian Nights](https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX) | 3:17 | 2024-03-28 | 2025-03-06 |
 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 | 2022-12-05 |  |
-| [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 | 2023-01-26 |  |
+| [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 | 2023-01-26 | 2026-01-23 |
 | [Axel F \- Hardstyle Version](https://open.spotify.com/track/1C1LUNAqsWNFPCO72KGZNp) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [Axel F \(Hardstyle Version\)](https://open.spotify.com/album/3s0sRHXF2NM37B2bs236qG) | 2:33 | 2022-12-05 | 2023-01-27 |
 | [Baby Don't Hurt Me \- Hardstyle](https://open.spotify.com/track/218oKGgUWwtDe5ZA1sv20S) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [NoCheats](https://open.spotify.com/artist/6SkC0MpuTbiTmj8y2Gd4Xt), [HARDSTYLE MAGE](https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV) | [Baby Don't Hurt Me \(Hardstyle\)](https://open.spotify.com/album/4RADAuJkqBRoIEzUGDAAkp) | 3:18 | 2023-08-24 | 2024-02-09 |
 | [Bad Boys \- Harddance Mix](https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Bad Boys \(Harddance Mix\)](https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc) | 2:53 | 2023-02-02 | 2023-04-14 |
@@ -111,6 +111,7 @@
 | [Greedy \- Hardstyle](https://open.spotify.com/track/1KHusrvEKsDlrCBIbP6zW1) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [HARDSTYLE MAGE](https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV) | [Greedy \(Hardstyle\)](https://open.spotify.com/album/42y4q221pyzCuce0B7pdvf) | 2:33 | 2024-05-23 | 2024-07-13 |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-02-09 |  |
 | [Hangover](https://open.spotify.com/track/6HgeLV4tJi30yZV1pBg5sT) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Hangover](https://open.spotify.com/album/5eNjBM5cT4BHQfsoXnkwo8) | 2:50 | 2025-10-20 |  |
+| [Happy Together](https://open.spotify.com/track/0HRysbhpdaoVBl9WCGlYYo) | [LARSTIG & GASDROP](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Happy Together](https://open.spotify.com/album/1EptdHIKHhyY5yQyhhnaBw) | 3:13 | 2026-01-22 |  |
 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 | 2023-07-01 |
 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 | 2023-02-09 | 2024-11-13 |
 | [Heaven](https://open.spotify.com/track/3IE5UTMNyhe6CPYnrqIOnR) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX), [Mary Lena](https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf) | [Heaven](https://open.spotify.com/album/5ADhBaElYoDGhF99ZZKJ6v) | 3:47 | 2024-12-20 | 2025-11-21 |

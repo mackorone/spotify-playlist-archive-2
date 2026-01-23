@@ -1,6 +1,6 @@
 {
   "description": "Latest music from Bismil, Shaan,  Anweshaa and more.",
-  "num_followers": 86457,
+  "num_followers": 86486,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Bismil",
-          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
-        },
-        {
           "name": "Kunaal Vermaa",
           "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Bismil",
+          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
         },
         {
           "name": "Aditya Dev",

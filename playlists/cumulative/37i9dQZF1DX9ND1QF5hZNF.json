@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 150491,
       "name": "AWGAZI (Sunset Remix)",
       "url": "https://open.spotify.com/track/4AgxONQTltUnOfMJuiLQDk"
@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Better This Way",
+        "url": "https://open.spotify.com/album/4ymuRB5INBr69XMCLV5vQP"
+      },
+      "artists": [
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/3S3tXaY97971Cp4QV6B8cV"
+    },
+    {
+      "album": {
         "name": "Birds Of A Feather",
         "url": "https://open.spotify.com/album/2R9kC6LuDxu8DHkAhY2Zub"
       },
@@ -1056,6 +1074,24 @@
       "duration_ms": 156500,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/2sru5unW8B5KguId0rGVA0"
+    },
+    {
+      "album": {
+        "name": "Burn For You",
+        "url": "https://open.spotify.com/album/2beJDljAe8tVxEZMvm1jcP"
+      },
+      "artists": [
+        {
+          "name": "BEAUMARCHAIS",
+          "url": "https://open.spotify.com/artist/3yC7olUrcDiQ4mcLVozqqP"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Burn For You",
+      "url": "https://open.spotify.com/track/5FGLK3pKWRtEo6ZUvpy6eP"
     },
     {
       "album": {
@@ -1666,7 +1702,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 176854,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1sxy07nZ8K16IUI3neA8WI"
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 140497,
       "name": "Feel The Rush",
       "url": "https://open.spotify.com/track/17ltimzBOi4LFLZFfMFn70"
@@ -4575,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "On The Ground",
+        "url": "https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134244,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
+    },
+    {
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/4jdElywFwzza2oid6HotlN"
       },
@@ -4700,7 +4754,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 178000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
@@ -5194,6 +5248,28 @@
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
+    },
+    {
+      "album": {
+        "name": "Quero",
+        "url": "https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "In\u00e1",
+          "url": "https://open.spotify.com/artist/0qA4dxIMSPVxjKBiczVHQv"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Quero",
+      "url": "https://open.spotify.com/track/57uV62QQp0kiwBwpZjgarH"
     },
     {
       "album": {

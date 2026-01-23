@@ -515,6 +515,22 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
+      "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
         "name": "Horns Riot",
         "url": "https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "\u30cf\u30eb\u30b7\u30e5\u30e9",
-      "url": "https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "Ready?",
         "url": "https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "\u591c\u9593\u822a\u8def - Album Mix",
-      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "Tangerine Peel Jam",
         "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 275000,
       "name": "Tailwind",
       "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "\u591c\u9593\u822a\u8def - Album Mix",
+      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
     },
     {
       "added_at": "2026-01-21 03:25:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 452866,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "Ordinary Landscape",
         "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 256133,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 452866,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
     },
     {
       "added_at": "2026-01-21 03:25:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-01-21 03:25:20",
       "album": {
-        "name": "Re:Tokage",
-        "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
-      },
-      "artists": [
-        {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
-        }
-      ],
-      "duration_ms": 265731,
-      "name": "Nica's Dream",
-      "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
-    },
-    {
-      "added_at": "2026-01-21 03:25:20",
-      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 415733,
       "name": "WOLF",
       "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
+    },
+    {
+      "added_at": "2026-01-21 03:25:20",
+      "album": {
+        "name": "Re:Tokage",
+        "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 265731,
+      "name": "Nica's Dream",
+      "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
     },
     {
       "added_at": "2026-01-21 03:25:20",

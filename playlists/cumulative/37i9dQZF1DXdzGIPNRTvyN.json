@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 170400,
       "name": "As Time Passes By",
       "url": "https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z"
@@ -6062,6 +6062,24 @@
       "duration_ms": 166315,
       "name": "Stillness Blooming",
       "url": "https://open.spotify.com/track/65qpTz4zM5FBj1DfP30L2z"
+    },
+    {
+      "album": {
+        "name": "Stillness Within",
+        "url": "https://open.spotify.com/album/1fs79wJdEOXxyv0GUxfOuJ"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2026-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "Stillness Within",
+      "url": "https://open.spotify.com/track/49nLhd2akfHVZaYLgEg5lD"
     },
     {
       "album": {

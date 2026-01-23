@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,492 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,495 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 7 | [drüber](https://open.spotify.com/track/6Nba0kHJYsPaPZ575l2huu) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [drüber](https://open.spotify.com/album/32Iwnr4veZIN6DfBvlGjup) | 2:11 |
 | 8 | [4 am](https://open.spotify.com/track/02E8qv06f7gm7q1tontVZh) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [SEKTION 4](https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra) | 4:11 |
 | 9 | [Pretty Words](https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Pretty Words](https://open.spotify.com/album/6qEbR3N1Gvf9TGTUnUBqST) | 3:02 |
-| 10 | [Lonely](https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Lonely](https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X) | 2:40 |
-| 11 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
-| 12 | [laufen wir zusammen](https://open.spotify.com/track/5d5G6tTUaZcZovudQMdW42) | [Zackavelli](https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk) | [MASI](https://open.spotify.com/album/6Oys1wD8ZKLfIxyqkMf9gp) | 1:42 |
-| 13 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
-| 14 | [Dimelo](https://open.spotify.com/track/0EExLvFDjUzoonMODtXkOm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Dimelo](https://open.spotify.com/album/72rHHjp2UVsp6DlfSLToHu) | 3:18 |
+| 10 | [Bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
+| 11 | [Lonely](https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Lonely](https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X) | 2:40 |
+| 12 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
+| 13 | [laufen wir zusammen](https://open.spotify.com/track/5d5G6tTUaZcZovudQMdW42) | [Zackavelli](https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk) | [MASI](https://open.spotify.com/album/6Oys1wD8ZKLfIxyqkMf9gp) | 1:42 |
+| 14 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 15 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
 | 16 | [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 |
 | 17 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 83 | [OMG](https://open.spotify.com/track/4ykEkTdH5eTkt7qRxfMard) | [LEDU](https://open.spotify.com/artist/5ViMWZ1otsSujBRFjNG4RI) | [OMG](https://open.spotify.com/album/09UNrpKJgqEs29yfZQZwph) | 2:01 |
 | 84 | [Blinde Passagiere](https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Schiffe Versenken \(tape\)](https://open.spotify.com/album/1rrBIh1c1off8NJmY5Ltnx) | 3:06 |
 
-Snapshot ID: `AAAAABg7CenlfHDfUZgNGeCLIa4QMp89`
+Snapshot ID: `AAAAAIBdo7+cKlL6mo9V8wvPLEmXHllH`

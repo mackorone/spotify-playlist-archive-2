@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 44581,
+  "num_followers": 44617,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Make Way For The Sun",
         "url": "https://open.spotify.com/album/7CAfzXeR5jTdPAx5UCP8Di"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/1bSfVVhaBtPkDUGCvbijZB"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
-      },
-      "artists": [
-        {
-          "name": "Ullah",
-          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
-        }
-      ],
-      "duration_ms": 216628,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "In Limerence",
         "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 269280,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
+      },
+      "artists": [
+        {
+          "name": "Ullah",
+          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+        }
+      ],
+      "duration_ms": 216628,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Embody",
-        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
-      },
-      "artists": [
-        {
-          "name": "Tessi Nandi",
-          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "Embody",
-      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Electric Hour",
         "url": "https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 330199,
       "name": "Even if it's Just a Dream",
       "url": "https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Embody",
+        "url": "https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "Embody",
+      "url": "https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1491,38 +1491,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Antarctica / Neon Lights",
-        "url": "https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "I think we should just move in together",
-        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
-      },
-      "artists": [
-        {
-          "name": "Min Taka",
-          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
-        }
-      ],
-      "duration_ms": 245836,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "POOR CHOICES",
         "url": "https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE"
       },
@@ -1539,6 +1507,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Antarctica / Neon Lights",
+        "url": "https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 197113,
       "name": "Door",
       "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "I think we should just move in together",
+        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "duration_ms": 245836,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "when i paint my masterpiece",
-        "url": "https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 155583,
-      "name": "something in the wind",
-      "url": "https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "LEECHES",
         "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 151384,
       "name": "LEECHES",
       "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "when i paint my masterpiece",
+        "url": "https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 155583,
+      "name": "something in the wind",
+      "url": "https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C"
     },
     {
       "added_at": "2025-12-03 12:16:12",

@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Argyle",
-  "num_followers": 37872,
+  "num_followers": 37870,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 208166,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6OeXythS3OYZPmuWhEbbpq"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 172393,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7id2LNfW3yMky5ty7c33Rg"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 208166,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "mistaken for a while (OST Hundertdreizehn)",
         "url": "https://open.spotify.com/album/6j5RVTiV6OQZCGiumQiz5Z"
       },
@@ -387,34 +403,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
+        "name": "Si t'\u00e9tais l\u00e0",
+        "url": "https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
         }
       ],
-      "duration_ms": 205755,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 195840,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Si t'\u00e9tais l\u00e0",
-        "url": "https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN"
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
       "artists": [
         {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Si t'\u00e9tais l\u00e0",
-      "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
+      "duration_ms": 205755,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Longue Ride",
-        "url": "https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d"
-      },
-      "artists": [
-        {
-          "name": "Muddy Monk",
-          "url": "https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib"
-        }
-      ],
-      "duration_ms": 231759,
-      "name": "En Lea",
-      "url": "https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Love Me Better",
         "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 133200,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Longue Ride",
+        "url": "https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d"
+      },
+      "artists": [
+        {
+          "name": "Muddy Monk",
+          "url": "https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib"
+        }
+      ],
+      "duration_ms": 231759,
+      "name": "En Lea",
+      "url": "https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "Love Is A Lie",
         "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 180590,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Million de Mois",
-        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 177376,
-      "name": "Million de Mois",
-      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Loup Garou",
+        "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 186064,
+      "name": "Hamsterrad Tristesse",
+      "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "Devil On My Back",
         "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
@@ -1159,38 +1175,6 @@
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Sombrero",
-        "url": "https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 181900,
-      "name": "Sombrero",
-      "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "I've Got Everything",
-        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 181891,
-      "name": "I've Got Everything",
-      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1211,34 +1195,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Loup Garou",
-        "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
+        "name": "Sombrero",
+        "url": "https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi"
       },
       "artists": [
         {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
         }
       ],
-      "duration_ms": 186064,
-      "name": "Hamsterrad Tristesse",
-      "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
-        }
-      ],
-      "duration_ms": 122410,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
+      "duration_ms": 181900,
+      "name": "Sombrero",
+      "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1259,18 +1227,18 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+        "name": "I've Got Everything",
+        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
       },
       "artists": [
         {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+      "duration_ms": 181891,
+      "name": "I've Got Everything",
+      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1291,6 +1259,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 122410,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
+      },
+      "artists": [
+        {
+          "name": "Gigi Malua",
+          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
+        }
+      ],
+      "duration_ms": 145464,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
         "name": "My Name",
         "url": "https://open.spotify.com/album/6I8sRiChfrUucSW9CKkgrp"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 158666,
       "name": "My Name",
       "url": "https://open.spotify.com/track/4WhkLPLYFjz24tkIs3QMgO"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/2VSTDIH1sT7ZzxanLuShoG"
-      },
-      "artists": [
-        {
-          "name": "Gigi Malua",
-          "url": "https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh"
-        }
-      ],
-      "duration_ms": 145464,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-01-08 23:00:17",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3CaXGFfNIM4XgzaD43Wupk"
-      },
-      "artists": [
-        {
-          "name": "Pina Palau",
-          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
-        }
-      ],
-      "duration_ms": 172039,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/2mZ8H8DgGcLHLRTEzP3138"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY"
       },
@@ -1483,22 +1467,6 @@
       "duration_ms": 176949,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea"
-    },
-    {
-      "added_at": "2026-01-08 23:00:17",
-      "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "added_at": "2026-01-08 23:00:17",
@@ -1519,6 +1487,38 @@
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2026-01-08 23:00:17",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3CaXGFfNIM4XgzaD43Wupk"
+      },
+      "artists": [
+        {
+          "name": "Pina Palau",
+          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
+        }
+      ],
+      "duration_ms": 172039,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2mZ8H8DgGcLHLRTEzP3138"
     },
     {
       "added_at": "2026-01-08 23:00:17",

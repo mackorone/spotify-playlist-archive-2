@@ -71,22 +71,6 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Slid Off",
-        "url": "https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 140924,
-      "name": "Slid Off",
-      "url": "https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
         "name": "When It's Cold I'd Like to Die",
         "url": "https://open.spotify.com/album/0D7jPdOOrPARdIYCmY8d4X"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 256755,
       "name": "When It's Cold I'd Like to Die",
       "url": "https://open.spotify.com/track/1uSxWX6zhhqwoopRS0wWaa"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Slid Off",
+        "url": "https://open.spotify.com/album/4Bw2KMngDhPO4eMf6UOadH"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 140924,
+      "name": "Slid Off",
+      "url": "https://open.spotify.com/track/7nzQ7gSvYZFFfOUaX5GIIn"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "Not Free Money (with DENM)",
-        "url": "https://open.spotify.com/album/3qBY9BfELGiDnIT2XsEAGL"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "DENM",
-          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Not Free Money (with DENM)",
-      "url": "https://open.spotify.com/track/0GlDJWpDdKoOMAWs4doqPa"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 250237,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Not Free Money (with DENM)",
+        "url": "https://open.spotify.com/album/3qBY9BfELGiDnIT2XsEAGL"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Not Free Money (with DENM)",
+      "url": "https://open.spotify.com/track/0GlDJWpDdKoOMAWs4doqPa"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "NEON STATIC HEART",
-        "url": "https://open.spotify.com/album/5Eyftrd6kgMj4V2B9WjH1M"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rannells",
-          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
-        }
-      ],
-      "duration_ms": 236639,
-      "name": "NEON STATIC HEART",
-      "url": "https://open.spotify.com/track/2lgML4W6GqppjlhA3WSUw0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
         "name": "No Holding Back",
         "url": "https://open.spotify.com/album/0MTgVq18ZPBR2ZOsacaSHK"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 280800,
       "name": "No Holding Back",
       "url": "https://open.spotify.com/track/399GTaoH7mrK2o7Bl5DADN"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "NEON STATIC HEART",
+        "url": "https://open.spotify.com/album/5Eyftrd6kgMj4V2B9WjH1M"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        }
+      ],
+      "duration_ms": 236639,
+      "name": "NEON STATIC HEART",
+      "url": "https://open.spotify.com/track/2lgML4W6GqppjlhA3WSUw0"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -371,38 +371,6 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
-        "name": "KILLER QUEEN",
-        "url": "https://open.spotify.com/album/14fdv9A6JzUgZWPopwKctF"
-      },
-      "artists": [
-        {
-          "name": "SKARS",
-          "url": "https://open.spotify.com/artist/6tY1LHbUi3PpYgQocAF4tS"
-        }
-      ],
-      "duration_ms": 147701,
-      "name": "KILLER QUEEN",
-      "url": "https://open.spotify.com/track/4XZQ0afqfnJUOqLwjlHa4j"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
-        "name": "Man\u2019s Best Friend (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 232378,
-      "name": "Such A Funny Way",
-      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
       },
@@ -439,6 +407,38 @@
       "duration_ms": 188600,
       "name": "girl, get up. (feat. SZA)",
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "Man\u2019s Best Friend (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 232378,
+      "name": "Such A Funny Way",
+      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
+        "name": "KILLER QUEEN",
+        "url": "https://open.spotify.com/album/14fdv9A6JzUgZWPopwKctF"
+      },
+      "artists": [
+        {
+          "name": "SKARS",
+          "url": "https://open.spotify.com/artist/6tY1LHbUi3PpYgQocAF4tS"
+        }
+      ],
+      "duration_ms": 147701,
+      "name": "KILLER QUEEN",
+      "url": "https://open.spotify.com/track/4XZQ0afqfnJUOqLwjlHa4j"
     },
     {
       "added_at": "2026-01-16 05:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-01-16 05:00:00",
       "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/1onNrFOtcFj3bdHpBS6Zi7"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "duration_ms": 183517,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/0HjL890CF6dyZIW4EEdxyh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:00",
+      "album": {
         "name": "THY WILL BE DONE",
         "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
       },
@@ -503,26 +519,6 @@
       "duration_ms": 221047,
       "name": "BLOODSWEAT",
       "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
-    },
-    {
-      "added_at": "2026-01-16 05:00:00",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5ddS0tRhixWf5POuQqAUla"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 127730,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1WhOLRC0lbhXdoJKQmBR0Q"
     },
     {
       "added_at": "2026-01-16 05:00:00",

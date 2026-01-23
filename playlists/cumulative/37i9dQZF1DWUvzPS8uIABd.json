@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 292680,
       "name": "Ahdistuksen aika",
       "url": "https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul"
@@ -6915,6 +6915,24 @@
     },
     {
       "album": {
+        "name": "kirjeit\u00e4 (vol. 2) - EP",
+        "url": "https://open.spotify.com/album/0SlUBwldrPpS7ufzb7w2YS"
+      },
+      "artists": [
+        {
+          "name": "vivian",
+          "url": "https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191488,
+      "name": "limerence",
+      "url": "https://open.spotify.com/track/4Lbb0AXiMlCw5vLlx6JWFo"
+    },
+    {
+      "album": {
         "name": "Kippis",
         "url": "https://open.spotify.com/album/7fheOWyVoVXcazgxtTF6xr"
       },
@@ -7032,6 +7050,24 @@
       "duration_ms": 146333,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB"
+    },
+    {
+      "album": {
+        "name": "Lululai",
+        "url": "https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp"
+      },
+      "artists": [
+        {
+          "name": "Komiat",
+          "url": "https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Lululai",
+      "url": "https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1"
     },
     {
       "album": {
@@ -10340,7 +10376,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 148046,
       "name": "Paremmin nyt",
       "url": "https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb"
@@ -11280,7 +11316,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 192480,
       "name": "Rakastaa ja tulla rakastetuksi",
       "url": "https://open.spotify.com/track/5JAbhlQQZJZ0Ki0zsmqGH9"
@@ -11520,6 +11556,24 @@
       "duration_ms": 177407,
       "name": "Rauhaa",
       "url": "https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ"
+    },
+    {
+      "album": {
+        "name": "Ready To Leave",
+        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Monte",
+          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178815,
+      "name": "Ready To Leave",
+      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
     },
     {
       "album": {
@@ -12230,7 +12284,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 162920,
       "name": "Se Ei Mee Niin",
       "url": "https://open.spotify.com/track/6znnvDT7fkrAmhdIuWTzMj"
@@ -13786,6 +13840,24 @@
       "duration_ms": 203285,
       "name": "Taivas maan p\u00e4\u00e4ll\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/3KTHNZbs32k0NJCTxo59gA"
+    },
+    {
+      "album": {
+        "name": "Takatukka",
+        "url": "https://open.spotify.com/album/5qH8rw6CAseeQMccOMHSWb"
+      },
+      "artists": [
+        {
+          "name": "Antti Paalanen",
+          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Takatukka",
+      "url": "https://open.spotify.com/track/4ZC9E410eX5fMNWI5ITnHd"
     },
     {
       "album": {

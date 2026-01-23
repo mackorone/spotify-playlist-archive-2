@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1171,
+  "num_followers": 1170,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAM8p+N3TxDZw4FMxSZa0/Nr1zrW5Mt",
+  "snapshot_id": "AAAM9cpkOD4LaYY3iIgt3cjylxIQKFDP",
   "tracks": [
     {
       "added_at": "2025-12-11 13:51:04",
@@ -683,6 +683,54 @@
       "duration_ms": 301333,
       "name": "Mr. Collision",
       "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
+    },
+    {
+      "added_at": "2026-01-22 09:17:18",
+      "album": {
+        "name": "Wishing Me Dead",
+        "url": "https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53"
+      },
+      "artists": [
+        {
+          "name": "otobahn",
+          "url": "https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb"
+        }
+      ],
+      "duration_ms": 306382,
+      "name": "Wishing Me Dead",
+      "url": "https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv"
+    },
+    {
+      "added_at": "2026-01-22 16:52:43",
+      "album": {
+        "name": "Stuck 4 Ever",
+        "url": "https://open.spotify.com/album/0Ab4SlL146rVeC0Dn0QGbl"
+      },
+      "artists": [
+        {
+          "name": "Sophie Valerie",
+          "url": "https://open.spotify.com/artist/7APioRa2ZqrBCG0O9Z6N8b"
+        }
+      ],
+      "duration_ms": 139089,
+      "name": "Stuck 4 Ever",
+      "url": "https://open.spotify.com/track/6IbUHoJ5Kxp86xWB6yuIjx"
+    },
+    {
+      "added_at": "2026-01-22 16:52:56",
+      "album": {
+        "name": "Juvenile",
+        "url": "https://open.spotify.com/album/6mjFTZyrqWIhnRoDsTSbgj"
+      },
+      "artists": [
+        {
+          "name": "Elandra",
+          "url": "https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK"
+        }
+      ],
+      "duration_ms": 178386,
+      "name": "Juvenile",
+      "url": "https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

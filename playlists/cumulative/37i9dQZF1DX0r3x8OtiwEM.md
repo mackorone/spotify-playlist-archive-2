@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-760 songs - 2 day 23 hr 36 min
+761 songs - 2 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
-| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 |  |
+| [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 | 2026-01-23 |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
 | [Brama Wodna](https://open.spotify.com/track/3dA8Km8HoDQ4l5IwOwZinF) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Brama Wodna](https://open.spotify.com/album/3WGhH7gwbyL1Hxy33cK8Nx) | 6:20 | 2022-02-01 | 2022-05-04 |
 | [Braunkehlchen](https://open.spotify.com/track/56mGMAQHrQgiUGcNcJhCI0) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Braunkehlchen](https://open.spotify.com/album/67pxrtI3BA3cvaMJHgIc2P) | 11:11 | 2022-04-04 | 2022-07-21 |
@@ -205,6 +205,7 @@
 | [Elements of Trust \- Sanchez & Pietkun Remix](https://open.spotify.com/track/0TT6SbrHgkhmWx01S03jah) | [Gabriel Filip](https://open.spotify.com/artist/0RTHaVU7mWqrznMzZ9PwTP), [Pietkun](https://open.spotify.com/artist/2TAEAlmHigdK9FoOiSiruu), [Ignacio Sanchez](https://open.spotify.com/artist/61EaMjDo9dzzoU2FJVwWew) | [Elements of Trust](https://open.spotify.com/album/7aIdMrakwT0uSvy4CTsMjp) | 7:01 | 2019-08-06\* | 2019-09-13 |
 | [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 | 2023-11-27 | 2024-12-07 |
 | [Emerge As New](https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Emerge As New](https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM) | 5:10 | 2022-02-25 | 2022-07-19 |
+| [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 | 2026-01-16 |  |
 | [Equilibrium \- Boris Brejcha Remix](https://open.spotify.com/track/3ojT1sBQzT0nQhaVvj8vTW) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Equilibrium Remixes](https://open.spotify.com/album/4aI6KGvJ7S3ztEAzQIPNfA) | 8:44 | 2020-12-05 | 2021-01-15 |
 | [Equinox](https://open.spotify.com/track/1ChrKo4kd2LjRjANKZmzVQ) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Equinox](https://open.spotify.com/album/4bxnrXXhn0fIZF27fTGgs7) | 6:21 | 2020-09-19 | 2020-11-28 |
 | [Escape](https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Escape](https://open.spotify.com/album/3K0oeE9JISZIsZRclm2RCy) | 7:17 | 2022-11-26 | 2022-12-13 |

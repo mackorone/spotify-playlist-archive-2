@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,157 songs - 2 day 16 hr 41 min
+1,158 songs - 2 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 | 2023-08-28 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
+| [Fall Apart](https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Fall Apart](https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt) | 3:07 | 2026-01-22 |  |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-23 | 2023-05-18 |
 | [Fall Apart \- GHENGAR Remix](https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf) | [Fall Apart \(GHENGAR Remix\)](https://open.spotify.com/album/6fIBa7iKh7dbFt9m13o35N) | 3:48 | 2023-11-14 | 2024-02-24 |
 | [fall back](https://open.spotify.com/track/6OM3iwZdRPpgxI3j6kNfGR) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [fall back](https://open.spotify.com/album/3lMswHWl4cOJ3uiHITg9VW) | 2:45 | 2025-12-09 |  |

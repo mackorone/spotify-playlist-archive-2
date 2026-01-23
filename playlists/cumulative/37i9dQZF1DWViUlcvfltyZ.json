@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 SI! BOOM! VOIL\u00c0! in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Evita Polidoro in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 211440,
       "name": "A Luci Spente",
       "url": "https://open.spotify.com/track/6JLRMYtXE2rAEomsse0uns"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 219120,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 167594,
       "name": "ATTRICI ATTORI FEROCI MOTORI",
       "url": "https://open.spotify.com/track/6raYLiiBLFqP5z5RtyqhDG"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 182533,
       "name": "Banshee del fuoco",
       "url": "https://open.spotify.com/track/1akBDPKqFic0pTRU71oTIq"
@@ -7296,7 +7296,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 210381,
       "name": "Daniel J",
       "url": "https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS"
@@ -7336,6 +7336,24 @@
       "duration_ms": 167726,
       "name": "DAWN",
       "url": "https://open.spotify.com/track/0HVEm7pfJifjbLpizBiKmi"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/6pGxD33snYWGuKhNgWeuH5"
+      },
+      "artists": [
+        {
+          "name": "Motel Cecil",
+          "url": "https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145411,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/7o3F7Q0AHlWZdrjpmsUg6P"
     },
     {
       "album": {
@@ -7740,7 +7758,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 216341,
       "name": "Dimmi che",
       "url": "https://open.spotify.com/track/2s8ABiqmUbZ5oZldjBqA01"
@@ -7856,6 +7874,24 @@
       "duration_ms": 186624,
       "name": "Dio Perdona Rigan\u00f2",
       "url": "https://open.spotify.com/track/32PGvTgE2XnnOEA7q5iBSH"
+    },
+    {
+      "album": {
+        "name": "Dipende dalla storia",
+        "url": "https://open.spotify.com/album/6xK62EuY4HjVrQ97S7Aic8"
+      },
+      "artists": [
+        {
+          "name": "Altro",
+          "url": "https://open.spotify.com/artist/4ANK4BQnzUEvDqYSm6TLjt"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117007,
+      "name": "Dipende dalla storia",
+      "url": "https://open.spotify.com/track/7MvLxSRXMs8e95pXh2R8IR"
     },
     {
       "album": {
@@ -8202,7 +8238,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 131680,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/33qPEDmM71EGtV0t3mYJYj"
@@ -10316,6 +10352,24 @@
       "duration_ms": 189160,
       "name": "Fiocco",
       "url": "https://open.spotify.com/track/0yBaJyBsYUCZ81DJxwua3k"
+    },
+    {
+      "album": {
+        "name": "HOMO",
+        "url": "https://open.spotify.com/album/5QKEC7sTKcbFJepOJ9REoS"
+      },
+      "artists": [
+        {
+          "name": "Karakaz",
+          "url": "https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "FIORE A TESTA IN GI\u00d9",
+      "url": "https://open.spotify.com/track/1XNdMOwUjFoGHe6x28gm1Y"
     },
     {
       "album": {
@@ -12829,6 +12883,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/1gLjDGEA4KghlJN1m06hUu"
+      },
+      "artists": [
+        {
+          "name": "Grigio Scarlatto",
+          "url": "https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209846,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0eB4BW6dwcA5gX4RXtUmXE"
+    },
+    {
+      "album": {
         "name": "hold you down",
         "url": "https://open.spotify.com/album/2KlUcXnIxf7bA7AimMzUPB"
       },
@@ -14172,7 +14244,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 209706,
       "name": "Incontrami",
       "url": "https://open.spotify.com/track/5sEEGYYdJdYY5LCyNxIIoK"
@@ -14190,7 +14262,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 153000,
       "name": "incredibly stupidly fighting myself",
       "url": "https://open.spotify.com/track/4hzbHQQfdHdXmxNJPMP6HW"
@@ -15235,6 +15307,24 @@
     },
     {
       "album": {
+        "name": "Kundela Mawedi",
+        "url": "https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN"
+      },
+      "artists": [
+        {
+          "name": "Atabasca",
+          "url": "https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337241,
+      "name": "Kundela Mawedi",
+      "url": "https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD"
+    },
+    {
+      "album": {
         "name": "L'abisso",
         "url": "https://open.spotify.com/album/3MA9uoKQBKPx7aNuYVGJX3"
       },
@@ -15514,6 +15604,24 @@
       "duration_ms": 196886,
       "name": "La canzone pi\u00f9 triste",
       "url": "https://open.spotify.com/track/24KXWEGZLQ1FmTA44pIMIf"
+    },
+    {
+      "album": {
+        "name": "Levia Gravia",
+        "url": "https://open.spotify.com/album/78DFPCuRoZxj68xkT5GxPi"
+      },
+      "artists": [
+        {
+          "name": "ESERA",
+          "url": "https://open.spotify.com/artist/2Dwv2D7ndjkXjjimaM5UyX"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181516,
+      "name": "La Cattedrale Nel Deserto",
+      "url": "https://open.spotify.com/track/71kg30dxjWGKKc0rDngJkq"
     },
     {
       "album": {
@@ -16682,7 +16790,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 236769,
       "name": "Let's make a circle around my life and then stay out of it",
       "url": "https://open.spotify.com/track/4ZAZcfw70PAzDx9PJ5wlsZ"
@@ -19365,6 +19473,24 @@
     },
     {
       "album": {
+        "name": "Mucca rossa",
+        "url": "https://open.spotify.com/album/4qSWk6pKjkGn8uUJquiIut"
+      },
+      "artists": [
+        {
+          "name": "Edda",
+          "url": "https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "Mucca rossa",
+      "url": "https://open.spotify.com/track/1DNqb0Tv2tMl50yHIfocpD"
+    },
+    {
+      "album": {
         "name": "much more",
         "url": "https://open.spotify.com/album/36avXlagpCrPNjLPiY7qi3"
       },
@@ -19909,6 +20035,24 @@
     },
     {
       "album": {
+        "name": "Nerorgasmo",
+        "url": "https://open.spotify.com/album/7w5fmnH00zbvBmbu1UZ6RB"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Nerorgasmo",
+      "url": "https://open.spotify.com/track/6BmajVWQNfk7ZB0cGJncpT"
+    },
+    {
+      "album": {
         "name": "Nervosa",
         "url": "https://open.spotify.com/album/5QYiZwNxEQWbjzQOaPWkkr"
       },
@@ -20036,6 +20180,24 @@
       "duration_ms": 87399,
       "name": "New Fears",
       "url": "https://open.spotify.com/track/1cWNl11hN5VYdMpKZS1s6V"
+    },
+    {
+      "album": {
+        "name": "New Life (Berto)",
+        "url": "https://open.spotify.com/album/63HCBKGFMUoo8qT2um3Og6"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171546,
+      "name": "New Life (Berto)",
+      "url": "https://open.spotify.com/track/6wpb0WWJFei3wDIulhtEJI"
     },
     {
       "album": {
@@ -26868,7 +27030,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 301043,
       "name": "Shores",
       "url": "https://open.spotify.com/track/2j67lcVuHb853Li20wB95Y"
@@ -29686,7 +29848,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 220285,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/5JAep5rCtwuk3LjYfKMCdX"
@@ -32612,6 +32774,24 @@
       "duration_ms": 310746,
       "name": "Volta",
       "url": "https://open.spotify.com/track/4brHfnE6AXNdwNg9ByQdrr"
+    },
+    {
+      "album": {
+        "name": "Wowo",
+        "url": "https://open.spotify.com/album/1pAWsW0ybSDIdFtegs1QyI"
+      },
+      "artists": [
+        {
+          "name": "Crema",
+          "url": "https://open.spotify.com/artist/4GtBX42yjYsNPVBjinHUpP"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Vorrei",
+      "url": "https://open.spotify.com/track/1F2MhenVool2wWoeUykTC7"
     },
     {
       "album": {

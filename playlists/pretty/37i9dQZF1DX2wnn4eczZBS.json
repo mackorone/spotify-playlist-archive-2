@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11170,
+  "num_followers": 11173,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -236,7 +236,7 @@
           "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
         }
       ],
-      "duration_ms": 172058,
+      "duration_ms": 172941,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
     },
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-01-12 09:51:56",
       "album": {
-        "name": "Levelen",
-        "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
-      },
-      "artists": [
-        {
-          "name": "Don Melody Club",
-          "url": "https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY"
-        }
-      ],
-      "duration_ms": 248544,
-      "name": "Levelen",
-      "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
-    },
-    {
-      "added_at": "2026-01-12 09:51:56",
-      "album": {
         "name": "Abrikoos",
         "url": "https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 169750,
       "name": "Abrikoos",
       "url": "https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO"
+    },
+    {
+      "added_at": "2026-01-12 09:51:56",
+      "album": {
+        "name": "Levelen",
+        "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
+      },
+      "artists": [
+        {
+          "name": "Don Melody Club",
+          "url": "https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY"
+        }
+      ],
+      "duration_ms": 248544,
+      "name": "Levelen",
+      "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
     },
     {
       "added_at": "2026-01-12 09:51:56",

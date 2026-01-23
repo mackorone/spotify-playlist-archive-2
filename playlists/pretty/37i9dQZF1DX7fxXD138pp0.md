@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > Sombrero 🤠? listo ✅ Lightstick? lista ✅ la nueva cultura de Música Mexicana x kpop está aquí 🔥🎧 x La Invasora
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,258 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,252 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

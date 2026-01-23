@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "A estas alturas",
+        "url": "https://open.spotify.com/album/6TjqVi3szqHGOXtaHKMbqt"
+      },
+      "artists": [
+        {
+          "name": "Michael Foster",
+          "url": "https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164565,
+      "name": "A estas alturas",
+      "url": "https://open.spotify.com/track/3ZN6k7GoNmhhjs7FDyA2ML"
+    },
+    {
+      "album": {
         "name": "A la luz de las farolas / Tren a Marte",
         "url": "https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA"
       },
@@ -3098,6 +3116,24 @@
       "duration_ms": 228208,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/75EtQp5j0rwRQXq0pgEkR7"
+    },
+    {
+      "album": {
+        "name": "Haz ruido mientras puedas",
+        "url": "https://open.spotify.com/album/0NEETkJEB7NjCu6a24Fb75"
+      },
+      "artists": [
+        {
+          "name": "Drugos",
+          "url": "https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149198,
+      "name": "Dejarlo estar",
+      "url": "https://open.spotify.com/track/0KdEAmSY8hnZZ5WxKaocxf"
     },
     {
       "album": {
@@ -10148,7 +10184,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 238871,
       "name": "Palomas",
       "url": "https://open.spotify.com/track/7BI3kNzigH6ZPv0VUjAOd9"
@@ -10612,7 +10648,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 169426,
       "name": "Por tierras escocesas - En directo Altxerri 2023",
       "url": "https://open.spotify.com/track/6PkdZl6zBob3FZvPjYYG2n"
@@ -11046,7 +11082,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
@@ -12772,6 +12808,28 @@
       "duration_ms": 257127,
       "name": "Todo lo que soy",
       "url": "https://open.spotify.com/track/1RNa9QJIxFvr0QJZ4zmXCq"
+    },
+    {
+      "album": {
+        "name": "Todo Parece Mentira",
+        "url": "https://open.spotify.com/album/6YgNpTo1cLEpT5zlVcpeHn"
+      },
+      "artists": [
+        {
+          "name": "Amigo Buster",
+          "url": "https://open.spotify.com/artist/2Ic6ydo8wxtfwn6XSMyGFE"
+        },
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231025,
+      "name": "Todo Parece Mentira",
+      "url": "https://open.spotify.com/track/1azGmjCk0yOQk6Vej6iHiX"
     },
     {
       "album": {

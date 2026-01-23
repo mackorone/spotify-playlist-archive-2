@@ -638,7 +638,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 355963,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/3F3rxHeVip60UIolkWpuEx"
@@ -5668,7 +5668,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 246317,
       "name": "Higher Spirit",
       "url": "https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq"
@@ -7468,7 +7468,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 253313,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"

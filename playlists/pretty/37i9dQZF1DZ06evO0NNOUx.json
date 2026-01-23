@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 180782,
+  "num_followers": 180955,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aW7FgAAAAADO07Tdxn52NSIGCE2iAVLD",
+  "snapshot_id": "aXAXAAAAAABOD9f2fjPfE8jz1remHUHj",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SELAH",
-        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 202602,
-      "name": "SELAH",
-      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD II (BACK TO BACK)",
         "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 164754,
       "name": "THROUGH THE NIGHT",
       "url": "https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SELAH",
+        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 202602,
+      "name": "SELAH",
+      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 151905,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD II (BACK TO BACK)",
         "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 230197,
       "name": "MISUNDERSTOOD",
       "url": "https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 151905,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
     },
     {
       "added_at": null,

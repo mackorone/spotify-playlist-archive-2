@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,372 likes - 244 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,359 likes - 244 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 243 | [Sömn](https://open.spotify.com/track/03QlFnQhyY20WHY08UAh6o) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Sömn](https://open.spotify.com/album/5AProLtUw6DJI1ITFJHC6O) | 3:01 |
 | 244 | [Probability](https://open.spotify.com/track/2pIXx5vgOv3hXfaelZCi2X) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Probability](https://open.spotify.com/album/4YOM1HkiAalYRnxGfV1PiR) | 2:36 |
 
-Snapshot ID: `AAAAAEO7Kkweq+w6arpXNmTruT7y35hJ`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

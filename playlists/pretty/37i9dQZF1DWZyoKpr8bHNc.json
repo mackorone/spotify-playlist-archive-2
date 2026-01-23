@@ -1,6 +1,6 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 98260,
+  "num_followers": 98370,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
@@ -427,38 +427,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Legend - The Best Of Fairuz",
-        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 349266,
-      "name": "Sallimleh Alayh",
-      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "Rege'et Wahdi",
-        "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
-      },
-      "artists": [
-        {
-          "name": "Wadih El Safi",
-          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "Al Yadi El Yadi",
-      "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Melodies from Lebanon",
         "url": "https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR"
       },
@@ -483,18 +451,34 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Aghany Film Nagham Fi Hayati",
-        "url": "https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9"
+        "name": "Rege'et Wahdi",
+        "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
       },
       "artists": [
         {
-          "name": "Farid al-Atrash",
-          "url": "https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw"
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
         }
       ],
-      "duration_ms": 505000,
-      "name": "Ya Habaiby Ya Ghaiben",
-      "url": "https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa"
+      "duration_ms": 193375,
+      "name": "Al Yadi El Yadi",
+      "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Legend - The Best Of Fairuz",
+        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 349266,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -511,6 +495,22 @@
       "duration_ms": 448962,
       "name": "Ya Mesafer Wahdak",
       "url": "https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Aghany Film Nagham Fi Hayati",
+        "url": "https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9"
+      },
+      "artists": [
+        {
+          "name": "Farid al-Atrash",
+          "url": "https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw"
+        }
+      ],
+      "duration_ms": 505000,
+      "name": "Ya Habaiby Ya Ghaiben",
+      "url": "https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Aghany Film Hikayet El Omr Kolloh - Zaman Ya Hob",
-        "url": "https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk"
-      },
-      "artists": [
-        {
-          "name": "Farid al-Atrash",
-          "url": "https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw"
-        }
-      ],
-      "duration_ms": 457810,
-      "name": "Laktob Aourak El Chagar",
-      "url": "https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 160413,
       "name": "Ya Tera Tiri",
       "url": "https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Aghany Film Hikayet El Omr Kolloh - Zaman Ya Hob",
+        "url": "https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk"
+      },
+      "artists": [
+        {
+          "name": "Farid al-Atrash",
+          "url": "https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw"
+        }
+      ],
+      "duration_ms": 457810,
+      "name": "Laktob Aourak El Chagar",
+      "url": "https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Aghany Film Nagham Fi Hayati",
-        "url": "https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9"
-      },
-      "artists": [
-        {
-          "name": "Farid al-Atrash",
-          "url": "https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw"
-        }
-      ],
-      "duration_ms": 453493,
-      "name": "Hebbina Hebbina",
-      "url": "https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Nwina Al Jaze",
         "url": "https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 308226,
       "name": "Nwina Al Jazi Nwina",
       "url": "https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Aghany Film Nagham Fi Hayati",
+        "url": "https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9"
+      },
+      "artists": [
+        {
+          "name": "Farid al-Atrash",
+          "url": "https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw"
+        }
+      ],
+      "duration_ms": 453493,
+      "name": "Hebbina Hebbina",
+      "url": "https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Agmal Aghany Laila Mourad",
-        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
-      },
-      "artists": [
-        {
-          "name": "Laila Mourad",
-          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
-        }
-      ],
-      "duration_ms": 332291,
-      "name": "Ana Alby Daleely",
-      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Nwina Al Jaze",
         "url": "https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 415040,
       "name": "Ya Ahl El Hawa",
       "url": "https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Agmal Aghany Laila Mourad",
+        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
+      },
+      "artists": [
+        {
+          "name": "Laila Mourad",
+          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
+        }
+      ],
+      "duration_ms": 332291,
+      "name": "Ana Alby Daleely",
+      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
     },
     {
       "added_at": "2025-09-15 06:53:21",

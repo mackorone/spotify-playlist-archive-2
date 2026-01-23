@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover: Moses Bliss",
+  "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
   "name": "Testify",
   "tracks": [
     {
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 207529,
       "name": "GOD IS GOOD",
       "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
@@ -3860,6 +3860,24 @@
       "duration_ms": 621265,
       "name": "Greatest Name",
       "url": "https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN"
+    },
+    {
+      "album": {
+        "name": "Gudu Gudu",
+        "url": "https://open.spotify.com/album/4fuTMGMYEcpXIkJzeV8DAy"
+      },
+      "artists": [
+        {
+          "name": "Prexy Sam Ola",
+          "url": "https://open.spotify.com/artist/5iRkivmqchrmNzDst3gS3l"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221875,
+      "name": "Gudu Gudu",
+      "url": "https://open.spotify.com/track/7GcV1YSYuxB1nYZQOnhROZ"
     },
     {
       "album": {
@@ -6962,7 +6980,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 300878,
       "name": "Obinasom",
       "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
@@ -9569,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "We Raise a Sound",
+        "url": "https://open.spotify.com/album/0l1LJyoNwsfrke5QjfM8v3"
+      },
+      "artists": [
+        {
+          "name": "Mour Raguel",
+          "url": "https://open.spotify.com/artist/5K9fToEU0EtgqJj3y2UL4z"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180192,
+      "name": "We Raise a Sound",
+      "url": "https://open.spotify.com/track/334MZUSITwEEyzKnB9dwEE"
+    },
+    {
+      "album": {
         "name": "We're Amazed (Live Worship At \"The Word\"), Vol. 2",
         "url": "https://open.spotify.com/album/5BwH6myV4UNSBnzsP4jsnf"
       },
@@ -9702,6 +9738,24 @@
       "duration_ms": 194580,
       "name": "What Are We Waiting For? (The Single)",
       "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
+    },
+    {
+      "album": {
+        "name": "Churchboy's Project",
+        "url": "https://open.spotify.com/album/0NZHBunV8MvoPDvww1Xk4M"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158064,
+      "name": "Who did it?",
+      "url": "https://open.spotify.com/track/2QbgofsZEpfnFtEEis9TIN"
     },
     {
       "album": {

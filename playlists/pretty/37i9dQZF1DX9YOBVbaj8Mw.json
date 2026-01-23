@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19301,
+  "num_followers": 19299,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Tango Porcjarza",
+      "url": "https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Tango Porcjarza",
-      "url": "https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k"
     },
     {
       "added_at": "2025-04-06 08:27:45",

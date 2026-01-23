@@ -1,13 +1,45 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Al Xapo, Benzoo, Eeque",
-  "num_followers": 1156323,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Tyler ICU",
+  "num_followers": 1156785,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyvsTnHKNBgeU/EbpTI++LM8Jjb",
+  "snapshot_id": "AAAAAK7JPAlO3gvDiOD4BNPkil/c+7EA",
   "tracks": [
+    {
+      "added_at": "2026-01-22 22:00:26",
+      "album": {
+        "name": "Fada Xmas Akekho (feat. AI Xapo & Optimist Music ZA)",
+        "url": "https://open.spotify.com/album/1Jb6o4jwiEZnBew57ApJwP"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "AI Xapo",
+          "url": "https://open.spotify.com/artist/3rSySlu2lsTfLbZd6Dlj2i"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "duration_ms": 391941,
+      "name": "Fada Xmas Akekho (feat. AI Xapo & Optimist Music ZA)",
+      "url": "https://open.spotify.com/track/0dtwZyP1U4oyUcktOPmTjX"
+    },
     {
       "added_at": "2026-01-08 22:00:06",
       "album": {
@@ -1427,30 +1459,6 @@
       "duration_ms": 377427,
       "name": "Hhay wena Maan (feat. Scotts Maphuma & Uncool MC)",
       "url": "https://open.spotify.com/track/5BpPQrkIre8tlDsBSBCPP4"
-    },
-    {
-      "added_at": "2026-01-08 22:00:06",
-      "album": {
-        "name": "Amazwi Okubonga",
-        "url": "https://open.spotify.com/album/5i4SCQfgYUJ0tZNRsxz9mF"
-      },
-      "artists": [
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
-        },
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        }
-      ],
-      "duration_ms": 274337,
-      "name": "Imenemene",
-      "url": "https://open.spotify.com/track/0TsOul1Z6hc8ORx9D6BoLA"
     }
   ],
   "unique_name": "AMAPIANO GROOVES",

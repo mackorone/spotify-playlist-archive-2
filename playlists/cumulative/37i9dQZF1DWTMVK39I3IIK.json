@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mercedess",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Rigmor",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Delete Forever",
+        "url": "https://open.spotify.com/album/6vns0F3lPj9nkAuQ3BxUzu"
+      },
+      "artists": [
+        {
+          "name": "100%WET",
+          "url": "https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Delete Forever",
+      "url": "https://open.spotify.com/track/5hsvL0N22UBECtZFEezvC6"
+    },
+    {
+      "album": {
         "name": "Dem, Vi Plejede At V\u00e6re",
         "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
       },
@@ -1812,6 +1830,24 @@
       "duration_ms": 172235,
       "name": "Fanget I En Dr\u00f8m",
       "url": "https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF"
+    },
+    {
+      "album": {
+        "name": "februar",
+        "url": "https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6r",
+          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208314,
+      "name": "februar",
+      "url": "https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT"
     },
     {
       "album": {
@@ -2597,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Holder mig v\u00e5gen",
+        "url": "https://open.spotify.com/album/3ZlHpSNsQTqcWBhNsUEzTS"
+      },
+      "artists": [
+        {
+          "name": "Rigmor",
+          "url": "https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201067,
+      "name": "Holder mig v\u00e5gen",
+      "url": "https://open.spotify.com/track/1EIba7fWI4mec9i8J7YMId"
+    },
+    {
+      "album": {
         "name": "Hope I don't need it",
         "url": "https://open.spotify.com/album/5xekVatNyBScf4BBFlPAve"
       },
@@ -3262,7 +3316,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 233503,
       "name": "Jeg Ved At Jeg Intet Ved",
       "url": "https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu"
@@ -3576,7 +3630,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 194937,
       "name": "Kys f\u00f8r fald",
       "url": "https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz"
@@ -4056,6 +4110,24 @@
       "duration_ms": 106909,
       "name": "Mouse Tag",
       "url": "https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4"
+    },
+    {
+      "album": {
+        "name": "moving in",
+        "url": "https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245342,
+      "name": "moving in",
+      "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
     },
     {
       "album": {
@@ -4844,7 +4916,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 196526,
       "name": "Regnvejr",
       "url": "https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP"
@@ -5912,7 +5984,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"

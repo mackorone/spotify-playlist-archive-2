@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 661722,
+  "num_followers": 661800,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Garage Girls",
+        "url": "https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M"
+      },
+      "artists": [
+        {
+          "name": "Lonyo",
+          "url": "https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "Garage Girls - Sunship Radio Edit",
+      "url": "https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Ain't No Stoppin Us (Oracles Remix)",
         "url": "https://open.spotify.com/album/2Yay81iM1lJlNAwtxQO9EC"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 342906,
       "name": "Ain't No Stoppin Us - Oracles Mix",
       "url": "https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Garage Girls",
-        "url": "https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M"
-      },
-      "artists": [
-        {
-          "name": "Lonyo",
-          "url": "https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz"
-        },
-        {
-          "name": "Sunship",
-          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Garage Girls - Sunship Radio Edit",
-      "url": "https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Neighbourhood",
+        "url": "https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR"
+      },
+      "artists": [
+        {
+          "name": "Zed Bias",
+          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Neighbourhood - Radio Mix",
+      "url": "https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Masterblaster 2000",
         "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 332746,
       "name": "Masterblaster 2000 - Oracles Remix",
       "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Neighbourhood",
-        "url": "https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR"
-      },
-      "artists": [
-        {
-          "name": "Zed Bias",
-          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Neighbourhood - Radio Mix",
-      "url": "https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo"
     },
     {
       "added_at": "2024-10-06 08:09:55",

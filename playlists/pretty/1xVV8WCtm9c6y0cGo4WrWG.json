@@ -1,12 +1,12 @@
 {
   "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Lil Baby",
-  "num_followers": 23010,
+  "num_followers": 23007,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAkAwS1f6m1WCZGkEe+DDkLyxciOzmF",
+  "snapshot_id": "AAAkB8y4rojIojHp7KMmp6tbyMyBT7Pf",
   "tracks": [
     {
       "added_at": "2026-01-09 15:57:09",
@@ -73,9 +73,45 @@
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
+      "added_at": "2026-01-22 14:17:29",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-01-22 14:16:51",
+      "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Mrs. Trendsetter",
+      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
+    },
+    {
       "added_at": "2026-01-09 15:57:09",
       "album": {
-        "name": "Don't Insult Me (Ft. Twin)",
+        "name": "DONT INSULT ME (Ft. Twin)",
         "url": "https://open.spotify.com/album/0TGlyGLvtfBiLinxVVYzKc"
       },
       "artists": [
@@ -85,7 +121,7 @@
         }
       ],
       "duration_ms": 163738,
-      "name": "Don't Insult Me (Ft. Twin)",
+      "name": "DONT INSULT ME (Ft. Twin)",
       "url": "https://open.spotify.com/track/7xSHMDxxllvvh0ZNotHI0q"
     },
     {

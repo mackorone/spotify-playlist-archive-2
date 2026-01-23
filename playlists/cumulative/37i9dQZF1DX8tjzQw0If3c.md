@@ -4,7 +4,7 @@
 
 > Listen to the future\. Cover: Fahimi
 
-262 songs - 14 hr 24 min
+264 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2024-06-27 | 2025-04-16 |
 | [CASABLANCA \- Acoustic Version](https://open.spotify.com/track/2atCPHbWYO1TbwDCUvEykK) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA \(Acoustic Version\)](https://open.spotify.com/album/1L5B9a6Fz8TOe32msb4S78) | 3:36 | 2025-09-08 | 2025-11-06 |
 | [CASHRULES](https://open.spotify.com/track/62L1fSACUVj8iYDnhTVMum) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [CASHRULES](https://open.spotify.com/album/5nv3k81qSs9q56Lfvo2cim) | 2:38 | 2025-04-15 |  |
+| [Catatan Kita](https://open.spotify.com/track/7GeCsDAdyO6SZGn6BjII4n) | [Caffeine](https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Catatan Kita](https://open.spotify.com/album/11kPpap9chXLlLHgDFcyEu) | 3:08 | 2026-01-23 |  |
 | [Cemburu](https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Cemburu](https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO) | 2:45 | 2024-06-27 | 2025-04-16 |
 | [Cham](https://open.spotify.com/track/4mp83ZaDrATKDkE3EDFFea) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cham](https://open.spotify.com/album/1esARCRsqpmwxUIdXP8uKA) | 3:35 | 2025-12-03 | 2026-01-17 |
 | [Chemistry](https://open.spotify.com/track/3dBRz9ntySZ6aoal6wwzsA) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Chemistry](https://open.spotify.com/album/5tmpsRvXovPQcVZmfDX8a8) | 3:32 | 2025-09-08 | 2025-10-17 |
@@ -254,6 +255,7 @@
 | [what if nobody kisses me?](https://open.spotify.com/track/4Mnb4rn1FgjbOtlXBmpsr1) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:54 | 2025-09-08 | 2025-11-06 |
 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2024-06-27 | 2024-12-05 |
 | [what would it take?](https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 4:10 | 2025-04-15 | 2025-09-09 |
+| [who u gon luv?](https://open.spotify.com/track/20nhihuA7KeXmCUI6qFoHw) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT) | [who u gon luv?](https://open.spotify.com/album/4tGLytQBWinIda9HFKqtm9) | 2:44 | 2026-01-23 |  |
 | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Aswad Anuar](https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR) | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T) | 3:32 | 2024-07-25 | 2025-04-16 |
 | [WTVR U LIKE](https://open.spotify.com/track/5OigaClxxYXyfrvYJyzdIg) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:48 | 2025-11-20 |  |
 | [XTCY](https://open.spotify.com/track/0pnzM7eCtqfMBDhXV89T35) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [XTCY](https://open.spotify.com/album/1JtxJBcW6bAU3HI8NwfsjE) | 3:23 | 2025-04-24 |  |

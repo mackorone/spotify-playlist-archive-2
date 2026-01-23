@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7OfGslpHp1.md) - [plain]
 
 > 主題歌アーティストが選出する、TVアニメ「正反対な君と僕」にインスパイヤされた、青春ラブコメのプレイリスト。Highschool rom\-com playlist inspired by "You and I Are Polar Opposites"\.  Tracks selected by the OPED Artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599 likes - 31 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622 likes - 31 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7OfGslpHp1.md) - [plain]
 | 30 | [sakura\(cherry blossom\)](https://open.spotify.com/track/4ebXmkHj2GVLhSvI48DVXH) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [sakura](https://open.spotify.com/album/6rCZW9dqxsTecPKY8TD25h) | 4:35 |
 | 31 | [Gift](https://open.spotify.com/track/6N1JVYdW0hbb1Db5q1tZLB) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLAMP学園探偵団 ソング・コレクション](https://open.spotify.com/album/6hBQMScD0FxTrSb9eSY2Q5) | 5:50 |
 
-Snapshot ID: `AAAAAIFcd22O/accUgDIU1EV+bEP+8xp`
+Snapshot ID: `AAAAAEHRuafMG71Mip0My0jLxSzsViPF`

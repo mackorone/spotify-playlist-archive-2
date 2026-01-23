@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124466,
+  "num_followers": 124458,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVB+8becHK9QNMcoA/LqnIoncpl6n2",
+  "snapshot_id": "AAAVCNiy5+mTNRF5G++S7gGFp0LbGz76",
   "tracks": [
+    {
+      "added_at": "2026-01-22 15:19:21",
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo"
+    },
     {
       "added_at": "2026-01-21 15:49:47",
       "album": {

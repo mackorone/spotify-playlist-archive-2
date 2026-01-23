@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/1GWFNX3RLjCYveWd5Y7jwK"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193934,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5JOw9e0lY7jOZBqJkQRobz"
+    },
+    {
+      "album": {
         "name": "asem",
         "url": "https://open.spotify.com/album/3eWqe3ZDHqK3ssXTwtOp2e"
       },
@@ -3970,7 +3988,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 238555,
       "name": "Fire",
       "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
@@ -5798,6 +5816,36 @@
       "duration_ms": 219029,
       "name": "Knees & Bend II - Remix",
       "url": "https://open.spotify.com/track/2TRpqKAo2M1uSPzjKaBfy9"
+    },
+    {
+      "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/4wiNGqclgsmEuR0nAwl8Hh"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        },
+        {
+          "name": "Yaa Jackson",
+          "url": "https://open.spotify.com/artist/2qktfKyDHjPaZs5UxdUaD9"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214455,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/30e6LzqnrCbfwbJQHZsCFB"
     },
     {
       "album": {
@@ -10802,7 +10850,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 201869,
       "name": "Terry Bonchaka",
       "url": "https://open.spotify.com/track/21AxRJVvN79UfvAiIBfPYz"

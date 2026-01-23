@@ -2799,7 +2799,7 @@
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2025](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
 - [HITS 2026 \- Today's Top Songs](/playlists/pretty/5iwkYfnHAGMEFLiHFFGnP4.md)
-- [HOT NOW \- Yandel & LATIN MAFIA](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Harry Styles](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [HOTPOP](/playlists/pretty/37i9dQZF1DXcklpCH5705e.md)
 - [HOUSE MUSIC 2026 🪩 100 BEST DANCE HITS 2026](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md)
 - [HUMO](/playlists/pretty/37i9dQZF1DXbONvB5b3uef.md)

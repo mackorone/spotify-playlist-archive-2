@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Dynamic Duo(\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Tiger JK & Yoon Mirae)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Sky Is The Limit",
+        "url": "https://open.spotify.com/album/7BfP9AvrYxSmxrXUpLxmMm"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282480,
+      "name": "8:45 Heaven",
+      "url": "https://open.spotify.com/track/4P9K00Tn5xOfXc5AIHvD3I"
+    },
+    {
+      "album": {
         "name": "9+9",
         "url": "https://open.spotify.com/album/7JZnzDDW8Nosost0lx4zLX"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
@@ -4331,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+    },
+    {
+      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -6362,7 +6398,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 231386,
       "name": "Chool Check (Feat. Naul For Brown Eyed Soul)",
       "url": "https://open.spotify.com/track/4ZF6Qks7QaEr0lxaLoCxQP"
@@ -13460,7 +13496,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 224893,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
@@ -15738,7 +15774,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 269466,
       "name": "I Know (Feat. Paloalto)",
       "url": "https://open.spotify.com/track/1U7vLmcbfFZlON91MLXjxz"
@@ -17537,6 +17573,24 @@
     },
     {
       "album": {
+        "name": "Gemini 2",
+        "url": "https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "KawiBawiBo",
+      "url": "https://open.spotify.com/track/01vq87Iljp87jY3wg9730c"
+    },
+    {
+      "album": {
         "name": "KC3",
         "url": "https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G"
       },
@@ -18212,10 +18266,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 346602,
       "name": "KrOWN: Interview with Dynamicduo",
       "url": "https://open.spotify.com/episode/6aV8LfejNJtVjJQKIHCSJO"
+    },
+    {
+      "album": {
+        "name": "KrOWN: The Interview",
+        "url": "https://open.spotify.com/album/3JrcIcYWyEUAp9gufWziSN"
+      },
+      "artists": [
+        {
+          "name": "KrOWN: The Interview",
+          "url": "https://open.spotify.com/show/3JrcIcYWyEUAp9gufWziSN"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359859,
+      "name": "KrOWN: Interview with Yoon Mi-rae & Tiger JK",
+      "url": "https://open.spotify.com/episode/7r28l99rZVWtytStgsa9AG"
     },
     {
       "album": {
@@ -18844,7 +18916,7 @@
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
+          "name": "YOON MIRAE",
           "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         },
         {
@@ -18854,7 +18926,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 189373,
       "name": "LAW (Prod. Czaer)",
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
@@ -22358,7 +22430,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 249680,
       "name": "Mother's Soulfood (Feat. Ra.D)",
       "url": "https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1"
@@ -22608,7 +22680,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 217626,
       "name": "MSG (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v"
@@ -25859,6 +25931,24 @@
     },
     {
       "album": {
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225332,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/6i59KdhALPJ9GhjDwc89Pb"
+    },
+    {
+      "album": {
         "name": "EARL",
         "url": "https://open.spotify.com/album/4MBhCiUivbI1uYle0vP1Ss"
       },
@@ -26168,7 +26258,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 206173,
       "name": "PITAPA (Feat. pH-1, JUNNY)",
       "url": "https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4"
@@ -27730,7 +27820,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 279146,
       "name": "Resume Pt.2",
       "url": "https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp"
@@ -30588,7 +30678,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 209546,
       "name": "Smoke (Prod. Dynamicduo, Padi)",
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
@@ -33542,13 +33632,13 @@
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
+          "name": "YOON MIRAE",
           "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 236747,
       "name": "The Scent of Life",
       "url": "https://open.spotify.com/track/039K4B6V38d38WzSkchtyx"
@@ -33778,7 +33868,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-23",
       "duration_ms": 254400,
       "name": "Three Dopeboyz (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/74Q5gW006ZD5iIaVYB1EhO"
@@ -34040,6 +34130,28 @@
       "duration_ms": 233470,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a"
+    },
+    {
+      "album": {
+        "name": "Drunken Tiger X: Rebirth of Tiger Jk",
+        "url": "https://open.spotify.com/album/0dSDs3V1AH4jANHJueedGV"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215798,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3wRn6i5bOJPAUg9trFSRCN"
     },
     {
       "album": {
@@ -39294,7 +39406,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 233966,
       "name": "\ub09c \ub110 \uc6d0\ud574",
       "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
@@ -39342,6 +39454,24 @@
       "duration_ms": 193567,
       "name": "\ub108",
       "url": "https://open.spotify.com/track/3b4YlIUpzYs3CZ6s9GVmzT"
+    },
+    {
+      "album": {
+        "name": "Year of The Tiger",
+        "url": "https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220609,
+      "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
+      "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
     },
     {
       "album": {
@@ -39638,6 +39768,24 @@
       "duration_ms": 167626,
       "name": "\uc138\uc0c1 \ub530\uc704 F****** World (Feat. BewhY)",
       "url": "https://open.spotify.com/track/39MGKenCfPdkFkEfa2PYyX"
+    },
+    {
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "date_added": "2026-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200843,
+      "name": "\uc18c\uc678\ub41c \ubaa8\ub450, \uc67c\ubc1c\uc744 \ud55c \ubcf4 \uc55e\uc73c\ub85c!",
+      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
     },
     {
       "album": {

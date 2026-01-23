@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 308,
+  "num_followers": 312,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABGSJbUJA2YXV5H8Yob61Fh6+YnhgP",
+  "snapshot_id": "AAABHzGmbh7QxEcKOPJSXMb0J5ruqRhD",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -859,6 +859,102 @@
       "duration_ms": 240000,
       "name": "Telara\u00f1as",
       "url": "https://open.spotify.com/track/5spl7FjpG0W0btjh3OwLXg"
+    },
+    {
+      "added_at": "2026-01-22 03:56:08",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB"
+      },
+      "artists": [
+        {
+          "name": "Gradience",
+          "url": "https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4"
+        }
+      ],
+      "duration_ms": 248045,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/7HU5o7PS2iWtSFQNmc42Ol"
+    },
+    {
+      "added_at": "2026-01-22 04:02:53",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP"
+    },
+    {
+      "added_at": "2026-01-22 04:09:33",
+      "album": {
+        "name": "My Tribe - EP",
+        "url": "https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh"
+      },
+      "artists": [
+        {
+          "name": "Harold Payne",
+          "url": "https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC"
+        }
+      ],
+      "duration_ms": 207566,
+      "name": "Break the Chain",
+      "url": "https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7"
+    },
+    {
+      "added_at": "2026-01-22 04:12:35",
+      "album": {
+        "name": "Diagnostics",
+        "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Diagnostics",
+      "url": "https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev"
+    },
+    {
+      "added_at": "2026-01-22 15:24:12",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr"
+      },
+      "artists": [
+        {
+          "name": "Edgeline",
+          "url": "https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB"
+        }
+      ],
+      "duration_ms": 225334,
+      "name": "Burn It Faster",
+      "url": "https://open.spotify.com/track/3boHJrQo46C772vzvsWXyf"
+    },
+    {
+      "added_at": "2026-01-22 15:34:08",
+      "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/2300qonTPP24PHDOv62WqB"
+      },
+      "artists": [
+        {
+          "name": "Jack Dahlqvist",
+          "url": "https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI"
+        }
+      ],
+      "duration_ms": 205075,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0JJGV5lyQ2mji50PHu0Gce"
     }
   ],
   "unique_name": "Local Rock Bands",

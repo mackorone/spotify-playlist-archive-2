@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Begüm Yiğit Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,421 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,496 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 69 | [Fırtına](https://open.spotify.com/track/1n3WKpR0Asp6UFea0XE4gb) | [Buğse](https://open.spotify.com/artist/0RXrkwnayH71BlgAGZsbsv) | [Fırtına](https://open.spotify.com/album/2zq1h9TmIEoTbpa1l9Cjd7) | 3:12 |
 | 70 | [Bozuk Saat](https://open.spotify.com/track/18S4kjnoXM8VMdElj3kgJJ) | [Furkan Manav](https://open.spotify.com/artist/7LSzS0yUdt2aL4vPnOvZLh) | [Bozuk Saat](https://open.spotify.com/album/7DF9FBiMNebLvy11GVuh3R) | 4:45 |
 
-Snapshot ID: `AAAAAIA9t9dnGtkyfr53I9AObCMsPTkr`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`
